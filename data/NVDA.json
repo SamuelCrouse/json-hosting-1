@@ -1,5 +1,16 @@
 {
-    "articles": [],
-    "scrape_date": "2025-04-04T08:04:26.472636",
+    "articles": [
+        {
+            "headline": "All three major US stock indexes were slightly higher in late-morning trading Wednesday as Wall Stre",
+            "publication_date": "N/A",
+            "sentiment": "Neutral",
+            "sentimentScore": "0.0",
+            "source": "MT Newswires",
+            "ticker": "NVDA",
+            "title": "Top Midday Stories: Tesla Q1 Deliveries Drop 13% Year Over Year; Chinese Companies Order $16 Billion of Nvidia Chips in First 3 Months of 2025",
+            "url": "https://finance.yahoo.com/about/plans/select-plan/premiumNews/?.done=https%3A%2F%2Ffinance.yahoo.com%2Fnews%2Ftop-midday-stories-tesla-q1-152945160.html&ncid=100001128"
+        }
+    ],
+    "scrape_date": "2025-04-04T08:16:15.020636",
     "ticker": "NVDA"
 }

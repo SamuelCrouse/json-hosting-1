@@ -1,67 +1,308 @@
 {
-    "importantArticles": [
-        {
-            "headline": "How Has JP Morgan's Acquisition of First Republic Bank Impacted Growth",
-            "publication_date": "2025-04-04T18:41:21.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.6289",
-            "source": "GuruFocus.com",
-            "ticker": "JPM",
-            "title": "The Future of Banking: Insights from JP Morgan's Thesis",
-            "url": "https://finance.yahoo.com/news/future-banking-insights-jp-morgans-184121553.html"
-        },
-        {
-            "headline": "JPMorgan Chase (NYSE:JPM) recently experienced a 13% price decline amid a turbulent week for global markets. While initiatives such as launching the Money Smart Financial Coaching Program and appointing Carl Torrillo as Managing Director underline its strategic focus on expansion and leadership, the broader market's response to escalating trade tensions played a pivotal role in this downturn. With major indices like the S&P 500 and Nasdaq dropping significantly due to tariff concerns, JPM's...",
-            "publication_date": "2025-04-05T18:10:32.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.5994",
-            "source": "Simply Wall St.",
-            "ticker": "JPM",
-            "title": "JPMorgan Chase (NYSE:JPM) Drops 13% Following Trade Tension Impact",
-            "url": "https://finance.yahoo.com/news/jpmorgan-chase-nyse-jpm-drops-181032777.html"
-        },
-        {
-            "headline": "Yahoo Finance Head of News Myles Udland breaks down the top stories to watch this weekend and next week. President Trump's baseline 10% tariffs are set to take effect Saturday, April 5, and reciprocal tariffs will take effect Wednesday, April 9. Big banks will kick off earnings season next week, with JPMorgan (JPM), Wells Fargo (WFC), and Bank of New York Mellon (BK) to release earnings on Friday, April 11. Other companies will also be releasing earnings throughout the week, including Levi Strauss (LEVI), Tilray (TLRY), and Delta (DAL). Fresh inflation data will be coming out next week, including the Consumer Price Index (CPI) on Thursday, April 10 and the Producer Price Index (PPI) on Friday, April 11. Finally, on Wednesday, April 9, the Federal Reserve will release the meeting minutes for its most recent FOMC meeting. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime here.",
-            "publication_date": "2025-04-04T23:00:00.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.5606",
-            "source": "Yahoo Finance Video",
-            "ticker": "JPM",
-            "title": "Tariffs, bank earnings, CPI & PPI, FOMC minutes: What to Watch",
-            "url": "https://finance.yahoo.com/video/tariffs-bank-earnings-cpi-ppi-230000109.html"
-        },
-        {
-            "headline": "(Bloomberg) -- President Donald Trump and his economic team dismissed investors\u2019 fears of inflation and recession, offering no apologies for the market turmoil sparked by sweeping global tariffs and defiantly insisting a boom is on the horizon. Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersBoston Mayor Wu Embraces Trump Resistance as Campaign Heats UpThis Skinny Mexico City Tower Is Just 14 Feet Wide on One SideThe Irish Hot Press Is the Low-Tech Laundry Trick the Wo",
-            "publication_date": "2025-04-07T00:39:13.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.8591",
-            "source": "Bloomberg",
-            "ticker": "JPM",
-            "title": "Trump Rejects Market Rout Fears, Displays Defiance on Tariffs",
-            "url": "https://finance.yahoo.com/news/trump-team-rejects-market-fears-200729970.html"
-        },
-        {
-            "headline": "We all know that the banking business isn't subject to tariffs. But as cyclical operators, their business is heavily exposed to trends in the broader economy, which in turn is seen as weighed down by the ongoing tariffs uncertainty.",
-            "publication_date": "2025-04-05T00:48:00.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.5499",
-            "source": "Zacks",
-            "ticker": "JPM",
-            "title": "A Closer Look at Bank Stocks & Tariff Worries",
-            "url": "https://finance.yahoo.com/news/closer-look-bank-stocks-tariff-004800860.html"
-        },
-        {
-            "headline": "(Bloomberg) -- Deals in leveraged finance have stalled, and markets have been upended, raising the possibility that banks might once again get stuck with debt they\u2019ve committed for acquisitions.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersBoston Mayor Wu Embraces Trump Resistance as Campaign Heats UpThis Skinny Mexico City Tower Is Just 14 Feet Wide on One SideThe Irish Hot Press Is the Low-Tech Laundry Trick the World NeedsWhat Would \u2018Transportation Abundance\u2019 Look",
-            "publication_date": "2025-04-05T19:00:00.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.5267",
-            "source": "Bloomberg",
-            "ticker": "JPM",
-            "title": "Tariffs Stoke Fears That Hung Debt Will Return",
-            "url": "https://finance.yahoo.com/news/tariffs-stoke-fears-hung-debt-190000517.html"
-        }
-    ],
-    "avgScore": 0.041435294117647035,
-    "todayPctChange": -0.02648761890037936,
-    "vScore": -0.10975222796133652
+    "4 4 2025": {
+        "importantArticles": [
+            {
+                "headline": "Retail investors bought $4.7 billion in stocks on Thursday, the highest level over the past decade, JPMorgan said in a note on Friday.  The historic \"buy-to-dip\" move by retail investors included names such as Nvidia, Amazon and S&P exchange-traded funds, but they sold Tesla.  Small-cap technology was one of individuals' favorite sector picks amid the meltdown, while institutional investors have increased their bets against the sector.",
+                "publication_date": "2025-04-04T13:58:26.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7906",
+                "source": "Reuters",
+                "ticker": "JPM",
+                "title": "Retail investors buy stocks at largest level in 10 years, JPMorgan says",
+                "url": "https://finance.yahoo.com/news/retail-bought-stocks-largest-level-135826261.html"
+            },
+            {
+                "headline": "How Has JP Morgan's Acquisition of First Republic Bank Impacted Growth",
+                "publication_date": "2025-04-04T18:41:21.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6289",
+                "source": "GuruFocus.com",
+                "ticker": "JPM",
+                "title": "The Future of Banking: Insights from JP Morgan's Thesis",
+                "url": "https://finance.yahoo.com/news/future-banking-insights-jp-morgans-184121553.html"
+            },
+            {
+                "headline": "Yahoo Finance Head of News Myles Udland breaks down the top stories to watch this weekend and next week. President Trump's baseline 10% tariffs are set to take effect Saturday, April 5, and reciprocal tariffs will take effect Wednesday, April 9. Big banks will kick off earnings season next week, with JPMorgan (JPM), Wells Fargo (WFC), and Bank of New York Mellon (BK) to release earnings on Friday, April 11. Other companies will also be releasing earnings throughout the week, including Levi Strauss (LEVI), Tilray (TLRY), and Delta (DAL). Fresh inflation data will be coming out next week, including the Consumer Price Index (CPI) on Thursday, April 10 and the Producer Price Index (PPI) on Friday, April 11. Finally, on Wednesday, April 9, the Federal Reserve will release the meeting minutes for its most recent FOMC meeting. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime here.",
+                "publication_date": "2025-04-04T23:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5606",
+                "source": "Yahoo Finance Video",
+                "ticker": "JPM",
+                "title": "Tariffs, bank earnings, CPI & PPI, FOMC minutes: What to Watch",
+                "url": "https://finance.yahoo.com/video/tariffs-bank-earnings-cpi-ppi-230000109.html"
+            },
+            {
+                "headline": "J.P.Morgan ratcheted up its odds for a U.S. and global recession to 60%, as brokerages scrambled to revise their forecast models with tariff distress threatening to sap business confidence and slow down global growth.  The Trump administration imposed tariffs on dozens of countries earlier this week.  China retaliated on Friday with its own levies on U.S. goods, adding to worries about an escalating trade war and wreaking havoc on global financial markets.",
+                "publication_date": "2025-04-04T06:37:31.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.9393",
+                "source": "Reuters",
+                "ticker": "JPM",
+                "title": "Global brokerages raise recession odds; J.P.Morgan sees 60% chance",
+                "url": "https://finance.yahoo.com/news/j-p-morgan-lifts-global-063731761.html"
+            },
+            {
+                "headline": "(Bloomberg) -- European stocks tumbled into a correction on Friday as China retaliated against US tariffs, escalating the global trade war.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersWhat Would \u2018Transportation Abundance\u2019 Look Like?London Clears Final Hurdle for More High-Speed Trains to EuropeThe Stoxx Europe 600 Index slid 5.1% at the close in",
+                "publication_date": "2025-04-04T16:06:11.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5106",
+                "source": "Bloomberg",
+                "ticker": "JPM",
+                "title": "European Stocks Sink Into Correction as Trade Worries Escalate",
+                "url": "https://finance.yahoo.com/news/european-stocks-head-correction-china-151145833.html"
+            },
+            {
+                "headline": "(Bloomberg) -- One of Wall Street\u2019s most bearish Tesla Inc. analysts further reduced estimates for the company\u2019s earnings, citing the magnitude of car-buyer backlash against Elon Musk.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Would \u2018Transportation Abundance\u2019 Look Like?Tesla\u2019s",
+                "publication_date": "2025-04-04T13:33:49.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5106",
+                "source": "Bloomberg",
+                "ticker": "JPM",
+                "title": "Tesla Estimates Cut Further on \u2018Unprecedented Brand Damage\u2019",
+                "url": "https://finance.yahoo.com/news/tesla-estimates-cut-further-unprecedented-102345155.html"
+            }
+        ],
+        "avgScore": 0.10981666666666662
+    },
+    "4 3 2025": {
+        "importantArticles": [
+            {
+                "headline": "For many investors, dividend-focused stocks and funds provide a way to generate passive income, whether to supplement retirement, cover day-to-day expenses, or even finance small luxuries like annual vacations. While some aim for significant dividend payouts to replace their salary, others are happy with modest but constant returns that offer a little extra financial freedom. Don't Miss: Deloitte's fastest-growing software company partners with Amazon, Walmart & Target \u2013 Many are rushing to grab",
+                "publication_date": "2025-04-03T14:15:22.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9189",
+                "source": "Benzinga",
+                "ticker": "JPM",
+                "title": "Man With $30K To Deploy Wants Dividends For Life \u2013 'Even If It's Just Enough To Pay For A Yearly Vacation Here Or There,' Reddit Reacts",
+                "url": "https://finance.yahoo.com/news/man-30k-deploy-wants-dividends-141522984.html"
+            },
+            {
+                "headline": "JPMorgan Chase (NYSE:JPM) recently announced the appointment of Carl Torrillo to its Industrials Mid-Cap Banking division, a move that aligns with the company\u2019s ongoing executive and board changes. Despite this transition, JPM's share price saw a modest increase of 2.42% over the last quarter. This gain occurred amidst broader market turmoil, including new tariffs announced by President Trump, which led to declines in many sectors. While the Dow and S&P 500 faced significant pressure due to...",
+                "publication_date": "2025-04-03T17:31:23.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6124",
+                "source": "Simply Wall St.",
+                "ticker": "JPM",
+                "title": "JPMorgan Chase (NYSE:JPM) Appoints Carl Torrillo as Industrials Mid-Cap MD in New York",
+                "url": "https://finance.yahoo.com/news/jpmorgan-chase-nyse-jpm-appoints-173123071.html"
+            },
+            {
+                "headline": "Valuations are looking more appealing in the financial sector (XLF), particularly with banks trading at about half the valuation of the broader market. Zacks Investment Management client portfolio manager Brian Mulberry joins Market Domination to discuss how financial stocks like JPMorgan (JPM) and BNY Mellon (BK) stand out. To watch more expert insights and analysis on the latest market action, check out more Market Domination&nbsp;here.",
+                "publication_date": "2025-04-03T11:30:18.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.3182",
+                "source": "Yahoo Finance Video",
+                "ticker": "JPM",
+                "title": "Why these financial sector picks are winning in today's market",
+                "url": "https://finance.yahoo.com/video/why-financial-sector-picks-winning-113018475.html"
+            },
+            {
+                "headline": "(Bloomberg) -- The retail traders who have stormed the markets in recent years were among the only investors buying on Thursday as US stocks had their worst day since June 2020.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Would \u2018Transportation Abundance\u2019 Look Like?Small investor",
+                "publication_date": "2025-04-03T20:38:38.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.8126",
+                "source": "Bloomberg",
+                "ticker": "JPM",
+                "title": "Retail Traders Step In to Buy as Others Flee in Tariff Rout",
+                "url": "https://finance.yahoo.com/news/retail-traders-step-buy-others-203838411.html"
+            },
+            {
+                "headline": "(Bloomberg) -- Roughly $2.5 trillion was erased from the S&P 500 Index on Thursday amid worries that President Donald Trump\u2019s sweeping new round of tariffs could plunge the economy into a recession.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Would \u2018Transportation Abundance\u2019 Loo",
+                "publication_date": "2025-04-03T20:13:46.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.7269",
+                "source": "Bloomberg",
+                "ticker": "JPM",
+                "title": "Trump Tariffs Wipe Out $2.5 Trillion From US Stock Market",
+                "url": "https://finance.yahoo.com/news/trump-tariffs-set-wipe-nearly-120038363.html"
+            },
+            {
+                "headline": "(Bloomberg) -- The yield on benchmark Treasuries fell briefly below 4% for the first time since October as Wall Street fretted that the US economy will end up worse off from President Donald Trump\u2019s trade war.Most Read from BloombergMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesHousing Agency Aims to Relocate Its DC HeadquartersLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Would \u2018Transportation Abu",
+                "publication_date": "2025-04-03T18:00:58.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.6705",
+                "source": "Bloomberg",
+                "ticker": "JPM",
+                "title": "US 10-Year Yield Drops Below 4% for First Time Since Trump Won",
+                "url": "https://finance.yahoo.com/news/us-10-yield-drops-below-140544183.html"
+            }
+        ],
+        "avgScore": -0.16595
+    },
+    "4 2 2025": {
+        "importantArticles": [
+            {
+                "headline": "(Bloomberg) -- Beaten-down corporate bonds from automakers could rally after Wednesday\u2019s tariff announcement from US President Donald Trump, making the debt an attractive purchase, according to JPMorgan Chase & Co.Most Read from BloombergMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Frank Lloyd Wright Learned From the DesertLocal Governments Vie for Fired Federal WorkersChicago School District Agree",
+                "publication_date": "2025-04-02T16:02:04.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.1027",
+                "source": "Bloomberg",
+                "ticker": "JPM",
+                "title": "JPMorgan\u2019s Tariff-Day Trade Is Going Long on Automaker Bonds",
+                "url": "https://finance.yahoo.com/news/jpmorgan-tariff-day-trade-going-160204744.html"
+            },
+            {
+                "headline": "(Bloomberg) -- US government bonds erased gains that sent the five-year Treasury note\u2019s yield to the lowest level since October, led by rising European government bond yields after a report that the bloc is preparing to respond to any new tariffs.Most Read from BloombergMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Frank Lloyd Wright Learned From the DesertLocal Governments Vie for Fired Federal Wor",
+                "publication_date": "2025-04-02T16:29:23.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.4019",
+                "source": "Bloomberg",
+                "ticker": "JPM",
+                "title": "Treasury Yields Rebound With Europe\u2019s Before Tariff Unveiling",
+                "url": "https://finance.yahoo.com/news/treasuries-gain-trade-tensions-rise-112236258.html"
+            },
+            {
+                "headline": "(Bloomberg) -- Global lenders like JPMorgan Chase & Co. expect China to deliver its long-awaited monetary stimulus as soon as in April, with timing likely dictated by the double threat of US tariff hikes and a seasonal cash shortage.Most Read from BloombergWhat Frank Lloyd Wright Learned From the DesertLondon Clears Final Hurdle for More High-Speed Trains to EuropeMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersBank Regul",
+                "publication_date": "2025-04-02T03:26:24.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.6369",
+                "source": "Bloomberg",
+                "ticker": "JPM",
+                "title": "PBOC Seen Deploying Stimulus Soon on Tariff Risks, Cash Shortage",
+                "url": "https://finance.yahoo.com/news/pboc-seen-deploying-stimulus-soon-032624370.html"
+            },
+            {
+                "headline": "(Bloomberg) -- Wall Street trading desks disagree on many things, but there\u2019s one view they now seem to share: President Donald Trump\u2019s looming tariff announcement will likely exacerbate the S&P 500 Index selloff, at least in the near term.Most Read from BloombergMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Frank Lloyd Wright Learned From the DesertLocal Governments Vie for Fired Federal WorkersBan",
+                "publication_date": "2025-04-02T09:30:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.6369",
+                "source": "Bloomberg",
+                "ticker": "JPM",
+                "title": "Wall Street Trading Desks Warn S&P 500 Selloff Will Get Worse",
+                "url": "https://finance.yahoo.com/news/wall-street-trading-desks-warn-093000222.html"
+            },
+            {
+                "headline": "(Bloomberg) -- Global lenders like JPMorgan Chase & Co. expect China to deliver its long-awaited monetary stimulus as soon as in April, with timing likely dictated by the double threat of US tariff hikes and a seasonal cash shortage.Most Read from BloombergWhat Frank Lloyd Wright Learned From the DesertLondon Clears Final Hurdle for More High-Speed Trains to EuropeMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersBank Regul",
+                "publication_date": "2025-04-02T03:26:24.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.6369",
+                "source": "Bloomberg",
+                "ticker": "JPM",
+                "title": "PBOC Seen Deploying Stimulus Soon on Tariff Risks, Cash Shortage",
+                "url": "https://finance.yahoo.com/news/pboc-seen-deploying-stimulus-soon-032624370.html"
+            },
+            {
+                "headline": "(Bloomberg) -- US government bonds erased gains that sent the five-year Treasury note\u2019s yield to the lowest level since October, led by rising European government bond yields after a report that the bloc is preparing to respond to any new tariffs.Most Read from BloombergMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Frank Lloyd Wright Learned From the DesertLocal Governments Vie for Fired Federal Wor",
+                "publication_date": "2025-04-02T16:29:23.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.4019",
+                "source": "Bloomberg",
+                "ticker": "JPM",
+                "title": "Treasury Yields Rebound With Europe\u2019s Before Tariff Unveiling",
+                "url": "https://finance.yahoo.com/news/treasuries-gain-trade-tensions-rise-112236258.html"
+            }
+        ],
+        "avgScore": -0.4446
+    },
+    "4 1 2025": {
+        "importantArticles": [
+            {
+                "headline": "We recently published a list of Dividend Capture Strategy: 15 High Yield Stocks to Buy in April. In this article, we are going to take a look at where JPMorgan Chase & Co. (NYSE:JPM) stands against other best high yield stocks to buy in April. Dividend investing appears to be a simple strategy on the surface, [\u2026]",
+                "publication_date": "2025-04-01T14:17:15.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6369",
+                "source": "Insider Monkey",
+                "ticker": "JPM",
+                "title": "JPMorgan Chase & Co. (JPM): Among the Best High Yield Stocks to Buy in April for Dividend Capture",
+                "url": "https://finance.yahoo.com/news/jpmorgan-chase-co-jpm-among-141715818.html"
+            },
+            {
+                "headline": "J.P. Morgan Asset Management has announced that its JPMorgan Private Markets Fund has been added to the Schwab Alternative Investment OneSource platform.",
+                "publication_date": "2025-04-01T14:34:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.3612",
+                "source": "PR Newswire",
+                "ticker": "JPM",
+                "title": "JPMorgan Private Markets Fund (JPMF) is Added to the Schwab Alternative Investment OneSource\u00ae Platform",
+                "url": "https://finance.yahoo.com/news/jpmorgan-private-markets-fund-jpmf-143400981.html"
+            },
+            {
+                "headline": "Here then, is a look at two blue-chip companies that recently raised their dividends -- JPMorgan Chase (NYSE: JPM) and American Express (NYSE: AXP).  Nearly everything JPMorgan Chase does is on a large scale.",
+                "publication_date": "2025-04-01T09:30:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Motley Fool",
+                "ticker": "JPM",
+                "title": "Are You Missing Out on These 2 Recent Double-Digit Dividend Increases?",
+                "url": "https://finance.yahoo.com/news/missing-2-recent-double-digit-093000181.html"
+            },
+            {
+                "headline": "Charlie Javice, who faces a prison sentence of 14 to 17.5 years, unsuccessfully sought to portray JPMorgan Chase as careless.",
+                "publication_date": "2025-04-01T19:45:49.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.802",
+                "source": "Fortune",
+                "ticker": "JPM",
+                "title": "Wall Street hails Charlie Javice conviction\u2014but wonders how JPMorgan failed to catch young woman\u2019s $175 million fraud",
+                "url": "https://finance.yahoo.com/news/wall-street-hails-charlie-javice-194549681.html"
+            },
+            {
+                "headline": "In the closing of the recent trading day, JPMorgan Chase & Co. (JPM) stood at $243.66, denoting a -0.67% change from the preceding trading day.",
+                "publication_date": "2025-04-01T21:45:17.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "JPM",
+                "title": "JPMorgan Chase & Co. (JPM) Stock Sinks As Market Gains: What You Should Know",
+                "url": "https://finance.yahoo.com/news/jpmorgan-chase-co-jpm-stock-214517843.html"
+            },
+            {
+                "headline": "Style Box ETF report for BBSC",
+                "publication_date": "2025-04-01T10:20:04.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "JPM",
+                "title": "Should JPMorgan BetaBuilders U.S. Small Cap Equity ETF (BBSC) Be on Your Investing Radar?",
+                "url": "https://finance.yahoo.com/news/jpmorgan-betabuilders-u-small-cap-102004332.html"
+            }
+        ],
+        "avgScore": 0.03268333333333332
+    },
+    "3 31 2025": {
+        "importantArticles": [
+            {
+                "headline": "We recently published a list of 10 Best Very Cheap Stocks to Buy According to Billionaires In this article, we are going to take a look at where JPMorgan Chase & Co. (NYSE:JPM) stands against other best very cheap stocks to buy according to billionaires. Coming off 2 years of healthy broader market performance (~26% total [\u2026]",
+                "publication_date": "2025-03-31T15:34:59.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9022",
+                "source": "Insider Monkey",
+                "ticker": "JPM",
+                "title": "Is JPMorgan Chase & Co. (JPM) the Best Very Cheap Stock to Buy According to Billionaires?",
+                "url": "https://finance.yahoo.com/news/jpmorgan-chase-co-jpm-best-153459301.html"
+            },
+            {
+                "headline": "Charlie Javice and Olivier Amar face up to decades in prison for falsifying Frank\u2019s customer numbers amid its $175 million sale to JPMorgan Chase.",
+                "publication_date": "2025-03-31T12:47:20.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5106",
+                "source": "Banking Dive",
+                "ticker": "JPM",
+                "title": "Frank founder, chief growth officer convicted of fraud",
+                "url": "https://finance.yahoo.com/news/frank-founder-chief-growth-officer-124720653.html"
+            },
+            {
+                "headline": "Charlie Javice and Olivier Amar face up to decades in prison for falsifying Frank\u2019s customer numbers amid its $175 million sale to JPMorgan Chase.",
+                "publication_date": "2025-03-31T12:47:20.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5106",
+                "source": "Banking Dive",
+                "ticker": "JPM",
+                "title": "Frank founder, chief growth officer convicted of fraud",
+                "url": "https://finance.yahoo.com/news/frank-founder-chief-growth-officer-124720653.html"
+            },
+            {
+                "headline": "We recently published a list of 10 Best Very Cheap Stocks to Buy According to Billionaires In this article, we are going to take a look at where JPMorgan Chase & Co. (NYSE:JPM) stands against other best very cheap stocks to buy according to billionaires. Coming off 2 years of healthy broader market performance (~26% total [\u2026]",
+                "publication_date": "2025-03-31T15:34:59.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9022",
+                "source": "Insider Monkey",
+                "ticker": "JPM",
+                "title": "Is JPMorgan Chase & Co. (JPM) the Best Very Cheap Stock to Buy According to Billionaires?",
+                "url": "https://finance.yahoo.com/news/jpmorgan-chase-co-jpm-best-153459301.html"
+            }
+        ],
+        "avgScore": 0.19579999999999997
+    },
+    "coef": 0.5772216068604272
 }

@@ -1,67 +1,328 @@
 {
-    "importantArticles": [
-        {
-            "headline": "OpenAI CEO Sam Altman stated in a post to X: \u201cchange of plans: we are going to release o3 and o4-mini after all, probably in a couple of weeks, and then do GPT-5 in a few months. there are a bunch of reasons for this, but the most exciting one is that we are going to be able to make GPT-5 much better than we originally though. we also found it harder than we thought it was going to be to smoothly integrate everything. and we want to make sure we have enough capacity to support what we expect to",
-            "publication_date": "2025-04-05T14:50:10.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.948",
-            "source": "TipRanks",
-            "ticker": "MSFT",
-            "title": "OpenAI\u2019s Altman says to release o3 and o4-mini \u2018probably in a couple of weeks\u2019",
-            "url": "https://finance.yahoo.com/news/openai-altman-says-release-o3-145010064.html"
-        },
-        {
-            "headline": "Tesla (NASDAQ: TSLA) stock ended 2024 with a gain of 63%, partly because of President Donald Trump's November U.S. election win.  Investors speculated that a looser regulatory environment -- and CEO Elon Musk's closeness with Trump and his inner circle -- could pave the way for Tesla to bring its autonomous driving and humanoid robotics platforms to market more quickly.  According to Musk, these products could make Tesla the most valuable company in the world one day -- in fact, he thinks there is a possibility it could be worth more than the next five largest companies combined.",
-            "publication_date": "2025-04-06T08:30:00.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.9099",
-            "source": "Motley Fool",
-            "ticker": "MSFT",
-            "title": "Elon Musk Thinks Tesla Will Become the World's Most Valuable Company, but This Glaring Problem Could Instead Lead to a 70% Plunge",
-            "url": "https://finance.yahoo.com/news/elon-musk-thinks-tesla-become-083000146.html"
-        },
-        {
-            "headline": "Microsoft (NASDAQ:MSFT) founder Bill Gates nostalgically looks back on the computer code he wrote 50 years ago, which played a pivotal role in the creation of the tech giant. What Happened: Gates reminisced about the early days of Microsoft in a blog post. He and his late high school friend, Paul Allen, were inspired by a 1975 article about the Altair 8800, a minicomputer powered by a chip from the then-unknown tech company, Intel (NASDAQ:INTC). This prompted them to assure Altair\u2019s manufacturer",
-            "publication_date": "2025-04-05T02:30:15.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.9062",
-            "source": "Benzinga",
-            "ticker": "MSFT",
-            "title": "Bill Gates Shares Original Code That Started It All As Microsoft Celebrates 50 Years: 'That Was The Revolution'",
-            "url": "https://finance.yahoo.com/news/bill-gates-shares-original-code-023015026.html"
-        },
-        {
-            "headline": "A number of stocks fell in the afternoon session after China imposed a 34% tariff on all U.S. imports amid escalating trade war tensions. This was partly in response to the \"reciprocal tariffs\" announced by the Trump administration the previous day, with levies on Chinese goods estimated to be as high as 50%.",
-            "publication_date": "2025-04-04T20:33:24.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.765",
-            "source": "StockStory",
-            "ticker": "MSFT",
-            "title": "Sea (SE) and Microsoft (MSFT), PAR Technology (PAR) Shares Plummet, What You Need To Know",
-            "url": "https://finance.yahoo.com/news/sea-se-microsoft-msft-par-203324940.html"
-        },
-        {
-            "headline": "We recently published a list of Top 10 Stocks to Watch as Investors Brace for Potential Recession. In this article, we are going to take a look at where Microsoft Corporation (NASDAQ:MSFT) stands against other top stocks to watch as investors brace for potential recession. President Donald Trump\u2019s new reciprocal tariff announcement is hammering stock [\u2026]",
-            "publication_date": "2025-04-04T21:23:06.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.4588",
-            "source": "Insider Monkey",
-            "ticker": "MSFT",
-            "title": "Scotiabank Bullish on Microsoft (MSFT): Why AI Growth on Azure Could Propel Microsoft in 2025",
-            "url": "https://finance.yahoo.com/news/scotiabank-bullish-microsoft-msft-why-212306105.html"
-        },
-        {
-            "headline": "The mostly forgotten former technology titan may quietly be sitting on the next big thing in AI's ongoing evolution.",
-            "publication_date": "2025-04-06T13:00:00.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.2263",
-            "source": "Motley Fool",
-            "ticker": "MSFT",
-            "title": "Pay Close Attention to This Crucial Revenue Source for Artificial Intelligence (AI) Giant IBM",
-            "url": "https://finance.yahoo.com/news/pay-close-attention-crucial-revenue-130000453.html"
-        }
-    ],
-    "avgScore": 0.37003157894736843,
-    "todayPctChange": -0.016160356020339488,
-    "vScore": -0.5979842054557832
+    "4 4 2025": {
+        "importantArticles": [
+            {
+                "headline": "REDMOND, Wash (Reuters) -Thousands of people swooned in a dark conference hall that felt more like a rock concert when a Microsoft product manager demonstrated the company's latest feature: how to sum numbers in Excel, with the click of a button.  \"It was literally like Mick Jagger walked out,\" said Yusuf Mehdi, Microsoft's consumer chief marketing officer, who started as an intern.  On Friday, the day Microsoft turned 50, the company's leaders and staff gathered at its headquarters in Redmond, Washington, to remember the software maker's glory days while trumpeting what they hope will bring it into the future: more powerful artificial intelligence.",
+                "publication_date": "2025-04-04T16:32:37.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9659",
+                "source": "Reuters",
+                "ticker": "MSFT",
+                "title": "Microsoft, turning 50, dials up Copilot actions to stay in AI game",
+                "url": "https://finance.yahoo.com/news/microsoft-turning-50-dials-copilot-163237763.html"
+            },
+            {
+                "headline": "Flexera has introduced Cloud License Management, a solution designed to enhance the management of cloud software expenditures, which have become a significant concern for organizations with cloud spend challenges surpassing even security issues. This new tool allows organizations to gain a comprehensive understanding of their cloud software investments across platforms like Amazon Web Services and Microsoft Azure. By providing a unified view of cloud software spend, along with actionable...",
+                "publication_date": "2025-04-04T12:07:44.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9432",
+                "source": "Simply Wall St.",
+                "ticker": "MSFT",
+                "title": "Latest News In Cloud AI - Optimizing Cloud Costs Flexera's Latest Management Tool",
+                "url": "https://finance.yahoo.com/news/latest-news-cloud-ai-optimizing-120744376.html"
+            },
+            {
+                "headline": "For its 50th birthday, Microsoft is teaching its AI-powered Copilot chatbot a few new tricks. Copilot can now take action on \"most websites,\" Microsoft says, enabling it to book tickets, reserve restaurants, and more. The bot has gained the ability to remember specific things about you, similar to OpenAI's ChatGPT, like your favorite food and films. And it can now analyze real-time video from your phone, answering questions in the context of what it \"sees.\" The upgrades come as Microsoft is repo",
+                "publication_date": "2025-04-04T16:30:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.836",
+                "source": "TechCrunch",
+                "ticker": "MSFT",
+                "title": "Microsoft's Copilot can now browse the web and perform actions for you",
+                "url": "https://finance.yahoo.com/news/microsofts-copilot-now-browse-perform-163000784.html"
+            },
+            {
+                "headline": "(Bloomberg) -- There\u2019s virtually nowhere to hide for many US technology companies under President Donald Trump\u2019s new tariff regime, the harshest in a century.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Would \u2018Transportation Abundance\u2019 Look Like?After Thursday\u2019s slump wiped $1.4",
+                "publication_date": "2025-04-04T13:34:17.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.7705",
+                "source": "Bloomberg",
+                "ticker": "MSFT",
+                "title": "\u2018Worst-Case Scenario\u2019 for Tech Wipes $1.4 Trillion from Nasdaq",
+                "url": "https://finance.yahoo.com/news/worst-case-scenario-tech-wipes-081406416.html"
+            },
+            {
+                "headline": "A number of stocks fell in the afternoon session after China imposed a 34% tariff on all U.S. imports amid escalating trade war tensions. This was partly in response to the \"reciprocal tariffs\" announced by the Trump administration the previous day, with levies on Chinese goods estimated to be as high as 50%.",
+                "publication_date": "2025-04-04T20:33:24.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.765",
+                "source": "StockStory",
+                "ticker": "MSFT",
+                "title": "Sea (SE) and Microsoft (MSFT), PAR Technology (PAR) Shares Plummet, What You Need To Know",
+                "url": "https://finance.yahoo.com/news/sea-se-microsoft-msft-par-203324940.html"
+            },
+            {
+                "headline": "Nvidia and Tesla led megacaps lower on Friday as stocks continued to sell off amid a global trade war.",
+                "publication_date": "2025-04-04T20:28:05.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.7269",
+                "source": "Yahoo Finance",
+                "ticker": "MSFT",
+                "title": "Nvidia, Apple, Tesla stocks plunge, leading another 'Magnificent 7' sell-off as a trade war intensifies",
+                "url": "https://finance.yahoo.com/news/nvidia-apple-tesla-stocks-plunge-leading-another-magnificent-7-sell-off-as-a-trade-war-intensifies-202805499.html"
+            }
+        ],
+        "avgScore": 0.1006576923076923
+    },
+    "4 3 2025": {
+        "importantArticles": [
+            {
+                "headline": "Artisan Partners, an investment management company, released its \u201cArtisan Global Opportunities Fund\u201d fourth quarter 2024 investor letter. A copy of the letter can be downloaded here. US equities experienced significant gains in Q4, showcasing a strong year. The portfolio showed slight weakness in Q4 but posted a strong absolute return in 2024. In the fourth [\u2026]",
+                "publication_date": "2025-04-03T12:22:22.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8225",
+                "source": "Insider Monkey",
+                "ticker": "MSFT",
+                "title": "Here\u2019re the Reasons Why Artisan Global Opportunities Fund Ended Its Investment Campaigns in Microsoft Corporation (MSFT)",
+                "url": "https://finance.yahoo.com/news/reasons-why-artisan-global-opportunities-122222817.html"
+            },
+            {
+                "headline": "ADBE shares are benefiting from strong demand for its creative products and expanding clientele amid increasing competition.",
+                "publication_date": "2025-04-03T15:06:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7845",
+                "source": "Zacks",
+                "ticker": "MSFT",
+                "title": "Adobe Expands Portfolio with AI Solution: Buy or Hold the Stock?",
+                "url": "https://finance.yahoo.com/news/adobe-expands-portfolio-ai-solution-150600661.html"
+            },
+            {
+                "headline": "Rachita Sundar brings a passion for learning and Fortune 500 experience scaling technology products to the experience management provider\u2019s next growth phase.",
+                "publication_date": "2025-04-03T09:39:21.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6808",
+                "source": "CFO.com",
+                "ticker": "MSFT",
+                "title": "Qualtrics CFO Rachita Sundar on learning and scaling",
+                "url": "https://finance.yahoo.com/news/qualtrics-cfo-rachita-sundar-learning-093921342.html"
+            },
+            {
+                "headline": "(Bloomberg) -- The retail traders who have stormed the markets in recent years were among the only investors buying on Thursday as US stocks had their worst day since June 2020.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Would \u2018Transportation Abundance\u2019 Look Like?Small investor",
+                "publication_date": "2025-04-03T20:38:38.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.8126",
+                "source": "Bloomberg",
+                "ticker": "MSFT",
+                "title": "Retail Traders Step In to Buy as Others Flee in Tariff Rout",
+                "url": "https://finance.yahoo.com/news/retail-traders-step-buy-others-203838411.html"
+            },
+            {
+                "headline": "(Bloomberg) -- Roughly $2.5 trillion was erased from the S&P 500 Index on Thursday amid worries that President Donald Trump\u2019s sweeping new round of tariffs could plunge the economy into a recession.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Would \u2018Transportation Abundance\u2019 Loo",
+                "publication_date": "2025-04-03T20:13:46.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.7269",
+                "source": "Bloomberg",
+                "ticker": "MSFT",
+                "title": "Trump Tariffs Wipe Out $2.5 Trillion From US Stock Market",
+                "url": "https://finance.yahoo.com/news/trump-tariffs-set-wipe-nearly-120038363.html"
+            },
+            {
+                "headline": "Apple (NASDAQ: AAPL) is the world's largest company -- by about half a trillion dollars as I write this.  In fact, considering the current state of Apple's business and the growth trajectories of some of its competitors, I think it's highly likely that Apple will lose its title of the world's largest company within the next few years.  There are four companies that could pass Apple in that time frame.",
+                "publication_date": "2025-04-03T10:15:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "-0.0258",
+                "source": "Motley Fool",
+                "ticker": "MSFT",
+                "title": "Prediction: 4 Artificial Intelligence (AI) Stocks That Could Be Worth More Than Apple by 2030",
+                "url": "https://finance.yahoo.com/news/prediction-4-artificial-intelligence-ai-101500646.html"
+            }
+        ],
+        "avgScore": 0.2785000000000001
+    },
+    "4 2 2025": {
+        "importantArticles": [
+            {
+                "headline": "Since artificial intelligence (AI) caught the attention of the market beginning in November 2022, Nvidia (NASDAQ: NVDA) has set the bar for blockbuster growth among AI-associated stocks.  The GPU specialist posted five straight quarters of triple-digit revenue growth through fiscal 2024 and 2025, peaking at 265% in the third quarter of fiscal 2024.  The recently IPO'd CoreWeave (NASDAQ: CRWV) offered the latest reminder of the explosive growth in AI, and its recent revenue jump blew Nvidia's away.",
+                "publication_date": "2025-04-02T15:48:46.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9403",
+                "source": "Motley Fool",
+                "ticker": "MSFT",
+                "title": "CoreWeave IPO: Is this Fast-Growing AI Stock a Buy Right Now?",
+                "url": "https://finance.yahoo.com/news/coreweave-ipo-fast-growing-ai-154846808.html"
+            },
+            {
+                "headline": "Artificial intelligence (AI) stocks have been some of the top performers on Wall Street over the last few years.  So, let's review two of the largest and best-known AI stocks -- Oracle (NYSE: ORCL) and Amazon (NASDAQ: AMZN) -- and see which is the best choice for investors right now.  As the AI revolution has gained steam, so has Oracle's stock.",
+                "publication_date": "2025-04-02T01:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9081",
+                "source": "Motley Fool",
+                "ticker": "MSFT",
+                "title": "Better AI Stock: Amazon vs. Oracle",
+                "url": "https://finance.yahoo.com/news/better-ai-stock-amazon-vs-010000483.html"
+            },
+            {
+                "headline": "Advanced Micro Devices (NASDAQ: AMD) is one of the world's leading suppliers of chips for data centers, personal computers, and even cars.  The data center business is the company's main focus right now, as it tries to compete with Nvidia in the market for graphics processing units (GPUs), which are used to develop artificial intelligence (AI).  AMD has won several of Nvidia's top customers since launching its first AI GPU, Instinct MI300 series, in late 2023, and it continues to release new versions with more processing power.",
+                "publication_date": "2025-04-02T08:18:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8625",
+                "source": "Motley Fool",
+                "ticker": "MSFT",
+                "title": "Oracle Recently Delivered Incredible News for Advanced Micro Devices (AMD) Stock Investors",
+                "url": "https://finance.yahoo.com/news/oracle-recently-delivered-incredible-news-081800971.html"
+            },
+            {
+                "headline": "CoreWeave's stock finds its footing after a muted IPO.",
+                "publication_date": "2025-04-02T14:47:23.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Yahoo Finance",
+                "ticker": "MSFT",
+                "title": "CoreWeave stock rips higher after muted IPO",
+                "url": "https://finance.yahoo.com/news/coreweave-stock-rips-higher-after-muted-ipo-144723161.html"
+            },
+            {
+                "headline": "Nintendo announces it will launch its highly anticipated Switch 2 June 5.",
+                "publication_date": "2025-04-02T14:21:59.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Yahoo Finance",
+                "ticker": "MSFT",
+                "title": "Nintendo to launch Switch 2 on June 5 for $449, hoping to recapture success of the original",
+                "url": "https://finance.yahoo.com/news/nintendo-to-launch-switch-2-on-june-5-for-449-hoping-to-recapture-success-of-the-original-142159879.html"
+            },
+            {
+                "headline": "OpenAI Revenue Soars 30% as ChatGPT Paid Users Hit 20M",
+                "publication_date": "2025-04-02T14:05:19.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "GuruFocus.com",
+                "ticker": "MSFT",
+                "title": "ChatGPT Crosses 20M Paid Users, OpenAI Poised for Record Growth",
+                "url": "https://finance.yahoo.com/news/chatgpt-crosses-20m-paid-users-140519166.html"
+            }
+        ],
+        "avgScore": 0.46806111111111104
+    },
+    "4 1 2025": {
+        "importantArticles": [
+            {
+                "headline": "Recent developments in Cloud AI highlight the evolving role of Kubernetes in enhancing cloud, edge, and bare metal deployments, with a focus on security and operational efficiency. Sidero Labs has been recognized as a Fast Mover and Challenger in the 2025 GigaOm Radar Reports for its capabilities in managed Kubernetes and edge computing solutions. The company's Omni platform simplifies enterprise Kubernetes management through centralized control, security features, and support for...",
+                "publication_date": "2025-04-01T12:07:50.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9118",
+                "source": "Simply Wall St.",
+                "ticker": "MSFT",
+                "title": "This Week In Cloud AI - Enhancing Cloud Tech: The Rise Of Kubernetes Solutions",
+                "url": "https://finance.yahoo.com/news/week-cloud-ai-enhancing-cloud-120750558.html"
+            },
+            {
+                "headline": "We recently published a list of 10 Best US Stocks To Buy For Foreign Investors. In this article, we are going to take a look at where Microsoft Corporation (NASDAQ:MSFT) stands against other best American stocks to buy. In the coming week, the resilience of the US stock market will be challenged as President Trump\u2019s [\u2026]",
+                "publication_date": "2025-04-01T22:09:35.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8402",
+                "source": "Insider Monkey",
+                "ticker": "MSFT",
+                "title": "Microsoft Corporation (MSFT): Among The Best US Stocks To Buy For Foreign Investors",
+                "url": "https://finance.yahoo.com/news/microsoft-corporation-msft-among-best-220935613.html"
+            },
+            {
+                "headline": "Shares of Apple, Nvidia, and Microsoft have exploded in recent years, as investors poured money into stocks that were best positioned to take advantage of the rise in artificial intelligence (AI).  The U.S. government is also running a fiscal deficit, where spending during a fiscal year exceeds revenue.",
+                "publication_date": "2025-04-01T12:05:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8316",
+                "source": "Motley Fool",
+                "ticker": "MSFT",
+                "title": "Meet the Hard Asset That's Bigger Than Apple, Nvidia, and Microsoft Combined. One Wall Street Strategist Thinks It Could Hit a $40 Trillion Market Cap.",
+                "url": "https://finance.yahoo.com/news/meet-hard-asset-thats-bigger-120500719.html"
+            },
+            {
+                "headline": "(Bloomberg) -- In a quarter marred by tariff uncertainty, US government spending cuts and the threat of recession, it is fears about a bubble brewing in artificial intelligence that have dealt the latest blow to the Nasdaq 100.Most Read from BloombergWhat Frank Lloyd Wright Learned From the DesertGold-Rush Fever Returns to Historic New Zealand Mining TownBank Regulators Fight for Desks as OCC Returns to New York TowerLondon Clears Final Hurdle for More High-Speed Trains to EuropeLocal Government",
+                "publication_date": "2025-04-01T09:36:18.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.8957",
+                "source": "Bloomberg",
+                "ticker": "MSFT",
+                "title": "Nasdaq 100\u2019s Worst Quarter in Years Sealed by AI Bubble Fears",
+                "url": "https://finance.yahoo.com/news/nasdaq-100-worst-quarter-years-093618789.html"
+            },
+            {
+                "headline": "Investing.com -- Last week\u2019s broken IPO for CoreWeave Inc (NASDAQ:CRWV) found its footing Tuesday, surging higher to close well above its IPO price.",
+                "publication_date": "2025-04-01T16:24:37.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.25",
+                "source": "Investing.com",
+                "ticker": "MSFT",
+                "title": "CoreWeave stock surges past IPO price after lackluster start; closes up  42%",
+                "url": "https://finance.yahoo.com/news/coreweave-sees-first-day-gains-162437127.html"
+            },
+            {
+                "headline": "ChatGPT crosses 20M paid subscribers as OpenAI's projected revenue triples in new valuation round",
+                "publication_date": "2025-04-01T17:32:05.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "GuruFocus.com",
+                "ticker": "MSFT",
+                "title": "OpenAI's Revenue Set to Triple After Jump in Paid ChatGPT Users",
+                "url": "https://finance.yahoo.com/news/openais-revenue-set-triple-jump-173205114.html"
+            }
+        ],
+        "avgScore": 0.3096062500000001
+    },
+    "3 31 2025": {
+        "importantArticles": [
+            {
+                "headline": "There aren't many technology companies that can claim they've been a leader in artificial intelligence (AI), but Microsoft (NASDAQ: MSFT) can do so easily.  Microsoft has been gaining on Amazon for years and now has 21% of the market, compared to Amazon's 30%.The cloud was important before artificial intelligence came along, but AI has vastly expanded its value.",
+                "publication_date": "2025-03-31T13:15:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9658",
+                "source": "Motley Fool",
+                "ticker": "MSFT",
+                "title": "This Artificial Intelligence (AI) Stock Is a \"Magnificent Seven\" Leader. But Is It a Buy?",
+                "url": "https://finance.yahoo.com/news/artificial-intelligence-ai-stock-magnificent-131500347.html"
+            },
+            {
+                "headline": "TYL's deal with Hillsborough County is another strategic win, reinforcing its role as a trusted partner for public sector modernization.",
+                "publication_date": "2025-03-31T14:15:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7845",
+                "source": "Zacks",
+                "ticker": "MSFT",
+                "title": "Tyler Fortifies Public Sector Footprint With Hillsborough County Deal",
+                "url": "https://finance.yahoo.com/news/tyler-fortifies-public-sector-footprint-141500917.html"
+            },
+            {
+                "headline": "Bill Gates said he wanted his children to discover their own success instead of being \"overshadowed\" by the good fortune of their father.",
+                "publication_date": "2025-03-31T15:06:48.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.765",
+                "source": "Fortune",
+                "ticker": "MSFT",
+                "title": "Bill Gates says his children will inherit \u2018less than 1%\u2019 of his wealth",
+                "url": "https://finance.yahoo.com/news/bill-gates-says-children-inherit-150648829.html"
+            },
+            {
+                "headline": "The company processes 84 trillion threat signals daily and detected over 30 billion phishing emails in 2024.",
+                "publication_date": "2025-03-31T22:11:44.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5267",
+                "source": "GuruFocus.com",
+                "ticker": "MSFT",
+                "title": "Microsoft Launches New AI Security Agents Amid Surge in Cyberthreats",
+                "url": "https://finance.yahoo.com/news/microsoft-launches-ai-security-agents-221144636.html"
+            },
+            {
+                "headline": "We recently published a list of 10 AI Stocks Dominating the News This Week. In this article, we are going to take a look at where Microsoft Corporation (NASDAQ:MSFT) stands against other AI stocks dominating the news this week. Elon Musk and OpenAI have jointly proposed to fast-track their trial over OpenAI\u2019s transition to a [\u2026]",
+                "publication_date": "2025-03-31T13:51:56.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5267",
+                "source": "Insider Monkey",
+                "ticker": "MSFT",
+                "title": "Microsoft (MSFT) Expands AI-Driven Security Copilot with Six New Agents",
+                "url": "https://finance.yahoo.com/news/microsoft-msft-expands-ai-driven-135156481.html"
+            },
+            {
+                "headline": "TikTok will go offline on April 5 unless it's sold.",
+                "publication_date": "2025-03-31T14:16:45.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.128",
+                "source": "Yahoo Finance",
+                "ticker": "MSFT",
+                "title": "TikTok's days are numbered as ban nears",
+                "url": "https://finance.yahoo.com/news/tiktoks-days-are-numbered-as-ban-nears-141645330.html"
+            }
+        ],
+        "avgScore": 0.2871636363636364
+    },
+    "coef": 0.32179095890026843
 }

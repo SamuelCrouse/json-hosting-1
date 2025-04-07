@@ -1,67 +1,178 @@
 {
-    "importantArticles": [
-        {
-            "headline": "In recent developments, Rigetti Computing (NasdaqCM:RGTI) announced its participation in DARPA's Quantum Benchmarking Initiative, a move that aligns with its strategic goals to advance quantum computing. This announcement comes amidst Rigetti's performance figures showing a slight 4% increase in its stock price over the past month, a period marked by significant volatility in broader markets. Despite a weak fourth-quarter earnings report revealing a substantial increase in net loss, the...",
-            "publication_date": "2025-04-04T18:44:25.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.7435",
-            "source": "Simply Wall St.",
-            "ticker": "RGTI",
-            "title": "Rigetti Computing (NasdaqCM:RGTI) Selected For US$1M DARPA Quantum Benchmarking Initiative",
-            "url": "https://finance.yahoo.com/news/rigetti-computing-nasdaqcm-rgti-selected-184425845.html"
-        },
-        {
-            "headline": "QBTS emerges as a strong investment opportunity in 2025, driven by its recent groundbreaking achievements.",
-            "publication_date": "2025-04-03T19:00:00.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.7269",
-            "source": "Zacks",
-            "ticker": "RGTI",
-            "title": "D-Wave Quantum Surges 38% in March: Is QBTS a Smart Buy Now?",
-            "url": "https://finance.yahoo.com/news/d-wave-quantum-surges-38-190000579.html"
-        },
-        {
-            "headline": "The objective of DARPA\u2019s QBI program is to verify and validate that quantum computing can achieve utility-scale operation by 2033.BERKELEY, Calif., April 03, 2025 (GLOBE NEWSWIRE) -- Rigetti Computing, Inc. (Nasdaq: RGTI) (\u201cRigetti\u201d or the \u201cCompany\u201d), a pioneer in full-stack quantum-classical computing, announced today that it was selected to participate in the Defense Advanced Research Projects Agency (DARPA) Quantum Benchmarking Initiative (QBI). The primary goal of QBI is to determine if any",
-            "publication_date": "2025-04-03T20:05:00.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.6124",
-            "source": "GlobeNewswire",
-            "ticker": "RGTI",
-            "title": "Rigetti Computing Selected to Participate in DARPA\u2019s Quantum Benchmarking Initiative",
-            "url": "https://finance.yahoo.com/news/rigetti-computing-selected-participate-darpa-200500173.html"
-        },
-        {
-            "headline": "We recently published a list of Jim Cramer Was Talking About These 10 Stocks Amid Trump\u2019s Trade Wars. In this article, we are going to take a look at where Rigetti Computing, Inc. (NASDAQ:RGTI) stands against other stocks that Jim Cramer was talking about amid Trump\u2019s trade wars. Jim Cramer in a latest program on [\u2026]",
-            "publication_date": "2025-04-04T21:52:39.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.802",
-            "source": "Insider Monkey",
-            "ticker": "RGTI",
-            "title": "Jim Cramer on Rigetti Computing (RGTI): \u2018It\u2019s a Meme Stock\u2019",
-            "url": "https://finance.yahoo.com/news/jim-cramer-rigetti-computing-rgti-215239484.html"
-        },
-        {
-            "headline": "Quantum computing stocks are having a moment.  Following Alphabet's revelation of its Willow quantum chip in December, quantum computing\u00a0stocks including Rigetti Computing (NASDAQ: RGTI) soared, and attention has remained on the sector as Microsoft and Nvidia have made their own announcements about quantum computing.  Rigetti Computing is still a development-stage company, as it brought in just $10.8 million in revenue in 2024 and an operating loss of $68.5 million.",
-            "publication_date": "2025-03-28T08:37:00.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.3182",
-            "source": "Motley Fool",
-            "ticker": "RGTI",
-            "title": "Prediction: 2 Stocks That Will Be Worth More Than Rigetti Computing 1 Year From Now",
-            "url": "https://finance.yahoo.com/news/prediction-2-stocks-worth-more-083700980.html"
-        },
-        {
-            "headline": "This quantum computing stock still looks too hot to handle.",
-            "publication_date": "2025-04-05T15:41:00.000Z",
-            "sentiment": "Neutral",
-            "sentimentScore": "0.0",
-            "source": "Motley Fool",
-            "ticker": "RGTI",
-            "title": "Is Rigetti Computing Stock a Buy Now?",
-            "url": "https://finance.yahoo.com/news/rigetti-computing-stock-buy-now-154100624.html"
-        }
-    ],
-    "avgScore": 0.1492625,
-    "todayPctChange": -0.02723735889856678,
-    "vScore": -0.4065516282597324
+    "4 4 2025": {
+        "importantArticles": [
+            {
+                "headline": "In recent developments, Rigetti Computing (NasdaqCM:RGTI) announced its participation in DARPA's Quantum Benchmarking Initiative, a move that aligns with its strategic goals to advance quantum computing. This announcement comes amidst Rigetti's performance figures showing a slight 4% increase in its stock price over the past month, a period marked by significant volatility in broader markets. Despite a weak fourth-quarter earnings report revealing a substantial increase in net loss, the...",
+                "publication_date": "2025-04-04T18:44:25.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7435",
+                "source": "Simply Wall St.",
+                "ticker": "RGTI",
+                "title": "Rigetti Computing (NasdaqCM:RGTI) Selected For US$1M DARPA Quantum Benchmarking Initiative",
+                "url": "https://finance.yahoo.com/news/rigetti-computing-nasdaqcm-rgti-selected-184425845.html"
+            },
+            {
+                "headline": "We recently published a list of Jim Cramer Was Talking About These 10 Stocks Amid Trump\u2019s Trade Wars. In this article, we are going to take a look at where Rigetti Computing, Inc. (NASDAQ:RGTI) stands against other stocks that Jim Cramer was talking about amid Trump\u2019s trade wars. Jim Cramer in a latest program on [\u2026]",
+                "publication_date": "2025-04-04T21:52:39.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.802",
+                "source": "Insider Monkey",
+                "ticker": "RGTI",
+                "title": "Jim Cramer on Rigetti Computing (RGTI): \u2018It\u2019s a Meme Stock\u2019",
+                "url": "https://finance.yahoo.com/news/jim-cramer-rigetti-computing-rgti-215239484.html"
+            },
+            {
+                "headline": "We recently published a list of Jim Cramer Was Talking About These 10 Stocks Amid Trump\u2019s Trade Wars. In this article, we are going to take a look at where Rigetti Computing, Inc. (NASDAQ:RGTI) stands against other stocks that Jim Cramer was talking about amid Trump\u2019s trade wars. Jim Cramer in a latest program on [\u2026]",
+                "publication_date": "2025-04-04T21:52:39.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.802",
+                "source": "Insider Monkey",
+                "ticker": "RGTI",
+                "title": "Jim Cramer on Rigetti Computing (RGTI): \u2018It\u2019s a Meme Stock\u2019",
+                "url": "https://finance.yahoo.com/news/jim-cramer-rigetti-computing-rgti-215239484.html"
+            },
+            {
+                "headline": "In recent developments, Rigetti Computing (NasdaqCM:RGTI) announced its participation in DARPA's Quantum Benchmarking Initiative, a move that aligns with its strategic goals to advance quantum computing. This announcement comes amidst Rigetti's performance figures showing a slight 4% increase in its stock price over the past month, a period marked by significant volatility in broader markets. Despite a weak fourth-quarter earnings report revealing a substantial increase in net loss, the...",
+                "publication_date": "2025-04-04T18:44:25.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7435",
+                "source": "Simply Wall St.",
+                "ticker": "RGTI",
+                "title": "Rigetti Computing (NasdaqCM:RGTI) Selected For US$1M DARPA Quantum Benchmarking Initiative",
+                "url": "https://finance.yahoo.com/news/rigetti-computing-nasdaqcm-rgti-selected-184425845.html"
+            }
+        ],
+        "avgScore": -0.029249999999999998
+    },
+    "4 3 2025": {
+        "importantArticles": [
+            {
+                "headline": "QBTS emerges as a strong investment opportunity in 2025, driven by its recent groundbreaking achievements.",
+                "publication_date": "2025-04-03T19:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7269",
+                "source": "Zacks",
+                "ticker": "RGTI",
+                "title": "D-Wave Quantum Surges 38% in March: Is QBTS a Smart Buy Now?",
+                "url": "https://finance.yahoo.com/news/d-wave-quantum-surges-38-190000579.html"
+            },
+            {
+                "headline": "The objective of DARPA\u2019s QBI program is to verify and validate that quantum computing can achieve utility-scale operation by 2033.BERKELEY, Calif., April 03, 2025 (GLOBE NEWSWIRE) -- Rigetti Computing, Inc. (Nasdaq: RGTI) (\u201cRigetti\u201d or the \u201cCompany\u201d), a pioneer in full-stack quantum-classical computing, announced today that it was selected to participate in the Defense Advanced Research Projects Agency (DARPA) Quantum Benchmarking Initiative (QBI). The primary goal of QBI is to determine if any",
+                "publication_date": "2025-04-03T20:05:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6124",
+                "source": "GlobeNewswire",
+                "ticker": "RGTI",
+                "title": "Rigetti Computing Selected to Participate in DARPA\u2019s Quantum Benchmarking Initiative",
+                "url": "https://finance.yahoo.com/news/rigetti-computing-selected-participate-darpa-200500173.html"
+            },
+            {
+                "headline": "We recently published a list of The Top 10 Performing Stocks on Wednesday. In this article, we are going to take a look at where Rigetti Computing Inc. (NASDAQ:RGTI) stands against other top performing stocks on Wednesday. Wall Street\u2019s three major indices finished in the green territory on Wednesday as investors continued to digest news [\u2026]",
+                "publication_date": "2025-04-03T08:47:54.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.3818",
+                "source": "Insider Monkey",
+                "ticker": "RGTI",
+                "title": "Why Rigetti Computing Inc. (RGTI) Went Up On Wednesday?",
+                "url": "https://finance.yahoo.com/news/why-rigetti-computing-inc-rgti-084754830.html"
+            },
+            {
+                "headline": "We recently published a list of The Top 10 Performing Stocks on Wednesday. In this article, we are going to take a look at where Rigetti Computing Inc. (NASDAQ:RGTI) stands against other top performing stocks on Wednesday. Wall Street\u2019s three major indices finished in the green territory on Wednesday as investors continued to digest news [\u2026]",
+                "publication_date": "2025-04-03T08:47:54.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.3818",
+                "source": "Insider Monkey",
+                "ticker": "RGTI",
+                "title": "Why Rigetti Computing Inc. (RGTI) Went Up On Wednesday?",
+                "url": "https://finance.yahoo.com/news/why-rigetti-computing-inc-rgti-084754830.html"
+            },
+            {
+                "headline": "The objective of DARPA\u2019s QBI program is to verify and validate that quantum computing can achieve utility-scale operation by 2033.BERKELEY, Calif., April 03, 2025 (GLOBE NEWSWIRE) -- Rigetti Computing, Inc. (Nasdaq: RGTI) (\u201cRigetti\u201d or the \u201cCompany\u201d), a pioneer in full-stack quantum-classical computing, announced today that it was selected to participate in the Defense Advanced Research Projects Agency (DARPA) Quantum Benchmarking Initiative (QBI). The primary goal of QBI is to determine if any",
+                "publication_date": "2025-04-03T20:05:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6124",
+                "source": "GlobeNewswire",
+                "ticker": "RGTI",
+                "title": "Rigetti Computing Selected to Participate in DARPA\u2019s Quantum Benchmarking Initiative",
+                "url": "https://finance.yahoo.com/news/rigetti-computing-selected-participate-darpa-200500173.html"
+            },
+            {
+                "headline": "QBTS emerges as a strong investment opportunity in 2025, driven by its recent groundbreaking achievements.",
+                "publication_date": "2025-04-03T19:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7269",
+                "source": "Zacks",
+                "ticker": "RGTI",
+                "title": "D-Wave Quantum Surges 38% in March: Is QBTS a Smart Buy Now?",
+                "url": "https://finance.yahoo.com/news/d-wave-quantum-surges-38-190000579.html"
+            }
+        ],
+        "avgScore": 0.5737
+    },
+    "4 1 2025": {
+        "importantArticles": [
+            {
+                "headline": "We recently published a list of 10 Best Debt-Free IT Stocks to Buy Under $10. In this article, we are going to take a look at where Rigetti Computing Inc. (NASDAQ:RGTI) stands against other best debt-free IT stocks to buy under $10. Debt generally has a negative connotation \u2013 it could be a burden on [\u2026]",
+                "publication_date": "2025-04-01T16:59:02.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.0772",
+                "source": "Insider Monkey",
+                "ticker": "RGTI",
+                "title": "Is Rigetti Computing Inc. (RGTI) the Best Debt-Free IT Stock to Buy Under $10?",
+                "url": "https://finance.yahoo.com/news/rigetti-computing-inc-rgti-best-165902846.html"
+            },
+            {
+                "headline": "Defiance Launches RGTX: 2X Leveraged ETF for Rigetti Computing, Inc. Defiance ETFs introduces RGTX, the Defiance Daily Target 2X Long RGTI ETF, a 2X leveraged single-stock ETF designed to provide amplified exposure to Rigetti Computing, Inc. (Nasdaq: RGTI). MIAMI, April 01, 2025 (GLOBE NEWSWIRE) -- Defiance ETFs introduces RGTX, the Defiance Daily Target 2X Long RGTI ETF, a 2X leveraged single-stock ETF designed to provide amplified exposure to Rigetti Computing, Inc. (Nasdaq: RGTI). This ETF of",
+                "publication_date": "2025-04-01T10:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "GlobeNewswire",
+                "ticker": "RGTI",
+                "title": "Defiance Launches RGTX: 2X Leveraged ETF for Rigetti Computing, Inc.",
+                "url": "https://finance.yahoo.com/news/defiance-launches-rgtx-2x-leveraged-100000274.html"
+            },
+            {
+                "headline": "Rigetti Computing, Inc. (RGTI) closed at $7.81 in the latest trading session, marking a -1.39% move from the prior day.",
+                "publication_date": "2025-04-01T22:00:18.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "RGTI",
+                "title": "Rigetti Computing, Inc. (RGTI) Stock Sinks As Market Gains: What You Should Know",
+                "url": "https://finance.yahoo.com/news/rigetti-computing-inc-rgti-stock-220018666.html"
+            },
+            {
+                "headline": "Rigetti Computing, Inc. (RGTI) closed at $7.81 in the latest trading session, marking a -1.39% move from the prior day.",
+                "publication_date": "2025-04-01T22:00:18.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "RGTI",
+                "title": "Rigetti Computing, Inc. (RGTI) Stock Sinks As Market Gains: What You Should Know",
+                "url": "https://finance.yahoo.com/news/rigetti-computing-inc-rgti-stock-220018666.html"
+            },
+            {
+                "headline": "Defiance Launches RGTX: 2X Leveraged ETF for Rigetti Computing, Inc. Defiance ETFs introduces RGTX, the Defiance Daily Target 2X Long RGTI ETF, a 2X leveraged single-stock ETF designed to provide amplified exposure to Rigetti Computing, Inc. (Nasdaq: RGTI). MIAMI, April 01, 2025 (GLOBE NEWSWIRE) -- Defiance ETFs introduces RGTX, the Defiance Daily Target 2X Long RGTI ETF, a 2X leveraged single-stock ETF designed to provide amplified exposure to Rigetti Computing, Inc. (Nasdaq: RGTI). This ETF of",
+                "publication_date": "2025-04-01T10:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "GlobeNewswire",
+                "ticker": "RGTI",
+                "title": "Defiance Launches RGTX: 2X Leveraged ETF for Rigetti Computing, Inc.",
+                "url": "https://finance.yahoo.com/news/defiance-launches-rgtx-2x-leveraged-100000274.html"
+            },
+            {
+                "headline": "We recently published a list of 10 Best Debt-Free IT Stocks to Buy Under $10. In this article, we are going to take a look at where Rigetti Computing Inc. (NASDAQ:RGTI) stands against other best debt-free IT stocks to buy under $10. Debt generally has a negative connotation \u2013 it could be a burden on [\u2026]",
+                "publication_date": "2025-04-01T16:59:02.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.0772",
+                "source": "Insider Monkey",
+                "ticker": "RGTI",
+                "title": "Is Rigetti Computing Inc. (RGTI) the Best Debt-Free IT Stock to Buy Under $10?",
+                "url": "https://finance.yahoo.com/news/rigetti-computing-inc-rgti-best-165902846.html"
+            }
+        ],
+        "avgScore": 0.025733333333333334
+    },
+    "coef": -0.048273551854035084
 }

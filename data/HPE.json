@@ -1,67 +1,158 @@
 {
-    "importantArticles": [
-        {
-            "headline": "SAN JOSE, Calif., March 18, 2025--NVIDIA GTC 2025 - Hewlett Packard Enterprise (NYSE: HPE) and NVIDIA today announced new enterprise AI solutions with NVIDIA from NVIDIA AI Computing by HPE that accelerates the time to value for customers deploying generative, agentic and physical AI. NVIDIA AI Computing by HPE unveils new enterprise AI solutions with enhanced performance, power efficiency, security, and new capabilities for a full-stack, turnkey private cloud for AI. These solutions support ent",
-            "publication_date": "2025-03-18T20:00:00.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.9022",
-            "source": "Business Wire",
-            "ticker": "HPE",
-            "title": "Hewlett Packard Enterprise Introduces New Enterprise AI solutions with NVIDIA to Accelerate Time to Value for Generative, Agentic and Physical AI",
-            "url": "https://finance.yahoo.com/news/hewlett-packard-enterprise-introduces-enterprise-200000490.html"
-        },
-        {
-            "headline": "We recently published a list of 14 Best Affordable Stocks to Buy According to Hedge Funds. In this article, we are going to take a look at where Hewlett Packard Enterprise Company (NYSE:HPE) stands against other best affordable stocks to invest in. The broader market has taken a significant hit, dropping 10% from its peak [\u2026]",
-            "publication_date": "2025-03-24T20:02:33.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.8807",
-            "source": "Insider Monkey",
-            "ticker": "HPE",
-            "title": "Is Hewlett Packard Enterprise (HPE) Among The Best Affordable Stocks To Buy According To Hedge Funds?",
-            "url": "https://finance.yahoo.com/news/hewlett-packard-enterprise-hpe-among-200233290.html"
-        },
-        {
-            "headline": "SAN JOSE, Calif., March 18, 2025--NVIDIA GTC 2025 - Hewlett Packard Enterprise (NYSE: HPE) today unveiled a unified data layer for AI, deeper collaboration with NVIDIA, and significant enhancements across its enterprise data storage portfolio. Enterprises will be able to achieve quicker time to insight through easy access, built-in intelligence and governed control of multi-vendor, multicloud data through HPE GreenLake cloud.",
-            "publication_date": "2025-03-18T20:00:00.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.8555",
-            "source": "Business Wire",
-            "ticker": "HPE",
-            "title": "Hewlett Packard Enterprise Drives Agentic AI Era With an Intelligent, Unified Data Layer for AI",
-            "url": "https://finance.yahoo.com/news/hewlett-packard-enterprise-drives-agentic-200000824.html"
-        },
-        {
-            "headline": "Hewlett Packard Enterprise (NYSE:HPE) has recently been making noteworthy advancements in AI integration and client services, highlighted by its collaboration with Compucom and the enhancement of its Full Lifecycle Observability capabilities. Despite this, over the past week, HPE experienced a 14% price decline. This drop occurred amid broader market turmoil, with the Dow Jones down 4% and the tech-heavy Nasdaq falling 5% due to growing trade tensions and newly announced tariffs. The overall...",
-            "publication_date": "2025-04-04T18:46:00.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.7351",
-            "source": "Simply Wall St.",
-            "ticker": "HPE",
-            "title": "Hewlett Packard Enterprise (NYSE:HPE) Sees 14% Price Drop Over Trade Tensions and Tariffs",
-            "url": "https://finance.yahoo.com/news/hewlett-packard-enterprise-nyse-hpe-184600518.html"
-        },
-        {
-            "headline": "Despite announcing strong earnings, Hewlett Packard Enterprise Company's ( NYSE:HPE ) stock was sluggish. We did some...",
-            "publication_date": "2025-03-20T11:21:35.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.6599",
-            "source": "Simply Wall St.",
-            "ticker": "HPE",
-            "title": "Investors Shouldn't Be Too Comfortable With Hewlett Packard Enterprise's (NYSE:HPE) Earnings",
-            "url": "https://finance.yahoo.com/news/investors-shouldnt-too-comfortable-hewlett-112135072.html"
-        },
-        {
-            "headline": "Hewlett Packard Enterprise faces challenges related to rising costs due to tariff hikes and the delayed Juniper acquisition, making the stock a risky bet.",
-            "publication_date": "2025-04-03T14:35:00.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.34",
-            "source": "Zacks",
-            "ticker": "HPE",
-            "title": "HPE Stock Plunges 36% in 3 Months: Should You Buy, Sell or Hold?",
-            "url": "https://finance.yahoo.com/news/hpe-stock-plunges-36-3-143500652.html"
-        }
-    ],
-    "avgScore": 0.15987368421052628,
-    "todayPctChange": -0.030337547172881944,
-    "vScore": -0.4850175436439272
+    "4 4 2025": {
+        "importantArticles": [
+            {
+                "headline": "HOUSTON, April 04, 2025--phoenixNAP, a global IT services provider, is accelerating its business growth and time-to-market for its Infrastructure as a Service (IaaS) platforms with servers from Hewlett Packard Enterprise (NYSE: HPE). The servers, which include the latest Intel Xeon 6 processors, represent HPE\u2019s first disaggregated computing hardware that conforms to the Data Center Modular Hardware System (DC-MHS) design specification developed by the Open Compute Project (OCP) community.",
+                "publication_date": "2025-04-04T14:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.3818",
+                "source": "Business Wire",
+                "ticker": "HPE",
+                "title": "phoenixNAP Advances Cloud Services Using HPE Disaggregated Data Center Modular Hardware System Servers with Intel Xeon 6",
+                "url": "https://finance.yahoo.com/news/phoenixnap-advances-cloud-services-using-140000421.html"
+            },
+            {
+                "headline": "Hewlett Packard Enterprise (NYSE:HPE) has recently been making noteworthy advancements in AI integration and client services, highlighted by its collaboration with Compucom and the enhancement of its Full Lifecycle Observability capabilities. Despite this, over the past week, HPE experienced a 14% price decline. This drop occurred amid broader market turmoil, with the Dow Jones down 4% and the tech-heavy Nasdaq falling 5% due to growing trade tensions and newly announced tariffs. The overall...",
+                "publication_date": "2025-04-04T18:46:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.7351",
+                "source": "Simply Wall St.",
+                "ticker": "HPE",
+                "title": "Hewlett Packard Enterprise (NYSE:HPE) Sees 14% Price Drop Over Trade Tensions and Tariffs",
+                "url": "https://finance.yahoo.com/news/hewlett-packard-enterprise-nyse-hpe-184600518.html"
+            },
+            {
+                "headline": "Hewlett Packard Enterprise (NYSE:HPE) has recently been making noteworthy advancements in AI integration and client services, highlighted by its collaboration with Compucom and the enhancement of its Full Lifecycle Observability capabilities. Despite this, over the past week, HPE experienced a 14% price decline. This drop occurred amid broader market turmoil, with the Dow Jones down 4% and the tech-heavy Nasdaq falling 5% due to growing trade tensions and newly announced tariffs. The overall...",
+                "publication_date": "2025-04-04T18:46:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.7351",
+                "source": "Simply Wall St.",
+                "ticker": "HPE",
+                "title": "Hewlett Packard Enterprise (NYSE:HPE) Sees 14% Price Drop Over Trade Tensions and Tariffs",
+                "url": "https://finance.yahoo.com/news/hewlett-packard-enterprise-nyse-hpe-184600518.html"
+            },
+            {
+                "headline": "HOUSTON, April 04, 2025--phoenixNAP, a global IT services provider, is accelerating its business growth and time-to-market for its Infrastructure as a Service (IaaS) platforms with servers from Hewlett Packard Enterprise (NYSE: HPE). The servers, which include the latest Intel Xeon 6 processors, represent HPE\u2019s first disaggregated computing hardware that conforms to the Data Center Modular Hardware System (DC-MHS) design specification developed by the Open Compute Project (OCP) community.",
+                "publication_date": "2025-04-04T14:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.3818",
+                "source": "Business Wire",
+                "ticker": "HPE",
+                "title": "phoenixNAP Advances Cloud Services Using HPE Disaggregated Data Center Modular Hardware System Servers with Intel Xeon 6",
+                "url": "https://finance.yahoo.com/news/phoenixnap-advances-cloud-services-using-140000421.html"
+            }
+        ],
+        "avgScore": -0.17665
+    },
+    "4 3 2025": {
+        "importantArticles": [
+            {
+                "headline": "Shares of enterprise technology company Hewlett Packard Enterprise (NYSE:HPE) fell 14.2% in the afternoon session after President Trump announced \"reciprocal tariffs\" on all US imports, set at a minimum rate of 10%. Markets reacted negatively to the announcement, reflecting deep concerns among investors about the broader economic implications. The tariffs were likely seen as a significant threat to global trade flows, with the potential to slow economic growth, drive up consumer prices, and spar",
+                "publication_date": "2025-04-03T19:59:01.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.296",
+                "source": "StockStory",
+                "ticker": "HPE",
+                "title": "Why Hewlett Packard Enterprise (HPE) Stock Is Down Today",
+                "url": "https://finance.yahoo.com/news/why-hewlett-packard-enterprise-hpe-195901789.html"
+            },
+            {
+                "headline": "Let\u2019s dig into the relative performance of Cisco (NASDAQ:CSCO) and its peers as we unravel the now-completed Q4 it services & other tech earnings season.",
+                "publication_date": "2025-04-03T09:13:49.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "StockStory",
+                "ticker": "HPE",
+                "title": "Unpacking Q4 Earnings: Cisco (NASDAQ:CSCO) In The Context Of Other IT Services & Other Tech Stocks",
+                "url": "https://finance.yahoo.com/news/unpacking-q4-earnings-cisco-nasdaq-091349882.html"
+            },
+            {
+                "headline": "Hewlett Packard Enterprise faces challenges related to rising costs due to tariff hikes and the delayed Juniper acquisition, making the stock a risky bet.",
+                "publication_date": "2025-04-03T14:35:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.34",
+                "source": "Zacks",
+                "ticker": "HPE",
+                "title": "HPE Stock Plunges 36% in 3 Months: Should You Buy, Sell or Hold?",
+                "url": "https://finance.yahoo.com/news/hpe-stock-plunges-36-3-143500652.html"
+            },
+            {
+                "headline": "Hewlett Packard Enterprise faces challenges related to rising costs due to tariff hikes and the delayed Juniper acquisition, making the stock a risky bet.",
+                "publication_date": "2025-04-03T14:35:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.34",
+                "source": "Zacks",
+                "ticker": "HPE",
+                "title": "HPE Stock Plunges 36% in 3 Months: Should You Buy, Sell or Hold?",
+                "url": "https://finance.yahoo.com/news/hpe-stock-plunges-36-3-143500652.html"
+            },
+            {
+                "headline": "Let\u2019s dig into the relative performance of Cisco (NASDAQ:CSCO) and its peers as we unravel the now-completed Q4 it services & other tech earnings season.",
+                "publication_date": "2025-04-03T09:13:49.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "StockStory",
+                "ticker": "HPE",
+                "title": "Unpacking Q4 Earnings: Cisco (NASDAQ:CSCO) In The Context Of Other IT Services & Other Tech Stocks",
+                "url": "https://finance.yahoo.com/news/unpacking-q4-earnings-cisco-nasdaq-091349882.html"
+            },
+            {
+                "headline": "Shares of enterprise technology company Hewlett Packard Enterprise (NYSE:HPE) fell 14.2% in the afternoon session after President Trump announced \"reciprocal tariffs\" on all US imports, set at a minimum rate of 10%. Markets reacted negatively to the announcement, reflecting deep concerns among investors about the broader economic implications. The tariffs were likely seen as a significant threat to global trade flows, with the potential to slow economic growth, drive up consumer prices, and spar",
+                "publication_date": "2025-04-03T19:59:01.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.296",
+                "source": "StockStory",
+                "ticker": "HPE",
+                "title": "Why Hewlett Packard Enterprise (HPE) Stock Is Down Today",
+                "url": "https://finance.yahoo.com/news/why-hewlett-packard-enterprise-hpe-195901789.html"
+            }
+        ],
+        "avgScore": -0.01466666666666668
+    },
+    "4 2 2025": {
+        "importantArticles": [
+            {
+                "headline": "HPE offers 26 weeks of paid leave for all new parents and expects workers to take the full time, if not more.",
+                "publication_date": "2025-04-02T12:28:43.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.0516",
+                "source": "Fortune",
+                "ticker": "HPE",
+                "title": "This company believes an extremely generous paid parental leave is one of the best ways to retain employees",
+                "url": "https://finance.yahoo.com/news/company-believes-extremely-generous-paid-122843575.html"
+            },
+            {
+                "headline": "Employees are eligible for 26 weeks of fully paid parental leave.",
+                "publication_date": "2025-04-02T08:30:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.1189",
+                "source": "Fortune",
+                "ticker": "HPE",
+                "title": "Here\u2019s why Hewlett Packard Enterprise expanded its paid parental leave policy and never looked back",
+                "url": "https://finance.yahoo.com/news/why-hewlett-packard-enterprises-expanded-083000713.html"
+            },
+            {
+                "headline": "Employees are eligible for 26 weeks of fully paid parental leave.",
+                "publication_date": "2025-04-02T08:30:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.1189",
+                "source": "Fortune",
+                "ticker": "HPE",
+                "title": "Here\u2019s why Hewlett Packard Enterprise expanded its paid parental leave policy and never looked back",
+                "url": "https://finance.yahoo.com/news/why-hewlett-packard-enterprises-expanded-083000713.html"
+            },
+            {
+                "headline": "HPE offers 26 weeks of paid leave for all new parents and expects workers to take the full time, if not more.",
+                "publication_date": "2025-04-02T12:28:43.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.0516",
+                "source": "Fortune",
+                "ticker": "HPE",
+                "title": "This company believes an extremely generous paid parental leave is one of the best ways to retain employees",
+                "url": "https://finance.yahoo.com/news/company-believes-extremely-generous-paid-122843575.html"
+            }
+        ],
+        "avgScore": -0.08525
+    },
+    "coef": -0.7972497517570236
 }

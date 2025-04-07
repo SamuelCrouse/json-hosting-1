@@ -1,67 +1,268 @@
 {
-    "importantArticles": [
-        {
-            "headline": "President Donald Trump stated in a post to Truth Social: \u201cThis would be a PERFECT time for Fed Chairman Jerome Powell to cut Interest Rates. He is always \u201clate,\u201d but he could now change his image, and quickly. Energy prices are down, Interest Rates are down, Inflation is down, even Eggs are down 69%, and Jobs are UP, all within two months \u2013 A BIG WIN for America. CUT INTEREST RATES, JEROME, AND STOP PLAYING POLITICS!\u201d Published first on TheFly \u2013 the ultimate source for real-time, market-moving b",
-            "publication_date": "2025-04-05T15:16:05.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.9628",
-            "source": "TipRanks",
-            "ticker": "SPY",
-            "title": "Trump says \u2018perfect time\u2019 for Fed Chair to cut interest rates",
-            "url": "https://finance.yahoo.com/news/trump-says-perfect-time-fed-151605789.html"
-        },
-        {
-            "headline": "Federal Reserve Chair Jerome Powell, in a speech at the Society for Advancing Business Editing and Writing annual conference, stated in part: \u201cOur monetary policy stance is well positioned to deal with the risks and uncertainties we face as we gain a better understanding of the policy changes and their likely effects on the economy. It is not our role to comment on those policies. Rather, we make an assessment of their likely effects, observe the behavior of the economy, and set monetary policy",
-            "publication_date": "2025-04-05T15:35:41.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.5994",
-            "source": "TipRanks",
-            "ticker": "SPY",
-            "title": "Powell says \u2018too soon to say\u2019 what appropriate path for monetary policy will be",
-            "url": "https://finance.yahoo.com/news/powell-says-too-soon-appropriate-153541999.html"
-        },
-        {
-            "headline": "The First Trust Utilities AlphaDEX Fund (FXU) pulled in $425.7 million Monday. Here are the daily ETF fund flows for April 1, 2025.",
-            "publication_date": "2025-04-01T23:30:00.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.5106",
-            "source": "etf.com",
-            "ticker": "SPY",
-            "title": "FXU Assets Surge 29% With $426 Million Inflow",
-            "url": "https://finance.yahoo.com/news/fxu-assets-surge-29-426-233000269.html"
-        },
-        {
-            "headline": "After the worst week for the S&P 500 since March 2020, equity strategists don't seen any end in sight as investor scramble to price in the worst case scenario from President Trump's latest tariff announcements.",
-            "publication_date": "2025-04-06T22:55:15.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.8481",
-            "source": "Yahoo Finance",
-            "ticker": "SPY",
-            "title": "Wall Street experts warn stocks have 'ample space' to continue cratering as Trump team digs in on tariffs",
-            "url": "https://finance.yahoo.com/news/wall-street-experts-warn-stocks-have-ample-space-to-continue-cratering-as-trump-team-digs-in-on-tariffs-225515352.html"
-        },
-        {
-            "headline": "- Oil prices cratered on Friday, tumbling to their lowest levels since 2021. - WTI crude oil traded as low as $60.45 per barrel. - Energy remains one of the better-performing sectors this year.",
-            "publication_date": "2025-04-04T22:45:00.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.743",
-            "source": "etf.com",
-            "ticker": "SPY",
-            "title": "Oil Plunges To New Multi-Year Lows As Recession Fear Spikes",
-            "url": "https://finance.yahoo.com/news/oil-plunges-multi-lows-recession-224500779.html"
-        },
-        {
-            "headline": "The major averages were sharply lower again near noon, continuing yesterday\u2019s post-tariff slide. China has retaliated with additional tariffs of 34% on all U.S. goods a day after the Trump administration imposed its own sweeping levies. Meanwhile, the latest U.S. jobs data show that nonfarm payrolls rose by a higher-than-forecast 228,000 jobs, though the unemployment rate has ticked higher. Looking to commodities, oil prices are sharply lower due to a planned output increase promised by OPEC+ as",
-            "publication_date": "2025-04-05T16:10:32.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.6808",
-            "source": "TipRanks",
-            "ticker": "SPY",
-            "title": "China announces retaliatory tariffs, U.S. unemployment rises: Morning Buzz",
-            "url": "https://finance.yahoo.com/news/china-announces-retaliatory-tariffs-u-161032836.html"
-        }
-    ],
-    "avgScore": -0.11275384615384611,
-    "todayPctChange": -0.036625628414232794,
-    "vScore": 0.4129680471506339
+    "4 4 2025": {
+        "importantArticles": [
+            {
+                "headline": "The March employment report comes as investors are closely watching for any signs of slowing in the US economy amid a stock market sell-off.",
+                "publication_date": "2025-04-04T12:52:35.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Yahoo Finance",
+                "ticker": "SPY",
+                "title": "US economy adds 228,000 jobs in March, unemployment rate rises to 4.2%",
+                "url": "https://finance.yahoo.com/news/us-economy-adds-228000-jobs-in-march-unemployment-rate-rises-to-42-203511885.html"
+            },
+            {
+                "headline": "Trump's tariff move spurs RBC's second S&P 500 downgrade this year as macro stress builds across equity markets",
+                "publication_date": "2025-04-04T20:21:14.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.4215",
+                "source": "GuruFocus.com",
+                "ticker": "SPY",
+                "title": "RBC Cuts S&P 500 Outlook as Growth Risks Surge Post-Tariffs",
+                "url": "https://finance.yahoo.com/news/rbc-cuts-p-500-outlook-202114866.html"
+            },
+            {
+                "headline": "JPMorgan projects Trump's hefty tariff plan will push the US economy into recession in the second half of 2025.",
+                "publication_date": "2025-04-04T22:20:19.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.4215",
+                "source": "Yahoo Finance",
+                "ticker": "SPY",
+                "title": "JPMorgan becomes the first Wall Street bank to forecast a US recession following Trump's tariffs",
+                "url": "https://finance.yahoo.com/news/jpmorgan-becomes-the-first-wall-street-bank-to-forecast-a-us-recession-following-trumps-tariffs-222019272.html"
+            },
+            {
+                "headline": "- Oil prices cratered on Friday, tumbling to their lowest levels since 2021. - WTI crude oil traded as low as $60.45 per barrel. - Energy remains one of the better-performing sectors this year.",
+                "publication_date": "2025-04-04T22:45:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.743",
+                "source": "etf.com",
+                "ticker": "SPY",
+                "title": "Oil Plunges To New Multi-Year Lows As Recession Fear Spikes",
+                "url": "https://finance.yahoo.com/news/oil-plunges-multi-lows-recession-224500779.html"
+            },
+            {
+                "headline": "Wall Street strategists see an increasing chance their worst-case scenario for stocks in 2025 comes to fruition if Trump's trade war intensifies.",
+                "publication_date": "2025-04-04T20:52:11.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.4404",
+                "source": "Yahoo Finance",
+                "ticker": "SPY",
+                "title": "Wall Street fears Trump's tariffs will wipe out 2024's stock market gains",
+                "url": "https://finance.yahoo.com/news/wall-street-fears-trumps-tariffs-will-wipe-out-2024s-stock-market-gains-152449704.html"
+            },
+            {
+                "headline": "JPMorgan projects Trump's hefty tariff plan will push the US economy into recession in the second half of 2025.",
+                "publication_date": "2025-04-04T22:20:19.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.4215",
+                "source": "Yahoo Finance",
+                "ticker": "SPY",
+                "title": "JPMorgan becomes the first Wall Street bank to forecast a US recession following Trump's tariffs",
+                "url": "https://finance.yahoo.com/news/jpmorgan-becomes-the-first-wall-street-bank-to-forecast-a-us-recession-following-trumps-tariffs-222019272.html"
+            }
+        ],
+        "avgScore": -0.40528
+    },
+    "4 3 2025": {
+        "importantArticles": [
+            {
+                "headline": "The SPDR S&P 500 ETF Trust (SPY) saw a sizable $6.5 billion in outflows. Here are the daily ETF fund flows for April 1, 2025.",
+                "publication_date": "2025-04-03T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5106",
+                "source": "etf.com",
+                "ticker": "SPY",
+                "title": "April Kicks Off With $3.2 Billion in Outflows",
+                "url": "https://finance.yahoo.com/news/april-kicks-off-3-2-000000712.html"
+            },
+            {
+                "headline": "As larger-than-expected tariffs have sparked a massive stock market sell-off, Wall Street strategists are reassessing their 2025 outlooks for the equity market.",
+                "publication_date": "2025-04-03T15:16:41.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Yahoo Finance",
+                "ticker": "SPY",
+                "title": "The stock market will be 'severely tested' by Trump's tariffs",
+                "url": "https://finance.yahoo.com/news/the-stock-market-will-be-severely-tested-by-trumps-tariffs-151640320.html"
+            },
+            {
+                "headline": "As larger-than-expected tariffs have sparked a massive stock market sell-off, Wall Street strategists are reassessing their 2025 outlooks for the equity market.",
+                "publication_date": "2025-04-03T15:16:41.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Yahoo Finance",
+                "ticker": "SPY",
+                "title": "The stock market will be 'severely tested' by Trump's tariffs",
+                "url": "https://finance.yahoo.com/news/the-stock-market-will-be-severely-tested-by-trumps-tariffs-151640320.html"
+            },
+            {
+                "headline": "The SPDR S&P 500 ETF Trust (SPY) saw a sizable $6.5 billion in outflows. Here are the daily ETF fund flows for April 1, 2025.",
+                "publication_date": "2025-04-03T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5106",
+                "source": "etf.com",
+                "ticker": "SPY",
+                "title": "April Kicks Off With $3.2 Billion in Outflows",
+                "url": "https://finance.yahoo.com/news/april-kicks-off-3-2-000000712.html"
+            }
+        ],
+        "avgScore": 0.2553
+    },
+    "4 2 2025": {
+        "importantArticles": [
+            {
+                "headline": "Stocks sold off late Wednesday as President Trump's reciprocal tariffs proved to be harsher than many on Wall Street had expected.",
+                "publication_date": "2025-04-02T22:41:19.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.4939",
+                "source": "Yahoo Finance",
+                "ticker": "SPY",
+                "title": "'Worse than expected': Wall Street reacts to Trump's 'Liberation Day' tariff surprise, stocks sink",
+                "url": "https://finance.yahoo.com/news/worse-than-expected-wall-street-reacts-to-trumps-liberation-day-tariff-surprise-stocks-sink-222345902.html"
+            },
+            {
+                "headline": "Stocks sold off late Wednesday as President Trump's reciprocal tariffs proved to be harsher than many on Wall Street had expected.",
+                "publication_date": "2025-04-02T22:41:19.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.4939",
+                "source": "Yahoo Finance",
+                "ticker": "SPY",
+                "title": "'Worse than expected': Wall Street reacts to Trump's 'Liberation Day' tariff surprise, stocks sink",
+                "url": "https://finance.yahoo.com/news/worse-than-expected-wall-street-reacts-to-trumps-liberation-day-tariff-surprise-stocks-sink-222345902.html"
+            }
+        ],
+        "avgScore": -0.4939
+    },
+    "4 1 2025": {
+        "importantArticles": [
+            {
+                "headline": "The First Trust Utilities AlphaDEX Fund (FXU) pulled in $425.7 million Monday. Here are the daily ETF fund flows for April 1, 2025.",
+                "publication_date": "2025-04-01T23:30:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5106",
+                "source": "etf.com",
+                "ticker": "SPY",
+                "title": "FXU Assets Surge 29% With $426 Million Inflow",
+                "url": "https://finance.yahoo.com/news/fxu-assets-surge-29-426-233000269.html"
+            },
+            {
+                "headline": "Job openings hovered near a four-year low in February as the labor market showed continued signs of slow cooling.",
+                "publication_date": "2025-04-01T14:46:08.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.2732",
+                "source": "Yahoo Finance",
+                "ticker": "SPY",
+                "title": "Job openings hit lowest level since September as labor market cools",
+                "url": "https://finance.yahoo.com/news/job-openings-hit-lowest-level-since-september-as-labor-market-cools-143520572.html"
+            },
+            {
+                "headline": "While many stocks in the S&P 500 ETF posted dismal performance in the just-concluded quarter, we discuss some that rose by more than 20%.",
+                "publication_date": "2025-04-01T15:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.6124",
+                "source": "Zacks",
+                "ticker": "SPY",
+                "title": "10 Stocks of the S&P 500 ETF Up More Than 20% in Q1",
+                "url": "https://finance.yahoo.com/news/10-stocks-p-500-etf-150000257.html"
+            },
+            {
+                "headline": "While many stocks in the S&P 500 ETF posted dismal performance in the just-concluded quarter, we discuss some that rose by more than 20%.",
+                "publication_date": "2025-04-01T15:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.6124",
+                "source": "Zacks",
+                "ticker": "SPY",
+                "title": "10 Stocks of the S&P 500 ETF Up More Than 20% in Q1",
+                "url": "https://finance.yahoo.com/news/10-stocks-p-500-etf-150000257.html"
+            },
+            {
+                "headline": "Job openings hovered near a four-year low in February as the labor market showed continued signs of slow cooling.",
+                "publication_date": "2025-04-01T14:46:08.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.2732",
+                "source": "Yahoo Finance",
+                "ticker": "SPY",
+                "title": "Job openings hit lowest level since September as labor market cools",
+                "url": "https://finance.yahoo.com/news/job-openings-hit-lowest-level-since-september-as-labor-market-cools-143520572.html"
+            },
+            {
+                "headline": "The First Trust Utilities AlphaDEX Fund (FXU) pulled in $425.7 million Monday. Here are the daily ETF fund flows for April 1, 2025.",
+                "publication_date": "2025-04-01T23:30:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5106",
+                "source": "etf.com",
+                "ticker": "SPY",
+                "title": "FXU Assets Surge 29% With $426 Million Inflow",
+                "url": "https://finance.yahoo.com/news/fxu-assets-surge-29-426-233000269.html"
+            }
+        ],
+        "avgScore": -0.125
+    },
+    "3 31 2025": {
+        "importantArticles": [
+            {
+                "headline": "Wall Street strategists are growing less optimistic on S&P 500 returns in 2025 as President Trump's tariffs are expected to weigh on economic growth.",
+                "publication_date": "2025-03-31T15:08:23.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6494",
+                "source": "Yahoo Finance",
+                "ticker": "SPY",
+                "title": "Wall Street strategists continue to cut their stock market forecasts as Trump tariff fears become reality",
+                "url": "https://finance.yahoo.com/news/wall-street-strategists-continue-to-cut-their-stock-market-forecasts-as-trump-tariff-fears-become-reality-140603123.html"
+            },
+            {
+                "headline": "Trump's highly anticipated tariff announcements and a crucial labor market report are set to greet a slumping stock market in the week ahead.",
+                "publication_date": "2025-03-31T10:01:40.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.3182",
+                "source": "Yahoo Finance",
+                "ticker": "SPY",
+                "title": "Trump's 'Liberation Day' and a labor report: What to know this week",
+                "url": "https://finance.yahoo.com/news/trumps-liberation-day-and-a-labor-report-what-to-know-this-week-113053983.html"
+            },
+            {
+                "headline": "Investors are wary of further downside in the stock market ahead of President Trump's reciprocal tariff deadline on April 2.",
+                "publication_date": "2025-03-31T09:18:20.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.25",
+                "source": "Yahoo Finance",
+                "ticker": "SPY",
+                "title": "'Not currently priced in': What Wall Street is saying about Trump's April tariff deadline",
+                "url": "https://finance.yahoo.com/news/not-currently-priced-in-what-wall-street-is-saying-about-trumps-april-tariff-deadline-130002337.html"
+            },
+            {
+                "headline": "Investors are wary of further downside in the stock market ahead of President Trump's reciprocal tariff deadline on April 2.",
+                "publication_date": "2025-03-31T09:18:20.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.25",
+                "source": "Yahoo Finance",
+                "ticker": "SPY",
+                "title": "'Not currently priced in': What Wall Street is saying about Trump's April tariff deadline",
+                "url": "https://finance.yahoo.com/news/not-currently-priced-in-what-wall-street-is-saying-about-trumps-april-tariff-deadline-130002337.html"
+            },
+            {
+                "headline": "Trump's highly anticipated tariff announcements and a crucial labor market report are set to greet a slumping stock market in the week ahead.",
+                "publication_date": "2025-03-31T10:01:40.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.3182",
+                "source": "Yahoo Finance",
+                "ticker": "SPY",
+                "title": "Trump's 'Liberation Day' and a labor report: What to know this week",
+                "url": "https://finance.yahoo.com/news/trumps-liberation-day-and-a-labor-report-what-to-know-this-week-113053983.html"
+            },
+            {
+                "headline": "Wall Street strategists are growing less optimistic on S&P 500 returns in 2025 as President Trump's tariffs are expected to weigh on economic growth.",
+                "publication_date": "2025-03-31T15:08:23.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6494",
+                "source": "Yahoo Finance",
+                "ticker": "SPY",
+                "title": "Wall Street strategists continue to cut their stock market forecasts as Trump tariff fears become reality",
+                "url": "https://finance.yahoo.com/news/wall-street-strategists-continue-to-cut-their-stock-market-forecasts-as-trump-tariff-fears-become-reality-140603123.html"
+            }
+        ],
+        "avgScore": 0.2392
+    },
+    "coef": 0.2105495053960783
 }

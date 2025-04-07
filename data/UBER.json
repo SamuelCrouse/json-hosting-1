@@ -1,67 +1,308 @@
 {
-    "importantArticles": [
-        {
-            "headline": "Uber Technologies (NYSE:UBER) saw a 21% increase in its share price over the last quarter, supported by several strategic partnerships and expansions. The recent collaboration with Coco Robotics, launching in Miami, and the joint initiative with WeRide to enhance autonomous vehicle access in Dubai suggests UBER's commitment to innovation and market expansion. These developments were likely favorably viewed by investors amid a generally positive tech stock environment, as reflected by gains in...",
-            "publication_date": "2025-04-02T17:58:57.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.9559",
-            "source": "Simply Wall St.",
-            "ticker": "UBER",
-            "title": "Uber Technologies (NYSE:UBER) Unveils Robot Delivery Expansion And Autonomous Ventures In Dubai",
-            "url": "https://finance.yahoo.com/news/uber-technologies-nyse-uber-unveils-175857438.html"
-        },
-        {
-            "headline": "A new partnership between Domino's and DoorDash means that uniformed Domino's drivers will deliver pizzas ordered through the DoorDash app, the pizza company said Wednesday.  Being listed on the DoorDash app means it will be easier for Domino's to reach new customers accustomed to ordering through the DoorDash app, and Chief Executive Officer Joe Jordan said in a prepared statement the company expects to gain new customers particularly in rural and suburban areas.  Jordan said third-party delivery platforms are a \"$1 billion opportunity\" for the pizza company.",
-            "publication_date": "2025-04-02T11:14:15.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.875",
-            "source": "Reuters",
-            "ticker": "UBER",
-            "title": "Domino's partners with DoorDash in US stores to lure customers",
-            "url": "https://finance.yahoo.com/news/dominos-partners-doordash-us-stores-111415803.html"
-        },
-        {
-            "headline": "It's difficult to see upside for stocks when pessimism is pervasive, but as investors were reminded in 2022, buying shares of growing companies amid fear on Wall Street can earn you monster returns later on.  Worries over tariffs are gripping Wall Street right now, but there are stocks ready to soar based on their business opportunities.  Uber Technologies (NYSE: UBER) and Chewy (NYSE: CHWY) are seeing strong momentum in their businesses.",
-            "publication_date": "2025-04-06T08:10:00.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.6652",
-            "source": "Motley Fool",
-            "ticker": "UBER",
-            "title": "2 Growth Stocks With Great Return Potential in 2025 and Beyond",
-            "url": "https://finance.yahoo.com/news/2-growth-stocks-great-return-081000799.html"
-        },
-        {
-            "headline": "BofA notes that President Trump\u2019s newly announced tariffs were larger than anticipated and are \u201ca direct negative\u201d for discretionary retail sales and advertising. In addition, the potential for increasing recession fears fueled by the tariffs are \u201ca relative negative for the entire Internet sector,\u201d which the analyst notes underperformed in 2008 and 2022 as fears of a recession grew. The \u201conly potential silver lining\u201d is that proposed rates could be viewed as a negotiation tool that may not be f",
-            "publication_date": "2025-04-04T13:16:20.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.9313",
-            "source": "TipRanks",
-            "ticker": "UBER",
-            "title": "Tariff-fueled recession fears \u2018relative negative\u2019 for Internet sector, says BofA",
-            "url": "https://finance.yahoo.com/news/tariff-fueled-recession-fears-relative-131620534.html"
-        },
-        {
-            "headline": "Signs of Tesla's (NASDAQ: TSLA) brand crisis are almost everywhere you look.  Over the weekend, more than 200 \"Tesla Takedown\" protests were held across the country as Americans expressed their ire about CEO Elon Musk's project to downsize federal agencies -- which President Donald Trump refers to as the Department of Government Efficiency (DOGE) -- by targeting his company.  Sales in Europe appear to be plunging; registration data showed Tesla sales were down 42% across most of Europe in the first two months of the year.",
-            "publication_date": "2025-04-03T14:36:00.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.5423",
-            "source": "Motley Fool",
-            "ticker": "UBER",
-            "title": "Will Tesla's Pain Be This EV Stock's Gain?",
-            "url": "https://finance.yahoo.com/news/teslas-pain-ev-stocks-gain-143600614.html"
-        },
-        {
-            "headline": "Wall Street is wasting no time adjusting their views on certain stocks in the wake of bruising Trump tariffs.",
-            "publication_date": "2025-04-04T13:54:45.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.4215",
-            "source": "Yahoo Finance",
-            "ticker": "UBER",
-            "title": "Wall Street now hates these 10 stocks because of Trump tariffs",
-            "url": "https://finance.yahoo.com/news/wall-street-now-hates-these-10-stocks-because-of-trump-tariffs-135445636.html"
-        }
-    ],
-    "avgScore": 0.19903684210526312,
-    "todayPctChange": -0.03998220110304174,
-    "vScore": -0.7957931047966995
+    "4 4 2025": {
+        "importantArticles": [
+            {
+                "headline": "Uber trades at $69.28 per share and has moved almost in lockstep with the market over the last six months. The stock has lost 6.7% while the S&P 500 is down 7%. This might have investors contemplating their next move.",
+                "publication_date": "2025-04-04T09:07:02.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "-0.0258",
+                "source": "StockStory",
+                "ticker": "UBER",
+                "title": "3 Reasons UBER Has Explosive Upside Potential",
+                "url": "https://finance.yahoo.com/news/3-reasons-uber-explosive-upside-090702715.html"
+            },
+            {
+                "headline": "Wall Street is wasting no time adjusting their views on certain stocks in the wake of bruising Trump tariffs.",
+                "publication_date": "2025-04-04T13:54:45.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.4215",
+                "source": "Yahoo Finance",
+                "ticker": "UBER",
+                "title": "Wall Street now hates these 10 stocks because of Trump tariffs",
+                "url": "https://finance.yahoo.com/news/wall-street-now-hates-these-10-stocks-because-of-trump-tariffs-135445636.html"
+            },
+            {
+                "headline": "BofA notes that President Trump\u2019s newly announced tariffs were larger than anticipated and are \u201ca direct negative\u201d for discretionary retail sales and advertising. In addition, the potential for increasing recession fears fueled by the tariffs are \u201ca relative negative for the entire Internet sector,\u201d which the analyst notes underperformed in 2008 and 2022 as fears of a recession grew. The \u201conly potential silver lining\u201d is that proposed rates could be viewed as a negotiation tool that may not be f",
+                "publication_date": "2025-04-04T13:16:20.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.9313",
+                "source": "TipRanks",
+                "ticker": "UBER",
+                "title": "Tariff-fueled recession fears \u2018relative negative\u2019 for Internet sector, says BofA",
+                "url": "https://finance.yahoo.com/news/tariff-fueled-recession-fears-relative-131620534.html"
+            },
+            {
+                "headline": "BofA notes that President Trump\u2019s newly announced tariffs were larger than anticipated and are \u201ca direct negative\u201d for discretionary retail sales and advertising. In addition, the potential for increasing recession fears fueled by the tariffs are \u201ca relative negative for the entire Internet sector,\u201d which the analyst notes underperformed in 2008 and 2022 as fears of a recession grew. The \u201conly potential silver lining\u201d is that proposed rates could be viewed as a negotiation tool that may not be f",
+                "publication_date": "2025-04-04T13:16:20.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.9313",
+                "source": "TipRanks",
+                "ticker": "UBER",
+                "title": "Tariff-fueled recession fears \u2018relative negative\u2019 for Internet sector, says BofA",
+                "url": "https://finance.yahoo.com/news/tariff-fueled-recession-fears-relative-131620534.html"
+            },
+            {
+                "headline": "Wall Street is wasting no time adjusting their views on certain stocks in the wake of bruising Trump tariffs.",
+                "publication_date": "2025-04-04T13:54:45.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.4215",
+                "source": "Yahoo Finance",
+                "ticker": "UBER",
+                "title": "Wall Street now hates these 10 stocks because of Trump tariffs",
+                "url": "https://finance.yahoo.com/news/wall-street-now-hates-these-10-stocks-because-of-trump-tariffs-135445636.html"
+            },
+            {
+                "headline": "Uber trades at $69.28 per share and has moved almost in lockstep with the market over the last six months. The stock has lost 6.7% while the S&P 500 is down 7%. This might have investors contemplating their next move.",
+                "publication_date": "2025-04-04T09:07:02.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "-0.0258",
+                "source": "StockStory",
+                "ticker": "UBER",
+                "title": "3 Reasons UBER Has Explosive Upside Potential",
+                "url": "https://finance.yahoo.com/news/3-reasons-uber-explosive-upside-090702715.html"
+            }
+        ],
+        "avgScore": -0.45953333333333335
+    },
+    "4 3 2025": {
+        "importantArticles": [
+            {
+                "headline": "DALLAS, April 03, 2025 (GLOBE NEWSWIRE) -- Serve Robotics Inc. (\u201cServe\u201d) (Nasdaq: SERV), a leading autonomous sidewalk delivery company, today announced the launch of its service in the Dallas-Fort Worth metro area. This strategic expansion, in continued partnership with Uber Eats\u2014the delivery platform of Uber Technologies Inc. (NYSE: UBER)\u2014 represents a major milestone in Serve\u2019s plan to deploy 2,000 AI-powered delivery robots across the U.S. by the end of 2025. Serve robots have begun operatin",
+                "publication_date": "2025-04-03T11:30:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.2263",
+                "source": "GlobeNewswire",
+                "ticker": "UBER",
+                "title": "Serve Robotics Saddles Up for Autonomous Delivery in Dallas-Fort Worth Via Uber Eats",
+                "url": "https://finance.yahoo.com/news/serve-robotics-saddles-autonomous-delivery-113000233.html"
+            },
+            {
+                "headline": "Uber and WeRide have teamed up with Dubai\u2019s Road and Transport Authority (RTA) to advance autonomous vehicle (AV) mobility in the city. The collaboration will integrate AVs into Uber\u2019s platform, with Chinese autonomous driving technology company WeRide as the first technology partner. Uber Autonomous Mobility and Delivery Operations Global Head Noah Zych said: \u201cWe\u2019re thrilled\u2026",
+                "publication_date": "2025-04-03T11:27:09.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.0772",
+                "source": "Just Auto",
+                "ticker": "UBER",
+                "title": "Uber and WeRide to introduce self-driving vehicles in Dubai",
+                "url": "https://finance.yahoo.com/news/uber-weride-introduce-self-driving-112709332.html"
+            },
+            {
+                "headline": "A number of stocks fell in the after-market session after President Trump announced \"reciprocal tariffs\" on all US imports, set at a minimum rate of 10%.",
+                "publication_date": "2025-04-03T17:06:14.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.0772",
+                "source": "StockStory",
+                "ticker": "UBER",
+                "title": "PagerDuty (PD) and Uber (UBER), DoorDash (DASH), GameStop (GME), LiveRamp (RAMP) Stocks Trade Down, What You Need To Know",
+                "url": "https://finance.yahoo.com/news/pagerduty-pd-uber-uber-doordash-170614086.html"
+            },
+            {
+                "headline": "Signs of Tesla's (NASDAQ: TSLA) brand crisis are almost everywhere you look.  Over the weekend, more than 200 \"Tesla Takedown\" protests were held across the country as Americans expressed their ire about CEO Elon Musk's project to downsize federal agencies -- which President Donald Trump refers to as the Department of Government Efficiency (DOGE) -- by targeting his company.  Sales in Europe appear to be plunging; registration data showed Tesla sales were down 42% across most of Europe in the first two months of the year.",
+                "publication_date": "2025-04-03T14:36:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5423",
+                "source": "Motley Fool",
+                "ticker": "UBER",
+                "title": "Will Tesla's Pain Be This EV Stock's Gain?",
+                "url": "https://finance.yahoo.com/news/teslas-pain-ev-stocks-gain-143600614.html"
+            },
+            {
+                "headline": "A number of stocks fell in the after-market session after President Trump announced \"reciprocal tariffs\" on all US imports, set at a minimum rate of 10%.",
+                "publication_date": "2025-04-03T17:06:14.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.0772",
+                "source": "StockStory",
+                "ticker": "UBER",
+                "title": "PagerDuty (PD) and Uber (UBER), DoorDash (DASH), GameStop (GME), LiveRamp (RAMP) Stocks Trade Down, What You Need To Know",
+                "url": "https://finance.yahoo.com/news/pagerduty-pd-uber-uber-doordash-170614086.html"
+            },
+            {
+                "headline": "Uber and WeRide have teamed up with Dubai\u2019s Road and Transport Authority (RTA) to advance autonomous vehicle (AV) mobility in the city. The collaboration will integrate AVs into Uber\u2019s platform, with Chinese autonomous driving technology company WeRide as the first technology partner. Uber Autonomous Mobility and Delivery Operations Global Head Noah Zych said: \u201cWe\u2019re thrilled\u2026",
+                "publication_date": "2025-04-03T11:27:09.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.0772",
+                "source": "Just Auto",
+                "ticker": "UBER",
+                "title": "Uber and WeRide to introduce self-driving vehicles in Dubai",
+                "url": "https://finance.yahoo.com/news/uber-weride-introduce-self-driving-112709332.html"
+            }
+        ],
+        "avgScore": -0.040400000000000005
+    },
+    "4 2 2025": {
+        "importantArticles": [
+            {
+                "headline": "Uber Technologies (NYSE:UBER) saw a 21% increase in its share price over the last quarter, supported by several strategic partnerships and expansions. The recent collaboration with Coco Robotics, launching in Miami, and the joint initiative with WeRide to enhance autonomous vehicle access in Dubai suggests UBER's commitment to innovation and market expansion. These developments were likely favorably viewed by investors amid a generally positive tech stock environment, as reflected by gains in...",
+                "publication_date": "2025-04-02T17:58:57.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9559",
+                "source": "Simply Wall St.",
+                "ticker": "UBER",
+                "title": "Uber Technologies (NYSE:UBER) Unveils Robot Delivery Expansion And Autonomous Ventures In Dubai",
+                "url": "https://finance.yahoo.com/news/uber-technologies-nyse-uber-unveils-175857438.html"
+            },
+            {
+                "headline": "A new partnership between Domino's and DoorDash means that uniformed Domino's drivers will deliver pizzas ordered through the DoorDash app, the pizza company said Wednesday.  Being listed on the DoorDash app means it will be easier for Domino's to reach new customers accustomed to ordering through the DoorDash app, and Chief Executive Officer Joe Jordan said in a prepared statement the company expects to gain new customers particularly in rural and suburban areas.  Jordan said third-party delivery platforms are a \"$1 billion opportunity\" for the pizza company.",
+                "publication_date": "2025-04-02T11:14:15.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.875",
+                "source": "Reuters",
+                "ticker": "UBER",
+                "title": "Domino's partners with DoorDash in US stores to lure customers",
+                "url": "https://finance.yahoo.com/news/dominos-partners-doordash-us-stores-111415803.html"
+            },
+            {
+                "headline": "DUBAI, United Arab Emirates, April 02, 2025--Uber Technologies, Inc. (NYSE: UBER) and WeRide (NASDAQ: WRD) have taken another step toward shaping the future of mobility, announcing today a partnership with Dubai\u2019s Road and Transport Authority (RTA). The partnership paves the way for Uber to make AVs an accessible and reliable part of everyday life in Dubai, beginning with WeRide as the first technology partner.",
+                "publication_date": "2025-04-02T08:01:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4767",
+                "source": "Business Wire",
+                "ticker": "UBER",
+                "title": "Uber and WeRide Partner with Dubai\u2019s Road and Transport Authority to Bring Autonomous Vehicles to Dubai",
+                "url": "https://finance.yahoo.com/news/uber-weride-partner-dubai-road-080100156.html"
+            },
+            {
+                "headline": "Coco Robotics, the world's leading food delivery robotics company, announced today that it's launching operations in Miami, starting with delivery partner Uber Eats (NYSE: UBER). This announcement marks Coco's entry into the Southeast market.",
+                "publication_date": "2025-04-02T13:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "PR Newswire",
+                "ticker": "UBER",
+                "title": "Coco Robotics Expands Uber Eats Partnership to Miami",
+                "url": "https://finance.yahoo.com/news/coco-robotics-expands-uber-eats-130000376.html"
+            },
+            {
+                "headline": "When it comes to ride-sharing in the U.S., there are only two choices for consumers and investors: Uber (NYSE: UBER) and Lyft (NASDAQ: LYFT).  The two companies have been rivals since their early days, and while Uber has long been the market leader, Lyft has been a steady innovator in the space and held its own despite predictions that it would fall by the wayside.  There are two primary differences between Uber and Lyft.",
+                "publication_date": "2025-04-02T12:05:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Motley Fool",
+                "ticker": "UBER",
+                "title": "Best Stock to Buy Right Now: Uber vs. Lyft?",
+                "url": "https://finance.yahoo.com/news/best-stock-buy-now-uber-120500991.html"
+            },
+            {
+                "headline": "DoorDash shares surged Wednesday after the delivery platform announced a new partnership with Domino's Pizza.",
+                "publication_date": "2025-04-02T17:12:45.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.296",
+                "source": "Investopedia",
+                "ticker": "UBER",
+                "title": "DoorDash Stock Jumps on Domino's Pizza Partnership",
+                "url": "https://finance.yahoo.com/news/doordash-stock-jumps-dominos-pizza-171245347.html"
+            }
+        ],
+        "avgScore": 0.41998888888888886
+    },
+    "4 1 2025": {
+        "importantArticles": [
+            {
+                "headline": "In the U.S., Uber Technologies (NYSE: UBER) and DoorDash (NASDAQ: DASH) dominate the food delivery business.  Of the two, DoorDash claims the most market share in online food delivery, placing it far ahead of Uber Eats and likely leading some investors to assume that it could be an obvious choice between the two.",
+                "publication_date": "2025-04-01T08:15:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.2449",
+                "source": "Motley Fool",
+                "ticker": "UBER",
+                "title": "Best Stock to Buy Right Now: Uber vs. DoorDash",
+                "url": "https://finance.yahoo.com/news/best-stock-buy-now-uber-081500529.html"
+            },
+            {
+                "headline": "The collaboration combines Uber's ride-hailing and delivery with OpenTable's networks in Australia, Canada, Ireland, Mexico, the UK and the US.",
+                "publication_date": "2025-04-01T08:02:12.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Verdict Food Service",
+                "ticker": "UBER",
+                "title": "Uber and OpenTable team up to enhance dining experience",
+                "url": "https://finance.yahoo.com/news/uber-opentable-team-enhance-dining-080212490.html"
+            },
+            {
+                "headline": "The collaboration combines Uber's ride-hailing and delivery with OpenTable's networks in Australia, Canada, Ireland, Mexico, the UK and the US.",
+                "publication_date": "2025-04-01T08:02:12.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Verdict Food Service",
+                "ticker": "UBER",
+                "title": "Uber and OpenTable team up to enhance dining experience",
+                "url": "https://finance.yahoo.com/news/uber-opentable-team-enhance-dining-080212490.html"
+            },
+            {
+                "headline": "In the U.S., Uber Technologies (NYSE: UBER) and DoorDash (NASDAQ: DASH) dominate the food delivery business.  Of the two, DoorDash claims the most market share in online food delivery, placing it far ahead of Uber Eats and likely leading some investors to assume that it could be an obvious choice between the two.",
+                "publication_date": "2025-04-01T08:15:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.2449",
+                "source": "Motley Fool",
+                "ticker": "UBER",
+                "title": "Best Stock to Buy Right Now: Uber vs. DoorDash",
+                "url": "https://finance.yahoo.com/news/best-stock-buy-now-uber-081500529.html"
+            }
+        ],
+        "avgScore": 0.12245
+    },
+    "3 31 2025": {
+        "importantArticles": [
+            {
+                "headline": "Uber Technologies (NYSE: UBER) has navigated the recent stock market volatility well, delivering a solid 23% year-to-date gain for shareholders, while the S&P 500 index is down about 3.5% in 2025 thus far.  As the company targets new growth opportunities, a compelling case emerges that Uber's outlook is stronger than ever.  Here are four reasons I believe Uber Technologies stock can make an excellent addition to your portfolio right now.",
+                "publication_date": "2025-03-31T08:30:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9552",
+                "source": "Motley Fool",
+                "ticker": "UBER",
+                "title": "4 Reasons to Buy Uber Technologies Stock Like There's No Tomorrow",
+                "url": "https://finance.yahoo.com/news/4-reasons-buy-uber-technologies-083000476.html"
+            },
+            {
+                "headline": "We recently published a list of 10 Best Stocks to Buy and Hold For 2 Years. In this article, we are going to take a look at where Uber Technologies, Inc. (NYSE:UBER) stands against other best stocks to buy and hold for 2 years. Will The Tech Stocks Continue to Rally? On March 27, CNBC [\u2026]",
+                "publication_date": "2025-03-31T18:10:34.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8555",
+                "source": "Insider Monkey",
+                "ticker": "UBER",
+                "title": "Is Uber Technologies, Inc. (NYSE:UBER) The Best Stock to Buy and Hold for 2 Years?",
+                "url": "https://finance.yahoo.com/news/uber-technologies-inc-nyse-uber-181034354.html"
+            },
+            {
+                "headline": "SAN FRANCISCO, Calif., March 31, 2025--Uber (NYSE: UBER) and OpenTable (part of Booking Holdings Inc., NASDAQ: BKNG), global leaders in transportation and restaurant tech, have formed a new strategic partnership to provide seamless dining experiences for millions of highly engaged consumers around the world. The first-of-its-kind collaboration will pair Uber\u2019s ride-hailing and delivery services with OpenTable\u2019s expansive restaurant network across the United States, Canada, United Kingdom, Mexico",
+                "publication_date": "2025-03-31T12:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8221",
+                "source": "Business Wire",
+                "ticker": "UBER",
+                "title": "Uber and OpenTable Announce Strategic Global Partnership to Enhance Dining Experience for Millions of Consumers",
+                "url": "https://finance.yahoo.com/news/uber-opentable-announce-strategic-global-120000502.html"
+            },
+            {
+                "headline": "In the closing of the recent trading day, Uber Technologies (UBER) stood at $72.86, denoting a +0.15% change from the preceding trading day.",
+                "publication_date": "2025-03-31T21:45:17.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "UBER",
+                "title": "Uber Technologies (UBER) Increases Yet Falls Behind Market: What Investors Need to Know",
+                "url": "https://finance.yahoo.com/news/uber-technologies-uber-increases-yet-214517273.html"
+            },
+            {
+                "headline": "Uber and OpenTable announced a partnership on Monday to launch integrations across the Uber Eats, Uber, and OpenTable apps.",
+                "publication_date": "2025-03-31T20:13:51.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Investopedia",
+                "ticker": "UBER",
+                "title": "Uber Teams Up With OpenTable to \u2018Connect the Dots\u2019 Between Services",
+                "url": "https://finance.yahoo.com/news/uber-teams-opentable-connect-dots-201351097.html"
+            },
+            {
+                "headline": "Uber Technologies and Spotify Technology are part of the Zacks Investment Ideas article.",
+                "publication_date": "2025-03-31T12:35:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "UBER",
+                "title": "Zacks Investment Ideas feature highlights: Uber Technologies and Spotify Technology",
+                "url": "https://finance.yahoo.com/news/zacks-investment-ideas-feature-highlights-123500569.html"
+            }
+        ],
+        "avgScore": 0.3990625000000001
+    },
+    "coef": 0.6651228775487981
 }

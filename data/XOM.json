@@ -1,67 +1,288 @@
 {
-    "importantArticles": [
-        {
-            "headline": "SPRING, Texas, April 02, 2025--ExxonMobil (NYSE: XOM) today announced Karen T. McKee, president of ExxonMobil Product Solutions Company and vice president Exxon Mobil Corporation, will retire effective May 1, 2025. The Board of Directors has appointed Matt Crocker president, ExxonMobil Product Solutions Company and vice president Exxon Mobil Corporation. He will succeed McKee effective May 1, 2025.",
-            "publication_date": "2025-04-02T16:27:00.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.8957",
-            "source": "Business Wire",
-            "ticker": "XOM",
-            "title": "ExxonMobil Announces Leadership Changes",
-            "url": "https://finance.yahoo.com/news/exxonmobil-announces-leadership-changes-162700791.html"
-        },
-        {
-            "headline": "The move may come as a surprise, given that the U.S. benchmark oil price, West Texas Intermediate, is $69.36 per barrel compared to an average of $76.63 in 2024.  Here's why ExxonMobil (NYSE: XOM), Chevron (NYSE: CVX), and ConocoPhillips (NYSE: COP) stand out as three balanced dividend stocks to buy now.  ExxonMobil, Chevron, and ConocoPhillips all have clear paths toward delivering strong free cash flow (FCF) even at current oil prices.",
-            "publication_date": "2025-04-05T22:05:00.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.8834",
-            "source": "Motley Fool",
-            "ticker": "XOM",
-            "title": "Energy Stocks Are Soaring. 3 High-Yield Oil Stocks to Buy Now.",
-            "url": "https://finance.yahoo.com/news/energy-stocks-soaring-3-high-220500209.html"
-        },
-        {
-            "headline": "XOM expects higher oil and natural gas, and stronger oil refining margins to boost first-quarter earnings by $900 million.",
-            "publication_date": "2025-04-04T16:22:00.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.7783",
-            "source": "Zacks",
-            "ticker": "XOM",
-            "title": "ExxonMobil Expects Earnings Boost in Q1 From Higher Commodity Prices",
-            "url": "https://finance.yahoo.com/news/exxonmobil-expects-earnings-boost-q1-162200493.html"
-        },
-        {
-            "headline": "In recent market turmoil, the Dow fell 2,200 points, the S&P 500 dropped 6%, and the Nasdaq entered a bear market, fueled by new tariffs and economic uncertainty. Amidst this backdrop, energy stocks faced declines, and Exxon Mobil (NYSE:XOM) experienced a flat price move for the month. The tariffs added pressure on oil prices, dragging down West Texas Intermediate futures and affecting the broader energy sector's outlook. Despite these challenges, Exxon's performance aligned with the market's...",
-            "publication_date": "2025-04-05T18:05:01.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.4805",
-            "source": "Simply Wall St.",
-            "ticker": "XOM",
-            "title": "Exxon Mobil (NYSE:XOM) Faces Pressure From New Tariffs As Energy Stocks See Turmoil",
-            "url": "https://finance.yahoo.com/news/exxon-mobil-nyse-xom-faces-180501031.html"
-        },
-        {
-            "headline": "Stocks may extend their post-tariff sell-off Friday after China retaliated with its own 34% duties on all U.S. goods, restrictions on rare earth exports, and other measures. Futures linked to the S&P 500, Nasdaq 100, and Dow Jones Industrial Average are all pointing to a lower open.",
-            "publication_date": "2025-04-04T12:57:00.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.128",
-            "source": "Quartz",
-            "ticker": "XOM",
-            "title": "The Magnificent 7, Exxon, Nike, Lululemon: Stocks to watch today",
-            "url": "https://finance.yahoo.com/news/mag-7-exxon-nike-lululemon-121000585.html"
-        },
-        {
-            "headline": "Alibaba and KB Home are part of the Zacks Bull and Bear of the Day article.",
-            "publication_date": "2025-04-04T12:37:00.000Z",
-            "sentiment": "Neutral",
-            "sentimentScore": "0.0",
-            "source": "Zacks",
-            "ticker": "XOM",
-            "title": "Alibaba and KB Home have been highlighted as Zacks Bull and Bear of the Day",
-            "url": "https://finance.yahoo.com/news/alibaba-kb-home-highlighted-zacks-123700738.html"
-        }
-    ],
-    "avgScore": 0.3468529411764706,
-    "todayPctChange": -0.05677604868134459,
-    "vScore": -1.9692939473502846
+    "4 4 2025": {
+        "importantArticles": [
+            {
+                "headline": "XOM expects higher oil and natural gas, and stronger oil refining margins to boost first-quarter earnings by $900 million.",
+                "publication_date": "2025-04-04T16:22:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7783",
+                "source": "Zacks",
+                "ticker": "XOM",
+                "title": "ExxonMobil Expects Earnings Boost in Q1 From Higher Commodity Prices",
+                "url": "https://finance.yahoo.com/news/exxonmobil-expects-earnings-boost-q1-162200493.html"
+            },
+            {
+                "headline": "Exxon Mobil Corporation (NYSE:XOM) shares are trading lower premarket on Friday. The oil giant anticipates changes in oil prices to add first-quarter Upstream earnings quarter-over-quarter by $0.0 billion to $0.4 billion. Also, changes in gas prices are expected to add to its Upstream results by $0.0 billion and $0.4 billion compared to the fourth quarter. Also, Exxon Mobil projects that variations in industry margins will positively impact Energy Products earnings by $0.3 billion \u2013 $0.7 billion",
+                "publication_date": "2025-04-04T11:29:24.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6705",
+                "source": "Benzinga",
+                "ticker": "XOM",
+                "title": "Exxon Mobil Projects Sequential Earnings Bump On Energy Price Swings Ahead Of Q1 Report",
+                "url": "https://finance.yahoo.com/news/exxon-mobil-projects-sequential-earnings-112924312.html"
+            },
+            {
+                "headline": "Alibaba and KB Home are part of the Zacks Bull and Bear of the Day article.",
+                "publication_date": "2025-04-04T12:37:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "XOM",
+                "title": "Alibaba and KB Home have been highlighted as Zacks Bull and Bear of the Day",
+                "url": "https://finance.yahoo.com/news/alibaba-kb-home-highlighted-zacks-123700738.html"
+            },
+            {
+                "headline": "Stocks may extend their post-tariff sell-off Friday after China retaliated with its own 34% duties on all U.S. goods, restrictions on rare earth exports, and other measures. Futures linked to the S&P 500, Nasdaq 100, and Dow Jones Industrial Average are all pointing to a lower open.",
+                "publication_date": "2025-04-04T12:57:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.128",
+                "source": "Quartz",
+                "ticker": "XOM",
+                "title": "The Magnificent 7, Exxon, Nike, Lululemon: Stocks to watch today",
+                "url": "https://finance.yahoo.com/news/mag-7-exxon-nike-lululemon-121000585.html"
+            },
+            {
+                "headline": "What Factors Affect ExxonMobil's Refining Margins?",
+                "publication_date": "2025-04-04T18:59:10.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "GuruFocus.com",
+                "ticker": "XOM",
+                "title": "Understanding ExxonMobil's Strategic Moves in Energy Markets",
+                "url": "https://finance.yahoo.com/news/understanding-exxonmobils-strategic-moves-energy-185910625.html"
+            },
+            {
+                "headline": "Exxon says price shifts and timing effects could boost Q1 profit, but specialty unit may face margin pressure",
+                "publication_date": "2025-04-04T15:26:13.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "GuruFocus.com",
+                "ticker": "XOM",
+                "title": "Exxon Eyes $800M Earnings Boost from Oil, Gas Price Surge",
+                "url": "https://finance.yahoo.com/news/exxon-eyes-800m-earnings-boost-152613158.html"
+            }
+        ],
+        "avgScore": 0.2201333333333333
+    },
+    "4 3 2025": {
+        "importantArticles": [
+            {
+                "headline": "The energy sector has climbed year to date, in contrast to the broader market's decline, driven by leaders like ExxonMobil, Chevron and Devon Energy.",
+                "publication_date": "2025-04-03T13:10:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6908",
+                "source": "Zacks",
+                "ticker": "XOM",
+                "title": "Energy Stocks Defy Turmoil as Trump Tariffs Rattle Markets",
+                "url": "https://finance.yahoo.com/news/energy-stocks-defy-turmoil-trump-131000803.html"
+            },
+            {
+                "headline": "Exxon Mobil Corporation (NYSE:XOM) will release its first-quarter financial results after the closing bell on Thursday, April 3. Analysts expect the company to report quarterly earnings at $1.70 per share, down from $2.06 per share in the year-ago period. Exxon Mobil projects quarterly revenue of $86.09 billion, compared to $83.08 billion a year earlier, according to data from Benzinga Pro. On Wednesday, Exxon Mobil disclosed that Karen T. McKee, president of ExxonMobil Product Solutions Company",
+                "publication_date": "2025-04-03T12:33:36.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6249",
+                "source": "Benzinga",
+                "ticker": "XOM",
+                "title": "How To Earn $500 A Month From Exxon Mobil Stock Ahead Of Q1 Earnings",
+                "url": "https://finance.yahoo.com/news/earn-500-month-exxon-mobil-123336179.html"
+            },
+            {
+                "headline": "XOM can also lean on its strong balance sheet when its business scenario turns volatile and uncertain.",
+                "publication_date": "2025-04-03T14:46:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.2732",
+                "source": "Zacks",
+                "ticker": "XOM",
+                "title": "ExxonMobil's Shares Witness Volume Drop: How Should You Play the Stock?",
+                "url": "https://finance.yahoo.com/news/exxonmobils-shares-witness-volume-drop-144600469.html"
+            },
+            {
+                "headline": "Crocker currently serves as president of Global Business Solutions and has been with ExxonMobil since 1995.",
+                "publication_date": "2025-04-03T12:07:44.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.1779",
+                "source": "GuruFocus.com",
+                "ticker": "XOM",
+                "title": "ExxonMobil's Global Business Solutions Head to Lead Product Solutions Unit After McKee's Retirement",
+                "url": "https://finance.yahoo.com/news/exxonmobils-global-business-solutions-head-120744683.html"
+            },
+            {
+                "headline": "Exxon Mobil, Bristol-Myers Squibb, Chubb and Hamilton Beach Brands are part of the Zacks top Analyst Blog.",
+                "publication_date": "2025-04-03T14:50:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.2023",
+                "source": "Zacks",
+                "ticker": "XOM",
+                "title": "The Zacks Analyst Blog Highlights Exxon Mobil, Bristol-Myers Squibb, Chubb and Hamilton Beach Brands",
+                "url": "https://finance.yahoo.com/news/zacks-analyst-blog-highlights-exxon-145000755.html"
+            },
+            {
+                "headline": "XOM can also lean on its strong balance sheet when its business scenario turns volatile and uncertain.",
+                "publication_date": "2025-04-03T14:46:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.2732",
+                "source": "Zacks",
+                "ticker": "XOM",
+                "title": "ExxonMobil's Shares Witness Volume Drop: How Should You Play the Stock?",
+                "url": "https://finance.yahoo.com/news/exxonmobils-shares-witness-volume-drop-144600469.html"
+            }
+        ],
+        "avgScore": 0.39382
+    },
+    "4 2 2025": {
+        "importantArticles": [
+            {
+                "headline": "SPRING, Texas, April 02, 2025--ExxonMobil (NYSE: XOM) today announced Karen T. McKee, president of ExxonMobil Product Solutions Company and vice president Exxon Mobil Corporation, will retire effective May 1, 2025. The Board of Directors has appointed Matt Crocker president, ExxonMobil Product Solutions Company and vice president Exxon Mobil Corporation. He will succeed McKee effective May 1, 2025.",
+                "publication_date": "2025-04-02T16:27:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8957",
+                "source": "Business Wire",
+                "ticker": "XOM",
+                "title": "ExxonMobil Announces Leadership Changes",
+                "url": "https://finance.yahoo.com/news/exxonmobil-announces-leadership-changes-162700791.html"
+            },
+            {
+                "headline": "Today's Research Daily features new research reports on 16 major stocks, including Exxon Mobil Corporation (XOM), Bristol-Myers Squibb Company (BMY) and Chubb Limited (CB), as well as a micro-cap stock Hamilton Beach Brands Holding Company (HBB).",
+                "publication_date": "2025-04-02T20:26:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.0516",
+                "source": "Zacks",
+                "ticker": "XOM",
+                "title": "Top Research Reports for Exxon Mobil, Bristol-Myers Squibb & Chubb",
+                "url": "https://finance.yahoo.com/news/top-research-reports-exxon-mobil-202600539.html"
+            },
+            {
+                "headline": "Today's Research Daily features new research reports on 16 major stocks, including Exxon Mobil Corporation (XOM), Bristol-Myers Squibb Company (BMY) and Chubb Limited (CB), as well as a micro-cap stock Hamilton Beach Brands Holding Company (HBB).",
+                "publication_date": "2025-04-02T20:26:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.0516",
+                "source": "Zacks",
+                "ticker": "XOM",
+                "title": "Top Research Reports for Exxon Mobil, Bristol-Myers Squibb & Chubb",
+                "url": "https://finance.yahoo.com/news/top-research-reports-exxon-mobil-202600539.html"
+            },
+            {
+                "headline": "SPRING, Texas, April 02, 2025--ExxonMobil (NYSE: XOM) today announced Karen T. McKee, president of ExxonMobil Product Solutions Company and vice president Exxon Mobil Corporation, will retire effective May 1, 2025. The Board of Directors has appointed Matt Crocker president, ExxonMobil Product Solutions Company and vice president Exxon Mobil Corporation. He will succeed McKee effective May 1, 2025.",
+                "publication_date": "2025-04-02T16:27:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8957",
+                "source": "Business Wire",
+                "ticker": "XOM",
+                "title": "ExxonMobil Announces Leadership Changes",
+                "url": "https://finance.yahoo.com/news/exxonmobil-announces-leadership-changes-162700791.html"
+            }
+        ],
+        "avgScore": 0.47365
+    },
+    "4 1 2025": {
+        "importantArticles": [
+            {
+                "headline": "The Baton Rouge chemical facility plans to produce ultra-pure isopropyl alcohol for the growing semiconductor industry by 2027.",
+                "publication_date": "2025-04-01T11:04:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.1779",
+                "source": "Manufacturing Dive",
+                "ticker": "XOM",
+                "title": "ExxonMobil to upgrade Louisiana plant with over $100M investment",
+                "url": "https://finance.yahoo.com/news/exxonmobil-upgrade-louisiana-plant-over-110400204.html"
+            },
+            {
+                "headline": "Chevron and Exxon Mobil are part of the Zacks Investment Ideas article.",
+                "publication_date": "2025-04-01T14:26:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "XOM",
+                "title": "Zacks Investment Ideas feature highlights: Chevron and Exxon Mobil",
+                "url": "https://finance.yahoo.com/news/zacks-investment-ideas-feature-highlights-142600467.html"
+            },
+            {
+                "headline": "Chevron and Exxon Mobil are part of the Zacks Investment Ideas article.",
+                "publication_date": "2025-04-01T14:26:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "XOM",
+                "title": "Zacks Investment Ideas feature highlights: Chevron and Exxon Mobil",
+                "url": "https://finance.yahoo.com/news/zacks-investment-ideas-feature-highlights-142600467.html"
+            },
+            {
+                "headline": "The Baton Rouge chemical facility plans to produce ultra-pure isopropyl alcohol for the growing semiconductor industry by 2027.",
+                "publication_date": "2025-04-01T11:04:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.1779",
+                "source": "Manufacturing Dive",
+                "ticker": "XOM",
+                "title": "ExxonMobil to upgrade Louisiana plant with over $100M investment",
+                "url": "https://finance.yahoo.com/news/exxonmobil-upgrade-louisiana-plant-over-110400204.html"
+            }
+        ],
+        "avgScore": 0.08895
+    },
+    "3 31 2025": {
+        "importantArticles": [
+            {
+                "headline": "We recently published a list of the 12 Best Oil and Gas Dividend Stocks According to Billionaires. In this article, we are going to take a look at where Exxon Mobil Corporation (NYSE:XOM) stands against other best oil and gas dividend stocks to invest in according to billionaires. The United States of America is now [\u2026]",
+                "publication_date": "2025-03-31T13:26:56.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9042",
+                "source": "Insider Monkey",
+                "ticker": "XOM",
+                "title": "Is Exxon Mobil Corporation (XOM) the Best Oil and Gas Dividend Stock According to Billionaires?",
+                "url": "https://finance.yahoo.com/news/exxon-mobil-corporation-xom-best-132656976.html"
+            },
+            {
+                "headline": "EOG, FANG, XOM and CVX are well-positioned to benefit from the Permian Basin's ongoing expansion, making them must-watch for energy-focused investors.",
+                "publication_date": "2025-03-31T13:10:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4588",
+                "source": "Zacks",
+                "ticker": "XOM",
+                "title": "4 Prominent Permian Basin Stocks Worth Keeping on Your Radar",
+                "url": "https://finance.yahoo.com/news/4-prominent-permian-basin-stocks-131000525.html"
+            },
+            {
+                "headline": "BP moves ahead with its Ginger gas project in Trinidad, adding to its growing offshore portfolio and advancing its $10B annual upstream investment plan.",
+                "publication_date": "2025-03-31T14:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.1779",
+                "source": "Zacks",
+                "ticker": "XOM",
+                "title": "BP Approves Ginger Gas Project Offshore Trinidad & Tobago",
+                "url": "https://finance.yahoo.com/news/bp-approves-ginger-gas-project-140000207.html"
+            },
+            {
+                "headline": "With crude oil prices rising to over $70 a barrel again, the energy sector has been the best-performing subsector of the S&P 500 this year.",
+                "publication_date": "2025-03-31T21:46:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.3818",
+                "source": "Zacks",
+                "ticker": "XOM",
+                "title": "Bet on Big Oil Stocks as a Defensive Hedge Against Market Volatility?",
+                "url": "https://finance.yahoo.com/news/bet-big-oil-stocks-defensive-214600195.html"
+            },
+            {
+                "headline": "In the closing of the recent trading day, Exxon Mobil (XOM) stood at $118.93, denoting a +1.02% change from the preceding trading day.",
+                "publication_date": "2025-03-31T21:45:15.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "XOM",
+                "title": "Exxon Mobil (XOM) Outperforms Broader Market: What You Need to Know",
+                "url": "https://finance.yahoo.com/news/exxon-mobil-xom-outperforms-broader-214515778.html"
+            },
+            {
+                "headline": "BP moves ahead with its Ginger gas project in Trinidad, adding to its growing offshore portfolio and advancing its $10B annual upstream investment plan.",
+                "publication_date": "2025-03-31T14:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.1779",
+                "source": "Zacks",
+                "ticker": "XOM",
+                "title": "BP Approves Ginger Gas Project Offshore Trinidad & Tobago",
+                "url": "https://finance.yahoo.com/news/bp-approves-ginger-gas-project-140000207.html"
+            }
+        ],
+        "avgScore": 0.23182
+    },
+    "coef": -0.3137749156897809
 }

@@ -1,67 +1,328 @@
 {
-    "importantArticles": [
-        {
-            "headline": "In a strategic partnership, Navitas Semiconductor and Great Wall have developed a next-generation 400V-DC power architecture specifically designed for AI data centers. Leveraging Navitas\u2019 GaNSense technology, the collaboration has resulted in an ultra-high power density DC-DC converter delivering 2.5kW of power\u2014marking a significant leap in power efficiency and density. This innovative power solution supports evolving data center requirements by accommodating more GPUs while promoting energy...",
-            "publication_date": "2025-04-04T11:07:30.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.9506",
-            "source": "Simply Wall St.",
-            "ticker": "INTC",
-            "title": "AI Chips Today - Pioneering Power Efficiency In Next-Gen Data Centers",
-            "url": "https://finance.yahoo.com/news/ai-chips-today-pioneering-power-110730132.html"
-        },
-        {
-            "headline": "Syntiant Corp. has announced the upcoming demonstration of its multimodal vision transformer (ViT) security solution, which will debut at ISC West 2025. This cutting-edge system, designed for deployment at the edge on Ambarella's CV75M system on chip, enhances real-time image processing for security applications without relying on cloud resources. The demonstrated solution leverages AI and machine learning to achieve faster, more efficient monitoring, reducing latency and costs while boosting...",
-            "publication_date": "2025-04-02T11:07:44.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.9168",
-            "source": "Simply Wall St.",
-            "ticker": "INTC",
-            "title": "This Week In AI Chips - Syntiant Unveils Next-Gen Vision Transformer for Edge Security",
-            "url": "https://finance.yahoo.com/news/week-ai-chips-syntiant-unveils-110744142.html"
-        },
-        {
-            "headline": "Super Micro Computer (SMCI) might have the word \u201cmicro\u201d in its name, but make no mistake\u2014this Silicon Valley-based server and storage powerhouse has been delivering mighty growth over the past three years. With the boom in AI training, cloud data centers, and enterprise IT, Super Micro has surged 829%, alongside some of the hottest trends in technology. While the company\u2019s most explosive alpha years\u20142023 and 2024\u2014are now behind us, I believe the runway is far from finished. Based on projected ea",
-            "publication_date": "2025-04-03T11:28:27.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.8555",
-            "source": "TipRanks",
-            "ticker": "INTC",
-            "title": "SMCI Stock Set to Transition from Micro to Mighty as Wall St. Analysts Eye 40% Upside",
-            "url": "https://finance.yahoo.com/news/smci-stock-set-transition-micro-112827327.html"
-        },
-        {
-            "headline": "Investing.com -- Citi analysts are skeptical about reports that Intel (NASDAQ:INTC) and TSMC are considering a joint venture, arguing that such a move would not be successful given fundamental differences in operations.",
-            "publication_date": "2025-04-04T14:19:10.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.8112",
-            "source": "Investing.com",
-            "ticker": "INTC",
-            "title": "Citi says reported Intel-TSMC JV would be 'the wrong move'",
-            "url": "https://finance.yahoo.com/news/citi-says-reported-intel-tsmc-141910028.html"
-        },
-        {
-            "headline": "(Bloomberg) -- There\u2019s virtually nowhere to hide for many US technology companies under President Donald Trump\u2019s new tariff regime, the harshest in a century.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Would \u2018Transportation Abundance\u2019 Look Like?After Thursday\u2019s slump wiped $1.4",
-            "publication_date": "2025-04-04T13:34:17.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.7705",
-            "source": "Bloomberg",
-            "ticker": "INTC",
-            "title": "\u2018Worst-Case Scenario\u2019 for Tech Wipes $1.4 Trillion from Nasdaq",
-            "url": "https://finance.yahoo.com/news/worst-case-scenario-tech-wipes-081406416.html"
-        },
-        {
-            "headline": "As part of today's Market Minute, Madison Mills outlines the top stories of the trading day. Intel (INTC) stock plunges as US\u2013China trade war tensions intensify. Dell Technologies (DELL) stock extends losses as Morgan Stanley (MS) analysts raise concerns about tariff impacts. Chinese tech stocks, like Alibaba (BABA), PDD Holdings (PDD), and JD.com (JD), tumble as China retaliates against Trump's new tariffs. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
-            "publication_date": "2025-04-04T15:16:45.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.6705",
-            "source": "Yahoo Finance Video",
-            "ticker": "INTC",
-            "title": "Intel, Dell, Chinese tech stocks fall: Market Minute",
-            "url": "https://finance.yahoo.com/video/intel-dell-chinese-tech-stocks-151645306.html"
-        }
-    ],
-    "avgScore": 0.2233666666666667,
-    "todayPctChange": -0.0972686297649685,
-    "vScore": -2.1726569601835135
+    "4 4 2025": {
+        "importantArticles": [
+            {
+                "headline": "In a strategic partnership, Navitas Semiconductor and Great Wall have developed a next-generation 400V-DC power architecture specifically designed for AI data centers. Leveraging Navitas\u2019 GaNSense technology, the collaboration has resulted in an ultra-high power density DC-DC converter delivering 2.5kW of power\u2014marking a significant leap in power efficiency and density. This innovative power solution supports evolving data center requirements by accommodating more GPUs while promoting energy...",
+                "publication_date": "2025-04-04T11:07:30.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9506",
+                "source": "Simply Wall St.",
+                "ticker": "INTC",
+                "title": "AI Chips Today - Pioneering Power Efficiency In Next-Gen Data Centers",
+                "url": "https://finance.yahoo.com/news/ai-chips-today-pioneering-power-110730132.html"
+            },
+            {
+                "headline": "The tech-heavy Nasdaq Composite (^IXIC) is set to enter a bear market. Futurum Group CEO Daniel Newman joins Catalysts with Madison Mills and Lumida Wealth Management CEO Ram Ahluwalia to discuss what President Donald Trump's new tariffs mean for tech CEOs and their artificial intelligence (AI) spending. To watch more expert insights and analysis on the latest market action, check out more Catalysts here.",
+                "publication_date": "2025-04-04T17:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.743",
+                "source": "Yahoo Finance Video",
+                "ticker": "INTC",
+                "title": "Tariff-fueled downturn shouldn't impact Big Tech's AI spending",
+                "url": "https://finance.yahoo.com/video/tariff-fueled-downturn-shouldnt-impact-170000182.html"
+            },
+            {
+                "headline": "We recently published a list of Mag7 and Beyond: Top 10 AI News Updates and Ratings. In this article, we are going to take a look at where International Business Machines Corporation (NYSE:IBM) stands against other top AI news updates and ratings. According to a study presented at a European Central Bank conference, companies that [\u2026]",
+                "publication_date": "2025-04-04T23:14:52.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.3818",
+                "source": "Insider Monkey",
+                "ticker": "INTC",
+                "title": "International Business Machines (IBM) Integrates Intel Gaudi 3 on Cloud to Scale Enterprise AI Globally",
+                "url": "https://finance.yahoo.com/news/international-business-machines-ibm-integrates-231452475.html"
+            },
+            {
+                "headline": "Investing.com -- Citi analysts are skeptical about reports that Intel (NASDAQ:INTC) and TSMC are considering a joint venture, arguing that such a move would not be successful given fundamental differences in operations.",
+                "publication_date": "2025-04-04T14:19:10.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.8112",
+                "source": "Investing.com",
+                "ticker": "INTC",
+                "title": "Citi says reported Intel-TSMC JV would be 'the wrong move'",
+                "url": "https://finance.yahoo.com/news/citi-says-reported-intel-tsmc-141910028.html"
+            },
+            {
+                "headline": "(Bloomberg) -- There\u2019s virtually nowhere to hide for many US technology companies under President Donald Trump\u2019s new tariff regime, the harshest in a century.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Would \u2018Transportation Abundance\u2019 Look Like?After Thursday\u2019s slump wiped $1.4",
+                "publication_date": "2025-04-04T13:34:17.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.7705",
+                "source": "Bloomberg",
+                "ticker": "INTC",
+                "title": "\u2018Worst-Case Scenario\u2019 for Tech Wipes $1.4 Trillion from Nasdaq",
+                "url": "https://finance.yahoo.com/news/worst-case-scenario-tech-wipes-081406416.html"
+            },
+            {
+                "headline": "As part of today's Market Minute, Madison Mills outlines the top stories of the trading day. Intel (INTC) stock plunges as US\u2013China trade war tensions intensify. Dell Technologies (DELL) stock extends losses as Morgan Stanley (MS) analysts raise concerns about tariff impacts. Chinese tech stocks, like Alibaba (BABA), PDD Holdings (PDD), and JD.com (JD), tumble as China retaliates against Trump's new tariffs. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
+                "publication_date": "2025-04-04T15:16:45.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.6705",
+                "source": "Yahoo Finance Video",
+                "ticker": "INTC",
+                "title": "Intel, Dell, Chinese tech stocks fall: Market Minute",
+                "url": "https://finance.yahoo.com/video/intel-dell-chinese-tech-stocks-151645306.html"
+            }
+        ],
+        "avgScore": 0.08534285714285716
+    },
+    "4 3 2025": {
+        "importantArticles": [
+            {
+                "headline": "Super Micro Computer (SMCI) might have the word \u201cmicro\u201d in its name, but make no mistake\u2014this Silicon Valley-based server and storage powerhouse has been delivering mighty growth over the past three years. With the boom in AI training, cloud data centers, and enterprise IT, Super Micro has surged 829%, alongside some of the hottest trends in technology. While the company\u2019s most explosive alpha years\u20142023 and 2024\u2014are now behind us, I believe the runway is far from finished. Based on projected ea",
+                "publication_date": "2025-04-03T11:28:27.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8555",
+                "source": "TipRanks",
+                "ticker": "INTC",
+                "title": "SMCI Stock Set to Transition from Micro to Mighty as Wall St. Analysts Eye 40% Upside",
+                "url": "https://finance.yahoo.com/news/smci-stock-set-transition-micro-112827327.html"
+            },
+            {
+                "headline": "Qualcomm acquires MovianAI to augment its portfolio strength and develop an advanced AI native solution suite for the PC, smartphone and automotive industries.",
+                "publication_date": "2025-04-03T13:34:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7579",
+                "source": "Zacks",
+                "ticker": "INTC",
+                "title": "QCOM Expands AI Capabilities With Strategic Buyout: Stock to Gain?",
+                "url": "https://finance.yahoo.com/news/qcom-expands-ai-capabilities-strategic-133400546.html"
+            },
+            {
+                "headline": "INTC appears to be treading in the middle of the road and investors could be better off if they exercise caution and stay invested for long-term gains.",
+                "publication_date": "2025-04-03T11:44:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6486",
+                "source": "Zacks",
+                "ticker": "INTC",
+                "title": "Should You Stay Invested in INTC Stock on Positive Growth Trends?",
+                "url": "https://finance.yahoo.com/news/stay-invested-intc-stock-positive-114400776.html"
+            },
+            {
+                "headline": "We recently published a list of Top 10 Stocks to Watch as Investors Brace for Potential Recession. In this article, we are going to take a look at where Intel Corporation (NASDAQ:INTC) stands against other top stocks to watch as investors brace for potential recession. President Donald Trump\u2019s new reciprocal tariff announcement is hammering stock [\u2026]",
+                "publication_date": "2025-04-03T20:37:35.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.4588",
+                "source": "Insider Monkey",
+                "ticker": "INTC",
+                "title": "Analyst Says Intel (INTC) Has \u2018More Value Than Anybody is Recognizing\u2019",
+                "url": "https://finance.yahoo.com/news/analyst-says-intel-intc-more-203735275.html"
+            },
+            {
+                "headline": "Intel and TSMC have tentatively agreed to form a joint venture that would run the U.S. company\u2019s foundry business, The Information reported Thursday.",
+                "publication_date": "2025-04-03T20:38:55.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.2732",
+                "source": "Investopedia",
+                "ticker": "INTC",
+                "title": "Intel, TSMC Set To Form Chipmaking Joint Venture in the US, Report Says",
+                "url": "https://finance.yahoo.com/news/intel-tsmc-set-form-chipmaking-203855803.html"
+            },
+            {
+                "headline": "Shares of Intel (INTC) rose late Thursday following a report from The Information that the chip giant has reached a tentative deal with TSMC (TSM) to form a joint venture. Learn the details of the report in the video above.&nbsp; To watch more expert insights and analysis on the latest market action, check out more Asking for a Trend here.",
+                "publication_date": "2025-04-03T21:03:39.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.3818",
+                "source": "Yahoo Finance Video",
+                "ticker": "INTC",
+                "title": "Intel stock rises on report of TSMC deal",
+                "url": "https://finance.yahoo.com/video/intel-stock-rises-report-tsmc-210339062.html"
+            }
+        ],
+        "avgScore": 0.43942222222222216
+    },
+    "4 2 2025": {
+        "importantArticles": [
+            {
+                "headline": "Syntiant Corp. has announced the upcoming demonstration of its multimodal vision transformer (ViT) security solution, which will debut at ISC West 2025. This cutting-edge system, designed for deployment at the edge on Ambarella's CV75M system on chip, enhances real-time image processing for security applications without relying on cloud resources. The demonstrated solution leverages AI and machine learning to achieve faster, more efficient monitoring, reducing latency and costs while boosting...",
+                "publication_date": "2025-04-02T11:07:44.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9168",
+                "source": "Simply Wall St.",
+                "ticker": "INTC",
+                "title": "This Week In AI Chips - Syntiant Unveils Next-Gen Vision Transformer for Edge Security",
+                "url": "https://finance.yahoo.com/news/week-ai-chips-syntiant-unveils-110744142.html"
+            },
+            {
+                "headline": "Intel's new CEO Lip-Bu Tan is looking to reinvigorate the company's growth. It won't be easy.",
+                "publication_date": "2025-04-02T13:48:59.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5414",
+                "source": "Yahoo Finance",
+                "ticker": "INTC",
+                "title": "Intel's new CEO Lip-Bu Tan makes his case for a revived Intel",
+                "url": "https://finance.yahoo.com/news/intels-new-ceo-lip-bu-tan-makes-his-case-for-a-revived-intel-134818514.html"
+            },
+            {
+                "headline": "SANTA CLARA, Calif., April 02, 2025--Intel Corporation announced that it will report first-quarter financial results on Thursday, April 24, 2025.",
+                "publication_date": "2025-04-02T20:30:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Business Wire",
+                "ticker": "INTC",
+                "title": "Intel to Report First-Quarter 2025 Financial Results",
+                "url": "https://finance.yahoo.com/news/intel-report-first-quarter-2025-203000084.html"
+            },
+            {
+                "headline": "In the closing of the recent trading day, Intel (INTC) stood at $21.98, denoting a -0.32% change from the preceding trading day.",
+                "publication_date": "2025-04-02T21:45:14.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "INTC",
+                "title": "Intel (INTC) Stock Sinks As Market Gains: What You Should Know",
+                "url": "https://finance.yahoo.com/news/intel-intc-stock-sinks-market-214514839.html"
+            },
+            {
+                "headline": "SANTA CLARA, Calif., April 02, 2025--Intel Corporation announced that it will report first-quarter financial results on Thursday, April 24, 2025.",
+                "publication_date": "2025-04-02T20:30:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Business Wire",
+                "ticker": "INTC",
+                "title": "Intel to Report First-Quarter 2025 Financial Results",
+                "url": "https://finance.yahoo.com/news/intel-report-first-quarter-2025-203000084.html"
+            },
+            {
+                "headline": "Intel's new CEO Lip-Bu Tan is looking to reinvigorate the company's growth. It won't be easy.",
+                "publication_date": "2025-04-02T13:48:59.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5414",
+                "source": "Yahoo Finance",
+                "ticker": "INTC",
+                "title": "Intel's new CEO Lip-Bu Tan makes his case for a revived Intel",
+                "url": "https://finance.yahoo.com/news/intels-new-ceo-lip-bu-tan-makes-his-case-for-a-revived-intel-134818514.html"
+            }
+        ],
+        "avgScore": 0.36455
+    },
+    "4 1 2025": {
+        "importantArticles": [
+            {
+                "headline": "Intel's (INTC) new CEO, Lip-Bu Tan, is focused on doing better for the legacy chipmaker's customers and shareholders. Yahoo Finance Tech Editor Dan Howley sits down with Madison Mills and Invesco chief global market strategist Kristina Hooper to discuss Intel's turnaround efforts under its new leadership. To watch more expert insights and analysis on the latest market action, check out more Catalysts here.",
+                "publication_date": "2025-04-01T16:24:46.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6705",
+                "source": "Yahoo Finance Video",
+                "ticker": "INTC",
+                "title": "Intel CEO Lip-Bu Tan signals potential spin-off",
+                "url": "https://finance.yahoo.com/video/intel-ceo-lip-bu-tan-162446498.html"
+            },
+            {
+                "headline": "(Bloomberg) -- Commerce Secretary Howard Lutnick has signaled he could withhold promised Chips Act grants as he pushes for companies in line for federal semiconductor subsidies to substantially expand their US projects, according to eight people familiar with the matter.Most Read from BloombergWhat Frank Lloyd Wright Learned From the DesertGold-Rush Fever Returns to Historic New Zealand Mining TownBank Regulators Fight for Desks as OCC Returns to New York TowerThe Commerce chief wants firms that",
+                "publication_date": "2025-04-01T05:52:42.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5256",
+                "source": "Bloomberg",
+                "ticker": "INTC",
+                "title": "US chip grants in limbo as Lutnick pushes bigger investments",
+                "url": "https://finance.yahoo.com/news/us-chip-grants-limbo-lutnick-055242551.html"
+            },
+            {
+                "headline": "Stifel and Truist say Intel's new leadership tone is encouraging but await key Foundry strategy details",
+                "publication_date": "2025-04-01T18:04:33.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4215",
+                "source": "GuruFocus.com",
+                "ticker": "INTC",
+                "title": "New Intel CEO Earns Analyst Nod with Focus on Trust and Turnaround",
+                "url": "https://finance.yahoo.com/news/intel-ceo-earns-analyst-nod-180433192.html"
+            },
+            {
+                "headline": "(Bloomberg) -- In a quarter marred by tariff uncertainty, US government spending cuts and the threat of recession, it is fears about a bubble brewing in artificial intelligence that have dealt the latest blow to the Nasdaq 100.Most Read from BloombergWhat Frank Lloyd Wright Learned From the DesertGold-Rush Fever Returns to Historic New Zealand Mining TownBank Regulators Fight for Desks as OCC Returns to New York TowerLondon Clears Final Hurdle for More High-Speed Trains to EuropeLocal Government",
+                "publication_date": "2025-04-01T09:36:18.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.8957",
+                "source": "Bloomberg",
+                "ticker": "INTC",
+                "title": "Nasdaq 100\u2019s Worst Quarter in Years Sealed by AI Bubble Fears",
+                "url": "https://finance.yahoo.com/news/nasdaq-100-worst-quarter-years-093618789.html"
+            },
+            {
+                "headline": "Intel (INTC) is declining 2.5% today, and Schwab Network reporter Caroline Woods noted that the shares may be falling due to cautious comments by the chipmaker\u2019s new CEO. Statements by Commerce Secretary Howard Lutnick could also be weighing on INTC stock, Woods stated. The New CEO\u2019s Words of Warning Speaking yesterday, INTC CEO Lip-Bu Tan [\u2026]",
+                "publication_date": "2025-04-01T16:29:52.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.296",
+                "source": "Insider Monkey",
+                "ticker": "INTC",
+                "title": "Cautious CEO Comments Weigh on Intel (INTC) Stock",
+                "url": "https://finance.yahoo.com/news/cautious-ceo-comments-weigh-intel-162952453.html"
+            },
+            {
+                "headline": "We recently published a list of Jim Cramer Says I\u2019m With Trump & Discusses These 12 Stocks. In this article, we are going to take a look at where Intel Corporation (NASDAQ:INTC) stands against other stocks that Jim Cramer discusses. In a recent appearance on CNBC\u2019s Squawk on the Street, Jim Cramer commented that President [\u2026]",
+                "publication_date": "2025-04-01T14:16:06.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Insider Monkey",
+                "ticker": "INTC",
+                "title": "Jim Cramer is Bullish on Intel (INTC): \u201cChairman Lip-Bu Tan Is Fixing the Balance Sheet!\u201d",
+                "url": "https://finance.yahoo.com/news/jim-cramer-bullish-intel-intc-141606272.html"
+            }
+        ],
+        "avgScore": 0.09429999999999998
+    },
+    "3 31 2025": {
+        "importantArticles": [
+            {
+                "headline": "Investing.com -- On Monday, Lip-Bu Tan, the recently appointed CEO of Intel Corporation (NASDAQ:INTC), laid out an ambitious plan to overhaul the company's culture and operational approach during the IntelVision 2025 conference. Tan, who stepped into the CEO role on March 12, has focused his early efforts on engaging with customers and identifying significant areas for improvement. He emphasized the need for Intel to \"underpromise and overdeliver,\" a motto he considers his trademark.",
+                "publication_date": "2025-03-31T23:32:59.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8979",
+                "source": "Investing.com",
+                "ticker": "INTC",
+                "title": "New CEO Lip-Bu Tan vows to change Intel's culture",
+                "url": "https://finance.yahoo.com/news/ceo-lip-bu-tan-vows-233259568.html"
+            },
+            {
+                "headline": "Alchip Technologies reported record-breaking financial results for 2024, driven by strong demand for their advanced 7nm AI chips, particularly in North America. AI chip applications constituted a substantial portion of their revenue, highlighting the growing reliance on high-performance computing and AI-specific ASICs. The company saw significant increases across all key financial metrics, including revenue, operating income, net income, and earnings per share. Such developments underscore...",
+                "publication_date": "2025-03-31T11:07:13.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8519",
+                "source": "Simply Wall St.",
+                "ticker": "INTC",
+                "title": "AI Chips Today - Alchip Advances With Record 2024 AI Chip Performance",
+                "url": "https://finance.yahoo.com/news/ai-chips-today-alchip-advances-110713607.html"
+            },
+            {
+                "headline": "Intel Corp. (NASDAQ:INTC) is undergoing a significant transition under the leadership of its newly appointed CEO, Lip-Bu Tan, who aims to revamp the company\u2019s operations and leadership. What Happened: In his inaugural letter to shareholders on ...",
+                "publication_date": "2025-03-31T23:30:41.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.2023",
+                "source": "Benzinga",
+                "ticker": "INTC",
+                "title": "Intel's New CEO Refuses To 'Sugarcoat' Company's 2024 Performance, Vows To 'Align Spending With Market Demand'",
+                "url": "https://finance.yahoo.com/news/intels-ceo-refuses-sugarcoat-companys-233041028.html"
+            },
+            {
+                "headline": "In his first remarks as Intel's new CEO, Lip-Bu Tan on Monday outlined a leaner version of the iconic American chipmaker in which he would work directly with engineers to develop new products based on feedback from the company's customers.  Tan earlier this month took over at Intel, which once enjoyed more than 90% market share in both personal computers and data center servers but has lost out to rivals such as Nvidia in recent years.  Speaking at Intel's \"Vision\" event in Las Vegas, where the company was set to discuss products with its customers, Tan said he spent his first weeks on the job meeting with customers and said the company had fallen far short of their expectations.",
+                "publication_date": "2025-03-31T22:36:25.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5346",
+                "source": "Reuters",
+                "ticker": "INTC",
+                "title": "Intel's new CEO tells customers 'be brutally honest with us'",
+                "url": "https://finance.yahoo.com/news/intels-ceo-tells-customers-brutally-223625582.html"
+            },
+            {
+                "headline": "Plus, 24 other underperformers to avoid this spring",
+                "publication_date": "2025-03-31T19:15:32.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.296",
+                "source": "Schaeffer's Investment Research",
+                "ticker": "INTC",
+                "title": "Intel Among Worst Stocks to Own in April, Q2",
+                "url": "https://finance.yahoo.com/news/intel-among-worst-stocks-own-191532529.html"
+            },
+            {
+                "headline": "AMD CEO Lisa Su pushes back on the AI slowdown narrative.",
+                "publication_date": "2025-03-31T15:16:46.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Yahoo Finance",
+                "ticker": "INTC",
+                "title": "AMD CEO Lisa Su to Yahoo Finance: Demand for AI infrastructure is 'immense'",
+                "url": "https://finance.yahoo.com/news/amd-ceo-lisa-su-to-yahoo-finance-demand-for-ai-infrastructure-is-immense-151646707.html"
+            }
+        ],
+        "avgScore": 0.18691666666666665
+    },
+    "coef": 0.6955942532348333
 }

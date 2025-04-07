@@ -1,67 +1,328 @@
 {
-    "importantArticles": [
-        {
-            "headline": "President Trump promised big tariffs, and he didn't disappoint. Here's what sources are telling Yahoo Finance's newsroom about the tariff impact to certain sectors and asset classes.",
-            "publication_date": "2025-04-04T10:00:56.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.8104",
-            "source": "Yahoo Finance",
-            "ticker": "WMT",
-            "title": "Yahoo Finance newsroom analysis: How Trump's tariffs are affecting Big Tech, retailers, automakers, oil, and bonds",
-            "url": "https://finance.yahoo.com/news/yahoo-finance-newsroom-analysis-how-trumps-tariffs-are-affecting-big-tech-retailers-automakers-oil-and-bonds-100056271.html"
-        },
-        {
-            "headline": "Earlier on Friday, ABC News reporter Selina Wang said in a post on X that the world's largest retailer was \"actively considering\" joining a group of investors to buy the short video app, citing sources close to the deal.  Walmart's interest was triggered by Amazon's involvement, the post and a subsequent story on ABC's website said.  A Walmart spokesperson said the ABC story was incorrect and pointed out that the story had been taken down from the site.",
-            "publication_date": "2025-04-04T17:03:41.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.6486",
-            "source": "Reuters",
-            "ticker": "WMT",
-            "title": "Walmart denies ABC News report it could join investor group to buy TikTok",
-            "url": "https://finance.yahoo.com/news/walmart-considers-joining-investor-group-170341375.html"
-        },
-        {
-            "headline": "The resilient retailer might be priced for perfection right now.",
-            "publication_date": "2025-04-05T07:25:00.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.5719",
-            "source": "Motley Fool",
-            "ticker": "WMT",
-            "title": "Where Will Walmart Stock Be in 1 Year?",
-            "url": "https://finance.yahoo.com/news/where-walmart-stock-1-072500085.html"
-        },
-        {
-            "headline": "The latest CNBC CFO Council Survey found that 60% of CFOs expect a U.S. recession later in 2025.  Another 15% predict a recession next year.  Ninety percent of the CFOs surveyed believe President Trump's tariffs will cause inflation to rise.",
-            "publication_date": "2025-04-04T08:42:00.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.6808",
-            "source": "Motley Fool",
-            "ticker": "WMT",
-            "title": "Corporate CFOs Think a Recession Is Coming. Here Are 3 Stocks to Own If They're Right.",
-            "url": "https://finance.yahoo.com/news/corporate-cfos-think-recession-coming-084200201.html"
-        },
-        {
-            "headline": "We recently published a list of Jim Cramer Highlighted 12 Stocks and Tariff Panic. In this article, we are going to take a look at where Walmart Inc. (NYSE:WMT) stands against other stocks that Jim Cramer highlighted. On Monday, Jim Cramer, the host of Mad Money, discussed the current market and he identified opportunities for [\u2026]",
-            "publication_date": "2025-04-03T21:51:18.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.5994",
-            "source": "Insider Monkey",
-            "ticker": "WMT",
-            "title": "Walmart (WMT) is \u2018Cheap\u2019 and \u2018Undervalued\u2019 \u2013 Jim Cramer Questions Market Negativity!",
-            "url": "https://finance.yahoo.com/news/walmart-wmt-cheap-undervalued-jim-215118561.html"
-        },
-        {
-            "headline": "Having trouble picking a stock post Liberation Day carnage? You aren't alone.",
-            "publication_date": "2025-04-06T12:30:33.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.2406",
-            "source": "Yahoo Finance",
-            "ticker": "WMT",
-            "title": "Why Trump tariffs have made it impossible to pick stocks",
-            "url": "https://finance.yahoo.com/news/why-trump-tariffs-have-made-it-impossible-to-pick-stocks-123033071.html"
-        }
-    ],
-    "avgScore": 0.11142631578947369,
-    "todayPctChange": -0.033608552871776394,
-    "vScore": -0.3744877225517779
+    "4 4 2025": {
+        "importantArticles": [
+            {
+                "headline": "President Trump promised big tariffs, and he didn't disappoint. Here's what sources are telling Yahoo Finance's newsroom about the tariff impact to certain sectors and asset classes.",
+                "publication_date": "2025-04-04T10:00:56.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8104",
+                "source": "Yahoo Finance",
+                "ticker": "WMT",
+                "title": "Yahoo Finance newsroom analysis: How Trump's tariffs are affecting Big Tech, retailers, automakers, oil, and bonds",
+                "url": "https://finance.yahoo.com/news/yahoo-finance-newsroom-analysis-how-trumps-tariffs-are-affecting-big-tech-retailers-automakers-oil-and-bonds-100056271.html"
+            },
+            {
+                "headline": "Earlier on Friday, ABC News reporter Selina Wang said in a post on X that the world's largest retailer was \"actively considering\" joining a group of investors to buy the short video app, citing sources close to the deal.  Walmart's interest was triggered by Amazon's involvement, the post and a subsequent story on ABC's website said.  A Walmart spokesperson said the ABC story was incorrect and pointed out that the story had been taken down from the site.",
+                "publication_date": "2025-04-04T17:03:41.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6486",
+                "source": "Reuters",
+                "ticker": "WMT",
+                "title": "Walmart denies ABC News report it could join investor group to buy TikTok",
+                "url": "https://finance.yahoo.com/news/walmart-considers-joining-investor-group-170341375.html"
+            },
+            {
+                "headline": "Even Walmart isn\u2019t safe from President Donald Trump\u2019s tariffs, as new costs from suppliers could lead to higher prices for consumers.",
+                "publication_date": "2025-04-04T15:18:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4404",
+                "source": "Quartz",
+                "ticker": "WMT",
+                "title": "Walmart could face price hikes from its suppliers, raising concerns over price gouging for consumers",
+                "url": "https://finance.yahoo.com/news/walmart-could-face-price-hikes-151800551.html"
+            },
+            {
+                "headline": "The latest CNBC CFO Council Survey found that 60% of CFOs expect a U.S. recession later in 2025.  Another 15% predict a recession next year.  Ninety percent of the CFOs surveyed believe President Trump's tariffs will cause inflation to rise.",
+                "publication_date": "2025-04-04T08:42:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.6808",
+                "source": "Motley Fool",
+                "ticker": "WMT",
+                "title": "Corporate CFOs Think a Recession Is Coming. Here Are 3 Stocks to Own If They're Right.",
+                "url": "https://finance.yahoo.com/news/corporate-cfos-think-recession-coming-084200201.html"
+            },
+            {
+                "headline": "President Donald Trump's \"Liberation Day\" tariff program set off a string of worries and sent the markets tumbling on Thursday and Friday.  New fears about how the tariffs could trigger a recession sent investors running toward safer instruments like U.S. Treasury bills.  Amazon (NASDAQ: AMZN) stock is one of those stocks and it dropped 12.8% since the tariffs were announced, and it's lost all its gains from the past year.",
+                "publication_date": "2025-04-04T20:46:48.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.128",
+                "source": "Motley Fool",
+                "ticker": "WMT",
+                "title": "3 Ways the New U.S. Tariffs Might Affect Amazon Stock",
+                "url": "https://finance.yahoo.com/news/3-ways-u-tariffs-might-204648903.html"
+            },
+            {
+                "headline": "From Rolls-Royce to Volkswagen, companies are betting big on pay hikes to fix culture\u2014because money still talks.",
+                "publication_date": "2025-04-04T15:50:03.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.1027",
+                "source": "Fortune",
+                "ticker": "WMT",
+                "title": "Walmart CEO says paying its star managers upwards of $620,000 yearly empowers them to \u2018feel like owners\u2019",
+                "url": "https://finance.yahoo.com/news/walmart-ceo-says-paying-star-155003794.html"
+            }
+        ],
+        "avgScore": 0.15070833333333333
+    },
+    "4 3 2025": {
+        "importantArticles": [
+            {
+                "headline": "Walmart, Best Buy, and other major retailers are already feeling the impact of President Donald Trump\u2019s \u201cLiberation Day\u201d tariffs, which are set to take effect April 9. The initial 10% tariff will kick in this Saturday, April 5.",
+                "publication_date": "2025-04-03T14:35:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6908",
+                "source": "Quartz",
+                "ticker": "WMT",
+                "title": "Walmart, Best Buy, and other retail giants plummet as Trump tariffs bite",
+                "url": "https://finance.yahoo.com/news/walmart-best-buy-other-retail-143500846.html"
+            },
+            {
+                "headline": "To navigate the volatility the year may bring, blue-chip retail stocks like WMT, COST and HD offer a blend of stability and growth.",
+                "publication_date": "2025-04-03T12:58:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6249",
+                "source": "Zacks",
+                "ticker": "WMT",
+                "title": "3 Blue-Chip Retail Stocks to Count on Amid Trade War Uncertainty",
+                "url": "https://finance.yahoo.com/news/3-blue-chip-retail-stocks-125800860.html"
+            },
+            {
+                "headline": "TD Cowen senior research analyst Oliver Chen joins Catalysts host Madison Mills and Tematica Research chief investment officer Chris Versace to discuss the strength of retailers with bargaining power, such as Walmart (WMT), Costco (COST), and BJ's (BJ). To watch more expert insights and analysis on the latest market action, check out more Catalysts&nbsp;here.",
+                "publication_date": "2025-04-03T10:00:22.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4939",
+                "source": "Yahoo Finance Video",
+                "ticker": "WMT",
+                "title": "The importance of owning retail stocks with 'bargaining leverage'",
+                "url": "https://finance.yahoo.com/video/importance-owning-retail-stocks-bargaining-100022886.html"
+            },
+            {
+                "headline": "At his \"Liberation Day\" spectacle at the White House Wednesday afternoon, Trump revealed a baseline tariff rate of 10% on countries that will go into effect on April 5.Additional tariffs will be added for some countries that the administration considers to be the worst offenders. Some of those alleged worst offenders are important sourcing and business regions for many large US companies such as Apple (AAPL), Nike (NKE), and Walmart (WMT). China, for example, will see an estimated reciprocal tariff of 34%. Vietnam at 32%. Japan is at 24%. The news has hit stocks, with Dow Jones Industrial Average futures down about 1,200 points, or nearly 3% (YM=F). S&P 500 futures are down 3.5% (ES=F), and Nasdaq futures are off by 3.8% (NQ=F). Japan\u2019s Nikkei (^N225) and Hong Kong\u2019s Hang Seng Index (^HSI) have also registered significant losses. Here\u2019s the hot analysis investors need to know right now:First, retail stocks are getting battered. Walmart, Nike, and Under Armour (UAA, UA) are getting slammed as steep tariffs on China could hammer profits. Nike, for example, relies on China and Vietnam for 55% of its sourcing. Stifel analyst Jim Duffy estimates Nike could see $1.69 a share in earnings wiped out this year because of tariffs. Next up, Apple is going to have a rough day: Morgan Stanley estimates that the tariffs on iPhones and other devices from China will increase Apple\u2019s annual costs by a whopping $8.5 billion. That could hit Apple\u2019s profits by 52 cents next year. Brutal. And lastly, the technical takedown: Market technicians are locked in on the S&P 500\u2019s March 13 closing low of 5,527.50. At this moment, the S&P 500 (^GSPC) is poised to test that low. A break through below the March lows intraday coupled with a new closing low could really damage sentiment further pros warn. RBC strategist Lori Calvasina says the S&P 500 has a clear shot to 4,900 if that low is breached. For more expert insight and the latest market action, click here.",
+                "publication_date": "2025-04-03T12:22:17.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.9485",
+                "source": "Yahoo Finance Video",
+                "ticker": "WMT",
+                "title": "Trump tariffs send stocks spiraling! 3 things investors need to know",
+                "url": "https://finance.yahoo.com/video/trump-tariffs-send-stocks-spiraling-122217686.html"
+            },
+            {
+                "headline": "(Bloomberg) -- Supply Lines is a daily newsletter that tracks global trade. Sign up here.Most Read from BloombergMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLondon Clears Final Hurdle for More High-Speed Trains to EuropeLocal Governments Vie for Fired Federal WorkersChicago School District Agrees to Minimum 16% Teacher Pay RaiseChina vowed to retaliate against Donald Trump\u2019s biggest tariffs yet, putting the world\u2019s largest economies on a collision course that risk",
+                "publication_date": "2025-04-03T09:39:04.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.7579",
+                "source": "Bloomberg",
+                "ticker": "WMT",
+                "title": "China Vows Retaliation as Trump Unleashes \u2018Bazooka\u2019 US Tariffs",
+                "url": "https://finance.yahoo.com/news/china-vows-retaliation-trump-unleashes-093904902.html"
+            },
+            {
+                "headline": "We recently published a list of Jim Cramer Highlighted 12 Stocks and Tariff Panic. In this article, we are going to take a look at where Walmart Inc. (NYSE:WMT) stands against other stocks that Jim Cramer highlighted. On Monday, Jim Cramer, the host of Mad Money, discussed the current market and he identified opportunities for [\u2026]",
+                "publication_date": "2025-04-03T21:51:18.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5994",
+                "source": "Insider Monkey",
+                "ticker": "WMT",
+                "title": "Walmart (WMT) is \u2018Cheap\u2019 and \u2018Undervalued\u2019 \u2013 Jim Cramer Questions Market Negativity!",
+                "url": "https://finance.yahoo.com/news/walmart-wmt-cheap-undervalued-jim-215118561.html"
+            }
+        ],
+        "avgScore": 0.033716666666666686
+    },
+    "4 2 2025": {
+        "importantArticles": [
+            {
+                "headline": "Retailers are getting swept into the black vortex that are tariff headlines from the Trump administration. Big names such as Walmart (WMT), Target (TGT), Gap (GAP), and Abercrombie & Fitch (ANF) have warned about the impact of tariffs this year on profits. In the meantime, shoppers are growing concerned about what they will be paying for spring and summer apparel once tariffs kick in. The reality is that consumers may resist the higher prices, sending retailers off to offer profit-busting discounts and earnings warnings. Luxury goods companies are by no means immune to the challenges as their results have been powered by international shoppers and a wealthy class feasting on strong stock market gains (until now). Is there any reason to be optimistic about the sector? Yahoo Finance Executive Editor Brian Sozzi sits down on the Opening Bid podcast with noted fashion designer Rebecca Minkoff for her perspective on the state of retail. Minkoff created her company from the ground floor in the mid-2000s and has seen some of the highest of the highs and lowest of the lows in retail. Minkoff is also the author of the new book Fearless: The New Rules for Unlocking Creativity, Courage, and Success, where she aims to impart leadership wisdom to the next generation of female entrepreneurs. For full episodes of Opening Bid, listen on your favorite podcast platform or watch on our website. Yahoo Finance's Opening Bid is produced by Langston Sessoms",
+                "publication_date": "2025-04-02T10:00:55.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9788",
+                "source": "Yahoo Finance Video",
+                "ticker": "WMT",
+                "title": "Tariffs are the last thing apparel industry needs: Rebecca Minkoff",
+                "url": "https://finance.yahoo.com/video/tariffs-last-thing-apparel-industry-100055358.html"
+            },
+            {
+                "headline": "Amazon (NASDAQ: AMZN), Walmart (NYSE: WMT), and Target (NYSE: TGT) stocks all fell more than 10% last month according to data provided by S&P Global Market Intelligence.  The market's been down on tariff talks and moves, and the S&P 500 dropped 5% in March.  The market is on edge in preparation for President Donald Trump to release his complete tariff plan and in expectation of what the fallout could be.",
+                "publication_date": "2025-04-02T11:14:45.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5859",
+                "source": "Motley Fool",
+                "ticker": "WMT",
+                "title": "Why Amazon, Walmart, and Target Stocks Dropped More Than 10% in March",
+                "url": "https://finance.yahoo.com/news/why-amazon-walmart-target-stocks-111445758.html"
+            },
+            {
+                "headline": "Could Amazon expand its empire via the video app?",
+                "publication_date": "2025-04-02T14:30:43.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4588",
+                "source": "Social Media Today",
+                "ticker": "WMT",
+                "title": "Amazon Makes Last-Minute Bid for TikTok US",
+                "url": "https://finance.yahoo.com/news/amazon-makes-last-minute-bid-143043895.html"
+            },
+            {
+                "headline": "Some Chinese manufacturers are finding it difficult to meet Walmart's demands to cut prices by as much as 10% for each round of Trump's tariffs, the report said.  Walmart did not immediately respond to Reuters' request for comment outside business hours.",
+                "publication_date": "2025-04-02T03:04:09.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5574",
+                "source": "Reuters",
+                "ticker": "WMT",
+                "title": "Walmart continues to push Chinese suppliers to cut prices, Bloomberg News reports",
+                "url": "https://finance.yahoo.com/news/walmart-continues-push-chinese-suppliers-030409732.html"
+            },
+            {
+                "headline": "The market (^GSPC,&nbsp;^IXIC,&nbsp;^DJI) outlook is uncertain, with a potentially rough earnings season ahead due to factors like tariffs, slower consumer spending, and business uncertainty. Chris Versace, Tematica Research chief investment officer, joins Catalysts host Madison Mills to share his insights on defensive stocks to buy amid market uncertainty. To watch more expert insights and analysis on the latest market action, check out more Catalysts&nbsp;here.",
+                "publication_date": "2025-04-02T15:01:46.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.296",
+                "source": "Yahoo Finance Video",
+                "ticker": "WMT",
+                "title": "Top defensive stock picks as tariffs, market uncertainty loom",
+                "url": "https://finance.yahoo.com/video/top-defensive-stock-picks-tariffs-150146097.html"
+            },
+            {
+                "headline": "Walmart\u2019sbig pay bump for its store managers is paying off, according to U.S. CEO John Furner.",
+                "publication_date": "2025-04-02T18:58:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.1027",
+                "source": "Quartz",
+                "ticker": "WMT",
+                "title": "Walmart's CEO on what store managers making $600,000 does for business",
+                "url": "https://finance.yahoo.com/news/walmarts-ceo-store-managers-making-185800461.html"
+            }
+        ],
+        "avgScore": 0.13701538461538462
+    },
+    "4 1 2025": {
+        "importantArticles": [
+            {
+                "headline": "We recently published a list of 10 Best US Stocks To Buy For Foreign Investors. In this article, we are going to take a look at where Walmart Inc. (NYSE:WMT) stands against other best American stocks to buy. In the coming week, the resilience of the US stock market will be challenged as President Trump\u2019s [\u2026]",
+                "publication_date": "2025-04-01T21:50:43.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8402",
+                "source": "Insider Monkey",
+                "ticker": "WMT",
+                "title": "Walmart Inc. (WMT): Among The Best US Stocks To Buy For Foreign Investors",
+                "url": "https://finance.yahoo.com/news/walmart-inc-wmt-among-best-215043027.html"
+            },
+            {
+                "headline": "Local Bounti Corp (LOCL) reports a 38% sales increase and significant debt reduction, while navigating production challenges and expanding its Walmart distribution network.",
+                "publication_date": "2025-04-01T07:05:49.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.2263",
+                "source": "GuruFocus.com",
+                "ticker": "WMT",
+                "title": "Local Bounti Corp (LOCL) Q4 2024 Earnings Call Highlights: Strategic Growth Amidst Challenges",
+                "url": "https://finance.yahoo.com/news/local-bounti-corp-locl-q4-070549512.html"
+            },
+            {
+                "headline": "One expert described the grocer as \u201cruddlerless,\u201d noting that its core grocery business has suffered as the company has pursued alternative profits and pricey e-commerce investments.",
+                "publication_date": "2025-04-01T12:02:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.0772",
+                "source": "Grocery Dive",
+                "ticker": "WMT",
+                "title": "Kroger\u2019s road ahead runs through its past, analysts say",
+                "url": "https://finance.yahoo.com/news/kroger-road-ahead-runs-past-120200600.html"
+            },
+            {
+                "headline": "One expert described the grocer as \u201cruddlerless,\u201d noting that its core grocery business has suffered as the company has pursued alternative profits and pricey e-commerce investments.",
+                "publication_date": "2025-04-01T12:02:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.0772",
+                "source": "Grocery Dive",
+                "ticker": "WMT",
+                "title": "Kroger\u2019s road ahead runs through its past, analysts say",
+                "url": "https://finance.yahoo.com/news/kroger-road-ahead-runs-past-120200600.html"
+            },
+            {
+                "headline": "Local Bounti Corp (LOCL) reports a 38% sales increase and significant debt reduction, while navigating production challenges and expanding its Walmart distribution network.",
+                "publication_date": "2025-04-01T07:05:49.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.2263",
+                "source": "GuruFocus.com",
+                "ticker": "WMT",
+                "title": "Local Bounti Corp (LOCL) Q4 2024 Earnings Call Highlights: Strategic Growth Amidst Challenges",
+                "url": "https://finance.yahoo.com/news/local-bounti-corp-locl-q4-070549512.html"
+            },
+            {
+                "headline": "We recently published a list of 10 Best US Stocks To Buy For Foreign Investors. In this article, we are going to take a look at where Walmart Inc. (NYSE:WMT) stands against other best American stocks to buy. In the coming week, the resilience of the US stock market will be challenged as President Trump\u2019s [\u2026]",
+                "publication_date": "2025-04-01T21:50:43.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8402",
+                "source": "Insider Monkey",
+                "ticker": "WMT",
+                "title": "Walmart Inc. (WMT): Among The Best US Stocks To Buy For Foreign Investors",
+                "url": "https://finance.yahoo.com/news/walmart-inc-wmt-among-best-215043027.html"
+            }
+        ],
+        "avgScore": 0.32976666666666665
+    },
+    "3 31 2025": {
+        "importantArticles": [
+            {
+                "headline": "We recently published a list of 12 Best FMCG Stocks to Buy According to Billionaires. In this article, we are going to take a look at where Walmart Inc. (NYSE:WMT) stands against other best FMCG stocks to buy according to billionaires. Historically, the consumer-packaged-goods (CPG) industry outperformed most of the other industries, mainly due to the [\u2026]",
+                "publication_date": "2025-03-31T21:19:18.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8555",
+                "source": "Insider Monkey",
+                "ticker": "WMT",
+                "title": "Is Walmart Inc.\u00a0(WMT) the Best FMCG Stock to Buy According to Billionaires?",
+                "url": "https://finance.yahoo.com/news/walmart-inc-wmt-best-fmcg-211918870.html"
+            },
+            {
+                "headline": "The retailer is working with Cropin to improve yield forecasting, monitor crop health and better predict seasonal transitions for fresh foods.",
+                "publication_date": "2025-03-31T10:40:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7964",
+                "source": "Grocery Dive",
+                "ticker": "WMT",
+                "title": "Walmart adds AI partner for produce crop monitoring",
+                "url": "https://finance.yahoo.com/news/walmart-adds-ai-partner-produce-104000755.html"
+            },
+            {
+                "headline": "Orders have evaporated for Richard Chen, who manufactures Christmas decorations in southern China for U.S. retailers, including Walmart and Costco, facing crippling U.S. tariffs.  On February 4, U.S. President Donald Trump applied a new 10% tariff to the $400 billion worth of Chinese goods exported annually to the United States, with an additional 10% tariff announced on March 4 and further reciprocal tariffs expected on April 2.",
+                "publication_date": "2025-03-31T04:01:51.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5719",
+                "source": "Reuters",
+                "ticker": "WMT",
+                "title": "Analysis-For China and US Inc, Trump's trade war feels much worse this time",
+                "url": "https://finance.yahoo.com/news/analysis-china-us-inc-trumps-040151018.html"
+            },
+            {
+                "headline": "Costco\u2019s $86 billion Kirkland Signature brand went against industry standards when it was launched in 1995. WSJ breaks down why the private label is now the retail behemoth\u2019s secret weapon.",
+                "publication_date": "2025-03-31T04:01:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.1779",
+                "source": "WSJ",
+                "ticker": "WMT",
+                "title": "Why Costco Went All In on Kirkland \u2014 and How It Paid Off",
+                "url": "https://finance.yahoo.com/video/why-costco-went-kirkland-paid-040100653.html"
+            },
+            {
+                "headline": "TikTok will go offline on April 5 unless it's sold.",
+                "publication_date": "2025-03-31T14:16:45.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.128",
+                "source": "Yahoo Finance",
+                "ticker": "WMT",
+                "title": "TikTok's days are numbered as ban nears",
+                "url": "https://finance.yahoo.com/news/tiktoks-days-are-numbered-as-ban-nears-141645330.html"
+            },
+            {
+                "headline": "Walmart makes up a relatively small portion of Affirm\u2019s business that the buy now, pay later company can make up elsewhere, Chief Operating Officer Michael Linford said.",
+                "publication_date": "2025-03-31T10:06:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.1027",
+                "source": "Payments Dive",
+                "ticker": "WMT",
+                "title": "Affirm COO: Walmart deal was \u201cuneconomic\u201d",
+                "url": "https://finance.yahoo.com/news/affirm-coo-walmart-deal-uneconomic-100600435.html"
+            }
+        ],
+        "avgScore": 0.29930999999999996
+    },
+    "coef": 0.792483740172467
 }

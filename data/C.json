@@ -1,67 +1,158 @@
 {
-    "importantArticles": [
-        {
-            "headline": "We recently published a list of Starter Stock Portfolio 12 Safe Stocks to Buy. In this article, we are going to take a look at where Citigroup Inc. (NYSE:C) stands against other best beginner stocks. The US stock market has experienced a turbulent first quarter of 2025, marked by increased volatility and negative returns across [\u2026]",
-            "publication_date": "2025-04-06T20:55:26.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.6705",
-            "source": "Insider Monkey",
-            "ticker": "C",
-            "title": "Citigroup Inc. (C): Among the Best Beginner Stocks",
-            "url": "https://finance.yahoo.com/news/citigroup-inc-c-among-best-205526842.html"
-        },
-        {
-            "headline": "Banks are set to kick off first quarter earnings season next week. Bloomberg Intelligence director of research global strategy team Alison Williams joins Catalyst with host Madison Mills to discuss what investors can expect from bank earnings. To watch more expert insights and analysis on the latest market action, check out more Catalysts here.",
-            "publication_date": "2025-04-04T15:23:14.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.4767",
-            "source": "Yahoo Finance Video",
-            "ticker": "C",
-            "title": "Banks to kick off earnings: 'Credit risk' will become key concern",
-            "url": "https://finance.yahoo.com/video/banks-kick-off-earnings-credit-152314153.html"
-        },
-        {
-            "headline": "Exploring Citigroup's Growth Potential in Emerging Markets",
-            "publication_date": "2025-04-04T18:48:56.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.3818",
-            "source": "GuruFocus.com",
-            "ticker": "C",
-            "title": "Citigroup's Transformation: What Investors Need to Know",
-            "url": "https://finance.yahoo.com/news/citigroups-transformation-investors-know-184856422.html"
-        },
-        {
-            "headline": "(Bloomberg) -- A Texas experiment to fund new natural gas-burning power plants with $5 billion in public loans is faltering as several of the proposed facilities drop out, threatening the state\u2019s efforts to meet growing electricity demand. Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersThis Skinny Mexico City Tower Is Just 14 Feet Wide on One SideBoston Mayor Wu Embraces Trump Resistance as Campaign Heats UpLocal Governments Vie for Fired Federal WorkersMetro-North Is",
-            "publication_date": "2025-04-05T14:00:02.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.7506",
-            "source": "Bloomberg",
-            "ticker": "C",
-            "title": "Texas Attempt to Kickstart New Gas-Fired Power Is Stumbling",
-            "url": "https://finance.yahoo.com/news/texas-attempt-kickstart-gas-fired-140002983.html"
-        },
-        {
-            "headline": "(Bloomberg) -- Goldman Sachs Group Inc. strategists cut their targets on European stocks due to the expected hit from President Donald Trump\u2019s tariffs, making a contrarian bet at a time when the region has beaten US peers by a record.Most Read from BloombergWhat Frank Lloyd Wright Learned From the DesertGold-Rush Fever Returns to Historic New Zealand Mining TownBank Regulators Fight for Desks as OCC Returns to New York TowerLondon Clears Final Hurdle for More High-Speed Trains to EuropeThe team",
-            "publication_date": "2025-04-01T08:42:11.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.7351",
-            "source": "Bloomberg",
-            "ticker": "C",
-            "title": "Goldman Strategists Cut European Stock Targets on US Tariff Threat",
-            "url": "https://finance.yahoo.com/news/goldman-strategists-cut-european-stock-084211659.html"
-        },
-        {
-            "headline": "(Bloomberg) -- Roughly $2.5 trillion was erased from the S&P 500 Index on Thursday amid worries that President Donald Trump\u2019s sweeping new round of tariffs could plunge the economy into a recession.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Would \u2018Transportation Abundance\u2019 Loo",
-            "publication_date": "2025-04-03T20:13:46.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.7269",
-            "source": "Bloomberg",
-            "ticker": "C",
-            "title": "Trump Tariffs Wipe Out $2.5 Trillion From US Stock Market",
-            "url": "https://finance.yahoo.com/news/trump-tariffs-set-wipe-nearly-120038363.html"
-        }
-    ],
-    "avgScore": -0.2734842105263158,
-    "todayPctChange": -0.039698332257149915,
-    "vScore": 1.085686705655802
+    "4 4 2025": {
+        "importantArticles": [
+            {
+                "headline": "Banks are set to kick off first quarter earnings season next week. Bloomberg Intelligence director of research global strategy team Alison Williams joins Catalyst with host Madison Mills to discuss what investors can expect from bank earnings. To watch more expert insights and analysis on the latest market action, check out more Catalysts here.",
+                "publication_date": "2025-04-04T15:23:14.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4767",
+                "source": "Yahoo Finance Video",
+                "ticker": "C",
+                "title": "Banks to kick off earnings: 'Credit risk' will become key concern",
+                "url": "https://finance.yahoo.com/video/banks-kick-off-earnings-credit-152314153.html"
+            },
+            {
+                "headline": "Exploring Citigroup's Growth Potential in Emerging Markets",
+                "publication_date": "2025-04-04T18:48:56.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.3818",
+                "source": "GuruFocus.com",
+                "ticker": "C",
+                "title": "Citigroup's Transformation: What Investors Need to Know",
+                "url": "https://finance.yahoo.com/news/citigroups-transformation-investors-know-184856422.html"
+            },
+            {
+                "headline": "The latest investor updates on stocks that are trending on Friday",
+                "publication_date": "2025-04-04T09:12:38.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Yahoo Finance UK",
+                "ticker": "C",
+                "title": "Trending tickers: Apple, Nike, Starbucks, Best Buy and Restoration Hardware",
+                "url": "https://finance.yahoo.com/news/apple-nike-starbucks-best-buy-restoration-hardware-trending-tickers-091237531.html"
+            },
+            {
+                "headline": "Citigroup (NYSE:C) recently announced dividend declarations, with a common stock dividend of $0.56 per share, amidst a challenging market backdrop where major indexes, including the Dow, are experiencing significant tumbles due to escalating trade tensions. As the global trade landscape remains uncertain, Citigroup's stock price moved downward by 11.20% over the last quarter. The market's overall decline of 5.6% during this time reflects broader economic unease, amplified by tariff...",
+                "publication_date": "2025-04-04T18:13:37.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.4588",
+                "source": "Simply Wall St.",
+                "ticker": "C",
+                "title": "Citigroup (NYSE:C) Declares US$0.56 Dividend Despite 12% Share Price Dip",
+                "url": "https://finance.yahoo.com/news/citigroup-nyse-c-declares-us-181337272.html"
+            },
+            {
+                "headline": "Big bank stocks, including JPMorgan (JPM), Citigroup (C), and Goldman Sachs (GS), have tumbled in the wake of President Trump's tariff announcements. Yahoo Finance Banking Reporter David Hollerith joins Market Domination with Yahoo Finance Head of News Myles Udland, RSM chief economist Joe Brusuelas, and Epistrophy Capital Research's chief market strategist and host of \"The Drill Down Podcast\" Cory Johnson to discuss the details. To watch more expert insights and analysis on the latest market action, check out more Market Domination here.",
+                "publication_date": "2025-04-04T20:21:38.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.1027",
+                "source": "Yahoo Finance Video",
+                "ticker": "C",
+                "title": "Big bank stocks are falling amid tariff chaos: What to know",
+                "url": "https://finance.yahoo.com/video/big-bank-stocks-falling-amid-202138438.html"
+            },
+            {
+                "headline": "The latest investor updates on stocks that are trending on Friday",
+                "publication_date": "2025-04-04T09:12:38.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Yahoo Finance UK",
+                "ticker": "C",
+                "title": "Trending tickers: Apple, Nike, Starbucks, Best Buy and Restoration Hardware",
+                "url": "https://finance.yahoo.com/news/apple-nike-starbucks-best-buy-restoration-hardware-trending-tickers-091237531.html"
+            }
+        ],
+        "avgScore": 0.05940000000000001
+    },
+    "4 3 2025": {
+        "importantArticles": [
+            {
+                "headline": "NEW YORK, April 03, 2025--Citigroup Inc. is announcing the redemption, in whole, constituting $3,500,000,000 of its 3.106% Fixed Rate / Floating Rate Notes due 2026 (the \"notes\") (ISIN: US172967MQ12).",
+                "publication_date": "2025-04-03T20:15:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Business Wire",
+                "ticker": "C",
+                "title": "Citigroup Announces $3.5 Billion Redemption of 3.106% Fixed Rate/Floating Rate Notes Due 2026",
+                "url": "https://finance.yahoo.com/news/citigroup-announces-3-5-billion-201500099.html"
+            },
+            {
+                "headline": "The lawsuit accused the New York City-based bank of \u201cunabashed racial discrimination\u201d for waiving ATM fees for customers of minority-owned banks but not for white-owned banks.",
+                "publication_date": "2025-04-03T11:31:15.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.2617",
+                "source": "Banking Dive",
+                "ticker": "C",
+                "title": "Judge tosses racial bias suit against Citi over ATM fee waivers",
+                "url": "https://finance.yahoo.com/news/judge-tosses-racial-bias-suit-113115383.html"
+            },
+            {
+                "headline": "Stocks of the biggest banks and private-equity firms plunged Thursday as concerns mounted about how Wall Street giants and their customers might be affected by heightened odds of a US recession.",
+                "publication_date": "2025-04-03T20:42:26.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5267",
+                "source": "Yahoo Finance",
+                "ticker": "C",
+                "title": "Stocks of Wall Street giants plunge as Trump tariff turmoil roils the finance world",
+                "url": "https://finance.yahoo.com/news/stocks-of-wall-street-giants-plunge-as-trump-tariff-turmoil-roils-the-finance-world-190455146.html"
+            },
+            {
+                "headline": "(Bloomberg) -- Roughly $2.5 trillion was erased from the S&P 500 Index on Thursday amid worries that President Donald Trump\u2019s sweeping new round of tariffs could plunge the economy into a recession.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Would \u2018Transportation Abundance\u2019 Loo",
+                "publication_date": "2025-04-03T20:13:46.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.7269",
+                "source": "Bloomberg",
+                "ticker": "C",
+                "title": "Trump Tariffs Wipe Out $2.5 Trillion From US Stock Market",
+                "url": "https://finance.yahoo.com/news/trump-tariffs-set-wipe-nearly-120038363.html"
+            },
+            {
+                "headline": "(Bloomberg) -- A Bloomberg gauge of the dollar dropped the most on record as fears grew that President Donald Trump\u2019s sweeping trade tariffs would batter the US economy.Most Read from BloombergMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeHousing Agency Aims to Relocate Its DC HeadquartersWhat Would \u2018Transportation Abundance\u2019 Look Like?The Bloomberg Dollar S",
+                "publication_date": "2025-04-03T17:38:32.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.7269",
+                "source": "Bloomberg",
+                "ticker": "C",
+                "title": "Dollar Drops by Most on Record as Traders Brace for More Pain",
+                "url": "https://finance.yahoo.com/news/dollar-slides-concern-trump-tariffs-070440166.html"
+            },
+            {
+                "headline": "(Bloomberg) -- The yield on benchmark Treasuries fell briefly below 4% for the first time since October as Wall Street fretted that the US economy will end up worse off from President Donald Trump\u2019s trade war.Most Read from BloombergMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesHousing Agency Aims to Relocate Its DC HeadquartersLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Would \u2018Transportation Abu",
+                "publication_date": "2025-04-03T18:00:58.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.6705",
+                "source": "Bloomberg",
+                "ticker": "C",
+                "title": "US 10-Year Yield Drops Below 4% for First Time Since Trump Won",
+                "url": "https://finance.yahoo.com/news/us-10-yield-drops-below-140544183.html"
+            }
+        ],
+        "avgScore": -0.5017285714285714
+    },
+    "4 1 2025": {
+        "importantArticles": [
+            {
+                "headline": "(Bloomberg) -- Goldman Sachs Group Inc. strategists cut their targets on European stocks due to the expected hit from President Donald Trump\u2019s tariffs, making a contrarian bet at a time when the region has beaten US peers by a record.Most Read from BloombergWhat Frank Lloyd Wright Learned From the DesertGold-Rush Fever Returns to Historic New Zealand Mining TownBank Regulators Fight for Desks as OCC Returns to New York TowerLondon Clears Final Hurdle for More High-Speed Trains to EuropeThe team",
+                "publication_date": "2025-04-01T08:42:11.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.7351",
+                "source": "Bloomberg",
+                "ticker": "C",
+                "title": "Goldman Strategists Cut European Stock Targets on US Tariff Threat",
+                "url": "https://finance.yahoo.com/news/goldman-strategists-cut-european-stock-084211659.html"
+            },
+            {
+                "headline": "(Bloomberg) -- Goldman Sachs Group Inc. strategists cut their targets on European stocks due to the expected hit from President Donald Trump\u2019s tariffs, making a contrarian bet at a time when the region has beaten US peers by a record.Most Read from BloombergWhat Frank Lloyd Wright Learned From the DesertGold-Rush Fever Returns to Historic New Zealand Mining TownBank Regulators Fight for Desks as OCC Returns to New York TowerLondon Clears Final Hurdle for More High-Speed Trains to EuropeThe team",
+                "publication_date": "2025-04-01T08:42:11.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.7351",
+                "source": "Bloomberg",
+                "ticker": "C",
+                "title": "Goldman Strategists Cut European Stock Targets on US Tariff Threat",
+                "url": "https://finance.yahoo.com/news/goldman-strategists-cut-european-stock-084211659.html"
+            }
+        ],
+        "avgScore": -0.7351
+    },
+    "coef": -0.16938567859941853
 }

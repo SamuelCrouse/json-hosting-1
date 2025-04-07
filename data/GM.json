@@ -1,67 +1,158 @@
 {
-    "importantArticles": [
-        {
-            "headline": "General Motors (NYSE:GM) recently announced a partnership with GM Energy and EnergyHub to integrate electric vehicles and energy storage solutions into utility programs across the U.S., providing financial incentives to eligible EV owners. Despite these efforts towards innovation and energy management, General Motors saw a 4% decline in its share price over the last month. This decline occurred amidst broader market volatility driven by uncertainty surrounding potential tariffs announced by...",
-            "publication_date": "2025-04-02T17:54:49.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.8658",
-            "source": "Simply Wall St.",
-            "ticker": "GM",
-            "title": "General Motors (NYSE:GM) Partners With EnergyHub For U.S. Grid Incentives Amid 10% Share Dip",
-            "url": "https://finance.yahoo.com/news/general-motors-nyse-gm-partners-175449173.html"
-        },
-        {
-            "headline": "President Trump made good on his tariff promise for foreign made autos, slapping 25% tariffs across the board on foreign-made automobiles.",
-            "publication_date": "2025-04-02T21:01:56.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.6369",
-            "source": "Yahoo Finance",
-            "ticker": "GM",
-            "title": "Trump makes good on auto tariff threat with 25% levy on foreign-made cars",
-            "url": "https://finance.yahoo.com/news/trump-makes-good-on-auto-tariff-threat-with-25-levy-on-foreign-made-cars-210156415.html"
-        },
-        {
-            "headline": "DETROIT (Reuters) -General Motors plans to increase production of light-duty trucks at its Fort Wayne, Indiana, assembly plant, it said in a webcast sent to plant employees on Thursday and viewed by Reuters, after President Donald Trump announced 25% tariffs on auto imports.  GM CEO Mary Barra had hinted at the possibility of increasing the output of trucks in the United States during GM's January earnings call in response to tariffs.",
-            "publication_date": "2025-04-03T16:47:54.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.6249",
-            "source": "Reuters",
-            "ticker": "GM",
-            "title": "Exclusive-GM to increase truck production in Indiana following Trump's tariffs",
-            "url": "https://finance.yahoo.com/news/exclusive-gm-increase-us-truck-164754030.html"
-        },
-        {
-            "headline": "Investing.com -- The U.S. auto sector is heading into a potentially severe disruption, with Bernstein warning that upcoming tariffs could move the industry from \u201cearnings pressure to supply chain fragility.\u201d",
-            "publication_date": "2025-04-05T09:00:09.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.8271",
-            "source": "Investing.com",
-            "ticker": "GM",
-            "title": "Is the U.S. auto sector ready for a policy-induced storm? Bernstein weighs in",
-            "url": "https://finance.yahoo.com/news/u-auto-sector-ready-policy-090009463.html"
-        },
-        {
-            "headline": "GM sells 442,000 vehicles in China in Q1, almost flat year over year but down sequentially. With rising local competition, GM faces a tough battle ahead.",
-            "publication_date": "2025-04-04T16:39:00.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.631",
-            "source": "Zacks",
-            "ticker": "GM",
-            "title": "How's General Motors Faring in China Amid Fierce Competition?",
-            "url": "https://finance.yahoo.com/news/hows-general-motors-faring-china-163900735.html"
-        },
-        {
-            "headline": "Trump's tariffs have thrown the auto industry into turmoil, with Canada hitting back. Consumers and automakers now brace up for rising costs and disruptions.",
-            "publication_date": "2025-04-04T13:58:00.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.5994",
-            "source": "Zacks",
-            "ticker": "GM",
-            "title": "Canada's Retaliatory Tariffs Fuel Trump's Trade War, Roil Auto Sector",
-            "url": "https://finance.yahoo.com/news/canadas-retaliatory-tariffs-fuel-trumps-135800328.html"
-        }
-    ],
-    "avgScore": 0.08103125,
-    "todayPctChange": -0.01029541363766216,
-    "vScore": -0.0834250236326812
+    "4 4 2025": {
+        "importantArticles": [
+            {
+                "headline": "The Zacks Style Scores offers investors a way to easily find top-rated stocks based on their investing style. Here's why you should take advantage.",
+                "publication_date": "2025-04-04T13:40:09.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5267",
+                "source": "Zacks",
+                "ticker": "GM",
+                "title": "Why General Motors (GM) is a Top Value Stock for the Long-Term",
+                "url": "https://finance.yahoo.com/news/why-general-motors-gm-top-134009029.html"
+            },
+            {
+                "headline": "GM is set to sell its entire stake in the Lansing, MI, battery plant to LG Energy for about $2.08 billion to scale back EV expansion due to slowing sales.",
+                "publication_date": "2025-04-04T13:24:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.2732",
+                "source": "Zacks",
+                "ticker": "GM",
+                "title": "General Motors to Sell Michigan Battery Plant to LG Energy for $2B",
+                "url": "https://finance.yahoo.com/news/general-motors-sell-michigan-battery-132400590.html"
+            },
+            {
+                "headline": "The Fort Wayne facility is equipped to produce Chevrolet Silverado and GMC Sierra trucks.",
+                "publication_date": "2025-04-04T11:08:37.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Just Auto",
+                "ticker": "GM",
+                "title": "GM reportedly plans to boost truck production in Indiana, US",
+                "url": "https://finance.yahoo.com/news/gm-reportedly-plans-boost-truck-110837971.html"
+            },
+            {
+                "headline": "GM sells 442,000 vehicles in China in Q1, almost flat year over year but down sequentially. With rising local competition, GM faces a tough battle ahead.",
+                "publication_date": "2025-04-04T16:39:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.631",
+                "source": "Zacks",
+                "ticker": "GM",
+                "title": "How's General Motors Faring in China Amid Fierce Competition?",
+                "url": "https://finance.yahoo.com/news/hows-general-motors-faring-china-163900735.html"
+            },
+            {
+                "headline": "Trump's tariffs have thrown the auto industry into turmoil, with Canada hitting back. Consumers and automakers now brace up for rising costs and disruptions.",
+                "publication_date": "2025-04-04T13:58:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5994",
+                "source": "Zacks",
+                "ticker": "GM",
+                "title": "Canada's Retaliatory Tariffs Fuel Trump's Trade War, Roil Auto Sector",
+                "url": "https://finance.yahoo.com/news/canadas-retaliatory-tariffs-fuel-trumps-135800328.html"
+            },
+            {
+                "headline": "The Fort Wayne facility is equipped to produce Chevrolet Silverado and GMC Sierra trucks.",
+                "publication_date": "2025-04-04T11:08:37.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Just Auto",
+                "ticker": "GM",
+                "title": "GM reportedly plans to boost truck production in Indiana, US",
+                "url": "https://finance.yahoo.com/news/gm-reportedly-plans-boost-truck-110837971.html"
+            }
+        ],
+        "avgScore": -0.08610000000000002
+    },
+    "4 3 2025": {
+        "importantArticles": [
+            {
+                "headline": "DETROIT (Reuters) -General Motors plans to increase production of light-duty trucks at its Fort Wayne, Indiana, assembly plant, it said in a webcast sent to plant employees on Thursday and viewed by Reuters, after President Donald Trump announced 25% tariffs on auto imports.  GM CEO Mary Barra had hinted at the possibility of increasing the output of trucks in the United States during GM's January earnings call in response to tariffs.",
+                "publication_date": "2025-04-03T16:47:54.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6249",
+                "source": "Reuters",
+                "ticker": "GM",
+                "title": "Exclusive-GM to increase truck production in Indiana following Trump's tariffs",
+                "url": "https://finance.yahoo.com/news/exclusive-gm-increase-us-truck-164754030.html"
+            },
+            {
+                "headline": "When it comes to U.S. auto company investors, the big question most want answered right now involves the potential impact on these companies' bottom line.  What happened with auto-related tariffs?  The Trump administration enacted a 25% tariff on April 3 on any vehicle not assembled in the U.S. President Donald Trump has said he also plans to place tariffs on some auto parts (including engines and transmissions), but those won't take effect until May 3.",
+                "publication_date": "2025-04-03T14:34:38.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.0763",
+                "source": "Motley Fool",
+                "ticker": "GM",
+                "title": "Tariffs Will Cost This Detroit Automaker Billions More Than Its Rival",
+                "url": "https://finance.yahoo.com/news/tariffs-cost-detroit-automaker-billions-143438434.html"
+            },
+            {
+                "headline": "President Trump's 25% auto tariffs are now in effect. Yahoo Finance Autos Reporter Pras Subramanian takes a closer look at how some of the major automakers are responding. To watch more expert insights and analysis on the latest market action, check out more Morning Brief here.",
+                "publication_date": "2025-04-03T13:47:37.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Yahoo Finance Video",
+                "ticker": "GM",
+                "title": "Trump's auto tariffs: Here's how automakers are responding",
+                "url": "https://finance.yahoo.com/video/trumps-auto-tariffs-heres-automakers-134737524.html"
+            },
+            {
+                "headline": "(Bloomberg) -- Supply Lines is a daily newsletter that tracks global trade. Sign up here.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Would \u2018Transportation Abundance\u2019 Look Like?Just hours after taking effect, President Donald Trump\u2019s 25% tariffs on imported cars are already reve",
+                "publication_date": "2025-04-03T18:57:40.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5106",
+                "source": "Bloomberg",
+                "ticker": "GM",
+                "title": "Carmakers Idle Plants, Rethink Prices as Trump\u2019s Tariffs Hit",
+                "url": "https://finance.yahoo.com/news/trump-25-us-auto-import-105245329.html"
+            },
+            {
+                "headline": "President Trump's 25% auto tariffs are now in effect. Yahoo Finance Autos Reporter Pras Subramanian takes a closer look at how some of the major automakers are responding. To watch more expert insights and analysis on the latest market action, check out more Morning Brief here.",
+                "publication_date": "2025-04-03T13:47:37.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Yahoo Finance Video",
+                "ticker": "GM",
+                "title": "Trump's auto tariffs: Here's how automakers are responding",
+                "url": "https://finance.yahoo.com/video/trumps-auto-tariffs-heres-automakers-134737524.html"
+            },
+            {
+                "headline": "When it comes to U.S. auto company investors, the big question most want answered right now involves the potential impact on these companies' bottom line.  What happened with auto-related tariffs?  The Trump administration enacted a 25% tariff on April 3 on any vehicle not assembled in the U.S. President Donald Trump has said he also plans to place tariffs on some auto parts (including engines and transmissions), but those won't take effect until May 3.",
+                "publication_date": "2025-04-03T14:34:38.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.0763",
+                "source": "Motley Fool",
+                "ticker": "GM",
+                "title": "Tariffs Will Cost This Detroit Automaker Billions More Than Its Rival",
+                "url": "https://finance.yahoo.com/news/tariffs-cost-detroit-automaker-billions-143438434.html"
+            }
+        ],
+        "avgScore": 0.04765
+    },
+    "4 2 2025": {
+        "importantArticles": [
+            {
+                "headline": "President Trump made good on his tariff promise for foreign made autos, slapping 25% tariffs across the board on foreign-made automobiles.",
+                "publication_date": "2025-04-02T21:01:56.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6369",
+                "source": "Yahoo Finance",
+                "ticker": "GM",
+                "title": "Trump makes good on auto tariff threat with 25% levy on foreign-made cars",
+                "url": "https://finance.yahoo.com/news/trump-makes-good-on-auto-tariff-threat-with-25-levy-on-foreign-made-cars-210156415.html"
+            },
+            {
+                "headline": "President Trump made good on his tariff promise for foreign made autos, slapping 25% tariffs across the board on foreign-made automobiles.",
+                "publication_date": "2025-04-02T21:01:56.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6369",
+                "source": "Yahoo Finance",
+                "ticker": "GM",
+                "title": "Trump makes good on auto tariff threat with 25% levy on foreign-made cars",
+                "url": "https://finance.yahoo.com/news/trump-makes-good-on-auto-tariff-threat-with-25-levy-on-foreign-made-cars-210156415.html"
+            }
+        ],
+        "avgScore": 0.6369
+    },
+    "coef": 0.46274901895999204
 }

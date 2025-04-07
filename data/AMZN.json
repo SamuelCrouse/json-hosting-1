@@ -1,67 +1,328 @@
 {
-    "importantArticles": [
-        {
-            "headline": "The recent market sell-off has opened the door for some good buying opportunities in growth stocks.  Down just over 20% from its highs, Amazon (NASDAQ: AMZN) is trading at one of its lowest valuations in its history with a trailing price-to-earnings ratio (P/E) of around 34.  The company's cloud computing business, Amazon Web Services (AWS), has been its biggest growth driver, as the company helps customers create and deploy their own artificial intelligence (AI) models and apps on its platform through the help of its Bedrock and SageMaker services.",
-            "publication_date": "2025-04-05T22:14:00.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.9584",
-            "source": "Motley Fool",
-            "ticker": "AMZN",
-            "title": "4 Growth Stocks Down 20% or More to Buy Right Now",
-            "url": "https://finance.yahoo.com/news/4-growth-stocks-down-20-221400511.html"
-        },
-        {
-            "headline": "Warren Buffett has built a fortune for Berkshire Hathaway shareholders.  Buffett's success at buying stocks of great businesses and holding them for the long term has inspired many investors to follow his style.  Berkshire held a stock portfolio worth $271 billion at the end of 2024.",
-            "publication_date": "2025-04-05T22:03:00.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.9169",
-            "source": "Motley Fool",
-            "ticker": "AMZN",
-            "title": "3 Top Buffett Stocks to Buy and Hold for the Next 20 Years",
-            "url": "https://finance.yahoo.com/news/3-top-buffett-stocks-buy-220300105.html"
-        },
-        {
-            "headline": "\u201cNow Streaming\u201d is The Fly\u2019s weekly recap of the stories surrounding the biggest content streamers. PLAYING THIS WEEKEND: Among this weekend\u2019s now streaming content is Hulu\u2019s comedy drama miniseries \u201cDying for Sex,\u201d starring Michelle Williams and Jenny Slate. Meanwhile, Netflix (NFLX) subscribers can watch medical drama \u201cThe Pulse\u201d as well as animated series \u201cDevil May Cry,\u201d which is based on the Capcom (CCOEY) series of video games. Additionally, Amazon Prime Video (AMZN) users can watch action",
-            "publication_date": "2025-04-05T16:20:23.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.7804",
-            "source": "TipRanks",
-            "ticker": "AMZN",
-            "title": "Now Streaming: Amazon\u2019s film strategy hits the big-screen",
-            "url": "https://finance.yahoo.com/news/now-streaming-amazon-film-strategy-162023294.html"
-        },
-        {
-            "headline": "Stocks plunged on Thursday in response to President Donald Trump's \"reciprocal tariffs.\"  While the president had telegraphed his desire for punitive tariffs to try to balance the trade deficit the U.S. has with much of the world, investors were taken aback by their size.  China has long served as a scapegoat for Trump so perhaps it's not a surprise that goods imported from China will now face a 54% tariff, which includes a 20% rate the president imposed earlier.",
-            "publication_date": "2025-04-05T22:51:00.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.7972",
-            "source": "Motley Fool",
-            "ticker": "AMZN",
-            "title": "China Hit With 54% \"Reciprocal Tariff\" Rate Following Trump Address. 3 Things Pinduoduo Stock Investors Should Know",
-            "url": "https://finance.yahoo.com/news/china-hit-54-reciprocal-tariff-225100115.html"
-        },
-        {
-            "headline": "President Donald Trump's trade wars are creating significant uncertainty, while many fear that a recession might be coming -- something else that could send the stock market in the wrong direction.  The Nasdaq Composite and S&P 500 have both recently hit correction territory -- defined as a 10% drop from their most recent highs.  Predicting these things is hard, but a bear market is a real possibility.",
-            "publication_date": "2025-04-06T19:15:00.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.7783",
-            "source": "Motley Fool",
-            "ticker": "AMZN",
-            "title": "History Says the Best Time to Buy Stocks May Be Coming",
-            "url": "https://finance.yahoo.com/news/history-says-best-time-buy-191500522.html"
-        },
-        {
-            "headline": "Amazon.com (NasdaqGS:AMZN) recently captured headlines with a controversial bid to acquire TikTok amid heightened scrutiny from U.S. regulators, reflecting its push for strategic growth. Meanwhile, significant market turmoil marked by a 9% weekly plunge in the Nasdaq was influenced by a global trade war spurred by newly announced tariffs by the U.S. administration. The simultaneous bid and market instability provided a backdrop for Amazon's share price drop of 11% this past week, as investors...",
-            "publication_date": "2025-04-05T17:26:11.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.5719",
-            "source": "Simply Wall St.",
-            "ticker": "AMZN",
-            "title": "Amazon.com (NasdaqGS:AMZN) Eyes TikTok Acquisition Amid Weekly Price Drop Of 11%",
-            "url": "https://finance.yahoo.com/news/amazon-com-nasdaqgs-amzn-eyes-172611895.html"
-        }
-    ],
-    "avgScore": 0.24173684210526325,
-    "todayPctChange": 0.025982610198859616,
-    "vScore": 0.628095413912433
+    "4 4 2025": {
+        "importantArticles": [
+            {
+                "headline": "President Trump promised big tariffs, and he didn't disappoint. Here's what sources are telling Yahoo Finance's newsroom about the tariff impact to certain sectors and asset classes.",
+                "publication_date": "2025-04-04T10:00:56.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8104",
+                "source": "Yahoo Finance",
+                "ticker": "AMZN",
+                "title": "Yahoo Finance newsroom analysis: How Trump's tariffs are affecting Big Tech, retailers, automakers, oil, and bonds",
+                "url": "https://finance.yahoo.com/news/yahoo-finance-newsroom-analysis-how-trumps-tariffs-are-affecting-big-tech-retailers-automakers-oil-and-bonds-100056271.html"
+            },
+            {
+                "headline": "David Tepper didn't amass a net worth of $21.3 billion by thinking conventionally.  If you look at the top holdings in Tepper's Appaloosa Management portfolio, you'll probably quickly see that the billionaire seems to like artificial intelligence (AI) stocks.  Amazon (NASDAQ: AMZN) has been an AI leader for years.",
+                "publication_date": "2025-04-04T08:47:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7531",
+                "source": "Motley Fool",
+                "ticker": "AMZN",
+                "title": "Billionaire David Tepper Is Selling Amazon and Meta Stocks but Betting on Artificial Intelligence (AI) in a Different Way",
+                "url": "https://finance.yahoo.com/news/billionaire-david-tepper-selling-amazon-084700289.html"
+            },
+            {
+                "headline": "Three companies that top my list as the best stocks to buy during a crash are Taiwan Semiconductor Manufacturing (NYSE: TSM), MercadoLibre (NASDAQ: MELI), and CrowdStrike (NASDAQ: CRWD).  Each has a unique reason for being on the list, and all of the underlying companies are well-positioned to be OK in nearly any downturn.  Taiwan Semiconductor is a chip foundry, meaning it fabricates chips for those who cannot do so themselves.",
+                "publication_date": "2025-04-04T10:17:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7378",
+                "source": "Motley Fool",
+                "ticker": "AMZN",
+                "title": "3 Brilliant Stocks That I'm Buying if the Stock Market Crashes",
+                "url": "https://finance.yahoo.com/news/3-brilliant-stocks-im-buying-101700718.html"
+            },
+            {
+                "headline": "BofA notes that President Trump\u2019s newly announced tariffs were larger than anticipated and are \u201ca direct negative\u201d for discretionary retail sales and advertising. In addition, the potential for increasing recession fears fueled by the tariffs are \u201ca relative negative for the entire Internet sector,\u201d which the analyst notes underperformed in 2008 and 2022 as fears of a recession grew. The \u201conly potential silver lining\u201d is that proposed rates could be viewed as a negotiation tool that may not be f",
+                "publication_date": "2025-04-04T13:16:20.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.9313",
+                "source": "TipRanks",
+                "ticker": "AMZN",
+                "title": "Tariff-fueled recession fears \u2018relative negative\u2019 for Internet sector, says BofA",
+                "url": "https://finance.yahoo.com/news/tariff-fueled-recession-fears-relative-131620534.html"
+            },
+            {
+                "headline": "(Bloomberg) -- There\u2019s virtually nowhere to hide for many US technology companies under President Donald Trump\u2019s new tariff regime, the harshest in a century.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Would \u2018Transportation Abundance\u2019 Look Like?After Thursday\u2019s slump wiped $1.4",
+                "publication_date": "2025-04-04T13:34:17.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.7705",
+                "source": "Bloomberg",
+                "ticker": "AMZN",
+                "title": "\u2018Worst-Case Scenario\u2019 for Tech Wipes $1.4 Trillion from Nasdaq",
+                "url": "https://finance.yahoo.com/news/worst-case-scenario-tech-wipes-081406416.html"
+            },
+            {
+                "headline": "We recently published a list of Jim Cramer\u2019s Thoughts on Liberation Day, Tariffs, and 17 Stocks to Watch Right Now. In this article, we are going to take a look at where Amazon.com, Inc. (NASDAQ:AMZN) stands against other stocks that Jim Cramer discusses. On Tuesday, April 1st, the host of Mad Money opened the show [\u2026]",
+                "publication_date": "2025-04-04T22:08:19.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.4939",
+                "source": "Insider Monkey",
+                "ticker": "AMZN",
+                "title": "Jim Cramer on Amazon (AMZN): \u201cWhat Can I Say Other Than\u2026 Buy, Buy, Buy!\u201d",
+                "url": "https://finance.yahoo.com/news/jim-cramer-amazon-amzn-other-220819502.html"
+            }
+        ],
+        "avgScore": 0.08199999999999999
+    },
+    "4 3 2025": {
+        "importantArticles": [
+            {
+                "headline": "The global e-commerce market is projected to experience significant growth, forecasted to reach USD 73.52 trillion by 2030 from USD 25.4 trillion in 2024, marking a compound annual growth rate of 19.2%. This expansion is driven by increased internet accessibility, shifting consumer behaviors towards online platforms, and the adoption of omnichannel retailing which integrates online and offline shopping experiences. Despite the anticipated growth, challenges such as logistics and supply chain...",
+                "publication_date": "2025-04-03T12:07:36.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8625",
+                "source": "Simply Wall St.",
+                "ticker": "AMZN",
+                "title": "Latest News In E-Commerce - Navigating Growth Opportunities In The Evolving Digital Marketplace",
+                "url": "https://finance.yahoo.com/news/latest-news-e-commerce-navigating-120736393.html"
+            },
+            {
+                "headline": "We recently published a list of Top 10 Stocks to Watch as AI Trade Dynamics Change. In this article, we are going to take a look at where Amazon.com Inc (NASDAQ:AMZN) stands against other top stocks to watch as AI trade dynamics change. Aswath Damodaran from NYU Stern School of Business said in a recent [\u2026]",
+                "publication_date": "2025-04-03T16:38:02.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7003",
+                "source": "Insider Monkey",
+                "ticker": "AMZN",
+                "title": "Analyst Says Amazon.com (AMZN) Should \u2018Continue to Compound\u2019 \u2013 Here\u2019s Why",
+                "url": "https://finance.yahoo.com/news/analyst-says-amazon-com-amzn-163802198.html"
+            },
+            {
+                "headline": "Amazon criticised a book delivery fee imposed by France two years ago, telling Europe's top court on Thursday the measure was discriminatory, protectionist and a breach of European Union law.  France's efforts to protect its cultural heritage and traditions have frequently put it at odds with tech and online companies, notably one of the biggest Amazon.  Paris introduced the three euro ($3.31) fee in October 2023 to help local independent bookstores counter competition from Amazon, which had until then charged a euro cent on book deliveries in France.",
+                "publication_date": "2025-04-03T09:50:05.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6486",
+                "source": "Reuters",
+                "ticker": "AMZN",
+                "title": "Amazon tells EU court French book delivery fee is protectionist",
+                "url": "https://finance.yahoo.com/news/amazon-tells-eu-court-french-095005843.html"
+            },
+            {
+                "headline": "(Bloomberg) -- The retail traders who have stormed the markets in recent years were among the only investors buying on Thursday as US stocks had their worst day since June 2020.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Would \u2018Transportation Abundance\u2019 Look Like?Small investor",
+                "publication_date": "2025-04-03T20:38:38.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.8126",
+                "source": "Bloomberg",
+                "ticker": "AMZN",
+                "title": "Retail Traders Step In to Buy as Others Flee in Tariff Rout",
+                "url": "https://finance.yahoo.com/news/retail-traders-step-buy-others-203838411.html"
+            },
+            {
+                "headline": "(Bloomberg) -- President Donald Trump said the US was close to unveiling a plan that would spare the Chinese-owned social media app TikTok from a US ban, with multiple investors involved in discussions for a deal.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Would \u2018Transportation",
+                "publication_date": "2025-04-03T21:21:07.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.7845",
+                "source": "Bloomberg",
+                "ticker": "AMZN",
+                "title": "Trump Says TikTok Deal Within Reach, Involves Multiple Investors",
+                "url": "https://finance.yahoo.com/news/trump-says-tiktok-deal-within-212107537.html"
+            },
+            {
+                "headline": "(Bloomberg) -- Roughly $2.5 trillion was erased from the S&P 500 Index on Thursday amid worries that President Donald Trump\u2019s sweeping new round of tariffs could plunge the economy into a recession.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Would \u2018Transportation Abundance\u2019 Loo",
+                "publication_date": "2025-04-03T20:13:46.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.7269",
+                "source": "Bloomberg",
+                "ticker": "AMZN",
+                "title": "Trump Tariffs Wipe Out $2.5 Trillion From US Stock Market",
+                "url": "https://finance.yahoo.com/news/trump-tariffs-set-wipe-nearly-120038363.html"
+            }
+        ],
+        "avgScore": 0.03890370370370375
+    },
+    "4 2 2025": {
+        "importantArticles": [
+            {
+                "headline": "Discover the best credit cards to save money, earn rewards and travel smarter.",
+                "publication_date": "2025-04-02T05:00:42.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9442",
+                "source": "Yahoo Finance UK",
+                "ticker": "AMZN",
+                "title": "Best credit card deals of the week, 2 April",
+                "url": "https://finance.yahoo.com/news/best-credit-card-deals-050042374.html"
+            },
+            {
+                "headline": "Artificial intelligence (AI) stocks have been some of the top performers on Wall Street over the last few years.  So, let's review two of the largest and best-known AI stocks -- Oracle (NYSE: ORCL) and Amazon (NASDAQ: AMZN) -- and see which is the best choice for investors right now.  As the AI revolution has gained steam, so has Oracle's stock.",
+                "publication_date": "2025-04-02T01:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9081",
+                "source": "Motley Fool",
+                "ticker": "AMZN",
+                "title": "Better AI Stock: Amazon vs. Oracle",
+                "url": "https://finance.yahoo.com/news/better-ai-stock-amazon-vs-010000483.html"
+            },
+            {
+                "headline": "After Amazon (AMZN) stock pulled back sharply in recent months, the shares \u201care starting to look appealing,\u201d and they are providing investors with a good \u201cbuying opportunity\u201d, Megan Brantley, VP of Research at LikeFolio recently told Schwab Network. Brantley specializes in consumer research. AMZN\u2019s Spring Sale Was Positive for the Company, Brantley Says Amazon\u2019s Spring [\u2026]",
+                "publication_date": "2025-04-02T16:29:05.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8555",
+                "source": "Insider Monkey",
+                "ticker": "AMZN",
+                "title": "Amazon (AMZN) Stock Is \u201cStarting to Look Appealing,\u201d Consumer Expert Says",
+                "url": "https://finance.yahoo.com/news/amazon-amzn-stock-starting-look-162905595.html"
+            },
+            {
+                "headline": "Amazon has placed a bid on TikTok, as the April 5 deadline nears for a potential sale of the social media company. If a deal does not emerge, the popular app could face a nationwide ban.",
+                "publication_date": "2025-04-02T19:25:32.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.6407",
+                "source": "LA Times",
+                "ticker": "AMZN",
+                "title": "Amazon places bid on TikTok as deadline looms",
+                "url": "https://finance.yahoo.com/news/amazon-places-bid-tiktok-deadline-192532148.html"
+            },
+            {
+                "headline": "Amazon and AppLovin reportedly submitted bids to acquire TikTok, ahead of a U.S. ban set to go into effect Saturday if no deal is reached with the app's Chinese parent company.",
+                "publication_date": "2025-04-02T20:03:45.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5719",
+                "source": "Investopedia",
+                "ticker": "AMZN",
+                "title": "Amazon, AppLovin Bid To Buy TikTok Ahead of Deadline, Reports Say",
+                "url": "https://finance.yahoo.com/news/amazon-applovin-bid-buy-tiktok-200345671.html"
+            },
+            {
+                "headline": "President Trump reportedly has a TikTok deal proposal that would prevent the social media platform from being banned in the US. Yahoo Finance Tech Editor Dan Howley sits down with Josh Lipton and Investopedia editor in chief Caleb Silver to discuss the latest TikTok news. To watch more expert insights and analysis on the latest market action, check out more Market Domination here.",
+                "publication_date": "2025-04-02T21:19:01.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5233",
+                "source": "Yahoo Finance Video",
+                "ticker": "AMZN",
+                "title": "TikTok could be banned on Saturday. Here's what you need to know.",
+                "url": "https://finance.yahoo.com/video/tiktok-could-banned-saturday-heres-211901477.html"
+            }
+        ],
+        "avgScore": 0.3251107142857141
+    },
+    "4 1 2025": {
+        "importantArticles": [
+            {
+                "headline": "Amazon (NASDAQ: AMZN) is known for its online store, but its investments in cutting-edge technologies like cloud computing and artificial intelligence (AI) are future-proofing the business for tomorrow's economy.  While tariffs, inflation, and soft consumer spending could weigh on Amazon stock in the near term, there are three reasons it's a no-brainer buy for a long-term investor right now.  This still gives Amazon a lot of opportunity for long-term growth, but investors should think of Amazon as more of a tech-driven, services business.",
+                "publication_date": "2025-04-01T12:17:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9638",
+                "source": "Motley Fool",
+                "ticker": "AMZN",
+                "title": "3 Reasons to Buy Amazon Stock Like There's No Tomorrow",
+                "url": "https://finance.yahoo.com/news/3-reasons-buy-amazon-stock-121700876.html"
+            },
+            {
+                "headline": "We recently published a list of 10 Best US Stocks To Buy For Foreign Investors. In this article, we are going to take a look at where Amazon.com, Inc. (NASDAQ:AMZN) stands against other best American stocks to buy. In the coming week, the resilience of the US stock market will be challenged as President Trump\u2019s [\u2026]",
+                "publication_date": "2025-04-01T22:09:03.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8402",
+                "source": "Insider Monkey",
+                "ticker": "AMZN",
+                "title": "Amazon.com (AMZN): Among The Best US Stocks To Buy For Foreign Investors",
+                "url": "https://finance.yahoo.com/news/amazon-com-amzn-among-best-220903805.html"
+            },
+            {
+                "headline": "Dynatrace inks a multi-year deal with Amazon to unlock faster cloud, smarter AI, and tighter security for enterprises.",
+                "publication_date": "2025-04-01T16:55:20.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7269",
+                "source": "GuruFocus.com",
+                "ticker": "AMZN",
+                "title": "AWS Just Supercharged This AI Stock--And Wall Street Should Pay Attention",
+                "url": "https://finance.yahoo.com/news/aws-just-supercharged-ai-stock-165520612.html"
+            },
+            {
+                "headline": "(Bloomberg) -- In a quarter marred by tariff uncertainty, US government spending cuts and the threat of recession, it is fears about a bubble brewing in artificial intelligence that have dealt the latest blow to the Nasdaq 100.Most Read from BloombergWhat Frank Lloyd Wright Learned From the DesertGold-Rush Fever Returns to Historic New Zealand Mining TownBank Regulators Fight for Desks as OCC Returns to New York TowerLondon Clears Final Hurdle for More High-Speed Trains to EuropeLocal Government",
+                "publication_date": "2025-04-01T09:36:18.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.8957",
+                "source": "Bloomberg",
+                "ticker": "AMZN",
+                "title": "Nasdaq 100\u2019s Worst Quarter in Years Sealed by AI Bubble Fears",
+                "url": "https://finance.yahoo.com/news/nasdaq-100-worst-quarter-years-093618789.html"
+            },
+            {
+                "headline": "Today's Research Daily features new research reports on 16 major stocks, including Amazon.com, Inc. (AMZN), Oracle Corp. (ORCL) and Merck & Co., Inc. (MRK).",
+                "publication_date": "2025-04-01T20:59:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "AMZN",
+                "title": "Top Analyst Reports for Amazon, Oracle & Merck",
+                "url": "https://finance.yahoo.com/news/top-analyst-reports-amazon-oracle-205900596.html"
+            },
+            {
+                "headline": "The sell-off in Microsoft looks overdone, one Wall Street analyst contends.",
+                "publication_date": "2025-04-01T13:00:39.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Yahoo Finance",
+                "ticker": "AMZN",
+                "title": "Why Microsoft stock is getting a top-pick stamp from this analyst",
+                "url": "https://finance.yahoo.com/news/why-microsoft-stock-is-getting-a-top-pick-stamp-from-this-analyst-130039120.html"
+            }
+        ],
+        "avgScore": 0.336542105263158
+    },
+    "3 31 2025": {
+        "importantArticles": [
+            {
+                "headline": "There aren't many technology companies that can claim they've been a leader in artificial intelligence (AI), but Microsoft (NASDAQ: MSFT) can do so easily.  Microsoft has been gaining on Amazon for years and now has 21% of the market, compared to Amazon's 30%.The cloud was important before artificial intelligence came along, but AI has vastly expanded its value.",
+                "publication_date": "2025-03-31T13:15:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9658",
+                "source": "Motley Fool",
+                "ticker": "AMZN",
+                "title": "This Artificial Intelligence (AI) Stock Is a \"Magnificent Seven\" Leader. But Is It a Buy?",
+                "url": "https://finance.yahoo.com/news/artificial-intelligence-ai-stock-magnificent-131500347.html"
+            },
+            {
+                "headline": "By Karen Roman Yanolja Co., Ltd. said FY2024 total transaction value increased 186% to 27 trillion Won (USD 18.3 billion) compared to the year prior. Operating revenue rose 22% to reach 924.5 billion Won (USD 625.6 million), with enterprise solutions revenue growing 62% to 292.6 billion Won (USD 198 million), it stated. Adjusted EBITDA was [\u2026]",
+                "publication_date": "2025-03-31T15:09:36.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9524",
+                "source": "Exec Edge",
+                "ticker": "AMZN",
+                "title": "Yanolja FY Total Transaction Value Soars 186% To Record",
+                "url": "https://finance.yahoo.com/news/yanolja-q4-total-transaction-value-150936798.html"
+            },
+            {
+                "headline": "The market will eventually start rallying again, Joe Tigay, the Principal of Equity Armor Investments recently told The Schwab Network. Tigay suggested two bullish option trades involving Amazon (AMZN) and Alphabet (GOOG,GOOGL). Tigay Is a Big Fan of AMZN \u201cI love Amazon for the short term and the long term,\u201d Tigay enthusiastically said. AMZN is [\u2026]",
+                "publication_date": "2025-03-31T14:45:50.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.91",
+                "source": "Insider Monkey",
+                "ticker": "AMZN",
+                "title": "Analyst Who\u2019s Looking for Market Rally Suggests Bullish AMZN, GOOG Option Strategies",
+                "url": "https://finance.yahoo.com/news/analyst-looking-market-rally-suggests-144550145.html"
+            },
+            {
+                "headline": "We recently published a list of 10 AI Stocks Dominating the News This Week. In this article, we are going to take a look at where Amazon.com, Inc. (NASDAQ:AMZN) stands against other AI stocks dominating the news this week. Elon Musk and OpenAI have jointly proposed to fast-track their trial over OpenAI\u2019s transition to a [\u2026]",
+                "publication_date": "2025-03-31T13:51:40.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5267",
+                "source": "Insider Monkey",
+                "ticker": "AMZN",
+                "title": "Amazon (AMZN) Taps into Generative AI for Retail Media and Advertising Growth",
+                "url": "https://finance.yahoo.com/news/amazon-amzn-taps-generative-ai-135140574.html"
+            },
+            {
+                "headline": "Shares of cloud computing and online retail behemoth Amazon (NASDAQ:AMZN) fell 3.9% in the morning session after anxiety and uncertainty rattled markets as the major stock indices pulled back in the morning session amid concerns about \"reciprocal tariffs\" to be announced later in the week. The planned tariffs, scheduled for April 2, 2025 (dubbed Liberation Day), were targeted at all countries where the United States had a trade deficit.",
+                "publication_date": "2025-03-31T17:29:23.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "-0.0258",
+                "source": "StockStory",
+                "ticker": "AMZN",
+                "title": "Why Amazon (AMZN) Shares Are Sliding Today",
+                "url": "https://finance.yahoo.com/news/why-amazon-amzn-shares-sliding-172923674.html"
+            },
+            {
+                "headline": "Nova Act is fast, cheap, and already powering the next-gen Alexa. Amazon's AGI ambitions just got real.",
+                "publication_date": "2025-03-31T19:24:08.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "GuruFocus.com",
+                "ticker": "AMZN",
+                "title": "Amazon's Secret Weapon? This AI Agent Just Crushed OpenAI in Key Benchmarks",
+                "url": "https://finance.yahoo.com/news/amazons-secret-weapon-ai-agent-192408484.html"
+            }
+        ],
+        "avgScore": 0.3808833333333332
+    },
+    "coef": 0.40115576449340673
 }

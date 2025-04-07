@@ -1,67 +1,308 @@
 {
-    "importantArticles": [
-        {
-            "headline": "Kinder Morgan (KMI) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
-            "publication_date": "2025-04-01T13:00:10.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.8176",
-            "source": "Zacks",
-            "ticker": "KMI",
-            "title": "Kinder Morgan, Inc. (KMI) Is a Trending Stock: Facts to Know Before Betting on It",
-            "url": "https://finance.yahoo.com/news/kinder-morgan-inc-kmi-trending-130010595.html"
-        },
-        {
-            "headline": "Goldman Sachs analyst John Mackay reiterated a Buy rating on Thursday on the shares of Kinder Morgan Inc (NYSE:KMI) with a price forecast of $31.00. The analyst anticipates first-quarter EBITDA of $2.18 billion, slightly above consensus estimates of $2.14 billion and company guidance of $2.17 billion. Analysts project EBDA of $1.54 billion in the first-quarter, up from $1.43 billion in fourth-quarter FY24, driven by contributions from the Outrigger acquisition, higher natural gas prices, and sea",
-            "publication_date": "2025-03-28T17:14:05.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.7845",
-            "source": "Benzinga",
-            "ticker": "KMI",
-            "title": "Goldman Sachs Forecasts High Gas Prices And LNG Demand Drive Kinder Morgan's Revenue",
-            "url": "https://finance.yahoo.com/news/goldman-sachs-forecasts-high-gas-171405816.html"
-        },
-        {
-            "headline": "XOM expects higher oil and natural gas, and stronger oil refining margins to boost first-quarter earnings by $900 million.",
-            "publication_date": "2025-04-04T16:22:00.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.7783",
-            "source": "Zacks",
-            "ticker": "KMI",
-            "title": "ExxonMobil Expects Earnings Boost in Q1 From Higher Commodity Prices",
-            "url": "https://finance.yahoo.com/news/exxonmobil-expects-earnings-boost-q1-162200493.html"
-        },
-        {
-            "headline": "SHEL mentions that the new company has entered into crude supply deals and product offtake agreements, which will be realized following the deal's closure.",
-            "publication_date": "2025-04-02T17:40:00.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.3818",
-            "source": "Zacks",
-            "ticker": "KMI",
-            "title": "Shell Wraps Up Sale of Refining and Chemicals Facility in Singapore",
-            "url": "https://finance.yahoo.com/news/shell-wraps-sale-refining-chemicals-174000377.html"
-        },
-        {
-            "headline": "Valaris' jack-up rig is scheduled to undertake a drilling operation at the Montara field.",
-            "publication_date": "2025-04-04T14:55:00.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.128",
-            "source": "Zacks",
-            "ticker": "KMI",
-            "title": "VAL's Jack-Up Rig to Commence New Drilling Program Offshore Australia",
-            "url": "https://finance.yahoo.com/news/vals-jack-rig-commence-drilling-145500001.html"
-        },
-        {
-            "headline": "BP's Trinidad and Tobago unit has begun delivering gas from the Cypre project, a key step in its plan to bring 10 major upstream projects online by 2027.",
-            "publication_date": "2025-04-04T17:43:00.000Z",
-            "sentiment": "Neutral",
-            "sentimentScore": "0.0",
-            "source": "Zacks",
-            "ticker": "KMI",
-            "title": "BP Kicks Off Cypre Gas Production in the Caribbean, Off Trinidad",
-            "url": "https://finance.yahoo.com/news/bp-kicks-off-cypre-gas-174300723.html"
-        }
-    ],
-    "avgScore": 0.41363500000000003,
-    "todayPctChange": -0.06092122529719602,
-    "vScore": -2.5199151025805677
+    "4 4 2025": {
+        "importantArticles": [
+            {
+                "headline": "XOM expects higher oil and natural gas, and stronger oil refining margins to boost first-quarter earnings by $900 million.",
+                "publication_date": "2025-04-04T16:22:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7783",
+                "source": "Zacks",
+                "ticker": "KMI",
+                "title": "ExxonMobil Expects Earnings Boost in Q1 From Higher Commodity Prices",
+                "url": "https://finance.yahoo.com/news/exxonmobil-expects-earnings-boost-q1-162200493.html"
+            },
+            {
+                "headline": "BP's Trinidad and Tobago unit has begun delivering gas from the Cypre project, a key step in its plan to bring 10 major upstream projects online by 2027.",
+                "publication_date": "2025-04-04T17:43:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "KMI",
+                "title": "BP Kicks Off Cypre Gas Production in the Caribbean, Off Trinidad",
+                "url": "https://finance.yahoo.com/news/bp-kicks-off-cypre-gas-174300723.html"
+            },
+            {
+                "headline": "Valaris' jack-up rig is scheduled to undertake a drilling operation at the Montara field.",
+                "publication_date": "2025-04-04T14:55:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.128",
+                "source": "Zacks",
+                "ticker": "KMI",
+                "title": "VAL's Jack-Up Rig to Commence New Drilling Program Offshore Australia",
+                "url": "https://finance.yahoo.com/news/vals-jack-rig-commence-drilling-145500001.html"
+            },
+            {
+                "headline": "Valaris' jack-up rig is scheduled to undertake a drilling operation at the Montara field.",
+                "publication_date": "2025-04-04T14:55:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.128",
+                "source": "Zacks",
+                "ticker": "KMI",
+                "title": "VAL's Jack-Up Rig to Commence New Drilling Program Offshore Australia",
+                "url": "https://finance.yahoo.com/news/vals-jack-rig-commence-drilling-145500001.html"
+            },
+            {
+                "headline": "BP's Trinidad and Tobago unit has begun delivering gas from the Cypre project, a key step in its plan to bring 10 major upstream projects online by 2027.",
+                "publication_date": "2025-04-04T17:43:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "KMI",
+                "title": "BP Kicks Off Cypre Gas Production in the Caribbean, Off Trinidad",
+                "url": "https://finance.yahoo.com/news/bp-kicks-off-cypre-gas-174300723.html"
+            },
+            {
+                "headline": "XOM expects higher oil and natural gas, and stronger oil refining margins to boost first-quarter earnings by $900 million.",
+                "publication_date": "2025-04-04T16:22:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7783",
+                "source": "Zacks",
+                "ticker": "KMI",
+                "title": "ExxonMobil Expects Earnings Boost in Q1 From Higher Commodity Prices",
+                "url": "https://finance.yahoo.com/news/exxonmobil-expects-earnings-boost-q1-162200493.html"
+            }
+        ],
+        "avgScore": 0.21676666666666666
+    },
+    "4 3 2025": {
+        "importantArticles": [
+            {
+                "headline": "RES strengthens its Permian Basin footprint with the $245M acquisition of Pintail Completions, adding a leading wireline service provider to its oilfield services portfolio.",
+                "publication_date": "2025-04-03T10:38:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4588",
+                "source": "Zacks",
+                "ticker": "KMI",
+                "title": "RPC Expands Permian Reach With $245M Pintail Acquisition",
+                "url": "https://finance.yahoo.com/news/rpc-expands-permian-reach-245m-103800554.html"
+            },
+            {
+                "headline": "COP is evaluating the sale of Oklahoma assets inherited from Marathon Oil, aiming to raise $2 billion from non-core divestitures to sharpen its focus on key U.S. basins.",
+                "publication_date": "2025-04-03T10:37:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.1779",
+                "source": "Zacks",
+                "ticker": "KMI",
+                "title": "ConocoPhillips Eyes $1B Sale of Oklahoma Oil & Gas Assets",
+                "url": "https://finance.yahoo.com/news/conocophillips-eyes-1b-sale-oklahoma-103700594.html"
+            },
+            {
+                "headline": "Did you know there are some financial metrics that can provide clues of a potential multi-bagger? Firstly, we'll want...",
+                "publication_date": "2025-04-03T11:00:21.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Simply Wall St.",
+                "ticker": "KMI",
+                "title": "Here's What To Make Of Kinder Morgan's (NYSE:KMI) Decelerating Rates Of Return",
+                "url": "https://finance.yahoo.com/news/heres-kinder-morgans-nyse-kmi-110021795.html"
+            },
+            {
+                "headline": "Did you know there are some financial metrics that can provide clues of a potential multi-bagger? Firstly, we'll want...",
+                "publication_date": "2025-04-03T11:00:21.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Simply Wall St.",
+                "ticker": "KMI",
+                "title": "Here's What To Make Of Kinder Morgan's (NYSE:KMI) Decelerating Rates Of Return",
+                "url": "https://finance.yahoo.com/news/heres-kinder-morgans-nyse-kmi-110021795.html"
+            },
+            {
+                "headline": "COP is evaluating the sale of Oklahoma assets inherited from Marathon Oil, aiming to raise $2 billion from non-core divestitures to sharpen its focus on key U.S. basins.",
+                "publication_date": "2025-04-03T10:37:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.1779",
+                "source": "Zacks",
+                "ticker": "KMI",
+                "title": "ConocoPhillips Eyes $1B Sale of Oklahoma Oil & Gas Assets",
+                "url": "https://finance.yahoo.com/news/conocophillips-eyes-1b-sale-oklahoma-103700594.html"
+            },
+            {
+                "headline": "RES strengthens its Permian Basin footprint with the $245M acquisition of Pintail Completions, adding a leading wireline service provider to its oilfield services portfolio.",
+                "publication_date": "2025-04-03T10:38:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4588",
+                "source": "Zacks",
+                "ticker": "KMI",
+                "title": "RPC Expands Permian Reach With $245M Pintail Acquisition",
+                "url": "https://finance.yahoo.com/news/rpc-expands-permian-reach-245m-103800554.html"
+            }
+        ],
+        "avgScore": 0.21223333333333336
+    },
+    "4 2 2025": {
+        "importantArticles": [
+            {
+                "headline": "POFCY's Asset Solutions division expands in core markets and targeted locations such as the U.K., Europe, the Middle East, Africa, Asia and the United States.",
+                "publication_date": "2025-04-02T16:56:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7506",
+                "source": "Zacks",
+                "ticker": "KMI",
+                "title": "Petrofac Secures New Contracts, Reports $500 Million in Awards",
+                "url": "https://finance.yahoo.com/news/petrofac-secures-contracts-reports-500-165600740.html"
+            },
+            {
+                "headline": "BP expands its natural gas portfolio, joining SOCAR and NewMed in exploring Israel's offshore reserves after winning six key licenses.",
+                "publication_date": "2025-04-02T11:47:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.743",
+                "source": "Zacks",
+                "ticker": "KMI",
+                "title": "BP Secures Israeli Offshore Gas Licenses With SOCAR, NewMed",
+                "url": "https://finance.yahoo.com/news/bp-secures-israeli-offshore-gas-114700632.html"
+            },
+            {
+                "headline": "SHEL mentions that the new company has entered into crude supply deals and product offtake agreements, which will be realized following the deal's closure.",
+                "publication_date": "2025-04-02T17:40:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.3818",
+                "source": "Zacks",
+                "ticker": "KMI",
+                "title": "Shell Wraps Up Sale of Refining and Chemicals Facility in Singapore",
+                "url": "https://finance.yahoo.com/news/shell-wraps-sale-refining-chemicals-174000377.html"
+            },
+            {
+                "headline": "SHEL mentions that the new company has entered into crude supply deals and product offtake agreements, which will be realized following the deal's closure.",
+                "publication_date": "2025-04-02T17:40:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.3818",
+                "source": "Zacks",
+                "ticker": "KMI",
+                "title": "Shell Wraps Up Sale of Refining and Chemicals Facility in Singapore",
+                "url": "https://finance.yahoo.com/news/shell-wraps-sale-refining-chemicals-174000377.html"
+            },
+            {
+                "headline": "BP expands its natural gas portfolio, joining SOCAR and NewMed in exploring Israel's offshore reserves after winning six key licenses.",
+                "publication_date": "2025-04-02T11:47:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.743",
+                "source": "Zacks",
+                "ticker": "KMI",
+                "title": "BP Secures Israeli Offshore Gas Licenses With SOCAR, NewMed",
+                "url": "https://finance.yahoo.com/news/bp-secures-israeli-offshore-gas-114700632.html"
+            },
+            {
+                "headline": "POFCY's Asset Solutions division expands in core markets and targeted locations such as the U.K., Europe, the Middle East, Africa, Asia and the United States.",
+                "publication_date": "2025-04-02T16:56:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7506",
+                "source": "Zacks",
+                "ticker": "KMI",
+                "title": "Petrofac Secures New Contracts, Reports $500 Million in Awards",
+                "url": "https://finance.yahoo.com/news/petrofac-secures-contracts-reports-500-165600740.html"
+            }
+        ],
+        "avgScore": 0.37060000000000004
+    },
+    "4 1 2025": {
+        "importantArticles": [
+            {
+                "headline": "Kinder Morgan (KMI) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
+                "publication_date": "2025-04-01T13:00:10.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8176",
+                "source": "Zacks",
+                "ticker": "KMI",
+                "title": "Kinder Morgan, Inc. (KMI) Is a Trending Stock: Facts to Know Before Betting on It",
+                "url": "https://finance.yahoo.com/news/kinder-morgan-inc-kmi-trending-130010595.html"
+            },
+            {
+                "headline": "Many companies have de-emphasized paying dividends over the years.  Here are four top dividend stocks yielding around 4% these days that you can confidently buy for dividend income this April.  Agree Realty (NYSE: ADC) has a 4% dividend yield.",
+                "publication_date": "2025-04-01T08:46:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7506",
+                "source": "Motley Fool",
+                "ticker": "KMI",
+                "title": "4 Top Dividend Stocks Yielding Around 4% to Buy Without Hesitation in April",
+                "url": "https://finance.yahoo.com/news/4-top-dividend-stocks-yielding-084600541.html"
+            },
+            {
+                "headline": "Baidu and Canadian Solar are part of the Zacks Bull and Bear of the Day article.",
+                "publication_date": "2025-04-01T14:01:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "KMI",
+                "title": "Baidu and Canadian Solar have been highlighted as Zacks Bull and Bear of the Day",
+                "url": "https://finance.yahoo.com/news/baidu-canadian-solar-highlighted-zacks-140100083.html"
+            },
+            {
+                "headline": "Baidu and Canadian Solar are part of the Zacks Bull and Bear of the Day article.",
+                "publication_date": "2025-04-01T14:01:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "KMI",
+                "title": "Baidu and Canadian Solar have been highlighted as Zacks Bull and Bear of the Day",
+                "url": "https://finance.yahoo.com/news/baidu-canadian-solar-highlighted-zacks-140100083.html"
+            },
+            {
+                "headline": "Many companies have de-emphasized paying dividends over the years.  Here are four top dividend stocks yielding around 4% these days that you can confidently buy for dividend income this April.  Agree Realty (NYSE: ADC) has a 4% dividend yield.",
+                "publication_date": "2025-04-01T08:46:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7506",
+                "source": "Motley Fool",
+                "ticker": "KMI",
+                "title": "4 Top Dividend Stocks Yielding Around 4% to Buy Without Hesitation in April",
+                "url": "https://finance.yahoo.com/news/4-top-dividend-stocks-yielding-084600541.html"
+            },
+            {
+                "headline": "Kinder Morgan (KMI) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
+                "publication_date": "2025-04-01T13:00:10.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8176",
+                "source": "Zacks",
+                "ticker": "KMI",
+                "title": "Kinder Morgan, Inc. (KMI) Is a Trending Stock: Facts to Know Before Betting on It",
+                "url": "https://finance.yahoo.com/news/kinder-morgan-inc-kmi-trending-130010595.html"
+            }
+        ],
+        "avgScore": 0.5227333333333334
+    },
+    "3 31 2025": {
+        "importantArticles": [
+            {
+                "headline": "Due to the very nature of midstream business, Kinder Morgan, The Williams Companies and MPLX are less vulnerable to oil and gas price volatility.",
+                "publication_date": "2025-03-31T13:10:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.3804",
+                "source": "Zacks",
+                "ticker": "KMI",
+                "title": "3 Midstream Stocks Poised to Withstand Energy Volatility",
+                "url": "https://finance.yahoo.com/news/3-midstream-stocks-poised-withstand-131000900.html"
+            },
+            {
+                "headline": "NGPL PipeCo LLC, a Delaware limited liability company (the \"Company\"), has announced that it has commenced solicitations of consents (each, a \"Consent Solicitation\") from holders (\"Holders\") of the Company's 4.875% Senior Notes due 2027 (the \"2027 Notes\") and 3.250% Senior Notes due 2031 (the \"2031 Notes\" and, together with the 2027 Notes, the \"Notes\" and each a \"Series of Notes\") to certain amendments (the \"Proposed Amendments\") to the Indenture, dated as of August 1, 2017, relating to the 2027",
+                "publication_date": "2025-03-31T14:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.3182",
+                "source": "PR Newswire",
+                "ticker": "KMI",
+                "title": "NGPL PipeCo LLC Announces That It Has Commenced Consent Solicitations with respect to its 4.875% Senior Notes due 2027 and 3.250% Senior Notes due 2031",
+                "url": "https://finance.yahoo.com/news/ngpl-pipeco-llc-announces-commenced-140000426.html"
+            },
+            {
+                "headline": "NGPL PipeCo LLC, a Delaware limited liability company (the \"Company\"), has announced that it has commenced solicitations of consents (each, a \"Consent Solicitation\") from holders (\"Holders\") of the Company's 4.875% Senior Notes due 2027 (the \"2027 Notes\") and 3.250% Senior Notes due 2031 (the \"2031 Notes\" and, together with the 2027 Notes, the \"Notes\" and each a \"Series of Notes\") to certain amendments (the \"Proposed Amendments\") to the Indenture, dated as of August 1, 2017, relating to the 2027",
+                "publication_date": "2025-03-31T14:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.3182",
+                "source": "PR Newswire",
+                "ticker": "KMI",
+                "title": "NGPL PipeCo LLC Announces That It Has Commenced Consent Solicitations with respect to its 4.875% Senior Notes due 2027 and 3.250% Senior Notes due 2031",
+                "url": "https://finance.yahoo.com/news/ngpl-pipeco-llc-announces-commenced-140000426.html"
+            },
+            {
+                "headline": "Due to the very nature of midstream business, Kinder Morgan, The Williams Companies and MPLX are less vulnerable to oil and gas price volatility.",
+                "publication_date": "2025-03-31T13:10:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.3804",
+                "source": "Zacks",
+                "ticker": "KMI",
+                "title": "3 Midstream Stocks Poised to Withstand Energy Volatility",
+                "url": "https://finance.yahoo.com/news/3-midstream-stocks-poised-withstand-131000900.html"
+            }
+        ],
+        "avgScore": 0.3493
+    },
+    "coef": 0.7752038970978024
 }

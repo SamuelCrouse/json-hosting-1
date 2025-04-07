@@ -1,67 +1,328 @@
 {
-    "importantArticles": [
-        {
-            "headline": "Warren Buffett has built a fortune for Berkshire Hathaway shareholders.  Buffett's success at buying stocks of great businesses and holding them for the long term has inspired many investors to follow his style.  Berkshire held a stock portfolio worth $271 billion at the end of 2024.",
-            "publication_date": "2025-04-05T22:03:00.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.9169",
-            "source": "Motley Fool",
-            "ticker": "AAPL",
-            "title": "3 Top Buffett Stocks to Buy and Hold for the Next 20 Years",
-            "url": "https://finance.yahoo.com/news/3-top-buffett-stocks-buy-220300105.html"
-        },
-        {
-            "headline": "We recently published a list of Starter Stock Portfolio 12 Safe Stocks to Buy. In this article, we are going to take a look at where Apple Inc. (NASDAQ:AAPL) stands against other best beginner stocks. The US stock market has experienced a turbulent first quarter of 2025, marked by increased volatility and negative returns across [\u2026]",
-            "publication_date": "2025-04-06T20:48:19.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.6705",
-            "source": "Insider Monkey",
-            "ticker": "AAPL",
-            "title": "Is Apple Inc. (AAPL) the Best Beginner Stock?",
-            "url": "https://finance.yahoo.com/news/apple-inc-aapl-best-beginner-204819576.html"
-        },
-        {
-            "headline": "Most people don't think of these companies as AI businesses, but when you dig deeper, few companies stand to benefit as much from the AI revolution as these two Buffett stocks.  Few companies are as directly exposed to rising demand for AI than Amazon (NASDAQ: AMZN).  To understand why this is, zoom out and look at how the AI industry functions.",
-            "publication_date": "2025-04-06T10:25:00.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.5927",
-            "source": "Motley Fool",
-            "ticker": "AAPL",
-            "title": "2 No-Brainer Artificial Intelligence (AI) Stocks Owned by Warren Buffett Right Now",
-            "url": "https://finance.yahoo.com/news/2-no-brainer-artificial-intelligence-102500685.html"
-        },
-        {
-            "headline": "Apple (NasdaqGS:AAPL) experienced a 14% price decline over the past week, coinciding with broader market downturns amid escalating trade tensions. President Trump's recent tariff announcements triggered a severe market reaction, with the Dow Jones and S&P 500 suffering substantial losses, while the Nasdaq entered bear market territory. Apple's significant presence in China likely exposed it to heightened vulnerabilities due to imposed tariffs. Despite developments in digital health...",
-            "publication_date": "2025-04-05T17:28:14.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.8658",
-            "source": "Simply Wall St.",
-            "ticker": "AAPL",
-            "title": "Apple (NasdaqGS:AAPL) Faces 14% Price Drop in a Week as China Tariffs Impact Stock",
-            "url": "https://finance.yahoo.com/news/apple-nasdaqgs-aapl-faces-14-172814576.html"
-        },
-        {
-            "headline": "Having trouble picking a stock post Liberation Day carnage? You aren't alone.",
-            "publication_date": "2025-04-06T12:30:33.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.2406",
-            "source": "Yahoo Finance",
-            "ticker": "AAPL",
-            "title": "Why Trump tariffs have made it impossible to pick stocks",
-            "url": "https://finance.yahoo.com/news/why-trump-tariffs-have-made-it-impossible-to-pick-stocks-123033071.html"
-        },
-        {
-            "headline": "The Trump administration's tariffs will significantly hurt Silicon Valley tech companies like Apple, which has manufacturing operations in China, Vietnam and India.",
-            "publication_date": "2025-04-05T10:00:24.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.2263",
-            "source": "LA Times",
-            "ticker": "AAPL",
-            "title": "'Nowhere to hide.'  How Apple and others in Silicon Valley are bracing for Trump tariffs",
-            "url": "https://finance.yahoo.com/news/nowhere-hide-apple-others-silicon-100024554.html"
-        }
-    ],
-    "avgScore": 0.18616470588235293,
-    "todayPctChange": -0.03951505502512841,
-    "vScore": -0.7356308596678022
+    "4 4 2025": {
+        "importantArticles": [
+            {
+                "headline": "Believe it or not, there are other things going on in the world of business and tech than tariffs and sell-offs in the \"Magnificent 7.\" Take blockchain, crypto and Web3 \u2013 three areas that continue to see their fair share of startups seeking to make their names. Yahoo Finance Executive Editor Brian Sozzi sits down with Mysten Labs co-founder and CEO Evan Cheng. Cheng has spent good chunks of time in tech leadership roles at Apple (AAPL) and Meta (META). Since 2021, he has been building the Web3 platform Mylen Labs. The timing looks to have been spot on, as the crypto space has notched several wins under the Trump administration. With President Trump leaning into making the US the bitcoin (BTC-USD) capital of the world, what does it mean for Web3 early entrants such as Mylen Labs? Cheng weighs in,and shares how leadership lessons learned at Apple and Meta are paying dividends at his startup. For full episodes of Opening Bid, listen on your favorite podcast platform or watch on our website. Yahoo Finance's Opening Bid is produced by Langston Sessoms",
+                "publication_date": "2025-04-04T10:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9595",
+                "source": "Yahoo Finance Video",
+                "ticker": "AAPL",
+                "title": "OpenAI, Apple, & Meta race to dominate the future of this tech",
+                "url": "https://finance.yahoo.com/video/openai-apple-meta-race-dominate-100000403.html"
+            },
+            {
+                "headline": "Flexera has introduced Cloud License Management, a solution designed to enhance the management of cloud software expenditures, which have become a significant concern for organizations with cloud spend challenges surpassing even security issues. This new tool allows organizations to gain a comprehensive understanding of their cloud software investments across platforms like Amazon Web Services and Microsoft Azure. By providing a unified view of cloud software spend, along with actionable...",
+                "publication_date": "2025-04-04T12:07:44.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9432",
+                "source": "Simply Wall St.",
+                "ticker": "AAPL",
+                "title": "Latest News In Cloud AI - Optimizing Cloud Costs Flexera's Latest Management Tool",
+                "url": "https://finance.yahoo.com/news/latest-news-cloud-ai-optimizing-120744376.html"
+            },
+            {
+                "headline": "The CEO did not name any specific customers but said the company is in discussions with Google, Apple, Facebook ,  Amazon  and Microsoft .  In the field of advanced artificial intelligence chip manufacturing, TSMC  holds the lion's share of the market as it supplies wafers to several leading tech firms and chipmakers in the world.",
+                "publication_date": "2025-04-04T15:55:04.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8885",
+                "source": "Reuters",
+                "ticker": "AAPL",
+                "title": "Japan's Rapidus in talks with Apple, Google to mass-produce chips, Nikkei reports",
+                "url": "https://finance.yahoo.com/news/japans-rapidus-talks-apple-google-155504765.html"
+            },
+            {
+                "headline": "(Bloomberg) -- There\u2019s virtually nowhere to hide for many US technology companies under President Donald Trump\u2019s new tariff regime, the harshest in a century.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Would \u2018Transportation Abundance\u2019 Look Like?After Thursday\u2019s slump wiped $1.4",
+                "publication_date": "2025-04-04T13:34:17.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.7705",
+                "source": "Bloomberg",
+                "ticker": "AAPL",
+                "title": "\u2018Worst-Case Scenario\u2019 for Tech Wipes $1.4 Trillion from Nasdaq",
+                "url": "https://finance.yahoo.com/news/worst-case-scenario-tech-wipes-081406416.html"
+            },
+            {
+                "headline": "Nvidia and Tesla led megacaps lower on Friday as stocks continued to sell off amid a global trade war.",
+                "publication_date": "2025-04-04T20:28:05.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.7269",
+                "source": "Yahoo Finance",
+                "ticker": "AAPL",
+                "title": "Nvidia, Apple, Tesla stocks plunge, leading another 'Magnificent 7' sell-off as a trade war intensifies",
+                "url": "https://finance.yahoo.com/news/nvidia-apple-tesla-stocks-plunge-leading-another-magnificent-7-sell-off-as-a-trade-war-intensifies-202805499.html"
+            },
+            {
+                "headline": "(Bloomberg) -- The S&P 500 Index declined to the lowest level in 11 months, slashing $5.4 trillion in market value in just two sessions as Federal Reserve Chairman Jerome Powell said the Trump administration\u2019s tariffs \u201ccould have a persistent impact on inflation.\u201dMost Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersLocal Governments Vie for Fired Federal WorkersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesWhat Would \u2018Transportation Abundance\u2019",
+                "publication_date": "2025-04-04T20:26:32.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.7096",
+                "source": "Bloomberg",
+                "ticker": "AAPL",
+                "title": "US Stock Market Wipes Out Over $5 Trillion on Trump\u2019s Tariff War",
+                "url": "https://finance.yahoo.com/news/us-stock-market-wipes-over-202632831.html"
+            }
+        ],
+        "avgScore": -0.014988235294117646
+    },
+    "4 3 2025": {
+        "importantArticles": [
+            {
+                "headline": "Investing.com -- In February, Apple (NASDAQ:AAPL) CEO Tim Cook was at the White House announcing a plan to invest a massive $500 billion in the U.S. over the next four years. Trump lauded the deal and refers to it frequently to highlight his administration's economic success. However, the agreement hasn\u2019t saved the company from Trump\u2019s newly announced tariffs.",
+                "publication_date": "2025-04-03T17:04:05.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9022",
+                "source": "Investing.com",
+                "ticker": "AAPL",
+                "title": "Apple's Cook kissed the ring, but Trump's tariffs wipe out $311 billion in value",
+                "url": "https://finance.yahoo.com/news/apples-cook-kissed-trumps-ring-170405110.html"
+            },
+            {
+                "headline": "(Reuters) -Your favorite iPhone could soon become much pricier, thanks to tariffs.  U.S. President Donald Trump imposed a series of sweeping tariffs on countries around the world that could drastically alter the landscape of global trade, and consumer goods like iPhones could be among the hardest hit, analysts said on Thursday, with increases of 30% to 40% if the company were to pass on the cost to consumers.  Most iPhones are still made in China, which was hit with a 54% tariff.",
+                "publication_date": "2025-04-03T16:27:39.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7964",
+                "source": "Reuters",
+                "ticker": "AAPL",
+                "title": "A $2,300 Apple iPhone? Trump tariffs could make that happen",
+                "url": "https://finance.yahoo.com/news/trump-tariffs-apple-iphones-more-162739462.html"
+            },
+            {
+                "headline": "Apple (AAPL) is relatively well-positioned to withstand tariffs, as it has \u201cenormous pricing power,\u201d Angelo Zino, a Technology Equity Analyst and Senior VP at CFRA Research said yesterday on Schwab Network. AAPL Has Many Attractive Qualities, Zino Says Calling AAPL one of the \u201csafer\u201d names in the tech sector, Zino also praised the company\u2019s high [\u2026]",
+                "publication_date": "2025-04-03T12:55:01.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7269",
+                "source": "Insider Monkey",
+                "ticker": "AAPL",
+                "title": "Analyst Says Apple (AAPL) Is Relatively Well-Positioned for Tariffs",
+                "url": "https://finance.yahoo.com/news/analyst-says-apple-aapl-relatively-125501439.html"
+            },
+            {
+                "headline": "At his \"Liberation Day\" spectacle at the White House Wednesday afternoon, Trump revealed a baseline tariff rate of 10% on countries that will go into effect on April 5.Additional tariffs will be added for some countries that the administration considers to be the worst offenders. Some of those alleged worst offenders are important sourcing and business regions for many large US companies such as Apple (AAPL), Nike (NKE), and Walmart (WMT). China, for example, will see an estimated reciprocal tariff of 34%. Vietnam at 32%. Japan is at 24%. The news has hit stocks, with Dow Jones Industrial Average futures down about 1,200 points, or nearly 3% (YM=F). S&P 500 futures are down 3.5% (ES=F), and Nasdaq futures are off by 3.8% (NQ=F). Japan\u2019s Nikkei (^N225) and Hong Kong\u2019s Hang Seng Index (^HSI) have also registered significant losses. Here\u2019s the hot analysis investors need to know right now:First, retail stocks are getting battered. Walmart, Nike, and Under Armour (UAA, UA) are getting slammed as steep tariffs on China could hammer profits. Nike, for example, relies on China and Vietnam for 55% of its sourcing. Stifel analyst Jim Duffy estimates Nike could see $1.69 a share in earnings wiped out this year because of tariffs. Next up, Apple is going to have a rough day: Morgan Stanley estimates that the tariffs on iPhones and other devices from China will increase Apple\u2019s annual costs by a whopping $8.5 billion. That could hit Apple\u2019s profits by 52 cents next year. Brutal. And lastly, the technical takedown: Market technicians are locked in on the S&P 500\u2019s March 13 closing low of 5,527.50. At this moment, the S&P 500 (^GSPC) is poised to test that low. A break through below the March lows intraday coupled with a new closing low could really damage sentiment further pros warn. RBC strategist Lori Calvasina says the S&P 500 has a clear shot to 4,900 if that low is breached. For more expert insight and the latest market action, click here.",
+                "publication_date": "2025-04-03T12:22:17.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.9485",
+                "source": "Yahoo Finance Video",
+                "ticker": "AAPL",
+                "title": "Trump tariffs send stocks spiraling! 3 things investors need to know",
+                "url": "https://finance.yahoo.com/video/trump-tariffs-send-stocks-spiraling-122217686.html"
+            },
+            {
+                "headline": "(Bloomberg) -- The retail traders who have stormed the markets in recent years were among the only investors buying on Thursday as US stocks had their worst day since June 2020.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Would \u2018Transportation Abundance\u2019 Look Like?Small investor",
+                "publication_date": "2025-04-03T20:38:38.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.8126",
+                "source": "Bloomberg",
+                "ticker": "AAPL",
+                "title": "Retail Traders Step In to Buy as Others Flee in Tariff Rout",
+                "url": "https://finance.yahoo.com/news/retail-traders-step-buy-others-203838411.html"
+            },
+            {
+                "headline": "(Bloomberg) -- Apple Inc. is finding itself squarely in the crosshairs of President Donald Trump\u2019s new tariffs, even after a yearslong effort to insulate the iPhone maker from trade wars and supply chain disruptions.Most Read from BloombergMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesHousing Agency Aims to Relocate Its DC HeadquartersLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Would \u2018Transportat",
+                "publication_date": "2025-04-03T20:22:03.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.7845",
+                "source": "Bloomberg",
+                "ticker": "AAPL",
+                "title": "Apple Production Hubs Hit by Tariffs, Sending Stock Plunging",
+                "url": "https://finance.yahoo.com/news/apple-shares-slide-tariffs-threaten-210739852.html"
+            }
+        ],
+        "avgScore": -0.008258974358974448
+    },
+    "4 2 2025": {
+        "importantArticles": [
+            {
+                "headline": "Madison Mills, joined by Tematica Research chief investment officer Chris Versace, examines some of the top trending tickers on Yahoo Finance's platform. NewsMax (NMAX) stock pulled back from its post\u2013initial public offering (IPO) skyrocket. Trump Media & Technology Group (DJT) is in focus after Truth Social filed papers with the SEC that could allow US President Donald Trump to sell his stake worth $2.3 billion at Tuesday's close. Visa (V) reportedly offers Apple (AAPL) $100 million to switch its credit card to the Visa network, according to reports from the Wall Street Journal. To watch more expert insights and analysis on the latest market action, check out more Catalysts here.",
+                "publication_date": "2025-04-02T14:49:32.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8176",
+                "source": "Yahoo Finance Video",
+                "ticker": "AAPL",
+                "title": "NewsMax, Trump & DJT, Visa's offer to Apple: Trending Tickers",
+                "url": "https://finance.yahoo.com/video/newsmax-trump-djt-visas-offer-144932677.html"
+            },
+            {
+                "headline": "Half a century after its founding in Albuquerque, New Mexico on April 4, 1975, Microsoft (MSFT) consistently ranks as one of the world\u2019s most valuable companies. Currently sitting on a $2.7 trillion market cap, the software company, now based in Redmond, Washington, has turned into an artificial intelligence leader.",
+                "publication_date": "2025-04-02T09:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7574",
+                "source": "Quartz",
+                "ticker": "AAPL",
+                "title": "Microsoft is turning 50. Here are 4 of its peers that are also still around",
+                "url": "https://finance.yahoo.com/news/microsoft-turning-50-4-peers-090000669.html"
+            },
+            {
+                "headline": "Warren Buffett and his crew at Berkshire Hathaway (NYSE: BRK.A) (NYSE: BRK.B) have one of the best investment track records of all time.  Few investors have been able to match Buffett's success over Berkshire's long history.  This value-investing style may not be as popular as it once was, but it has worked out well for Berkshire Hathaway shareholders.",
+                "publication_date": "2025-04-02T11:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7126",
+                "source": "Motley Fool",
+                "ticker": "AAPL",
+                "title": "23% of Warren Buffett's Portfolio Is Invested in This 1 AI Stock",
+                "url": "https://finance.yahoo.com/news/23-warren-buffetts-portfolio-invested-110000177.html"
+            },
+            {
+                "headline": "Stocks sold off late Wednesday as President Trump's reciprocal tariffs proved to be harsher than many on Wall Street had expected.",
+                "publication_date": "2025-04-02T22:41:19.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.4939",
+                "source": "Yahoo Finance",
+                "ticker": "AAPL",
+                "title": "'Worse than expected': Wall Street reacts to Trump's 'Liberation Day' tariff surprise, stocks sink",
+                "url": "https://finance.yahoo.com/news/worse-than-expected-wall-street-reacts-to-trumps-liberation-day-tariff-surprise-stocks-sink-222345902.html"
+            },
+            {
+                "headline": "Epic Games CEO Tim Sweeney, whose company makes Fortnite and tools for other developers, including Unreal Engine, called out Apple and Google as \"gangster-style businesses\" engaged in illegal practices while speaking at a Y Combinator event on Wednesday. The executive also emphasized how the big tech companies' practices directly affected his own business by scaring away users from installing Epic's Games Store software and preventing Epic from attracting developers to its offerings. Notably, Ep",
+                "publication_date": "2025-04-02T20:11:57.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.34",
+                "source": "TechCrunch",
+                "ticker": "AAPL",
+                "title": "Epic Games CEO calls Apple and Google 'gangster-style' businesses in need of competition",
+                "url": "https://finance.yahoo.com/news/epic-games-ceo-calls-apple-201157197.html"
+            },
+            {
+                "headline": "Investing.com -- Losing market share to Apple (NASDAQ:AAPL) Pay remains the largest overhang for PayPal (NASDAQ:PYPL), but Mizuho analyst believes these concerns may be overstated.",
+                "publication_date": "2025-04-02T10:02:16.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.1027",
+                "source": "Investing.com",
+                "ticker": "AAPL",
+                "title": "Is Apple Pay really a problem for PayPal? Wall Street analyst weighs in",
+                "url": "https://finance.yahoo.com/news/apple-pay-really-problem-paypal-100216984.html"
+            }
+        ],
+        "avgScore": 0.16927777777777775
+    },
+    "4 1 2025": {
+        "importantArticles": [
+            {
+                "headline": "Baidu's advancements in AI, strategic partnerships like the one with Apple, and the impressive growth of its Apollo Go robotaxi service, highlight its strong growth potential.",
+                "publication_date": "2025-04-01T08:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9403",
+                "source": "Zacks",
+                "ticker": "AAPL",
+                "title": "Bull of the Day: Baidu (BIDU)",
+                "url": "https://finance.yahoo.com/news/bull-day-baidu-bidu-080000905.html"
+            },
+            {
+                "headline": "Recent developments in Cloud AI highlight the evolving role of Kubernetes in enhancing cloud, edge, and bare metal deployments, with a focus on security and operational efficiency. Sidero Labs has been recognized as a Fast Mover and Challenger in the 2025 GigaOm Radar Reports for its capabilities in managed Kubernetes and edge computing solutions. The company's Omni platform simplifies enterprise Kubernetes management through centralized control, security features, and support for...",
+                "publication_date": "2025-04-01T12:07:50.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9118",
+                "source": "Simply Wall St.",
+                "ticker": "AAPL",
+                "title": "This Week In Cloud AI - Enhancing Cloud Tech: The Rise Of Kubernetes Solutions",
+                "url": "https://finance.yahoo.com/news/week-cloud-ai-enhancing-cloud-120750558.html"
+            },
+            {
+                "headline": "In fact, each of the 10 largest stock holdings in Berkshire's portfolio pays a reliable dividend.  Keith Noonan (Apple): Paying a dividend is typically a good sign that a company is generating reliable profits, and Apple has frequently ranked as the world's most profitable business over the last decade.",
+                "publication_date": "2025-04-01T09:12:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8399",
+                "source": "Motley Fool",
+                "ticker": "AAPL",
+                "title": "37% of Warren Buffett's $290 Billion Berkshire Hathaway Portfolio Is Invested in These 2 S&P 500 Dividend Stocks",
+                "url": "https://finance.yahoo.com/news/37-warren-buffetts-290-billion-091200335.html"
+            },
+            {
+                "headline": "The major averages were mostly lower near noon, with the Dow up fractionally but the Nasdaq down nearly 250 points amid mounting concerns about President Donald Trump\u2019s upcoming announcement of promised new tariffs. Meanwhile, the S&P 500\u2019s early losses brought the index to its lowest level since September. Looking to commodities, gold prices are sharply higher, continuing their rally to over $3,150, while oil prices are also up over 2.5%. Get caught up quickly on the top news and calls moving s",
+                "publication_date": "2025-04-01T16:16:11.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.4767",
+                "source": "TipRanks",
+                "ticker": "AAPL",
+                "title": "Rocket acquires Mr. Cooper, Musk\u2019s xAI acquires X: Morning Buzz",
+                "url": "https://finance.yahoo.com/news/rocket-acquires-mr-cooper-musk-161611941.html"
+            },
+            {
+                "headline": "Apple (NASDAQ: AAPL) and Tesla (NASDAQ: TSLA) are two of the popular stocks among individual investors, but the hedge fund billionaires listed below sold one and bought the other in the fourth quarter.  Izzy Englander of Millennium Management cut his stake in Apple by 9%.  Dan Loeb of Third Point sold his entire stake in Apple.",
+                "publication_date": "2025-04-01T08:02:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.1901",
+                "source": "Motley Fool",
+                "ticker": "AAPL",
+                "title": "Apple Stock vs. Tesla Stock: Billionaires Buy One and Sell the Other",
+                "url": "https://finance.yahoo.com/news/apple-stock-vs-tesla-stock-080200528.html"
+            },
+            {
+                "headline": "Citi maintains Buy rating on Apple as AI features expand to new languages and products amid stock weakness",
+                "publication_date": "2025-04-01T17:34:08.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.128",
+                "source": "GuruFocus.com",
+                "ticker": "AAPL",
+                "title": "Citi Backs Apple as Siri Delays Hit Shares, AI Features Go Global",
+                "url": "https://finance.yahoo.com/news/citi-backs-apple-siri-delays-173408223.html"
+            }
+        ],
+        "avgScore": 0.32904705882352947
+    },
+    "3 31 2025": {
+        "importantArticles": [
+            {
+                "headline": "Apple Intelligence, the iPhone maker's suite of AI-powered tools and features, is gaining new features. Most notably, the company on Monday announced that Apple device owners will now be able to take advantage of Priority Notifications, which allows Apple's AI to highlight your most time-sensitive notifications in a new format. Other updates are coming to the Image Playground app and the Mac. Plus, Apple Intelligence is now available to iPhone and iPad users in the EU and on the Apple Vision Pro",
+                "publication_date": "2025-03-31T17:42:23.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9246",
+                "source": "TechCrunch",
+                "ticker": "AAPL",
+                "title": "Apple rolls out Priority Notifications as Apple Intelligence expands to EU",
+                "url": "https://finance.yahoo.com/news/apple-rolls-priority-notifications-apple-174223104.html"
+            },
+            {
+                "headline": "Apple announced on Monday that it's rolling out visionOS 2.4, bringing Apple Intelligence-powered AI features to the Apple Vision Pro. The update also introduces new spatial experiences and the Apple Vision Pro app for iPhone. With Apple Intelligence on the Apple Vision Pro, users will get access to writing tools that allow them to rewrite, proofread, and summarize text with the help of AI. Users will also get access to Image Playground and Genmoji in order to create unique AI-generated images a",
+                "publication_date": "2025-03-31T17:38:41.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9153",
+                "source": "TechCrunch",
+                "ticker": "AAPL",
+                "title": "Apple brings Apple Intelligence to the Vision Pro",
+                "url": "https://finance.yahoo.com/news/apple-brings-apple-intelligence-vision-173841127.html"
+            },
+            {
+                "headline": "We recently published a list of Billionaire Ken Fisher\u2019s Top 13 Growth Stock Picks. In this article, we are going to take a look at where Apple Inc. (NASDAQ:AAPL) stands against other billionaire Ken Fisher\u2019s top growth stock picks. \u201cWho am I to tell you anything, much less anything that counts? Or that there are [\u2026]",
+                "publication_date": "2025-03-31T15:29:20.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7783",
+                "source": "Insider Monkey",
+                "ticker": "AAPL",
+                "title": "Apple Inc. (AAPL): Among Billionaire Ken Fisher\u2019s Top Growth Stock Picks",
+                "url": "https://finance.yahoo.com/news/apple-inc-aapl-among-billionaire-152920035.html"
+            },
+            {
+                "headline": "France\u2019s antitrust watchdog fined Apple 150 million euros ($162 million) on Monday over a privacy feature protecting users from apps snooping on them because its introduction resulted in abuse of competition law.  The French Competition Authority said the aim of Apple\u2019s App Tracking Transparency (ATT) requiring iPhone and iPad apps to ask users for permission before tracking them was not in itself open to criticism.",
+                "publication_date": "2025-03-31T08:42:40.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.7783",
+                "source": "Associated Press Finance",
+                "ticker": "AAPL",
+                "title": "France's antitrust watchdog fines Apple for problems with App Tracking Transparency",
+                "url": "https://finance.yahoo.com/news/frances-antitrust-regulator-fines-apple-084240383.html"
+            },
+            {
+                "headline": "US stocks have plummeted as Wall Street doubled its predictions of a recession in America in the wake of Donald Trump\u2019s trade war.",
+                "publication_date": "2025-03-31T18:00:27.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.7717",
+                "source": "The Telegraph",
+                "ticker": "AAPL",
+                "title": "Wall Street doubles US recession risk as Trump tariffs loom",
+                "url": "https://finance.yahoo.com/news/wall-street-doubles-us-recession-180027440.html"
+            },
+            {
+                "headline": "PARIS (Reuters) -Apple was hit with a 150 million euro ($162.4 million) fine by French antitrust regulators on Monday for abusing its dominant position in mobile app advertising on its devices via a privacy control tool.  The fine - the first by any antitrust regulator over Apple's App Tracking Transparency tool - comes a year after the European Union hit the company with a 1.8 billion euro antitrust fine for thwarting rival music streaming services on its App Store.  The head of the French Competition Authority dismissed worries that the decision would prompt retaliation from U.S. President Donald Trump who has threatened to slap fines on EU countries fining U.S. companies.",
+                "publication_date": "2025-03-31T10:49:28.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.6369",
+                "source": "Reuters",
+                "ticker": "AAPL",
+                "title": "Apple hit with $162 million French antitrust fine over privacy tool",
+                "url": "https://finance.yahoo.com/news/apple-hit-162-million-french-104928369.html"
+            }
+        ],
+        "avgScore": 0.2143529411764706
+    },
+    "coef": 0.6798993571784954
 }

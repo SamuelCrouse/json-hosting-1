@@ -1,67 +1,268 @@
 {
-    "importantArticles": [
-        {
-            "headline": "It wasn't that long ago that Nio (NYSE: NIO) seemed poised to post a breakout fourth quarter.  It had a good third quarter when it improved vehicle margins amid a challenging environment, and it had launched yet another brand, Firefly, that was positioned to drive the top line even higher throughout 2025.  One of the largest reasons to buy into Nio's vision was that the previously mentioned new brands are set to drive deliveries higher and thus generate strong revenue growth.",
-            "publication_date": "2025-04-05T12:45:00.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.9501",
-            "source": "Motley Fool",
-            "ticker": "NIO",
-            "title": "What in the World Happened to Nio?",
-            "url": "https://finance.yahoo.com/news/world-happened-nio-124500218.html"
-        },
-        {
-            "headline": "NEO Battery Materials Ltd. has entered a collaboration agreement with Elementium Materials Inc. to enhance NEO's silicon battery platform using advanced electrolyte technology. This partnership aims to improve battery stability and electrochemical performance, particularly in ultra-fast charging and discharging, by leveraging Elementium's advanced electrolytes. The collaboration is expected to benefit high-demand markets such as power tools, humanoid robots, drones, and aerospace systems,...",
-            "publication_date": "2025-04-02T12:07:11.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.9022",
-            "source": "Simply Wall St.",
-            "ticker": "NIO",
-            "title": "Electric Vehicles Today - Battery Leap: NEO and Elementium's High-Performance Collaboration",
-            "url": "https://finance.yahoo.com/news/electric-vehicles-today-battery-leap-120711145.html"
-        },
-        {
-            "headline": "On Monday, Chinese electric vehicle company XPeng Inc (NYSE:XPEV) announced its vehicle delivery results for March and the first quarter of 2025. In March, XPeng delivered 33,205 Smart EVs, implying a 268% growth, surpassing 30,000 units for the fifth consecutive month. For the first quarter of 2025, XPeng delivered 94,008 Smart EVs, a 331% increase over last year. Also Read: Alibaba, BMW Team Up To Bring AI-Powered Smart Assistant In Next-Gen China Cars On March 13, 2025, at its Spring 2025 Lau",
-            "publication_date": "2025-04-01T11:21:32.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.9001",
-            "source": "Benzinga",
-            "ticker": "NIO",
-            "title": "China's XPeng Clocks Record Q1 EV Sales, Deliveries Surge 3.6X",
-            "url": "https://finance.yahoo.com/news/chinas-xpeng-clocks-record-q1-112132970.html"
-        },
-        {
-            "headline": "Nio (NYSE: NIO) is a fast-growing company looking to capitalize on China's growing electric vehicle (EV) market.  It has carved out a niche in the industry with its battery swap business.  Pricing wars have put pressure on margins, and the ongoing trade tensions in the U.S. and Europe weigh heavily on the business.",
-            "publication_date": "2025-03-29T08:19:00.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.7783",
-            "source": "Motley Fool",
-            "ticker": "NIO",
-            "title": "Should You Buy Nio While It's Below $6?",
-            "url": "https://finance.yahoo.com/news/buy-nio-while-below-6-081900030.html"
-        },
-        {
-            "headline": "The major averages were sharply lower again near noon, continuing yesterday\u2019s post-tariff slide. China has retaliated with additional tariffs of 34% on all U.S. goods a day after the Trump administration imposed its own sweeping levies. Meanwhile, the latest U.S. jobs data show that nonfarm payrolls rose by a higher-than-forecast 228,000 jobs, though the unemployment rate has ticked higher. Looking to commodities, oil prices are sharply lower due to a planned output increase promised by OPEC+ as",
-            "publication_date": "2025-04-05T16:10:32.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.6808",
-            "source": "TipRanks",
-            "ticker": "NIO",
-            "title": "China announces retaliatory tariffs, U.S. unemployment rises: Morning Buzz",
-            "url": "https://finance.yahoo.com/news/china-announces-retaliatory-tariffs-u-161032836.html"
-        },
-        {
-            "headline": "Stock index futures are experiencing early declines amid investor apprehension surrounding President Donald Trump\u2019s impending \u201cLiberation Day\u201d tariffs, set to be introduced tomorrow. In the commodities market, gold prices have surged to new record highs as investors seek safe-haven assets amid escalating trade tensions. Spot gold briefly surpassed $3,170 per ounce, highlighting the prevailing market anxiety. \u200bMeanwhile, oil prices have exhibited modest gains. Investors are closely monitoring dev",
-            "publication_date": "2025-04-02T12:56:06.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.5267",
-            "source": "TipRanks",
-            "ticker": "NIO",
-            "title": "Morning Movers: Johnson & Johnson slips after rejection of Talc case settlement",
-            "url": "https://finance.yahoo.com/news/morning-movers-johnson-johnson-slips-125606830.html"
-        }
-    ],
-    "avgScore": 0.18291,
-    "todayPctChange": -0.030855576928144186,
-    "vScore": -0.5643793575926852
+    "4 4 2025": {
+        "importantArticles": [
+            {
+                "headline": "The global EV fuse market is projected to grow significantly, reaching an anticipated value of US$ 5.6 billion by 2031, according to a report by Stratview Research. This growth accompanies an annual rate of 13.9% from 2024 to 2031, driven by the increasing adoption of electric vehicles (EVs) including battery electric vehicles (BEVs) and hybrid electric vehicles (HEVs). The market segmentation includes various types of fuses used across different applications, with low-voltage fuses...",
+                "publication_date": "2025-04-04T10:09:37.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7003",
+                "source": "Simply Wall St.",
+                "ticker": "NIO",
+                "title": "Electric Vehicles Today - Accelerating Growth In The Global EV Fuse Market",
+                "url": "https://finance.yahoo.com/news/electric-vehicles-today-accelerating-growth-100937547.html"
+            },
+            {
+                "headline": "Tesla, Rivian Automotive, NIO, Li Auto and XPeng are part of the Zacks top Analyst Blog.",
+                "publication_date": "2025-04-04T13:13:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.2023",
+                "source": "Zacks",
+                "ticker": "NIO",
+                "title": "The Zacks Analyst Blog Highlights Tesla, Rivian Automotive, NIO, Li Auto and XPeng",
+                "url": "https://finance.yahoo.com/news/zacks-analyst-blog-highlights-tesla-131300124.html"
+            },
+            {
+                "headline": "Nio's global cost-cutting spree hits Europe, the U.S., and China as sales crumble and investors grow uneasy.",
+                "publication_date": "2025-04-04T16:06:57.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.3818",
+                "source": "GuruFocus.com",
+                "ticker": "NIO",
+                "title": "EV Bloodbath: Nio Slashes Jobs, Misses Targets, and Plunges to 5-Year Low",
+                "url": "https://finance.yahoo.com/news/ev-bloodbath-nio-slashes-jobs-160657613.html"
+            },
+            {
+                "headline": "The EV stock hit a 52-week low and is dirt cheap right now, but you must pay attention to a few things.",
+                "publication_date": "2025-04-04T15:11:11.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.431",
+                "source": "Motley Fool",
+                "ticker": "NIO",
+                "title": "Why Nio Stock Plunged 17.7% in March",
+                "url": "https://finance.yahoo.com/news/why-nio-stock-plunged-17-151111729.html"
+            },
+            {
+                "headline": "Nio's global cost-cutting spree hits Europe, the U.S., and China as sales crumble and investors grow uneasy.",
+                "publication_date": "2025-04-04T16:06:57.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.3818",
+                "source": "GuruFocus.com",
+                "ticker": "NIO",
+                "title": "EV Bloodbath: Nio Slashes Jobs, Misses Targets, and Plunges to 5-Year Low",
+                "url": "https://finance.yahoo.com/news/ev-bloodbath-nio-slashes-jobs-160657613.html"
+            },
+            {
+                "headline": "Tesla, Rivian Automotive, NIO, Li Auto and XPeng are part of the Zacks top Analyst Blog.",
+                "publication_date": "2025-04-04T13:13:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.2023",
+                "source": "Zacks",
+                "ticker": "NIO",
+                "title": "The Zacks Analyst Blog Highlights Tesla, Rivian Automotive, NIO, Li Auto and XPeng",
+                "url": "https://finance.yahoo.com/news/zacks-analyst-blog-highlights-tesla-131300124.html"
+            }
+        ],
+        "avgScore": 0.02245000000000004
+    },
+    "4 3 2025": {
+        "importantArticles": [
+            {
+                "headline": "NIO, XPeng and Li Auto are part of the Zacks top Analyst Blog.",
+                "publication_date": "2025-04-03T14:53:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.2023",
+                "source": "Zacks",
+                "ticker": "NIO",
+                "title": "The Zacks Analyst Blog Highlights NIO, XPeng and Li Auto",
+                "url": "https://finance.yahoo.com/news/zacks-analyst-blog-highlights-nio-145300819.html"
+            },
+            {
+                "headline": "While Tesla and Rivian's first-quarter deliveries fall year over year, NIO, XPeng and Li Auto witness a surge in sales.",
+                "publication_date": "2025-04-03T15:37:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "NIO",
+                "title": "EV Roundup: Q1 Deliveries of TSLA, RIVN, LI, XPEV & NIO in Focus",
+                "url": "https://finance.yahoo.com/news/ev-roundup-q1-deliveries-tsla-153700253.html"
+            },
+            {
+                "headline": "While Tesla and Rivian's first-quarter deliveries fall year over year, NIO, XPeng and Li Auto witness a surge in sales.",
+                "publication_date": "2025-04-03T15:37:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "NIO",
+                "title": "EV Roundup: Q1 Deliveries of TSLA, RIVN, LI, XPEV & NIO in Focus",
+                "url": "https://finance.yahoo.com/news/ev-roundup-q1-deliveries-tsla-153700253.html"
+            },
+            {
+                "headline": "NIO, XPeng and Li Auto are part of the Zacks top Analyst Blog.",
+                "publication_date": "2025-04-03T14:53:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.2023",
+                "source": "Zacks",
+                "ticker": "NIO",
+                "title": "The Zacks Analyst Blog Highlights NIO, XPeng and Li Auto",
+                "url": "https://finance.yahoo.com/news/zacks-analyst-blog-highlights-nio-145300819.html"
+            }
+        ],
+        "avgScore": 0.10115
+    },
+    "4 2 2025": {
+        "importantArticles": [
+            {
+                "headline": "NEO Battery Materials Ltd. has entered a collaboration agreement with Elementium Materials Inc. to enhance NEO's silicon battery platform using advanced electrolyte technology. This partnership aims to improve battery stability and electrochemical performance, particularly in ultra-fast charging and discharging, by leveraging Elementium's advanced electrolytes. The collaboration is expected to benefit high-demand markets such as power tools, humanoid robots, drones, and aerospace systems,...",
+                "publication_date": "2025-04-02T12:07:11.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9022",
+                "source": "Simply Wall St.",
+                "ticker": "NIO",
+                "title": "Electric Vehicles Today - Battery Leap: NEO and Elementium's High-Performance Collaboration",
+                "url": "https://finance.yahoo.com/news/electric-vehicles-today-battery-leap-120711145.html"
+            },
+            {
+                "headline": "NIO, XPEV and LI report a year-over-year increase in March and first-quarter 2025 deliveries.",
+                "publication_date": "2025-04-02T13:18:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.3182",
+                "source": "Zacks",
+                "ticker": "NIO",
+                "title": "NIO, XPeng & Li Auto Post Delivery Results for March & Q1",
+                "url": "https://finance.yahoo.com/news/nio-xpeng-li-auto-post-131800951.html"
+            },
+            {
+                "headline": "Stock index futures are experiencing early declines amid investor apprehension surrounding President Donald Trump\u2019s impending \u201cLiberation Day\u201d tariffs, set to be introduced tomorrow. In the commodities market, gold prices have surged to new record highs as investors seek safe-haven assets amid escalating trade tensions. Spot gold briefly surpassed $3,170 per ounce, highlighting the prevailing market anxiety. \u200bMeanwhile, oil prices have exhibited modest gains. Investors are closely monitoring dev",
+                "publication_date": "2025-04-02T12:56:06.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5267",
+                "source": "TipRanks",
+                "ticker": "NIO",
+                "title": "Morning Movers: Johnson & Johnson slips after rejection of Talc case settlement",
+                "url": "https://finance.yahoo.com/news/morning-movers-johnson-johnson-slips-125606830.html"
+            },
+            {
+                "headline": "Stock index futures are experiencing early declines amid investor apprehension surrounding President Donald Trump\u2019s impending \u201cLiberation Day\u201d tariffs, set to be introduced tomorrow. In the commodities market, gold prices have surged to new record highs as investors seek safe-haven assets amid escalating trade tensions. Spot gold briefly surpassed $3,170 per ounce, highlighting the prevailing market anxiety. \u200bMeanwhile, oil prices have exhibited modest gains. Investors are closely monitoring dev",
+                "publication_date": "2025-04-02T12:56:06.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5267",
+                "source": "TipRanks",
+                "ticker": "NIO",
+                "title": "Morning Movers: Johnson & Johnson slips after rejection of Talc case settlement",
+                "url": "https://finance.yahoo.com/news/morning-movers-johnson-johnson-slips-125606830.html"
+            },
+            {
+                "headline": "NIO, XPEV and LI report a year-over-year increase in March and first-quarter 2025 deliveries.",
+                "publication_date": "2025-04-02T13:18:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.3182",
+                "source": "Zacks",
+                "ticker": "NIO",
+                "title": "NIO, XPeng & Li Auto Post Delivery Results for March & Q1",
+                "url": "https://finance.yahoo.com/news/nio-xpeng-li-auto-post-131800951.html"
+            },
+            {
+                "headline": "NEO Battery Materials Ltd. has entered a collaboration agreement with Elementium Materials Inc. to enhance NEO's silicon battery platform using advanced electrolyte technology. This partnership aims to improve battery stability and electrochemical performance, particularly in ultra-fast charging and discharging, by leveraging Elementium's advanced electrolytes. The collaboration is expected to benefit high-demand markets such as power tools, humanoid robots, drones, and aerospace systems,...",
+                "publication_date": "2025-04-02T12:07:11.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9022",
+                "source": "Simply Wall St.",
+                "ticker": "NIO",
+                "title": "Electric Vehicles Today - Battery Leap: NEO and Elementium's High-Performance Collaboration",
+                "url": "https://finance.yahoo.com/news/electric-vehicles-today-battery-leap-120711145.html"
+            }
+        ],
+        "avgScore": 0.23123333333333332
+    },
+    "4 1 2025": {
+        "importantArticles": [
+            {
+                "headline": "On Monday, Chinese electric vehicle company XPeng Inc (NYSE:XPEV) announced its vehicle delivery results for March and the first quarter of 2025. In March, XPeng delivered 33,205 Smart EVs, implying a 268% growth, surpassing 30,000 units for the fifth consecutive month. For the first quarter of 2025, XPeng delivered 94,008 Smart EVs, a 331% increase over last year. Also Read: Alibaba, BMW Team Up To Bring AI-Powered Smart Assistant In Next-Gen China Cars On March 13, 2025, at its Spring 2025 Lau",
+                "publication_date": "2025-04-01T11:21:32.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9001",
+                "source": "Benzinga",
+                "ticker": "NIO",
+                "title": "China's XPeng Clocks Record Q1 EV Sales, Deliveries Surge 3.6X",
+                "url": "https://finance.yahoo.com/news/chinas-xpeng-clocks-record-q1-112132970.html"
+            },
+            {
+                "headline": "While Nio sees strong quarterly delivery growth, its stock continues to underperform broader market and peers.",
+                "publication_date": "2025-04-01T16:52:27.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7096",
+                "source": "GuruFocus.com",
+                "ticker": "NIO",
+                "title": "Nio's Q1 Deliveries Rise 40%, But Shares Lag Despite EV Growth",
+                "url": "https://finance.yahoo.com/news/nios-q1-deliveries-rise-40-165227001.html"
+            },
+            {
+                "headline": "15,039 vehicles were delivered in March 2025, increasing by 26.7% year-over-year42,094 vehicles were delivered in the three months ended March 2025, increasing by 40.1% year-over-yearCumulative deliveries reached 713,658 as of March 31, 2025 SHANGHAI, April 01, 2025 (GLOBE NEWSWIRE) -- NIO Inc. (NYSE: NIO; HKEX: 9866; SGX: NIO) (\u201cNIO\u201d or the \u201cCompany\u201d), a pioneer and a leading company in the global smart electric vehicle market, today announced its March and first quarter 2025 delivery results.",
+                "publication_date": "2025-04-01T09:30:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4767",
+                "source": "GlobeNewswire",
+                "ticker": "NIO",
+                "title": "NIO Inc. Provides March and First Quarter 2025 Delivery Update",
+                "url": "https://finance.yahoo.com/news/nio-inc-provides-march-first-093000552.html"
+            },
+            {
+                "headline": "Nio is a dirt cheap EV stock to buy now.",
+                "publication_date": "2025-04-01T12:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.34",
+                "source": "Motley Fool",
+                "ticker": "NIO",
+                "title": "Nio's Stock Is About the Cheapest It's Ever Been. 1 Thing to Know Before You Buy.",
+                "url": "https://finance.yahoo.com/news/nios-stock-cheapest-ever-1-120000086.html"
+            },
+            {
+                "headline": "15,039 vehicles were delivered in March 2025, increasing by 26.7% year-over-year42,094 vehicles were delivered in the three months ended March 2025, increasing by 40.1% year-over-yearCumulative deliveries reached 713,658 as of March 31, 2025 SHANGHAI, April 01, 2025 (GLOBE NEWSWIRE) -- NIO Inc. (NYSE: NIO; HKEX: 9866; SGX: NIO) (\u201cNIO\u201d or the \u201cCompany\u201d), a pioneer and a leading company in the global smart electric vehicle market, today announced its March and first quarter 2025 delivery results.",
+                "publication_date": "2025-04-01T09:30:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4767",
+                "source": "GlobeNewswire",
+                "ticker": "NIO",
+                "title": "NIO Inc. Provides March and First Quarter 2025 Delivery Update",
+                "url": "https://finance.yahoo.com/news/nio-inc-provides-march-first-093000552.html"
+            },
+            {
+                "headline": "While Nio sees strong quarterly delivery growth, its stock continues to underperform broader market and peers.",
+                "publication_date": "2025-04-01T16:52:27.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7096",
+                "source": "GuruFocus.com",
+                "ticker": "NIO",
+                "title": "Nio's Q1 Deliveries Rise 40%, But Shares Lag Despite EV Growth",
+                "url": "https://finance.yahoo.com/news/nios-q1-deliveries-rise-40-165227001.html"
+            }
+        ],
+        "avgScore": 0.43660000000000004
+    },
+    "3 31 2025": {
+        "importantArticles": [
+            {
+                "headline": "A recent report from the Energy Futures Institute raises concerns about government-mandated electric vehicle (EV) sales targets in British Columbia and Canada, suggesting these policies could disrupt markets and limit consumer choice. The report argues that such mandates may lead to financial strain for automakers, increase vehicle prices, and disproportionately impact lower-income consumers. Additionally, it highlights that current EV sales are heavily reliant on government subsidies, and...",
+                "publication_date": "2025-03-31T10:11:29.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.2732",
+                "source": "Simply Wall St.",
+                "ticker": "NIO",
+                "title": "Electric Vehicles Update - Reevaluating EV Sales Targets To Balance Markets And Consumer Choice",
+                "url": "https://finance.yahoo.com/news/electric-vehicles-reevaluating-ev-sales-101129203.html"
+            },
+            {
+                "headline": "A recent report from the Energy Futures Institute raises concerns about government-mandated electric vehicle (EV) sales targets in British Columbia and Canada, suggesting these policies could disrupt markets and limit consumer choice. The report argues that such mandates may lead to financial strain for automakers, increase vehicle prices, and disproportionately impact lower-income consumers. Additionally, it highlights that current EV sales are heavily reliant on government subsidies, and...",
+                "publication_date": "2025-03-31T10:11:29.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.2732",
+                "source": "Simply Wall St.",
+                "ticker": "NIO",
+                "title": "Electric Vehicles Update - Reevaluating EV Sales Targets To Balance Markets And Consumer Choice",
+                "url": "https://finance.yahoo.com/news/electric-vehicles-reevaluating-ev-sales-101129203.html"
+            }
+        ],
+        "avgScore": 0.2732
+    },
+    "coef": 0.164256206151469
 }

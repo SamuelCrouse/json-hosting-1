@@ -1,67 +1,288 @@
 {
-    "importantArticles": [
-        {
-            "headline": "President Donald Trump stated in a post to Truth Social: \u201cJust had a very productive call with To Lam, General Secretary of the Communist Party of Vietnam, who told me that Vietnam wants to cut their Tariffs down to ZERO if they are able to make an agreement with the U.S. I thanked him on behalf of our Country, and said I look forward to a meeting in the near future.\u201d Analysts have highlighted that reciprocal tariffs came in \u201cworse than anticipated across-the-board,\u201d with Vietnam most meaningful",
-            "publication_date": "2025-04-05T15:10:54.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.8908",
-            "source": "TipRanks",
-            "ticker": "NKE",
-            "title": "Trump says had \u2018very productive call\u2019 with Vietnam leadership about tariffs",
-            "url": "https://finance.yahoo.com/news/trump-says-had-very-productive-151054225.html"
-        },
-        {
-            "headline": "NIKE (NYSE:NKE) has been actively engaging in share buybacks, indicative of its effort to boost shareholder value by repurchasing 6.5 million shares recently. However, this focus on long-term value didn't prevent the company from experiencing a significant price decline of 15.5% over the past week, amid broader market turmoil stemming from escalating global trade tensions. The imposition of reciprocal tariffs by the Trump administration, particularly affecting manufacturing partners in key...",
-            "publication_date": "2025-04-04T17:58:36.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.8786",
-            "source": "Simply Wall St.",
-            "ticker": "NKE",
-            "title": "NIKE (NYSE:NKE) Sees 16% Weekly Dip As Trade Tensions Raise Costs",
-            "url": "https://finance.yahoo.com/news/nike-nyse-nke-sees-16-175836391.html"
-        },
-        {
-            "headline": "Nike (NYSE: NKE) stock managed to post gains Friday despite another big sell-off for the broader market.  Stocks sold off again today as investors assessed the unfolding outlook on tariffs, but Nike was able to close the day in the green thanks to what could be a key development on that front.  President Trump said that he had a productive call on tariffs with Vietnam's leaders, and investors are hoping that could open the door for the footwear and apparel giant to see mitigated headwinds.",
-            "publication_date": "2025-04-04T22:47:54.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.85",
-            "source": "Motley Fool",
-            "ticker": "NKE",
-            "title": "Why Nike Stock Rose in a Brutal Day for the Market",
-            "url": "https://finance.yahoo.com/news/why-nike-stock-rose-brutal-224754451.html"
-        },
-        {
-            "headline": "(Bloomberg) -- The S&P 500 Index declined to the lowest level in 11 months, slashing $5.4 trillion in market value in just two sessions as Federal Reserve Chairman Jerome Powell said the Trump administration\u2019s tariffs \u201ccould have a persistent impact on inflation.\u201dMost Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersLocal Governments Vie for Fired Federal WorkersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesWhat Would \u2018Transportation Abundance\u2019",
-            "publication_date": "2025-04-04T20:26:32.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.7096",
-            "source": "Bloomberg",
-            "ticker": "NKE",
-            "title": "US Stock Market Wipes Out Over $5 Trillion on Trump\u2019s Tariff War",
-            "url": "https://finance.yahoo.com/news/us-stock-market-wipes-over-202632831.html"
-        },
-        {
-            "headline": "Stocks (^GSPC,&nbsp;^IXIC,&nbsp;^DJI)&nbsp; are plummeting as concerns about trade wars grow. The Nasdaq Composite, led by drops in major tech companies like Tesla (TSLA), Nvidia (NVDA), and Apple (AAPL), is nearing bear market territory. Retailers Nike (NKE) and Lululemon (LULU) are seeing their stocks rise after President Trump held discussions with Vietnam about lowering tariffs. Meanwhile, DuPont (DD) is under pressure as China launches an antitrust investigation into the company. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
-            "publication_date": "2025-04-04T17:16:45.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.6486",
-            "source": "Yahoo Finance Video",
-            "ticker": "NKE",
-            "title": "Tech tumbles, retail rises, China's DuPont probe: Market Minute",
-            "url": "https://finance.yahoo.com/video/tech-tumbles-retail-rises-chinas-171645876.html"
-        },
-        {
-            "headline": "A global tariff war is heating up, and here's what could be next.",
-            "publication_date": "2025-04-04T21:37:00.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.5994",
-            "source": "TheStreet",
-            "ticker": "NKE",
-            "title": "Billionaire Bill Ackman delivers frank 3-word message on tariff war",
-            "url": "https://finance.yahoo.com/news/billionaire-bill-ackman-delivers-frank-213700285.html"
-        }
-    ],
-    "avgScore": 0.10951250000000001,
-    "todayPctChange": 0.08904109937017579,
-    "vScore": 0.9751113394776378
+    "4 4 2025": {
+        "importantArticles": [
+            {
+                "headline": "NIKE (NYSE:NKE) has been actively engaging in share buybacks, indicative of its effort to boost shareholder value by repurchasing 6.5 million shares recently. However, this focus on long-term value didn't prevent the company from experiencing a significant price decline of 15.5% over the past week, amid broader market turmoil stemming from escalating global trade tensions. The imposition of reciprocal tariffs by the Trump administration, particularly affecting manufacturing partners in key...",
+                "publication_date": "2025-04-04T17:58:36.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8786",
+                "source": "Simply Wall St.",
+                "ticker": "NKE",
+                "title": "NIKE (NYSE:NKE) Sees 16% Weekly Dip As Trade Tensions Raise Costs",
+                "url": "https://finance.yahoo.com/news/nike-nyse-nke-sees-16-175836391.html"
+            },
+            {
+                "headline": "Nike (NYSE: NKE) stock managed to post gains Friday despite another big sell-off for the broader market.  Stocks sold off again today as investors assessed the unfolding outlook on tariffs, but Nike was able to close the day in the green thanks to what could be a key development on that front.  President Trump said that he had a productive call on tariffs with Vietnam's leaders, and investors are hoping that could open the door for the footwear and apparel giant to see mitigated headwinds.",
+                "publication_date": "2025-04-04T22:47:54.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.85",
+                "source": "Motley Fool",
+                "ticker": "NKE",
+                "title": "Why Nike Stock Rose in a Brutal Day for the Market",
+                "url": "https://finance.yahoo.com/news/why-nike-stock-rose-brutal-224754451.html"
+            },
+            {
+                "headline": "Shares of Nike (NYSE: NKE), the world's most popular shoe and apparel brand, dropped 15% earlier this week but have recovered some of these losses as of noon ET on Friday, according to data provided by S&P Global Market Intelligence.  Now down 9% across the week, Nike initially declined on Thursday after the president's tariffs targeted three countries responsible for the majority of the company's manufacturing.  Here's what happened earlier this week and why Nike's shares have rallied somewhat today.",
+                "publication_date": "2025-04-04T16:58:31.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.84",
+                "source": "Motley Fool",
+                "ticker": "NKE",
+                "title": "Why Nike Stock Plummeted 15% Earlier This Week -- but Is Now Rebounding",
+                "url": "https://finance.yahoo.com/news/why-nike-stock-plummeted-15-165831003.html"
+            },
+            {
+                "headline": "(Bloomberg) -- The S&P 500 Index declined to the lowest level in 11 months, slashing $5.4 trillion in market value in just two sessions as Federal Reserve Chairman Jerome Powell said the Trump administration\u2019s tariffs \u201ccould have a persistent impact on inflation.\u201dMost Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersLocal Governments Vie for Fired Federal WorkersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesWhat Would \u2018Transportation Abundance\u2019",
+                "publication_date": "2025-04-04T20:26:32.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.7096",
+                "source": "Bloomberg",
+                "ticker": "NKE",
+                "title": "US Stock Market Wipes Out Over $5 Trillion on Trump\u2019s Tariff War",
+                "url": "https://finance.yahoo.com/news/us-stock-market-wipes-over-202632831.html"
+            },
+            {
+                "headline": "Stocks (^GSPC,&nbsp;^IXIC,&nbsp;^DJI)&nbsp; are plummeting as concerns about trade wars grow. The Nasdaq Composite, led by drops in major tech companies like Tesla (TSLA), Nvidia (NVDA), and Apple (AAPL), is nearing bear market territory. Retailers Nike (NKE) and Lululemon (LULU) are seeing their stocks rise after President Trump held discussions with Vietnam about lowering tariffs. Meanwhile, DuPont (DD) is under pressure as China launches an antitrust investigation into the company. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
+                "publication_date": "2025-04-04T17:16:45.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.6486",
+                "source": "Yahoo Finance Video",
+                "ticker": "NKE",
+                "title": "Tech tumbles, retail rises, China's DuPont probe: Market Minute",
+                "url": "https://finance.yahoo.com/video/tech-tumbles-retail-rises-chinas-171645876.html"
+            },
+            {
+                "headline": "A global tariff war is heating up, and here's what could be next.",
+                "publication_date": "2025-04-04T21:37:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5994",
+                "source": "TheStreet",
+                "ticker": "NKE",
+                "title": "Billionaire Bill Ackman delivers frank 3-word message on tariff war",
+                "url": "https://finance.yahoo.com/news/billionaire-bill-ackman-delivers-frank-213700285.html"
+            }
+        ],
+        "avgScore": 0.08582500000000001
+    },
+    "4 3 2025": {
+        "importantArticles": [
+            {
+                "headline": "The global e-commerce market is projected to experience significant growth, forecasted to reach USD 73.52 trillion by 2030 from USD 25.4 trillion in 2024, marking a compound annual growth rate of 19.2%. This expansion is driven by increased internet accessibility, shifting consumer behaviors towards online platforms, and the adoption of omnichannel retailing which integrates online and offline shopping experiences. Despite the anticipated growth, challenges such as logistics and supply chain...",
+                "publication_date": "2025-04-03T12:07:36.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8625",
+                "source": "Simply Wall St.",
+                "ticker": "NKE",
+                "title": "Latest News In E-Commerce - Navigating Growth Opportunities In The Evolving Digital Marketplace",
+                "url": "https://finance.yahoo.com/news/latest-news-e-commerce-navigating-120736393.html"
+            },
+            {
+                "headline": "Investors weren\u2019t happy with President Donald Trump\u2019s reciprocal tariffs, sending stocks plunging. The S&P 500 fell 4% at 10:14 a.m., the Nasdaq composite declined 5%, and the Dow Jones Industrial Average slid 3.7%, or 1,556 points.",
+                "publication_date": "2025-04-03T14:34:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5719",
+                "source": "Quartz",
+                "ticker": "NKE",
+                "title": "The Magnificent 7, GM, Nike, Lululemon, Deckers, PDD: Stocks in motion today",
+                "url": "https://finance.yahoo.com/news/mag-7-nike-lululemon-deckers-115800242.html"
+            },
+            {
+                "headline": "(Bloomberg) -- The world\u2019s 500 richest people saw their combined wealth plunge by $208 billion Thursday as broad tariffs announced by President Donald Trump sent global markets into a tailspin. Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Would \u2018Transportation Abundance\u2019 Look Li",
+                "publication_date": "2025-04-03T21:22:23.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5106",
+                "source": "Bloomberg",
+                "ticker": "NKE",
+                "title": "Billionaires Lose Combined $208 Billion in One Day From Trump Tariffs",
+                "url": "https://finance.yahoo.com/news/billionaires-lose-combined-208-billion-212223804.html"
+            },
+            {
+                "headline": "At his \"Liberation Day\" spectacle at the White House Wednesday afternoon, Trump revealed a baseline tariff rate of 10% on countries that will go into effect on April 5.Additional tariffs will be added for some countries that the administration considers to be the worst offenders. Some of those alleged worst offenders are important sourcing and business regions for many large US companies such as Apple (AAPL), Nike (NKE), and Walmart (WMT). China, for example, will see an estimated reciprocal tariff of 34%. Vietnam at 32%. Japan is at 24%. The news has hit stocks, with Dow Jones Industrial Average futures down about 1,200 points, or nearly 3% (YM=F). S&P 500 futures are down 3.5% (ES=F), and Nasdaq futures are off by 3.8% (NQ=F). Japan\u2019s Nikkei (^N225) and Hong Kong\u2019s Hang Seng Index (^HSI) have also registered significant losses. Here\u2019s the hot analysis investors need to know right now:First, retail stocks are getting battered. Walmart, Nike, and Under Armour (UAA, UA) are getting slammed as steep tariffs on China could hammer profits. Nike, for example, relies on China and Vietnam for 55% of its sourcing. Stifel analyst Jim Duffy estimates Nike could see $1.69 a share in earnings wiped out this year because of tariffs. Next up, Apple is going to have a rough day: Morgan Stanley estimates that the tariffs on iPhones and other devices from China will increase Apple\u2019s annual costs by a whopping $8.5 billion. That could hit Apple\u2019s profits by 52 cents next year. Brutal. And lastly, the technical takedown: Market technicians are locked in on the S&P 500\u2019s March 13 closing low of 5,527.50. At this moment, the S&P 500 (^GSPC) is poised to test that low. A break through below the March lows intraday coupled with a new closing low could really damage sentiment further pros warn. RBC strategist Lori Calvasina says the S&P 500 has a clear shot to 4,900 if that low is breached. For more expert insight and the latest market action, click here.",
+                "publication_date": "2025-04-03T12:22:17.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.9485",
+                "source": "Yahoo Finance Video",
+                "ticker": "NKE",
+                "title": "Trump tariffs send stocks spiraling! 3 things investors need to know",
+                "url": "https://finance.yahoo.com/video/trump-tariffs-send-stocks-spiraling-122217686.html"
+            },
+            {
+                "headline": "(Bloomberg) -- The retail traders who have stormed the markets in recent years were among the only investors buying on Thursday as US stocks had their worst day since June 2020.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Would \u2018Transportation Abundance\u2019 Look Like?Small investor",
+                "publication_date": "2025-04-03T20:38:38.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.8126",
+                "source": "Bloomberg",
+                "ticker": "NKE",
+                "title": "Retail Traders Step In to Buy as Others Flee in Tariff Rout",
+                "url": "https://finance.yahoo.com/news/retail-traders-step-buy-others-203838411.html"
+            },
+            {
+                "headline": "(Bloomberg) -- Apple Inc. is finding itself squarely in the crosshairs of President Donald Trump\u2019s new tariffs, even after a yearslong effort to insulate the iPhone maker from trade wars and supply chain disruptions.Most Read from BloombergMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesHousing Agency Aims to Relocate Its DC HeadquartersLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Would \u2018Transportat",
+                "publication_date": "2025-04-03T20:22:03.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.7845",
+                "source": "Bloomberg",
+                "ticker": "NKE",
+                "title": "Apple Production Hubs Hit by Tariffs, Sending Stock Plunging",
+                "url": "https://finance.yahoo.com/news/apple-shares-slide-tariffs-threaten-210739852.html"
+            }
+        ],
+        "avgScore": -0.06877727272727273
+    },
+    "4 2 2025": {
+        "importantArticles": [
+            {
+                "headline": "Retail stocks are taking a hit in after-hours trading, with Walmart (WMT) and Amazon (AMZN) seeing significant drops. Yahoo Finance Executive Editor Brian Sozzi joins Asking for a Trend host Josh Lipton to explain how tariffs on imports from China and the European Union could hurt retailers like Walmart, Amazon, and Nike (NKE). To watch more expert insights and analysis on the latest market action, check out more Asking for a Trend&nbsp;here.",
+                "publication_date": "2025-04-02T21:36:24.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.3182",
+                "source": "Yahoo Finance Video",
+                "ticker": "NKE",
+                "title": "Tariffs slam retailers as Walmart and Nike see declines",
+                "url": "https://finance.yahoo.com/video/tariffs-slam-retailers-walmart-nike-213624553.html"
+            },
+            {
+                "headline": "Key Insights Significantly high institutional ownership implies NIKE's stock price is sensitive to their trading...",
+                "publication_date": "2025-04-02T11:01:05.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Simply Wall St.",
+                "ticker": "NKE",
+                "title": "NIKE, Inc. (NYSE:NKE) is a favorite amongst institutional investors who own 65%",
+                "url": "https://finance.yahoo.com/news/nike-inc-nyse-nke-favorite-110105604.html"
+            },
+            {
+                "headline": "Apparel brands face potential cost hikes as U.S. considers tariffs on Vietnam, a major manufacturing hub",
+                "publication_date": "2025-04-02T13:24:09.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "GuruFocus.com",
+                "ticker": "NKE",
+                "title": "Vietnam Tariffs Could Tighten Margins for Nike, Adidas, and Other Footwear Brands",
+                "url": "https://finance.yahoo.com/news/vietnam-tariffs-could-tighten-margins-132409557.html"
+            },
+            {
+                "headline": "Things went from bad to worse for Nike (NYSE: NKE) last month as the struggling sportswear giant posted disappointing results in its fiscal third-quarter earnings report and warned that its performance would get even worse in the fourth quarter.  The blue chip stock fell to a seven-year low as it continues to lose market share to faster-growing upstart brands like Deckers' HOKA and On Holdings\u00a0and investors grow impatient with the turnaround strategy under new CEO Elliott Hill.  Nike actually beat analyst estimates in the quarter, but that was little consolation to investors amid the declines in revenue and profit, and its guidance also called for its performance to get worse in the fourth quarter.",
+                "publication_date": "2025-04-02T19:09:11.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.8705",
+                "source": "Motley Fool",
+                "ticker": "NKE",
+                "title": "Why Nike Stock Tumbled 20% in March",
+                "url": "https://finance.yahoo.com/news/why-nike-stock-tumbled-20-190911058.html"
+            },
+            {
+                "headline": "Fashion designer Rebecca Minkoff warns about the impact of Trump tariffs on handbags and accessories.",
+                "publication_date": "2025-04-02T12:37:11.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.1027",
+                "source": "Yahoo Finance",
+                "ticker": "NKE",
+                "title": "Rebecca Minkoff on Trump tariffs: Made in the USA will come with a heftier price tag",
+                "url": "https://finance.yahoo.com/news/rebecca-minkoff-on-trump-tariffs-made-in-the-usa-will-come-with-a-heftier-price-tag-123711119.html"
+            },
+            {
+                "headline": "Apparel brands face potential cost hikes as U.S. considers tariffs on Vietnam, a major manufacturing hub",
+                "publication_date": "2025-04-02T13:24:09.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "GuruFocus.com",
+                "ticker": "NKE",
+                "title": "Vietnam Tariffs Could Tighten Margins for Nike, Adidas, and Other Footwear Brands",
+                "url": "https://finance.yahoo.com/news/vietnam-tariffs-could-tighten-margins-132409557.html"
+            }
+        ],
+        "avgScore": -0.131
+    },
+    "4 1 2025": {
+        "importantArticles": [
+            {
+                "headline": "Nike could soon face another blow in its effort to revive its brand and reverse a long decline in sales: U.S. tariffs on imports from Vietnam.  On Wednesday, U.S. President Donald Trump is expected to announce which countries and products he will target with a new round of tariffs aimed at encouraging domestic production and coaxing other nations to buy more U.S. goods.  Vietnam, which runs a $123.5 billion trade surplus with the United States, is a prime target.",
+                "publication_date": "2025-04-01T13:48:41.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8225",
+                "source": "Reuters",
+                "ticker": "NKE",
+                "title": "US tariffs on Vietnam would be a blow to Nike and other sportswear brands",
+                "url": "https://finance.yahoo.com/news/analysis-us-tariffs-vietnam-blow-134841564.html"
+            },
+            {
+                "headline": "Nike could soon face another blow in its effort to revive its brand and reverse a long decline in sales: U.S. tariffs on imports from Vietnam.  On Wednesday, U.S. President Donald Trump is expected to announce which countries and products he will target with a new round of tariffs aimed at encouraging domestic production and coaxing other nations to buy more U.S. goods.  Vietnam, which runs a $123.5 billion trade surplus with the United States, is a prime target.",
+                "publication_date": "2025-04-01T13:48:41.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8225",
+                "source": "Reuters",
+                "ticker": "NKE",
+                "title": "Analysis-US tariffs on Vietnam would be a blow to Nike and other sportswear brands",
+                "url": "https://finance.yahoo.com/news/analysis-us-tariffs-vietnam-blow-134841071.html"
+            },
+            {
+                "headline": "The stock market sell-off is intensifying, with the S&P 500 (SNPINDEX: ^GSPC) down 4.8% in the first three months of the year compared to an over 10% tumble in the Nasdaq Composite (NASDAQINDEX: ^IXIC).  Meanwhile, Energy Transfer (NYSE: ET), Dominion Energy (NYSE: D), and Nike (NYSE: NKE) provide passive income regardless of the stock market's performance.  Motley Fool contributors were asked to offer some details on why all five of these industry-leading companies are built to last and are worth buying and holding even if the stock market goes through a prolonged downturn.",
+                "publication_date": "2025-04-01T10:30:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4588",
+                "source": "Motley Fool",
+                "ticker": "NKE",
+                "title": "5 Top Stocks to Buy in April",
+                "url": "https://finance.yahoo.com/news/5-top-stocks-buy-april-103000885.html"
+            },
+            {
+                "headline": "We recently published a list of Jim Cramer Discusses These 10 Stocks & Wonders If Trump Will Try Firing The Fed Chairman. In this article, we are going to take a look at where NIKE, Inc. (NYSE:NKE) stands against other stocks that Jim Cramer discussed. In a recent appearance on CNBC\u2019s Squawk on the Street, [\u2026]",
+                "publication_date": "2025-04-01T21:36:38.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.34",
+                "source": "Insider Monkey",
+                "ticker": "NKE",
+                "title": "Jim Cramer on NIKE, Inc. (NYSE:NKE): \u201cNike is the paradigm of what is wrong\u201d",
+                "url": "https://finance.yahoo.com/news/jim-cramer-nike-inc-nyse-213638555.html"
+            },
+            {
+                "headline": "Investing.com -- Argus Research downgraded Lululemon Athletica (NASDAQ:LULU) to \"hold\" from \"buy,\" citing concerns over an aging product line, U.S. tariffs, and intensifying competition from rivals like Nike (NYSE:NKE) and Under Armour (NYSE:UA)Lululemon faces headwinds, including inflationary pressures and a challenging U.S. retail environment, analyst at Argus said. The company\u2019s U.S. sales are expected to weaken in fiscal 2026, with inventory levels remaining elevated.",
+                "publication_date": "2025-04-01T15:55:28.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.25",
+                "source": "Investing.com",
+                "ticker": "NKE",
+                "title": "Argus downgrades Lululemon on competition pressure, growth concerns",
+                "url": "https://finance.yahoo.com/news/argus-downgrades-lululemon-competition-pressure-155528560.html"
+            },
+            {
+                "headline": "Investing.com -- Jefferies initiated coverage on On Holding AG with a \"Hold\" rating and a price target of $44, citing concerns over slowing growth, increasing competition, and a lack of significant non-footwear catalysts despite the brand's strong market position.",
+                "publication_date": "2025-04-01T17:58:11.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.1536",
+                "source": "Investing.com",
+                "ticker": "NKE",
+                "title": "Jefferies initiates On with \u2018hold\u2019 rating amid slowing growth, valuation concerns",
+                "url": "https://finance.yahoo.com/news/jefferies-initiates-hold-rating-amid-175811194.html"
+            }
+        ],
+        "avgScore": 0.1832857142857143
+    },
+    "3 31 2025": {
+        "importantArticles": [
+            {
+                "headline": "Earnings results often indicate what direction a company will take in the months ahead. With Q4 behind us, let\u2019s have a look at Crocs (NASDAQ:CROX) and its peers.",
+                "publication_date": "2025-03-31T09:06:25.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "StockStory",
+                "ticker": "NKE",
+                "title": "A Look Back at Footwear Stocks\u2019 Q4 Earnings: Crocs (NASDAQ:CROX) Vs The Rest Of The Pack",
+                "url": "https://finance.yahoo.com/news/look-back-footwear-stocks-q4-090625900.html"
+            },
+            {
+                "headline": "Earnings results often indicate what direction a company will take in the months ahead. With Q4 behind us, let\u2019s have a look at Crocs (NASDAQ:CROX) and its peers.",
+                "publication_date": "2025-03-31T09:06:25.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "StockStory",
+                "ticker": "NKE",
+                "title": "A Look Back at Footwear Stocks\u2019 Q4 Earnings: Crocs (NASDAQ:CROX) Vs The Rest Of The Pack",
+                "url": "https://finance.yahoo.com/news/look-back-footwear-stocks-q4-090625900.html"
+            }
+        ],
+        "avgScore": 0.0
+    },
+    "coef": 0.7478816024281469
 }

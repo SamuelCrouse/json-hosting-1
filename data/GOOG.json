@@ -1,67 +1,328 @@
 {
-    "importantArticles": [
-        {
-            "headline": "The recent market sell-off has opened the door for some good buying opportunities in growth stocks.  Down just over 20% from its highs, Amazon (NASDAQ: AMZN) is trading at one of its lowest valuations in its history with a trailing price-to-earnings ratio (P/E) of around 34.  The company's cloud computing business, Amazon Web Services (AWS), has been its biggest growth driver, as the company helps customers create and deploy their own artificial intelligence (AI) models and apps on its platform through the help of its Bedrock and SageMaker services.",
-            "publication_date": "2025-04-05T22:14:00.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.9584",
-            "source": "Motley Fool",
-            "ticker": "GOOG",
-            "title": "4 Growth Stocks Down 20% or More to Buy Right Now",
-            "url": "https://finance.yahoo.com/news/4-growth-stocks-down-20-221400511.html"
-        },
-        {
-            "headline": "We recently published a list of 11 Best Innovative Stocks to Buy According to Analysts. In this article, we are going to take a look at where Alphabet Inc. (NASDAQ:GOOGL) stands against other best innovative stocks to buy according to analysts. Innovative stocks are the companies that continuously invest in developing new products, services or [\u2026]",
-            "publication_date": "2025-04-04T22:16:37.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.9524",
-            "source": "Insider Monkey",
-            "ticker": "GOOG",
-            "title": "Is Alphabet Inc. (GOOGL) the Best Innovative Stock to Buy According to Analysts?",
-            "url": "https://finance.yahoo.com/news/alphabet-inc-googl-best-innovative-221637473.html"
-        },
-        {
-            "headline": "Growth stocks are not for the faint of heart.  In bear markets -- like the one investors are experiencing in April 2025 for the Nasdaq Composite Index -- growth stocks are going to tumble amid a lot of volatility.  As of this writing, many of your favorite growth stocks are down 20%, 30%, or more in just a short few months.",
-            "publication_date": "2025-04-06T16:45:00.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.9062",
-            "source": "Motley Fool",
-            "ticker": "GOOG",
-            "title": "2 Growth Stocks That Could Go Parabolic",
-            "url": "https://finance.yahoo.com/news/2-growth-stocks-could-parabolic-164500774.html"
-        },
-        {
-            "headline": "We recently published a list of Jim Cramer\u2019s Thoughts on Liberation Day, Tariffs, and 17 Stocks to Watch Right Now. In this article, we are going to take a look at where Alphabet Inc. (NASDAQ:GOOGL) stands against other stocks that Jim Cramer discusses. On Tuesday, April 1st, the host of Mad Money opened the show [\u2026]",
-            "publication_date": "2025-04-04T22:10:47.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.4939",
-            "source": "Insider Monkey",
-            "ticker": "GOOG",
-            "title": "Jim Cramer on Alphabet (GOOGL): \u201cI\u2019ve Left Google\u2014And I\u2019m Not Looking Back!\u201d",
-            "url": "https://finance.yahoo.com/news/jim-cramer-alphabet-googl-ve-221047765.html"
-        },
-        {
-            "headline": "Wall Street analysts are becoming increasingly bearish on Tesla (NASDAQ: TSLA).  Following the car maker's first-quarter deliveries announcement, Wedbush analyst Daniel Ives called the report a \"disaster\" and said CEO Elon Musk needs to \"get his act together.\"  Wells Fargo analyst Colin Langan, meanwhile, has been far more critical of the stock, with an \"underweight\" rating and $130 price target on it.",
-            "publication_date": "2025-04-06T09:50:00.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.1513",
-            "source": "Motley Fool",
-            "ticker": "GOOG",
-            "title": "A Wall Street Analyst Says Tesla Stock Could Plunge 50%. Is It Time to Sell the Stock?",
-            "url": "https://finance.yahoo.com/news/wall-street-analyst-says-tesla-095000283.html"
-        },
-        {
-            "headline": "We recently published a list of Jim Cramer Raises Big Question About Tariffs & Discusses These 11 Stocks. In this article, we are going to take a look at where Alphabet Inc. (NASDAQ:GOOGL) stands against other stocks that Jim Cramer discusses. In a recent appearance on CNBC\u2019s Squawk on the Street, Jim Cramer asked the [\u2026]",
-            "publication_date": "2025-04-05T17:43:18.000Z",
-            "sentiment": "Neutral",
-            "sentimentScore": "0.0",
-            "source": "Insider Monkey",
-            "ticker": "GOOG",
-            "title": "Jim Cramer Finally Sells Alphabet (GOOGL): \u2018We Don\u2019t Google Anymore \u2013 It\u2019s the New Kodak\u2019",
-            "url": "https://finance.yahoo.com/news/jim-cramer-finally-sells-alphabet-174318740.html"
-        }
-    ],
-    "avgScore": 0.47221111111111125,
-    "todayPctChange": -0.017795981826900783,
-    "vScore": -0.8403460351793962
+    "4 4 2025": {
+        "importantArticles": [
+            {
+                "headline": "We recently published a list of 11 Best Innovative Stocks to Buy According to Analysts. In this article, we are going to take a look at where Alphabet Inc. (NASDAQ:GOOGL) stands against other best innovative stocks to buy according to analysts. Innovative stocks are the companies that continuously invest in developing new products, services or [\u2026]",
+                "publication_date": "2025-04-04T22:16:37.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9524",
+                "source": "Insider Monkey",
+                "ticker": "GOOG",
+                "title": "Is Alphabet Inc. (GOOGL) the Best Innovative Stock to Buy According to Analysts?",
+                "url": "https://finance.yahoo.com/news/alphabet-inc-googl-best-innovative-221637473.html"
+            },
+            {
+                "headline": "The great news is companies have an easy way of managing the situation, and announcing this particular move usually gets investors pretty pumped up.  A great example is Alphabet (NASDAQ: GOOG) (NASDAQ: GOOGL), which split its stock back in 2022 and has since seen the shares climb more than 40%.  Is the tech powerhouse ripe for another split?",
+                "publication_date": "2025-04-04T08:10:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9477",
+                "source": "Motley Fool",
+                "ticker": "GOOG",
+                "title": "Stock-Split Watch: Is Alphabet Next?",
+                "url": "https://finance.yahoo.com/news/stock-split-watch-alphabet-next-081000764.html"
+            },
+            {
+                "headline": "Flexera has introduced Cloud License Management, a solution designed to enhance the management of cloud software expenditures, which have become a significant concern for organizations with cloud spend challenges surpassing even security issues. This new tool allows organizations to gain a comprehensive understanding of their cloud software investments across platforms like Amazon Web Services and Microsoft Azure. By providing a unified view of cloud software spend, along with actionable...",
+                "publication_date": "2025-04-04T12:07:44.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9432",
+                "source": "Simply Wall St.",
+                "ticker": "GOOG",
+                "title": "Latest News In Cloud AI - Optimizing Cloud Costs Flexera's Latest Management Tool",
+                "url": "https://finance.yahoo.com/news/latest-news-cloud-ai-optimizing-120744376.html"
+            },
+            {
+                "headline": "We recently published a list of Jim Cramer\u2019s Thoughts on Liberation Day, Tariffs, and 17 Stocks to Watch Right Now. In this article, we are going to take a look at where Alphabet Inc. (NASDAQ:GOOGL) stands against other stocks that Jim Cramer discusses. On Tuesday, April 1st, the host of Mad Money opened the show [\u2026]",
+                "publication_date": "2025-04-04T22:10:47.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.4939",
+                "source": "Insider Monkey",
+                "ticker": "GOOG",
+                "title": "Jim Cramer on Alphabet (GOOGL): \u201cI\u2019ve Left Google\u2014And I\u2019m Not Looking Back!\u201d",
+                "url": "https://finance.yahoo.com/news/jim-cramer-alphabet-googl-ve-221047765.html"
+            },
+            {
+                "headline": "Alphabet (GOOG) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
+                "publication_date": "2025-04-04T13:00:12.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.1621",
+                "source": "Zacks",
+                "ticker": "GOOG",
+                "title": "Here is What to Know Beyond Why Alphabet Inc. (GOOG) is a Trending Stock",
+                "url": "https://finance.yahoo.com/news/know-beyond-why-alphabet-inc-130012870.html"
+            },
+            {
+                "headline": "Microsoft's Copilot is getting a slew of intelligent upgrades, leaving rival Apple further behind in the AI wars.",
+                "publication_date": "2025-04-04T16:31:50.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.1531",
+                "source": "Yahoo Finance",
+                "ticker": "GOOG",
+                "title": "Microsoft unveils a more personal Copilot, leaving rival Apple further behind",
+                "url": "https://finance.yahoo.com/news/microsoft-unveils-a-more-personal-copilot-leaving-rival-apple-further-behind-163150665.html"
+            }
+        ],
+        "avgScore": 0.41149333333333327
+    },
+    "4 3 2025": {
+        "importantArticles": [
+            {
+                "headline": "The pizza chain has tapped Google Cloud\u2019s AI tools to optimize delivery routes, create a customer-facing chatbot and deliver personalized rewards in real time.",
+                "publication_date": "2025-04-03T10:55:01.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8126",
+                "source": "Restaurant Dive",
+                "ticker": "GOOG",
+                "title": "Papa Johns will use Google AI for analytics, marketing",
+                "url": "https://finance.yahoo.com/news/papa-johns-google-ai-analytics-105501170.html"
+            },
+            {
+                "headline": "We recently published a list of Top 10 Stocks to Watch as AI Trade Dynamics Change. In this article, we are going to take a look at where Alphabet Inc. (NASDAQ:GOOG) stands against other top stocks to watch as AI trade dynamics change. Aswath Damodaran from NYU Stern School of Business said in a recent [\u2026]",
+                "publication_date": "2025-04-03T16:39:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7003",
+                "source": "Insider Monkey",
+                "ticker": "GOOG",
+                "title": "Analyst Bullish on Alphabet (GOOG) Despite \u2018Existential Threats\u2019 to Search Business",
+                "url": "https://finance.yahoo.com/news/analyst-bullish-alphabet-goog-despite-163900917.html"
+            },
+            {
+                "headline": "We came across a bullish thesis on Alphabet Inc. (GOOGL) on Substack by LongTermValue Research. In this article, we will summarize the bulls\u2019 thesis on GOOGL. Alphabet Inc. (GOOGL)\u2019s share was trading at $157.04 as of April 2nd. GOOGL\u2019s trailing and forward P/E were 19.53 and 17.64 respectively according to Yahoo Finance.. Alphabet maintains its dominance across [\u2026]",
+                "publication_date": "2025-04-03T13:59:40.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6597",
+                "source": "Insider Monkey",
+                "ticker": "GOOG",
+                "title": "Alphabet Inc. (GOOGL): A Bull Case Theory",
+                "url": "https://finance.yahoo.com/news/alphabet-inc-googl-bull-case-135940058.html"
+            },
+            {
+                "headline": "(Bloomberg) -- The retail traders who have stormed the markets in recent years were among the only investors buying on Thursday as US stocks had their worst day since June 2020.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Would \u2018Transportation Abundance\u2019 Look Like?Small investor",
+                "publication_date": "2025-04-03T20:38:38.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.8126",
+                "source": "Bloomberg",
+                "ticker": "GOOG",
+                "title": "Retail Traders Step In to Buy as Others Flee in Tariff Rout",
+                "url": "https://finance.yahoo.com/news/retail-traders-step-buy-others-203838411.html"
+            },
+            {
+                "headline": "(Bloomberg) -- Supply Lines is a daily newsletter that tracks global trade. Sign up here.Most Read from BloombergMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLondon Clears Final Hurdle for More High-Speed Trains to EuropeLocal Governments Vie for Fired Federal WorkersChicago School District Agrees to Minimum 16% Teacher Pay RaiseChina vowed to retaliate against Donald Trump\u2019s biggest tariffs yet, putting the world\u2019s largest economies on a collision course that risk",
+                "publication_date": "2025-04-03T09:39:04.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.7579",
+                "source": "Bloomberg",
+                "ticker": "GOOG",
+                "title": "China Vows Retaliation as Trump Unleashes \u2018Bazooka\u2019 US Tariffs",
+                "url": "https://finance.yahoo.com/news/china-vows-retaliation-trump-unleashes-093904902.html"
+            },
+            {
+                "headline": "The whole U.S. stock market is feeling the pain from the sweeping new tariffs that President Trump announced Wednesday after the market closed.  As of 1:10 p.m. ET Thursday, the blue chip Dow Jones Industrial Average had fallen by over 1,300 points (3.1%), the broad market S&P 500 was off by 3.9%, and the tech-heavy Nasdaq Composite was down by 4.9%.  At that time, shares of Apple (NASDAQ: AAPL) traded more than 8% lower, Meta Platforms (NASDAQ: META) was down more than 6%, and shares of Alphabet (NASDAQ: GOOGL) were off by more than 3%.",
+                "publication_date": "2025-04-03T18:27:12.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5209",
+                "source": "Motley Fool",
+                "ticker": "GOOG",
+                "title": "Trump's \"Reciprocal Tariffs\": Why Major AI Stocks Apple, Meta, and Alphabet (Google) Are Feeling the Heat Today",
+                "url": "https://finance.yahoo.com/news/trumps-reciprocal-tariffs-why-major-182712090.html"
+            }
+        ],
+        "avgScore": 0.1838952380952381
+    },
+    "4 2 2025": {
+        "importantArticles": [
+            {
+                "headline": "The so-called \"Magnificent Seven\" stocks have helped power the market higher for the past few years.  Nvidia (NASDAQ: NVDA) has been a growth machine, pure and simple.  Nvidia's graphic processing units (GPUs) provide the processing power needed to help train AI models and run inference.",
+                "publication_date": "2025-04-02T08:25:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8481",
+                "source": "Motley Fool",
+                "ticker": "GOOG",
+                "title": "4 No-Brainer \"Magnificent Seven\" Stocks to Buy Right Now",
+                "url": "https://finance.yahoo.com/news/4-no-brainer-magnificent-seven-082500455.html"
+            },
+            {
+                "headline": "We recently published a list of 10 Best US Stocks To Buy For Foreign Investors. In this article, we are going to take a look at where Alphabet Inc. (NASDAQ:GOOG) stands against other best American stocks to buy. In the coming week, the resilience of the US stock market will be challenged as President Trump\u2019s [\u2026]",
+                "publication_date": "2025-04-02T13:54:49.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8402",
+                "source": "Insider Monkey",
+                "ticker": "GOOG",
+                "title": "Alphabet Inc. (GOOG): Among the Best US Stocks to Buy For Foreign Investors",
+                "url": "https://finance.yahoo.com/news/alphabet-inc-goog-among-best-135449920.html"
+            },
+            {
+                "headline": "AMZN's Nova AI shows promise, but capacity constraints and rich valuation suggest holding current positions while awaiting clearer monetization signals in 2025.",
+                "publication_date": "2025-04-02T12:47:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7615",
+                "source": "Zacks",
+                "ticker": "GOOG",
+                "title": "Is Amazon Stock Worth Holding Now on NOVA AI's Potential?",
+                "url": "https://finance.yahoo.com/news/amazon-stock-worth-holding-now-124700905.html"
+            },
+            {
+                "headline": "Epic Games CEO Tim Sweeney, whose company makes Fortnite and tools for other developers, including Unreal Engine, called out Apple and Google as \"gangster-style businesses\" engaged in illegal practices while speaking at a Y Combinator event on Wednesday. The executive also emphasized how the big tech companies' practices directly affected his own business by scaring away users from installing Epic's Games Store software and preventing Epic from attracting developers to its offerings. Notably, Ep",
+                "publication_date": "2025-04-02T20:11:57.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.34",
+                "source": "TechCrunch",
+                "ticker": "GOOG",
+                "title": "Epic Games CEO calls Apple and Google 'gangster-style' businesses in need of competition",
+                "url": "https://finance.yahoo.com/news/epic-games-ceo-calls-apple-201157197.html"
+            },
+            {
+                "headline": "With international tensions reaching critical levels, trade networks under severe pressure, and inflation's relentless grip on consumer spending power, investors face a genuinely challenging landscape.  After a punishing first quarter that erased most of late 2024's impressive gains, we're witnessing something not seen since late 2022: substantial value in a host of world-class companies.  As markets continue their downward trajectory in early 2025, several premier businesses now trade at significant discounts to their long-term potential.",
+                "publication_date": "2025-04-02T13:30:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "-0.0258",
+                "source": "Motley Fool",
+                "ticker": "GOOG",
+                "title": "2 Cheap Tech Stocks I'm Buying Right Now",
+                "url": "https://finance.yahoo.com/news/2-cheap-tech-stocks-im-133000764.html"
+            },
+            {
+                "headline": "The latest trading day saw Alphabet Inc. (GOOG) settling at $158.74, representing a -0.09% change from its previous close.",
+                "publication_date": "2025-04-02T21:45:17.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "GOOG",
+                "title": "Alphabet Inc. (GOOG) Stock Slides as Market Rises: Facts to Know Before You Trade",
+                "url": "https://finance.yahoo.com/news/alphabet-inc-goog-stock-slides-214517951.html"
+            }
+        ],
+        "avgScore": 0.35638000000000003
+    },
+    "4 1 2025": {
+        "importantArticles": [
+            {
+                "headline": "Roblox on Tuesday launched a new format of video advertising on its gaming platform and announced a partnership with Google to help boost the growth of its nascent ad business.  Gamers can choose to watch video advertisement, up to 30 seconds long, in exchange for boosts, lifelines or resources in a particular game through rewarded videos.  In the coming weeks, brands and agencies will be able to purchase this new form of marketing either directly or through Google's ad platform, making Roblox's offerings more widely available to a larger set of advertisers.",
+                "publication_date": "2025-04-01T13:04:34.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9186",
+                "source": "Reuters",
+                "ticker": "GOOG",
+                "title": "Roblox announces new ad format, Google partnership to boost advertising business",
+                "url": "https://finance.yahoo.com/news/roblox-announces-ad-format-google-130434423.html"
+            },
+            {
+                "headline": "Recent developments in Cloud AI highlight the evolving role of Kubernetes in enhancing cloud, edge, and bare metal deployments, with a focus on security and operational efficiency. Sidero Labs has been recognized as a Fast Mover and Challenger in the 2025 GigaOm Radar Reports for its capabilities in managed Kubernetes and edge computing solutions. The company's Omni platform simplifies enterprise Kubernetes management through centralized control, security features, and support for...",
+                "publication_date": "2025-04-01T12:07:50.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9118",
+                "source": "Simply Wall St.",
+                "ticker": "GOOG",
+                "title": "This Week In Cloud AI - Enhancing Cloud Tech: The Rise Of Kubernetes Solutions",
+                "url": "https://finance.yahoo.com/news/week-cloud-ai-enhancing-cloud-120750558.html"
+            },
+            {
+                "headline": "CrowdStrike (CRWD) will benefit from the increased need for cybersecurity in the AI era, while Alphabet (GOOG,GOOGL) is getting a lift from its success in AI and its strong ad business, Adam Coons, co-Chief Investment Officer at Winthrop Capital told Schwab Network recently. Coons is bullish on both names. On the macro side, Coons believes [\u2026]",
+                "publication_date": "2025-04-01T13:43:28.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9022",
+                "source": "Insider Monkey",
+                "ticker": "GOOG",
+                "title": "CRWD, GOOG Touted by Pro Investor",
+                "url": "https://finance.yahoo.com/news/crwd-goog-touted-pro-investor-134328292.html"
+            },
+            {
+                "headline": "(Bloomberg) -- In a quarter marred by tariff uncertainty, US government spending cuts and the threat of recession, it is fears about a bubble brewing in artificial intelligence that have dealt the latest blow to the Nasdaq 100.Most Read from BloombergWhat Frank Lloyd Wright Learned From the DesertGold-Rush Fever Returns to Historic New Zealand Mining TownBank Regulators Fight for Desks as OCC Returns to New York TowerLondon Clears Final Hurdle for More High-Speed Trains to EuropeLocal Government",
+                "publication_date": "2025-04-01T09:36:18.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.8957",
+                "source": "Bloomberg",
+                "ticker": "GOOG",
+                "title": "Nasdaq 100\u2019s Worst Quarter in Years Sealed by AI Bubble Fears",
+                "url": "https://finance.yahoo.com/news/nasdaq-100-worst-quarter-years-093618789.html"
+            },
+            {
+                "headline": "The short-term and intermediate-term outlooks for the Mag 7 stocks are negative, Matt Tuttle, the CEO of Tuttle Capital Management, told Schwab Network recently. The Mag 7 consists of Nvidia (NVDA), Tesla (TSLA), Meta (META), Apple (AAPL), Amazon (AMZN), Alphabet (GOOG,GOOGL), and Microsoft (MSFT). Technical and Macro Challenges Of the Mag 7, only Meta is [\u2026]",
+                "publication_date": "2025-04-01T18:00:33.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.4019",
+                "source": "Insider Monkey",
+                "ticker": "GOOG",
+                "title": "The Mag 7\u2019s Short-Term, Medium-Term Outlooks Are Unfavorable, Investor Warns",
+                "url": "https://finance.yahoo.com/news/mag-7-short-term-medium-180033117.html"
+            },
+            {
+                "headline": "We recently published a list of Jim Cramer Says I\u2019m With Trump & Discusses These 12 Stocks. In this article, we are going to take a look at where Alphabet Inc. (NASDAQ:GOOGL) stands against other stocks that Jim Cramer discusses. In a recent appearance on CNBC\u2019s Squawk on the Street, Jim Cramer commented that President [\u2026]",
+                "publication_date": "2025-04-01T18:26:45.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Insider Monkey",
+                "ticker": "GOOG",
+                "title": "Jim Cramer on Alphabet (GOOGL): Waymo\u2019s Nowhere as Good as Tesla!",
+                "url": "https://finance.yahoo.com/news/jim-cramer-alphabet-googl-waymo-182645084.html"
+            }
+        ],
+        "avgScore": 0.39424705882352945
+    },
+    "3 31 2025": {
+        "importantArticles": [
+            {
+                "headline": "By Karen Roman Yanolja Co., Ltd. said FY2024 total transaction value increased 186% to 27 trillion Won (USD 18.3 billion) compared to the year prior. Operating revenue rose 22% to reach 924.5 billion Won (USD 625.6 million), with enterprise solutions revenue growing 62% to 292.6 billion Won (USD 198 million), it stated. Adjusted EBITDA was [\u2026]",
+                "publication_date": "2025-03-31T15:09:36.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9524",
+                "source": "Exec Edge",
+                "ticker": "GOOG",
+                "title": "Yanolja FY Total Transaction Value Soars 186% To Record",
+                "url": "https://finance.yahoo.com/news/yanolja-q4-total-transaction-value-150936798.html"
+            },
+            {
+                "headline": "The market will eventually start rallying again, Joe Tigay, the Principal of Equity Armor Investments recently told The Schwab Network. Tigay suggested two bullish option trades involving Amazon (AMZN) and Alphabet (GOOG,GOOGL). Tigay Is a Big Fan of AMZN \u201cI love Amazon for the short term and the long term,\u201d Tigay enthusiastically said. AMZN is [\u2026]",
+                "publication_date": "2025-03-31T14:45:50.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.91",
+                "source": "Insider Monkey",
+                "ticker": "GOOG",
+                "title": "Analyst Who\u2019s Looking for Market Rally Suggests Bullish AMZN, GOOG Option Strategies",
+                "url": "https://finance.yahoo.com/news/analyst-looking-market-rally-suggests-144550145.html"
+            },
+            {
+                "headline": "We recently published a list of 10 Best Very Cheap Stocks to Buy According to Billionaires In this article, we are going to take a look at where Alphabet Inc. (NASDAQ:GOOGL) stands against other best very cheap stocks to buy according to billionaires. Coming off 2 years of healthy broader market performance (~26% total return in [\u2026]",
+                "publication_date": "2025-03-31T13:44:08.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9022",
+                "source": "Insider Monkey",
+                "ticker": "GOOG",
+                "title": "Is Alphabet Inc. (GOOGL) the Best Very Cheap Stock to Buy According to Billionaires?",
+                "url": "https://finance.yahoo.com/news/alphabet-inc-googl-best-very-134408216.html"
+            },
+            {
+                "headline": "Meta and Google's upcoming spring conferences may offer critical AI updates amid industry-wide investor caution",
+                "publication_date": "2025-03-31T15:42:25.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.3182",
+                "source": "GuruFocus.com",
+                "ticker": "GOOG",
+                "title": "Meta and Google Look to Reset AI Narrative at Upcoming Spring Events",
+                "url": "https://finance.yahoo.com/news/meta-google-look-reset-ai-154225681.html"
+            },
+            {
+                "headline": "AMD CEO Lisa Su pushes back on the AI slowdown narrative.",
+                "publication_date": "2025-03-31T15:16:46.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Yahoo Finance",
+                "ticker": "GOOG",
+                "title": "AMD CEO Lisa Su to Yahoo Finance: Demand for AI infrastructure is 'immense'",
+                "url": "https://finance.yahoo.com/news/amd-ceo-lisa-su-to-yahoo-finance-demand-for-ai-infrastructure-is-immense-151646707.html"
+            },
+            {
+                "headline": "Although GameStop is back in the news, advisor Barry Ritholtz isn't taking the bait.",
+                "publication_date": "2025-03-31T13:22:13.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Yahoo Finance",
+                "ticker": "GOOG",
+                "title": "Why meme stocks like GameStop could cause you headaches",
+                "url": "https://finance.yahoo.com/news/why-meme-stocks-like-gamestop-could-cause-you-headaches-132213235.html"
+            }
+        ],
+        "avgScore": 0.3547736842105264
+    },
+    "coef": 0.4386147041227434
 }

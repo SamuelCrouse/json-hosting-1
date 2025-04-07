@@ -1,5 +1,5 @@
 {
-    "Important Articles": [
+    "importantArticles": [
         {
             "headline": "Wyndham Rewards members looking to set sail on a Carnival cruise now have a new way to book and save. Starting today, Wyndham Rewards members can book Carnival Cruise Line vacations through Wyndham Travel Bundles, making it easier than ever to plan an entire trip while earning Wyndham Rewards points for every aspect of their booking.",
             "publication_date": "2025-03-26T12:00:00.000Z",
@@ -21,14 +21,14 @@
             "url": "https://finance.yahoo.com/news/gday-carnival-adventure-carnival-encounter-130000895.html"
         },
         {
-            "headline": "Carnival (NYSE: CCL) (NYSE: CUK) suffered during the early days of the pandemic, but this cruise giant has proven its ability to weather tough times -- and go on to recover and grow.  The company has soared past analysts' earnings estimates quarter after quarter and reported various records, from revenue levels to bookings.  This is all due to renewed demand for cruise travel, Carnival's leadership in the market (it's the world's largest cruise operator), and the company's efforts to favor growth and profitability.",
-            "publication_date": "2025-03-20T08:53:00.000Z",
+            "headline": "Carnival benefits from robust booking trends, with record-high pricing and strong occupancy levels.",
+            "publication_date": "2025-03-27T19:00:00.000Z",
             "sentiment": "Positive",
-            "sentimentScore": "0.8381",
-            "source": "Motley Fool",
+            "sentimentScore": "0.8074",
+            "source": "Zacks",
             "ticker": "CCL",
-            "title": "Could This Bull Market Buy Help You Become a Millionaire?",
-            "url": "https://finance.yahoo.com/news/could-bull-market-buy-help-085300847.html"
+            "title": "CCL Stock Slips 13% in a Month - Buy the Dip or Stay on Sidelines?",
+            "url": "https://finance.yahoo.com/news/ccl-stock-slips-13-month-190000921.html"
         },
         {
             "headline": "We recently published a list of Was Jim Cramer Right About These 23 Stocks?. In this article, we are going to take a look at where Carnival Corporation & plc (NYSE:CCL) stands against other stocks that Jim Cramer discussed 12 months ago. During the latest episode of Mad Money, Jim Cramer advised his viewers to [\u2026]",
@@ -41,25 +41,27 @@
             "url": "https://finance.yahoo.com/news/jim-cramer-carnival-corporation-plc-210605519.html"
         },
         {
-            "headline": "While reporting fiscal first quarter results, cruise line operator Carnival Corporation's (CCL) adjusted EBITDA guidance for the second quarter missed Wall Street's expectations. Brad Smith and Julie Hyman talk more about Carnival's latest numbers while referencing the company's demand and bookings numbers. To watch more expert insights and analysis on the latest market action, check out more Wealth&nbsp;here.",
-            "publication_date": "2025-03-21T15:38:58.000Z",
+            "headline": "The majority of investors aren't seeing past the pessimism to understand how well this company is doing.",
+            "publication_date": "2025-03-27T09:05:00.000Z",
             "sentiment": "Negative",
-            "sentimentScore": "-0.4019",
-            "source": "Yahoo Finance Video",
+            "sentimentScore": "-0.1027",
+            "source": "Motley Fool",
             "ticker": "CCL",
-            "title": "Carnival stock fluctuates as it reports continued demand",
-            "url": "https://finance.yahoo.com/video/carnival-stock-fluctuates-reports-continued-153858319.html"
+            "title": "1 Growth Stock Down 69% to Buy Right Now",
+            "url": "https://finance.yahoo.com/news/1-growth-stock-down-69-090500874.html"
         },
         {
-            "headline": "On a per-share basis, the Miami-based company said it had a loss of 6 cents. Earnings, adjusted to extinguish debt, came to 13 cents per share. The results exceeded Wall Street expectations.",
-            "publication_date": "2025-03-21T13:21:52.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.3818",
-            "source": "Associated Press Finance",
+            "headline": "This is the moment that Queen Elizabeth met Cunard's newest ship, Queen Anne for the very first time as the iconic Queens docked together in Hong Kong.",
+            "publication_date": "2025-04-02T15:55:00.000Z",
+            "sentiment": "Neutral",
+            "sentimentScore": "0.0",
+            "source": "CNW Group",
             "ticker": "CCL",
-            "title": "Carnival: Fiscal Q1 Earnings Snapshot",
-            "url": "https://finance.yahoo.com/news/carnival-fiscal-q1-earnings-snapshot-132152945.html"
+            "title": "Queen Elizabeth joins Queen Anne in Hong Kong for first meeting with sister ship",
+            "url": "https://finance.yahoo.com/news/queen-elizabeth-joins-queen-anne-155500645.html"
         }
     ],
-    "Avg Score": 0.2821078947368422
+    "avgScore": 0.3346105263157895,
+    "todayPctChange": -0.0060277504852299475,
+    "vScore": -0.20169487623630486
 }

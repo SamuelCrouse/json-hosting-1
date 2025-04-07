@@ -1,5 +1,5 @@
 {
-    "Important Articles": [
+    "importantArticles": [
         {
             "headline": "All amounts expressed in US dollars TORONTO, March 14, 2025 (GLOBE NEWSWIRE) -- Barrick Gold Corporation (NYSE:GOLD)(TSX:ABX) reinforced its commitment to growth, reporting significant progress of its key growth projects while achieving its production guidance and setting the stage for continued sustainable value creation, said president and chief executive Mark Bristow in the company\u2019s annual report published today. During the year, Barrick completed feasibility studies for the Lumwana Super Pi",
             "publication_date": "2025-03-14T11:16:00.000Z",
@@ -31,6 +31,16 @@
             "url": "https://finance.yahoo.com/news/barrick-gold-gold-best-canadian-220825591.html"
         },
         {
+            "headline": "The U.S. economy is \"perilously close to slipping into recession\" because of President Donald Trump's tariffs, according to JPMorgan Chase chief economist Michael Feroli.  Warren Buffett famously said he likes to \"be fearful when others are greedy and greedy when others are fearful.\"  What kinds of stocks might Buffett buy if a recession is on the way?",
+            "publication_date": "2025-04-06T08:46:00.000Z",
+            "sentiment": "Negative",
+            "sentimentScore": "-0.8625",
+            "source": "Motley Fool",
+            "ticker": "GOLD",
+            "title": "All the Stocks Warren Buffett Bought in the Last 2 Recessions: Are They Smart Picks Now?",
+            "url": "https://finance.yahoo.com/news/stocks-warren-buffett-bought-last-084600567.html"
+        },
+        {
             "headline": "RPM's fiscal third-quarter results are likely to reflect seasonal weakness, negative impact from foreign exchange and weakness in the residential end-markets.",
             "publication_date": "2025-04-04T13:21:00.000Z",
             "sentiment": "Negative",
@@ -49,17 +59,9 @@
             "ticker": "GOLD",
             "title": "Incredibly Disappointing \u2013 Jim Cramer on Barrick Gold Corp. (GOLD)\u2019s Underperformance",
             "url": "https://finance.yahoo.com/news/incredibly-disappointing-jim-cramer-barrick-141637663.html"
-        },
-        {
-            "headline": "We recently published a list of the 10 Cheap Gold Stocks to Invest In Right Now. In this article, we are going to take a look at where Barrick Gold Corporation (NYSE:GOLD) stands against the other cheap gold stocks to invest in right now. The Insatiable Demand for Gold Across the Globe The World Gold [\u2026]",
-            "publication_date": "2025-03-11T12:41:19.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.128",
-            "source": "Insider Monkey",
-            "ticker": "GOLD",
-            "title": "Why Barrick Gold Corporation (GOLD) Is A Cheap Gold Stock to Invest in Right Now",
-            "url": "https://finance.yahoo.com/news/why-barrick-gold-corporation-gold-124119323.html"
         }
     ],
-    "Avg Score": 0.28206470588235294
+    "avgScore": 0.23388823529411762,
+    "todayPctChange": -0.059637955180152524,
+    "vScore": -1.3948616093635553
 }

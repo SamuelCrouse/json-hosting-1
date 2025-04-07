@@ -1,5 +1,5 @@
 {
-    "Important Articles": [
+    "importantArticles": [
         {
             "headline": "We recently published a list of 10 Best Semiconductor Stocks to Buy According to Billionaires. In this article, we are going to take a look at whereMarvell Technology Inc. (NASDAQ:MRVL) stands against other best semiconductor stocks to buy according to billionaires. The global semiconductor market is poised for substantial growth, with research firm MarketsandMarkets estimating [\u2026]",
             "publication_date": "2025-03-26T19:14:16.000Z",
@@ -31,7 +31,7 @@
             "url": "https://finance.yahoo.com/news/intrinsic-calculation-marvell-technology-inc-110024885.html"
         },
         {
-            "headline": "(Bloomberg) -- The S&P 500 Index declined to the lowest level in 11 months, slashing $5.4 trillion in market value in just two sessions as Federal Reserve Chairman Jerome Powell said the Trump administration\u2019s tariffs \u201ccould have a persistent impact on inflation.\u201dMost Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersWhat Would \u2018Transportation Abundance\u2019",
+            "headline": "(Bloomberg) -- The S&P 500 Index declined to the lowest level in 11 months, slashing $5.4 trillion in market value in just two sessions as Federal Reserve Chairman Jerome Powell said the Trump administration\u2019s tariffs \u201ccould have a persistent impact on inflation.\u201dMost Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersLocal Governments Vie for Fired Federal WorkersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesWhat Would \u2018Transportation Abundance\u2019",
             "publication_date": "2025-04-04T20:26:32.000Z",
             "sentiment": "Negative",
             "sentimentScore": "-0.7096",
@@ -61,5 +61,7 @@
             "url": "https://finance.yahoo.com/news/3-semiconductor-stocks-doghouse-130141732.html"
         }
     ],
-    "Avg Score": 0.2944435897435897
+    "avgScore": 0.2944435897435897,
+    "todayPctChange": -0.059171026822756545,
+    "vScore": -1.7422529546506669
 }

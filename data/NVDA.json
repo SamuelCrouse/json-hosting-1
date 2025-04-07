@@ -1,5 +1,5 @@
 {
-    "Important Articles": [
+    "importantArticles": [
         {
             "headline": "We recently published a list of 11 Best Innovative Stocks to Buy According to Analysts. In this article, we are going to take a look at where NVIDIA Corporation (NASDAQ:NVDA) stands against other best innovative stocks to buy according to analysts. Innovative stocks are the companies that continuously invest in developing new products, services or [\u2026]",
             "publication_date": "2025-04-04T21:32:28.000Z",
@@ -11,55 +11,57 @@
             "url": "https://finance.yahoo.com/news/nvidia-nvda-best-innovative-stock-213228911.html"
         },
         {
-            "headline": "In a strategic partnership, Navitas Semiconductor and Great Wall have developed a next-generation 400V-DC power architecture specifically designed for AI data centers. Leveraging Navitas\u2019 GaNSense technology, the collaboration has resulted in an ultra-high power density DC-DC converter delivering 2.5kW of power\u2014marking a significant leap in power efficiency and density. This innovative power solution supports evolving data center requirements by accommodating more GPUs while promoting energy...",
-            "publication_date": "2025-04-04T11:07:30.000Z",
+            "headline": "Warren Buffett has built a fortune for Berkshire Hathaway shareholders.  Buffett's success at buying stocks of great businesses and holding them for the long term has inspired many investors to follow his style.  Berkshire held a stock portfolio worth $271 billion at the end of 2024.",
+            "publication_date": "2025-04-05T22:03:00.000Z",
             "sentiment": "Positive",
-            "sentimentScore": "0.9506",
-            "source": "Simply Wall St.",
-            "ticker": "NVDA",
-            "title": "AI Chips Today - Pioneering Power Efficiency In Next-Gen Data Centers",
-            "url": "https://finance.yahoo.com/news/ai-chips-today-pioneering-power-110730132.html"
-        },
-        {
-            "headline": "Shares of  SoundHound AI (NASDAQ: SOUN) fell 25% in March 2025, according to data from S&P Global Market Intelligence.  The maker of artificial intelligence (AI) tools for computer interpretation of voice commands didn't have an earnings release last month.  The company's only business-related press release featured another collaboration with AI giant Nvidia, which tends to drive SoundHound AI's stock higher.",
-            "publication_date": "2025-04-04T11:15:15.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.8126",
+            "sentimentScore": "0.9169",
             "source": "Motley Fool",
             "ticker": "NVDA",
-            "title": "Why SoundHound AI Stock Plunged 25% Lower in March",
-            "url": "https://finance.yahoo.com/news/why-soundhound-ai-stock-plunged-111515445.html"
+            "title": "3 Top Buffett Stocks to Buy and Hold for the Next 20 Years",
+            "url": "https://finance.yahoo.com/news/3-top-buffett-stocks-buy-220300105.html"
         },
         {
-            "headline": "(Bloomberg) -- There\u2019s virtually nowhere to hide for many US technology companies under President Donald Trump\u2019s new tariff regime, the harshest in a century.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Would \u2018Transportation Abundance\u2019 Look Like?After Thursday\u2019s slump wiped $1.4",
-            "publication_date": "2025-04-04T13:34:17.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.7705",
-            "source": "Bloomberg",
+            "headline": "Tesla (NASDAQ: TSLA) stock ended 2024 with a gain of 63%, partly because of President Donald Trump's November U.S. election win.  Investors speculated that a looser regulatory environment -- and CEO Elon Musk's closeness with Trump and his inner circle -- could pave the way for Tesla to bring its autonomous driving and humanoid robotics platforms to market more quickly.  According to Musk, these products could make Tesla the most valuable company in the world one day -- in fact, he thinks there is a possibility it could be worth more than the next five largest companies combined.",
+            "publication_date": "2025-04-06T08:30:00.000Z",
+            "sentiment": "Positive",
+            "sentimentScore": "0.9099",
+            "source": "Motley Fool",
             "ticker": "NVDA",
-            "title": "\u2018Worst-Case Scenario\u2019 for Tech Wipes $1.4 Trillion from Nasdaq",
-            "url": "https://finance.yahoo.com/news/worst-case-scenario-tech-wipes-081406416.html"
+            "title": "Elon Musk Thinks Tesla Will Become the World's Most Valuable Company, but This Glaring Problem Could Instead Lead to a 70% Plunge",
+            "url": "https://finance.yahoo.com/news/elon-musk-thinks-tesla-become-083000146.html"
         },
         {
-            "headline": "Nvidia and Tesla led megacaps lower on Friday as stocks continued to sell off amid a global trade war.",
-            "publication_date": "2025-04-04T20:28:05.000Z",
+            "headline": "After weeks of uncertainty and anticipation, President Donald Trump's \"reciprocal tariff\" plan was unveiled after the market closed on Wednesday.  When the dust settled on the first trading day after the announcement, the S&P 500 (SNPINDEX: ^GSPC) and Nasdaq Composite (NASDAQINDEX: ^IXIC) saw their worst days since 2020, closing the day down 4.8% and 6%, respectively.  Companies that rely on global supply chains to sell their products were hit particularly hard, but even some tech stocks that are less impacted were also dragged down.",
+            "publication_date": "2025-04-06T10:58:00.000Z",
             "sentiment": "Negative",
-            "sentimentScore": "-0.7269",
-            "source": "Yahoo Finance",
+            "sentimentScore": "-0.4582",
+            "source": "Motley Fool",
             "ticker": "NVDA",
-            "title": "Nvidia, Apple, Tesla stocks plunge, leading another 'Magnificent 7' sell-off as a trade war intensifies",
-            "url": "https://finance.yahoo.com/news/nvidia-apple-tesla-stocks-plunge-leading-another-magnificent-7-sell-off-as-a-trade-war-intensifies-202805499.html"
+            "title": "These 3 Tech Stocks Are Tanking on Tariff News. Should You Buy the Dip?",
+            "url": "https://finance.yahoo.com/news/3-tech-stocks-tanking-tariff-105800611.html"
         },
         {
-            "headline": "(Bloomberg) -- The S&P 500 Index declined to the lowest level in 11 months, slashing $5.4 trillion in market value in just two sessions as Federal Reserve Chairman Jerome Powell said the Trump administration\u2019s tariffs \u201ccould have a persistent impact on inflation.\u201dMost Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersWhat Would \u2018Transportation Abundance\u2019",
-            "publication_date": "2025-04-04T20:26:32.000Z",
+            "headline": "The recent correction in the stock market is making many investors uneasy.  Amid several days of considerable sell-offs, shareholders are likely questioning past investments, and others may ask themselves whether they want to stay in the stock market at all.  Knowing that, three Fool.com contributors have ideas about where tech investors can turn for stability and long-term returns: Netflix (NASDAQ: NFLX), Spotify Technology (NYSE: SPOT), and the VanEck Semiconductor ETF (NASDAQ: SMH).",
+            "publication_date": "2025-04-06T11:45:00.000Z",
             "sentiment": "Negative",
-            "sentimentScore": "-0.7096",
-            "source": "Bloomberg",
+            "sentimentScore": "-0.4019",
+            "source": "Motley Fool",
             "ticker": "NVDA",
-            "title": "US Stock Market Wipes Out Over $5 Trillion on Trump\u2019s Tariff War",
-            "url": "https://finance.yahoo.com/news/us-stock-market-wipes-over-202632831.html"
+            "title": "Market Turmoil: 3 Stocks to Steady Any Portfolio",
+            "url": "https://finance.yahoo.com/news/market-turmoil-3-stocks-steady-114500869.html"
+        },
+        {
+            "headline": "The mostly forgotten former technology titan may quietly be sitting on the next big thing in AI's ongoing evolution.",
+            "publication_date": "2025-04-06T13:00:00.000Z",
+            "sentiment": "Negative",
+            "sentimentScore": "-0.2263",
+            "source": "Motley Fool",
+            "ticker": "NVDA",
+            "title": "Pay Close Attention to This Crucial Revenue Source for Artificial Intelligence (AI) Giant IBM",
+            "url": "https://finance.yahoo.com/news/pay-close-attention-crucial-revenue-130000453.html"
         }
     ],
-    "Avg Score": 0.18190333333333328
+    "avgScore": 0.3865194444444444,
+    "todayPctChange": -0.04962469560642365,
+    "vScore": -1.918090977651953
 }

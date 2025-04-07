@@ -1,15 +1,5 @@
 {
-    "Important Articles": [
-        {
-            "headline": "Whether you're a value, growth, or momentum investor, finding strong stocks becomes easier with the Zacks Style Scores, a top feature of the Zacks Premium research service.",
-            "publication_date": "2025-04-02T13:50:07.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.8979",
-            "source": "Zacks",
-            "ticker": "GM",
-            "title": "Here's Why General Motors (GM) is a Strong Momentum Stock",
-            "url": "https://finance.yahoo.com/news/heres-why-general-motors-gm-135007183.html"
-        },
+    "importantArticles": [
         {
             "headline": "General Motors (NYSE:GM) recently announced a partnership with GM Energy and EnergyHub to integrate electric vehicles and energy storage solutions into utility programs across the U.S., providing financial incentives to eligible EV owners. Despite these efforts towards innovation and energy management, General Motors saw a 4% decline in its share price over the last month. This decline occurred amidst broader market volatility driven by uncertainty surrounding potential tariffs announced by...",
             "publication_date": "2025-04-02T17:54:49.000Z",
@@ -31,6 +21,26 @@
             "url": "https://finance.yahoo.com/news/trump-makes-good-on-auto-tariff-threat-with-25-levy-on-foreign-made-cars-210156415.html"
         },
         {
+            "headline": "DETROIT (Reuters) -General Motors plans to increase production of light-duty trucks at its Fort Wayne, Indiana, assembly plant, it said in a webcast sent to plant employees on Thursday and viewed by Reuters, after President Donald Trump announced 25% tariffs on auto imports.  GM CEO Mary Barra had hinted at the possibility of increasing the output of trucks in the United States during GM's January earnings call in response to tariffs.",
+            "publication_date": "2025-04-03T16:47:54.000Z",
+            "sentiment": "Positive",
+            "sentimentScore": "0.6249",
+            "source": "Reuters",
+            "ticker": "GM",
+            "title": "Exclusive-GM to increase truck production in Indiana following Trump's tariffs",
+            "url": "https://finance.yahoo.com/news/exclusive-gm-increase-us-truck-164754030.html"
+        },
+        {
+            "headline": "Investing.com -- The U.S. auto sector is heading into a potentially severe disruption, with Bernstein warning that upcoming tariffs could move the industry from \u201cearnings pressure to supply chain fragility.\u201d",
+            "publication_date": "2025-04-05T09:00:09.000Z",
+            "sentiment": "Negative",
+            "sentimentScore": "-0.8271",
+            "source": "Investing.com",
+            "ticker": "GM",
+            "title": "Is the U.S. auto sector ready for a policy-induced storm? Bernstein weighs in",
+            "url": "https://finance.yahoo.com/news/u-auto-sector-ready-policy-090009463.html"
+        },
+        {
             "headline": "GM sells 442,000 vehicles in China in Q1, almost flat year over year but down sequentially. With rising local competition, GM faces a tough battle ahead.",
             "publication_date": "2025-04-04T16:39:00.000Z",
             "sentiment": "Negative",
@@ -49,17 +59,9 @@
             "ticker": "GM",
             "title": "Canada's Retaliatory Tariffs Fuel Trump's Trade War, Roil Auto Sector",
             "url": "https://finance.yahoo.com/news/canadas-retaliatory-tariffs-fuel-trumps-135800328.html"
-        },
-        {
-            "headline": "(Bloomberg) -- Supply Lines is a daily newsletter that tracks global trade. Sign up here.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Would \u2018Transportation Abundance\u2019 Look Like?Just hours after taking effect, President Donald Trump\u2019s 25% tariffs on imported cars are already reve",
-            "publication_date": "2025-04-03T18:57:40.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.5106",
-            "source": "Bloomberg",
-            "ticker": "GM",
-            "title": "Carmakers Idle Plants, Rethink Prices as Trump\u2019s Tariffs Hit",
-            "url": "https://finance.yahoo.com/news/trump-25-us-auto-import-105245329.html"
         }
     ],
-    "Avg Score": 0.1372
+    "avgScore": 0.08103125,
+    "todayPctChange": -0.01029541363766216,
+    "vScore": -0.0834250236326812
 }

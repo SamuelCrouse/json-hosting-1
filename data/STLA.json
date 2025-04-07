@@ -1,5 +1,25 @@
 {
-    "Important Articles": [
+    "importantArticles": [
+        {
+            "headline": "MILAN (Reuters) -Carmaker Stellantis has signed a deal with trade unions for 350 voluntary exits from its Pomigliano and Pratola Serra plants in southern Italy, the Fiom union said on Wednesday.  A spokesman for Stellantis said the layoffs involved employees close to retirement age and were in line with overall plans presented in December to the Italian government to boost its production in the country.  Fiom, which did not itself sign the agreement, said in a statement that job reductions involved 300 workers at the Pomigliano assembly plant and 50 at the Pratola Serra engine facility, both in Campania, the region comprising Naples.",
+            "publication_date": "2025-04-02T10:54:39.000Z",
+            "sentiment": "Positive",
+            "sentimentScore": "0.7096",
+            "source": "Reuters",
+            "ticker": "STLA",
+            "title": "Stellantis agrees 350 job cuts in southern Italy with unions",
+            "url": "https://finance.yahoo.com/news/stellantis-agrees-350-job-cuts-105439506.html"
+        },
+        {
+            "headline": "President Trump made good on his tariff promise for foreign made autos, slapping 25% tariffs across the board on foreign-made automobiles.",
+            "publication_date": "2025-04-02T21:01:56.000Z",
+            "sentiment": "Positive",
+            "sentimentScore": "0.6369",
+            "source": "Yahoo Finance",
+            "ticker": "STLA",
+            "title": "Trump makes good on auto tariff threat with 25% levy on foreign-made cars",
+            "url": "https://finance.yahoo.com/news/trump-makes-good-on-auto-tariff-threat-with-25-levy-on-foreign-made-cars-210156415.html"
+        },
         {
             "headline": "Auto workers voiced uncertainty and hope outside a Stellantis assembly plant in central Mexico that was scheduled to begin a month-long pause in production Friday as the maker of brands including Jeep and Ram assesses the potential impact of the latest U.S. tariffs on its operations.  The company had announced Thursday that it would pause production at the plant in Toluca, as well as another one in Canada.  The pauses would lead to 900 temporary layoffs at plants in Michigan and Indiana.",
             "publication_date": "2025-04-04T17:28:39.000Z",
@@ -11,55 +31,37 @@
             "url": "https://finance.yahoo.com/news/us-tariffs-ripple-auto-supply-172839404.html"
         },
         {
-            "headline": "Automaker Stellantis is temporarily halting production at a plant in Canada and a plant in Mexico shortly after President Donald Trump announced a 25% tariff on imported vehicles.  Stellantis, which owns car brands like Jeep, Citro\u00ebn and Ram, said Thursday it will be temporarily pausing production at the Windsor assembly plant in Canada for for the weeks of April 7 and 14.  The company will also be temporarily pausing production at the Toluca assembly plant in Mexico for the month of April, starting on April 7.",
-            "publication_date": "2025-04-03T16:14:36.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.3612",
-            "source": "Associated Press Finance",
+            "headline": "General Motors and Ford reported upbeat first quarter US sales, just as the threat of tariffs portends pain ahead for the Big Three automakers.",
+            "publication_date": "2025-04-01T18:29:23.000Z",
+            "sentiment": "Negative",
+            "sentimentScore": "-0.7717",
+            "source": "Yahoo Finance",
             "ticker": "STLA",
-            "title": "Stellantis temporarily halts production at 2 plants in Canada, Mexico as auto tariffs take effect",
-            "url": "https://finance.yahoo.com/news/stellantis-temporarily-halting-production-2-161436908.html"
+            "title": "GM, Ford report upbeat Q1 retail sales as Trump tariffs loom",
+            "url": "https://finance.yahoo.com/news/gm-ford-report-upbeat-q1-retail-sales-as-trump-tariffs-loom-182750180.html"
         },
         {
-            "headline": "(Bloomberg) -- President Claudia Sheinbaum is pitching Mexico as a winner in Donald Trump\u2019s global trade war, arguing that her positive relationship with the US leader has made it a more attractive place to invest.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Would \u2018Transportatio",
-            "publication_date": "2025-04-03T20:15:38.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.101",
+            "headline": "(Bloomberg) -- Supply Lines is a daily newsletter that tracks global trade. Sign up here.Most Read from BloombergWhat Frank Lloyd Wright Learned From the DesertLondon Clears Final Hurdle for More High-Speed Trains to EuropeMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersBank Regulators Fight for Desks as OCC Returns to New York TowerMercedes-Benz Group AG is considering withdrawing its least expensive cars from the US bec",
+            "publication_date": "2025-04-02T07:08:52.000Z",
+            "sentiment": "Negative",
+            "sentimentScore": "-0.7096",
             "source": "Bloomberg",
             "ticker": "STLA",
-            "title": "Sheinbaum Touts Her Strong Ties to Trump to Sell CEOs on Mexico",
-            "url": "https://finance.yahoo.com/news/sheinbaum-dispatches-trade-chief-washington-150229828.html"
+            "title": "Mercedes Weighs Pulling US Entry-Level Cars Over Tariffs",
+            "url": "https://finance.yahoo.com/news/mercedes-weighs-pulling-us-entry-153127919.html"
         },
         {
-            "headline": "Trump's tariffs have thrown the auto industry into turmoil, with Canada hitting back. Consumers and automakers now brace up for rising costs and disruptions.",
-            "publication_date": "2025-04-04T13:58:00.000Z",
+            "headline": "The major averages were sharply lower again near noon, continuing yesterday\u2019s post-tariff slide. China has retaliated with additional tariffs of 34% on all U.S. goods a day after the Trump administration imposed its own sweeping levies. Meanwhile, the latest U.S. jobs data show that nonfarm payrolls rose by a higher-than-forecast 228,000 jobs, though the unemployment rate has ticked higher. Looking to commodities, oil prices are sharply lower due to a planned output increase promised by OPEC+ as",
+            "publication_date": "2025-04-05T16:10:32.000Z",
             "sentiment": "Negative",
-            "sentimentScore": "-0.5994",
-            "source": "Zacks",
+            "sentimentScore": "-0.6808",
+            "source": "TipRanks",
             "ticker": "STLA",
-            "title": "Canada's Retaliatory Tariffs Fuel Trump's Trade War, Roil Auto Sector",
-            "url": "https://finance.yahoo.com/news/canadas-retaliatory-tariffs-fuel-trumps-135800328.html"
-        },
-        {
-            "headline": "Shuttering of Windsor plant brings reality of tariff war home",
-            "publication_date": "2025-04-03T17:16:58.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.5994",
-            "source": "Financial Post",
-            "ticker": "STLA",
-            "title": "Canada hits back with tariffs on U.S. vehicles as auto sector reels",
-            "url": "https://finance.yahoo.com/news/canada-hits-back-tariffs-u-171658666.html"
-        },
-        {
-            "headline": "(Bloomberg) -- Supply Lines is a daily newsletter that tracks global trade. Sign up here.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Would \u2018Transportation Abundance\u2019 Look Like?Just hours after taking effect, President Donald Trump\u2019s 25% tariffs on imported cars are already reve",
-            "publication_date": "2025-04-03T18:57:40.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.5106",
-            "source": "Bloomberg",
-            "ticker": "STLA",
-            "title": "Carmakers Idle Plants, Rethink Prices as Trump\u2019s Tariffs Hit",
-            "url": "https://finance.yahoo.com/news/trump-25-us-auto-import-105245329.html"
+            "title": "China announces retaliatory tariffs, U.S. unemployment rises: Morning Buzz",
+            "url": "https://finance.yahoo.com/news/china-announces-retaliatory-tariffs-u-161032836.html"
         }
     ],
-    "Avg Score": -0.1627666666666667
+    "avgScore": -0.1267,
+    "todayPctChange": -0.0005146798108475617,
+    "vScore": 0.006520993203438607
 }

@@ -1,5 +1,5 @@
 {
-    "Important Articles": [
+    "importantArticles": [
         {
             "headline": "We recently published a list of 10 Best Metal Stocks to Buy According to Billionaires. In this article, we will look at where Kinross Gold Corporation (NYSE:KGC) stands against other best metal stocks to buy. When investing in the best metal stocks, the stakes are high, and the potential rewards are even higher. Metals power the [\u2026]",
             "publication_date": "2025-04-01T14:36:29.000Z",
@@ -31,16 +31,6 @@
             "url": "https://finance.yahoo.com/news/why-kinross-gold-kgc-one-141742809.html"
         },
         {
-            "headline": "BTG's Q4 results reflect the impacts of lower gold ounces sold, somewhat offset by higher prices.",
-            "publication_date": "2025-02-21T16:10:00.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.296",
-            "source": "Zacks",
-            "ticker": "KGC",
-            "title": "B2Gold Q4 Earnings Miss Estimates, Revenues Dip Y/Y on Low Production",
-            "url": "https://finance.yahoo.com/news/b2gold-q4-earnings-miss-estimates-161000801.html"
-        },
-        {
             "headline": "We recently published a list of the 10 Cheap Gold Stocks to Invest In Right Now. In this article, we are going to take a look at where Kinross Gold Corporation (NYSE:KGC) stands against the other cheap gold stocks to invest in right now. The Insatiable Demand for Gold Across the Globe The World Gold [\u2026]",
             "publication_date": "2025-03-11T17:25:10.000Z",
             "sentiment": "Negative",
@@ -59,7 +49,19 @@
             "ticker": "KGC",
             "title": "IDR Beats Q4 Earnings Estimates, Reports Record Production for 2024",
             "url": "https://finance.yahoo.com/news/idr-beats-q4-earnings-estimates-150500606.html"
+        },
+        {
+            "headline": "Agnico Eagle Mines, Barrick Gold, Franco-Nevada, Kinross Gold and Alamos Gold are part of the Zacks Industry Outlook article.",
+            "publication_date": "2025-03-28T13:56:00.000Z",
+            "sentiment": "Neutral",
+            "sentimentScore": "0.0",
+            "source": "Zacks",
+            "ticker": "KGC",
+            "title": "Zacks Industry Outlook Highlights Agnico Eagle Mines, Barrick Gold, Franco-Nevada, Kinross Gold and Alamos Gold",
+            "url": "https://finance.yahoo.com/news/zacks-industry-outlook-highlights-agnico-135600172.html"
         }
     ],
-    "Avg Score": 0.3756555555555556
+    "avgScore": 0.42003333333333337,
+    "todayPctChange": -0.02442053627128182,
+    "vScore": -1.0257439251814073
 }

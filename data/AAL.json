@@ -1,25 +1,5 @@
 {
-    "Important Articles": [
-        {
-            "headline": "We recently published a list of 12 Best Nasdaq Stocks Under $20 to Buy Now. In this article, we are going to take a look at where American Airlines Group Inc. (NASDAQ:AAL) stands against other best Nasdaq stocks under $20 to buy now. The Nasdaq has had a challenging start to 2025, with the index [\u2026]",
-            "publication_date": "2025-03-17T19:25:06.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.875",
-            "source": "Insider Monkey",
-            "ticker": "AAL",
-            "title": "Is American Airlines Group Inc. (AAL) the Best Nasdaq Stock Under $20 to Buy Now?",
-            "url": "https://finance.yahoo.com/news/american-airlines-group-inc-aal-192506847.html"
-        },
-        {
-            "headline": "UATP, the global network that enables organizations to simplify payment processes and expand their payment capabilities, announced that HRS, the leading global corporate lodging and payment technology platform, is a new UATP Merchant. By joining the UATP network, HRS will be able to accept UATP payments for individual business travelers, meeting attendees, and crews, expanding their growth opportunities across UATP's vast portfolio of corporate issuers and airline clients.",
-            "publication_date": "2025-03-17T12:00:00.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.8442",
-            "source": "PR Newswire",
-            "ticker": "AAL",
-            "title": "HRS, Leading Global Corporate Hotel and Meeting Management Platform, Joins UATP Network",
-            "url": "https://finance.yahoo.com/news/hrs-leading-global-corporate-hotel-120000272.html"
-        },
+    "importantArticles": [
         {
             "headline": "We recently published a list of 11 Best Airline Stocks to Buy Now. In this article, we are going to take a look at where American Airlines Group Inc. (NASDAQ:AAL) stands against other best airline stocks to buy now. The global airline industry was hit worse than most other industries by the COVID-19 pandemic. According [\u2026]",
             "publication_date": "2025-04-01T17:01:31.000Z",
@@ -31,14 +11,24 @@
             "url": "https://finance.yahoo.com/news/american-airlines-group-inc-aal-170131070.html"
         },
         {
-            "headline": "American Airlines (AAL) has taken a 35% beating so far in 2025, falling to record lows last seen 18 months ago. While lackluster guidance, looming tariffs, and pilot shortages weigh on investor sentiment, AAL\u2019s potential for record free cash flow this year and aggressive debt reduction tell a rather bullish story. With increasing travel demand, today\u2019s steep discount makes the stock a steal for patient investors who can withstand the ongoing turbulence to reach clearer skies later this year. I m",
-            "publication_date": "2025-03-19T12:57:26.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.872",
-            "source": "TipRanks",
+            "headline": "The latest move is expected to boost AAL's competitive position in the airline industry.",
+            "publication_date": "2025-03-31T14:05:00.000Z",
+            "sentiment": "Positive",
+            "sentimentScore": "0.5267",
+            "source": "Zacks",
             "ticker": "AAL",
-            "title": "Down 35% in 2025, Is American Airlines (AAL) a Bargain Basement Steal?",
-            "url": "https://finance.yahoo.com/news/down-35-2025-american-airlines-125726630.html"
+            "title": "American Airlines to Launch New Flights to Boost Connectivity",
+            "url": "https://finance.yahoo.com/news/american-airlines-launch-flights-boost-140500813.html"
+        },
+        {
+            "headline": "Stocks for American Airlines, Delta, Southwest Airlines, and United Airlines fell Tuesday after an analyst downgrade of several airlines.",
+            "publication_date": "2025-04-01T20:46:00.000Z",
+            "sentiment": "Positive",
+            "sentimentScore": "0.4215",
+            "source": "FastCompany",
+            "ticker": "AAL",
+            "title": "Airline stocks fall as consumers pull back on travel spending",
+            "url": "https://finance.yahoo.com/news/airline-stocks-fall-consumers-pull-204600597.html"
         },
         {
             "headline": "Heathrow Airport, one of the world's busiest, is closed today after a fire at an electrical substation nearby caused a massive power outage. The closure has sparked travel chaos across the globe, with over 1,300 flights already canceled. Following the news, travel and leisure stocks in the US and UK, including Delta (DAL) and British Airways parent International Airlines Group, are under pressure today. Tune in to The Morning Brief beginning at 9am ET with Brad Smith and Myles Udland for the latest developments.",
@@ -51,15 +41,27 @@
             "url": "https://finance.yahoo.com/video/heathrow-airport-shuts-down-fire-120344252.html"
         },
         {
-            "headline": "We recently published a list of Jim Cramer on These 7 Travel and Leisure Stocks. In this article, we are going to take a look at where Airlines Group Inc.\u2019s (NASDAQ:AAL) stands against other travel and leisure stocks that Jim Cramer discusses. On Tuesday, Jim Cramer, the host of Mad Money, discussed the recent struggles [\u2026]",
-            "publication_date": "2025-03-18T17:14:13.000Z",
+            "headline": "A fire has broken out near London's Heathrow Airport, causing a power outage and leaving 200,000 global travelers stranded and canceling over 1,300 flights from the facility. The Morning Brief's Brad Smith monitors how this headline is impacting airline stocks. To watch more expert insights and analysis on the latest market action, check out more Morning Brief&nbsp;here.",
+            "publication_date": "2025-03-21T13:15:02.000Z",
             "sentiment": "Negative",
-            "sentimentScore": "-0.6908",
-            "source": "Insider Monkey",
+            "sentimentScore": "-0.6705",
+            "source": "Yahoo Finance Video",
             "ticker": "AAL",
-            "title": "American Airlines (AAL) \u2013 Jim Cramer: \u2018Airline Stocks Have Been Crushed, But It\u2019s Not That Horrible\u2019",
-            "url": "https://finance.yahoo.com/news/american-airlines-aal-jim-cramer-171413247.html"
+            "title": "Fire closes London's Heathrow Airport, disrupting global travel",
+            "url": "https://finance.yahoo.com/video/fire-closes-londons-heathrow-airport-131502856.html"
+        },
+        {
+            "headline": "American Airlines Group (NasdaqGS:AAL) saw its share price decline by 11% over the past week, which may be linked to recent market stressors, including a downgrade from Jefferies affecting airline stocks like AAL due to concerns over consumer sentiment and economic uncertainty. The airline sector has been under pressure as a result of broader market volatility tied to potential U.S. tariff announcements projected to influence macroeconomic factors. Concurrently, the Dow Jones Industrial...",
+            "publication_date": "2025-04-01T17:35:07.000Z",
+            "sentiment": "Negative",
+            "sentimentScore": "-0.4588",
+            "source": "Simply Wall St.",
+            "ticker": "AAL",
+            "title": "American Airlines Group (NasdaqGS:AAL) Hit by Jefferies Downgrade as Shares Drop 11% Over the Past Week",
+            "url": "https://finance.yahoo.com/news/american-airlines-group-nasdaqgs-aal-173507563.html"
         }
     ],
-    "Avg Score": 0.04467647058823528
+    "avgScore": -0.012912499999999993,
+    "todayPctChange": 0.03559691185009786,
+    "vScore": -0.04596451242643884
 }

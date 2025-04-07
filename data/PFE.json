@@ -1,5 +1,5 @@
 {
-    "Important Articles": [
+    "importantArticles": [
         {
             "headline": "In 2020, many companies tried to develop effective coronavirus vaccines, but two ended up succeeding and dominating the field: Pfizer (NYSE: PFE) and Moderna (NASDAQ: MRNA).  If Pfizer and Moderna can bounce back, purchasing their shares now might be a great move -- but which is the more attractive option?  Pfizer has made important moves in the past few years that could pay off down the line.",
             "publication_date": "2025-04-03T12:30:00.000Z",
@@ -31,6 +31,16 @@
             "url": "https://finance.yahoo.com/news/jnj-vs-pfe-drug-giant-135900061.html"
         },
         {
+            "headline": "In recent developments, a class action lawsuit was filed against Cerevel Therapeutics, Bain Capital Investors, and Pfizer (NYSE:PFE), citing alleged securities violations related to Cerevel's stock offering. This legal issue may have influenced Pfizer's recent stock activity, where shares fell 9% over the past week. Additionally, broader market dynamics played a role, as major indices plunged amidst fears of a trade war with China, affecting investor sentiment and contributing to the general...",
+            "publication_date": "2025-04-05T17:41:33.000Z",
+            "sentiment": "Negative",
+            "sentimentScore": "-0.5574",
+            "source": "Simply Wall St.",
+            "ticker": "PFE",
+            "title": "Pfizer (NYSE:PFE) Involved In Lawsuit Over US$45 Per Share Cerevel Acquisition",
+            "url": "https://finance.yahoo.com/news/pfizer-nyse-pfe-involved-lawsuit-174133461.html"
+        },
+        {
             "headline": "We recently published a list of Jim Cramer\u2019s Lightning Round: 8 Stocks in Focus. In this article, we are going to take a look at where Pfizer Inc. (NYSE:PFE) stands against other stocks that Jim Cramer discusses. Jim Cramer, host of Mad Money, discussed on Monday how investor sentiment surrounding tech stocks has shifted over [\u2026]",
             "publication_date": "2025-04-04T14:45:29.000Z",
             "sentiment": "Negative",
@@ -39,16 +49,6 @@
             "ticker": "PFE",
             "title": "Pfizer Inc. (PFE) \u2013 Jim Cramer Declares: \u2018Dead Money \u2013 Close the Casket!\u2019",
             "url": "https://finance.yahoo.com/news/pfizer-inc-pfe-jim-cramer-144529049.html"
-        },
-        {
-            "headline": "Stocks of PFE, MRK, ABBV, LLY and others declined on Tuesday due to uncertainty surrounding Trump's proposed tariffs on pharma imports.",
-            "publication_date": "2025-04-02T13:43:00.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.34",
-            "source": "Zacks",
-            "ticker": "PFE",
-            "title": "PFE, MRK, LLY & Other Drug Stocks Down Amid Tariff Jitters",
-            "url": "https://finance.yahoo.com/news/pfe-mrk-lly-other-drug-134300035.html"
         },
         {
             "headline": "(Reuters) -British pharmaceutical giant GlaxoSmithKline and rival Pfizer have agreed to end a lawsuit that alleged Pfizer's respiratory syncytial virus (RSV) vaccine Abrysvo violated GSK's patent rights in its competing RSV shot Arexvy, according to a Thursday filing in Delaware federal court.  GSK and Pfizer said in the filing that they would dismiss the case with prejudice, which means it cannot be refiled.  GSK, Pfizer and Moderna have developed RSV shots approved by the U.S. Food and Drug Administration, with GSK's Arexvy responsible for the majority of U.S. RSV vaccine sales.",
@@ -61,5 +61,7 @@
             "url": "https://finance.yahoo.com/news/gsk-resolves-patent-lawsuit-against-220317477.html"
         }
     ],
-    "Avg Score": 0.22057222222222225
+    "avgScore": 0.17606666666666665,
+    "todayPctChange": -0.0420833428700765,
+    "vScore": -0.7409473901324802
 }

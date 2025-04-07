@@ -1,15 +1,5 @@
 {
-    "Important Articles": [
-        {
-            "headline": "Believe it or not, there are other things going on in the world of business and tech than tariffs and sell-offs in the \"Magnificent 7.\" Take blockchain, crypto and Web3 \u2013 three areas that continue to see their fair share of startups seeking to make their names. Yahoo Finance Executive Editor Brian Sozzi sits down with Mysten Labs co-founder and CEO Evan Cheng. Cheng has spent good chunks of time in tech leadership roles at Apple (AAPL) and Meta (META). Since 2021, he has been building the Web3 platform Mylen Labs. The timing looks to have been spot on, as the crypto space has notched several wins under the Trump administration. With President Trump leaning into making the US the bitcoin (BTC-USD) capital of the world, what does it mean for Web3 early entrants such as Mylen Labs? Cheng weighs in,and shares how leadership lessons learned at Apple and Meta are paying dividends at his startup. For full episodes of Opening Bid, listen on your favorite podcast platform or watch on our website. Yahoo Finance's Opening Bid is produced by Langston Sessoms",
-            "publication_date": "2025-04-04T10:00:00.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.9595",
-            "source": "Yahoo Finance Video",
-            "ticker": "META",
-            "title": "OpenAI, Apple, & Meta race to dominate the future of this tech",
-            "url": "https://finance.yahoo.com/video/openai-apple-meta-race-dominate-100000403.html"
-        },
+    "importantArticles": [
         {
             "headline": "We recently published a list of 11 Best Innovative Stocks to Buy According to Analysts. In this article, we are going to take a look at where Meta Platforms, Inc. (NASDAQ:META) stands against other best innovative stocks to buy according to analysts. Innovative stocks are the companies that continuously invest in developing new products, services [\u2026]",
             "publication_date": "2025-04-04T22:15:07.000Z",
@@ -21,34 +11,24 @@
             "url": "https://finance.yahoo.com/news/meta-platforms-meta-best-innovative-221507283.html"
         },
         {
-            "headline": "Meta Platforms (NasdaqGS:META) recently announced a significant multiyear partnership with UFC to enhance global fan engagement, establishing Meta as the Official Fan Technology and AI Glasses Partner. Despite this potentially positive development for the company, Meta's shares have fallen 11.78% over the last week, during a broader market downturn. The decline comes amid widespread concerns over President Donald Trump's announcement of sweeping tariffs, with major indexes like the Nasdaq...",
-            "publication_date": "2025-04-04T18:22:49.000Z",
+            "headline": "Meta Platforms (NasdaqGS:META) recently announced a multiyear partnership with UFC, aiming to invigorate UFC fan engagement through innovative technology platforms. Despite this promising collaboration, Meta's share price fell 12% over the past week. This decline aligns with a broader market downturn, as major indices plunged amidst tariff-induced turmoil, reflecting heightened concerns over economic growth and inflation. Meta, alongside other tech giants like Apple and Nvidia, experienced...",
+            "publication_date": "2025-04-06T17:28:50.000Z",
             "sentiment": "Positive",
-            "sentimentScore": "0.7701",
+            "sentimentScore": "0.9067",
             "source": "Simply Wall St.",
             "ticker": "META",
-            "title": "Meta Platforms (NasdaqGS:META) Falls 12% Over One Week Despite UFC Partnership",
-            "url": "https://finance.yahoo.com/news/meta-platforms-nasdaqgs-meta-falls-182249568.html"
+            "title": "Meta Platforms (NasdaqGS:META) Dips 12% After UFC Partnership Announcement",
+            "url": "https://finance.yahoo.com/news/meta-platforms-nasdaqgs-meta-dips-172850492.html"
         },
         {
-            "headline": "BofA notes that President Trump\u2019s newly announced tariffs were larger than anticipated and are \u201ca direct negative\u201d for discretionary retail sales and advertising. In addition, the potential for increasing recession fears fueled by the tariffs are \u201ca relative negative for the entire Internet sector,\u201d which the analyst notes underperformed in 2008 and 2022 as fears of a recession grew. The \u201conly potential silver lining\u201d is that proposed rates could be viewed as a negotiation tool that may not be f",
-            "publication_date": "2025-04-04T13:16:20.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.9313",
-            "source": "TipRanks",
+            "headline": "While the \"Magnificent Seven\" stocks have been some of the best investments over the past few years, they've been poor performers in 2025.  Investors are moving their money from stocks they deem risky to either cash or safer investments, and the Magnificent Seven are some of the stocks they turn to first to raise capital.",
+            "publication_date": "2025-04-05T10:15:00.000Z",
+            "sentiment": "Positive",
+            "sentimentScore": "0.8979",
+            "source": "Motley Fool",
             "ticker": "META",
-            "title": "Tariff-fueled recession fears \u2018relative negative\u2019 for Internet sector, says BofA",
-            "url": "https://finance.yahoo.com/news/tariff-fueled-recession-fears-relative-131620534.html"
-        },
-        {
-            "headline": "A Kenyan court has ruled that Facebook's parent company Meta can be sued in the East African country over its alleged role in promoting content that led to ethnic violence in neighbouring Ethiopia, a plaintiff in the case said.  The landmark case, which stems from alleged hate speech on the platform during the 2020-2022 civil war in northern Ethiopia's Tigray region, could have implications for how Meta works with content moderators globally.",
-            "publication_date": "2025-04-04T08:41:28.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.872",
-            "source": "Reuters",
-            "ticker": "META",
-            "title": "Meta can be sued in Kenya over posts related to Ethiopia violence, court rules",
-            "url": "https://finance.yahoo.com/news/meta-sued-kenya-over-posts-084128085.html"
+            "title": "Prediction: This Unstoppable AI Stock Will Be the Top Performing \"Magnificent Seven\" Stock of 2025",
+            "url": "https://finance.yahoo.com/news/prediction-unstoppable-ai-stock-top-101500854.html"
         },
         {
             "headline": "Nvidia and Tesla led megacaps lower on Friday as stocks continued to sell off amid a global trade war.",
@@ -59,7 +39,29 @@
             "ticker": "META",
             "title": "Nvidia, Apple, Tesla stocks plunge, leading another 'Magnificent 7' sell-off as a trade war intensifies",
             "url": "https://finance.yahoo.com/news/nvidia-apple-tesla-stocks-plunge-leading-another-magnificent-7-sell-off-as-a-trade-war-intensifies-202805499.html"
+        },
+        {
+            "headline": "The major averages were sharply lower again near noon, continuing yesterday\u2019s post-tariff slide. China has retaliated with additional tariffs of 34% on all U.S. goods a day after the Trump administration imposed its own sweeping levies. Meanwhile, the latest U.S. jobs data show that nonfarm payrolls rose by a higher-than-forecast 228,000 jobs, though the unemployment rate has ticked higher. Looking to commodities, oil prices are sharply lower due to a planned output increase promised by OPEC+ as",
+            "publication_date": "2025-04-05T16:10:32.000Z",
+            "sentiment": "Negative",
+            "sentimentScore": "-0.6808",
+            "source": "TipRanks",
+            "ticker": "META",
+            "title": "China announces retaliatory tariffs, U.S. unemployment rises: Morning Buzz",
+            "url": "https://finance.yahoo.com/news/china-announces-retaliatory-tariffs-u-161032836.html"
+        },
+        {
+            "headline": "(Bloomberg) -- Meta Platforms Inc. plans to spend nearly $1 billion on the development of a data center project in central Wisconsin, underscoring a larger effort from the social media giant to ramp up investments in AI and cloud infrastructure.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersWhat Would \u2018Transportation Abundance\u2019 Look Like?London Cl",
+            "publication_date": "2025-04-04T19:57:37.000Z",
+            "sentiment": "Negative",
+            "sentimentScore": "-0.5574",
+            "source": "Bloomberg",
+            "ticker": "META",
+            "title": "Meta Plans Nearly $1 Billion Data Center Project in Wisconsin",
+            "url": "https://finance.yahoo.com/news/meta-plans-nearly-1-billion-195737717.html"
         }
     ],
-    "Avg Score": 0.13720625
+    "avgScore": 0.20185555555555557,
+    "todayPctChange": 0.0015670263312139085,
+    "vScore": 0.03163129706573675
 }

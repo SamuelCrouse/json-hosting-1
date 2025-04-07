@@ -1,15 +1,5 @@
 {
-    "Important Articles": [
-        {
-            "headline": "Ericsson (NASDAQ:ERIC) shares are trading higher on Tuesday after the company expanded its partnership with India's Bharti Airtel to deploy its secure and high-performance 5G Core network solutions. Under this agreement, Ericsson will integrate its Signaling Controller solution into Bharti Airtel's network and introduce its 5G Standalone-enabled Charging and Policy solution. The financial terms of the agreement were not disclosed. These advancements will strengthen Airtel's 5G monetization strat",
-            "publication_date": "2025-02-25T17:37:40.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.9485",
-            "source": "Benzinga",
-            "ticker": "ERIC",
-            "title": "Ericsson Accelerates 5G Growth in India with Bharti Airtel Deal",
-            "url": "https://finance.yahoo.com/news/ericsson-accelerates-5g-growth-india-173740937.html"
-        },
+    "importantArticles": [
         {
             "headline": "Vonage, a global leader in cloud communications and a part of Ericsson (NASDAQ: ERIC), has been named a Gold winner in both the 5G Networks and 5G Innovation of the Year categories at the Merit Awards for Telecom 2025. This recognition underscores Vonage's pivotal role in shaping the future of 5G technology through its innovative network APIs, which enable businesses to accelerate digital transformation across industries.",
             "publication_date": "2025-02-27T08:00:00.000Z",
@@ -21,34 +11,34 @@
             "url": "https://finance.yahoo.com/news/vonage-recognized-5g-innovation-gold-080000087.html"
         },
         {
-            "headline": "Vonage, a global leader in cloud communications helping businesses accelerate their digital transformation and a part of Ericsson (NASDAQ:ERIC), today announced that Lydia Solutions, one of Europe's fastest-growing mobile financial services platforms, has enhanced its security and customer experience with Vonage's powerful Verify API and Silent Authentication powered by the network. By leveraging the solution, Lydia Solutions has protected the data and privacy of tens of thousands of users daily",
-            "publication_date": "2025-02-12T12:00:00.000Z",
+            "headline": "In March 2025, the European market is navigating a complex landscape characterized by concerns over U.S. trade tariffs, economic growth uncertainties, and fluctuating monetary policies. Despite these challenges, high growth tech stocks in Europe continue to attract attention as investors seek opportunities that align with resilient business models and innovative capabilities capable of weathering broader market volatility.",
+            "publication_date": "2025-03-19T05:08:15.000Z",
             "sentiment": "Positive",
-            "sentimentScore": "0.9186",
-            "source": "PR Newswire",
+            "sentimentScore": "0.9038",
+            "source": "Simply Wall St.",
             "ticker": "ERIC",
-            "title": "Lydia Solutions Partners with Vonage to Revolutionize Security and User Experience Leveraging Network Capabilities",
-            "url": "https://finance.yahoo.com/news/lydia-solutions-partners-vonage-revolutionize-120000672.html"
+            "title": "High Growth Tech Stocks In Europe March 2025",
+            "url": "https://finance.yahoo.com/news/high-growth-tech-stocks-europe-050815831.html"
         },
         {
-            "headline": "We recently compiled a list of the 10 Stocks Firm Up Amid Cautious Trading. In this article, we are going to take a look at where Telefonaktiebolaget LM Ericsson (publ) (NASDAQ:ERIC) stands against the other stocks. Wall Street extended its lackluster performance on Tuesday, with two major indices finishing with only slight changes amid a series [\u2026]",
-            "publication_date": "2025-02-26T11:56:12.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.1027",
+            "headline": "Hotchkis & Wiley, an investment management company, released its \u201cHotchkis & Wiley Mid-Cap Value Fund\u201d fourth quarter 2024 investor letter. A copy of the letter can be downloaded here. The Hotchkis & Wiley Mid-Cap Value Fund returned -2.39% in the fourth quarter, underperforming the Russell Midcap Value Index\u2019s -1.75% return. The portfolio underperformed the index [\u2026]",
+            "publication_date": "2025-03-31T13:31:29.000Z",
+            "sentiment": "Positive",
+            "sentimentScore": "0.7351",
             "source": "Insider Monkey",
             "ticker": "ERIC",
-            "title": "Why Telefonaktiebolaget LM Ericsson (publ) (ERIC) Soared on Tuesday",
-            "url": "https://finance.yahoo.com/news/why-telefonaktiebolaget-lm-ericsson-publ-115612067.html"
+            "title": "Here\u2019s Why Telefonaktiebolaget LM Ericsson (publ) (ERIC) Surged in Q4",
+            "url": "https://finance.yahoo.com/news/why-telefonaktiebolaget-lm-ericsson-publ-133129227.html"
         },
         {
-            "headline": "Ericsson's (NASDAQ: ERIC) financial report for the first quarter 2025 will be published at approximately 7:00 AM CEST on April 15, 2025. The company will issue a press release with the complete financial report attached, including tables, in PDF format. Following publication of the press release, the financial report will be available on Ericsson's website: www.ericsson.com/en/investors/financial-reports/interim-reports",
-            "publication_date": "2025-04-01T06:32:00.000Z",
+            "headline": "We recently published a list of 9 AI News and Ratings on Investors\u2019 Radar. In this article, we are going to take a look at where Telefonaktiebolaget LM Ericsson (publ) (NASDAQ:ERIC) stands against other AI news and ratings on investors\u2019 radar. According to a Reuters report posted on March 25, Chinese AI firms have made [\u2026]",
+            "publication_date": "2025-03-28T22:10:52.000Z",
             "sentiment": "Neutral",
             "sentimentScore": "0.0",
-            "source": "PR Newswire",
+            "source": "Insider Monkey",
             "ticker": "ERIC",
-            "title": "Invitation to media and analyst briefing for Ericsson Q1 2025 report",
-            "url": "https://finance.yahoo.com/news/invitation-media-analyst-briefing-ericsson-063200904.html"
+            "title": "Telefonaktiebolaget LM Ericsson (ERIC) Partners with SoftBank to Bring AI and 6G to Japan \u2013 A Tech Leap Forward!",
+            "url": "https://finance.yahoo.com/news/telefonaktiebolaget-lm-ericsson-eric-partners-221052623.html"
         },
         {
             "headline": "Major telecom companies in Zimbabwe and Angola select ERIC's industry-leading portfolio to modernize their network infrastructure.",
@@ -59,7 +49,19 @@
             "ticker": "ERIC",
             "title": "Ericsson Boosts Digital Infrastructure in Africa: Stock to Gain?",
             "url": "https://finance.yahoo.com/news/ericsson-boosts-digital-infrastructure-africa-153700170.html"
+        },
+        {
+            "headline": "Telefonaktiebolaget LM Ericsson (NASDAQ: ERIC) (the \"Company\") held its Annual General Meeting (\"AGM\") today on March 25, 2025 in Kista, Stockholm. Shareholders were also able to exercise their voting rights by post before the meeting.",
+            "publication_date": "2025-03-25T18:58:00.000Z",
+            "sentiment": "Neutral",
+            "sentimentScore": "0.0",
+            "source": "PR Newswire",
+            "ticker": "ERIC",
+            "title": "Ericsson's Annual General Meeting 2025",
+            "url": "https://finance.yahoo.com/news/ericssons-annual-general-meeting-2025-185800815.html"
         }
     ],
-    "Avg Score": 0.5265128205128204
+    "avgScore": 0.451475,
+    "todayPctChange": -0.030813735530813867,
+    "vScore": -1.391163124877419
 }

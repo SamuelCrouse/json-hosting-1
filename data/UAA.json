@@ -1,5 +1,5 @@
 {
-    "Important Articles": [
+    "importantArticles": [
         {
             "headline": "Key Insights The projected fair value for Under Armour is US$12.18 based on 2 Stage Free Cash Flow to Equity Under...",
             "publication_date": "2025-04-02T12:36:44.000Z",
@@ -61,5 +61,7 @@
             "url": "https://finance.yahoo.com/news/carters-stock-dips-6-6-171100672.html"
         }
     ],
-    "Avg Score": 0.02361111111111111
+    "avgScore": 0.0236111111111111,
+    "todayPctChange": 0.02636723279283716,
+    "vScore": 0.062255966316421045
 }

@@ -1,5 +1,5 @@
 {
-    "Important Articles": [
+    "importantArticles": [
         {
             "headline": "Freeport-McMoRan (NYSE:FCX) recently affirmed a cash dividend of $0.15 per share, which may have played a role in its share price increase of 16% over the past month. This dividend announcement, with its structured payout comprising both a base and a performance-based variable component, coincided with a broader market characterized by declines in major technology stocks and a generally volatile landscape. While the tech sector saw a notable downturn, FCX's strong movement suggests investor...",
             "publication_date": "2025-03-26T17:29:56.000Z",
@@ -61,5 +61,7 @@
             "url": "https://finance.yahoo.com/news/american-mine-still-millions-tons-100011532.html"
         }
     ],
-    "Avg Score": 0.15094500000000002
+    "avgScore": 0.134085,
+    "todayPctChange": -0.05967743166031376,
+    "vScore": -0.8001848424173171
 }

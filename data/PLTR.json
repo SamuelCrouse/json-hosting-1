@@ -1,5 +1,5 @@
 {
-    "Important Articles": [
+    "importantArticles": [
         {
             "headline": "Palantir Technologies (NasdaqGS:PLTR) experienced an 11.97% increase in its stock price over the last quarter, amidst significant developments including its inclusion in the S&P 100. The company has been actively forming alliances, such as with Everfox and R1, which may have strengthened investor optimism. Additionally, Palantir's partnerships with companies like Databricks and Archer Aviation demonstrate its involvement in expanding sectors like AI and aerospace, potentially enhancing its...",
             "publication_date": "2025-04-02T17:52:19.000Z",
@@ -21,14 +21,14 @@
             "url": "https://finance.yahoo.com/news/seeking-exposure-ai-stocks-tool-212400119.html"
         },
         {
-            "headline": "We recently published a list of Top 10 Stocks to Watch as AI Trade Dynamics Change. In this article, we are going to take a look at where Palantir Technologies Inc. (NASDAQ:PLTR) stands against other top stocks to watch as AI trade dynamics change. Aswath Damodaran from NYU Stern School of Business said in a [\u2026]",
-            "publication_date": "2025-04-03T16:43:57.000Z",
+            "headline": "Palantir Technologies (NASDAQ: PLTR) was one of the hottest artificial intelligence (AI) stocks on the market in 2024.  In March, Palantir stock fell nearly 40% from its February high, and the share price is still 33% below that level.  Palantir peaked at $39 per share in early 2021 as investors became overconfident.",
+            "publication_date": "2025-04-05T07:15:00.000Z",
             "sentiment": "Positive",
-            "sentimentScore": "0.7003",
-            "source": "Insider Monkey",
+            "sentimentScore": "0.7579",
+            "source": "Motley Fool",
             "ticker": "PLTR",
-            "title": "Analyst Explains Why Palantir Technologies (PLTR) Can Reach $100",
-            "url": "https://finance.yahoo.com/news/analyst-explains-why-palantir-technologies-164357827.html"
+            "title": "Palantir Stock Fell Nearly 40% From Its High. History Says This Will Happen Next.",
+            "url": "https://finance.yahoo.com/news/palantir-stock-fell-nearly-40-071500733.html"
         },
         {
             "headline": "We recently published a list of Jim Cramer\u2019s Thoughts on Liberation Day, Tariffs, and 17 Stocks to Watch Right Now. In this article, we are going to take a look at where Palantir Technologies Inc. (NASDAQ:PLTR) stands against other stocks that Jim Cramer discusses. On Tuesday, April 1st, the host of Mad Money opened the [\u2026]",
@@ -61,5 +61,7 @@
             "url": "https://finance.yahoo.com/news/wall-street-now-hates-these-10-stocks-because-of-trump-tariffs-135445636.html"
         }
     ],
-    "Avg Score": 0.22148823529411765
+    "avgScore": 0.30871176470588235,
+    "todayPctChange": -0.06918479742457394,
+    "vScore": -2.1358160903759207
 }

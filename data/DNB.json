@@ -1,5 +1,5 @@
 {
-    "Important Articles": [
+    "importantArticles": [
         {
             "headline": "Dun & Bradstreet has agreed to be acquired by private-equity firm Clearlake Capital for $4.1 billion, the data and analytics provider said on Monday, putting an end to its second stint as a public company after its stock-market listing more than four years ago.  Its shares are down nearly 30% this year and about 60% since going public in 2020, making it an attractive target for Clearlake.  Analysts have also pointed to its healthy free cash flow and potential for growth in revenue and margins as some of the factors that made it ripe for a takeover.",
             "publication_date": "2025-03-24T11:43:09.000Z",
@@ -51,15 +51,17 @@
             "url": "https://finance.yahoo.com/news/reflecting-data-business-process-services-091235954.html"
         },
         {
-            "headline": "Wrapping up Q4 earnings, we look at the numbers and key takeaways for the data & business process services stocks, including Equifax (NYSE:EFX) and its peers.",
-            "publication_date": "2025-03-17T09:03:38.000Z",
+            "headline": "Dun & Bradstreet\u2019s stock price has taken a beating over the past six months, shedding 22.3% of its value and falling to $8.94 per share. This was partly driven by its softer quarterly results and may have investors wondering how to approach the situation.",
+            "publication_date": "2025-04-01T09:05:35.000Z",
             "sentiment": "Neutral",
-            "sentimentScore": "0.0",
+            "sentimentScore": "-0.0",
             "source": "StockStory",
             "ticker": "DNB",
-            "title": "Q4 Earnings Outperformers: Equifax (NYSE:EFX) And The Rest Of The Data & Business Process Services Stocks",
-            "url": "https://finance.yahoo.com/news/q4-earnings-outperformers-equifax-nyse-090338564.html"
+            "title": "3 Reasons to Sell DNB and 1 Stock to Buy Instead",
+            "url": "https://finance.yahoo.com/news/3-reasons-sell-dnb-1-090535443.html"
         }
     ],
-    "Avg Score": 0.3498428571428572
+    "avgScore": 0.3498428571428572,
+    "todayPctChange": -0.016910892949895326,
+    "vScore": -0.5916155106428381
 }

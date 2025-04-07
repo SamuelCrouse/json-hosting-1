@@ -1,5 +1,5 @@
 {
-    "Important Articles": [
+    "importantArticles": [
         {
             "headline": "In a strategic partnership, Navitas Semiconductor and Great Wall have developed a next-generation 400V-DC power architecture specifically designed for AI data centers. Leveraging Navitas\u2019 GaNSense technology, the collaboration has resulted in an ultra-high power density DC-DC converter delivering 2.5kW of power\u2014marking a significant leap in power efficiency and density. This innovative power solution supports evolving data center requirements by accommodating more GPUs while promoting energy...",
             "publication_date": "2025-04-04T11:07:30.000Z",
@@ -21,14 +21,14 @@
             "url": "https://finance.yahoo.com/news/advanced-micro-devices-nasdaqgs-amd-173404382.html"
         },
         {
-            "headline": "Syntiant Corp. has announced the upcoming demonstration of its multimodal vision transformer (ViT) security solution, which will debut at ISC West 2025. This cutting-edge system, designed for deployment at the edge on Ambarella's CV75M system on chip, enhances real-time image processing for security applications without relying on cloud resources. The demonstrated solution leverages AI and machine learning to achieve faster, more efficient monitoring, reducing latency and costs while boosting...",
-            "publication_date": "2025-04-02T11:07:44.000Z",
+            "headline": "Super Micro Computer (SMCI) might have the word \u201cmicro\u201d in its name, but make no mistake\u2014this Silicon Valley-based server and storage powerhouse has been delivering mighty growth over the past three years. With the boom in AI training, cloud data centers, and enterprise IT, Super Micro has surged 829%, alongside some of the hottest trends in technology. While the company\u2019s most explosive alpha years\u20142023 and 2024\u2014are now behind us, I believe the runway is far from finished. Based on projected ea",
+            "publication_date": "2025-04-03T11:28:27.000Z",
             "sentiment": "Positive",
-            "sentimentScore": "0.9168",
-            "source": "Simply Wall St.",
+            "sentimentScore": "0.8555",
+            "source": "TipRanks",
             "ticker": "AMD",
-            "title": "This Week In AI Chips - Syntiant Unveils Next-Gen Vision Transformer for Edge Security",
-            "url": "https://finance.yahoo.com/news/week-ai-chips-syntiant-unveils-110744142.html"
+            "title": "SMCI Stock Set to Transition from Micro to Mighty as Wall St. Analysts Eye 40% Upside",
+            "url": "https://finance.yahoo.com/news/smci-stock-set-transition-micro-112827327.html"
         },
         {
             "headline": "Shares of computer processor maker AMD (NASDAQ:AMD) fell 8.4% in the morning session after China imposed a 34% tariff on all U.S. imports amid escalating trade war tensions. This was especially rough for the US chipmakers because a big chunk of their business leans on demand out of China. The new tariffs not only threaten to erode profit margins but also risk reducing market share. Adding to the uncertainty, the Trump administration signaled the possibility of further regulatory action against t",
@@ -41,6 +41,16 @@
             "url": "https://finance.yahoo.com/news/why-amd-amd-shares-getting-191405734.html"
         },
         {
+            "headline": "Paul Tudor Jones is betting on these two turnaround stocks over Nvidia.",
+            "publication_date": "2025-04-05T12:53:00.000Z",
+            "sentiment": "Neutral",
+            "sentimentScore": "0.0",
+            "source": "Motley Fool",
+            "ticker": "AMD",
+            "title": "Billionaire Paul Tudor Jones Trimmed His Position in Nvidia and Is Piling Into 2 Turnaround Tech Stocks",
+            "url": "https://finance.yahoo.com/news/billionaire-paul-tudor-jones-trimmed-125300769.html"
+        },
+        {
             "headline": "CoreWeave's stock finds its footing after a muted IPO.",
             "publication_date": "2025-04-02T14:47:23.000Z",
             "sentiment": "Neutral",
@@ -49,17 +59,9 @@
             "ticker": "AMD",
             "title": "CoreWeave stock rips higher after muted IPO",
             "url": "https://finance.yahoo.com/news/coreweave-stock-rips-higher-after-muted-ipo-144723161.html"
-        },
-        {
-            "headline": "Advanced Micro Devices (NasdaqGS:AMD) experienced a 7% decline over the past month. Despite announcing their 5th Gen AMD EPYC processors to power Oracle Cloud, and expanding their x86 embedded processor portfolio, AMD\u2019s share price nonetheless trended downward. This aligns with a broader sell-off affecting tech stocks amid escalating global trade tensions and a downtrend in major indices, including the Nasdaq, which entered bear market territory. Investor concerns over trade-related impacts...",
-            "publication_date": "2025-04-04T17:43:35.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.128",
-            "source": "Simply Wall St.",
-            "ticker": "AMD",
-            "title": "Advanced Micro Devices (NasdaqGS:AMD) Unveils 5th Gen EPYC Processors as Stock Falls 7%",
-            "url": "https://finance.yahoo.com/news/advanced-micro-devices-nasdaqgs-amd-174335203.html"
         }
     ],
-    "Avg Score": 0.5395941176470589
+    "avgScore": 0.47744117647058826,
+    "todayPctChange": -0.05624037613939204,
+    "vScore": -2.6851471349139735
 }

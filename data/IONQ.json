@@ -1,5 +1,5 @@
 {
-    "Important Articles": [
+    "importantArticles": [
         {
             "headline": "IonQ (IONQ) has been selected for the first stage of the Defense Advanced Research Projects Agency Quantum Benchmarking Initiative. This program is designed to assess and validate the feasibility of developing industrially useful quantum computers ahead of conventional projections. With a demonstrated track record of innovation and real-world quantum applications, IonQ will help inform industry standards. As a participant in the first stage of DARPA\u2019s QBI, IonQ will play a role in defining what",
             "publication_date": "2025-04-04T15:35:26.000Z",
@@ -11,24 +11,24 @@
             "url": "https://finance.yahoo.com/news/ionq-selected-darpa-quantum-benchmarking-153526150.html"
         },
         {
-            "headline": "IonQ (NYSE:IONQ) recently announced a groundbreaking collaboration with Ansys, demonstrating quantum computing's superiority over classical methods in medical device design, which positively impacted the company's stock by 13% over the past week. The announcement highlighted IonQ's technological capabilities, which may have fueled investor interest amid a broader market decline led by tech giants like Tesla and Nvidia. Despite the tech sector's downturn, IonQ's innovative strides in quantum...",
-            "publication_date": "2025-03-26T17:48:44.000Z",
+            "headline": "COLLEGE PARK, Md., April 03, 2025--IonQ (NYSE: IONQ), a leader in the quantum computing and networking industries, today announced that it has been selected for the first stage of the Defense Advanced Research Projects Agency (DARPA) Quantum Benchmarking Initiative (QBI). This program is designed to assess and validate the feasibility of developing industrially useful quantum computers ahead of conventional projections. With a demonstrated track record of innovation and real-world quantum applic",
+            "publication_date": "2025-04-03T15:26:00.000Z",
             "sentiment": "Positive",
-            "sentimentScore": "0.9217",
-            "source": "Simply Wall St.",
+            "sentimentScore": "0.8591",
+            "source": "Business Wire",
             "ticker": "IONQ",
-            "title": "IonQ (NYSE:IONQ) Surges 13% After Groundbreaking Collaboration With Ansys",
-            "url": "https://finance.yahoo.com/news/ionq-nyse-ionq-surges-13-174844023.html"
+            "title": "IonQ Selected by DARPA for Quantum Benchmarking Initiative (QBI) to Advance Quantum Computing",
+            "url": "https://finance.yahoo.com/news/ionq-selected-darpa-quantum-benchmarking-152600228.html"
         },
         {
-            "headline": "We recently compiled a list of the 15 Best Small Cap AI Stocks to Buy Right Now. In this article, we are going to take a look at where IonQ, Inc. (NYSE:IONQ) stands against the other small cap AI stocks. Smaller-cap AI stocks may present potentially attractive investment opportunities for investors seeking exposure beyond the [\u2026]",
-            "publication_date": "2025-03-25T15:03:59.000Z",
+            "headline": "One of the leaders was IonQ (NYSE: IONQ) with a massive 237% gain.  IonQ shares are down by 43% year to date.  IonQ stock was up double-digits before paring some of those gains in late trading Thursday.",
+            "publication_date": "2025-03-27T19:06:25.000Z",
             "sentiment": "Positive",
-            "sentimentScore": "0.8658",
-            "source": "Insider Monkey",
+            "sentimentScore": "0.7906",
+            "source": "Motley Fool",
             "ticker": "IONQ",
-            "title": "Is IonQ, Inc. (IONQ) the Best Small Cap AI Stock to Buy Right Now?",
-            "url": "https://finance.yahoo.com/news/ionq-inc-ionq-best-small-150359168.html"
+            "title": "Why Quantum Computing Stock IonQ Soared This Week",
+            "url": "https://finance.yahoo.com/news/why-quantum-computing-stock-ionq-190625088.html"
         },
         {
             "headline": "IonQ (NYSE:IONQ) recently completed significant collaborations and an equity offering, marking milestones such as showcasing quantum computing's capabilities in medical device design with Ansys, and delivering a quantum networking system to the U.S. Air Force. Despite these advancements, the company's stock dropped 7% over the last month, amidst a broader market downturn led by looming tariffs and the Nasdaq's worst monthly performance since 2022. Although IonQ's technological achievements...",
@@ -41,14 +41,14 @@
             "url": "https://finance.yahoo.com/news/ionq-nyse-ionq-showcases-quantum-175229761.html"
         },
         {
-            "headline": "Nvidia's (NVDA) week-long 2025 GTC event is wrapping up on Friday, the conference highlighted by Nvidia CEO Jensen Huang's keynote speech on Tuesday. While quantum computing stocks D-Wave Quantum (QBTS) and Rigetti Computing (RGTI) continue to face stock pressures stemming from Huang's comments at GTC's Quantum Day panels, what lies in store for the future of artificial intelligence and quantum computing technology? Defiance ETFs CEO and CIO Sylvia Jablonski joins rad Smith and Myles Udland to talk more about some of the next catalysts for AI and the practical uses for quantum computing. Catch Yahoo Finance's full interview with D-Wave Quantum CEO Alan Baratz where he discusses the quantum computing company's claims of \"quantum supremacy.\" To watch more expert insights and analysis on the latest market action, check out more Morning Brief&nbsp;here.",
-            "publication_date": "2025-03-21T14:15:00.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.25",
-            "source": "Yahoo Finance Video",
+            "headline": "Forte Enterprise offers AQ36 performance and is designed for use in commercial environments such as life sciences and finance.",
+            "publication_date": "2025-04-02T15:08:59.000Z",
+            "sentiment": "Neutral",
+            "sentimentScore": "0.0",
+            "source": "GuruFocus.com",
             "ticker": "IONQ",
-            "title": "As Nvidia's GTC wraps up, what's next for AI, quantum computing?",
-            "url": "https://finance.yahoo.com/video/nvidias-gtc-wraps-whats-next-141500607.html"
+            "title": "IonQ Launches Forte Enterprise Quantum System Globally Through Amazon Braket",
+            "url": "https://finance.yahoo.com/news/ionq-launches-forte-enterprise-quantum-150859356.html"
         },
         {
             "headline": "The program will define benchmarks for utility-scale quantum computers and develop a roadmap through 2033.",
@@ -61,5 +61,7 @@
             "url": "https://finance.yahoo.com/news/ionq-selected-darpas-quantum-benchmarking-184519679.html"
         }
     ],
-    "Avg Score": 0.43088235294117655
+    "avgScore": 0.4259166666666667,
+    "todayPctChange": -0.08798231528158523,
+    "vScore": -3.7473134450348513
 }

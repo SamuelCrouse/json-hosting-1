@@ -1,65 +1,67 @@
 {
-    "Important Articles": [
+    "importantArticles": [
         {
-            "headline": "The stock market took a dive, but Cathie Wood didn\u2019t flinch. Instead of retreating, the Ark Invest CEO saw an opportunity and went on a buying spree. According to Investor\u2019s Business Daily, her firm snapped up shares of Tesla (NASDAQ:TSLA), Robinhood (NASDAQ:HOOD), Coinbase (NASDAQ:COIN), Palantir Technologies (NYSE:PLTR), and more on March 10. Big Bets in a Turbulent Market Investor\u2019s Business Daily said that Ark Invest picked up 79,318 shares of Tesla, valued at $17.62 million based on Monday\u2019",
-            "publication_date": "2025-04-04T20:30:46.000Z",
+            "headline": "Tesla (NASDAQ: TSLA) stock ended 2024 with a gain of 63%, partly because of President Donald Trump's November U.S. election win.  Investors speculated that a looser regulatory environment -- and CEO Elon Musk's closeness with Trump and his inner circle -- could pave the way for Tesla to bring its autonomous driving and humanoid robotics platforms to market more quickly.  According to Musk, these products could make Tesla the most valuable company in the world one day -- in fact, he thinks there is a possibility it could be worth more than the next five largest companies combined.",
+            "publication_date": "2025-04-06T08:30:00.000Z",
             "sentiment": "Positive",
-            "sentimentScore": "0.9209",
-            "source": "Benzinga",
-            "ticker": "TSLA",
-            "title": "Cathie Wood Just Made A Bold Move\u2014Why She Spent Over $65M On Tesla, Robinhood, And Coinbase 'As The Market Crashed'",
-            "url": "https://finance.yahoo.com/news/cathie-wood-just-made-bold-203046717.html"
-        },
-        {
-            "headline": "The global EV fuse market is projected to grow significantly, reaching an anticipated value of US$ 5.6 billion by 2031, according to a report by Stratview Research. This growth accompanies an annual rate of 13.9% from 2024 to 2031, driven by the increasing adoption of electric vehicles (EVs) including battery electric vehicles (BEVs) and hybrid electric vehicles (HEVs). The market segmentation includes various types of fuses used across different applications, with low-voltage fuses...",
-            "publication_date": "2025-04-04T10:09:37.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.7003",
-            "source": "Simply Wall St.",
-            "ticker": "TSLA",
-            "title": "Electric Vehicles Today - Accelerating Growth In The Global EV Fuse Market",
-            "url": "https://finance.yahoo.com/news/electric-vehicles-today-accelerating-growth-100937547.html"
-        },
-        {
-            "headline": "All \"Magnificent Seven\" names \u2014 Nvidia (NVDA), Alphabet (GOOG, GOOGL), Tesla (TSLA), Microsoft (MSFT), Amazon (AMZN), Meta (META), and Apple (AAPL) \u2014 are in the red under Trump's second administration. Yahoo Finance podcast Stocks in Translation host Jared Blikre takes a closer look at the group's moves. Catch more Stocks in Translation here, with new episodes every Tuesday and Thursday. To watch more expert insights and analysis on the latest market action, check out more Catalysts here.",
-            "publication_date": "2025-04-04T15:56:11.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.6808",
-            "source": "Yahoo Finance Video",
-            "ticker": "TSLA",
-            "title": "Magnificent 7 are all negative under Trump 2.0",
-            "url": "https://finance.yahoo.com/video/magnificent-7-negative-under-trump-155611066.html"
-        },
-        {
-            "headline": "Shares of Tesla (NASDAQ: TSLA) are sliding on Friday.  The decline comes as the S&P 500 and Nasdaq Composite both lost more than 5%.  As the escalating trade war hammers markets, Tesla received a bearish adjustment from a key analyst who said Tesla has suffered \"unprecedented brand damage\" due to CEO Elon Musk's involvement in politics.",
-            "publication_date": "2025-04-04T17:48:03.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.886",
+            "sentimentScore": "0.9099",
             "source": "Motley Fool",
             "ticker": "TSLA",
-            "title": "Why Tesla Stock Is Crashing Today -- It's Not Just Trump's Tariffs",
-            "url": "https://finance.yahoo.com/news/why-tesla-stock-crashing-today-174803093.html"
+            "title": "Elon Musk Thinks Tesla Will Become the World's Most Valuable Company, but This Glaring Problem Could Instead Lead to a 70% Plunge",
+            "url": "https://finance.yahoo.com/news/elon-musk-thinks-tesla-become-083000146.html"
         },
         {
-            "headline": "Musk, Bezos, and Zuckerberg lose nearly $45 billion amid market rout, the worst since 2020",
-            "publication_date": "2025-04-04T15:53:17.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.7783",
-            "source": "GuruFocus.com",
+            "headline": "While the \"Magnificent Seven\" stocks have been some of the best investments over the past few years, they've been poor performers in 2025.  Investors are moving their money from stocks they deem risky to either cash or safer investments, and the Magnificent Seven are some of the stocks they turn to first to raise capital.",
+            "publication_date": "2025-04-05T10:15:00.000Z",
+            "sentiment": "Positive",
+            "sentimentScore": "0.8979",
+            "source": "Motley Fool",
             "ticker": "TSLA",
-            "title": "Top 3 Billionaires Suffer $45 Billion Loss in Worst Market Drop Since 2020",
-            "url": "https://finance.yahoo.com/news/top-3-billionaires-suffer-45-155317679.html"
+            "title": "Prediction: This Unstoppable AI Stock Will Be the Top Performing \"Magnificent Seven\" Stock of 2025",
+            "url": "https://finance.yahoo.com/news/prediction-unstoppable-ai-stock-top-101500854.html"
         },
         {
-            "headline": "We recently published a list of Top 10 Stocks on Jim Cramer\u2019s Radar as Trump Tariffs Wreak Havoc Across Global Markets. In this article, we are going to take a look at where Tesla, Inc. (NASDAQ:TSLA) stands against other top stocks on Jim Cramer\u2019s radar as Trump tariffs wreak havoc across global markets. Jim Cramer [\u2026]",
-            "publication_date": "2025-04-03T20:51:01.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.7351",
-            "source": "Insider Monkey",
+            "headline": "Elon Musk has an idea, and this time, it's not about Mars, AI, or self-driving cars. The Tesla and SpaceX CEO, along with President Donald Trump, is now calling for a livestream of Fort Knox's gold reserves\u2014just to make sure the gold is still there. \u201cI mean, that would be really fun. And after all, it is actually the gold of the American people, so the American people, it seems to me, have a right to see their gold,\u201d Musk said. \u201cHopefully, it looks really cool. You know, open the doors like, \u2018Is",
+            "publication_date": "2025-04-05T19:00:17.000Z",
+            "sentiment": "Positive",
+            "sentimentScore": "0.8746",
+            "source": "Benzinga",
             "ticker": "TSLA",
-            "title": "Jim Cramer Says \u2018There\u2019s Nothing Magnificent\u2019 About Tesla (TSLA)",
-            "url": "https://finance.yahoo.com/news/jim-cramer-says-nothing-magnificent-205101248.html"
+            "title": "Elon Musk Wants To 'Livestream Fort Knox'\u2014Says Americans Have A Right To See Their Gold: 'Is It There? Let's Check.'",
+            "url": "https://finance.yahoo.com/news/elon-musk-wants-livestream-fort-190017594.html"
+        },
+        {
+            "headline": "The major averages were sharply lower again near noon, continuing yesterday\u2019s post-tariff slide. China has retaliated with additional tariffs of 34% on all U.S. goods a day after the Trump administration imposed its own sweeping levies. Meanwhile, the latest U.S. jobs data show that nonfarm payrolls rose by a higher-than-forecast 228,000 jobs, though the unemployment rate has ticked higher. Looking to commodities, oil prices are sharply lower due to a planned output increase promised by OPEC+ as",
+            "publication_date": "2025-04-05T16:10:32.000Z",
+            "sentiment": "Negative",
+            "sentimentScore": "-0.6808",
+            "source": "TipRanks",
+            "ticker": "TSLA",
+            "title": "China announces retaliatory tariffs, U.S. unemployment rises: Morning Buzz",
+            "url": "https://finance.yahoo.com/news/china-announces-retaliatory-tariffs-u-161032836.html"
+        },
+        {
+            "headline": "(Bloomberg) -- One of Wall Street\u2019s most bullish Tesla Inc. analysts slashed his price target for the stock by 43%, citing a brand crisis created by Chief Executive Officer Elon Musk and US President Donald Trump\u2019s trade policies.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersBoston Mayor Wu Embraces Trump Resistance as Campaign Heats UpThis Skinny Mexico City Tower Is Just 14 Feet Wide on One SideThe Irish Hot Press Is the Low-Tech Laundry Trick the World NeedsWhat W",
+            "publication_date": "2025-04-06T18:44:18.000Z",
+            "sentiment": "Negative",
+            "sentimentScore": "-0.6369",
+            "source": "Bloomberg",
+            "ticker": "TSLA",
+            "title": "Tesla Bull Slashes Stock Price Target 43%, Citing Musk and Trump",
+            "url": "https://finance.yahoo.com/news/tesla-bull-slashes-stock-price-184418063.html"
+        },
+        {
+            "headline": "Tesla shares were among the worst hit this week by tariffs.",
+            "publication_date": "2025-04-06T14:17:00.000Z",
+            "sentiment": "Negative",
+            "sentimentScore": "-0.4404",
+            "source": "TheStreet",
+            "ticker": "TSLA",
+            "title": "Analyst overhauls Tesla stock forecast amid tariff tussle",
+            "url": "https://finance.yahoo.com/news/analyst-overhauls-tesla-stock-forecast-141700212.html"
         }
     ],
-    "Avg Score": -0.11619375
+    "avgScore": 0.13284117647058824,
+    "todayPctChange": -0.07615706345210613,
+    "vScore": -1.0116793905523016
 }

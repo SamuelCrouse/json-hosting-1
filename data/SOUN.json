@@ -1,5 +1,5 @@
 {
-    "Important Articles": [
+    "importantArticles": [
         {
             "headline": "At one point in late December, shares were up over 1,000% for the year, but then it sold off as investors took gains.  Nvidia owned about 1.73 million shares of SoundHound AI, which would have been valued at nearly $42 million at its peak.",
             "publication_date": "2025-04-03T11:30:00.000Z",
@@ -31,6 +31,16 @@
             "url": "https://finance.yahoo.com/news/better-artificial-intelligence-stock-soundhound-102000142.html"
         },
         {
+            "headline": "We recently published a list of Friday\u2019s 10 Worst Performing Stocks. In this article, we are going to take a look at where SoundHound AI Inc. (NASDAQ:SOUN) stands against other Friday\u2019s worst performing stocks. The stock market suffered a bloodbath anew on Friday as investors digested news of a growing trade war, with China making [\u2026]",
+            "publication_date": "2025-04-05T06:49:10.000Z",
+            "sentiment": "Negative",
+            "sentimentScore": "-0.9393",
+            "source": "Insider Monkey",
+            "ticker": "SOUN",
+            "title": "Why SoundHound AI Inc. (SOUN) Performed Worst On Friday?",
+            "url": "https://finance.yahoo.com/news/why-soundhound-ai-inc-soun-064910889.html"
+        },
+        {
             "headline": "We recently published a list of AI Stocks Dominate Wednesday\u2019s 10 Worst Performers. In this article, we are going to take a look at where SoundHound AI Inc. (NASDAQ:SOUN) stands against other AI stocks that dominate Wednesday\u2019s worst performers. Wall Street\u2019s major indices ended in the negative territory on Wednesday as investors parked funds to [\u2026]",
             "publication_date": "2025-03-27T07:55:55.000Z",
             "sentiment": "Negative",
@@ -49,17 +59,9 @@
             "ticker": "SOUN",
             "title": "SoundHound AI (SOUN) \u2013 Sell SoundHound! Jim Cramer Calls It a \u2018Meme Stock\u2019",
             "url": "https://finance.yahoo.com/news/soundhound-ai-soun-sell-soundhound-170729122.html"
-        },
-        {
-            "headline": "This speculative audio AI stock could struggle to justify its sky-high valuations.",
-            "publication_date": "2025-04-02T08:42:00.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.2263",
-            "source": "Motley Fool",
-            "ticker": "SOUN",
-            "title": "Where Will SoundHound AI Be in 3 Years?",
-            "url": "https://finance.yahoo.com/news/where-soundhound-ai-3-years-084200075.html"
         }
     ],
-    "Avg Score": 0.36784999999999995
+    "avgScore": 0.273555,
+    "todayPctChange": -0.055483848817886844,
+    "vScore": -1.5177884263377035
 }

@@ -1,5 +1,5 @@
 {
-    "Important Articles": [
+    "importantArticles": [
         {
             "headline": "TORONTO, March 27, 2025 (GLOBE NEWSWIRE) -- Sprott Inc. (NYSE/TSX: SII) (\u201cSprott\u201d) on behalf of the Sprott Physical Silver Trust (NYSE Arca/TSX: PSLV) (\u201cPSLV\u201d or the \u201cTrust\u201d) today announced that PSLV\u2019s net asset value (\u201cNAV\u201d) has surpassed US$6 billion. \u201cWe would like to thank our unitholders for their trust and support in helping the Sprott Physical Silver Trust reach this significant milestone,\u201d said John Ciampaglia, Chief Executive Officer of Sprott Asset Management. \u201cPSLV provides investors",
             "publication_date": "2025-03-27T21:19:00.000Z",
@@ -61,5 +61,7 @@
             "url": "https://finance.yahoo.com/news/top-contributor-palm-valley-capital-125644538.html"
         }
     ],
-    "Avg Score": 0.6101142857142856
+    "avgScore": 0.6101142857142857,
+    "todayPctChange": -0.03556187740984771,
+    "vScore": -2.169680943456823
 }

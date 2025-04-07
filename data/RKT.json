@@ -1,14 +1,14 @@
 {
-    "Important Articles": [
+    "importantArticles": [
         {
-            "headline": "Shares of the mortgage-servicing company Mr. Cooper Group (NASDAQ: COOP) had blasted 16.3% higher at 10:38 a.m. ET, after the company announced that it had agreed to be acquired by the mortgage giant Rocket Companies.  Rocket plans to buy Mr. Cooper Group in an all-stock deal that values the company at $9.4 billion, or $143.33 per share.  Mr. Cooper Group's chairman and CEO, Jay Bray, will become chairman and CEO of Rocket Mortgage upon the deal's closing, and two members of Mr. Cooper Group will join the company's board.",
-            "publication_date": "2025-03-31T15:18:49.000Z",
+            "headline": "Rocket Companies (NYSE:RKT) recently announced plans to acquire Mr. Cooper Group and Redfin, alongside a special dividend and corporate governance changes, which have collectively contributed to a 40% rise in the company's share price over the last quarter. These developments underscore a focus on expansion and shareholder returns, aligning with an impressive financial recovery, including a substantial rise in earnings for Q4 2024. This performance stands out amid broader market declines,...",
+            "publication_date": "2025-04-05T18:41:55.000Z",
             "sentiment": "Positive",
-            "sentimentScore": "0.8555",
-            "source": "Motley Fool",
+            "sentimentScore": "0.8402",
+            "source": "Simply Wall St.",
             "ticker": "RKT",
-            "title": "Why Shares of Mr. Cooper Group Are Blasting Higher Today",
-            "url": "https://finance.yahoo.com/news/why-shares-mr-cooper-group-151849534.html"
+            "title": "Rocket Companies (NYSE:RKT) Climbs 40% Over Last Quarter Following Special Dividend Announcement",
+            "url": "https://finance.yahoo.com/news/rocket-companies-nyse-rkt-climbs-184155713.html"
         },
         {
             "headline": "Shares of the mortgage giant Rocket Companies (NYSE: RKT) were trading about 8% lower at 11:48 a.m. ET today, after the company announced plans to acquire the large mortgage servicing company Mr. Cooper Group.  It's clear that Rocket is trying to consolidate and gain market share amid a challenging high-interest-rate environment that has now dogged the mortgage sector for the last few years.  A few weeks ago, Rocket announced that it would acquire Redfin\u00a0in a $1.75 billion deal.",
@@ -61,5 +61,7 @@
             "url": "https://finance.yahoo.com/news/m-watch-buy-surge-rocket-220500588.html"
         }
     ],
-    "Avg Score": 0.3288666666666667
+    "avgScore": 0.30735625,
+    "todayPctChange": 0.10017830480288759,
+    "vScore": 3.0790428095572517
 }

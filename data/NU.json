@@ -1,15 +1,5 @@
 {
-    "Important Articles": [
-        {
-            "headline": "When individuals look to buy bank stocks, it's usually with their stability and, perhaps, a dividend in mind.  If you're looking for some great bank stocks, I recommend Ally (NYSE: ALLY), which is your reliable dividend-paying bank stock, as well as Nu Holdings (NYSE: NU) and SoFi Technologies (NASDAQ: SOFI), which are both excellent growth stocks.",
-            "publication_date": "2025-03-05T11:15:00.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.9325",
-            "source": "Motley Fool",
-            "ticker": "NU",
-            "title": "3 No-Brainer Bank Stocks to Buy Right Now for Less Than $500",
-            "url": "https://finance.yahoo.com/news/3-no-brainer-bank-stocks-111500043.html"
-        },
+    "importantArticles": [
         {
             "headline": "The 9th Annual FinTech Breakthrough Awards have highlighted the ongoing advancements in the FinTech sector, with a strong emphasis on digital payments and related technologies. This year's awards showcase innovations that are shaping the digital payment landscape, such as embedded finance, artificial intelligence, and blockchain. These technologies are driving enhanced user experiences and operational efficiencies, reflecting the industry's rapid evolution. As demand for seamless digital...",
             "publication_date": "2025-03-24T12:07:26.000Z",
@@ -31,24 +21,24 @@
             "url": "https://finance.yahoo.com/news/nu-holdings-nyse-nu-shows-172506298.html"
         },
         {
-            "headline": "Few can question the fact that the proposed Trump tariffs have rattled investors.  Fortunately for investors, 74% of the world's economic activity takes place outside of the U.S. This allows investors to sidestep the tariff wars by investing internationally.  To that end, one digital bank has prospered by making the financial system more accessible in the countries in which it operates, meaning it will likely prosper despite rising levies on goods entering the U.S.",
-            "publication_date": "2025-03-12T11:43:00.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.5574",
-            "source": "Motley Fool",
+            "headline": "We recently published a list of 10 Best Foreign Stocks to Buy According to Billionaires. In this article, we are going to take a look at where Nu Holdings Ltd. (NYSE:NU) stands against other best foreign stocks to invest in. The global economy demonstrated resilience in 2024, maintaining a steady annualized growth rate of 3.2% [\u2026]",
+            "publication_date": "2025-04-02T21:27:00.000Z",
+            "sentiment": "Positive",
+            "sentimentScore": "0.9001",
+            "source": "Insider Monkey",
             "ticker": "NU",
-            "title": "Trump Tariffs: Time to Buy the Dip on This International Stock",
-            "url": "https://finance.yahoo.com/news/trump-tariffs-time-buy-dip-114300941.html"
+            "title": "Nu Holdings Ltd. (NU): Among the Best Foreign Stocks to Buy According to Billionaires",
+            "url": "https://finance.yahoo.com/news/nu-holdings-ltd-nu-among-212700808.html"
         },
         {
-            "headline": "Nu (NU) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
-            "publication_date": "2025-03-19T13:00:14.000Z",
+            "headline": "Admittedly, one can hardly blame investors for losing patience with Roku (NASDAQ: ROKU).  After reaching a closing price of nearly $480 per share in the summer of 2021, Roku went on to lose more than 90% of its value by the end of 2022.  With its mostly neutral platform and wide audience, Roku has become the leading marketplace for streaming services, viewers, and advertisers to find one another.",
+            "publication_date": "2025-04-06T08:11:00.000Z",
             "sentiment": "Negative",
-            "sentimentScore": "-0.1621",
-            "source": "Zacks",
+            "sentimentScore": "-0.2516",
+            "source": "Motley Fool",
             "ticker": "NU",
-            "title": "Nu Holdings Ltd. (NU) is Attracting Investor Attention: Here is What You Should Know",
-            "url": "https://finance.yahoo.com/news/nu-holdings-ltd-nu-attracting-130014661.html"
+            "title": "3 Stocks That Could Turn $1,000 Into $5,000 by 2030",
+            "url": "https://finance.yahoo.com/news/3-stocks-could-turn-1-081100710.html"
         },
         {
             "headline": "Nu Holdings Ltd. (NU) reachead $10.59 at the closing of the latest trading day, reflecting a +1.53% change compared to its last close.",
@@ -59,7 +49,19 @@
             "ticker": "NU",
             "title": "Nu Holdings Ltd. (NU) Laps the Stock Market: Here's Why",
             "url": "https://finance.yahoo.com/news/nu-holdings-ltd-nu-laps-215016612.html"
+        },
+        {
+            "headline": "Nu and Coupang could eclipse the Bitcoin hoarder's market cap by early 2027.",
+            "publication_date": "2025-03-30T11:45:00.000Z",
+            "sentiment": "Neutral",
+            "sentimentScore": "0.0",
+            "source": "Motley Fool",
+            "ticker": "NU",
+            "title": "Prediction: These 2 Stocks Will Be Worth More Than Strategy 2 Years From Now",
+            "url": "https://finance.yahoo.com/news/prediction-2-stocks-worth-more-114500760.html"
         }
     ],
-    "Avg Score": 0.49476000000000014
+    "avgScore": 0.448705,
+    "todayPctChange": -0.023409623073929707,
+    "vScore": -1.050401492138763
 }

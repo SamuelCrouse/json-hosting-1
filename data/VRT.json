@@ -1,15 +1,5 @@
 {
-    "Important Articles": [
-        {
-            "headline": "It's been a while since data center equipment company Vertiv's (NYSE: VRT) stock looked like a great value, but that time has come around again.  The ongoing demand for artificial intelligence (AI) applications creates unprecedented data growth, which only means more investment in data centers.  The good news is that the broad-based sell-off in the Nasdaq Composite (NASDAQINDEX: ^IXIC)\u00a0and some near-term negative news have brought stocks like Vertiv back into value range, and now could be a great time to buy the stock on a dip.",
-            "publication_date": "2025-03-19T13:44:00.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.9757",
-            "source": "Motley Fool",
-            "ticker": "VRT",
-            "title": "Could This Nvidia Partner Be a Hidden Gem That Boosts Your Portfolio?",
-            "url": "https://finance.yahoo.com/news/could-nvidia-partner-hidden-gem-134400103.html"
-        },
+    "importantArticles": [
         {
             "headline": "Many artificial intelligence (AI) stocks have sold off recently, presenting compelling buying opportunities for patient investors.  Here's why Vertiv Holdings (NYSE: VRT) and Nebius Group (NASDAQ: NBIS) stand out as two exciting AI stocks -- and why Nvidia is also an incredible buying opportunity hiding in plain sight.  Daniel Foelber (Nvidia): Despite blowout earnings and impressive new product innovations, Nvidia stock is down over 12% year to date at the time of this writing.",
             "publication_date": "2025-03-26T10:45:00.000Z",
@@ -29,6 +19,16 @@
             "ticker": "VRT",
             "title": "Down 13% to 41%, These 3 Nvidia Partners Are Raging Buys",
             "url": "https://finance.yahoo.com/news/down-13-41-3-nvidia-140500391.html"
+        },
+        {
+            "headline": "VRT's strong portfolio and rich partner base, along with growing demand for AI infrastructure, are driving growth despite tariff concerns and stretched valuation.",
+            "publication_date": "2025-04-01T18:01:00.000Z",
+            "sentiment": "Positive",
+            "sentimentScore": "0.8658",
+            "source": "Zacks",
+            "ticker": "VRT",
+            "title": "Vertiv Shares Attracting Huge Volume: Should You Join the Rush?",
+            "url": "https://finance.yahoo.com/news/vertiv-shares-attracting-huge-volume-180100415.html"
         },
         {
             "headline": "We recently published a list of AI Stocks Dominate Wednesday\u2019s 10 Worst Performers. In this article, we are going to take a look at where Vertiv Holdings Co. (NYSE:VRT) stands against other AI stocks that dominate Wednesday\u2019s worst performers. Wall Street\u2019s major indices ended in the negative territory on Wednesday as investors parked funds to [\u2026]",
@@ -61,5 +61,7 @@
             "url": "https://finance.yahoo.com/news/top-stock-movers-now-nvidia-155508336.html"
         }
     ],
-    "Avg Score": 0.3244526315789473
+    "avgScore": 0.24163888888888893,
+    "todayPctChange": -0.02988727796894875,
+    "vScore": -0.7221928640330146
 }

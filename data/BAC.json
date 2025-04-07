@@ -1,5 +1,5 @@
 {
-    "Important Articles": [
+    "importantArticles": [
         {
             "headline": "We recently published a list of 10 Best Financial Stocks to Buy According to Billionaires. In this article, we are going to take a look at where Bank of America Corporation (NYSE:BAC) stands against other best financial stocks to invest in. Financial stocks had a great run in 2024, jumping over 30% by mid-December and [\u2026]",
             "publication_date": "2025-04-01T14:03:42.000Z",
@@ -41,6 +41,16 @@
             "url": "https://finance.yahoo.com/news/yardeni-says-us-stock-swoon-061327242.html"
         },
         {
+            "headline": "(Bloomberg) -- The S&P 500 Index declined to the lowest level in 11 months, slashing $5.4 trillion in market value in just two sessions as Federal Reserve Chairman Jerome Powell said the Trump administration\u2019s tariffs \u201ccould have a persistent impact on inflation.\u201dMost Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersLocal Governments Vie for Fired Federal WorkersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesWhat Would \u2018Transportation Abundance\u2019",
+            "publication_date": "2025-04-04T20:26:32.000Z",
+            "sentiment": "Negative",
+            "sentimentScore": "-0.7096",
+            "source": "Bloomberg",
+            "ticker": "BAC",
+            "title": "US Stock Market Wipes Out Over $5 Trillion on Trump\u2019s Tariff War",
+            "url": "https://finance.yahoo.com/news/us-stock-market-wipes-over-202632831.html"
+        },
+        {
             "headline": "In a tumultuous period marked by a significant market downturn, Bank of America (NYSE:BAC) experienced a share price decline of 13% over the past week. This drop coincides with recent developments, including notable shareholder activism, where the company received several proposals and recommended votes against them, and a leadership change in its India operations. Additionally, the market's overall turbulence, driven by global trade tensions and fears of an economic recession, compounded the...",
             "publication_date": "2025-04-04T17:32:02.000Z",
             "sentiment": "Negative",
@@ -49,17 +59,9 @@
             "ticker": "BAC",
             "title": "Bank of America (NYSE:BAC) Sees 13% Weekly Dip Amid Leadership Change in India",
             "url": "https://finance.yahoo.com/news/bank-america-nyse-bac-sees-173202035.html"
-        },
-        {
-            "headline": "(Bloomberg) -- Wall Street trading desks disagree on many things, but there\u2019s one view they now seem to share: President Donald Trump\u2019s looming tariff announcement will likely exacerbate the S&P 500 Index selloff, at least in the near term.Most Read from BloombergMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Frank Lloyd Wright Learned From the DesertLocal Governments Vie for Fired Federal WorkersBan",
-            "publication_date": "2025-04-02T09:30:00.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.6369",
-            "source": "Bloomberg",
-            "ticker": "BAC",
-            "title": "Wall Street Trading Desks Warn S&P 500 Selloff Will Get Worse",
-            "url": "https://finance.yahoo.com/news/wall-street-trading-desks-warn-093000222.html"
         }
     ],
-    "Avg Score": 0.1245
+    "avgScore": 0.06787777777777779,
+    "todayPctChange": -0.03456511378057145,
+    "vScore": -0.23462031120612337
 }

@@ -1,5 +1,15 @@
 {
-    "Important Articles": [
+    "importantArticles": [
+        {
+            "headline": "The recent market sell-off has opened the door for some good buying opportunities in growth stocks.  Down just over 20% from its highs, Amazon (NASDAQ: AMZN) is trading at one of its lowest valuations in its history with a trailing price-to-earnings ratio (P/E) of around 34.  The company's cloud computing business, Amazon Web Services (AWS), has been its biggest growth driver, as the company helps customers create and deploy their own artificial intelligence (AI) models and apps on its platform through the help of its Bedrock and SageMaker services.",
+            "publication_date": "2025-04-05T22:14:00.000Z",
+            "sentiment": "Positive",
+            "sentimentScore": "0.9584",
+            "source": "Motley Fool",
+            "ticker": "GOOG",
+            "title": "4 Growth Stocks Down 20% or More to Buy Right Now",
+            "url": "https://finance.yahoo.com/news/4-growth-stocks-down-20-221400511.html"
+        },
         {
             "headline": "We recently published a list of 11 Best Innovative Stocks to Buy According to Analysts. In this article, we are going to take a look at where Alphabet Inc. (NASDAQ:GOOGL) stands against other best innovative stocks to buy according to analysts. Innovative stocks are the companies that continuously invest in developing new products, services or [\u2026]",
             "publication_date": "2025-04-04T22:16:37.000Z",
@@ -11,44 +21,14 @@
             "url": "https://finance.yahoo.com/news/alphabet-inc-googl-best-innovative-221637473.html"
         },
         {
-            "headline": "The great news is companies have an easy way of managing the situation, and announcing this particular move usually gets investors pretty pumped up.  A great example is Alphabet (NASDAQ: GOOG) (NASDAQ: GOOGL), which split its stock back in 2022 and has since seen the shares climb more than 40%.  Is the tech powerhouse ripe for another split?",
-            "publication_date": "2025-04-04T08:10:00.000Z",
+            "headline": "Growth stocks are not for the faint of heart.  In bear markets -- like the one investors are experiencing in April 2025 for the Nasdaq Composite Index -- growth stocks are going to tumble amid a lot of volatility.  As of this writing, many of your favorite growth stocks are down 20%, 30%, or more in just a short few months.",
+            "publication_date": "2025-04-06T16:45:00.000Z",
             "sentiment": "Positive",
-            "sentimentScore": "0.9477",
+            "sentimentScore": "0.9062",
             "source": "Motley Fool",
             "ticker": "GOOG",
-            "title": "Stock-Split Watch: Is Alphabet Next?",
-            "url": "https://finance.yahoo.com/news/stock-split-watch-alphabet-next-081000764.html"
-        },
-        {
-            "headline": "Flexera has introduced Cloud License Management, a solution designed to enhance the management of cloud software expenditures, which have become a significant concern for organizations with cloud spend challenges surpassing even security issues. This new tool allows organizations to gain a comprehensive understanding of their cloud software investments across platforms like Amazon Web Services and Microsoft Azure. By providing a unified view of cloud software spend, along with actionable...",
-            "publication_date": "2025-04-04T12:07:44.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.9432",
-            "source": "Simply Wall St.",
-            "ticker": "GOOG",
-            "title": "Latest News In Cloud AI - Optimizing Cloud Costs Flexera's Latest Management Tool",
-            "url": "https://finance.yahoo.com/news/latest-news-cloud-ai-optimizing-120744376.html"
-        },
-        {
-            "headline": "(Bloomberg) -- The retail traders who have stormed the markets in recent years were among the only investors buying on Thursday as US stocks had their worst day since June 2020.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Would \u2018Transportation Abundance\u2019 Look Like?Small investor",
-            "publication_date": "2025-04-03T20:38:38.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.8126",
-            "source": "Bloomberg",
-            "ticker": "GOOG",
-            "title": "Retail Traders Step In to Buy as Others Flee in Tariff Rout",
-            "url": "https://finance.yahoo.com/news/retail-traders-step-buy-others-203838411.html"
-        },
-        {
-            "headline": "The whole U.S. stock market is feeling the pain from the sweeping new tariffs that President Trump announced Wednesday after the market closed.  As of 1:10 p.m. ET Thursday, the blue chip Dow Jones Industrial Average had fallen by over 1,300 points (3.1%), the broad market S&P 500 was off by 3.9%, and the tech-heavy Nasdaq Composite was down by 4.9%.  At that time, shares of Apple (NASDAQ: AAPL) traded more than 8% lower, Meta Platforms (NASDAQ: META) was down more than 6%, and shares of Alphabet (NASDAQ: GOOGL) were off by more than 3%.",
-            "publication_date": "2025-04-03T18:27:12.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.5209",
-            "source": "Motley Fool",
-            "ticker": "GOOG",
-            "title": "Trump's \"Reciprocal Tariffs\": Why Major AI Stocks Apple, Meta, and Alphabet (Google) Are Feeling the Heat Today",
-            "url": "https://finance.yahoo.com/news/trumps-reciprocal-tariffs-why-major-182712090.html"
+            "title": "2 Growth Stocks That Could Go Parabolic",
+            "url": "https://finance.yahoo.com/news/2-growth-stocks-could-parabolic-164500774.html"
         },
         {
             "headline": "We recently published a list of Jim Cramer\u2019s Thoughts on Liberation Day, Tariffs, and 17 Stocks to Watch Right Now. In this article, we are going to take a look at where Alphabet Inc. (NASDAQ:GOOGL) stands against other stocks that Jim Cramer discusses. On Tuesday, April 1st, the host of Mad Money opened the show [\u2026]",
@@ -59,7 +39,29 @@
             "ticker": "GOOG",
             "title": "Jim Cramer on Alphabet (GOOGL): \u201cI\u2019ve Left Google\u2014And I\u2019m Not Looking Back!\u201d",
             "url": "https://finance.yahoo.com/news/jim-cramer-alphabet-googl-ve-221047765.html"
+        },
+        {
+            "headline": "Wall Street analysts are becoming increasingly bearish on Tesla (NASDAQ: TSLA).  Following the car maker's first-quarter deliveries announcement, Wedbush analyst Daniel Ives called the report a \"disaster\" and said CEO Elon Musk needs to \"get his act together.\"  Wells Fargo analyst Colin Langan, meanwhile, has been far more critical of the stock, with an \"underweight\" rating and $130 price target on it.",
+            "publication_date": "2025-04-06T09:50:00.000Z",
+            "sentiment": "Negative",
+            "sentimentScore": "-0.1513",
+            "source": "Motley Fool",
+            "ticker": "GOOG",
+            "title": "A Wall Street Analyst Says Tesla Stock Could Plunge 50%. Is It Time to Sell the Stock?",
+            "url": "https://finance.yahoo.com/news/wall-street-analyst-says-tesla-095000283.html"
+        },
+        {
+            "headline": "We recently published a list of Jim Cramer Raises Big Question About Tariffs & Discusses These 11 Stocks. In this article, we are going to take a look at where Alphabet Inc. (NASDAQ:GOOGL) stands against other stocks that Jim Cramer discusses. In a recent appearance on CNBC\u2019s Squawk on the Street, Jim Cramer asked the [\u2026]",
+            "publication_date": "2025-04-05T17:43:18.000Z",
+            "sentiment": "Neutral",
+            "sentimentScore": "0.0",
+            "source": "Insider Monkey",
+            "ticker": "GOOG",
+            "title": "Jim Cramer Finally Sells Alphabet (GOOGL): \u2018We Don\u2019t Google Anymore \u2013 It\u2019s the New Kodak\u2019",
+            "url": "https://finance.yahoo.com/news/jim-cramer-finally-sells-alphabet-174318740.html"
         }
     ],
-    "Avg Score": 0.31357812499999993
+    "avgScore": 0.47221111111111125,
+    "todayPctChange": -0.017795981826900783,
+    "vScore": -0.8403460351793962
 }

@@ -1,5 +1,5 @@
 {
-    "Important Articles": [
+    "importantArticles": [
         {
             "headline": "We recently published a list of 10 Best Steel Stocks to Buy According to Billionaires. In this article, we are going to take a look at where Cleveland-Cliffs Inc. (NYSE:CLF) stands against other best steel stocks to buy according to billionaires. The steel sector remains vital to global infrastructure and manufacturing, and continuous growth is [\u2026]",
             "publication_date": "2025-03-18T14:17:55.000Z",
@@ -61,5 +61,7 @@
             "url": "https://finance.yahoo.com/news/steelmaker-lay-off-600-employees-200704354.html"
         }
     ],
-    "Avg Score": 0.154974358974359
+    "avgScore": 0.154974358974359,
+    "todayPctChange": 0.008701949665774842,
+    "vScore": 0.13485790712805937
 }

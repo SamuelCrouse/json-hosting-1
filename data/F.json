@@ -1,5 +1,25 @@
 {
-    "Important Articles": [
+    "importantArticles": [
+        {
+            "headline": "NEO Battery Materials Ltd. has entered a collaboration agreement with Elementium Materials Inc. to enhance NEO's silicon battery platform using advanced electrolyte technology. This partnership aims to improve battery stability and electrochemical performance, particularly in ultra-fast charging and discharging, by leveraging Elementium's advanced electrolytes. The collaboration is expected to benefit high-demand markets such as power tools, humanoid robots, drones, and aerospace systems,...",
+            "publication_date": "2025-04-02T12:07:11.000Z",
+            "sentiment": "Positive",
+            "sentimentScore": "0.9022",
+            "source": "Simply Wall St.",
+            "ticker": "F",
+            "title": "Electric Vehicles Today - Battery Leap: NEO and Elementium's High-Performance Collaboration",
+            "url": "https://finance.yahoo.com/news/electric-vehicles-today-battery-leap-120711145.html"
+        },
+        {
+            "headline": "DETROIT (Reuters) -Ford Motor announced discounts across multiple models starting Thursday, leaning on its healthy inventory to offer customers thousands of dollars off as competitors hike prices to absorb tariff costs.  Ford will offer employee pricing - a discounted rate available to its workers - to all customers, the company confirmed, after Reuters reported the news Wednesday.  The incentives apply to much of its lineup, including vehicles like the Mustang Mach-E and Maverick that are built in Mexico.",
+            "publication_date": "2025-04-02T23:27:49.000Z",
+            "sentiment": "Positive",
+            "sentimentScore": "0.7717",
+            "source": "Reuters",
+            "ticker": "F",
+            "title": "Ford offers across-the-board discounts, jumping on recent tariff-induced sales bump",
+            "url": "https://finance.yahoo.com/news/exclusive-ford-offer-across-board-232749435.html"
+        },
         {
             "headline": "The global EV fuse market is projected to grow significantly, reaching an anticipated value of US$ 5.6 billion by 2031, according to a report by Stratview Research. This growth accompanies an annual rate of 13.9% from 2024 to 2031, driven by the increasing adoption of electric vehicles (EVs) including battery electric vehicles (BEVs) and hybrid electric vehicles (HEVs). The market segmentation includes various types of fuses used across different applications, with low-voltage fuses...",
             "publication_date": "2025-04-04T10:09:37.000Z",
@@ -11,24 +31,14 @@
             "url": "https://finance.yahoo.com/news/electric-vehicles-today-accelerating-growth-100937547.html"
         },
         {
-            "headline": "DEARBORN, Mich., April 04, 2025--Ford Motor Company and Ford Motor Credit Company will release first-quarter 2025 financial results at 4:05 p.m. ET on Monday, May 5.",
-            "publication_date": "2025-04-04T13:00:00.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.3818",
-            "source": "Business Wire",
+            "headline": "The major averages were sharply lower again near noon, continuing yesterday\u2019s post-tariff slide. China has retaliated with additional tariffs of 34% on all U.S. goods a day after the Trump administration imposed its own sweeping levies. Meanwhile, the latest U.S. jobs data show that nonfarm payrolls rose by a higher-than-forecast 228,000 jobs, though the unemployment rate has ticked higher. Looking to commodities, oil prices are sharply lower due to a planned output increase promised by OPEC+ as",
+            "publication_date": "2025-04-05T16:10:32.000Z",
+            "sentiment": "Negative",
+            "sentimentScore": "-0.6808",
+            "source": "TipRanks",
             "ticker": "F",
-            "title": "Ford to Report Q1 2025 Financial Results on May 5",
-            "url": "https://finance.yahoo.com/news/ford-report-q1-2025-financial-130000115.html"
-        },
-        {
-            "headline": "From price hikes to expanded incentives and even layoffs, automakers are responding to President Trump\u2019s unprecedented tariffs that are sending shockwaves through the industry.",
-            "publication_date": "2025-04-03T17:50:33.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.3182",
-            "source": "Yahoo Finance",
-            "ticker": "F",
-            "title": "From layoffs to incentives: How automakers are responding to Trump's tariffs",
-            "url": "https://finance.yahoo.com/news/from-layoffs-to-incentives-how-automakers-are-responding-to-trumps-tariffs-175013781.html"
+            "title": "China announces retaliatory tariffs, U.S. unemployment rises: Morning Buzz",
+            "url": "https://finance.yahoo.com/news/china-announces-retaliatory-tariffs-u-161032836.html"
         },
         {
             "headline": "Trump's tariffs have thrown the auto industry into turmoil, with Canada hitting back. Consumers and automakers now brace up for rising costs and disruptions.",
@@ -49,17 +59,9 @@
             "ticker": "F",
             "title": "Carmakers Idle Plants, Rethink Prices as Trump\u2019s Tariffs Hit",
             "url": "https://finance.yahoo.com/news/trump-25-us-auto-import-105245329.html"
-        },
-        {
-            "headline": "We recently published a list of Jim Cramer Discusses These 10 Stocks & Wonders If Trump Will Try Firing The Fed Chairman. In this article, we are going to take a look at where Ford Motor Company (NYSE:F) stands against other stocks that Jim Cramer discussed. In a recent appearance on CNBC\u2019s Squawk on the [\u2026]",
-            "publication_date": "2025-04-03T11:34:28.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.34",
-            "source": "Insider Monkey",
-            "ticker": "F",
-            "title": "Jim Cramer on Ford Motor Company (F): I\u2019d Rather Have Musk\u2019s EV Company Be Like It",
-            "url": "https://finance.yahoo.com/news/jim-cramer-ford-motor-company-113428333.html"
         }
     ],
-    "Avg Score": 0.011892307692307685
+    "avgScore": 0.07871851851851852,
+    "todayPctChange": 0.02566842367127674,
+    "vScore": 0.2020580284108577
 }

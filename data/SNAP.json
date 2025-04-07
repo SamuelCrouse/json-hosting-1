@@ -1,5 +1,5 @@
 {
-    "Important Articles": [
+    "importantArticles": [
         {
             "headline": "The ongoing market correction is hitting tech stocks particularly hard. Some popular social media and internet stocks are now significantly lower than their 52-week highs. Shares of Meta Platforms (META), the $1.5 trillion-dollar gorilla in the social media space, are down 22.2% from recent highs. Meanwhile, shares of other popular social media stocks like Pinterest (PINS) and Snapchat (SNAP) are down 30.4% and 48.7%, respectively. Let\u2019s examine these three social media stocks to determine which",
             "publication_date": "2025-04-01T11:59:03.000Z",
@@ -21,14 +21,14 @@
             "url": "https://finance.yahoo.com/news/snap-inc-snap-best-ai-133006986.html"
         },
         {
-            "headline": "We recently published a list of Was Jim Cramer\u2019s Call Right on These 10 Stocks? In this article, we are going to take a look at where Snap Inc. (NYSE:SNAP) stands against other stocks that Jim Cramer discussed 12 months ago. Back then, the show was heavily focused on the biggest media companies and how [\u2026]",
-            "publication_date": "2025-03-29T20:05:26.000Z",
+            "headline": "We recently published a list of Top 10 Stocks to Buy According to SRS Investment Management. In this article, we are going to take a look at where Snap Inc. (NYSE:SNAP) stands against other top stocks to buy according to SRS Investment Management. SRS Investment Management is a New York-based investment firm founded in 2006 by [\u2026]",
+            "publication_date": "2025-03-30T12:39:23.000Z",
             "sentiment": "Positive",
             "sentimentScore": "0.3818",
             "source": "Insider Monkey",
             "ticker": "SNAP",
-            "title": "Snap Inc. (SNAP): Jim Cramer\u2019s Reality Check \u2013 Why Snapchat\u2019s CEO Needs to Change Course",
-            "url": "https://finance.yahoo.com/news/snap-inc-snap-jim-cramer-200526813.html"
+            "title": "Is Snap Inc. (SNAP) the Top Stock to Buy According to SRS Investment Management?",
+            "url": "https://finance.yahoo.com/news/snap-inc-snap-top-stock-123923262.html"
         },
         {
             "headline": "BofA notes that President Trump\u2019s newly announced tariffs were larger than anticipated and are \u201ca direct negative\u201d for discretionary retail sales and advertising. In addition, the potential for increasing recession fears fueled by the tariffs are \u201ca relative negative for the entire Internet sector,\u201d which the analyst notes underperformed in 2008 and 2022 as fears of a recession grew. The \u201conly potential silver lining\u201d is that proposed rates could be viewed as a negotiation tool that may not be f",
@@ -61,5 +61,7 @@
             "url": "https://finance.yahoo.com/news/wall-street-now-hates-these-10-stocks-because-of-trump-tariffs-135445636.html"
         }
     ],
-    "Avg Score": 0.05552777777777777
+    "avgScore": 0.055527777777777766,
+    "todayPctChange": 0.015792798560005997,
+    "vScore": 0.08769390089292217
 }

@@ -1,5 +1,5 @@
 {
-    "Important Articles": [
+    "importantArticles": [
         {
             "headline": "MARA Holdings (NasdaqCM:MARA) experienced a significant share price movement, rising 13% over the last week. This increase came on the heels of MARA Holdings announcing the appointment of PricewaterhouseCoopers LLP as its new independent registered public accounting firm, succeeding Marcum LLP. Despite the market's modest 1.8% rise during the same period, MARA's performance seems particularly strong, potentially reflecting investor confidence following recent notable earnings growth. This...",
             "publication_date": "2025-03-25T17:48:13.000Z",
@@ -41,16 +41,6 @@
             "url": "https://finance.yahoo.com/video/tesla-apples-dei-vote-bitcoin-171650837.html"
         },
         {
-            "headline": "Yahoo Finance host Josh Lipton examines the top stories on Wall Street as part of today's Market Minute. Home Depot (HD) stock jumps after the company narrowly beat earnings estimates and issued cautious full-year guidance. Hims & Hers (HIMS) shares collapse on the company's confirmation that it would stop selling compounded versions of weight-loss drugs after the US Food and Drug Administration (FDA) announced there is no longer a shortage of semaglutide drugs. Crypto-related stocks like Coinbase (COIN), Riot (RIOT), and MARA Holdings (MARA) tumble as bitcoin (BTC-USD) hits its lowest level in three months. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute. This post was written by Naomi Buchanan.",
-            "publication_date": "2025-02-25T16:21:52.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.8658",
-            "source": "Yahoo Finance Video",
-            "ticker": "MARA",
-            "title": "Home Depot, Hims & Hers, bitcoin and crypto stocks: Market Minute",
-            "url": "https://finance.yahoo.com/video/home-depot-hims-hers-bitcoin-162152945.html"
-        },
-        {
             "headline": "We recently compiled a list of the 10 Firms Suffer Steep Downfall on Monday. In this article, we are going to take a look at where MARA Holdings, Inc. (NASDAQ:MARA) stands against the other stocks. Ten companies kicked off Monday\u2019s trading in a bloodbath, mirroring the broader market pessimism, with valuations slashed by double digits mostly [\u2026]",
             "publication_date": "2025-03-11T18:27:09.000Z",
             "sentiment": "Negative",
@@ -59,7 +49,19 @@
             "ticker": "MARA",
             "title": "Why MARA Holdings, Inc. (MARA) Crashed on Monday",
             "url": "https://finance.yahoo.com/news/why-mara-holdings-inc-mara-182709450.html"
+        },
+        {
+            "headline": "As bitcoin, ethereum and other cryptocurrencies get increasing attention from investors, Wall Street and its traditional banks continue to adjust to the shift. Catch up on this week\u2019s top stories highlighting the intersection of these old guard and new school areas of finance with this recap compiled by The Fly. BINANCE FOUNDER DENIES REPORT ON TRUMP TALKS: On Thursday, The Wall Street Journal\u2019s Rebecca Ballhaus, Patricia Kowsmann, Angus Berwick, Josh Dawsey and Caitlin Ostroff reported that rep",
+            "publication_date": "2025-03-15T13:51:05.000Z",
+            "sentiment": "Negative",
+            "sentimentScore": "-0.4084",
+            "source": "TipRanks",
+            "ticker": "MARA",
+            "title": "Crypto Currents: Binance founder denies report on Trump talks",
+            "url": "https://finance.yahoo.com/news/crypto-currents-binance-founder-denies-135105365.html"
         }
     ],
-    "Avg Score": 0.19346857142857146
+    "avgScore": 0.1817421052631579,
+    "todayPctChange": 0.022192018696163076,
+    "vScore": 0.40332241978800376
 }

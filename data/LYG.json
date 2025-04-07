@@ -1,5 +1,5 @@
 {
-    "Important Articles": [
+    "importantArticles": [
         {
             "headline": "Discover the best credit cards to save money, earn rewards and travel smarter.",
             "publication_date": "2025-03-19T11:56:34.000Z",
@@ -42,16 +42,6 @@
         },
         {
             "headline": "Find out the latest mortgage rates and deals from HSBC, NatWest, Santander, Barclays and more.",
-            "publication_date": "2025-03-27T09:30:52.000Z",
-            "sentiment": "Neutral",
-            "sentimentScore": "0.0",
-            "source": "Yahoo Finance UK",
-            "ticker": "LYG",
-            "title": "Mortgage rates to stay higher for longer amid high inflation",
-            "url": "https://finance.yahoo.com/news/best-uk-mortgage-deals-week-093052798.html"
-        },
-        {
-            "headline": "Find out the latest mortgage rates and deals from HSBC, NatWest, Santander, Barclays and more.",
             "publication_date": "2025-04-03T13:03:48.000Z",
             "sentiment": "Neutral",
             "sentimentScore": "0.0",
@@ -59,7 +49,19 @@
             "ticker": "LYG",
             "title": "What Trump's tariffs could mean for UK mortgage rates",
             "url": "https://finance.yahoo.com/news/uk-mortgage-rates-deals-trump-tariffs-trade-130347384.html"
+        },
+        {
+            "headline": "Find out the latest mortgage rates and deals from HSBC, NatWest, Santander, Barclays and more.",
+            "publication_date": "2025-03-27T09:30:52.000Z",
+            "sentiment": "Neutral",
+            "sentimentScore": "0.0",
+            "source": "Yahoo Finance UK",
+            "ticker": "LYG",
+            "title": "Mortgage rates to stay higher for longer amid high inflation",
+            "url": "https://finance.yahoo.com/news/best-uk-mortgage-deals-week-093052798.html"
         }
     ],
-    "Avg Score": 0.3608388888888888
+    "avgScore": 0.3608388888888889,
+    "todayPctChange": -0.024495688024825765,
+    "vScore": -0.8838996849446991
 }

@@ -1,5 +1,5 @@
 {
-    "Important Articles": [
+    "importantArticles": [
         {
             "headline": "We recently published a list of 11 Best Innovative Stocks to Buy According to Analysts. In this article, we are going to take a look at where Broadcom Inc. (NASDAQ:AVGO) stands against other best innovative stocks to buy according to analysts. Innovative stocks are the companies that continuously invest in developing new products, services or [\u2026]",
             "publication_date": "2025-04-04T22:17:38.000Z",
@@ -31,26 +31,6 @@
             "url": "https://finance.yahoo.com/news/broadcom-avgo-upgraded-japanese-firm-152930912.html"
         },
         {
-            "headline": "(Bloomberg) -- In a quarter marred by tariff uncertainty, US government spending cuts and the threat of recession, it is fears about a bubble brewing in artificial intelligence that have dealt the latest blow to the Nasdaq 100.Most Read from BloombergWhat Frank Lloyd Wright Learned From the DesertGold-Rush Fever Returns to Historic New Zealand Mining TownBank Regulators Fight for Desks as OCC Returns to New York TowerLondon Clears Final Hurdle for More High-Speed Trains to EuropeLocal Government",
-            "publication_date": "2025-04-01T09:36:18.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.8957",
-            "source": "Bloomberg",
-            "ticker": "AVGO",
-            "title": "Nasdaq 100\u2019s Worst Quarter in Years Sealed by AI Bubble Fears",
-            "url": "https://finance.yahoo.com/news/nasdaq-100-worst-quarter-years-093618789.html"
-        },
-        {
-            "headline": "Broadcom (NasdaqGS:AVGO) recently announced its collaboration with Audi on the Edge Cloud 4 Production initiative, aimed at modernizing manufacturing through virtual technologies. Despite this positive technological development, the company's stock experienced a 9.74% decline over the past week. This drop coincided with a broader tech sector sell-off driven by weak consumer sentiment and higher-than-expected inflation reports. The market saw notable declines in major indexes, with the...",
-            "publication_date": "2025-03-28T17:37:09.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.8129",
-            "source": "Simply Wall St.",
-            "ticker": "AVGO",
-            "title": "Broadcom (NasdaqGS:AVGO) Collaborates With Audi For Smart Manufacturing Amid 10% Share Price Dip",
-            "url": "https://finance.yahoo.com/news/broadcom-nasdaqgs-avgo-collaborates-audi-173709912.html"
-        },
-        {
             "headline": "(Bloomberg) -- Roughly $2.5 trillion was erased from the S&P 500 Index on Thursday amid worries that President Donald Trump\u2019s sweeping new round of tariffs could plunge the economy into a recession.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Would \u2018Transportation Abundance\u2019 Loo",
             "publication_date": "2025-04-03T20:13:46.000Z",
             "sentiment": "Negative",
@@ -59,7 +39,29 @@
             "ticker": "AVGO",
             "title": "Trump Tariffs Wipe Out $2.5 Trillion From US Stock Market",
             "url": "https://finance.yahoo.com/news/trump-tariffs-set-wipe-nearly-120038363.html"
+        },
+        {
+            "headline": "Semiconductor stocks drop sharply amid tariff concerns, pushing the Nasdaq into bear market territory",
+            "publication_date": "2025-04-04T18:07:11.000Z",
+            "sentiment": "Negative",
+            "sentimentScore": "-0.2732",
+            "source": "GuruFocus.com",
+            "ticker": "AVGO",
+            "title": "Nvidia, Marvell, and Broadcom Plunge as Nasdaq Enters Bear Market",
+            "url": "https://finance.yahoo.com/news/nvidia-marvell-broadcom-plunge-nasdaq-180711210.html"
+        },
+        {
+            "headline": "From AI to video gaming, these companies will grow by leaps and bounds from 2025 onward.",
+            "publication_date": "2025-04-06T08:15:00.000Z",
+            "sentiment": "Neutral",
+            "sentimentScore": "0.0",
+            "source": "Motley Fool",
+            "ticker": "AVGO",
+            "title": "5 Leading Tech Stocks to Buy in 2025",
+            "url": "https://finance.yahoo.com/news/5-leading-tech-stocks-buy-081500401.html"
         }
     ],
-    "Avg Score": 0.3716474999999999
+    "avgScore": 0.425875,
+    "todayPctChange": -0.0064537837495759,
+    "vScore": -0.2748505154350636
 }

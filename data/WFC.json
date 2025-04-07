@@ -1,15 +1,5 @@
 {
-    "Important Articles": [
-        {
-            "headline": "NEW YORK (Reuters) -Investors and analysts are more hopeful the asset cap on Wells Fargo will be lifted this year after the bank managed to close five regulatory actions in 2025, making its shares more attractive.  Since January, the bank has closed two consent orders by the Federal Reserve, two by the Office of the Comptroller of Currency and one by the Consumer Finance Protection Bureau.  It has three remaining consent orders -- an enforcement action involving a fine or specific directive to address an issue by the regulators.",
-            "publication_date": "2025-03-19T10:04:18.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.9464",
-            "source": "Reuters",
-            "ticker": "WFC",
-            "title": "Investors hopeful Wells Fargo asset cap will be removed in 2025",
-            "url": "https://finance.yahoo.com/news/investors-hopeful-wells-fargo-asset-100418116.html"
-        },
+    "importantArticles": [
         {
             "headline": "We recently published a list of 10 Best Financial Stocks to Buy According to Billionaires. In this article, we are going to take a look at where Wells Fargo & Company (NYSE:WFC) stands against other best financial stocks to invest in. Financial stocks had a great run in 2024, jumping over 30% by mid-December and [\u2026]",
             "publication_date": "2025-04-01T14:02:28.000Z",
@@ -31,14 +21,14 @@
             "url": "https://finance.yahoo.com/news/why-wells-fargo-wfc-great-154508737.html"
         },
         {
-            "headline": "BCS wins dismissal of two U.S. securities fraud lawsuits linked to overissuance of $17.7B debt over regulatory limits as court perceives no intent of fraud.",
-            "publication_date": "2025-03-25T16:41:00.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.7906",
-            "source": "Zacks",
+            "headline": "The announcement that Wells Fargo (NYSE:WFC) Securities, LLC will lead underwrite the company's upcoming fixed-income offering is significant as it expands its financial services presence. Meanwhile, activist investors have been vocal, with several proposals up for discussion at the annual meeting next month, focusing on sustainability and governance. Amidst this, Wells Fargo's share price fell 14% over the past week, a move that coincided with a turbulent stock market driven by trade war...",
+            "publication_date": "2025-04-05T17:53:37.000Z",
+            "sentiment": "Positive",
+            "sentimentScore": "0.8225",
+            "source": "Simply Wall St.",
             "ticker": "WFC",
-            "title": "Barclays Prevails in Two Lawsuits Over $17.7B Securities Overissuance",
-            "url": "https://finance.yahoo.com/news/barclays-prevails-two-lawsuits-over-164100290.html"
+            "title": "Wells Fargo (NYSE:WFC) Sees 14% Weekly Drop As Activist Investors Push Sustainability Proposals",
+            "url": "https://finance.yahoo.com/news/wells-fargo-nyse-wfc-sees-175337335.html"
         },
         {
             "headline": "(Bloomberg) -- A Bloomberg gauge of the dollar dropped the most on record as fears grew that President Donald Trump\u2019s sweeping trade tariffs would batter the US economy.Most Read from BloombergMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeHousing Agency Aims to Relocate Its DC HeadquartersWhat Would \u2018Transportation Abundance\u2019 Look Like?The Bloomberg Dollar S",
@@ -59,7 +49,19 @@
             "ticker": "WFC",
             "title": "Wells Fargo (WFC) On the Brink of a Comeback \u2013 Jim Cramer Cheers \u2018A New Era for Bank Regulation!\u2019",
             "url": "https://finance.yahoo.com/news/wells-fargo-wfc-brink-comeback-144627436.html"
+        },
+        {
+            "headline": "We all know that the banking business isn't subject to tariffs. But as cyclical operators, their business is heavily exposed to trends in the broader economy, which in turn is seen as weighed down by the ongoing tariffs uncertainty.",
+            "publication_date": "2025-04-05T00:48:00.000Z",
+            "sentiment": "Negative",
+            "sentimentScore": "-0.5499",
+            "source": "Zacks",
+            "ticker": "WFC",
+            "title": "A Closer Look at Bank Stocks & Tariff Worries",
+            "url": "https://finance.yahoo.com/news/closer-look-bank-stocks-tariff-004800860.html"
         }
     ],
-    "Avg Score": 0.3406972222222223
+    "avgScore": 0.25841666666666663,
+    "todayPctChange": -0.035471126276201956,
+    "vScore": -0.9166330215208521
 }

@@ -1,5 +1,5 @@
 {
-    "Important Articles": [
+    "importantArticles": [
         {
             "headline": "NEW YORK, April 03, 2025 (GLOBE NEWSWIRE) -- Verizon today announced the next evolution of its multi-year consumer business transformation, with a strong value commitment designed to strengthen long-term customer relationships across its mobile and home portfolio. This strategic advancement builds on the company\u2019s successful execution of myPlan and myHome, positioning Verizon to further extend its industry leadership. \u201cToday marks the next strategic step of the consumer business transformation j",
             "publication_date": "2025-04-03T12:00:00.000Z",
@@ -31,6 +31,16 @@
             "url": "https://finance.yahoo.com/news/why-verizon-communications-vz-top-135007653.html"
         },
         {
+            "headline": "Legendary investor Bill Gross told investors that they shouldn\u2019t try to buy the dip after the worst stock-market drop since the pandemic.",
+            "publication_date": "2025-04-04T10:07:00.000Z",
+            "sentiment": "Negative",
+            "sentimentScore": "-0.8519",
+            "source": "MarketWatch",
+            "ticker": "VZ",
+            "title": "Don\u2019t buy the dip, legendary investor Bill Gross warns. He likes three stocks for now.",
+            "url": "https://finance.yahoo.com/news/don-t-buy-dip-legendary-100700130.html"
+        },
+        {
             "headline": "The market (^GSPC,&nbsp;^IXIC,&nbsp;^DJI) outlook is uncertain, with a potentially rough earnings season ahead due to factors like tariffs, slower consumer spending, and business uncertainty. Chris Versace, Tematica Research chief investment officer, joins Catalysts host Madison Mills to share his insights on defensive stocks to buy amid market uncertainty. To watch more expert insights and analysis on the latest market action, check out more Catalysts&nbsp;here.",
             "publication_date": "2025-04-02T15:01:46.000Z",
             "sentiment": "Negative",
@@ -39,16 +49,6 @@
             "ticker": "VZ",
             "title": "Top defensive stock picks as tariffs, market uncertainty loom",
             "url": "https://finance.yahoo.com/video/top-defensive-stock-picks-tariffs-150146097.html"
-        },
-        {
-            "headline": "Verizon (VZ) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
-            "publication_date": "2025-03-31T13:00:12.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.1621",
-            "source": "Zacks",
-            "ticker": "VZ",
-            "title": "Verizon Communications Inc. (VZ) is Attracting Investor Attention: Here is What You Should Know",
-            "url": "https://finance.yahoo.com/news/verizon-communications-inc-vz-attracting-130012089.html"
         },
         {
             "headline": "Verizon Communications (VZ) concluded the recent trading session at $45.38, signifying a +0.04% move from its prior day's close.",
@@ -61,5 +61,7 @@
             "url": "https://finance.yahoo.com/news/verizon-communications-vz-rises-trails-214515057.html"
         }
     ],
-    "Avg Score": 0.41355882352941176
+    "avgScore": 0.38406666666666667,
+    "todayPctChange": -0.04695465503731813,
+    "vScore": -1.8033717844665984
 }

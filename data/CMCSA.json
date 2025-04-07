@@ -1,5 +1,5 @@
 {
-    "Important Articles": [
+    "importantArticles": [
         {
             "headline": "Prestigious International Awards Program Recognizes Outstanding Data Technology Products and CompaniesLOS ANGELES, April 03, 2025 (GLOBE NEWSWIRE) -- Data Breakthrough, an independent market intelligence organization that recognizes the top companies, technologies and products in the global data technology market, today announced that DataBee\u00ae, a Comcast Company, which developed and provides the DataBee security data fabric platform, has been selected as the winner of the \u201cData Management Soluti",
             "publication_date": "2025-04-03T14:15:00.000Z",
@@ -61,5 +61,7 @@
             "url": "https://finance.yahoo.com/news/comcast-corporation-cmcsa-trending-stock-130008603.html"
         }
     ],
-    "Avg Score": 0.3857
+    "avgScore": 0.3973777777777778,
+    "todayPctChange": -0.04818929687525494,
+    "vScore": -1.9149355704962419
 }

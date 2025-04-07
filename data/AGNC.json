@@ -1,5 +1,5 @@
 {
-    "Important Articles": [
+    "importantArticles": [
         {
             "headline": "A decade is a very long time on Wall Street, but I'm confident in my thinking that AGNC Investment's (NASDAQ: AGNC) shares will be worth less than those of Prologis (NYSE: PLD) and Rexford Industrial (NYSE: REXR) in 10 years.  Here's why I believe investors who want a combination of income and capital appreciation will likely be better off with these two property-owning real estate investment trusts over mortgage-focused AGNC.  What does AGNC Investment do?",
             "publication_date": "2025-04-02T07:14:00.000Z",
@@ -41,16 +41,6 @@
             "url": "https://finance.yahoo.com/news/why-14-yielding-dividend-stock-211621495.html"
         },
         {
-            "headline": "The latest trading day saw AGNC Investment (AGNC) settling at $9.34, representing a -1.48% change from its previous close.",
-            "publication_date": "2025-04-03T21:45:13.000Z",
-            "sentiment": "Neutral",
-            "sentimentScore": "0.0",
-            "source": "Zacks",
-            "ticker": "AGNC",
-            "title": "AGNC Investment (AGNC) Stock Moves -1.48%: What You Should Know",
-            "url": "https://finance.yahoo.com/news/agnc-investment-agnc-stock-moves-214513762.html"
-        },
-        {
             "headline": "AGNC Investment (AGNC) closed at $9.58 in the latest trading session, marking a +0.63% move from the prior day.",
             "publication_date": "2025-03-31T21:50:15.000Z",
             "sentiment": "Neutral",
@@ -59,7 +49,19 @@
             "ticker": "AGNC",
             "title": "AGNC Investment (AGNC) Laps the Stock Market: Here's Why",
             "url": "https://finance.yahoo.com/news/agnc-investment-agnc-laps-stock-215015501.html"
+        },
+        {
+            "headline": "The latest trading day saw AGNC Investment (AGNC) settling at $9.34, representing a -1.48% change from its previous close.",
+            "publication_date": "2025-04-03T21:45:13.000Z",
+            "sentiment": "Neutral",
+            "sentimentScore": "0.0",
+            "source": "Zacks",
+            "ticker": "AGNC",
+            "title": "AGNC Investment (AGNC) Stock Moves -1.48%: What You Should Know",
+            "url": "https://finance.yahoo.com/news/agnc-investment-agnc-stock-moves-214513762.html"
         }
     ],
-    "Avg Score": 0.43533499999999997
+    "avgScore": 0.43533499999999997,
+    "todayPctChange": -0.02124123847453233,
+    "vScore": -0.9247054551310531
 }

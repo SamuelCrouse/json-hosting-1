@@ -1,5 +1,15 @@
 {
-    "Important Articles": [
+    "importantArticles": [
+        {
+            "headline": "It wasn't that long ago that Nio (NYSE: NIO) seemed poised to post a breakout fourth quarter.  It had a good third quarter when it improved vehicle margins amid a challenging environment, and it had launched yet another brand, Firefly, that was positioned to drive the top line even higher throughout 2025.  One of the largest reasons to buy into Nio's vision was that the previously mentioned new brands are set to drive deliveries higher and thus generate strong revenue growth.",
+            "publication_date": "2025-04-05T12:45:00.000Z",
+            "sentiment": "Positive",
+            "sentimentScore": "0.9501",
+            "source": "Motley Fool",
+            "ticker": "NIO",
+            "title": "What in the World Happened to Nio?",
+            "url": "https://finance.yahoo.com/news/world-happened-nio-124500218.html"
+        },
         {
             "headline": "NEO Battery Materials Ltd. has entered a collaboration agreement with Elementium Materials Inc. to enhance NEO's silicon battery platform using advanced electrolyte technology. This partnership aims to improve battery stability and electrochemical performance, particularly in ultra-fast charging and discharging, by leveraging Elementium's advanced electrolytes. The collaboration is expected to benefit high-demand markets such as power tools, humanoid robots, drones, and aerospace systems,...",
             "publication_date": "2025-04-02T12:07:11.000Z",
@@ -21,16 +31,6 @@
             "url": "https://finance.yahoo.com/news/chinas-xpeng-clocks-record-q1-112132970.html"
         },
         {
-            "headline": "NIO (NIO) announced the pricing of its upsized HK$4,030.13M offering of 136,800,000 class A ordinary shares of the Company at an offering price of HK$29.46 per Placement Share. The Placement Shares have been offered to non-U.S. persons in offshore transactions in reliance on Regulation S under the Securities Act of 1933, as amended. The Company expects to close the Equity Placement on or about April 7, 2025, subject to the satisfaction of customary closing conditions. Morgan Stanley Asia, UBS AG",
-            "publication_date": "2025-03-28T13:26:02.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.8658",
-            "source": "TipRanks",
-            "ticker": "NIO",
-            "title": "Nio prices 136.8M shares at HK$29.46 in upzised offering",
-            "url": "https://finance.yahoo.com/news/nio-prices-136-8m-shares-132602244.html"
-        },
-        {
             "headline": "Nio (NYSE: NIO) is a fast-growing company looking to capitalize on China's growing electric vehicle (EV) market.  It has carved out a niche in the industry with its battery swap business.  Pricing wars have put pressure on margins, and the ongoing trade tensions in the U.S. and Europe weigh heavily on the business.",
             "publication_date": "2025-03-29T08:19:00.000Z",
             "sentiment": "Negative",
@@ -41,6 +41,16 @@
             "url": "https://finance.yahoo.com/news/buy-nio-while-below-6-081900030.html"
         },
         {
+            "headline": "The major averages were sharply lower again near noon, continuing yesterday\u2019s post-tariff slide. China has retaliated with additional tariffs of 34% on all U.S. goods a day after the Trump administration imposed its own sweeping levies. Meanwhile, the latest U.S. jobs data show that nonfarm payrolls rose by a higher-than-forecast 228,000 jobs, though the unemployment rate has ticked higher. Looking to commodities, oil prices are sharply lower due to a planned output increase promised by OPEC+ as",
+            "publication_date": "2025-04-05T16:10:32.000Z",
+            "sentiment": "Negative",
+            "sentimentScore": "-0.6808",
+            "source": "TipRanks",
+            "ticker": "NIO",
+            "title": "China announces retaliatory tariffs, U.S. unemployment rises: Morning Buzz",
+            "url": "https://finance.yahoo.com/news/china-announces-retaliatory-tariffs-u-161032836.html"
+        },
+        {
             "headline": "Stock index futures are experiencing early declines amid investor apprehension surrounding President Donald Trump\u2019s impending \u201cLiberation Day\u201d tariffs, set to be introduced tomorrow. In the commodities market, gold prices have surged to new record highs as investors seek safe-haven assets amid escalating trade tensions. Spot gold briefly surpassed $3,170 per ounce, highlighting the prevailing market anxiety. \u200bMeanwhile, oil prices have exhibited modest gains. Investors are closely monitoring dev",
             "publication_date": "2025-04-02T12:56:06.000Z",
             "sentiment": "Negative",
@@ -49,17 +59,9 @@
             "ticker": "NIO",
             "title": "Morning Movers: Johnson & Johnson slips after rejection of Talc case settlement",
             "url": "https://finance.yahoo.com/news/morning-movers-johnson-johnson-slips-125606830.html"
-        },
-        {
-            "headline": "The EV stock hit a 52-week low and is dirt cheap right now, but you must pay attention to a few things.",
-            "publication_date": "2025-04-04T15:11:11.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.431",
-            "source": "Motley Fool",
-            "ticker": "NIO",
-            "title": "Why Nio Stock Plunged 17.7% in March",
-            "url": "https://finance.yahoo.com/news/why-nio-stock-plunged-17-151111729.html"
         }
     ],
-    "Avg Score": 0.19904500000000003
+    "avgScore": 0.18291,
+    "todayPctChange": -0.030855576928144186,
+    "vScore": -0.5643793575926852
 }

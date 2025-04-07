@@ -1,5 +1,5 @@
 {
-    "Important Articles": [
+    "importantArticles": [
         {
             "headline": "SoFi Technologies (NasdaqGS:SOFI) has recently secured a significant $5 billion agreement with Blue Owl Capital to bolster its Loan Platform Business, focusing on personal loans. This development aligns with SoFi's efforts to diversify its revenue streams and likely supported the 11% increase in the company's share price over the past week. Meanwhile, as the broader market climbed 2% over the same period, driven by gains in major indices like the S&P 500 and Nasdaq, SoFi's performance...",
             "publication_date": "2025-03-25T17:46:53.000Z",
@@ -61,5 +61,7 @@
             "url": "https://finance.yahoo.com/news/jim-cramer-sofi-technologies-sofi-192348685.html"
         }
     ],
-    "Avg Score": 0.4123684210526316
+    "avgScore": 0.42213684210526325,
+    "todayPctChange": -0.06093364854416815,
+    "vScore": -2.5722337974387113
 }

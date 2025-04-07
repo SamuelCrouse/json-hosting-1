@@ -1,5 +1,15 @@
 {
-    "Important Articles": [
+    "importantArticles": [
+        {
+            "headline": "We recently published a list of Starter Stock Portfolio 12 Safe Stocks to Buy. In this article, we are going to take a look at where Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) stands against other best beginner stocks. The US stock market has experienced a turbulent first quarter of 2025, marked by increased volatility and [\u2026]",
+            "publication_date": "2025-04-06T20:46:46.000Z",
+            "sentiment": "Positive",
+            "sentimentScore": "0.8074",
+            "source": "Insider Monkey",
+            "ticker": "TSM",
+            "title": "Is Taiwan Semiconductor Manufacturing (TSM) the Best Beginner Stock?",
+            "url": "https://finance.yahoo.com/news/taiwan-semiconductor-manufacturing-tsm-best-204646784.html"
+        },
         {
             "headline": "The tech-heavy Nasdaq Composite (^IXIC) is set to enter a bear market. Futurum Group CEO Daniel Newman joins Catalysts with Madison Mills and Lumida Wealth Management CEO Ram Ahluwalia to discuss what President Donald Trump's new tariffs mean for tech CEOs and their artificial intelligence (AI) spending. To watch more expert insights and analysis on the latest market action, check out more Catalysts here.",
             "publication_date": "2025-04-04T17:00:00.000Z",
@@ -19,16 +29,6 @@
             "ticker": "TSM",
             "title": "2 Monster Stocks to Hold for the Next 5 Years",
             "url": "https://finance.yahoo.com/news/2-monster-stocks-hold-next-123000551.html"
-        },
-        {
-            "headline": "Three companies that top my list as the best stocks to buy during a crash are Taiwan Semiconductor Manufacturing (NYSE: TSM), MercadoLibre (NASDAQ: MELI), and CrowdStrike (NASDAQ: CRWD).  Each has a unique reason for being on the list, and all of the underlying companies are well-positioned to be OK in nearly any downturn.  Taiwan Semiconductor is a chip foundry, meaning it fabricates chips for those who cannot do so themselves.",
-            "publication_date": "2025-04-04T10:17:00.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.7378",
-            "source": "Motley Fool",
-            "ticker": "TSM",
-            "title": "3 Brilliant Stocks That I'm Buying if the Stock Market Crashes",
-            "url": "https://finance.yahoo.com/news/3-brilliant-stocks-im-buying-101700718.html"
         },
         {
             "headline": "Investing.com -- Citi analysts are skeptical about reports that Intel (NASDAQ:INTC) and TSMC are considering a joint venture, arguing that such a move would not be successful given fundamental differences in operations.",
@@ -51,15 +51,17 @@
             "url": "https://finance.yahoo.com/news/worst-case-scenario-tech-wipes-081406416.html"
         },
         {
-            "headline": "(Bloomberg) -- Shares of Dell Technologies Inc., Apple Inc., Sonos Inc. and HP Inc. plunged Thursday after President Donald Trump announced sweeping tariffs on imports from virtually every US trading partner, a move that threatens to increase costs, slow demand and strain global supply chains.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon C",
-            "publication_date": "2025-04-03T20:30:48.000Z",
+            "headline": "Taiwan Semiconductor Manufacturing (NYSE: TSM), popularly known as TSMC, is having a forgettable 2025 so far despite starting the year on a bright note.  TSMC's pullback is a result of the overall negativity in tech stocks on the back of the tariffs imposed by the Trump administration.  It is feared that the tariff war will lead to an increase in manufacturing costs for technology companies that make products outside the U.S., bumping up the cost of deploying artificial intelligence (AI) data centers and forcing tech giants to rein in their spending.",
+            "publication_date": "2025-04-06T14:45:00.000Z",
             "sentiment": "Negative",
-            "sentimentScore": "-0.5267",
-            "source": "Bloomberg",
+            "sentimentScore": "-0.1531",
+            "source": "Motley Fool",
             "ticker": "TSM",
-            "title": "Dell, Apple Fall as Tariffs Threaten to Hit Hardware Hardest",
-            "url": "https://finance.yahoo.com/news/dell-apple-fall-tariffs-threaten-182540079.html"
+            "title": "1 Magnificent Artificial Intelligence (AI) Stock Down 25% to Buy Hand Over Fist Before April 17",
+            "url": "https://finance.yahoo.com/news/1-magnificent-artificial-intelligence-ai-144500196.html"
         }
     ],
-    "Avg Score": 0.1708388888888889
+    "avgScore": 0.24215263157894737,
+    "todayPctChange": -0.023627308164777455,
+    "vScore": -0.572141484922761
 }

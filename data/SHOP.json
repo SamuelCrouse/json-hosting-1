@@ -1,5 +1,25 @@
 {
-    "Important Articles": [
+    "importantArticles": [
+        {
+            "headline": "Shopify (NYSE:SHOP) experienced a 13% price increase over the last week, likely influenced by its recent strategic partnership with Braze, enhancing personalized shopper experiences and real-time insights. This collaboration introduces cross-channel solutions beneficial for brands like e.l.f. Beauty and Hugo Boss. Additionally, the market rebounded slightly, with indices such as the S&P 500 and Nasdaq showing modest gains, potentially contributing to the positive sentiment around Shopify. The...",
+            "publication_date": "2025-03-25T17:46:17.000Z",
+            "sentiment": "Positive",
+            "sentimentScore": "0.9531",
+            "source": "Simply Wall St.",
+            "ticker": "SHOP",
+            "title": "Shopify (NYSE:SHOP) Sees 13% Weekly Rise On Braze Partnership",
+            "url": "https://finance.yahoo.com/news/shopify-nyse-shop-sees-13-174617415.html"
+        },
+        {
+            "headline": "Don't let market volatility convince you otherwise: Investing in stocks remains one of the best ways to accumulate capital over long periods.  Companies that can last -- and thrive -- that long are rare, but let's consider two brilliant examples investors should strongly consider today: Eli Lilly (NYSE: LLY) and Shopify (NYSE: SHOP).  Eli Lilly, a leading pharmaceutical company, develops and markets therapies across various areas, including immunology, oncology, and especially endocrine disorders like diabetes.",
+            "publication_date": "2025-03-26T10:05:00.000Z",
+            "sentiment": "Positive",
+            "sentimentScore": "0.9392",
+            "source": "Motley Fool",
+            "ticker": "SHOP",
+            "title": "2 No-Brainer Growth Stocks to Buy and Hold Forever",
+            "url": "https://finance.yahoo.com/news/2-no-brainer-growth-stocks-100500437.html"
+        },
         {
             "headline": "Growth stocks can help you compound your savings many times over.  The important thing is to maintain a long-term perspective, because even the best companies will occasionally see their share prices fall.  Three Fool.com contributors believe Shopify (NYSE: SHOP), e.l.f.",
             "publication_date": "2025-03-29T12:07:00.000Z",
@@ -9,26 +29,6 @@
             "ticker": "SHOP",
             "title": "3 Magnificent Growth Stocks to Buy Hand Over Fist With $500",
             "url": "https://finance.yahoo.com/news/3-magnificent-growth-stocks-buy-120700890.html"
-        },
-        {
-            "headline": "We recently published a list of 10 Best Foreign Stocks to Buy According to Billionaires. In this article, we are going to take a look at where Shopify Inc. (NYSE:SHOP) stands against other best foreign stocks to invest in. The global economy demonstrated resilience in 2024, maintaining a steady annualized growth rate of 3.2% in [\u2026]",
-            "publication_date": "2025-04-01T13:46:34.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.9001",
-            "source": "Insider Monkey",
-            "ticker": "SHOP",
-            "title": "Shopify Inc. (SHOP): Among the Best Foreign Stocks to Buy According to Billionaires",
-            "url": "https://finance.yahoo.com/news/shopify-inc-shop-among-best-134634203.html"
-        },
-        {
-            "headline": "Whether you're a value, growth, or momentum investor, finding strong stocks becomes easier with the Zacks Style Scores, a top feature of the Zacks Premium research service.",
-            "publication_date": "2025-04-04T13:45:08.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.8979",
-            "source": "Zacks",
-            "ticker": "SHOP",
-            "title": "Why This 1 Growth Stock Could Be a Great Addition to Your Portfolio",
-            "url": "https://finance.yahoo.com/news/why-1-growth-stock-could-134508503.html"
         },
         {
             "headline": "We recently published a list of Jim Cramer\u2019s Latest Lightning Round: 7 Stocks in Focus. In this article, we are going to take a look at where Shopify Inc. (NYSE:SHOP) stands against other stocks in focus in Jim Cramer\u2019s latest lightning round. On Tuesday, Jim Cramer, host of Mad Money, spoke about the declining consumer [\u2026]",
@@ -61,5 +61,7 @@
             "url": "https://finance.yahoo.com/news/shopify-inc-shop-trending-stock-130011823.html"
         }
     ],
-    "Avg Score": 0.30290000000000006
+    "avgScore": 0.39169230769230773,
+    "todayPctChange": -0.0016971558991894745,
+    "vScore": -0.06647629106671388
 }

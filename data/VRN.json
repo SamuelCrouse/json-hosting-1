@@ -1,5 +1,5 @@
 {
-    "Important Articles": [
+    "importantArticles": [
         {
             "headline": "Whitecap Resources Inc. (\"Whitecap\") (TSX: WCP) and Veren Inc. (\"Veren\") (TSX: VRN) (NYSE: VRN) are pleased to announce a strategic combination to create a leading light oil and condensate producer with concentrated assets in the Alberta Montney and Duvernay. The combined company will be the largest Alberta Montney and Duvernay landholder, a prominent light oil producer in Saskatchewan and will leverage the combined asset base and technical expertise to drive improved profitability and superior",
             "publication_date": "2025-03-10T10:00:00.000Z",
@@ -9,16 +9,6 @@
             "ticker": "VRN",
             "title": "WHITECAP RESOURCES AND VEREN TO COMBINE IN A $15 BILLION TRANSACTION TO CREATE A LEADING CANADIAN LIGHT OIL AND CONDENSATE PRODUCER",
             "url": "https://finance.yahoo.com/news/whitecap-resources-veren-combine-15-100000906.html"
-        },
-        {
-            "headline": "Veren Inc. (\"Veren\", or the \"Company\") (TSX: VRN) (NYSE: VRN) is pleased to announce that it has successfully closed its previously announced disposition of certain non-core assets in Saskatchewan for $600 million in cash (approximately $540 million including closing adjustments).",
-            "publication_date": "2024-06-14T20:15:00.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.836",
-            "source": "CNW Group",
-            "ticker": "VRN",
-            "title": "Veren Announces Closing of Non-Core Asset Disposition",
-            "url": "https://finance.yahoo.com/news/veren-announces-closing-non-core-201500648.html"
         },
         {
             "headline": "Key Insights Using the 2 Stage Free Cash Flow to Equity, Veren fair value estimate is CA$13.31 Veren's CA$7.57 share...",
@@ -31,6 +21,16 @@
             "url": "https://finance.yahoo.com/news/investors-undervaluing-veren-inc-tse-104637490.html"
         },
         {
+            "headline": "Veren Inc. (\"Veren\", or the \"Company\") (TSX and NYSE: VRN) confirms the filing of its Annual Information Form (\"AIF\") for the year ended December 31, 2024, with the Canadian securities regulatory authorities on the System for Electronic Analysis and Retrieval (\"SEDAR+\"). In addition, Veren has filed its Form 40-F for the year ended December 31, 2024, which includes the AIF, with the United States Securities and Exchange Commission on the Electronic Data Gathering, Analysis and Retrieval (\"EDGAR\"",
+            "publication_date": "2025-02-27T12:20:00.000Z",
+            "sentiment": "Positive",
+            "sentimentScore": "0.7351",
+            "source": "CNW Group",
+            "ticker": "VRN",
+            "title": "Veren Announces Filing of Annual Information Form and Form 40-F",
+            "url": "https://finance.yahoo.com/news/veren-announces-filing-annual-information-122000854.html"
+        },
+        {
             "headline": "Investors were disappointed with Veren Inc.'s ( TSE:VRN ) earnings, despite the strong profit numbers. We did some...",
             "publication_date": "2024-11-07T11:24:52.000Z",
             "sentiment": "Negative",
@@ -41,16 +41,6 @@
             "url": "https://finance.yahoo.com/news/veren-tse-vrn-posted-healthy-112452285.html"
         },
         {
-            "headline": "Veren Inc. (\"Veren\", or the \"Company\") (TSX: VRN) (NYSE: VRN) has priced an offering of CDN$1.0 billion aggregate principal amount of senior unsecured notes, consisting of CDN$550 million of 4.968% five-year notes priced at par and due June 2029, and CDN$450 million of 5.503% 10-year notes priced at par and due June 2034 (collectively, the \"Notes\"). The net proceeds will be used to repay existing indebtedness, including fully retiring the Company's bank term loan.",
-            "publication_date": "2024-06-19T21:35:00.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.3818",
-            "source": "CNW Group",
-            "ticker": "VRN",
-            "title": "Veren Announces Offering of Investment-Grade Senior Notes",
-            "url": "https://finance.yahoo.com/news/veren-announces-offering-investment-grade-213500052.html"
-        },
-        {
             "headline": "Investors need to pay close attention to Veren (VRN) stock based on the movements in the options market lately.",
             "publication_date": "2025-02-05T14:43:00.000Z",
             "sentiment": "Negative",
@@ -59,7 +49,19 @@
             "ticker": "VRN",
             "title": "Do Options Traders Know Something About Veren (VRN) Stock We Don't?",
             "url": "https://finance.yahoo.com/news/options-traders-know-something-veren-144300524.html"
+        },
+        {
+            "headline": "Veren Inc. (\"Veren\", or the \"Company\") (TSX: VRN) (NYSE: VRN) plans to report its fourth quarter and full year 2024 financial and operating results via press release prior to the opening of markets on Thursday, February 27, 2025. Veren's management will hold a conference call at 10:00 a.m. MT (12:00 p.m. ET) the same day to discuss the Company's results and outlook.",
+            "publication_date": "2025-02-20T17:00:00.000Z",
+            "sentiment": "Neutral",
+            "sentimentScore": "0.0",
+            "source": "CNW Group",
+            "ticker": "VRN",
+            "title": "Veren Announces Q4 & Full Year 2024 Results Conference Call",
+            "url": "https://finance.yahoo.com/news/veren-announces-q4-full-2024-170000178.html"
         }
     ],
-    "Avg Score": 0.2782968750000001
+    "avgScore": 0.26921000000000006,
+    "todayPctChange": -0.061016970795825846,
+    "vScore": -1.642637870794428
 }

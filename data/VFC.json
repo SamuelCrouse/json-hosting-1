@@ -1,5 +1,5 @@
 {
-    "Important Articles": [
+    "importantArticles": [
         {
             "headline": "SPB faces financial pressures, but strong e-commerce growth, cost savings and pricing strategies can help drive a turnaround in 2025.",
             "publication_date": "2025-03-26T14:29:00.000Z",
@@ -9,16 +9,6 @@
             "ticker": "VFC",
             "title": "Spectrum Brands Trades Near 52-Week Low: Buy, Hold or Sell Stock?",
             "url": "https://finance.yahoo.com/news/spectrum-brands-trades-near-52-142900344.html"
-        },
-        {
-            "headline": "Madison Investments, an investment advisor, released its \u201cMadison Small Cap Fund\u201d fourth-quarter 2024 investor letter. A copy of the letter can be downloaded here. The Madison Small Cap Fund completed a great year in the fourth quarter. For the fourth quarter and the entire year, the fund generated strong absolute and relative returns. Growth continued [\u2026]",
-            "publication_date": "2025-02-17T14:16:35.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.875",
-            "source": "Insider Monkey",
-            "ticker": "VFC",
-            "title": "Should You Invest in VF Corporation (VFC)?",
-            "url": "https://finance.yahoo.com/news/invest-vf-corporation-vfc-141635132.html"
         },
         {
             "headline": "We recently published a list of Michael Burry\u2019s Top Holdings Were Gaining While NVDA Was Crashing. In this article, we are going to take a look at where V.F. Corporation (NYSE:VFC) stands against other Michael Burry\u2019s top Holdings that were gaining while NVDA was crashing. Michael Burry\u2019s name is synonymous with contrarian investing strategies, being [\u2026]",
@@ -31,6 +21,16 @@
             "url": "https://finance.yahoo.com/news/v-f-corporation-vfc-among-134931190.html"
         },
         {
+            "headline": "Key Insights V.F's estimated fair value is US$19.58 based on 2 Stage Free Cash Flow to Equity With US$16.30 share...",
+            "publication_date": "2025-03-14T10:08:32.000Z",
+            "sentiment": "Positive",
+            "sentimentScore": "0.7906",
+            "source": "Simply Wall St.",
+            "ticker": "VFC",
+            "title": "Estimating The Fair Value Of V.F. Corporation (NYSE:VFC)",
+            "url": "https://finance.yahoo.com/news/estimating-fair-value-v-f-100832500.html"
+        },
+        {
             "headline": "We recently published a list of 10 Firms Take a Beating on Tariff Worries. In this article, we are going to take a look at where V.F. Corporation (NYSE:VFC) stands against other Thursday\u2019s worst performers. Wall Street\u2019s three major indices suffered a bloodbath on Thursday as investors continued to digest news of President Donald Trump\u2019s [\u2026]",
             "publication_date": "2025-04-04T11:10:49.000Z",
             "sentiment": "Negative",
@@ -41,25 +41,27 @@
             "url": "https://finance.yahoo.com/news/why-v-f-corporation-vfc-111049824.html"
         },
         {
-            "headline": "We recently compiled a list of the 10 Stocks Drop Double Digits as Investor Caution Lingers. In this article, we are going to take a look at where V.F. Corporation (NYSE:VFC) stands against the other stocks. The stock market fell into the negative territory on Thursday, as investor caution lingered over the ongoing trade tensions among [\u2026]",
-            "publication_date": "2025-03-07T19:45:02.000Z",
+            "headline": "We recently published a list of Was Jim Cramer Right About These 13 Stocks? In this article, we are going to take a look at where VF Corporation (NYSE:VFC) stands against other stocks that Jim Cramer discussed. In the most recent episode of Mad Money, Jim Cramer shared his thoughts on how the government\u2019s approach [\u2026]",
+            "publication_date": "2025-03-27T14:56:34.000Z",
             "sentiment": "Negative",
-            "sentimentScore": "-0.8176",
+            "sentimentScore": "-0.2023",
             "source": "Insider Monkey",
             "ticker": "VFC",
-            "title": "Why V.F. Corporation (VFC) Crashed on Thursday",
-            "url": "https://finance.yahoo.com/news/why-v-f-corporation-vfc-194502249.html"
+            "title": "Was Jim Cramer Right About VF Corporation (VFC)?",
+            "url": "https://finance.yahoo.com/news/jim-cramer-vf-corporation-vfc-145634689.html"
         },
         {
-            "headline": "We recently compiled a list of the 10 Stocks Bear the Brunt of Trade Threats. In this article, we are going to take a look at where V.F. Corporation (NYSE:VFC) stands against the other stocks. Wall Street\u2019s main indices fell further on Tuesday as investors sold off positions to mitigate risks from the ongoing trade tensions [\u2026]",
-            "publication_date": "2025-03-05T18:12:23.000Z",
-            "sentiment": "Negative",
-            "sentimentScore": "-0.765",
-            "source": "Insider Monkey",
+            "headline": "AFRM, TKOMY, FOLD, MASS and VFC have been added to the Zacks Rank #1 (Strong Buy) List on April 1, 2025.",
+            "publication_date": "2025-04-01T10:55:00.000Z",
+            "sentiment": "Neutral",
+            "sentimentScore": "0.0",
+            "source": "Zacks",
             "ticker": "VFC",
-            "title": "Why V.F. Corporation (VFC) Crashed on Tuesday",
-            "url": "https://finance.yahoo.com/news/why-v-f-corporation-vfc-181223431.html"
+            "title": "New Strong Buy Stocks for April 1st",
+            "url": "https://finance.yahoo.com/news/strong-buy-stocks-april-1st-105500463.html"
         }
     ],
-    "Avg Score": 0.21839743589743585
+    "avgScore": 0.35120499999999993,
+    "todayPctChange": 0.07189244818199858,
+    "vScore": 2.5248987263758806
 }

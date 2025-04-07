@@ -1,5 +1,5 @@
 {
-    "Important Articles": [
+    "importantArticles": [
         {
             "headline": "We recently published a list of 12 Best Battery Stocks to Buy According to Billionaires. In this article, we are going to take a look at where Lucid Group, Inc. (NASDAQ:LCID) stands against other best battery stocks to buy according to billionaires. Batteries are essential to our global energy landscape, especially nowadays, as they contribute [\u2026]",
             "publication_date": "2025-03-24T18:30:38.000Z",
@@ -11,16 +11,6 @@
             "url": "https://finance.yahoo.com/news/lucid-group-inc-lcid-best-183038249.html"
         },
         {
-            "headline": "We recently published a list of 15 Best Penny Stocks to Buy According to Billionaires. In this article, we are going to take a look at where Lucid Group, Inc. (NASDAQ:LCID) stands against other best penny stocks to buy according to billionaires. Can Small-Cap Stocks Overtake Large-Caps in 2025? On February 14, Morningstar released a [\u2026]",
-            "publication_date": "2025-03-18T19:42:47.000Z",
-            "sentiment": "Positive",
-            "sentimentScore": "0.8555",
-            "source": "Insider Monkey",
-            "ticker": "LCID",
-            "title": "Lucid Group (LCID): The Best Penny Stock to Buy According to Billionaires",
-            "url": "https://finance.yahoo.com/news/lucid-group-lcid-best-penny-194247983.html"
-        },
-        {
             "headline": "Shares of EV stocks had a great week this week after Luminar Technologies (NASDAQ: LAZR) reported earnings and some competitors fought for market share.  On the plus side, according to data provided by S&P Global Market Intelligence, Luminar Technologies is up 66.3% for the week, Lucid Group (NASDAQ: LCID) jumped 15.3%, and EVgo (NASDAQ: EVGO) is up 13.8% as of 3:30 p.m. ET.",
             "publication_date": "2025-03-21T20:28:05.000Z",
             "sentiment": "Positive",
@@ -29,6 +19,16 @@
             "ticker": "LCID",
             "title": "EV Stocks Soared This Week, but Tesla Lags Competitors",
             "url": "https://finance.yahoo.com/news/ev-stocks-soared-week-tesla-202805481.html"
+        },
+        {
+            "headline": "We recently published a list of Top 10 Trending AI News Updates Investors Should Not Miss. In this article, we are going to take a look at where Lucid Group Inc. (NASDAQ:LCID) stands against other top trending AI news updates investors should not miss. Generative artificial intelligence is the technology that promises to revolutionize the [\u2026]",
+            "publication_date": "2025-03-26T19:21:27.000Z",
+            "sentiment": "Positive",
+            "sentimentScore": "0.8477",
+            "source": "Insider Monkey",
+            "ticker": "LCID",
+            "title": "Lucid Group Inc. (LCID) Strengthens AI Strategy Amid Leadership Shift",
+            "url": "https://finance.yahoo.com/news/lucid-group-inc-lcid-strengthens-192127945.html"
         },
         {
             "headline": "A surprise upgrade sent Lucid soaring, but Wall Street isn't convinced. Is this a real turnaround or a trap?",
@@ -61,5 +61,7 @@
             "url": "https://finance.yahoo.com/news/teslas-pain-ev-stocks-gain-143600614.html"
         }
     ],
-    "Avg Score": 0.2748216216216216
+    "avgScore": 0.27156756756756756,
+    "todayPctChange": -0.023554632059385114,
+    "vScore": -0.639667413331626
 }

@@ -283,6 +283,6 @@ if __name__ == "__main__":
         print(mostActive)
         print(len(mostActive))
         main(mostActive)
-        # break
-        # upf.commit_and_push()
+
+        upf.commit_and_push()
     # """

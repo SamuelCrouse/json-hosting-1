@@ -1,9 +1,34 @@
 {
+    "4 7 2025": {
+        "importantArticles": [
+            {
+                "headline": "A 360-degree turnaround is rapidly consigning work from home culture to the past as sticks replace carrots to herd workers back into offices",
+                "publication_date": "2025-04-07T05:00:17.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Yahoo Finance UK",
+                "ticker": "LYG",
+                "title": "Working from home is turning into 'return to the office or lose your bonus'",
+                "url": "https://finance.yahoo.com/news/work-from-home-return-to-office-lose-bonus-050017122.html"
+            },
+            {
+                "headline": "A 360-degree turnaround is rapidly consigning work from home culture to the past as sticks replace carrots to herd workers back into offices",
+                "publication_date": "2025-04-07T05:00:17.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Yahoo Finance UK",
+                "ticker": "LYG",
+                "title": "Working from home is turning into 'return to the office or lose your bonus'",
+                "url": "https://finance.yahoo.com/news/work-from-home-return-to-office-lose-bonus-050017122.html"
+            }
+        ],
+        "avgScore": 0.0
+    },
     "4 3 2025": {
         "importantArticles": [
             {
                 "headline": "Find out the latest mortgage rates and deals from HSBC, NatWest, Santander, Barclays and more.",
-                "publication_date": "2025-04-03T13:03:48.000Z",
+                "publication_date": "2025-04-03T13:03:47.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
                 "source": "Yahoo Finance UK",
@@ -13,7 +38,7 @@
             },
             {
                 "headline": "Find out the latest mortgage rates and deals from HSBC, NatWest, Santander, Barclays and more.",
-                "publication_date": "2025-04-03T13:03:48.000Z",
+                "publication_date": "2025-04-03T13:03:47.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
                 "source": "Yahoo Finance UK",
@@ -49,5 +74,6 @@
         ],
         "avgScore": 0.6124
     },
-    "coef": 1.0
+    "coef": 0.40926862604293673,
+    "avgCoef": 0.18174821171727448
 }

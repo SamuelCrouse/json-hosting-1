@@ -94,30 +94,6 @@
         ],
         "avgScore": 0.9493
     },
-    "3 31 2025": {
-        "importantArticles": [
-            {
-                "headline": "In the most recent trading session, VALE S.A. (VALE) closed at $9.98, indicating a -0.6% shift from the previous trading day.",
-                "publication_date": "2025-03-31T22:15:15.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "VALE",
-                "title": "VALE S.A. (VALE) Stock Sinks As Market Gains: Here's Why",
-                "url": "https://finance.yahoo.com/news/vale-vale-stock-sinks-market-221515121.html"
-            },
-            {
-                "headline": "In the most recent trading session, VALE S.A. (VALE) closed at $9.98, indicating a -0.6% shift from the previous trading day.",
-                "publication_date": "2025-03-31T22:15:15.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "VALE",
-                "title": "VALE S.A. (VALE) Stock Sinks As Market Gains: Here's Why",
-                "url": "https://finance.yahoo.com/news/vale-vale-stock-sinks-market-221515121.html"
-            }
-        ],
-        "avgScore": 0.0
-    },
-    "coef": -0.2732256466948555
+    "coef": 0.6251430200462118,
+    "avgCoef": 0.14318364883025528
 }

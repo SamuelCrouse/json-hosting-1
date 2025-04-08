@@ -1,6 +1,81 @@
 {
+    "4 7 2025": {
+        "importantArticles": [
+            {
+                "headline": "Growth-driven exchange-traded funds (ETFs) -- like the Vanguard Growth ETF (NYSEMKT: VUG) -- have significantly outperformed the S&P 500.  With just a 0.04% expense ratio, the Vanguard Growth ETF is a great way to achieve exposure without racking up high fees.  The Vanguard Growth ETF made an all-time high in December and nearly broke through to a new high in February.",
+                "publication_date": "2025-04-07T12:30:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.891",
+                "source": "Motley Fool",
+                "ticker": "AMZN",
+                "title": "When Will the Ultra-Low-Cost Vanguard Growth ETF Return to Its Previous Highs?",
+                "url": "https://finance.yahoo.com/news/ultra-low-cost-vanguard-growth-123000845.html"
+            },
+            {
+                "headline": "Meat department sales hit record highs in 2024, but there\u2019s room for more innovation and personalized messaging to continue motivating shoppers, according to a report from FMI.",
+                "publication_date": "2025-04-07T10:00:22.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8458",
+                "source": "Grocery Dive",
+                "ticker": "AMZN",
+                "title": "Grocers have the meats",
+                "url": "https://finance.yahoo.com/news/grocers-meats-100022555.html"
+            },
+            {
+                "headline": "Walmart is faring better than Amazon so far as investors weigh the effects of tariffs on U.S. retailers.  Walmart\u2019s share price has dropped almost 6% since tariffs were announced, while Amazon\u2019s has dropped about 9%.  Online and in-person grocery purchases were almost 60% of Walmart\u2019s U.S. revenue in 2024.",
+                "publication_date": "2025-04-07T23:55:11.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7003",
+                "source": "The Wall Street Journal",
+                "ticker": "AMZN",
+                "title": "Is Walmart More Recession-Proof than Amazon?",
+                "url": "https://finance.yahoo.com/m/aca58187-657d-322a-96b3-86f79b77fd0c/is-walmart-more.html"
+            },
+            {
+                "headline": "The markets are undergoing one of the worst stretches in recent memory as Trump tariff fears take hold. Here is what is top of mind with the Yahoo Finance community.",
+                "publication_date": "2025-04-07T12:54:01.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.7269",
+                "source": "Yahoo Finance",
+                "ticker": "AMZN",
+                "title": "'I find it impossible to catch my bearings': Yahoo Finance community reacts to Trump tariff stock market plunge",
+                "url": "https://finance.yahoo.com/news/i-find-it-impossible-to-catch-my-bearings-yahoo-finance-community-reacts-to-trump-tariff-stock-market-plunge-125401044.html"
+            },
+            {
+                "headline": "Amazon.com\u2019s shares rose about 3% Monday, outperforming the Nasdaq Composite index and reversing a rout late last week as investors feared consumers would reduce online spending.  Investment bank Oppenheimer & Co estimated Amazon\u2019s revenue could decline by about 8% due to tariffs, as opposed to 16% for Meta Platforms and 15% for Google.  American shopping habits have increasingly tilted toward online shopping, and e-commerce has grown more entrenched.",
+                "publication_date": "2025-04-07T18:18:44.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.25",
+                "source": "The Wall Street Journal",
+                "ticker": "AMZN",
+                "title": "Amazon Rallies as Investors See More Resilience",
+                "url": "https://finance.yahoo.com/m/77f458fd-a0cd-3600-8314-309e63e9ac92/amazon-rallies-as-investors.html"
+            },
+            {
+                "headline": "We recently published a list of Tariff Hits and More: 10 AI Stocks in the Spotlight. In this article, we are going to take a look at where Amazon.com Inc. (NASDAQ:AMZN) stands against other AI stocks in the spotlight. The newly announced tariffs by U.S. President Donald Trump could have serious consequences for many stocks. [\u2026]",
+                "publication_date": "2025-04-07T18:22:58.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.0772",
+                "source": "Insider Monkey",
+                "ticker": "AMZN",
+                "title": "Amazon (AMZN) May Face $10B Tariff Hit, But AI Strategy and Vendor Flexibility Offer Cushion",
+                "url": "https://finance.yahoo.com/news/amazon-amzn-may-face-10b-182258130.html"
+            }
+        ],
+        "avgScore": 0.25045
+    },
     "4 4 2025": {
         "importantArticles": [
+            {
+                "headline": "Change is good. But companies undergoing \"positive dynamic change\" is even better. That's the stock picking motto of Alger Focus Equity (ALAFX), a 2025 IBD Best Mutual Funds award winner.",
+                "publication_date": "2025-04-04T11:00:24.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9859",
+                "source": "Investor's Business Daily",
+                "ticker": "AMZN",
+                "title": "Best Mutual Funds Like This One Plug Into Future Growth",
+                "url": "https://finance.yahoo.com/m/e3bdc057-4bf9-34a1-a862-8725e84b144c/best-mutual-funds-like-this.html"
+            },
             {
                 "headline": "President Trump promised big tariffs, and he didn't disappoint. Here's what sources are telling Yahoo Finance's newsroom about the tariff impact to certain sectors and asset classes.",
                 "publication_date": "2025-04-04T10:00:56.000Z",
@@ -20,16 +95,6 @@
                 "ticker": "AMZN",
                 "title": "Billionaire David Tepper Is Selling Amazon and Meta Stocks but Betting on Artificial Intelligence (AI) in a Different Way",
                 "url": "https://finance.yahoo.com/news/billionaire-david-tepper-selling-amazon-084700289.html"
-            },
-            {
-                "headline": "Three companies that top my list as the best stocks to buy during a crash are Taiwan Semiconductor Manufacturing (NYSE: TSM), MercadoLibre (NASDAQ: MELI), and CrowdStrike (NASDAQ: CRWD).  Each has a unique reason for being on the list, and all of the underlying companies are well-positioned to be OK in nearly any downturn.  Taiwan Semiconductor is a chip foundry, meaning it fabricates chips for those who cannot do so themselves.",
-                "publication_date": "2025-04-04T10:17:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7378",
-                "source": "Motley Fool",
-                "ticker": "AMZN",
-                "title": "3 Brilliant Stocks That I'm Buying if the Stock Market Crashes",
-                "url": "https://finance.yahoo.com/news/3-brilliant-stocks-im-buying-101700718.html"
             },
             {
                 "headline": "BofA notes that President Trump\u2019s newly announced tariffs were larger than anticipated and are \u201ca direct negative\u201d for discretionary retail sales and advertising. In addition, the potential for increasing recession fears fueled by the tariffs are \u201ca relative negative for the entire Internet sector,\u201d which the analyst notes underperformed in 2008 and 2022 as fears of a recession grew. The \u201conly potential silver lining\u201d is that proposed rates could be viewed as a negotiation tool that may not be f",
@@ -52,17 +117,17 @@
                 "url": "https://finance.yahoo.com/news/worst-case-scenario-tech-wipes-081406416.html"
             },
             {
-                "headline": "We recently published a list of Jim Cramer\u2019s Thoughts on Liberation Day, Tariffs, and 17 Stocks to Watch Right Now. In this article, we are going to take a look at where Amazon.com, Inc. (NASDAQ:AMZN) stands against other stocks that Jim Cramer discusses. On Tuesday, April 1st, the host of Mad Money opened the show [\u2026]",
-                "publication_date": "2025-04-04T22:08:19.000Z",
+                "headline": "Not great. Here's their combined loss of market value Thursday, according to Dow Jones Market Data\u2014a record one-day wipeout: $1.03 trillion lost market value Given their size, those moves translated into huge market-value drops: Apple alone lost $311 billion.",
+                "publication_date": "2025-04-04T13:41:56.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.4939",
-                "source": "Insider Monkey",
+                "sentimentScore": "-0.6242",
+                "source": "The Wall Street Journal",
                 "ticker": "AMZN",
-                "title": "Jim Cramer on Amazon (AMZN): \u201cWhat Can I Say Other Than\u2026 Buy, Buy, Buy!\u201d",
-                "url": "https://finance.yahoo.com/news/jim-cramer-amazon-amzn-other-220819502.html"
+                "title": "How Are the Magnificent Seven Doing After the Tariff News?",
+                "url": "https://finance.yahoo.com/m/2e3e61be-e9b1-3fe9-9262-0e283ca3d0f7/how-are-the-magnificent-seven.html"
             }
         ],
-        "avgScore": 0.08199999999999999
+        "avgScore": 0.07728461538461533
     },
     "4 3 2025": {
         "importantArticles": [
@@ -127,7 +192,7 @@
                 "url": "https://finance.yahoo.com/news/trump-tariffs-set-wipe-nearly-120038363.html"
             }
         ],
-        "avgScore": 0.03890370370370375
+        "avgScore": 0.07369428571428574
     },
     "4 2 2025": {
         "importantArticles": [
@@ -192,7 +257,7 @@
                 "url": "https://finance.yahoo.com/video/tiktok-could-banned-saturday-heres-211901477.html"
             }
         ],
-        "avgScore": 0.3251107142857141
+        "avgScore": 0.3367909090909089
     },
     "4 1 2025": {
         "importantArticles": [
@@ -259,70 +324,6 @@
         ],
         "avgScore": 0.336542105263158
     },
-    "3 31 2025": {
-        "importantArticles": [
-            {
-                "headline": "There aren't many technology companies that can claim they've been a leader in artificial intelligence (AI), but Microsoft (NASDAQ: MSFT) can do so easily.  Microsoft has been gaining on Amazon for years and now has 21% of the market, compared to Amazon's 30%.The cloud was important before artificial intelligence came along, but AI has vastly expanded its value.",
-                "publication_date": "2025-03-31T13:15:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.9658",
-                "source": "Motley Fool",
-                "ticker": "AMZN",
-                "title": "This Artificial Intelligence (AI) Stock Is a \"Magnificent Seven\" Leader. But Is It a Buy?",
-                "url": "https://finance.yahoo.com/news/artificial-intelligence-ai-stock-magnificent-131500347.html"
-            },
-            {
-                "headline": "By Karen Roman Yanolja Co., Ltd. said FY2024 total transaction value increased 186% to 27 trillion Won (USD 18.3 billion) compared to the year prior. Operating revenue rose 22% to reach 924.5 billion Won (USD 625.6 million), with enterprise solutions revenue growing 62% to 292.6 billion Won (USD 198 million), it stated. Adjusted EBITDA was [\u2026]",
-                "publication_date": "2025-03-31T15:09:36.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.9524",
-                "source": "Exec Edge",
-                "ticker": "AMZN",
-                "title": "Yanolja FY Total Transaction Value Soars 186% To Record",
-                "url": "https://finance.yahoo.com/news/yanolja-q4-total-transaction-value-150936798.html"
-            },
-            {
-                "headline": "The market will eventually start rallying again, Joe Tigay, the Principal of Equity Armor Investments recently told The Schwab Network. Tigay suggested two bullish option trades involving Amazon (AMZN) and Alphabet (GOOG,GOOGL). Tigay Is a Big Fan of AMZN \u201cI love Amazon for the short term and the long term,\u201d Tigay enthusiastically said. AMZN is [\u2026]",
-                "publication_date": "2025-03-31T14:45:50.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.91",
-                "source": "Insider Monkey",
-                "ticker": "AMZN",
-                "title": "Analyst Who\u2019s Looking for Market Rally Suggests Bullish AMZN, GOOG Option Strategies",
-                "url": "https://finance.yahoo.com/news/analyst-looking-market-rally-suggests-144550145.html"
-            },
-            {
-                "headline": "We recently published a list of 10 AI Stocks Dominating the News This Week. In this article, we are going to take a look at where Amazon.com, Inc. (NASDAQ:AMZN) stands against other AI stocks dominating the news this week. Elon Musk and OpenAI have jointly proposed to fast-track their trial over OpenAI\u2019s transition to a [\u2026]",
-                "publication_date": "2025-03-31T13:51:40.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.5267",
-                "source": "Insider Monkey",
-                "ticker": "AMZN",
-                "title": "Amazon (AMZN) Taps into Generative AI for Retail Media and Advertising Growth",
-                "url": "https://finance.yahoo.com/news/amazon-amzn-taps-generative-ai-135140574.html"
-            },
-            {
-                "headline": "Shares of cloud computing and online retail behemoth Amazon (NASDAQ:AMZN) fell 3.9% in the morning session after anxiety and uncertainty rattled markets as the major stock indices pulled back in the morning session amid concerns about \"reciprocal tariffs\" to be announced later in the week. The planned tariffs, scheduled for April 2, 2025 (dubbed Liberation Day), were targeted at all countries where the United States had a trade deficit.",
-                "publication_date": "2025-03-31T17:29:23.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "-0.0258",
-                "source": "StockStory",
-                "ticker": "AMZN",
-                "title": "Why Amazon (AMZN) Shares Are Sliding Today",
-                "url": "https://finance.yahoo.com/news/why-amazon-amzn-shares-sliding-172923674.html"
-            },
-            {
-                "headline": "Nova Act is fast, cheap, and already powering the next-gen Alexa. Amazon's AGI ambitions just got real.",
-                "publication_date": "2025-03-31T19:24:08.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "GuruFocus.com",
-                "ticker": "AMZN",
-                "title": "Amazon's Secret Weapon? This AI Agent Just Crushed OpenAI in Key Benchmarks",
-                "url": "https://finance.yahoo.com/news/amazons-secret-weapon-ai-agent-192408484.html"
-            }
-        ],
-        "avgScore": 0.3808833333333332
-    },
-    "coef": 0.40115576449340673
+    "coef": 0.48458424067708583,
+    "avgCoef": 0.1263591142989066
 }

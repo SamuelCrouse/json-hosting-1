@@ -49,50 +49,6 @@
         ],
         "avgScore": 0.8979
     },
-    "3 31 2025": {
-        "importantArticles": [
-            {
-                "headline": "Many companies have targets to make 100% of their packaging recyclable, reusable or compostable by 2025. Now, as they face the hardest categories to transform, some are weighing whether it\u2019s feasible.",
-                "publication_date": "2025-03-31T11:15:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Packaging Dive",
-                "ticker": "AMCR",
-                "title": "Hitting a plateau: Circular packaging designers face flexibles hurdle",
-                "url": "https://finance.yahoo.com/news/hitting-plateau-circular-packaging-designers-111500840.html"
-            },
-            {
-                "headline": "We recently compiled a list of the 10 Best Stocks Under $10 to Buy Now. In this article, we are going to take a look at where Amcor plc (NYSE:AMCR) stands against the other stocks under $10. On March 28, Friday, US stocks declined as Wall Street continued to struggle with President Trump\u2019s trade war [\u2026]",
-                "publication_date": "2025-03-31T19:38:47.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.25",
-                "source": "Insider Monkey",
-                "ticker": "AMCR",
-                "title": "Is Amcor plc (AMCR) The Best Stock Under $10 to Buy Now?",
-                "url": "https://finance.yahoo.com/news/amcor-plc-amcr-best-stock-193847249.html"
-            },
-            {
-                "headline": "We recently compiled a list of the 10 Best Stocks Under $10 to Buy Now. In this article, we are going to take a look at where Amcor plc (NYSE:AMCR) stands against the other stocks under $10. On March 28, Friday, US stocks declined as Wall Street continued to struggle with President Trump\u2019s trade war [\u2026]",
-                "publication_date": "2025-03-31T19:38:47.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.25",
-                "source": "Insider Monkey",
-                "ticker": "AMCR",
-                "title": "Is Amcor plc (AMCR) The Best Stock Under $10 to Buy Now?",
-                "url": "https://finance.yahoo.com/news/amcor-plc-amcr-best-stock-193847249.html"
-            },
-            {
-                "headline": "Many companies have targets to make 100% of their packaging recyclable, reusable or compostable by 2025. Now, as they face the hardest categories to transform, some are weighing whether it\u2019s feasible.",
-                "publication_date": "2025-03-31T11:15:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Packaging Dive",
-                "ticker": "AMCR",
-                "title": "Hitting a plateau: Circular packaging designers face flexibles hurdle",
-                "url": "https://finance.yahoo.com/news/hitting-plateau-circular-packaging-designers-111500840.html"
-            }
-        ],
-        "avgScore": -0.125
-    },
-    "coef": -0.8294118475909352
+    "coef": 1.0,
+    "avgCoef": 0.18973778092711988
 }

@@ -1,4 +1,29 @@
 {
+    "4 7 2025": {
+        "importantArticles": [
+            {
+                "headline": "AGNC's lucrative dividend yield looks attractive to investors. But does that make it a smart buy right now? Here's what investors need to know.",
+                "publication_date": "2025-04-07T15:18:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6705",
+                "source": "Zacks",
+                "ticker": "AGNC",
+                "title": "Is AGNC Investment Worth Buying Now for Its 16.04% Dividend Yield?",
+                "url": "https://finance.yahoo.com/news/agnc-investment-worth-buying-now-151800788.html"
+            },
+            {
+                "headline": "AGNC's lucrative dividend yield looks attractive to investors. But does that make it a smart buy right now? Here's what investors need to know.",
+                "publication_date": "2025-04-07T15:18:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6705",
+                "source": "Zacks",
+                "ticker": "AGNC",
+                "title": "Is AGNC Investment Worth Buying Now for Its 16.04% Dividend Yield?",
+                "url": "https://finance.yahoo.com/news/agnc-investment-worth-buying-now-151800788.html"
+            }
+        ],
+        "avgScore": 0.6705
+    },
     "4 3 2025": {
         "importantArticles": [
             {
@@ -94,30 +119,6 @@
         ],
         "avgScore": 0.6369
     },
-    "3 31 2025": {
-        "importantArticles": [
-            {
-                "headline": "AGNC Investment (AGNC) closed at $9.58 in the latest trading session, marking a +0.63% move from the prior day.",
-                "publication_date": "2025-03-31T21:50:15.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "AGNC",
-                "title": "AGNC Investment (AGNC) Laps the Stock Market: Here's Why",
-                "url": "https://finance.yahoo.com/news/agnc-investment-agnc-laps-stock-215015501.html"
-            },
-            {
-                "headline": "AGNC Investment (AGNC) closed at $9.58 in the latest trading session, marking a +0.63% move from the prior day.",
-                "publication_date": "2025-03-31T21:50:15.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "AGNC",
-                "title": "AGNC Investment (AGNC) Laps the Stock Market: Here's Why",
-                "url": "https://finance.yahoo.com/news/agnc-investment-agnc-laps-stock-215015501.html"
-            }
-        ],
-        "avgScore": 0.0
-    },
-    "coef": -0.8100666559198796
+    "coef": -0.07251748523631794,
+    "avgCoef": 0.2146519757580992
 }

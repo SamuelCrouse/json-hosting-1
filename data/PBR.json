@@ -1,4 +1,74 @@
 {
+    "4 8 2025": {
+        "importantArticles": [
+            {
+                "headline": "We recently published a list of Chinese Stocks Dominate Monday\u2019s 10 Worst Performers. In this article, we are going to take a look at where Petroleo Brasileiro SA \u2013 Petrobras (NYSE:PBR) stands against other Chinese stocks that performed worst on Monday. Wall Street\u2019s main indices finished mixed on Monday as investors remained cautious amid the escalating [\u2026]",
+                "publication_date": "2025-04-08T13:24:23.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.8779",
+                "source": "Insider Monkey",
+                "ticker": "PBR",
+                "title": "Why Petroleo Brasileiro SA \u2013 Petrobras\u00a0(PBR) Went Down On Monday?",
+                "url": "https://finance.yahoo.com/news/why-petroleo-brasileiro-sa-petrobras-132423389.html"
+            },
+            {
+                "headline": "We recently published a list of Chinese Stocks Dominate Monday\u2019s 10 Worst Performers. In this article, we are going to take a look at where Petroleo Brasileiro SA \u2013 Petrobras (NYSE:PBR) stands against other Chinese stocks that performed worst on Monday. Wall Street\u2019s main indices finished mixed on Monday as investors remained cautious amid the escalating [\u2026]",
+                "publication_date": "2025-04-08T13:24:23.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.8779",
+                "source": "Insider Monkey",
+                "ticker": "PBR",
+                "title": "Why Petroleo Brasileiro SA \u2013 Petrobras\u00a0(PBR) Went Down On Monday?",
+                "url": "https://finance.yahoo.com/news/why-petroleo-brasileiro-sa-petrobras-132423389.html"
+            }
+        ],
+        "avgScore": -0.8779
+    },
+    "4 7 2025": {
+        "importantArticles": [
+            {
+                "headline": "PBR constructs an animal care center in the Amazon region to meet key environmental demands by Brazil's Ibama agency to secure an offshore drilling license.",
+                "publication_date": "2025-04-07T09:30:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.743",
+                "source": "Zacks",
+                "ticker": "PBR",
+                "title": "Petrobras Builds Wildlife Center in Amazon Region for Drilling Permit",
+                "url": "https://finance.yahoo.com/news/petrobras-builds-wildlife-center-amazon-093000783.html"
+            },
+            {
+                "headline": "Brazil's state-run oil firm Petrobras is unlikely to lower diesel prices while the economic scenario abroad remains uncertain, Chief Executive Magda Chambriard told Reuters after a request from the government to do so became public on Monday.  Petrobras will not bring jitters from abroad to the Brazilian market, said Chambriard, after reports that Brazil's Mines and Energy Minister Alexandre Silveira asked her to consider a new cut in the average price of diesel sold to distributors in Brazil.",
+                "publication_date": "2025-04-07T20:15:22.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5267",
+                "source": "Reuters",
+                "ticker": "PBR",
+                "title": "Brazil's Petrobras unlikely to change diesel prices despite energy minister request",
+                "url": "https://finance.yahoo.com/news/brazils-energy-minister-asks-petrobras-201522428.html"
+            },
+            {
+                "headline": "Brazil's state-run oil firm Petrobras is unlikely to lower diesel prices while the economic scenario abroad remains uncertain, Chief Executive Magda Chambriard told Reuters after a request from the government to do so became public on Monday.  Petrobras will not bring jitters from abroad to the Brazilian market, said Chambriard, after reports that Brazil's Mines and Energy Minister Alexandre Silveira asked her to consider a new cut in the average price of diesel sold to distributors in Brazil.",
+                "publication_date": "2025-04-07T20:15:22.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5267",
+                "source": "Reuters",
+                "ticker": "PBR",
+                "title": "Brazil's Petrobras unlikely to change diesel prices despite energy minister request",
+                "url": "https://finance.yahoo.com/news/brazils-energy-minister-asks-petrobras-201522428.html"
+            },
+            {
+                "headline": "PBR constructs an animal care center in the Amazon region to meet key environmental demands by Brazil's Ibama agency to secure an offshore drilling license.",
+                "publication_date": "2025-04-07T09:30:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.743",
+                "source": "Zacks",
+                "ticker": "PBR",
+                "title": "Petrobras Builds Wildlife Center in Amazon Region for Drilling Permit",
+                "url": "https://finance.yahoo.com/news/petrobras-builds-wildlife-center-amazon-093000783.html"
+            }
+        ],
+        "avgScore": 0.10815000000000002
+    },
     "4 3 2025": {
         "importantArticles": [
             {
@@ -89,5 +159,6 @@
         ],
         "avgScore": -0.1421
     },
-    "coef": -0.9999999999999999
+    "coef": -0.8317446822122841,
+    "avgCoef": 0.2239880412097898
 }

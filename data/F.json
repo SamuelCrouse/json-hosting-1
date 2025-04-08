@@ -1,6 +1,81 @@
 {
+    "4 7 2025": {
+        "importantArticles": [
+            {
+                "headline": "Ford of Europe saw little demand for the previous generation Mustang EcoBoost, but envisages lots for the new generation 5.0-litre GT.",
+                "publication_date": "2025-04-07T19:54:19.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5641",
+                "source": "Just Auto",
+                "ticker": "F",
+                "title": "Why Ford scrubbed the four-cylinder Mustang",
+                "url": "https://finance.yahoo.com/news/why-ford-scrubbed-four-cylinder-195419232.html"
+            },
+            {
+                "headline": "Figuring out if cars are about to get more expensive is easy. They are. By just how much is harder to figure.",
+                "publication_date": "2025-04-07T14:06:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4877",
+                "source": "Barrons.com",
+                "ticker": "F",
+                "title": "How Much Tariffs Add to Tesla\u2019s Costs (And Your Price)",
+                "url": "https://finance.yahoo.com/m/4baaf1a7-3ce2-398d-b454-2401782802c1/how-much-tariffs-add-to.html"
+            },
+            {
+                "headline": "In recent developments, the article highlights Attorney General Pam Bondi's decisive actions against domestic terrorism, focusing on the prosecution of individuals targeting Tesla. These legal measures reflect broader governmental efforts to ensure a secure environment conducive to innovation within the electric vehicle sector. Additionally, the discussion around tariffs and economic policies suggests significant changes in trade dynamics that could impact the EV industry. Moreover, the...",
+                "publication_date": "2025-04-07T10:09:38.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4767",
+                "source": "Simply Wall St.",
+                "ticker": "F",
+                "title": "Electric Vehicles Today - Navigating Shifts In Innovation And Policy",
+                "url": "https://finance.yahoo.com/news/electric-vehicles-today-navigating-shifts-100938211.html"
+            },
+            {
+                "headline": "President Trump's recent tariff announcement is kneecapping stocks far and wide.  Specifically, Ford's (NYSE: F) stock has already suffered under the threat of 25% tariffs on Mexico and Canada imports, and the potential economic fallout could hurt the company and its peers even further.  The result is that Ford's stock is down nearly 9% over the past six months, pushing its share price to under $10 as of this writing (April 4).",
+                "publication_date": "2025-04-07T07:20:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.8316",
+                "source": "Motley Fool",
+                "ticker": "F",
+                "title": "Should You Buy Ford While It's Below $10?",
+                "url": "https://finance.yahoo.com/news/buy-ford-while-below-10-072000923.html"
+            },
+            {
+                "headline": "The two SUV models were recalled in March 2024\u00a0for the same problem, which\u00a0was addressed with an engine control software update.",
+                "publication_date": "2025-04-07T11:09:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.4019",
+                "source": "Automotive Dive",
+                "ticker": "F",
+                "title": "Ford recalls 33K Bronco Sport, Escape SUVs for potential fuel leaks",
+                "url": "https://finance.yahoo.com/news/ford-recalls-33k-bronco-sport-110900998.html"
+            },
+            {
+                "headline": "Tariff and trade-war fears have increased stock market volatility. Technical strategists say they haven\u2019t seen capitulation yet.",
+                "publication_date": "2025-04-07T16:35:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.1779",
+                "source": "Barrons.com",
+                "ticker": "F",
+                "title": "The Stock Panic Selloff Shows It Isn\u2019t Time to Buy Just Yet",
+                "url": "https://finance.yahoo.com/m/9cd8c141-85a9-3cbf-95a6-5bfab8936211/the-stock-panic-selloff-shows.html"
+            }
+        ],
+        "avgScore": -0.010337499999999958
+    },
     "4 4 2025": {
         "importantArticles": [
+            {
+                "headline": "Stellantis, owner of Jeep and Ram, plans to extend its employee-discount program to the broader public on most new models, the latest move by carmakers to stoke sales following the Trump administration\u2019s tariffs on the automotive sector.  The program is effective Friday and covers the company's most popular models, including the Jeep Wrangler SUV and Ram light-duty pickup trucks, according to a memo seen by The Wall Street Journal.  Stellantis said Thursday it would temporarily pause production at a minivan factory in Windsor, Canada and a Jeep plant in Mexico in response to the tariffs.",
+                "publication_date": "2025-04-04T13:28:45.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7841",
+                "source": "The Wall Street Journal",
+                "ticker": "F",
+                "title": "Exclusive: Jeep's Parent to Offer Most Buyers Same Discount Deal as Employees",
+                "url": "https://finance.yahoo.com/m/f2f39ac2-0ffa-3b1e-894a-f55ccec39189/exclusive-jeep-s-parent-to.html"
+            },
             {
                 "headline": "The global EV fuse market is projected to grow significantly, reaching an anticipated value of US$ 5.6 billion by 2031, according to a report by Stratview Research. This growth accompanies an annual rate of 13.9% from 2024 to 2031, driven by the increasing adoption of electric vehicles (EVs) including battery electric vehicles (BEVs) and hybrid electric vehicles (HEVs). The market segmentation includes various types of fuses used across different applications, with low-voltage fuses...",
                 "publication_date": "2025-04-04T10:09:37.000Z",
@@ -12,24 +87,14 @@
                 "url": "https://finance.yahoo.com/news/electric-vehicles-today-accelerating-growth-100937547.html"
             },
             {
-                "headline": "DEARBORN, Mich., April 04, 2025--Ford Motor Company and Ford Motor Credit Company will release first-quarter 2025 financial results at 4:05 p.m. ET on Monday, May 5.",
-                "publication_date": "2025-04-04T13:00:00.000Z",
+                "headline": "A Ford executive said the company was cooperating with the Trump administration to create more American jobs. \u201cWe\u2019re working with the administration to get clarity on parts to grow jobs here in the U.",
+                "publication_date": "2025-04-04T17:10:43.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.3818",
-                "source": "Business Wire",
+                "sentimentScore": "0.5859",
+                "source": "The Wall Street Journal",
                 "ticker": "F",
-                "title": "Ford to Report Q1 2025 Financial Results on May 5",
-                "url": "https://finance.yahoo.com/news/ford-report-q1-2025-financial-130000115.html"
-            },
-            {
-                "headline": "Navigating Ford's run in a Volatile Market",
-                "publication_date": "2025-04-04T19:45:35.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "GuruFocus.com",
-                "ticker": "F",
-                "title": "How Do Capital Expenditures Affect Ford",
-                "url": "https://finance.yahoo.com/news/capital-expenditures-affect-ford-194535889.html"
+                "title": "Ford Says It Is Working With the Trump Administration to Create U.S. Jobs",
+                "url": "https://finance.yahoo.com/m/ea06849a-53f4-3bf2-abb9-4a7a58173df5/ford-says-it-is-working-with.html"
             },
             {
                 "headline": "Trump's tariffs have thrown the auto industry into turmoil, with Canada hitting back. Consumers and automakers now brace up for rising costs and disruptions.",
@@ -62,11 +127,31 @@
                 "url": "https://finance.yahoo.com/news/capital-expenditures-affect-ford-194535889.html"
             }
         ],
-        "avgScore": 0.09654
+        "avgScore": 0.2412375
     },
     "4 3 2025": {
         "importantArticles": [
             {
+                "headline": "Ford Motor is leaning into the tariff moment with a new ad campaign that highlights its American-made vehicles and extends its employee discounts to the wider buying public.  For its EVs, Ford is throwing in a home charger and free installation.  Employee discounts can shave several thousand dollars off the price of a new car or truck.",
+                "publication_date": "2025-04-03T21:41:42.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5859",
+                "source": "The Wall Street Journal",
+                "ticker": "F",
+                "title": "Ford Offers Its Employee Discount to All New Car Buyers",
+                "url": "https://finance.yahoo.com/m/6c494d1d-5fae-3523-8745-5103b8b19f01/ford-offers-its-employee.html"
+            },
+            {
+                "headline": "Auto stocks held up relatively well Thursday in the aftermath of President Donald Trump\u2019s Wednesday tariff bombshell, but that doesn\u2019t mean this is the bottom.  Ford Motor  and  General Motors  shares dropped 5.9% and 4.3%, respectively.  The reason for the somewhat muted reaction is that while Trump shocked the tech world, nothing really changed for cars.",
+                "publication_date": "2025-04-03T20:37:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5423",
+                "source": "Barrons.com",
+                "ticker": "F",
+                "title": "Ford, GM Stocks Face Huge Tariff Risks. Don\u2019t Ignore Them.",
+                "url": "https://finance.yahoo.com/m/25448fb0-60f6-3396-bef5-5599e9c63429/ford-gm-stocks-face-huge.html"
+            },
+            {
                 "headline": "From price hikes to expanded incentives and even layoffs, automakers are responding to President Trump\u2019s unprecedented tariffs that are sending shockwaves through the industry.",
                 "publication_date": "2025-04-03T17:50:33.000Z",
                 "sentiment": "Positive",
@@ -87,27 +172,158 @@
                 "url": "https://finance.yahoo.com/news/trump-25-us-auto-import-105245329.html"
             },
             {
-                "headline": "(Bloomberg) -- Supply Lines is a daily newsletter that tracks global trade. Sign up here.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Would \u2018Transportation Abundance\u2019 Look Like?Just hours after taking effect, President Donald Trump\u2019s 25% tariffs on imported cars are already reve",
-                "publication_date": "2025-04-03T18:57:40.000Z",
+                "headline": "We recently published a list of Jim Cramer Discusses These 10 Stocks & Wonders If Trump Will Try Firing The Fed Chairman. In this article, we are going to take a look at where Ford Motor Company (NYSE:F) stands against other stocks that Jim Cramer discussed. In a recent appearance on CNBC\u2019s Squawk on the [\u2026]",
+                "publication_date": "2025-04-03T11:34:28.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.5106",
-                "source": "Bloomberg",
+                "sentimentScore": "-0.34",
+                "source": "Insider Monkey",
                 "ticker": "F",
-                "title": "Carmakers Idle Plants, Rethink Prices as Trump\u2019s Tariffs Hit",
-                "url": "https://finance.yahoo.com/news/trump-25-us-auto-import-105245329.html"
+                "title": "Jim Cramer on Ford Motor Company (F): I\u2019d Rather Have Musk\u2019s EV Company Be Like It",
+                "url": "https://finance.yahoo.com/news/jim-cramer-ford-motor-company-113428333.html"
             },
             {
-                "headline": "From price hikes to expanded incentives and even layoffs, automakers are responding to President Trump\u2019s unprecedented tariffs that are sending shockwaves through the industry.",
-                "publication_date": "2025-04-03T17:50:33.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.3182",
-                "source": "Yahoo Finance",
+                "headline": "New campaign highlights the company's American roots.",
+                "publication_date": "2025-04-03T15:55:02.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Fortune",
                 "ticker": "F",
-                "title": "From layoffs to incentives: How automakers are responding to Trump's tariffs",
-                "url": "https://finance.yahoo.com/news/from-layoffs-to-incentives-how-automakers-are-responding-to-trumps-tariffs-175013781.html"
+                "title": "Ford will offer employee pricing to all U.S. customers for the next two months as auto tariffs go into effect",
+                "url": "https://finance.yahoo.com/news/ford-offer-employee-pricing-u-155502916.html"
             }
         ],
-        "avgScore": -0.09620000000000004
+        "avgScore": 0.09112727272727271
     },
-    "coef": 1.0
+    "4 2 2025": {
+        "importantArticles": [
+            {
+                "headline": "NEO Battery Materials Ltd. has entered a collaboration agreement with Elementium Materials Inc. to enhance NEO's silicon battery platform using advanced electrolyte technology. This partnership aims to improve battery stability and electrochemical performance, particularly in ultra-fast charging and discharging, by leveraging Elementium's advanced electrolytes. The collaboration is expected to benefit high-demand markets such as power tools, humanoid robots, drones, and aerospace systems,...",
+                "publication_date": "2025-04-02T12:07:11.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9022",
+                "source": "Simply Wall St.",
+                "ticker": "F",
+                "title": "Electric Vehicles Today - Battery Leap: NEO and Elementium's High-Performance Collaboration",
+                "url": "https://finance.yahoo.com/news/electric-vehicles-today-battery-leap-120711145.html"
+            },
+            {
+                "headline": "DETROIT (Reuters) -Ford Motor announced discounts across multiple models starting Thursday, leaning on its healthy inventory to offer customers thousands of dollars off as competitors hike prices to absorb tariff costs.  Ford will offer employee pricing - a discounted rate available to its workers - to all customers, the company confirmed, after Reuters reported the news Wednesday.  The incentives apply to much of its lineup, including vehicles like the Mustang Mach-E and Maverick that are built in Mexico.",
+                "publication_date": "2025-04-02T23:27:49.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7717",
+                "source": "Reuters",
+                "ticker": "F",
+                "title": "Ford offers across-the-board discounts, jumping on recent tariff-induced sales bump",
+                "url": "https://finance.yahoo.com/news/exclusive-ford-offer-across-board-232749435.html"
+            },
+            {
+                "headline": "President Trump made good on his tariff promise for foreign made autos, slapping 25% tariffs across the board on foreign-made automobiles.",
+                "publication_date": "2025-04-02T21:01:56.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6369",
+                "source": "Yahoo Finance",
+                "ticker": "F",
+                "title": "Trump makes good on auto tariff threat with 25% levy on foreign-made cars",
+                "url": "https://finance.yahoo.com/news/trump-makes-good-on-auto-tariff-threat-with-25-levy-on-foreign-made-cars-210156415.html"
+            },
+            {
+                "headline": "Ford stock slips amid modest sales decline, but battery plant rollout may cushion tariff-related supply risks",
+                "publication_date": "2025-04-02T04:49:25.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.3919",
+                "source": "GuruFocus.com",
+                "ticker": "F",
+                "title": "Ford Slides on Sales Slump, But Battery Plants May Ease Tariff Blow",
+                "url": "https://finance.yahoo.com/news/ford-slides-sales-slump-battery-044925415.html"
+            },
+            {
+                "headline": "\u2018Liberation Day\u2019 has arrived with President Donald Trump set to announce and implement sweeping tariffs on imported goods. Car stocks have fallen in anticipation of the day, but that doesn\u2019t mean its time to buy the dip.",
+                "publication_date": "2025-04-02T20:12:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.1406",
+                "source": "Barrons.com",
+                "ticker": "F",
+                "title": "Look to Boeing as Lesson on Why It Isn\u2019t Time to Buy Ford and GM Stocks Yet",
+                "url": "https://finance.yahoo.com/m/aa14bcca-92af-370b-8729-c25046df18f0/look-to-boeing-as-lesson-on.html"
+            },
+            {
+                "headline": "We recently published a list of Jim Cramer is Discussing These 10 Stocks Ahead of Q1 Earnings Season. In this article, we are going to take a look at where Ford Motor Co (NYSE:F) stands against other stocks that Jim Cramer is discussing ahead of Q1 earnings season. Jim Cramer in a latest program on [\u2026]",
+                "publication_date": "2025-04-02T19:44:41.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Insider Monkey",
+                "ticker": "F",
+                "title": "Jim Cramer Says He Prefers General Motors Over Ford Motor (F)",
+                "url": "https://finance.yahoo.com/news/jim-cramer-says-prefers-general-194441574.html"
+            }
+        ],
+        "avgScore": 0.24470000000000003
+    },
+    "4 1 2025": {
+        "importantArticles": [
+            {
+                "headline": "Madison Mills and Julie Hyman, joined by Yahoo Finance Senior Reporter Anjalee Khemlani, outline what's driving interest in some of the top trending tickers on Yahoo Finance's platform. Tesla (TSLA) sales in France saw a 37% year-over-year drop as the electric vehicle (EV) pioneer faces headwinds fueled by CEO Elon Musk's involvement in US President Donald Trump's second administration. Conversely, Ford (F) saw US retail sales rise 19% in March, just ahead of Trump's auto tariffs taking effect. PVH (PVH), the parent company of Calvin Klein and Tommy Hilfiger, gained after issuing a positive outlook. Johnson & Johnson (JNJ) stock fell after a judge denied the company's attempt to resolve a talc lawsuit through bankruptcy. To watch more expert insights and analysis on the latest market action, check out more Morning Brief here.",
+                "publication_date": "2025-04-01T14:01:19.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7717",
+                "source": "Yahoo Finance Video",
+                "ticker": "F",
+                "title": "Tesla, PVH, Johnson & Johnson: Trending Tickers",
+                "url": "https://finance.yahoo.com/video/tesla-pvh-johnson-johnson-trending-140119031.html"
+            },
+            {
+                "headline": "Amid electrification strides, cost-cut efforts and tariff concerns, which auto biggie - General Motors or Ford - is a better pick now?",
+                "publication_date": "2025-04-01T13:28:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4404",
+                "source": "Zacks",
+                "ticker": "F",
+                "title": "GM vs. F: Which Legacy Automaker is a Stronger Play Now?",
+                "url": "https://finance.yahoo.com/news/gm-vs-f-legacy-automaker-132800268.html"
+            },
+            {
+                "headline": "We recently compiled a list of the 10 Best EV Stocks to Buy Under $50. In this article, we are going to take a look at where Ford Motor Company (NYSE:F) stands against the other EV stocks under $50. Electric vehicle (EV) sales continue to grow but at a slower pace than many had previously [\u2026]",
+                "publication_date": "2025-04-01T14:24:16.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.3818",
+                "source": "Insider Monkey",
+                "ticker": "F",
+                "title": "Is Ford Motor Company (F) The Best EV Stock to Buy Under $50?",
+                "url": "https://finance.yahoo.com/news/ford-motor-company-f-best-142416500.html"
+            },
+            {
+                "headline": "General Motors and Ford reported upbeat first quarter US sales, just as the threat of tariffs portends pain ahead for the Big Three automakers.",
+                "publication_date": "2025-04-01T18:27:50.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.7717",
+                "source": "Yahoo Finance",
+                "ticker": "F",
+                "title": "GM, Ford report upbeat Q1 retail sales as Trump tariffs loom",
+                "url": "https://finance.yahoo.com/news/gm-ford-report-upbeat-q1-retail-sales-as-trump-tariffs-loom-182750180.html"
+            },
+            {
+                "headline": "Ford Motor Company (NYSE: F) finds itself at a crossroads as it navigates a challenging landscape.  Its electric vehicle segment has struggled, and today, the stock trades 33% below its 52-week high.  The automotive industry also is feeling the pressure from intensifying trade wars as President Donald Trump recently announced a 25% tariff on all imported vehicles and foreign-made auto parts.",
+                "publication_date": "2025-04-01T08:39:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.7269",
+                "source": "Motley Fool",
+                "ticker": "F",
+                "title": "Should You Buy Ford While It's Trading Below $10.50?",
+                "url": "https://finance.yahoo.com/news/buy-ford-while-trading-below-083900450.html"
+            },
+            {
+                "headline": "U.S. vehicle sales dipped 1.3% in the first quarter. That isn\u2019t bad, considering dealers\u2019 inventories were high as the quarter began.",
+                "publication_date": "2025-04-01T20:44:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5423",
+                "source": "Barrons.com",
+                "ticker": "F",
+                "title": "Ford Stock Is Falling Because Solid U.S. Sales Aren\u2019t Enough. GM Shares Rise.",
+                "url": "https://finance.yahoo.com/m/abc95edd-299c-3edb-8c3b-b64bf0236399/ford-stock-is-falling-because.html"
+            }
+        ],
+        "avgScore": -0.04720666666666669
+    },
+    "coef": 0.3508627609424611,
+    "avgCoef": 0.11430247093824034
 }

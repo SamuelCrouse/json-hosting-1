@@ -9,6 +9,7 @@ import time
 import numpy as np
 from datetime import datetime as dt
 import math
+from scipy.stats import spearmanr
 
 
 def main(tickers):
@@ -208,8 +209,15 @@ def getR(x, y):
     x = np.array(x.copy())
     y = np.array(y.copy())
 
-    co_matrix = np.corrcoef(x, y)
-    coef = co_matrix[0, 1]
+    # pearson cocoef vs spearman
+    # pearson
+    # co_matrix = np.corrcoef(x, y)
+    # coef = co_matrix[0, 1]
+    # print(coef)
+
+    # spearman
+    coef, pval = spearmanr(x, y)
+    # print(coef)
 
     return coef
 
@@ -262,7 +270,10 @@ def test():
 
 
 if __name__ == "__main__":
-    print(getAverageR())
+    # print(getAverageR())
+    # x = [0, 1, 2, 3, 4, 5]
+    # y = [10, 13, 15, 20, 25, 25]
+    # print(getR(x, y))
 
     """ Examples of vScore calculation
     print(calcVScore(-0.6, -0.04))

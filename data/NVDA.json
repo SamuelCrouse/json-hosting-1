@@ -48,7 +48,7 @@
                 "sentimentScore": "-0.5994",
                 "source": "Bloomberg",
                 "ticker": "NVDA",
-                "title": "Trump Initiates Chips and Drug Probes, Ahead of More Tariffs",
+                "title": "Trump Initiates Chips and Drug Probes\u00a0Ahead of More Tariffs",
                 "url": "https://finance.yahoo.com/news/trump-announces-chips-drug-probes-204108780.html"
             },
             {
@@ -260,5 +260,5 @@
         "avgScore": 0.21403333333333333
     },
     "coef": -0.6000000000000001,
-    "avgCoef": 0.2294957629038046
+    "avgCoef": 0.2221565919801814
 }

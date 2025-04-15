@@ -1,28 +1,139 @@
 {
-    "3 31 2025": {
+    "4 11 2025": {
         "importantArticles": [
             {
-                "headline": "Warner Bros. Discovery, Inc. (the \"Company\") (Nasdaq: WBD) today announced that it intends to add Anton Levy as an independent director to the Company's Board of Directors in connection with the 2025 Annual Meeting of Stockholders (the \"Annual Meeting\"). His addition follows a comprehensive search process led by the Nominating and Corporate Governance Committee.",
-                "publication_date": "2025-03-31T20:31:00.000Z",
+                "headline": "Warner Bros. Discovery, Inc. (the \"Company\") (Nasdaq: WBD) today announced that Dr. John C. Malone has decided not to stand for re-election to the Company's Board of Directors and will be transitioning to the role of Chair Emeritus, effective upon the expiration of his term at the 2025 Annual Meeting of Stockholders (\"Annual Meeting\").",
+                "publication_date": "2025-04-11T12:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.25",
+                "sentimentScore": "0.4767",
                 "source": "PR Newswire",
                 "ticker": "WBD",
-                "title": "Warner Bros. Discovery Announces the Addition of Anton Levy to its Board of Directors",
-                "url": "https://finance.yahoo.com/news/warner-bros-discovery-announces-addition-203100718.html"
+                "title": "Dr. John C. Malone to Transition to Chair Emeritus of Warner Bros. Discovery Board",
+                "url": "https://finance.yahoo.com/news/dr-john-c-malone-transition-120000438.html"
             },
             {
-                "headline": "Warner Bros. Discovery, Inc. (the \"Company\") (Nasdaq: WBD) today announced that it intends to add Anton Levy as an independent director to the Company's Board of Directors in connection with the 2025 Annual Meeting of Stockholders (the \"Annual Meeting\"). His addition follows a comprehensive search process led by the Nominating and Corporate Governance Committee.",
-                "publication_date": "2025-03-31T20:31:00.000Z",
+                "headline": "Warner Bros. Discovery reboots its board as the media mogul shifts from boardroom to behind-the-scenes kingmaker.",
+                "publication_date": "2025-04-11T15:31:30.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "GuruFocus.com",
+                "ticker": "WBD",
+                "title": "John Malone Just Left the Board--But Might Be More Powerful Than Ever",
+                "url": "https://finance.yahoo.com/news/john-malone-just-left-board-153130683.html"
+            },
+            {
+                "headline": "Warner Bros. Discovery reboots its board as the media mogul shifts from boardroom to behind-the-scenes kingmaker.",
+                "publication_date": "2025-04-11T15:31:30.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "GuruFocus.com",
+                "ticker": "WBD",
+                "title": "John Malone Just Left the Board--But Might Be More Powerful Than Ever",
+                "url": "https://finance.yahoo.com/news/john-malone-just-left-board-153130683.html"
+            },
+            {
+                "headline": "Warner Bros. Discovery, Inc. (the \"Company\") (Nasdaq: WBD) today announced that Dr. John C. Malone has decided not to stand for re-election to the Company's Board of Directors and will be transitioning to the role of Chair Emeritus, effective upon the expiration of his term at the 2025 Annual Meeting of Stockholders (\"Annual Meeting\").",
+                "publication_date": "2025-04-11T12:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.25",
+                "sentimentScore": "0.4767",
                 "source": "PR Newswire",
                 "ticker": "WBD",
-                "title": "Warner Bros. Discovery Announces the Addition of Anton Levy to its Board of Directors",
-                "url": "https://finance.yahoo.com/news/warner-bros-discovery-announces-addition-203100718.html"
+                "title": "Dr. John C. Malone to Transition to Chair Emeritus of Warner Bros. Discovery Board",
+                "url": "https://finance.yahoo.com/news/dr-john-c-malone-transition-120000438.html"
             }
         ],
-        "avgScore": 0.25
+        "avgScore": 0.23835
     },
-    "coef": NaN
+    "4 10 2025": {
+        "importantArticles": [
+            {
+                "headline": "Some of the biggest winners from yesterday\u2019s rally have erased much of those gains today.  Delta Air Lines logged a 23% gain yesterday. Today, shares have fallen more than 9%.   Warner Bros. Discovery rose 20% Wednesday and has dropped roughly 13% in today\u2019s trading.",
+                "publication_date": "2025-04-10T19:07:13.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8225",
+                "source": "The Wall Street Journal",
+                "ticker": "WBD",
+                "title": "These Stocks are Leading Losses Today",
+                "url": "https://finance.yahoo.com/m/d331dbff-6212-38e0-93f9-c8bd6cbb4b1e/these-stocks-are-leading.html"
+            },
+            {
+                "headline": "Julie Hyman and Josh Lipton take a closer look at some of Thursday's trending tickers on Market Domination. Tariff risks weigh on Nike (NKE) as US President Trump increases the tariff on imports from China to 145%. Entertainment stocks like Disney (DIS), Warner Bros. Discovery (WBD), and Fox (FOX, FOXA) are falling after China cut imports of Hollywood content. Novavax (NVAX) stock plunges after US Health and Human Services Secretary Robert F. Kennedy Jr. questioned the efficacy of the company's vaccines. To watch more expert insights and analysis on the latest market action, check out more Market Domination here.",
+                "publication_date": "2025-04-10T20:18:10.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.0772",
+                "source": "Yahoo Finance Video",
+                "ticker": "WBD",
+                "title": "Nike, Disney, Novavax: Trending Tickers",
+                "url": "https://finance.yahoo.com/video/nike-disney-novavax-trending-tickers-201810297.html"
+            },
+            {
+                "headline": "Here are some of the stories Wall Street is watching on Thursday, April 10. The ongoing trade battle between the US and China is weighing on shares of Apple (AAPL), Disney (DIS), and Warner Bros. Discovery (WBD). Oil prices (CL=F, BZ=F) are also falling on worries that tariffs could weigh on demand. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
+                "publication_date": "2025-04-10T18:09:21.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.6486",
+                "source": "Yahoo Finance Video",
+                "ticker": "WBD",
+                "title": "Oil falls, China tensions weigh on Apple, Disney: Market Minute",
+                "url": "https://finance.yahoo.com/video/oil-falls-china-tensions-weigh-180921476.html"
+            },
+            {
+                "headline": "Here are some of the stories Wall Street is watching on Thursday, April 10. The ongoing trade battle between the US and China is weighing on shares of Apple (AAPL), Disney (DIS), and Warner Bros. Discovery (WBD). Oil prices (CL=F, BZ=F) are also falling on worries that tariffs could weigh on demand. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
+                "publication_date": "2025-04-10T18:09:21.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.6486",
+                "source": "Yahoo Finance Video",
+                "ticker": "WBD",
+                "title": "Oil falls, China tensions weigh on Apple, Disney: Market Minute",
+                "url": "https://finance.yahoo.com/video/oil-falls-china-tensions-weigh-180921476.html"
+            },
+            {
+                "headline": "Julie Hyman and Josh Lipton take a closer look at some of Thursday's trending tickers on Market Domination. Tariff risks weigh on Nike (NKE) as US President Trump increases the tariff on imports from China to 145%. Entertainment stocks like Disney (DIS), Warner Bros. Discovery (WBD), and Fox (FOX, FOXA) are falling after China cut imports of Hollywood content. Novavax (NVAX) stock plunges after US Health and Human Services Secretary Robert F. Kennedy Jr. questioned the efficacy of the company's vaccines. To watch more expert insights and analysis on the latest market action, check out more Market Domination here.",
+                "publication_date": "2025-04-10T20:18:10.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.0772",
+                "source": "Yahoo Finance Video",
+                "ticker": "WBD",
+                "title": "Nike, Disney, Novavax: Trending Tickers",
+                "url": "https://finance.yahoo.com/video/nike-disney-novavax-trending-tickers-201810297.html"
+            },
+            {
+                "headline": "Some of the biggest winners from yesterday\u2019s rally have erased much of those gains today.  Delta Air Lines logged a 23% gain yesterday. Today, shares have fallen more than 9%.   Warner Bros. Discovery rose 20% Wednesday and has dropped roughly 13% in today\u2019s trading.",
+                "publication_date": "2025-04-10T19:07:13.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8225",
+                "source": "The Wall Street Journal",
+                "ticker": "WBD",
+                "title": "These Stocks are Leading Losses Today",
+                "url": "https://finance.yahoo.com/m/d331dbff-6212-38e0-93f9-c8bd6cbb4b1e/these-stocks-are-leading.html"
+            }
+        ],
+        "avgScore": 0.032233333333333336
+    },
+    "4 9 2025": {
+        "importantArticles": [
+            {
+                "headline": "F1, which  Liberty Media  bought in 2017, has been shopping a rights package at around $150 million to $180 million a year beginning with the 2026 season, according to people familiar with the matter, though there isn\u2019t an official asking price.  U.S. viewership for live F1 races on ESPN roughly doubled since 2018, to 1.1 million a season in 2024, according to Nielsen data.  ESPN walked away late last year from its exclusive negotiation window for a new package.",
+                "publication_date": "2025-04-09T14:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6124",
+                "source": "The Wall Street Journal",
+                "ticker": "WBD",
+                "title": "Formula One\u2019s TV Rights Are Up for Grabs, but Media Companies Aren\u2019t Racing to Bid",
+                "url": "https://finance.yahoo.com/m/ad57572b-bfec-3109-a798-95deb416d89e/formula-one%E2%80%99s-tv-rights-are.html"
+            },
+            {
+                "headline": "F1, which  Liberty Media  bought in 2017, has been shopping a rights package at around $150 million to $180 million a year beginning with the 2026 season, according to people familiar with the matter, though there isn\u2019t an official asking price.  U.S. viewership for live F1 races on ESPN roughly doubled since 2018, to 1.1 million a season in 2024, according to Nielsen data.  ESPN walked away late last year from its exclusive negotiation window for a new package.",
+                "publication_date": "2025-04-09T14:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6124",
+                "source": "The Wall Street Journal",
+                "ticker": "WBD",
+                "title": "Formula One\u2019s TV Rights Are Up for Grabs, but Media Companies Aren\u2019t Racing to Bid",
+                "url": "https://finance.yahoo.com/m/ad57572b-bfec-3109-a798-95deb416d89e/formula-one%E2%80%99s-tv-rights-are.html"
+            }
+        ],
+        "avgScore": 0.6124
+    },
+    "coef": 1.0,
+    "avgCoef": 0.16795647137995579
 }

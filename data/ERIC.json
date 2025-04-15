@@ -1,4 +1,69 @@
 {
+    "4 15 2025": {
+        "importantArticles": [
+            {
+                "headline": "Bell Canada and Ericsson (NASDAQ: ERIC) have conducted a successful field test of AI-native link adaptation \u2013 the first globally. This innovative technology uses real-time AI to dynamically adapt networks in response to changes in signal quality, interference, and other factors. The result is an enhanced user experience through increased throughput and spectral efficiency. This collaboration marks a significant breakthrough in applying artificial intelligence to improve the performance of radio",
+                "publication_date": "2025-04-15T12:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9618",
+                "source": "CNW Group",
+                "ticker": "ERIC",
+                "title": "Ericsson and Bell Canada successfully test AI-native link adaptation to boost network speed and efficiency",
+                "url": "https://finance.yahoo.com/news/ericsson-bell-canada-successfully-test-120000240.html"
+            },
+            {
+                "headline": "Ericsson Private 5G boosts mining fleet efficiency and uptime, surpassing Wi-Fi's capacity and reliability limits.",
+                "publication_date": "2025-04-15T09:47:28.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5859",
+                "source": "Mining Technology",
+                "ticker": "ERIC",
+                "title": "Newmont deploys Ericsson Private 5G at Australia\u2019s Cadia mine for smarter mining",
+                "url": "https://finance.yahoo.com/news/newmont-deploys-ericsson-private-5g-094728229.html"
+            },
+            {
+                "headline": "STOCKHOLM (AP) \u2014 Ericsson ERIC on Tuesday reported first-quarter earnings of $388.7 million. On a per-share basis, the Stockholm-based company said it had net income of 12 cents. The results exceeded Wall Street expectations.",
+                "publication_date": "2025-04-15T09:06:29.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Associated Press Finance",
+                "ticker": "ERIC",
+                "title": "Ericsson: Q1 Earnings Snapshot",
+                "url": "https://finance.yahoo.com/news/ericsson-q1-earnings-snapshot-090629812.html"
+            },
+            {
+                "headline": "(Reuters) -Ericsson's first-quarter core earnings trounced analysts' expectations on Tuesday as North American telecom customers placed more orders for its gear ahead of the impact of potential U.S. tariffs.  Adjusted operating earnings excluding restructuring charges rose 44% year-on-year to 6.2 billion Swedish crowns ($636 million), a nearly 40% beat to the average estimate of 4.44 billion crowns in an LSEG poll of analysts.  However, if faced with price increases related to tariffs, telecoms providers might hold off from buying new gear so that they can avoid passing on the costs\u00a0to\u00a0end\u00a0users.",
+                "publication_date": "2025-04-15T05:09:40.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5106",
+                "source": "Reuters",
+                "ticker": "ERIC",
+                "title": "Ericsson's profit surges as North American clients buy gear ahead of Trump's tariffs",
+                "url": "https://finance.yahoo.com/news/ericssons-core-earnings-rise-1st-050940954.html"
+            },
+            {
+                "headline": "STOCKHOLM (AP) \u2014 Ericsson ERIC on Tuesday reported first-quarter earnings of $388.7 million. On a per-share basis, the Stockholm-based company said it had net income of 12 cents. The results exceeded Wall Street expectations.",
+                "publication_date": "2025-04-15T09:06:29.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Associated Press Finance",
+                "ticker": "ERIC",
+                "title": "Ericsson: Q1 Earnings Snapshot",
+                "url": "https://finance.yahoo.com/news/ericsson-q1-earnings-snapshot-090629812.html"
+            },
+            {
+                "headline": "Ericsson Private 5G boosts mining fleet efficiency and uptime, surpassing Wi-Fi's capacity and reliability limits.",
+                "publication_date": "2025-04-15T09:47:28.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5859",
+                "source": "Mining Technology",
+                "ticker": "ERIC",
+                "title": "Newmont deploys Ericsson Private 5G at Australia\u2019s Cadia mine for smarter mining",
+                "url": "https://finance.yahoo.com/news/newmont-deploys-ericsson-private-5g-094728229.html"
+            }
+        ],
+        "avgScore": 0.2592749999999999
+    },
     "4 14 2025": {
         "importantArticles": [
             {
@@ -74,6 +139,6 @@
         ],
         "avgScore": 0.5719
     },
-    "coef": -0.5,
-    "avgCoef": 0.18299638982477445
+    "coef": 0.19999999999999998,
+    "avgCoef": 0.148163222667651
 }

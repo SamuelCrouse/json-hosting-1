@@ -1,4 +1,69 @@
 {
+    "4 15 2025": {
+        "importantArticles": [
+            {
+                "headline": "The United States market has shown robust performance recently, rising 6.8% over the past week and 5.9% in the last year, with all sectors experiencing gains and earnings projected to grow by 14% annually. In this promising environment, growth companies with high insider ownership can be particularly appealing as they often indicate strong confidence from those closest to the business.",
+                "publication_date": "2025-04-15T11:35:41.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9579",
+                "source": "Simply Wall St.",
+                "ticker": "TSLA",
+                "title": "Top Growth Stocks With High Insider Stakes In April 2025",
+                "url": "https://finance.yahoo.com/news/top-growth-stocks-high-insider-113541846.html"
+            },
+            {
+                "headline": "A $1,000 investment in this electric vehicle (EV) and clean energy business 10 years ago would be worth an eye-popping $17,920 today.  This translates to an unbelievable 1,690% return, turning this into one of the world's most valuable and influential companies.",
+                "publication_date": "2025-04-15T08:41:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9195",
+                "source": "Motley Fool",
+                "ticker": "TSLA",
+                "title": "Down 47%, Is Tesla Stock a Buy, Sell, or Hold in April?",
+                "url": "https://finance.yahoo.com/news/down-47-tesla-stock-buy-084100940.html"
+            },
+            {
+                "headline": "We recently published a list of the 10 Best Machine Learning Stocks to Buy Now. In this article, we are going to take a look at where Tesla, Inc. (NASDAQ:TSLA) stands against other machine-learning stocks. Grand View Research reported that the global machine-learning market was valued at $36.73 billion in 2022. It\u2019s now expected to [\u2026]",
+                "publication_date": "2025-04-15T13:10:08.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8779",
+                "source": "Insider Monkey",
+                "ticker": "TSLA",
+                "title": "Is Tesla, Inc. (TSLA) the Best Machine Learning Stock to Buy Now?",
+                "url": "https://finance.yahoo.com/news/tesla-inc-tsla-best-machine-131008690.html"
+            },
+            {
+                "headline": "The early move comes after Tesla\u2019s stock chart formed a new death cross on Monday.  For traders, a death cross is a sign that a stock is losing momentum.  Tesla stock, however, is always its own thing.",
+                "publication_date": "2025-04-15T13:50:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.886",
+                "source": "Barrons.com",
+                "ticker": "TSLA",
+                "title": "Tesla Stock Forms a \u2018Death Cross.\u2019 What That Means and What Happens Next.",
+                "url": "https://finance.yahoo.com/m/fa3e943b-38f2-3f72-b679-be6ffe33172a/tesla-stock-forms-a-%E2%80%98death.html"
+            },
+            {
+                "headline": "A report says China ordered a halt to Boeing jet deliveries as part of the escalating trade war with the U.S., Tesla\u2019s stock chart forms a \u2018death cross,\u2019 and Bank of America, Citigroup, and Johnson & Johnson post better-than-expected first-quarter earnings.",
+                "publication_date": "2025-04-15T13:50:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5994",
+                "source": "Barrons.com",
+                "ticker": "TSLA",
+                "title": "These Stocks Are Moving the Most Today: Boeing, Tesla, Bank of America, Citigroup, J&J, Netflix, Rocket Lab, and More",
+                "url": "https://finance.yahoo.com/m/4acd1581-8487-308e-9a2a-48ddeb05703c/these-stocks-are-moving-the.html"
+            },
+            {
+                "headline": "Charging stations to follow sales outlets in major cities.",
+                "publication_date": "2025-04-15T09:21:08.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Just Auto",
+                "ticker": "TSLA",
+                "title": "Tesla begins sales in Saudi Arabia",
+                "url": "https://finance.yahoo.com/news/tesla-begins-sales-saudi-arabia-092108183.html"
+            }
+        ],
+        "avgScore": 0.3269375
+    },
     "4 14 2025": {
         "importantArticles": [
             {
@@ -324,6 +389,6 @@
         ],
         "avgScore": 0.0030173913043478147
     },
-    "coef": -0.19999999999999998,
-    "avgCoef": 0.2221565919801814
+    "coef": -0.028571428571428574,
+    "avgCoef": 0.15775019980825228
 }

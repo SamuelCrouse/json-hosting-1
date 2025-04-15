@@ -1,4 +1,49 @@
 {
+    "4 15 2025": {
+        "importantArticles": [
+            {
+                "headline": "Lucid Group, Inc. (NASDAQ: LCID), maker of the world's most advanced electric vehicles, today introduced the 2026 Lucid Gravity, the first and only SUV to deliver everything consumers want in a vehicle without compromise.",
+                "publication_date": "2025-04-15T13:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.3804",
+                "source": "PR Newswire",
+                "ticker": "LCID",
+                "title": "Introducing the 2026 Lucid Gravity Grand Touring: A Force of Attraction Like Nothing Else in Nature",
+                "url": "https://finance.yahoo.com/news/introducing-2026-lucid-gravity-grand-130000378.html"
+            },
+            {
+                "headline": "Lucid is on track to launch its midsize electric SUV in 2026, company executives said on Tuesday, as the EV maker looks to tap an increasingly competitive segment dominated by rival Tesla's bestselling Model Y crossover.  Lucid is not immune to the Trump administration's tariffs but is working to mitigate its effects, interim CEO Marc Winterhoff told Reuters.",
+                "publication_date": "2025-04-15T13:03:29.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "-0.0243",
+                "source": "Reuters",
+                "ticker": "LCID",
+                "title": "Lucid says it is on track to enter midsize electric SUV market next year",
+                "url": "https://finance.yahoo.com/news/lucid-says-track-enter-midsize-130329404.html"
+            },
+            {
+                "headline": "Lucid is on track to launch its midsize electric SUV in 2026, company executives said on Tuesday, as the EV maker looks to tap an increasingly competitive segment dominated by rival Tesla's bestselling Model Y crossover.  Lucid is not immune to the Trump administration's tariffs but is working to mitigate its effects, interim CEO Marc Winterhoff told Reuters.",
+                "publication_date": "2025-04-15T13:03:29.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "-0.0243",
+                "source": "Reuters",
+                "ticker": "LCID",
+                "title": "Lucid says it is on track to enter midsize electric SUV market next year",
+                "url": "https://finance.yahoo.com/news/lucid-says-track-enter-midsize-130329404.html"
+            },
+            {
+                "headline": "Lucid Group, Inc. (NASDAQ: LCID), maker of the world's most advanced electric vehicles, today introduced the 2026 Lucid Gravity, the first and only SUV to deliver everything consumers want in a vehicle without compromise.",
+                "publication_date": "2025-04-15T13:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.3804",
+                "source": "PR Newswire",
+                "ticker": "LCID",
+                "title": "Introducing the 2026 Lucid Gravity Grand Touring: A Force of Attraction Like Nothing Else in Nature",
+                "url": "https://finance.yahoo.com/news/introducing-2026-lucid-gravity-grand-130000378.html"
+            }
+        ],
+        "avgScore": 0.17805
+    },
     "4 14 2025": {
         "importantArticles": [
             {
@@ -324,6 +369,6 @@
         ],
         "avgScore": 0.31660000000000005
     },
-    "coef": 0.6,
-    "avgCoef": 0.2221565919801814
+    "coef": 0.2571428571428572,
+    "avgCoef": 0.15996108416199378
 }

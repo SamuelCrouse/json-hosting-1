@@ -1,4 +1,69 @@
 {
+    "4 15 2025": {
+        "importantArticles": [
+            {
+                "headline": "The recent market turmoil can make any investor nervous.  Nvidia (NASDAQ: NVDA) has been a favorite name, but many investors may have felt they missed the boat as the stock soared.  While some may still view the artificial intelligence (AI) leader as expensive, there is good evidence that now is a great time to buy Nvidia stock.",
+                "publication_date": "2025-04-15T08:32:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9109",
+                "source": "Motley Fool",
+                "ticker": "NVDA",
+                "title": "Think Nvidia Is Still Expensive? This Chart Might Change Your Mind.",
+                "url": "https://finance.yahoo.com/news/think-nvidia-still-expensive-chart-083200410.html"
+            },
+            {
+                "headline": "Trump cheered Nvidia's $500 billion commitment to build artificial-intelligence supercomputers in the U.S. early Tuesday. \"This is very big and exciting news,\" the president wrote in a post on Truth Social.",
+                "publication_date": "2025-04-15T11:54:07.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8925",
+                "source": "Barrons.com",
+                "ticker": "NVDA",
+                "title": "Trump Will Fast Track Permits for Nvidia's U.S. AI Buildout",
+                "url": "https://finance.yahoo.com/m/b6d9813c-9070-34cb-915d-a3e29095d72e/trump-will-fast-track-permits.html"
+            },
+            {
+                "headline": "Tariffs may be the talk of Wall Street, but there are far more pressing issues for the stock market's artificial intelligence (AI) darling.",
+                "publication_date": "2025-04-15T07:51:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8847",
+                "source": "Motley Fool",
+                "ticker": "NVDA",
+                "title": "Nvidia Has 3 Considerably Bigger Concerns Than Tariffs",
+                "url": "https://finance.yahoo.com/news/nvidia-3-considerably-bigger-concerns-075100065.html"
+            },
+            {
+                "headline": "(Bloomberg) -- Supply Lines is a daily newsletter that tracks global trade. Sign up here.Most Read from BloombergHow Did This Suburb Figure Out Mass Transit?The Secret Formula for Faster TrainsEven Oslo Has an Air Quality ProblemNYC Tourist Helicopter Crashes in Hudson River, Killing SixLisbon Mayor Wants Companies to Help Fix City\u2019s Housing ShortagePresident Donald Trump\u2019s administration pressed forward with plans to impose tariffs on semiconductor and pharmaceutical imports by initiating trade",
+                "publication_date": "2025-04-15T03:32:37.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5994",
+                "source": "Bloomberg",
+                "ticker": "NVDA",
+                "title": "Trump Initiates Chips and Drug Probes\u00a0Ahead of More Tariffs",
+                "url": "https://finance.yahoo.com/news/trump-announces-chips-drug-probes-204108780.html"
+            },
+            {
+                "headline": "The S&P 500 (SNPINDEX: ^GSPC) is made up of 500 companies from 11 different economic sectors.  The information technology sector is the largest by a wide margin, representing 29.9% of the entire value of the index.  The S&P 500 recently suffered a peak-to-trough decline of 19%, falling just shy of the bear-market threshold of 20%.",
+                "publication_date": "2025-04-15T09:34:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5267",
+                "source": "Motley Fool",
+                "ticker": "NVDA",
+                "title": "1 Spectacular Vanguard ETF to Buy With $550 During the Tech Bear Market",
+                "url": "https://finance.yahoo.com/news/1-spectacular-vanguard-etf-buy-093400403.html"
+            },
+            {
+                "headline": "GeForce RTX 5060 Family Transforms Ordinary PCs Into Next-Generation Gaming Rigs NVIDIA GeForce RTX 5060 Ti The GeForce RTX 5060 Ti and RTX 5060 graphics cards feature NVIDIA DLSS 4, full ray tracing, neural rendering and NVIDIA Reflex technologies for exceptional performance and image quality. SANTA CLARA, Calif., April 15, 2025 (GLOBE NEWSWIRE) -- NVIDIA today announced the NVIDIA GeForce RTX\u2122 5060 family of GPUs, including two graphics cards that deliver neural rendering and NVIDIA Blackwell",
+                "publication_date": "2025-04-15T13:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "GlobeNewswire",
+                "ticker": "NVDA",
+                "title": "NVIDIA Blackwell GeForce RTX Arrives for Every Gamer, Starting at $299",
+                "url": "https://finance.yahoo.com/news/nvidia-blackwell-geforce-rtx-arrives-130000348.html"
+            }
+        ],
+        "avgScore": 0.31993750000000004
+    },
     "4 14 2025": {
         "importantArticles": [
             {
@@ -42,16 +107,6 @@
                 "url": "https://finance.yahoo.com/news/servicenow-dips-26-date-hold-190000771.html"
             },
             {
-                "headline": "(Bloomberg) -- President Donald Trump\u2019s administration pressed forward with plans to impose tariffs on semiconductor and pharmaceutical imports by initiating trade probes led by the Commerce Department. Most Read from BloombergHow Did This Suburb Figure Out Mass Transit?The Secret Formula for Faster TrainsEven Oslo Has an Air Quality ProblemNYC Tourist Helicopter Crashes in Hudson River, Killing SixLisbon Mayor Wants Companies to Help Fix City\u2019s Housing ShortageThe moves, announced Monday in the",
-                "publication_date": "2025-04-14T21:24:22.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.5994",
-                "source": "Bloomberg",
-                "ticker": "NVDA",
-                "title": "Trump Initiates Chips and Drug Probes\u00a0Ahead of More Tariffs",
-                "url": "https://finance.yahoo.com/news/trump-announces-chips-drug-probes-204108780.html"
-            },
-            {
                 "headline": "Nvidia has found itself in the crosshairs of an escalating trade war between Washington and Beijing.",
                 "publication_date": "2025-04-14T13:21:44.000Z",
                 "sentiment": "Negative",
@@ -60,9 +115,19 @@
                 "ticker": "NVDA",
                 "title": "Nvidia stock leaps after massive U.S. investment surprise",
                 "url": "https://finance.yahoo.com/news/nvidia-stock-leaps-massive-u-132144386.html"
+            },
+            {
+                "headline": "A day after President Trump and administration officials warned about looming tariffs on semiconductors and other tech products, Nvidia said it will work with chip manufacturers and packaging firms to make supercomputers that power artificial intelligence entirely in the U.S.  The company says it will be the first time AI supercomputers are completely built domestically.  Tech-industry analysts have warned that Trump\u2019s tariffs will weaken the U.S. in its AI race with China.",
+                "publication_date": "2025-04-14T13:40:35.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5267",
+                "source": "The Wall Street Journal",
+                "ticker": "NVDA",
+                "title": "Nvidia Says It Will Make AI Supercomputers Entirely in the U.S.",
+                "url": "https://finance.yahoo.com/m/9b1fef3c-4b35-3f2f-b97e-b18799f5bfe4/nvidia-says-it-will-make-ai.html"
             }
         ],
-        "avgScore": 0.2760142857142858
+        "avgScore": 0.2658953846153847
     },
     "4 11 2025": {
         "importantArticles": [
@@ -197,54 +262,34 @@
     "4 9 2025": {
         "importantArticles": [
             {
-                "headline": "Investment bank TD Cowen lowered its price target on Nvidia (NVDA) stock to $140 from $175 today but kept a Buy rating on the shares. NVDA Has Many Positive Attributes, TD Cowen Says The chip maker should be boosted by its strong technology, while the firm\u2019s long-term outlook is positive, according to the investment bank. [\u2026]",
-                "publication_date": "2025-04-09T17:24:21.000Z",
+                "headline": "Nvidia CEO Jensen Huang appears to have struck a deal with the Trump administration to avoid export restrictions on the company's H20 AI chips. The H20, the most advanced Nvidia-produced AI chip that can still be exported from the U.S. to China, was reportedly spared thanks to a promise from Huang to invest in new AI data centers in the U.S. According to NPR, Huang made the proposal during a dinner at Trump's Mar-a-Lago resort sometime last week. Nvidia declined to comment. Many in the semicondu",
+                "publication_date": "2025-04-09T21:07:20.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.9684",
-                "source": "Insider Monkey",
+                "sentimentScore": "0.5095",
+                "source": "TechCrunch",
                 "ticker": "NVDA",
-                "title": "Investment Bank Cuts NVDA Price Target But Remains Bullish on the Name",
-                "url": "https://finance.yahoo.com/news/investment-bank-cuts-nvda-price-172421178.html"
+                "title": "Nvidia's H20 AI chips may be spared from export controls \u2014\u00a0for now",
+                "url": "https://finance.yahoo.com/news/nvidias-h20-ai-chips-may-210720286.html"
             },
             {
-                "headline": "The recently-battered Magnificent Seven stocks got some much-needed relief in the form of Trump's tariff pause. Tesla shares climbed more than 17%, while Nvidia and Meta shares also notched double-digit gains.",
-                "publication_date": "2025-04-09T18:20:39.000Z",
+                "headline": "The Trump administration stepped back from a crackdown on Nvidia's (NVDA) chip exports to China following CEO Jensen Huang's attendance at a $1 million-per-person dinner at Mar-a-Lago last week. Yahoo Finance Technology Editor Dan Howley joins Market Domination to discuss how Nvidia's ability to continue exporting the H20 chip impacts the company's revenue and relationship with the US government. To watch more expert insights and analysis on the latest market action, check out more Market Domination&nbsp;here.",
+                "publication_date": "2025-04-09T20:55:07.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.9153",
-                "source": "The Wall Street Journal",
+                "sentimentScore": "0.2732",
+                "source": "Yahoo Finance Video",
                 "ticker": "NVDA",
-                "title": "Tariff Pause Sends Tech Stocks Soaring",
-                "url": "https://finance.yahoo.com/m/de60ddd8-40af-347b-affc-0f999091928e/tariff-pause-sends-tech.html"
+                "title": "Trump administration eases on Nvidia H20 chip crackdown",
+                "url": "https://finance.yahoo.com/video/trump-administration-eases-nvidia-h20-205507370.html"
             },
             {
-                "headline": "Tesla shares soared in Wednesday afternoon trading, leading other Magnificent Seven members higher amid a broad relief rally as President Trump announced a 90-day pause on some of the tariffs announced last week.",
-                "publication_date": "2025-04-09T20:24:03.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8481",
-                "source": "Investopedia",
+                "headline": "Nvidia's stock price surged nearly 19% on April 9.",
+                "publication_date": "2025-04-09T23:17:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "TheStreet",
                 "ticker": "NVDA",
-                "title": "Tesla, Nvidia Lead Magnificent 7 Stocks Higher as Tech Drives Broad Relief Rally",
-                "url": "https://finance.yahoo.com/news/tesla-nvidia-lead-magnificent-7-202403208.html"
-            },
-            {
-                "headline": "President Trump threw out what appeared to be a lifeline to tech companies Wednesday by suspending onerous tariffs that had sent their stocks spiraling downward.  The uncertainty over trade barriers is still rattling Big Tech and the global economy.  Trump\u2019s reprieve pushed  Nvidia\u2019s  stock above where it was before he imposed tariffs last week, but the trade war with China is escalating, not easing, and huge uncertainty remains.",
-                "publication_date": "2025-04-09T20:54:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.9307",
-                "source": "The Wall Street Journal",
-                "ticker": "NVDA",
-                "title": "Tariffs Are Still Coming for the AI Boom",
-                "url": "https://finance.yahoo.com/m/24eb806e-1e5d-3b58-917b-390720595b5d/tariffs-are-still-coming-for.html"
-            },
-            {
-                "headline": "Stocks wanted one thing from Trump after last week's shocking \"Liberation Day\" announcement. On Wednesday, they got it.",
-                "publication_date": "2025-04-09T20:31:45.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.4019",
-                "source": "Yahoo Finance",
-                "ticker": "NVDA",
-                "title": "US stocks stage historic rally as Trump's 90-day pause takes worst case scenario 'off the table'",
-                "url": "https://finance.yahoo.com/news/us-stocks-stage-historic-rally-as-trumps-90-day-pause-takes-worst-case-scenario-off-the-table-203145671.html"
+                "title": "Surprising China news sends Nvidia stock surging",
+                "url": "https://finance.yahoo.com/news/surprising-china-news-sends-nvidia-231700938.html"
             },
             {
                 "headline": "The White House has paused plans to restrict sales of Nvidia H20 chips to Chinese firms, NPR reported Wednesday.",
@@ -255,10 +300,30 @@
                 "ticker": "NVDA",
                 "title": "Trump Pauses Plans to Curb Nvidia H20 Chip Sales to Chinese Firms, Report Says",
                 "url": "https://finance.yahoo.com/news/trump-pauses-plans-curb-nvidia-221946504.html"
+            },
+            {
+                "headline": "President Trump's announcement of tariffs on imports from countries worldwide has rocked the stock market -- and the tech-heavy Nasdaq Composite (NASDAQINDEX: ^IXIC) has led the decline, crashing more than 20% from its most recent high.  Why are tech stocks being hit so hard?  All this has prompted investors to worry about tech earnings ahead, fleeing shares of these companies.",
+                "publication_date": "2025-04-09T22:10:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.3749",
+                "source": "Motley Fool",
+                "ticker": "NVDA",
+                "title": "The Stock Market Has Crashed: My Top 5 Dirt Cheap Tech Stocks to Buy Now",
+                "url": "https://finance.yahoo.com/news/stock-market-crashed-top-5-221000917.html"
+            },
+            {
+                "headline": "Nvidia's stock price surged nearly 19% on April 9.",
+                "publication_date": "2025-04-09T23:17:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "TheStreet",
+                "ticker": "NVDA",
+                "title": "Surprising China news sends Nvidia stock surging",
+                "url": "https://finance.yahoo.com/news/surprising-china-news-sends-nvidia-231700938.html"
             }
         ],
-        "avgScore": 0.21403333333333333
+        "avgScore": 0.005199999999999994
     },
-    "coef": -0.6000000000000001,
-    "avgCoef": 0.2221565919801814
+    "coef": -0.7,
+    "avgCoef": 0.1589406759987285
 }

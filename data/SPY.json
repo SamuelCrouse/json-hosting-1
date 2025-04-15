@@ -1,4 +1,29 @@
 {
+    "4 15 2025": {
+        "importantArticles": [
+            {
+                "headline": "One of the biggest two-day sell-offs in stock market history saw investors pile into the stock market earlier this month.",
+                "publication_date": "2025-04-15T13:36:41.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Yahoo Finance",
+                "ticker": "SPY",
+                "title": "Investors aggressively buy the dip as Trump's tariff turmoil continues to shake markets",
+                "url": "https://finance.yahoo.com/news/investors-aggressively-buy-the-dip-as-trumps-tariff-turmoil-continues-to-shake-markets-133641635.html"
+            },
+            {
+                "headline": "One of the biggest two-day sell-offs in stock market history saw investors pile into the stock market earlier this month.",
+                "publication_date": "2025-04-15T13:36:41.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Yahoo Finance",
+                "ticker": "SPY",
+                "title": "Investors aggressively buy the dip as Trump's tariff turmoil continues to shake markets",
+                "url": "https://finance.yahoo.com/news/investors-aggressively-buy-the-dip-as-trumps-tariff-turmoil-continues-to-shake-markets-133641635.html"
+            }
+        ],
+        "avgScore": 0.0
+    },
     "4 14 2025": {
         "importantArticles": [
             {
@@ -22,26 +47,6 @@
                 "url": "https://finance.yahoo.com/news/only-investment-warren-buffett-recommended-075100020.html"
             },
             {
-                "headline": "Wall Street is bracing for another week of tariff-fueled whiplash.",
-                "publication_date": "2025-04-14T20:00:38.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Yahoo Finance",
-                "ticker": "SPY",
-                "title": "Stock market today: Dow, S&P 500, Nasdaq rally for 2nd day, Apple jumps on tech tariff reprieve",
-                "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rally-for-2nd-day-apple-jumps-on-tech-tariff-reprieve-200038586.html"
-            },
-            {
-                "headline": "Wall Street is bracing for another week of tariff-fueled whiplash.",
-                "publication_date": "2025-04-14T20:00:38.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Yahoo Finance",
-                "ticker": "SPY",
-                "title": "Stock market today: Dow, S&P 500, Nasdaq rally for 2nd day, Apple jumps on tech tariff reprieve",
-                "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rally-for-2nd-day-apple-jumps-on-tech-tariff-reprieve-200038586.html"
-            },
-            {
                 "headline": "Though the Oracle of Omaha doesn't offer stock-specific recommendations, he has one investment in mind that's perfect for everyday investors.",
                 "publication_date": "2025-04-14T07:51:00.000Z",
                 "sentiment": "Positive",
@@ -62,7 +67,7 @@
                 "url": "https://finance.yahoo.com/news/top-etf-stories-last-week-173400787.html"
             }
         ],
-        "avgScore": 0.40293333333333337
+        "avgScore": 0.6044
     },
     "4 11 2025": {
         "importantArticles": [
@@ -324,6 +329,6 @@
         ],
         "avgScore": -0.2051666666666667
     },
-    "coef": -0.3,
-    "avgCoef": 0.2221565919801814
+    "coef": -0.3714285714285715,
+    "avgCoef": 0.15979101613478291
 }

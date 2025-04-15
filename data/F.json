@@ -1,4 +1,69 @@
 {
+    "4 15 2025": {
+        "importantArticles": [
+            {
+                "headline": "Ford stock yields a big 6.5% right now, but is the dividend safe?",
+                "publication_date": "2025-04-15T11:30:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5927",
+                "source": "Motley Fool",
+                "ticker": "F",
+                "title": "Here's How Many Shares of Ford You Should Own to Get $500 in Yearly Dividends",
+                "url": "https://finance.yahoo.com/news/heres-many-shares-ford-own-113000259.html"
+            },
+            {
+                "headline": "To protect Ontarians, government needs to let them keep more of their money and make more of their own decisions",
+                "publication_date": "2025-04-15T10:00:05.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.3818",
+                "source": "Financial Post",
+                "ticker": "F",
+                "title": "Matthew Lau: Ontario budget should ignore Doug Ford\u2019s campaign promises",
+                "url": "https://finance.yahoo.com/news/matthew-lau-ontario-budget-ignore-100005873.html"
+            },
+            {
+                "headline": "Canada said that automakers will be allowed to continue to import a certain number of US-made cars and trucks, tariff-free, provided they keep manufacturing vehicles in the country. Keith Naughton reports on Bloomberg Television.",
+                "publication_date": "2025-04-15T14:16:56.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.34",
+                "source": "Bloomberg",
+                "ticker": "F",
+                "title": "Canada Offers Automakers Tariff Exemption on Imports",
+                "url": "https://finance.yahoo.com/video/canada-offers-automakers-tariff-exemption-141656873.html"
+            },
+            {
+                "headline": "Barclays analyst Dan Levy downgraded his view of the sector to \u201cNegative\u201d and cut his rating for General Motors to Hold from Buy.",
+                "publication_date": "2025-04-15T13:58:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.2732",
+                "source": "Barrons.com",
+                "ticker": "F",
+                "title": "GM Stock Falls on 43% Price-Target Cut. Auto Shares Aren\u2019t Reflecting \u2018Full Tariff Risk.\u2019",
+                "url": "https://finance.yahoo.com/m/021b23ed-f612-36e2-bbde-04287bedb568/gm-stock-falls-on-43-.html"
+            },
+            {
+                "headline": "The New York Stock Exchange (NYSE) provides a daily pre-market update directly from the NYSE Trading Floor. Access today's NYSE Pre-market update for market insights before trading begins.",
+                "publication_date": "2025-04-15T12:55:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "PR Newswire",
+                "ticker": "F",
+                "title": "NYSE Content Advisory: Pre-Market update + Bank of America beats earnings estimates",
+                "url": "https://finance.yahoo.com/news/nyse-content-advisory-pre-market-125500437.html"
+            },
+            {
+                "headline": "Griffon and Cars.com's have been highlighted as Zacks Bull and Bear of the Day",
+                "publication_date": "2025-04-15T12:39:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "F",
+                "title": "Griffon and Cars.com's have been highlighted as Zacks Bull and Bear of the Day",
+                "url": "https://finance.yahoo.com/news/griffon-cars-coms-highlighted-zacks-123900614.html"
+            }
+        ],
+        "avgScore": 0.16431249999999997
+    },
     "4 14 2025": {
         "importantArticles": [
             {
@@ -324,6 +389,6 @@
         ],
         "avgScore": -0.1633
     },
-    "coef": 0.9999999999999999,
-    "avgCoef": 0.2221565919801814
+    "coef": 0.7142857142857143,
+    "avgCoef": 0.16336244470621147
 }

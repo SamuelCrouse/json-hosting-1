@@ -1,4 +1,69 @@
 {
+    "4 15 2025": {
+        "importantArticles": [
+            {
+                "headline": "INTC enters into a definitive agreement to sell a majority stake of its Altera business to Silver Lake for an enterprise value of $8.75 billion.",
+                "publication_date": "2025-04-15T13:32:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6808",
+                "source": "Zacks",
+                "ticker": "INTC",
+                "title": "Intel to Sell 51% Stake in Altera Business: Will it Benefit the Stock?",
+                "url": "https://finance.yahoo.com/news/intel-sell-51-stake-altera-133200062.html"
+            },
+            {
+                "headline": "This transaction values Altera at $8.75bn, with Intel retaining a 49% ownership stake in the unit.",
+                "publication_date": "2025-04-15T09:06:25.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4019",
+                "source": "Verdict",
+                "ticker": "INTC",
+                "title": "Intel to sell majority stake in Altera to Silver Lake",
+                "url": "https://finance.yahoo.com/news/intel-sell-majority-stake-altera-090625006.html"
+            },
+            {
+                "headline": "Intel (NASDAQ: INTC) announced on Monday that it had agreed to sell a 51% stake in Altera, the FPGA specialist it acquired in 2015, to investment firm Silver Lake.  While Intel will retain a 49% stake in the company, it will relinquish operational control as Altera becomes an independent, pure-play FPGA provider.  Intel acquired Altera nearly a decade ago as part of a plan to capture more spending in the data center.",
+                "publication_date": "2025-04-15T10:55:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.2732",
+                "source": "Motley Fool",
+                "ticker": "INTC",
+                "title": "Intel Dumps Altera at a Huge Loss",
+                "url": "https://finance.yahoo.com/news/intel-dumps-altera-huge-loss-105500665.html"
+            },
+            {
+                "headline": "AMD said Tuesday that some of its central-processing units for data centers will be made at Taiwan Semiconductor Manufacturing\u2019s site in Arizona.",
+                "publication_date": "2025-04-15T14:06:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Barrons.com",
+                "ticker": "INTC",
+                "title": "AMD to Make Chips at U.S. Site with TSMC. It\u2019s the Latest Stock to Rev Up U.S. Manufacturing.",
+                "url": "https://finance.yahoo.com/m/2b268bd7-1ac4-3efe-8601-38b8d3b49bb0/amd-to-make-chips-at-u-s-.html"
+            },
+            {
+                "headline": "Companies In The Article Are:PLTR, INTC, DELL,GS",
+                "publication_date": "2025-04-15T13:58:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "INTC",
+                "title": "Company News for Apr 15, 2025",
+                "url": "https://finance.yahoo.com/news/company-news-apr-15-2025-135800533.html"
+            },
+            {
+                "headline": "Despite a brief recovery, structural issues and high valuations weigh heavily on Intel's outlook",
+                "publication_date": "2025-04-15T09:57:56.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "GuruFocus.com",
+                "ticker": "INTC",
+                "title": "Intel: Overblown Optimism Meets Stark Reality",
+                "url": "https://finance.yahoo.com/news/intel-overblown-optimism-meets-stark-095756917.html"
+            }
+        ],
+        "avgScore": 0.191725
+    },
     "4 14 2025": {
         "importantArticles": [
             {
@@ -324,6 +389,6 @@
         ],
         "avgScore": -0.028975
     },
-    "coef": 0.7,
-    "avgCoef": 0.2221565919801814
+    "coef": 0.6,
+    "avgCoef": 0.1493396932558863
 }

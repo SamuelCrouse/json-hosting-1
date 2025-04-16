@@ -1,4 +1,69 @@
 {
+    "4 15 2025": {
+        "importantArticles": [
+            {
+                "headline": "SAN FRANCISCO, April 15, 2025--SoFi Technologies, Inc. (NASDAQ: SOFI), a member-centric, one-stop shop for digital financial services that helps members borrow, save, spend, invest and protect their money, today announced plans to host its 2025 Annual General Meeting of Stockholders (the \"2025 Annual Meeting\") on Wednesday, May 28, 2025, at 7:00 a.m., Pacific Time (10:00 a.m., Eastern Time). The 2025 Annual Meeting will be held virtually.",
+                "publication_date": "2025-04-15T20:10:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8126",
+                "source": "Business Wire",
+                "ticker": "SOFI",
+                "title": "SoFi Schedules 2025 Annual Meeting of Stockholders",
+                "url": "https://finance.yahoo.com/news/sofi-schedules-2025-annual-meeting-201000872.html"
+            },
+            {
+                "headline": "Shares of SoFi Technologies (NASDAQ: SOFI) had a phenomenal two-year run.  As of this writing (April 10), SoFi shares are trading 59% off their peak from February 2021.  This was reflected in the company's lending activities.",
+                "publication_date": "2025-04-15T10:45:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5267",
+                "source": "Motley Fool",
+                "ticker": "SOFI",
+                "title": "Want to Buy the Dip on SoFi Stock? Here's 1 Risk You Need to Know About.",
+                "url": "https://finance.yahoo.com/news/want-buy-dip-sofi-stock-104500660.html"
+            },
+            {
+                "headline": "Long-term investors should buy SoFI (SOFI) stock, according to investment bank William Blair. SOFI poses relatively little risk and can exploit its fairly unique products if a recession arrives, William Blair asserted. Low Risk and Unique Offerings SOFI\u2019s funding risk is relatively low because the company pays high interest rates on its deposits, while it [\u2026]",
+                "publication_date": "2025-04-15T20:50:36.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.7972",
+                "source": "Insider Monkey",
+                "ticker": "SOFI",
+                "title": "Investment Bank Recommends Buying SOFI Stock",
+                "url": "https://finance.yahoo.com/news/investment-bank-recommends-buying-sofi-205036192.html"
+            },
+            {
+                "headline": "Long-term investors should buy SoFI (SOFI) stock, according to investment bank William Blair. SOFI poses relatively little risk and can exploit its fairly unique products if a recession arrives, William Blair asserted. Low Risk and Unique Offerings SOFI\u2019s funding risk is relatively low because the company pays high interest rates on its deposits, while it [\u2026]",
+                "publication_date": "2025-04-15T20:50:36.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.7972",
+                "source": "Insider Monkey",
+                "ticker": "SOFI",
+                "title": "Investment Bank Recommends Buying SOFI Stock",
+                "url": "https://finance.yahoo.com/news/investment-bank-recommends-buying-sofi-205036192.html"
+            },
+            {
+                "headline": "Shares of SoFi Technologies (NASDAQ: SOFI) had a phenomenal two-year run.  As of this writing (April 10), SoFi shares are trading 59% off their peak from February 2021.  This was reflected in the company's lending activities.",
+                "publication_date": "2025-04-15T10:45:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5267",
+                "source": "Motley Fool",
+                "ticker": "SOFI",
+                "title": "Want to Buy the Dip on SoFi Stock? Here's 1 Risk You Need to Know About.",
+                "url": "https://finance.yahoo.com/news/want-buy-dip-sofi-stock-104500660.html"
+            },
+            {
+                "headline": "SAN FRANCISCO, April 15, 2025--SoFi Technologies, Inc. (NASDAQ: SOFI), a member-centric, one-stop shop for digital financial services that helps members borrow, save, spend, invest and protect their money, today announced plans to host its 2025 Annual General Meeting of Stockholders (the \"2025 Annual Meeting\") on Wednesday, May 28, 2025, at 7:00 a.m., Pacific Time (10:00 a.m., Eastern Time). The 2025 Annual Meeting will be held virtually.",
+                "publication_date": "2025-04-15T20:10:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8126",
+                "source": "Business Wire",
+                "ticker": "SOFI",
+                "title": "SoFi Schedules 2025 Annual Meeting of Stockholders",
+                "url": "https://finance.yahoo.com/news/sofi-schedules-2025-annual-meeting-201000872.html"
+            }
+        ],
+        "avgScore": 0.18069999999999997
+    },
     "4 14 2025": {
         "importantArticles": [
             {
@@ -264,6 +329,6 @@
         ],
         "avgScore": 0.3033
     },
-    "coef": 0.6,
-    "avgCoef": 0.21021207668887865
+    "coef": 0.3142857142857143,
+    "avgCoef": 0.1821523539492593
 }

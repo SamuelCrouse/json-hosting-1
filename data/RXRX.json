@@ -1,4 +1,29 @@
 {
+    "4 15 2025": {
+        "importantArticles": [
+            {
+                "headline": "We recently published a list of Tech Firms Dominate Monday\u2019s 10 Worst Performers. In this article, we are going to take a look at where Recursion Pharmaceuticals, Inc. (NASDAQ:RXRX) stands against other tech firms that dominate Monday\u2019s worst performers. Wall Street\u2019s main indices kicked off the trading week in the green territory, albeit with minimal gains, [\u2026]",
+                "publication_date": "2025-04-15T05:07:51.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.8316",
+                "source": "Insider Monkey",
+                "ticker": "RXRX",
+                "title": "Why Recursion Pharmaceuticals, Inc.\u00a0(RXRX) Went Down On Monday?",
+                "url": "https://finance.yahoo.com/news/why-recursion-pharmaceuticals-inc-rxrx-050751253.html"
+            },
+            {
+                "headline": "We recently published a list of Tech Firms Dominate Monday\u2019s 10 Worst Performers. In this article, we are going to take a look at where Recursion Pharmaceuticals, Inc. (NASDAQ:RXRX) stands against other tech firms that dominate Monday\u2019s worst performers. Wall Street\u2019s main indices kicked off the trading week in the green territory, albeit with minimal gains, [\u2026]",
+                "publication_date": "2025-04-15T05:07:51.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.8316",
+                "source": "Insider Monkey",
+                "ticker": "RXRX",
+                "title": "Why Recursion Pharmaceuticals, Inc.\u00a0(RXRX) Went Down On Monday?",
+                "url": "https://finance.yahoo.com/news/why-recursion-pharmaceuticals-inc-rxrx-050751253.html"
+            }
+        ],
+        "avgScore": -0.8316
+    },
     "4 14 2025": {
         "importantArticles": [
             {
@@ -134,31 +159,6 @@
         ],
         "avgScore": 0.2202
     },
-    "4 8 2025": {
-        "importantArticles": [
-            {
-                "headline": "REC-3565 is a potential best-in-class MALT1 inhibitor for multiple hematology indications, designed to reduce the risk of hyperbilirubinemia, a common side effect of other MALT1 inhibitorsSalt Lake City, UT, April 08, 2025 (GLOBE NEWSWIRE) -- Recursion (Nasdaq: RXRX), a leading clinical stage TechBio company decoding biology to radically improve lives, today announced that the first patient has been dosed in the Phase 1 EXCELERIZE clinical study evaluating REC-3565 for the treatment of relapsed",
-                "publication_date": "2025-04-08T12:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.128",
-                "source": "GlobeNewswire",
-                "ticker": "RXRX",
-                "title": "Recursion Announces First Patient Dosed in Phase 1 Clinical Study of REC-3565, a Selective MALT1 Inhibitor for Relapsed or Refractory B-cell Lymphomas",
-                "url": "https://finance.yahoo.com/news/recursion-announces-first-patient-dosed-120000229.html"
-            },
-            {
-                "headline": "REC-3565 is a potential best-in-class MALT1 inhibitor for multiple hematology indications, designed to reduce the risk of hyperbilirubinemia, a common side effect of other MALT1 inhibitorsSalt Lake City, UT, April 08, 2025 (GLOBE NEWSWIRE) -- Recursion (Nasdaq: RXRX), a leading clinical stage TechBio company decoding biology to radically improve lives, today announced that the first patient has been dosed in the Phase 1 EXCELERIZE clinical study evaluating REC-3565 for the treatment of relapsed",
-                "publication_date": "2025-04-08T12:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.128",
-                "source": "GlobeNewswire",
-                "ticker": "RXRX",
-                "title": "Recursion Announces First Patient Dosed in Phase 1 Clinical Study of REC-3565, a Selective MALT1 Inhibitor for Relapsed or Refractory B-cell Lymphomas",
-                "url": "https://finance.yahoo.com/news/recursion-announces-first-patient-dosed-120000229.html"
-            }
-        ],
-        "avgScore": 0.128
-    },
-    "coef": 0.39999999999999997,
-    "avgCoef": 0.17835701548770636
+    "coef": 0.7999999999999999,
+    "avgCoef": 0.1597447680232645
 }

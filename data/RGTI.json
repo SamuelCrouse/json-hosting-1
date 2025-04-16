@@ -1,4 +1,29 @@
 {
+    "4 15 2025": {
+        "importantArticles": [
+            {
+                "headline": "We recently published a list of Tech Firms Dominate Monday\u2019s 10 Worst Performers. In this article, we are going to take a look at where Rigetti Computing Inc. (NASDAQ:RGTI) stands against other tech firms that dominate Monday\u2019s worst performers. Wall Street\u2019s main indices kicked off the trading week in the green territory, albeit with minimal [\u2026]",
+                "publication_date": "2025-04-15T05:08:49.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.8807",
+                "source": "Insider Monkey",
+                "ticker": "RGTI",
+                "title": "Why Rigetti Computing Inc. (RGTI) Went Down On Monday?",
+                "url": "https://finance.yahoo.com/news/why-rigetti-computing-inc-rgti-050849612.html"
+            },
+            {
+                "headline": "We recently published a list of Tech Firms Dominate Monday\u2019s 10 Worst Performers. In this article, we are going to take a look at where Rigetti Computing Inc. (NASDAQ:RGTI) stands against other tech firms that dominate Monday\u2019s worst performers. Wall Street\u2019s main indices kicked off the trading week in the green territory, albeit with minimal [\u2026]",
+                "publication_date": "2025-04-15T05:08:49.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.8807",
+                "source": "Insider Monkey",
+                "ticker": "RGTI",
+                "title": "Why Rigetti Computing Inc. (RGTI) Went Down On Monday?",
+                "url": "https://finance.yahoo.com/news/why-rigetti-computing-inc-rgti-050849612.html"
+            }
+        ],
+        "avgScore": -0.8807
+    },
     "4 10 2025": {
         "importantArticles": [
             {
@@ -69,71 +94,6 @@
         ],
         "avgScore": -0.3182
     },
-    "4 8 2025": {
-        "importantArticles": [
-            {
-                "headline": "What caused Rigetti's dramatic fall from grace in early 2025? Here's a sobering look at the current state and future prospects of quantum computing experts.",
-                "publication_date": "2025-04-08T19:57:36.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4939",
-                "source": "Motley Fool",
-                "ticker": "RGTI",
-                "title": "How Rigetti's 2024 Quantum Dreams Turned Into 2025 Nightmares",
-                "url": "https://finance.yahoo.com/news/rigettis-2024-quantum-dreams-turned-195736074.html"
-            },
-            {
-                "headline": "Nasdaq witnesses its largest intraday comeback since Oct. 10, 2008. We highlight five stocks at the forefront of the rebound.",
-                "publication_date": "2025-04-08T16:10:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.34",
-                "source": "Zacks",
-                "ticker": "RGTI",
-                "title": "5 Stocks in Nasdaq ETF Fueling Index's Big Comeback Since 2008",
-                "url": "https://finance.yahoo.com/news/5-stocks-nasdaq-etf-fueling-161000332.html"
-            },
-            {
-                "headline": "We recently published a list of AI Stocks Dominate Monday\u2019s Top 10 Performers. In this article, we are going to take a look at where Rigetti Computing Inc. (NASDAQ:RGTI) stands against other AI stocks that dominate Monday\u2019s top performers. The stock market finished mixed on Monday as investors remained cautious over the escalating trade tensions [\u2026]",
-                "publication_date": "2025-04-08T10:19:03.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.3612",
-                "source": "Insider Monkey",
-                "ticker": "RGTI",
-                "title": "Why Rigetti Computing Inc. (RGTI) Went Up On Monday?",
-                "url": "https://finance.yahoo.com/news/why-rigetti-computing-inc-rgti-101903091.html"
-            },
-            {
-                "headline": "We recently published a list of AI Stocks Dominate Monday\u2019s Top 10 Performers. In this article, we are going to take a look at where Rigetti Computing Inc. (NASDAQ:RGTI) stands against other AI stocks that dominate Monday\u2019s top performers. The stock market finished mixed on Monday as investors remained cautious over the escalating trade tensions [\u2026]",
-                "publication_date": "2025-04-08T10:19:03.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.3612",
-                "source": "Insider Monkey",
-                "ticker": "RGTI",
-                "title": "Why Rigetti Computing Inc. (RGTI) Went Up On Monday?",
-                "url": "https://finance.yahoo.com/news/why-rigetti-computing-inc-rgti-101903091.html"
-            },
-            {
-                "headline": "Nasdaq witnesses its largest intraday comeback since Oct. 10, 2008. We highlight five stocks at the forefront of the rebound.",
-                "publication_date": "2025-04-08T16:10:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.34",
-                "source": "Zacks",
-                "ticker": "RGTI",
-                "title": "5 Stocks in Nasdaq ETF Fueling Index's Big Comeback Since 2008",
-                "url": "https://finance.yahoo.com/news/5-stocks-nasdaq-etf-fueling-161000332.html"
-            },
-            {
-                "headline": "What caused Rigetti's dramatic fall from grace in early 2025? Here's a sobering look at the current state and future prospects of quantum computing experts.",
-                "publication_date": "2025-04-08T19:57:36.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4939",
-                "source": "Motley Fool",
-                "ticker": "RGTI",
-                "title": "How Rigetti's 2024 Quantum Dreams Turned Into 2025 Nightmares",
-                "url": "https://finance.yahoo.com/news/rigettis-2024-quantum-dreams-turned-195736074.html"
-            }
-        ],
-        "avgScore": 0.1575666666666667
-    },
-    "coef": -1.0,
-    "avgCoef": 0.17153285927955284
+    "coef": 0.5,
+    "avgCoef": 0.13469704394396398
 }

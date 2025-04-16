@@ -114,51 +114,6 @@
         ],
         "avgScore": -0.33505
     },
-    "4 8 2025": {
-        "importantArticles": [
-            {
-                "headline": "Today's Research Daily features new research reports on 16 major stocks, including Walmart Inc. (WMT), The Coca-Cola Company (KO) and HSBC Holdings plc (HSBC), as well a micro-cap stock Friedman Industries Inc. Common Stock (FRD).",
-                "publication_date": "2025-04-08T20:31:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.2732",
-                "source": "Zacks",
-                "ticker": "PBR",
-                "title": "Top Stock Reports for Walmart, Coca-Cola & HSBC",
-                "url": "https://finance.yahoo.com/news/top-stock-reports-walmart-coca-203100481.html"
-            },
-            {
-                "headline": "We recently published a list of Chinese Stocks Dominate Monday\u2019s 10 Worst Performers. In this article, we are going to take a look at where Petroleo Brasileiro SA \u2013 Petrobras (NYSE:PBR) stands against other Chinese stocks that performed worst on Monday. Wall Street\u2019s main indices finished mixed on Monday as investors remained cautious amid the escalating [\u2026]",
-                "publication_date": "2025-04-08T13:24:23.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.8779",
-                "source": "Insider Monkey",
-                "ticker": "PBR",
-                "title": "Why Petroleo Brasileiro SA \u2013 Petrobras\u00a0(PBR) Went Down On Monday?",
-                "url": "https://finance.yahoo.com/news/why-petroleo-brasileiro-sa-petrobras-132423389.html"
-            },
-            {
-                "headline": "We recently published a list of Chinese Stocks Dominate Monday\u2019s 10 Worst Performers. In this article, we are going to take a look at where Petroleo Brasileiro SA \u2013 Petrobras (NYSE:PBR) stands against other Chinese stocks that performed worst on Monday. Wall Street\u2019s main indices finished mixed on Monday as investors remained cautious amid the escalating [\u2026]",
-                "publication_date": "2025-04-08T13:24:23.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.8779",
-                "source": "Insider Monkey",
-                "ticker": "PBR",
-                "title": "Why Petroleo Brasileiro SA \u2013 Petrobras\u00a0(PBR) Went Down On Monday?",
-                "url": "https://finance.yahoo.com/news/why-petroleo-brasileiro-sa-petrobras-132423389.html"
-            },
-            {
-                "headline": "Today's Research Daily features new research reports on 16 major stocks, including Walmart Inc. (WMT), The Coca-Cola Company (KO) and HSBC Holdings plc (HSBC), as well a micro-cap stock Friedman Industries Inc. Common Stock (FRD).",
-                "publication_date": "2025-04-08T20:31:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.2732",
-                "source": "Zacks",
-                "ticker": "PBR",
-                "title": "Top Stock Reports for Walmart, Coca-Cola & HSBC",
-                "url": "https://finance.yahoo.com/news/top-stock-reports-walmart-coca-203100481.html"
-            }
-        ],
-        "avgScore": -0.30235
-    },
-    "coef": 0.6000000000000001,
-    "avgCoef": 0.17333393812080783
+    "coef": 0.5,
+    "avgCoef": 0.16736804904677857
 }

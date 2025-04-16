@@ -52,17 +52,17 @@
                 "url": "https://finance.yahoo.com/news/1-spectacular-vanguard-etf-buy-093400403.html"
             },
             {
-                "headline": "GeForce RTX 5060 Family Transforms Ordinary PCs Into Next-Generation Gaming Rigs NVIDIA GeForce RTX 5060 Ti The GeForce RTX 5060 Ti and RTX 5060 graphics cards feature NVIDIA DLSS 4, full ray tracing, neural rendering and NVIDIA Reflex technologies for exceptional performance and image quality. SANTA CLARA, Calif., April 15, 2025 (GLOBE NEWSWIRE) -- NVIDIA today announced the NVIDIA GeForce RTX\u2122 5060 family of GPUs, including two graphics cards that deliver neural rendering and NVIDIA Blackwell",
-                "publication_date": "2025-04-15T13:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "GlobeNewswire",
+                "headline": "The Dow Jones and S&P 500 rose Tuesday midday adding to Monday's hearty gains. These stocks broke out on the stock market today.",
+                "publication_date": "2025-04-15T16:32:01.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.1027",
+                "source": "Investor's Business Daily",
                 "ticker": "NVDA",
-                "title": "NVIDIA Blackwell GeForce RTX Arrives for Every Gamer, Starting at $299",
-                "url": "https://finance.yahoo.com/news/nvidia-blackwell-geforce-rtx-arrives-130000348.html"
+                "title": "Stock Market Today: Dow Jones Lags While Netflix Leads S&P 500; These Names Break Out Of Similar Bases (Live Coverage)",
+                "url": "https://finance.yahoo.com/m/05dbfc24-c26d-3a9b-8683-7997581c6245/stock-market-today-dow-jones.html"
             }
         ],
-        "avgScore": 0.31993750000000004
+        "avgScore": 0.31772222222222224
     },
     "4 14 2025": {
         "importantArticles": [
@@ -127,7 +127,7 @@
                 "url": "https://finance.yahoo.com/m/9b1fef3c-4b35-3f2f-b97e-b18799f5bfe4/nvidia-says-it-will-make-ai.html"
             }
         ],
-        "avgScore": 0.2658953846153847
+        "avgScore": 0.26810000000000006
     },
     "4 11 2025": {
         "importantArticles": [
@@ -257,73 +257,8 @@
                 "url": "https://finance.yahoo.com/news/nvidia-nvda-jim-cramer-pleads-154945963.html"
             }
         ],
-        "avgScore": 0.330131914893617
+        "avgScore": 0.30844047619047615
     },
-    "4 9 2025": {
-        "importantArticles": [
-            {
-                "headline": "Nvidia CEO Jensen Huang appears to have struck a deal with the Trump administration to avoid export restrictions on the company's H20 AI chips. The H20, the most advanced Nvidia-produced AI chip that can still be exported from the U.S. to China, was reportedly spared thanks to a promise from Huang to invest in new AI data centers in the U.S. According to NPR, Huang made the proposal during a dinner at Trump's Mar-a-Lago resort sometime last week. Nvidia declined to comment. Many in the semicondu",
-                "publication_date": "2025-04-09T21:07:20.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.5095",
-                "source": "TechCrunch",
-                "ticker": "NVDA",
-                "title": "Nvidia's H20 AI chips may be spared from export controls \u2014\u00a0for now",
-                "url": "https://finance.yahoo.com/news/nvidias-h20-ai-chips-may-210720286.html"
-            },
-            {
-                "headline": "The Trump administration stepped back from a crackdown on Nvidia's (NVDA) chip exports to China following CEO Jensen Huang's attendance at a $1 million-per-person dinner at Mar-a-Lago last week. Yahoo Finance Technology Editor Dan Howley joins Market Domination to discuss how Nvidia's ability to continue exporting the H20 chip impacts the company's revenue and relationship with the US government. To watch more expert insights and analysis on the latest market action, check out more Market Domination&nbsp;here.",
-                "publication_date": "2025-04-09T20:55:07.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.2732",
-                "source": "Yahoo Finance Video",
-                "ticker": "NVDA",
-                "title": "Trump administration eases on Nvidia H20 chip crackdown",
-                "url": "https://finance.yahoo.com/video/trump-administration-eases-nvidia-h20-205507370.html"
-            },
-            {
-                "headline": "Nvidia's stock price surged nearly 19% on April 9.",
-                "publication_date": "2025-04-09T23:17:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "TheStreet",
-                "ticker": "NVDA",
-                "title": "Surprising China news sends Nvidia stock surging",
-                "url": "https://finance.yahoo.com/news/surprising-china-news-sends-nvidia-231700938.html"
-            },
-            {
-                "headline": "The White House has paused plans to restrict sales of Nvidia H20 chips to Chinese firms, NPR reported Wednesday.",
-                "publication_date": "2025-04-09T22:19:46.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.3818",
-                "source": "Investopedia",
-                "ticker": "NVDA",
-                "title": "Trump Pauses Plans to Curb Nvidia H20 Chip Sales to Chinese Firms, Report Says",
-                "url": "https://finance.yahoo.com/news/trump-pauses-plans-curb-nvidia-221946504.html"
-            },
-            {
-                "headline": "President Trump's announcement of tariffs on imports from countries worldwide has rocked the stock market -- and the tech-heavy Nasdaq Composite (NASDAQINDEX: ^IXIC) has led the decline, crashing more than 20% from its most recent high.  Why are tech stocks being hit so hard?  All this has prompted investors to worry about tech earnings ahead, fleeing shares of these companies.",
-                "publication_date": "2025-04-09T22:10:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.3749",
-                "source": "Motley Fool",
-                "ticker": "NVDA",
-                "title": "The Stock Market Has Crashed: My Top 5 Dirt Cheap Tech Stocks to Buy Now",
-                "url": "https://finance.yahoo.com/news/stock-market-crashed-top-5-221000917.html"
-            },
-            {
-                "headline": "Nvidia's stock price surged nearly 19% on April 9.",
-                "publication_date": "2025-04-09T23:17:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "TheStreet",
-                "ticker": "NVDA",
-                "title": "Surprising China news sends Nvidia stock surging",
-                "url": "https://finance.yahoo.com/news/surprising-china-news-sends-nvidia-231700938.html"
-            }
-        ],
-        "avgScore": 0.005199999999999994
-    },
-    "coef": -0.7,
-    "avgCoef": 0.1589406759987285
+    "coef": -0.19999999999999998,
+    "avgCoef": 0.15639851678529806
 }

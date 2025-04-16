@@ -1,4 +1,29 @@
 {
+    "4 15 2025": {
+        "importantArticles": [
+            {
+                "headline": "Poised for Explosive Growth and Profitability",
+                "publication_date": "2025-04-15T09:57:38.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6908",
+                "source": "GuruFocus.com",
+                "ticker": "NU",
+                "title": "Nu Holdings: The Undervalued Fintech Disrupting Latin America",
+                "url": "https://finance.yahoo.com/news/nu-holdings-undervalued-fintech-disrupting-095738653.html"
+            },
+            {
+                "headline": "Poised for Explosive Growth and Profitability",
+                "publication_date": "2025-04-15T09:57:38.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6908",
+                "source": "GuruFocus.com",
+                "ticker": "NU",
+                "title": "Nu Holdings: The Undervalued Fintech Disrupting Latin America",
+                "url": "https://finance.yahoo.com/news/nu-holdings-undervalued-fintech-disrupting-095738653.html"
+            }
+        ],
+        "avgScore": 0.6908
+    },
     "4 14 2025": {
         "importantArticles": [
             {
@@ -174,6 +199,6 @@
         ],
         "avgScore": 0.8635999999999999
     },
-    "coef": -0.5,
-    "avgCoef": 0.22137321862097198
+    "coef": -0.19999999999999998,
+    "avgCoef": 0.1640010934450576
 }

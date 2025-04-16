@@ -1,4 +1,69 @@
 {
+    "4 15 2025": {
+        "importantArticles": [
+            {
+                "headline": "We recently published a list of 11 Top Performing European Stocks So Far In 2025. In this article, we are going to take a look at where Lloyds Banking Group plc (NYSE:LYG) stands against other best performing European stocks to invest in. The world economy is hanging by a thread, as the macroeconomic environment consists [\u2026]",
+                "publication_date": "2025-04-15T12:50:28.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7184",
+                "source": "Insider Monkey",
+                "ticker": "LYG",
+                "title": "Is Lloyds Banking Group (LYG) The Best Performing Stock in Europe?",
+                "url": "https://finance.yahoo.com/news/lloyds-banking-group-lyg-best-125028908.html"
+            },
+            {
+                "headline": "The United Kingdom's FTSE 100 index has recently experienced a downturn, influenced by weak trade data from China and global economic uncertainties. Despite these challenges, dividend stocks remain an attractive option for investors seeking steady income streams, as they can provide a cushion against market volatility while offering potential long-term growth.",
+                "publication_date": "2025-04-15T06:34:12.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4172",
+                "source": "Simply Wall St.",
+                "ticker": "LYG",
+                "title": "Top 3 UK Dividend Stocks To Consider",
+                "url": "https://finance.yahoo.com/news/top-3-uk-dividend-stocks-063412549.html"
+            },
+            {
+                "headline": "Lenders stepping up mortgage price war in apparent response to financial turmoil sparked by US tariffs",
+                "publication_date": "2025-04-15T12:58:24.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.7506",
+                "source": "The Guardian",
+                "ticker": "LYG",
+                "title": "HSBC and Co-op Bank cut mortgage rates as Halifax and Lloyds ease rules",
+                "url": "https://finance.yahoo.com/news/hsbc-co-op-bank-cut-125824076.html"
+            },
+            {
+                "headline": "Lenders stepping up mortgage price war in apparent response to financial turmoil sparked by US tariffs",
+                "publication_date": "2025-04-15T12:58:24.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.7506",
+                "source": "The Guardian",
+                "ticker": "LYG",
+                "title": "HSBC and Co-op Bank cut mortgage rates as Halifax and Lloyds ease rules",
+                "url": "https://finance.yahoo.com/news/hsbc-co-op-bank-cut-125824076.html"
+            },
+            {
+                "headline": "The United Kingdom's FTSE 100 index has recently experienced a downturn, influenced by weak trade data from China and global economic uncertainties. Despite these challenges, dividend stocks remain an attractive option for investors seeking steady income streams, as they can provide a cushion against market volatility while offering potential long-term growth.",
+                "publication_date": "2025-04-15T06:34:12.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4172",
+                "source": "Simply Wall St.",
+                "ticker": "LYG",
+                "title": "Top 3 UK Dividend Stocks To Consider",
+                "url": "https://finance.yahoo.com/news/top-3-uk-dividend-stocks-063412549.html"
+            },
+            {
+                "headline": "We recently published a list of 11 Top Performing European Stocks So Far In 2025. In this article, we are going to take a look at where Lloyds Banking Group plc (NYSE:LYG) stands against other best performing European stocks to invest in. The world economy is hanging by a thread, as the macroeconomic environment consists [\u2026]",
+                "publication_date": "2025-04-15T12:50:28.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7184",
+                "source": "Insider Monkey",
+                "ticker": "LYG",
+                "title": "Is Lloyds Banking Group (LYG) The Best Performing Stock in Europe?",
+                "url": "https://finance.yahoo.com/news/lloyds-banking-group-lyg-best-125028908.html"
+            }
+        ],
+        "avgScore": 0.12833333333333338
+    },
     "4 11 2025": {
         "importantArticles": [
             {
@@ -69,6 +134,6 @@
         ],
         "avgScore": 0.28595
     },
-    "coef": 0.9999999999999999,
-    "avgCoef": 0.16047885905138534
+    "coef": 0.5,
+    "avgCoef": 0.183356562458155
 }

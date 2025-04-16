@@ -67,6 +67,16 @@
     "4 14 2025": {
         "importantArticles": [
             {
+                "headline": "Market Domination host Josh Lipton goes over some of the top stories of the day in this segment of Market Minute. Automaker stocks like General Motors (GM), Ford (F), and Stellantis (STLA) are gaining on Monday after President Trump suggested that automakers could possibly see some tariff relief. Webull (BULL) stock is skyrocketing after the company went public through a special-purpose acquisition company (SPAC) merger. DuPont (DD) was upgraded by KeyBanc to Overweight from Sector Weight, citing the company's strong balance sheet amid economic uncertainty. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
+                "publication_date": "2025-04-14T18:22:21.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8126",
+                "source": "Yahoo Finance Video",
+                "ticker": "F",
+                "title": "Automaker stocks pop, Webull skyrockets, DuPont upgraded",
+                "url": "https://finance.yahoo.com/video/automaker-stocks-pop-webull-skyrockets-182221164.html"
+            },
+            {
                 "headline": "Jeff Bezos is reportedly backing a Michigan-based all-electric mobility startup, Slate Auto, with a goal of developing a cheap single-cab EV truck to take on the likes of Tesla Inc. (NASDAQ:TSLA) and Rivian Automotive Inc. (NASDAQ:RIVN). What happened: A report published by TechCrunch shared that the company is backed by Amazon.com Inc. (NASDAQ:AMZN) founder Jeff Bezos. The report said that Slate Auto has brought in people from the likes of Ford Motor Co. (NYSE:F), Harley-Davidson Inc. (NYSE:HOG",
                 "publication_date": "2025-04-14T21:30:25.000Z",
                 "sentiment": "Positive",
@@ -85,16 +95,6 @@
                 "ticker": "F",
                 "title": "Trump Looks at Tariff Pause for Some Autos",
                 "url": "https://finance.yahoo.com/m/60179d67-8a11-3573-a9ee-b0ed5ba4b4f6/trump-looks-at-tariff-pause.html"
-            },
-            {
-                "headline": "GM is halting BrightDrop production amid slow sales. But with EV growth, cost-cutting and investor-friendly moves, GM looks like a buy now.",
-                "publication_date": "2025-04-14T13:32:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7684",
-                "source": "Zacks",
-                "ticker": "F",
-                "title": "GM Hits the Brakes on BrightDrop: Time to Rethink About the Stock?",
-                "url": "https://finance.yahoo.com/news/gm-hits-brakes-brightdrop-time-133200951.html"
             },
             {
                 "headline": "F's low valuation and dividend yield may seem attractive, but EV losses, ICE weakness & tariff risks cloud its overall outlook.",
@@ -127,7 +127,7 @@
                 "url": "https://finance.yahoo.com/news/trump-tangled-tariffs-sow-confusion-122723925.html"
             }
         ],
-        "avgScore": 0.25768
+        "avgScore": 0.2926666666666667
     },
     "4 11 2025": {
         "importantArticles": [
@@ -389,6 +389,6 @@
         ],
         "avgScore": -0.1633
     },
-    "coef": 0.7142857142857143,
-    "avgCoef": 0.16336244470621147
+    "coef": 0.6,
+    "avgCoef": 0.1622808697264745
 }

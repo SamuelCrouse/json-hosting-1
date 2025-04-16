@@ -1,4 +1,69 @@
 {
+    "4 15 2025": {
+        "importantArticles": [
+            {
+                "headline": "Bank of America (NYSE:BAC) recently reported impressive first-quarter earnings, with net income rising to $7.4 billion and EPS increasing to $0.90. This robust financial performance likely played a role in the company's 3% price increase last week, aligning with strong market trends that saw bank stocks lift the indexes. Despite ongoing trade tensions with China affecting some sectors, the financial sector showed resilience, with banks like Citigroup also reporting positive results. The...",
+                "publication_date": "2025-04-15T17:19:04.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9641",
+                "source": "Simply Wall St.",
+                "ticker": "BAC",
+                "title": "Bank of America (NYSE:BAC) Reports Higher Q1 Earnings and Net Interest Income",
+                "url": "https://finance.yahoo.com/news/bank-america-nyse-bac-reports-171904579.html"
+            },
+            {
+                "headline": "We recently published a list of the 10 Best Value Dividend Stocks to Buy According to Billionaires. In this article, we are going to take a look at where Bank of America Corporation (NYSE:BAC) stands against other best value dividend stocks. Dividends, though sometimes underappreciated, have significantly contributed to long-term investor gains. Between 1960 and the [\u2026]",
+                "publication_date": "2025-04-15T11:36:40.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9393",
+                "source": "Insider Monkey",
+                "ticker": "BAC",
+                "title": "Is Bank of America (BAC) The Best Value Dividend Stock to Buy According to Billionaires?",
+                "url": "https://finance.yahoo.com/news/bank-america-bac-best-value-113640624.html"
+            },
+            {
+                "headline": "Citi and Bank of America posted first-quarter net interest income of $14 billion and $14.4 billion, respectively.  Wall Street expected $14.49 billion of NII for the quarter at BofA, according to data compiled by FactSet, and $13.56 billion at Citi.  BofA said in January that it expected to drive between $14.5 billion and $14.6 billion of net interest income on a fully taxable equivalent basis for the first quarter.",
+                "publication_date": "2025-04-15T14:06:51.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8126",
+                "source": "Barrons.com",
+                "ticker": "BAC",
+                "title": "Bank of America and Citi Report Higher NII, Reiterate Outlook",
+                "url": "https://finance.yahoo.com/m/fdf73818-b495-3cef-9a72-be51a13cb81c/bank-of-america-and-citi.html"
+            },
+            {
+                "headline": "(Bloomberg) -- Stocks got whipsawed once again as a slew of headlines on President Donald Trump\u2019s fast-evolving tariff war with top trade partners left investors unwilling to take on too much risk following a two-day rally.Most Read from BloombergHow Did This Suburb Figure Out Mass Transit?Even Oslo Has an Air Quality ProblemNYC Tourist Helicopter Crashes in Hudson River, Killing Six$15 Million Fund Bets Leadership Training Can Improve Chicago PolicingLA County Floats Leaner Budget Burdened by F",
+                "publication_date": "2025-04-15T17:19:52.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.8555",
+                "source": "Bloomberg",
+                "ticker": "BAC",
+                "title": "Stocks Get Whipsawed on Lingering Trade-War Risks: Markets Wrap",
+                "url": "https://finance.yahoo.com/news/stocks-rise-led-japan-auto-040211765.html"
+            },
+            {
+                "headline": "Read more: Wall Street banks are cashing in on trade war chaos",
+                "publication_date": "2025-04-15T15:39:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.8225",
+                "source": "Quartz",
+                "ticker": "BAC",
+                "title": "Stocks rise as bank earnings and tech drive markets higher",
+                "url": "https://finance.yahoo.com/news/wall-street-banks-cashing-trade-123249767.html"
+            },
+            {
+                "headline": "(Bloomberg) -- Investor sentiment regarding economic prospects is the most negative in three decades, yet fund managers\u2019 pessimism isn\u2019t fully reflected in their asset allocation which could mean more losses for US stocks, a Bank of America Corp. survey shows.Most Read from BloombergHow Did This Suburb Figure Out Mass Transit?Even Oslo Has an Air Quality ProblemNYC Tourist Helicopter Crashes in Hudson River, Killing SixLisbon Mayor Wants Companies to Help Fix City\u2019s Housing Shortage$15 Million F",
+                "publication_date": "2025-04-15T09:17:17.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.8169",
+                "source": "Bloomberg",
+                "ticker": "BAC",
+                "title": "Investors Haven\u2019t Been This Bearish in 30 Years, BofA Poll Shows",
+                "url": "https://finance.yahoo.com/news/investors-haven-t-bearish-30-091717258.html"
+            }
+        ],
+        "avgScore": 0.25635142857142856
+    },
     "4 14 2025": {
         "importantArticles": [
             {
@@ -324,6 +389,6 @@
         ],
         "avgScore": 0.12762857142857142
     },
-    "coef": -0.19999999999999998,
-    "avgCoef": 0.16901152790169152
+    "coef": 0.028571428571428574,
+    "avgCoef": 0.15824725628109637
 }

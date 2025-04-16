@@ -1,28 +1,54 @@
 {
-    "3 31 2025": {
+    "4 15 2025": {
         "importantArticles": [
             {
-                "headline": "Two titans--Strategy and MARA--just went all-in on Bitcoin. Is this the start of the next crypto bull wave?",
-                "publication_date": "2025-03-31T19:15:23.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
+                "headline": "BTC miners see lower margins while institutional capital exits crypto ETFs amid Trump's trade war tensions",
+                "publication_date": "2025-04-15T19:30:49.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.8316",
                 "source": "GuruFocus.com",
                 "ticker": "MARA",
-                "title": "The $3.9 Billion Bitcoin Power Play That's Redefining Corporate Strategy",
-                "url": "https://finance.yahoo.com/news/3-9-billion-bitcoin-power-191523195.html"
+                "title": "Bitcoin Mining Profits Shrink as ETF Outflows Top $800M in April",
+                "url": "https://finance.yahoo.com/news/bitcoin-mining-profits-shrink-etf-193049945.html"
             },
             {
-                "headline": "Two titans--Strategy and MARA--just went all-in on Bitcoin. Is this the start of the next crypto bull wave?",
-                "publication_date": "2025-03-31T19:15:23.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
+                "headline": "BTC miners see lower margins while institutional capital exits crypto ETFs amid Trump's trade war tensions",
+                "publication_date": "2025-04-15T19:30:49.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.8316",
                 "source": "GuruFocus.com",
                 "ticker": "MARA",
-                "title": "The $3.9 Billion Bitcoin Power Play That's Redefining Corporate Strategy",
-                "url": "https://finance.yahoo.com/news/3-9-billion-bitcoin-power-191523195.html"
+                "title": "Bitcoin Mining Profits Shrink as ETF Outflows Top $800M in April",
+                "url": "https://finance.yahoo.com/news/bitcoin-mining-profits-shrink-etf-193049945.html"
             }
         ],
-        "avgScore": 0.0
+        "avgScore": -0.8316
     },
-    "coef": NaN
+    "4 9 2025": {
+        "importantArticles": [
+            {
+                "headline": "(Bloomberg) -- Bitcoin surged and most smaller cryptocurrencies gained even more after President Donald Trump surprised markets by saying he would pause so-called reciprocal tariffs on dozens of non-retaliating countries. The largest digital asset jumped as much as 7.7% to $82,967 after beginning Wednesday in the red, while XRP and Solana each increased more than 11%. Ether, the second-biggest token, also turned higher after Trump noted the change on his social media platform.The about-face by T",
+                "publication_date": "2025-04-09T20:13:19.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8107",
+                "source": "Bloomberg",
+                "ticker": "MARA",
+                "title": "Bitcoin Surges After Trump Pauses  Higher Duties on Most Nations",
+                "url": "https://finance.yahoo.com/news/ether-leads-latest-crypto-selloff-023510122.html"
+            },
+            {
+                "headline": "(Bloomberg) -- Bitcoin surged and most smaller cryptocurrencies gained even more after President Donald Trump surprised markets by saying he would pause so-called reciprocal tariffs on dozens of non-retaliating countries. The largest digital asset jumped as much as 7.7% to $82,967 after beginning Wednesday in the red, while XRP and Solana each increased more than 11%. Ether, the second-biggest token, also turned higher after Trump noted the change on his social media platform.The about-face by T",
+                "publication_date": "2025-04-09T20:13:19.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8107",
+                "source": "Bloomberg",
+                "ticker": "MARA",
+                "title": "Bitcoin Surges After Trump Pauses  Higher Duties on Most Nations",
+                "url": "https://finance.yahoo.com/news/ether-leads-latest-crypto-selloff-023510122.html"
+            }
+        ],
+        "avgScore": 0.8107
+    },
+    "coef": 0.9999999999999999,
+    "avgCoef": 0.1737489926047215
 }

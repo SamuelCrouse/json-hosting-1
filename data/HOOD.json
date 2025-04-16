@@ -1,4 +1,29 @@
 {
+    "4 15 2025": {
+        "importantArticles": [
+            {
+                "headline": "Crypto-centric stocks like IBKR, NVDA and HOOD are poised to benefit once the Bitcoin rally resumes.",
+                "publication_date": "2025-04-15T13:18:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7579",
+                "source": "Zacks",
+                "ticker": "HOOD",
+                "title": "3 Crypto Stocks to Buy the Dip Before Bitcoin Regains Lost Ground",
+                "url": "https://finance.yahoo.com/news/3-crypto-stocks-buy-dip-131800585.html"
+            },
+            {
+                "headline": "Crypto-centric stocks like IBKR, NVDA and HOOD are poised to benefit once the Bitcoin rally resumes.",
+                "publication_date": "2025-04-15T13:18:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7579",
+                "source": "Zacks",
+                "ticker": "HOOD",
+                "title": "3 Crypto Stocks to Buy the Dip Before Bitcoin Regains Lost Ground",
+                "url": "https://finance.yahoo.com/news/3-crypto-stocks-buy-dip-131800585.html"
+            }
+        ],
+        "avgScore": 0.7579
+    },
     "4 14 2025": {
         "importantArticles": [
             {
@@ -264,6 +289,6 @@
         ],
         "avgScore": 0.17126666666666668
     },
-    "coef": 0.0,
-    "avgCoef": 0.22269012472409666
+    "coef": -0.4285714285714286,
+    "avgCoef": 0.17879100941144419
 }

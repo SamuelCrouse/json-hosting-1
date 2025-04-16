@@ -42,27 +42,27 @@
                 "url": "https://finance.yahoo.com/m/fa3e943b-38f2-3f72-b679-be6ffe33172a/tesla-stock-forms-a-%E2%80%98death.html"
             },
             {
-                "headline": "A report says China ordered a halt to Boeing jet deliveries as part of the escalating trade war with the U.S., Tesla\u2019s stock chart forms a \u2018death cross,\u2019 and Bank of America, Citigroup, and Johnson & Johnson post better-than-expected first-quarter earnings.",
-                "publication_date": "2025-04-15T13:50:00.000Z",
+                "headline": "Bank of America and Citigroup post better-than-expected first-quarter earnings, a report says China ordered a halt to Boeing jet deliveries as part of the escalating trade war with the U.S., and Tesla stock rises after its chart forms a \u2018death cross.\u2019",
+                "publication_date": "2025-04-15T15:40:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.5994",
                 "source": "Barrons.com",
                 "ticker": "TSLA",
-                "title": "These Stocks Are Moving the Most Today: Boeing, Tesla, Bank of America, Citigroup, J&J, Netflix, Rocket Lab, and More",
+                "title": "These Stocks Are Moving the Most Today: Boeing, Tesla, Bank of America, Citigroup, Netflix, HPE, Applied Digital, and More",
                 "url": "https://finance.yahoo.com/m/4acd1581-8487-308e-9a2a-48ddeb05703c/these-stocks-are-moving-the.html"
             },
             {
-                "headline": "Charging stations to follow sales outlets in major cities.",
-                "publication_date": "2025-04-15T09:21:08.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Just Auto",
+                "headline": "Tesla famously struggled to scale up production of the Model 3 sedan in 2018 -- so much so that CEO Elon Musk said his company was weeks away from collapsing. That near-death experience helped spawn a whole new company called Atomic that's built around using AI to streamline supply chains. Co-founded by former Tesla employees Michael Rossiter and Neal Suidan, Atomic was created inside DVx Ventures, the firm run by former Tesla president Jon McNeill. Rossiter is also a partner at DVx, which has l",
+                "publication_date": "2025-04-15T16:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.3818",
+                "source": "TechCrunch",
                 "ticker": "TSLA",
-                "title": "Tesla begins sales in Saudi Arabia",
-                "url": "https://finance.yahoo.com/news/tesla-begins-sales-saudi-arabia-092108183.html"
+                "title": "Former Tesla supply chain leaders create Atomic, an AI inventory solution",
+                "url": "https://finance.yahoo.com/news/former-tesla-supply-chain-leaders-160000668.html"
             }
         ],
-        "avgScore": 0.3269375
+        "avgScore": 0.32045999999999997
     },
     "4 14 2025": {
         "importantArticles": [
@@ -127,7 +127,7 @@
                 "url": "https://finance.yahoo.com/m/29c92e28-b5ab-392e-8f22-ae525864f9e8/tesla-vs-byd-tesla-brand.html"
             }
         ],
-        "avgScore": 0.47538571428571436
+        "avgScore": 0.4595846153846154
     },
     "4 11 2025": {
         "importantArticles": [
@@ -289,7 +289,7 @@
                 "source": "Reuters",
                 "ticker": "TSLA",
                 "title": "Analysis-In Saudi debut, Tesla faces desert heat, few chargers, but no Musk protests",
-                "url": "https://finance.yahoo.com/news/analysis-saudi-debut-tesla-faces-110810785.html"
+                "url": "https://finance.yahoo.com/news/analysis-saudi-debut-tesla-faces-110810140.html"
             },
             {
                 "headline": "The finance chief\u2019s third stock sale in as many months comes as Tesla continues to grapple with declining sales and uncertainty related to the Trump administration\u2019s trade war.",
@@ -389,6 +389,6 @@
         ],
         "avgScore": 0.0030173913043478147
     },
-    "coef": -0.028571428571428574,
-    "avgCoef": 0.15775019980825228
+    "coef": -0.2571428571428572,
+    "avgCoef": 0.16093633191134848
 }

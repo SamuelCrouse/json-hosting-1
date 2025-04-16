@@ -1,4 +1,69 @@
 {
+    "4 15 2025": {
+        "importantArticles": [
+            {
+                "headline": "Shares in Asian and European carmakers rose Tuesday after President Trump suggested the sector might get tariff exemptions to give it more time to restructure North American supply chains.  Hyundai advanced 4.3% in South Korea, following roughly similar gains by General Motors and Ford in the U.S. on Monday.  European automakers such as Mercedes-Benz and BMW also rose Tuesday.",
+                "publication_date": "2025-04-15T15:11:57.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6808",
+                "source": "The Wall Street Journal",
+                "ticker": "STLA",
+                "title": "Global Auto Stocks Rise After Trump Hints at Tariff Pause",
+                "url": "https://finance.yahoo.com/m/28005fc2-3aaa-3dbc-99c6-0bca08c5bf60/global-auto-stocks-rise-after.html"
+            },
+            {
+                "headline": "French-Italian carmaker Stellantis has reduced its shortlist of CEO candidates to five, said two people familiar with the matter, as it nears a decision on who will lead the company through one of the industry's most tumultuous periods.  Investors are likely to seek an update on the hiring process as well as further insight into how Stellantis will manage President Donald Trump's 25% tariffs on foreign auto imports at an annual general meeting in Amsterdam later on Tuesday.  Former CEO Carlos Tavares abruptly departed the company - maker of Jeep and Peugeot brand cars - in December following a dramatic plunge in sales and profit.",
+                "publication_date": "2025-04-15T11:14:10.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6249",
+                "source": "Reuters",
+                "ticker": "STLA",
+                "title": "Stellantis closing in on new CEO with shortlist of five candidates, sources say",
+                "url": "https://finance.yahoo.com/news/stellantis-closing-ceo-shortlist-five-111410074.html"
+            },
+            {
+                "headline": "After electronics, the administrative windfall is now shifting to autos. Trump hinted at offering some short-term tariff relief to automakers to give them time to develop a future roadmap.",
+                "publication_date": "2025-04-15T09:31:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4767",
+                "source": "Zacks",
+                "ticker": "STLA",
+                "title": "Auto ETFs Rise on Hopes of Tariff Exemptions",
+                "url": "https://finance.yahoo.com/news/auto-etfs-rise-hopes-tariff-093100082.html"
+            },
+            {
+                "headline": "MILAN (Reuters) -Stellantis Chairman John Elkann said on Tuesday U.S. tariffs and strict European Union emissions standards were threatening the industry, as the automaker continued its search for a new chief executive.  \"With the current path of painful tariffs and overly rigid regulations, the American and European car industries are being put at risk,\" amid increased competition from China, Elkann said at the group's annual shareholders' meeting.  \"That would be a tragedy as car manufacturing is a source of jobs, innovation and strong communities,\" he said.",
+                "publication_date": "2025-04-15T12:22:13.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.6369",
+                "source": "Reuters",
+                "ticker": "STLA",
+                "title": "Stellantis chair says US tariffs, EU rules put auto industry at risk",
+                "url": "https://finance.yahoo.com/news/u-europe-putting-auto-industry-122213362.html"
+            },
+            {
+                "headline": "(Bloomberg) -- On an overcast afternoon on Canada\u2019s east coast, Mark Carney emerged from a pickup truck and stepped carefully in his dress shoes through the muddy lot outside a lumber mill. His hard hat didn\u2019t fit right, pitched forward at an awkward angle; an aide hustled over to fix it before he went inside.Most Read from BloombergHow Did This Suburb Figure Out Mass Transit?Even Oslo Has an Air Quality ProblemNYC Tourist Helicopter Crashes in Hudson River, Killing SixLisbon Mayor Wants Compani",
+                "publication_date": "2025-04-15T09:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5267",
+                "source": "Bloomberg",
+                "ticker": "STLA",
+                "title": "Carney Rides Anti-Trump Sentiment on Campaign Trail, and Voters Like It",
+                "url": "https://finance.yahoo.com/news/carney-rides-anti-trump-sentiment-090000377.html"
+            },
+            {
+                "headline": "After electronics, the administrative windfall is now shifting to autos. Trump hinted at offering some short-term tariff relief to automakers to give them time to develop a future roadmap.",
+                "publication_date": "2025-04-15T09:31:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4767",
+                "source": "Zacks",
+                "ticker": "STLA",
+                "title": "Auto ETFs Rise on Hopes of Tariff Exemptions",
+                "url": "https://finance.yahoo.com/news/auto-etfs-rise-hopes-tariff-093100082.html"
+            }
+        ],
+        "avgScore": 0.12376000000000001
+    },
     "4 14 2025": {
         "importantArticles": [
             {
@@ -304,6 +369,6 @@
         ],
         "avgScore": -0.1446666666666667
     },
-    "coef": -0.3,
-    "avgCoef": 0.22439914258580637
+    "coef": -0.2571428571428572,
+    "avgCoef": 0.16669016907530973
 }

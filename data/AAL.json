@@ -1,4 +1,69 @@
 {
+    "4 15 2025": {
+        "importantArticles": [
+            {
+                "headline": "American Airlines said on Tuesday it will provide free high-speed in-flight internet services beginning in January 2026 in partnership with AT&T.  Free onboard internet access has become a key battleground for airlines as they chase high-value loyal customers.  Two years ago, Delta Air Lines began offering free wireless internet to members of its frequent-flyer program.",
+                "publication_date": "2025-04-15T10:18:36.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8834",
+                "source": "Reuters",
+                "ticker": "AAL",
+                "title": "American Airlines to start offering free in-flight Wi-Fi next year",
+                "url": "https://finance.yahoo.com/news/american-airlines-start-offering-free-101836164.html"
+            },
+            {
+                "headline": "Free high-speed Wi-Fi available exclusively to AAdvantage members beginning in January 2026 on more planes than any other domestic carrierDALLAS and FORT WORTH, Texas, April 15, 2025 (GLOBE NEWSWIRE) -- American Airlines and AT&T \u2014 two iconic American brands built on a legacy of connecting customers to the people and places that matter most \u2014 will take those connections to new heights, offering complimentary inflight Wi-Fi\u00b9 across more than 2 million American flights a year, beginning in January",
+                "publication_date": "2025-04-15T10:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8374",
+                "source": "GlobeNewswire",
+                "ticker": "AAL",
+                "title": "Connecting the world: American Airlines to provide complimentary inflight Wi-Fi, sponsored by AT&T",
+                "url": "https://finance.yahoo.com/news/connecting-world-american-airlines-complimentary-100000869.html"
+            },
+            {
+                "headline": "The deal with AT will provide free in-flight internet to loyalty program members, beginning in January.",
+                "publication_date": "2025-04-15T11:31:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7783",
+                "source": "The Wall Street Journal",
+                "ticker": "AAL",
+                "title": "American Airlines to Provide Free Wi-Fi, Joining Race to Court Connected Travelers",
+                "url": "https://finance.yahoo.com/news/american-airlines-free-wi-fi-113100633.html"
+            },
+            {
+                "headline": "American Airlines will soon offer free Wi-Fi on most of its flights, becoming the latest major carrier to add the perk.",
+                "publication_date": "2025-04-15T12:18:33.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5106",
+                "source": "CNN Business",
+                "ticker": "AAL",
+                "title": "American Airlines, last of the major carriers, is adding free Wi-Fi",
+                "url": "https://finance.yahoo.com/news/american-airlines-last-major-carriers-121833129.html"
+            },
+            {
+                "headline": "Brad Smith takes a closer look at the trending stories on Wall Street as part of today's Market Minute. Netflix (NFLX) stock gains on reports the company is aiming for a $1 trillion market capitalization and to double revenue by 2030. American Airlines (AAL) is partnering with AT&T (T) to offer AAdvantage members free in-flight wi-fi. HPE (HPE) is in focus as activist investor Elliott Management builds a $1.5 billion stake in the company, according to reports. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
+                "publication_date": "2025-04-15T16:15:30.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6908",
+                "source": "Yahoo Finance Video",
+                "ticker": "AAL",
+                "title": "Netflix wants to double sales, American Air free wi-fi, HPE & Elliott",
+                "url": "https://finance.yahoo.com/video/netflix-double-sales-american-air-161530098.html"
+            },
+            {
+                "headline": "American Airlines said Tuesday that it will introduce free Wi-Fi for its \"AAdvantage\" rewards members starting in January 2026.",
+                "publication_date": "2025-04-15T15:06:39.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7506",
+                "source": "Investopedia",
+                "ticker": "AAL",
+                "title": "American Airlines to Launch Free Wi-Fi for Rewards Members in 2026",
+                "url": "https://finance.yahoo.com/news/american-airlines-launch-free-wi-150639765.html"
+            }
+        ],
+        "avgScore": 0.74185
+    },
     "4 14 2025": {
         "importantArticles": [
             {
@@ -224,6 +289,6 @@
         ],
         "avgScore": -0.7207
     },
-    "coef": -0.09999999999999999,
-    "avgCoef": 0.2221565919801814
+    "coef": -0.028571428571428574,
+    "avgCoef": 0.16026406300378543
 }

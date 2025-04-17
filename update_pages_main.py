@@ -22,12 +22,13 @@ def main(tickers):
     for item in tickers:
         print("\n", item)
 
-        priceData = upd.getPrices(item)
+        priceData = upd.getPrices30Days(item)
         priceData = priceData.reset_index()
         # print(priceData)
 
         # separate the price data into lists of days
-        dtime = list(priceData["Datetime"])
+        dtime = list(priceData["Date"])
+        opens = list(priceData["Open"][item])
         closes = list(priceData["Close"][item])
 
         dailyPriceData = {}
@@ -40,10 +41,11 @@ def main(tickers):
                 daysData = []
                 lastDate = dtime[i]
 
-            daysData.append(closes[i])
+            daysData.append({"open": opens[i], "close": closes[i]})
         dailyPriceData[str(lastDate.month) + " " + str(lastDate.day) + " " + str(lastDate.year)] = daysData
 
         # print(len(dailyPriceData["4 2 2025"]))
+        # print(dailyPriceData)
 
         try:
             url = 'http://127.0.0.1:5000/' + item
@@ -54,6 +56,8 @@ def main(tickers):
 
             if response.status_code == 200:  # make sure it was a good response
                 articleData = response.json()
+
+                print(articleData)
                 articles = articleData["articles"]
                 # print(articles)
                 
@@ -82,7 +86,6 @@ def main(tickers):
                 dailyArticles[str(lArtDate.month) + " " + str(lArtDate.day) + " " + str(lArtDate.year)] = daysArticles  # place remainder in the dict
 
                 # print(dailyArticles["4 2 2025"])
-                print(list(dailyArticles.keys()))
 
                 postDict = {}  # these are the important articles that will get posted for each day keys are month day year
                 # loop through the dictionary of daily articles and calculate important data for each
@@ -131,25 +134,30 @@ def main(tickers):
                 scores = []
                 pctChanges = []
                 keys = list(dailyPriceData.keys())
-                print(keys)
-                for index, key in enumerate(dailyPriceData):
+                print(list(postDict.keys()))
+                for index in range(len(keys)):
+                    key = keys[index]
+
+                    # print(key)
+
                     if key in postDict:  # if there are articles for this date
                         # get the article score
                         scores.append(postDict[key]["avgScore"])
-                        
-                        # the percent change is calculated as the change from yesterday's open to today's open
-                        #  unless it is current day, then it does open to last price
+
+                        # the percent change is calculated as the change from today's close to tomorrow's close
+                        #  unless it is current day, then it does yesterday's close to current price
                         # get percent change
-                        pOpen = dailyPriceData[key][0]
-                        
-                        if index + 1 < len(keys):
-                            pClose = dailyPriceData[keys[index + 1]][0]
+                        dayClose = dailyPriceData[key][0]['close']
+
+                        if index < len(keys) - 1:
+                            tmrClose = dailyPriceData[keys[index + 1]][0]['close']
                         else:
-                            pClose = dailyPriceData[key][-1]
+                            dayClose = dailyPriceData[key][0]['open']
+                            tmrClose = dailyPriceData[key][0]['close']
                         
-                        pctChange = (pClose - pOpen) / pOpen
+                        pctChange = (tmrClose - dayClose) / dayClose
                         pctChanges.append(pctChange)
-                        # print(key, pOpen, pClose)
+                        print(key, dayClose, tmrClose, pctChange)
 
                 # remove non days with price data articles from the dict
                 toRemove = []
@@ -161,9 +169,7 @@ def main(tickers):
                     # print(key)
                     del postDict[key]
 
-                # we should change this later to only remove articles older than price data
-
-                # calculate the volatility score for the stock
+                # calculate the r score for the stock
                 print(scores)
                 print(pctChanges)
                 coef = getR(scores, pctChanges)
@@ -171,6 +177,78 @@ def main(tickers):
 
                 postDict["coef"] = coef
                 postDict["avgCoef"] = getAverageR()
+
+                # calculate similar stocks data
+                # this works by reading price data from price_data and seeing if those prices correlate strongly with
+                #  this tickers articles
+                
+                # get the scores from the post dict which contains the avg sentiments for the day
+                keys = []
+                for key in postDict:
+                    if key == 'coef' or key == 'avgCoef':
+                        break
+
+                    keys.append(key)
+
+                print("\n\n\nCALCULATING SIMILAR STOCKS")
+
+                similar = {}
+                for ticker in tickers:
+                    try:
+                        tickerCloses = upd.readDayCloseAsJSON(ticker)
+                    except FileNotFoundError as e:
+                        print(ticker, "not found in price_data")
+                        continue
+
+                    # print(keys)
+                    # print(list(tickerCloses.keys()))
+
+                    scores = []
+                    pctChanges = []
+                    keys = list(tickerCloses.keys())
+                    # print(list(postDict.keys()))
+                    for index in range(len(keys)):
+                        key = keys[index]
+
+                        # print(key)
+
+                        if key in postDict:  # if there are articles for this date
+                            # get the article score
+                            scores.append(postDict[key]["avgScore"])
+
+                            # the percent change is calculated as the change from today's close to tomorrow's close
+                            #  unless it is current day, then it does yesterday's close to current price
+                            # get percent change
+                            dayClose = tickerCloses[key][0]['close']
+
+                            if index < len(keys) - 1:
+                                tmrClose = tickerCloses[keys[index + 1]][0]['close']
+                            else:
+                                dayClose = tickerCloses[key][0]['open']
+                                tmrClose = tickerCloses[key][0]['close']
+                            
+                            pctChange = (tmrClose - dayClose) / dayClose
+                            pctChanges.append(pctChange)
+                            # print(ticker, key, dayClose, tmrClose, pctChange)
+
+                    print(ticker, scores)
+                    print(ticker, pctChanges)
+
+                    coef = getR(scores, pctChanges)
+                    similar[ticker] = coef
+
+                # remove 
+                similar = dict(sorted(similar.items(), key=lambda item: item[1], reverse=True))
+
+                simKeys = list(similar.keys())[:4]
+                simItems = list(similar.values())[:4]
+                similar = {}
+                for simi in range(len(simKeys)):
+                    similar[simKeys[simi]] = simItems[simi]
+
+                print(similar)
+
+                postDict["similar"] = similar
 
                 # once we have all the data, dump results to a ticker.json
                 ticker_path = file_path.joinpath(item + ".json")  # data directory file
@@ -195,7 +273,7 @@ def main(tickers):
         # except TypeError as e:
             # print("TypeError:", e)
 
-        time.sleep(60)
+        time.sleep(2)
 
 
 def getR(x, y):
@@ -261,7 +339,6 @@ def getAverageR():
         return 0
 
 
-
 def test():
     data = {'setting': {'refresh': {'duration': 20, 'requireUserAction': False, 'limit': 30, 'tabFocus': {'outOfFocusDuration': 3}, 'sameSizeRefresh': True, 'reserved': {'duration': 60}}, 'lazyLoad': False, 'tracking': {'performance': True, 'metrics': True}, 'taboolaSetting': {'pageType': 'article', 'publisherId': 'yahooweb-network'}, 'consent': {'allowOnlyLimitedAds': False, 'allowOnlyNonPersonalizedAds': False}, 'userInfo': {'age': 0, 'gender': ''}}, 'feature': {'enableAdCollapse': True, 'enableAdStacking': True, 'enableNewPremiumAdLogic': True, 'enableUserSegments': True}, 'positions': {'sda-E2E': {'id': 'sda-E2E', 'path': '/22888152279/us/yfin/ros/dt/us_yfin_ros_dt_top_center', 'region': 'index', 'size': [[3, 1], [970, 250], [728, 90]], 'kvs': {'loc': 'top_center'}, 'customSizeConfig': {'Horizon': True}}}, 'i13n': {'_yrid': '3l6tu2hjv8nve', 'colo': 'gq1', 'lang': 'en-US', 'mrkt': 'us', 'navtype': 'server', 'site': 'finance', 'ver': 'nimbus', 'pg_name': 'article', 'pt': 'content', 'theme': 'auto', 'auth_state': 'signed_out', 'partner': 'none', '_vuid': '5sU2SKSZDdnfeZC261r7kw', 'uuid': '38e5c5c8-57d9-3b7a-88ec-e4a4c84f7823', 'pct': 'story', 'spaceId': '1183300100', 'type': 'story', 'videoPosition': 'top', 'p_cpos': 1, 'p_hosted': 'hosted', 'pstaid': '38e5c5c8-57d9-3b7a-88ec-e4a4c84f7823', 'pstaid_p': '38e5c5c8-57d9-3b7a-88ec-e4a4c84f7823', 'pstcat': 'business', 'lmsid': 'a0V0W00000HOSDEUA5', 'pl2': 'seamless-article', 'hashtag': 'investments;finance', 'pd': 'modal', 'spaceid': '1183300100', 'consent': {'allowContentPersonalization': True, 'allowCrossDeviceMapping': True, 'allowFirstPartyAds': True, 'allowSellPersonalInfo': True, 'canEmbedThirdPartyContent': True, 'canSell': True, 'consentedVendors': ['acast', 'brightcove', 'dailymotion', 'facebook', 'flourish', 'giphy', 'instagram', 'nbcuniversal', 'playbuzz', 'scribblelive', 'soundcloud', 'tiktok', 'vimeo', 'twitter', 'youtube', 'masque']}, 'authed': '0', 'ynet': '0', 'ssl': '1', 'spdy': '0', 'ytee': '0', 'mode': 'normal', 'tpConsent': True, 'adblock': '0', 'bucket': '', 'device': 'desktop', 'bot': '0', 'browser': 'unknown', 'app': 'unknown', 'ecma': 'default', 'environment': 'prod', 'gdpr': False, 'dir': 'ltr', 'intl': 'us', 'network': 'mobile', 'os': 'other', 'region': 'US', 'time': 1744068590273, 'tz': 'America/Los_Angeles', 'usercountry': 'US', 'rmp': '0', 'webview': '0', 'feature': ['awsCds', 'disableInterstitialUpsells', 'disableServiceRewrite', 'disableSubsSpotlightNav', 'disableBack2Classic', 'disableYPFTaxArticleDisclosure', 'enable1PVideoTranscript', 'enableAdRefresh20s', 'enableAnalystRatings', 'enableAPIRedisCaching', 'enableArticleCSN', 'enableArticleRecommendedVideoInsertionTier34', 'enableChartbeat', 'enableChatSupport', 'enableCommunityPostsSidebar', 'enableCompare', 'enableCompareConvertCurrency', 'enableConsentAndGTM', 'enableCrumbRefresh', 'enableCSN', 'enableCurrencyConverter', 'enableDarkMode', 'enableDockAddToFollowing', 'enableDockCondensedHeader', 'enableDockNeoOptoutLink', 'enableDockPortfolioControl', 'enableExperimentalDockModules', 'enableFollow', 'enableGCPRecommendationsUserEvents', 'enableLazyQSP', 'enableLiveBlogStatus', 'enableLivePage', 'enableStreamingNowBar', 'enableLocalSpotIM', 'enableMarketsLeafHeatMap', 'enableMultiQuote', 'enableNeoArticle', 'enableNeoAuthor', 'enableNeoBasicPFs', 'enableNeoGreen', 'enableNeoHouseCalcPage', 'enableNeoInvestmentIdea', 'enableNeoMortgageCalcPage', 'enableNeoQSPReportsLeaf', 'enableNeoResearchReport', 'enableNeoTopics', 'enablePersonalFinanceArticleReadMoreAlgo', 'enablePersonalFinanceNewsletterIntegration', 'enablePersonalFinanceZillowIntegration', 'enablePf2SubsSpotlight', 'enablePfPremium', 'enablePfStreaming', 'enablePinholeScreenshotOGForQuote', 'enablePlus', 'enablePortalStockStory', 'enablePrivateCompany', 'enablePrivateCompanyBanner', 'enableQSPChartEarnings', 'enableQSPChartNewShading', 'enableQSPChartRangeTooltips', 'enableQSPEarnings', 'enableQSPEarningsVsRev', 'enableQSPHistoryPlusDownload', 'enableQSPNavIcon', 'enableQuoteLookup', 'enableRecentQuotes', 'enableResearchHub', 'enableScreenerHeatMap', 'enableSECFiling', 'enableSigninBeforeCheckout', 'enableSmartAssetMsgA', 'enableStockStoryPfPage', 'enableStockStoryTimeToBuy', 'enableStreamOnlyNews', 'enableSubsFeatureBar', 'enableTradeNow', 'enableUpgradeBadge', 'enableYPFArticleReadMoreAll', 'enableOnePortfolio', 'enableVideoInHero', 'enableDockQuoteEventsDateRangeSelect', 'enablePfDetailDockCollapse', 'enablePfPrivateCompany', 'enableHoneyLinks', 'enableNeoPortfolioDetail', 'enableCompareFeatures', 'enableGenericHeatMap', 'enableQSPIndustryHeatmap', 'enableStatusBadge'], 'isDebug': False, 'isForScreenshot': False, 'isWebview': False, 'pnrID': '', 'isError': False, 'areAdsEnabled': True, 'ccpa': {'warning': '', 'footerSequence': ['terms_and_privacy', 'dashboard'], 'links': {'dashboard': {'url': 'https://guce.yahoo.com/privacy-dashboard?locale=en-US', 'label': 'Privacy Dashboard', 'id': 'privacy-link-dashboard'}, 'terms_and_privacy': {'multiurl': True, 'label': '${terms_link}Terms${end_link} and ${privacy_link}Privacy Policy${end_link}', 'urls': {'terms_link': 'https://guce.yahoo.com/terms?locale=en-US', 'privacy_link': 'https://guce.yahoo.com/privacy-policy?locale=en-US'}, 'ids': {'terms_link': 'privacy-link-terms-link', 'privacy_link': 'privacy-link-privacy-link'}}}}, 'yrid': '3l6tu2hjv8nve', 'user': {'age': 0, 'firstName': None, 'gender': '', 'year': 0}, 'abk': '0', 'lu': '0'}}
 
@@ -286,14 +363,20 @@ if __name__ == "__main__":
 
     # test()
 
+    # first, I need the price changes of all the articles
+
     # """
     while True:
         mostActive = getDayMovers()
         if "SPY" not in mostActive: mostActive.insert(0, "SPY")
 
+        # upd.update_price_data(mostActive)
+
         print(mostActive)
         print(len(mostActive))
         main(mostActive)
+
+        break
 
         upf.commit_and_push()
     # """

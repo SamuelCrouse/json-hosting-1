@@ -372,11 +372,9 @@ if __name__ == "__main__":
 
         # upd.update_price_data(mostActive)
 
-        print(mostActive)
-        print(len(mostActive))
-        main(mostActive)
-
-        break
+        # print(mostActive)
+        # print(len(mostActive))
+        # main(mostActive)
 
         upf.commit_and_push()
     # """

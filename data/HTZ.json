@@ -87,26 +87,6 @@
                 "url": "https://finance.yahoo.com/video/united-airlines-abbott-labs-earnings-161237166.html"
             },
             {
-                "headline": "The rental car company says hackers stole personal data in a supply chain attack on its file-transfer vendor Cleo.",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.4767",
-                "source": "FastCompany",
-                "ticker": "HTZ",
-                "title": "Hertz says hackers stole customer data in vendor breach",
-                "url": "https://finance.yahoo.com/news/hertz-says-hackers-stole-customer-174522544.html"
-            },
-            {
-                "headline": "The rental car company says hackers stole personal data in a supply chain attack on its file-transfer vendor Cleo.",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.4767",
-                "source": "FastCompany",
-                "ticker": "HTZ",
-                "title": "Hertz says hackers stole customer data in vendor breach",
-                "url": "https://finance.yahoo.com/news/hertz-says-hackers-stole-customer-174522544.html"
-            },
-            {
                 "headline": "Brad Smith outlines some of the top stories on Wall Street in just 60 seconds on today's Market Minute. United Airlines (UAL) shares rise after reporting earnings results and providing investors with dual outlooks depending on the health of the US economy. Abbott Laboratories (ABT) stock rises after the medical supply company reported better-than-expected earnings results. Hertz (HTZ) shares surge after Bill Ackman-led Pershing Square Capital Management disclosed a large stake in the rental car company. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
                 "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -127,7 +107,7 @@
                 "url": "https://finance.yahoo.com/news/hertz-htz-shares-skyrocket-know-155829233.html"
             }
         ],
-        "avgScore": 0.4046666666666667
+        "avgScore": 0.84535
     },
     "4 15 2025": {
         "importantArticles": [
@@ -152,14 +132,14 @@
                 "url": "https://finance.yahoo.com/news/hertz-global-holdings-inc-announce-120000353.html"
             },
             {
-                "headline": "The company is the latest organization to investigate or disclose an incident linked to a monthslong attack spree.",
+                "headline": "The rental car company says hackers stole personal data in a supply chain attack on its file-transfer vendor Cleo.",
                 "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.4767",
-                "source": "Cybersecurity Dive",
+                "source": "FastCompany",
                 "ticker": "HTZ",
-                "title": "Hertz says personal data breached in connection with Cleo file-transfer flaws",
-                "url": "https://finance.yahoo.com/news/hertz-says-personal-data-breached-111300938.html"
+                "title": "Hertz says hackers stole customer data in vendor breach",
+                "url": "https://finance.yahoo.com/news/hertz-says-hackers-stole-customer-174522544.html"
             },
             {
                 "headline": "The company is the latest organization to investigate or disclose an incident linked to a monthslong attack spree.",
@@ -170,6 +150,16 @@
                 "ticker": "HTZ",
                 "title": "Hertz says personal data breached in connection with Cleo file-transfer flaws",
                 "url": "https://finance.yahoo.com/news/hertz-says-personal-data-breached-111300938.html"
+            },
+            {
+                "headline": "The rental car company says hackers stole personal data in a supply chain attack on its file-transfer vendor Cleo.",
+                "publication_date": "2025-04-15T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.4767",
+                "source": "FastCompany",
+                "ticker": "HTZ",
+                "title": "Hertz says hackers stole customer data in vendor breach",
+                "url": "https://finance.yahoo.com/news/hertz-says-hackers-stole-customer-174522544.html"
             },
             {
                 "headline": "Hertz Global Holdings, Inc. (NASDAQ: HTZ) (the \"Company\") announced today that it plans to report its first quarter 2025 financial results after the market closes on Monday, May 12, 2025 and will host its accompanying webcast and conference call to discuss those results on Tuesday, May 13, 2025 at 9:00 a.m. ET.",
@@ -180,19 +170,9 @@
                 "ticker": "HTZ",
                 "title": "Hertz Global Holdings, Inc. to Announce First Quarter 2025 Financial Results on May 12, 2025",
                 "url": "https://finance.yahoo.com/news/hertz-global-holdings-inc-announce-120000353.html"
-            },
-            {
-                "headline": "Hertz said the incident may have resulted in personal data being impacted.  The company said Cleo Communications, a vendor that provides file transfer services, experienced an incident where hackers exploited zero-day vulnerabilities within its platform in October and December.  The affected data could include customers' contact, credit card and driver's license information, Hertz said in a notification on its website, adding that a small number of those may have had their social security or passport information impacted as well.",
-                "publication_date": "2025-04-15T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.296",
-                "source": "Reuters",
-                "ticker": "HTZ",
-                "title": "Hertz says hackers stole its customer data",
-                "url": "https://finance.yahoo.com/news/hertz-says-hackers-stole-customer-225405957.html"
             }
         ],
-        "avgScore": -0.06023333333333334
+        "avgScore": -0.16435
     },
     "4 14 2025": {
         "importantArticles": [
@@ -374,12 +354,12 @@
         ],
         "avgScore": 0.44805
     },
-    "coef": 0.21428571428571433,
-    "avgCoef": 0.13401460292535147,
+    "coef": 0.28571428571428575,
+    "avgCoef": 0.12593924210279733,
     "similar": {
-        "HLN": 0.9369749612033814,
-        "PBR": 0.5,
-        "AMCR": 0.3571428571428572,
-        "HTZ": 0.3214285714285715
+        "HLN": 0.8829187134416479,
+        "PBR": 0.5714285714285715,
+        "KO": 0.5357142857142858,
+        "AMCR": 0.4642857142857144
     }
 }

@@ -32,6 +32,16 @@
                 "url": "https://finance.yahoo.com/news/trump-says-protect-farmers-amid-145834613.html"
             },
             {
+                "headline": "US stock futures traded flat on the heels of a bruising day on Wall Street that underscored fears over the economic impact of President Trump's tariffs.",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.4215",
+                "source": "Yahoo Finance",
+                "ticker": "SPY",
+                "title": "Stock market today: Dow slides as UnitedHealth sinks, Nasdaq wavers as tech sell-off continues",
+                "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-slides-as-unitedhealth-sinks-nasdaq-wavers-as-tech-sell-off-continues-133036553.html"
+            },
+            {
                 "headline": "US stocks fell as President Trump's rapid trade policy shifts kept investors on edge ahead of the next batch of corporate earnings.",
                 "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -50,33 +60,13 @@
                 "ticker": "SPY",
                 "title": "Trump says will \u2018protect our farmers\u2019 amid tariff negotiation with China",
                 "url": "https://finance.yahoo.com/news/trump-says-protect-farmers-amid-145834613.html"
-            },
-            {
-                "headline": "Officials from the European Union and U.S. made little progress bridging trade differences this week and officials from President Donald Trump\u2019s administration indicated that the bulk of the U.S. tariffs imposed on the bloc will not be removed, sources told Bloomberg\u2019s Alberto Nardelli and Jorge Valero. EU trade chief Maros Sefcovic left the meeting with little clarity on the U.S. stance and is struggling to determine the American side\u2019s aims after having met for about two hours with U.S. Commer",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.2057",
-                "source": "TipRanks",
-                "ticker": "SPY",
-                "title": "EU, U.S. officials made little progress on tariffs in talks, Bloomberg reports",
-                "url": "https://finance.yahoo.com/news/eu-u-officials-made-little-142733978.html"
             }
         ],
-        "avgScore": 0.14794999999999997
+        "avgScore": 0.03405999999999998
     },
     "4 15 2025": {
         "importantArticles": [
             {
-                "headline": "Wall Street had its best week since 2023 despite the tariff-led volatility.",
-                "publication_date": "2025-04-15T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6369",
-                "source": "Zacks",
-                "ticker": "SPY",
-                "title": "Top ETF Stories of Last Week",
-                "url": "https://finance.yahoo.com/news/top-etf-stories-last-week-173400787.html"
-            },
-            {
                 "headline": "One of the biggest two-day sell-offs in stock market history saw investors pile into the stock market earlier this month.",
                 "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -115,23 +105,23 @@
                 "ticker": "SPY",
                 "title": "Investors aggressively buy the dip as Trump's tariff turmoil continues to shake markets",
                 "url": "https://finance.yahoo.com/news/investors-aggressively-buy-the-dip-as-trumps-tariff-turmoil-continues-to-shake-markets-133641635.html"
-            },
-            {
-                "headline": "Wall Street had its best week since 2023 despite the tariff-led volatility.",
-                "publication_date": "2025-04-15T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6369",
-                "source": "Zacks",
-                "ticker": "SPY",
-                "title": "Top ETF Stories of Last Week",
-                "url": "https://finance.yahoo.com/news/top-etf-stories-last-week-173400787.html"
             }
         ],
-        "avgScore": 0.21230000000000002
+        "avgScore": 0.0
     },
     "4 14 2025": {
         "importantArticles": [
             {
+                "headline": "Wall Street had its best week since 2023 despite the tariff-led volatility.",
+                "publication_date": "2025-04-14T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6369",
+                "source": "Zacks",
+                "ticker": "SPY",
+                "title": "Top ETF Stories of Last Week",
+                "url": "https://finance.yahoo.com/news/top-etf-stories-last-week-173400787.html"
+            },
+            {
                 "headline": "Though the Oracle of Omaha doesn't offer stock-specific recommendations, he has one investment in mind that's perfect for everyday investors.",
                 "publication_date": "2025-04-14T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -150,16 +140,6 @@
                 "ticker": "SPY",
                 "title": "Corporate earnings take center stage amid tariff turmoil: What to know this week",
                 "url": "https://finance.yahoo.com/news/corporate-earnings-take-center-stage-amid-tariff-turmoil-what-to-know-this-week-113650156.html"
-            },
-            {
-                "headline": "The constant flow of headlines and changing tariff rhetoric has Wall Street strategists unsure of what type of incremental news will move markets next.",
-                "publication_date": "2025-04-14T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.25",
-                "source": "Yahoo Finance",
-                "ticker": "SPY",
-                "title": "2 different Wall Street strategists make same Forrest Gump reference explaining market's tariff response",
-                "url": "https://finance.yahoo.com/news/2-different-wall-street-strategists-make-same-forrest-gump-reference-explaining-markets-tariff-response-152013349.html"
             },
             {
                 "headline": "The constant flow of headlines and changing tariff rhetoric has Wall Street strategists unsure of what type of incremental news will move markets next.",
@@ -192,20 +172,10 @@
                 "url": "https://finance.yahoo.com/news/only-investment-warren-buffett-recommended-075100020.html"
             }
         ],
-        "avgScore": 0.10729999999999999
+        "avgScore": 0.23970000000000002
     },
     "4 11 2025": {
         "importantArticles": [
-            {
-                "headline": "Fresh news on tariffs to China revived the stock market sell-off on Thursday less than 24 hours after the S&P 500 had its best day since 2008.",
-                "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7579",
-                "source": "Yahoo Finance",
-                "ticker": "SPY",
-                "title": "The stock market turmoil isn't over despite Trump's 90-day tariff delay",
-                "url": "https://finance.yahoo.com/news/the-stock-market-turmoil-isnt-over-despite-trumps-90-day-tariff-delay-162209628.html"
-            },
             {
                 "headline": "- Total assets under management in the world\u2019s biggest ETFs slipped 7% in week. - The top ETFs dropped below $550 billion in AUM each after previously topping $600 billion. - Billions in inflows are stemming larger AUM declines.",
                 "publication_date": "2025-04-11T00:00:00.000Z",
@@ -225,6 +195,16 @@
                 "ticker": "SPY",
                 "title": "Trades Before Trump Tariff Post Draw Scrutiny",
                 "url": "https://finance.yahoo.com/m/b3fd8801-f25b-39af-9779-a0b551a59f29/trades-before-trump-tariff.html"
+            },
+            {
+                "headline": "Inflation expectations soared in early April as consumers digested President Trump's April 2 tariff announcement.",
+                "publication_date": "2025-04-11T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Yahoo Finance",
+                "ticker": "SPY",
+                "title": "Consumer sentiment craters further as inflation expectations soar to highest since 1981",
+                "url": "https://finance.yahoo.com/news/consumer-sentiment-craters-further-as-inflation-expectations-soar-to-highest-since-1981-143422026.html"
             },
             {
                 "headline": "The stock market sold off on Thursday as uncertainty around President Trump's tariffs once again took center stage.",
@@ -257,11 +237,21 @@
                 "url": "https://finance.yahoo.com/news/consumer-sentiment-craters-further-as-inflation-expectations-soar-to-highest-since-1981-143422026.html"
             }
         ],
-        "avgScore": 0.17001666666666668
+        "avgScore": 0.05243999999999999
     },
     "4 10 2025": {
         "importantArticles": [
             {
+                "headline": "Fresh news on tariffs to China revived the stock market sell-off on Thursday less than 24 hours after the S&P 500 had its best day since 2008.",
+                "publication_date": "2025-04-10T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7579",
+                "source": "Yahoo Finance",
+                "ticker": "SPY",
+                "title": "The stock market turmoil isn't over despite Trump's 90-day tariff delay",
+                "url": "https://finance.yahoo.com/news/the-stock-market-turmoil-isnt-over-despite-trumps-90-day-tariff-delay-162209628.html"
+            },
+            {
                 "headline": "Stocks wanted one thing from Trump after last week's shocking \"Liberation Day\" announcement. On Wednesday, they got it.",
                 "publication_date": "2025-04-10T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -270,16 +260,6 @@
                 "ticker": "SPY",
                 "title": "US stocks stage historic rally as Trump's 90-day pause takes worst case scenario 'off the table'",
                 "url": "https://finance.yahoo.com/news/us-stocks-stage-historic-rally-as-trumps-90-day-pause-takes-worst-case-scenario-off-the-table-203145671.html"
-            },
-            {
-                "headline": "US stock futures traded flat on the heels of a bruising day on Wall Street that underscored fears over the economic impact of President Trump's tariffs.",
-                "publication_date": "2025-04-10T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.4215",
-                "source": "Yahoo Finance",
-                "ticker": "SPY",
-                "title": "Stock market today: Dow slides as UnitedHealth sinks, Nasdaq wavers as tech sell-off continues",
-                "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-slides-as-unitedhealth-sinks-nasdaq-wavers-as-tech-sell-off-continues-133036553.html"
             },
             {
                 "headline": "- Equities extended their losing streak as VOO, SPY hit bear market territory intraday. - Bond ETFs also dropped as Trump threatens more China tariffs. - Recession and interest rate hike fears pushed investors into buffer ETFs: Innovator. - NOTE: Clarifies seventh paragraph to say around $850 million in buffer ETFs were traded on Friday.",
@@ -302,16 +282,6 @@
                 "url": "https://finance.yahoo.com/news/stock-bond-etfs-react-tariff-220000483.html"
             },
             {
-                "headline": "US stock futures traded flat on the heels of a bruising day on Wall Street that underscored fears over the economic impact of President Trump's tariffs.",
-                "publication_date": "2025-04-10T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.4215",
-                "source": "Yahoo Finance",
-                "ticker": "SPY",
-                "title": "Stock market today: Dow slides as UnitedHealth sinks, Nasdaq wavers as tech sell-off continues",
-                "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-slides-as-unitedhealth-sinks-nasdaq-wavers-as-tech-sell-off-continues-133036553.html"
-            },
-            {
                 "headline": "Stocks wanted one thing from Trump after last week's shocking \"Liberation Day\" announcement. On Wednesday, they got it.",
                 "publication_date": "2025-04-10T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -320,9 +290,19 @@
                 "ticker": "SPY",
                 "title": "US stocks stage historic rally as Trump's 90-day pause takes worst case scenario 'off the table'",
                 "url": "https://finance.yahoo.com/news/us-stocks-stage-historic-rally-as-trumps-90-day-pause-takes-worst-case-scenario-off-the-table-203145671.html"
+            },
+            {
+                "headline": "Fresh news on tariffs to China revived the stock market sell-off on Thursday less than 24 hours after the S&P 500 had its best day since 2008.",
+                "publication_date": "2025-04-10T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7579",
+                "source": "Yahoo Finance",
+                "ticker": "SPY",
+                "title": "The stock market turmoil isn't over despite Trump's 90-day tariff delay",
+                "url": "https://finance.yahoo.com/news/the-stock-market-turmoil-isnt-over-despite-trumps-90-day-tariff-delay-162209628.html"
             }
         ],
-        "avgScore": -0.5185333333333333
+        "avgScore": -0.12539999999999998
     },
     "4 9 2025": {
         "importantArticles": [
@@ -1087,14 +1067,14 @@
                 "url": "https://finance.yahoo.com/news/wall-street-turns-attention-back-to-tariffs-ai-risks-after-powell-offers-few-surprises-152116605.html"
             },
             {
-                "headline": "Watch the S 500\u2019s 20-day moving average, now at 5,780 and falling rapidly.",
+                "headline": "President Trump's tariff policies have put both the US dollar (DX=F, DX-Y.NYB) and equity markets (^DJI, ^IXIC, ^GSPC) in an awkward spot. Yahoo Finance Markets and Data Editor and Stocks in Translation host Jared Blikre outlines the historical periods when both stocks and the dollar fell in tandem. Twice a week, Stocks In Translation cuts through the market mayhem, noisy numbers and hyperbole to give you the information you need to make the right trade for your portfolio. You can find more episodes here, or watch on your favorite streaming service. To watch more expert insights and analysis on the latest market action, check out more Catalysts&nbsp;here.",
                 "publication_date": "2025-03-21T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.1531",
-                "source": "MarketWatch",
+                "sentimentScore": "-0.128",
+                "source": "Yahoo Finance Video",
                 "ticker": "SPY",
-                "title": "The stock market is riding an oversold rally for now. Here\u2019s where it could end.",
-                "url": "https://finance.yahoo.com/news/stock-market-riding-oversold-rally-215800878.html"
+                "title": "The periods when both stocks and the US dollar fell together",
+                "url": "https://finance.yahoo.com/video/periods-both-stocks-us-dollar-173000409.html"
             },
             {
                 "headline": "Watch the S 500\u2019s 20-day moving average, now at 5,780 and falling rapidly.",
@@ -1105,6 +1085,16 @@
                 "ticker": "SPY",
                 "title": "The stock market is riding an oversold rally for now. Here\u2019s where it could end.",
                 "url": "https://finance.yahoo.com/news/stock-market-riding-oversold-rally-215800878.html"
+            },
+            {
+                "headline": "President Trump's tariff policies have put both the US dollar (DX=F, DX-Y.NYB) and equity markets (^DJI, ^IXIC, ^GSPC) in an awkward spot. Yahoo Finance Markets and Data Editor and Stocks in Translation host Jared Blikre outlines the historical periods when both stocks and the dollar fell in tandem. Twice a week, Stocks In Translation cuts through the market mayhem, noisy numbers and hyperbole to give you the information you need to make the right trade for your portfolio. You can find more episodes here, or watch on your favorite streaming service. To watch more expert insights and analysis on the latest market action, check out more Catalysts&nbsp;here.",
+                "publication_date": "2025-03-21T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.128",
+                "source": "Yahoo Finance Video",
+                "ticker": "SPY",
+                "title": "The periods when both stocks and the US dollar fell together",
+                "url": "https://finance.yahoo.com/video/periods-both-stocks-us-dollar-173000409.html"
             },
             {
                 "headline": "Stocks have struggled to build on their Federal Reserve meeting-spawned rally as investor concerns over tariffs and the trajectory of Big Tech's growth remain in focus.",
@@ -1115,19 +1105,9 @@
                 "ticker": "SPY",
                 "title": "Wall Street turns attention back to tariffs, AI risks after Powell offers few surprises",
                 "url": "https://finance.yahoo.com/news/wall-street-turns-attention-back-to-tariffs-ai-risks-after-powell-offers-few-surprises-152116605.html"
-            },
-            {
-                "headline": "US stock futures rose as investors digested reassuring signals from Federal Reserve Chair Jerome Powell after the central bank held interest rates steady on Wednesday.",
-                "publication_date": "2025-03-21T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6908",
-                "source": "Yahoo Finance",
-                "ticker": "SPY",
-                "title": "Stock market today: Dow, S&P 500, Nasdaq fall after Fed-fueled rally stalls",
-                "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-fall-after-fed-fueled-rally-stalls-200143317.html"
             }
         ],
-        "avgScore": 0.19643333333333332
+        "avgScore": 0.11532499999999998
     },
     "3 20 2025": {
         "importantArticles": [
@@ -1284,12 +1264,12 @@
         ],
         "avgScore": -0.19538
     },
-    "coef": -0.1961038961038961,
-    "avgCoef": 0.13404445812762047,
+    "coef": -0.13705749342540433,
+    "avgCoef": 0.1257082868742764,
     "similar": {
-        "RIVN": 0.3246753246753247,
-        "MP": 0.22727272727272727,
-        "LCID": 0.16753246753246753,
-        "MSTR": 0.14935064935064934
+        "RIVN": 0.2864566568748972,
+        "T": 0.23319260729725186,
+        "LCID": 0.20656058250842926,
+        "INTC": 0.18122768088003702
     }
 }

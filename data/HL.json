@@ -3,7 +3,7 @@
         "importantArticles": [
             {
                 "headline": "Hecla Mining (HL) witnessed a jump in share price last session on above-average trading volume. The latest trend in earnings estimate revisions for the stock doesn't suggest further strength down the road.",
-                "publication_date": "2025-04-10T13:09:00.000Z",
+                "publication_date": "2025-04-10T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.1098",
                 "source": "Zacks",
@@ -13,7 +13,7 @@
             },
             {
                 "headline": "Hecla Mining (HL) witnessed a jump in share price last session on above-average trading volume. The latest trend in earnings estimate revisions for the stock doesn't suggest further strength down the road.",
-                "publication_date": "2025-04-10T13:09:00.000Z",
+                "publication_date": "2025-04-10T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.1098",
                 "source": "Zacks",
@@ -28,7 +28,7 @@
         "importantArticles": [
             {
                 "headline": "Key Insights Given the large stake in the stock by institutions, Hecla Mining's stock price might be vulnerable to...",
-                "publication_date": "2025-04-09T17:51:48.000Z",
+                "publication_date": "2025-04-09T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.2263",
                 "source": "Simply Wall St.",
@@ -38,7 +38,7 @@
             },
             {
                 "headline": "Key Insights Given the large stake in the stock by institutions, Hecla Mining's stock price might be vulnerable to...",
-                "publication_date": "2025-04-09T17:51:48.000Z",
+                "publication_date": "2025-04-09T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.2263",
                 "source": "Simply Wall St.",
@@ -49,6 +49,62 @@
         ],
         "avgScore": -0.2263
     },
-    "coef": -0.9999999999999999,
-    "avgCoef": 0.15679006719977792
+    "3 24 2025": {
+        "importantArticles": [
+            {
+                "headline": "Hecla Mining (NYSE:HL) has had a great run on the share market with its stock up by a significant 14% over the last...",
+                "publication_date": "2025-03-24T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7964",
+                "source": "Simply Wall St.",
+                "ticker": "HL",
+                "title": "Hecla Mining Company's (NYSE:HL) Has Been On A Rise But Financial Prospects Look Weak: Is The Stock Overpriced?",
+                "url": "https://finance.yahoo.com/news/hecla-mining-companys-nyse-hl-114037483.html"
+            },
+            {
+                "headline": "Hecla Mining (NYSE:HL) has had a great run on the share market with its stock up by a significant 14% over the last...",
+                "publication_date": "2025-03-24T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7964",
+                "source": "Simply Wall St.",
+                "ticker": "HL",
+                "title": "Hecla Mining Company's (NYSE:HL) Has Been On A Rise But Financial Prospects Look Weak: Is The Stock Overpriced?",
+                "url": "https://finance.yahoo.com/news/hecla-mining-companys-nyse-hl-114037483.html"
+            }
+        ],
+        "avgScore": 0.7964
+    },
+    "3 19 2025": {
+        "importantArticles": [
+            {
+                "headline": "We recently published a list of 10 Best Gold Penny Stocks to Buy Now. In this article, we are going to take a look at where Hecla Mining Company (NYSE:HL) stands against other best gold penny stocks to buy now. The global precious metals market is influenced by economic uncertainty, inflation, and shifting supply and [\u2026]",
+                "publication_date": "2025-03-19T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8934",
+                "source": "Insider Monkey",
+                "ticker": "HL",
+                "title": "Is Hecla Mining Company (HL) The Best Gold Penny Stock to Buy Now?",
+                "url": "https://finance.yahoo.com/news/hecla-mining-company-hl-best-001410362.html"
+            },
+            {
+                "headline": "We recently published a list of 10 Best Gold Penny Stocks to Buy Now. In this article, we are going to take a look at where Hecla Mining Company (NYSE:HL) stands against other best gold penny stocks to buy now. The global precious metals market is influenced by economic uncertainty, inflation, and shifting supply and [\u2026]",
+                "publication_date": "2025-03-19T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8934",
+                "source": "Insider Monkey",
+                "ticker": "HL",
+                "title": "Is Hecla Mining Company (HL) The Best Gold Penny Stock to Buy Now?",
+                "url": "https://finance.yahoo.com/news/hecla-mining-company-hl-best-001410362.html"
+            }
+        ],
+        "avgScore": 0.8934
+    },
+    "coef": -0.6000000000000001,
+    "avgCoef": 0.003711165335189923,
+    "similar": {
+        "BAC": 1.0,
+        "KEY": 1.0,
+        "CMCSA": 1.0,
+        "TFC": 1.0
+    }
 }

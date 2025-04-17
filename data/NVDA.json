@@ -38,7 +38,7 @@
                 "sentimentScore": "-0.872",
                 "source": "Barrons.com",
                 "ticker": "NVDA",
-                "title": "These Stocks Are Moving the Most Today: UnitedHealth, Alphabet, Nvidia, TSMC, Lilly, D.R. Horton, Schwab, Netflix, Hertz, and More",
+                "title": "These Stocks Are Moving the Most Today: UnitedHealth, Alphabet, Nvidia, Lilly, D.R. Horton, Schwab, Netflix, Hertz, and More",
                 "url": "https://finance.yahoo.com/m/eeba0522-f2ba-32bd-a110-d642d205fb98/these-stocks-are-moving-the.html"
             },
             {
@@ -62,7 +62,7 @@
                 "url": "https://finance.yahoo.com/news/nvidia-stock-slumps-6-u-142600357.html"
             }
         ],
-        "avgScore": 0.0560943820224718
+        "avgScore": 0.020847191011235874
     },
     "4 16 2025": {
         "importantArticles": [
@@ -127,64 +127,14 @@
                 "url": "https://finance.yahoo.com/news/global-chip-stocks-slide-nvidia-110516321.html"
             }
         ],
-        "avgScore": 0.05097613636363641
+        "avgScore": 0.08293186813186808
     },
-    "3 28 2025": {
-        "importantArticles": [
-            {
-                "headline": "Use the IBD Stock Screener to quickly filter through thousands of companies to find stocks that meet your criteria.",
-                "publication_date": "2025-03-28T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Investor's Business Daily",
-                "ticker": "NVDA",
-                "title": "Find The Next Palantir Or Hot IPO For Next Uptrend. Here's How.",
-                "url": "https://finance.yahoo.com/m/3ea1184c-5a73-3eb6-9e62-aab9dda34953/find-the-next-palantir-or-hot.html"
-            },
-            {
-                "headline": "Use the IBD Stock Screener to quickly filter through thousands of companies to find stocks that meet your criteria.",
-                "publication_date": "2025-03-28T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Investor's Business Daily",
-                "ticker": "NVDA",
-                "title": "Find The Next Palantir Or Hot IPO For Next Uptrend. Here's How.",
-                "url": "https://finance.yahoo.com/m/3ea1184c-5a73-3eb6-9e62-aab9dda34953/find-the-next-palantir-or-hot.html"
-            }
-        ],
-        "avgScore": 0.0
-    },
-    "3 27 2025": {
-        "importantArticles": [
-            {
-                "headline": "We recently published a list of 12 Stocks on Jim Cramer\u2019s Radar Recently. In this article, we are going to take a look at where NVIDIA Corporation (NASDAQ:NVDA) stands against other stocks that on Jim Cramer\u2019s radar recently. On Tuesday, Jim Cramer, host of Mad Money, criticized the market\u2019s reaction, or lack thereof, to the [\u2026]",
-                "publication_date": "2025-03-27T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.7906",
-                "source": "Insider Monkey",
-                "ticker": "NVDA",
-                "title": "Jim Cramer Says NVIDIA (NVDA) Can\u2019t Be Owned Like Before: \u201cYou Have to Trim\u201d",
-                "url": "https://finance.yahoo.com/news/jim-cramer-says-nvidia-nvda-170211589.html"
-            },
-            {
-                "headline": "We recently published a list of 12 Stocks on Jim Cramer\u2019s Radar Recently. In this article, we are going to take a look at where NVIDIA Corporation (NASDAQ:NVDA) stands against other stocks that on Jim Cramer\u2019s radar recently. On Tuesday, Jim Cramer, host of Mad Money, criticized the market\u2019s reaction, or lack thereof, to the [\u2026]",
-                "publication_date": "2025-03-27T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.7906",
-                "source": "Insider Monkey",
-                "ticker": "NVDA",
-                "title": "Jim Cramer Says NVIDIA (NVDA) Can\u2019t Be Owned Like Before: \u201cYou Have to Trim\u201d",
-                "url": "https://finance.yahoo.com/news/jim-cramer-says-nvidia-nvda-170211589.html"
-            }
-        ],
-        "avgScore": -0.7906
-    },
-    "coef": -0.6000000000000001,
-    "avgCoef": 0.13492677464535563,
+    "coef": -0.9999999999999999,
+    "avgCoef": 0.12673289289644812,
     "similar": {
-        "AAL": 1.0,
-        "SNAP": 1.0,
-        "LYG": 1.0,
-        "VALE": 1.0
+        "SPY": 0.9999999999999999,
+        "HTZ": 0.9999999999999999,
+        "F": 0.9999999999999999,
+        "PLTR": 0.9999999999999999
     }
 }

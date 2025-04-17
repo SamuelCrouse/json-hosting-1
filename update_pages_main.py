@@ -370,11 +370,11 @@ if __name__ == "__main__":
         mostActive = getDayMovers()
         if "SPY" not in mostActive: mostActive.insert(0, "SPY")
 
-        # upd.update_price_data(mostActive)
+        upd.update_price_data(mostActive)
 
-        # print(mostActive)
-        # print(len(mostActive))
-        # main(mostActive)
+        print(mostActive)
+        print(len(mostActive))
+        main(mostActive)
 
         upf.commit_and_push()
     # """

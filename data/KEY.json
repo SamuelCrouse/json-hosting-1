@@ -42,6 +42,16 @@
                 "url": "https://finance.yahoo.com/news/keycorps-q1-earnings-beat-estimates-175800540.html"
             },
             {
+                "headline": "Q1 2025 KeyCorp Earnings Call",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Thomson Reuters StreetEvents",
+                "ticker": "KEY",
+                "title": "Q1 2025 KeyCorp Earnings Call",
+                "url": "https://finance.yahoo.com/news/q1-2025-keycorp-earnings-call-020905232.html"
+            },
+            {
                 "headline": "KeyCorp (KEY) delivered earnings and revenue surprises of 3.13% and 0.48%, respectively, for the quarter ended March 2025. Do the numbers hold clues to what lies ahead for the stock?",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -50,19 +60,9 @@
                 "ticker": "KEY",
                 "title": "KeyCorp (KEY) Q1 Earnings and Revenues Surpass Estimates",
                 "url": "https://finance.yahoo.com/news/keycorp-key-q1-earnings-revenues-114503587.html"
-            },
-            {
-                "headline": "Although the revenue and EPS for KeyCorp (KEY) give a sense of how its business performed in the quarter ended March 2025, it might be worth considering how some key metrics compare with Wall Street estimates and the year-ago numbers.",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.2263",
-                "source": "Zacks",
-                "ticker": "KEY",
-                "title": "KeyCorp (KEY) Reports Q1 Earnings: What Key Metrics Have to Say",
-                "url": "https://finance.yahoo.com/news/keycorp-key-reports-q1-earnings-133017792.html"
             }
         ],
-        "avgScore": 0.017524999999999985
+        "avgScore": 0.014019999999999987
     },
     "4 15 2025": {
         "importantArticles": [
@@ -352,26 +352,6 @@
                 "url": "https://finance.yahoo.com/news/fair-housing-month-keybank-survey-133000089.html"
             },
             {
-                "headline": "Q1 2025 KeyCorp Earnings Call",
-                "publication_date": "2025-04-01T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Thomson Reuters StreetEvents",
-                "ticker": "KEY",
-                "title": "Q1 2025 KeyCorp Earnings Call",
-                "url": "https://finance.yahoo.com/news/q1-2025-keycorp-earnings-call-020905232.html"
-            },
-            {
-                "headline": "Q1 2025 KeyCorp Earnings Call",
-                "publication_date": "2025-04-01T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Thomson Reuters StreetEvents",
-                "ticker": "KEY",
-                "title": "Q1 2025 KeyCorp Earnings Call",
-                "url": "https://finance.yahoo.com/news/q1-2025-keycorp-earnings-call-020905232.html"
-            },
-            {
                 "headline": "While many believe owning a home is not an attainable goal for themselves nor the average American, potential homeowners do have access to more financial tools and education and are more capable than they think on their journeys toward homeownership ...",
                 "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -382,7 +362,7 @@
                 "url": "https://finance.yahoo.com/news/fair-housing-month-keybank-survey-133000089.html"
             }
         ],
-        "avgScore": 0.21955
+        "avgScore": 0.4391
     },
     "3 24 2025": {
         "importantArticles": [
@@ -434,12 +414,12 @@
         ],
         "avgScore": 0.2732
     },
-    "coef": -0.26363636363636367,
-    "avgCoef": 0.03771740851731284,
+    "coef": -0.19090909090909092,
+    "avgCoef": 0.02403201977314182,
     "similar": {
-        "IAG": 0.4090909090909091,
-        "GOLD": 0.3727272727272728,
-        "UNH": 0.3545454545454546,
-        "MP": 0.28181818181818186
+        "IAG": 0.39090909090909093,
+        "MP": 0.38181818181818183,
+        "UNH": 0.23636363636363636,
+        "HTZ": 0.22727272727272727
     }
 }

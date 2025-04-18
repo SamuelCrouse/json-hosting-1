@@ -62,7 +62,7 @@
                 "url": "https://finance.yahoo.com/news/why-china-chip-export-curbs-163853455.html"
             }
         ],
-        "avgScore": 0.0047590909090908995
+        "avgScore": 0.004985714285714276
     },
     "4 16 2025": {
         "importantArticles": [
@@ -87,14 +87,14 @@
                 "url": "https://finance.yahoo.com/news/buy-advanced-micro-devices-amd-093200563.html"
             },
             {
-                "headline": "We recently compiled a list of the 14 Best American Tech Stocks To Buy Now. In this article, we are going to take a look at where Advanced Micro Devices, Inc. (NASDAQ:AMD) stands against the other American tech stocks. American stocks moved up a bit on Monday, April 14 as investors focused on news about [\u2026]",
+                "headline": "We came across a bullish thesis on Advanced Micro Devices, Inc. (AMD) on Substack by Felix. In this article, we will summarize the bulls\u2019 thesis on AMD. Advanced Micro Devices, Inc. (AMD)\u2019s share was trading at $95.29 as of April 15th. AMD\u2019s trailing and forward P/E were 95.29 and 20.49 respectively according to Yahoo Finance. AMD is [\u2026]",
                 "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.8316",
+                "sentimentScore": "0.765",
                 "source": "Insider Monkey",
                 "ticker": "AMD",
-                "title": "Is Advanced Micro Devices, Inc. (AMD) The Best American Tech Stock To Buy Now?",
-                "url": "https://finance.yahoo.com/news/advanced-micro-devices-inc-amd-034516674.html"
+                "title": "Advanced Micro Devices, Inc. (AMD): A Bull Case Theory",
+                "url": "https://finance.yahoo.com/news/advanced-micro-devices-inc-amd-184255905.html"
             },
             {
                 "headline": "US-China trade war tensions drag US stocks lower after Nvidia (NVDA) reported restrictions on exports to China would cost the chipmaker $5.5 billion. CFRA Research chief investment strategist Sam Stovall joins Morning Brief with Madison Mills and Brad Smith to discuss what the uncertainty means for first quarter earnings and chipmakers' outlooks. To watch more expert insights and analysis on the latest market action, check out more Morning Brief here.",
@@ -127,7 +127,7 @@
                 "url": "https://finance.yahoo.com/video/us-export-controls-cost-nvidia-151110335.html"
             }
         ],
-        "avgScore": 0.0968285714285715
+        "avgScore": 0.07306857142857148
     },
     "4 15 2025": {
         "importantArticles": [
@@ -152,14 +152,14 @@
                 "url": "https://finance.yahoo.com/news/nvidia-3-considerably-bigger-concerns-075100065.html"
             },
             {
-                "headline": "TAIPEI (Reuters) -Advanced Micro Devices said on Tuesday its key processor chips would soon be made at TSMC's new production site in Arizona, marking the first time that its products will be manufactured in the United States.  Though AMD's plans predate U.S. President Donald Trump's return to office, tech companies' efforts to diversify their supply chains have taken on added significance given Trump's escalating tariff war.  \"Our new fifth-generation EPYC is doing very well, so we're ready to start production,\" AMD Chief Executive Lisa Su told reporters in Taipei, referring to the company's central processing unit (CPU) for data centres.",
+                "headline": "We recently compiled a list of the 14 Best American Tech Stocks To Buy Now. In this article, we are going to take a look at where Advanced Micro Devices, Inc. (NASDAQ:AMD) stands against the other American tech stocks. American stocks moved up a bit on Monday, April 14 as investors focused on news about [\u2026]",
                 "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.7328",
-                "source": "Reuters",
+                "sentimentScore": "0.8316",
+                "source": "Insider Monkey",
                 "ticker": "AMD",
-                "title": "AMD set to produce its CPU chip at TSMC plant in Arizona",
-                "url": "https://finance.yahoo.com/news/amd-ceo-says-ready-start-011956898.html"
+                "title": "Is Advanced Micro Devices, Inc. (AMD) The Best American Tech Stock To Buy Now?",
+                "url": "https://finance.yahoo.com/news/advanced-micro-devices-inc-amd-034516674.html"
             },
             {
                 "headline": "(Bloomberg) -- Representative Marjorie Taylor Greene sold US Treasuries and bought stakes in Amazon.com Inc., Blackstone Inc. and Tesla Inc. the day before President Donald Trump put a 90-day pause on retaliatory tariffs and prompted a market rally.Most Read from BloombergHow Did This Suburb Figure Out Mass Transit?Trump Signs Executive Orders on Federal Purchasing, Office SpaceEven Oslo Has an Air Quality ProblemLA County Floats Leaner Budget Burdened by Fire and Legal Costs$15 Million Fund Bet",
@@ -192,7 +192,7 @@
                 "url": "https://finance.yahoo.com/news/intel-overblown-optimism-meets-stark-095756917.html"
             }
         ],
-        "avgScore": 0.24705000000000005
+        "avgScore": 0.25693
     },
     "4 14 2025": {
         "importantArticles": [
@@ -257,7 +257,7 @@
                 "url": "https://finance.yahoo.com/news/why-advanced-micro-devices-amd-214516162.html"
             }
         ],
-        "avgScore": 0.38151428571428575
+        "avgScore": 0.42542500000000005
     },
     "4 11 2025": {
         "importantArticles": [
@@ -1019,12 +1019,12 @@
         ],
         "avgScore": 0.18508
     },
-    "coef": -0.34705882352941175,
-    "avgCoef": 0.0317880125227214,
+    "coef": -0.29705882352941176,
+    "avgCoef": 0.023944691568967072,
     "similar": {
-        "UNH": 0.3529411764705882,
-        "IAG": 0.07941176470588236,
-        "NGD": -0.01764705882352941,
-        "PSLV": -0.047058823529411764
+        "UNH": 0.37058823529411766,
+        "IAG": 0.10882352941176471,
+        "NGD": 0.014705882352941175,
+        "GPN": -0.0029411764705882353
     }
 }

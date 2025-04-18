@@ -627,6 +627,16 @@
                 "url": "https://finance.yahoo.com/news/canadas-retaliatory-tariffs-fuel-trumps-135800328.html"
             },
             {
+                "headline": "The administration\u2019s new levies will be a massive blow to the bottom line of Ford and GM and force job cuts across the industry.",
+                "publication_date": "2025-04-04T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.296",
+                "source": "The Wall Street Journal",
+                "ticker": "F",
+                "title": "The Peril of Trump\u2019s Tariffs for America\u2019s Auto Titans",
+                "url": "https://finance.yahoo.com/m/ba28b4f5-3d46-3ef4-baa2-7c6c4f678ec1/the-peril-of-trump%E2%80%99s-tariffs.html"
+            },
+            {
                 "headline": "Navigating Ford's run in a Volatile Market",
                 "publication_date": "2025-04-04T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -635,19 +645,9 @@
                 "ticker": "F",
                 "title": "How Do Capital Expenditures Affect Ford",
                 "url": "https://finance.yahoo.com/news/capital-expenditures-affect-ford-194535889.html"
-            },
-            {
-                "headline": "The campaign coincides with a new 25% tariff on imported autos announced by President Trump.",
-                "publication_date": "2025-04-04T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "GuruFocus.com",
-                "ticker": "F",
-                "title": "Ford Offers Employee Pricing to Public as Auto Tariffs Push Consumers to Buy Early",
-                "url": "https://finance.yahoo.com/news/ford-offers-employee-pricing-public-195956353.html"
             }
         ],
-        "avgScore": 0.2412375
+        "avgScore": 0.18154444444444445
     },
     "4 3 2025": {
         "importantArticles": [
@@ -842,7 +842,7 @@
                 "url": "https://finance.yahoo.com/m/abc95edd-299c-3edb-8c3b-b64bf0236399/ford-stock-is-falling-because.html"
             }
         ],
-        "avgScore": -0.04720666666666669
+        "avgScore": -0.01530000000000002
     },
     "3 31 2025": {
         "importantArticles": [
@@ -887,6 +887,16 @@
                 "url": "https://finance.yahoo.com/m/34024c5b-3aa5-3298-a118-f159657723a4/car-stocks-fall-as-bad-news.html"
             },
             {
+                "headline": "US automakers are making a last-ditch effort to sway the Trump administration on tariffs set to take effect this week, contending that levies on the thousands of parts they source abroad could have catastrophic effects on the industry.",
+                "publication_date": "2025-03-31T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.4939",
+                "source": "Bloomberg",
+                "ticker": "F",
+                "title": "US automakers make mad dash to persuade Trump to temper tariffs",
+                "url": "https://finance.yahoo.com/news/us-automakers-mad-dash-persuade-013847428.html"
+            },
+            {
                 "headline": "President Trump\u2019s auto tariffs have customers and dealers spooked.",
                 "publication_date": "2025-03-31T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -895,19 +905,9 @@
                 "ticker": "F",
                 "title": "Car dealer: 'Afraid' buyers are rushing to purchase cars ahead of tariffs",
                 "url": "https://finance.yahoo.com/news/car-dealer-afraid-buyers-are-rushing-to-purchase-cars-ahead-of-tariffs-144014529.html"
-            },
-            {
-                "headline": "Investing.com -- As auto stocks bounce back on Monday from a tariff-induced selloff last week, RBC (TSX:RY) outlines the potential impact from President Donald Trump's auto tariffs on an industry that relied on decades of cross-border integration.",
-                "publication_date": "2025-03-31T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Investing.com",
-                "ticker": "F",
-                "title": "Trump's tariffs risk decades of auto industry integration: RBC",
-                "url": "https://finance.yahoo.com/news/trumps-tariffs-risk-decades-auto-190936636.html"
             }
         ],
-        "avgScore": 0.19461250000000002
+        "avgScore": 0.11811111111111113
     },
     "3 28 2025": {
         "importantArticles": [
@@ -1299,12 +1299,12 @@
         ],
         "avgScore": 0.2966399999999999
     },
-    "coef": -0.2150375939849624,
-    "avgCoef": 0.030751378139190856,
+    "coef": -0.18496240601503755,
+    "avgCoef": 0.022738426521127016,
     "similar": {
-        "T": 0.14887218045112782,
-        "LCID": 0.11432870308327965,
-        "HTZ": 0.10375939849624059,
-        "ERIC": 0.0781954887218045
+        "T": 0.1533834586466165,
+        "HTZ": 0.13684210526315788,
+        "KVUE": 0.13233082706766916,
+        "KO": 0.12030075187969923
     }
 }

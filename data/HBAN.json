@@ -329,37 +329,12 @@
         ],
         "avgScore": 0.7798499999999999
     },
-    "3 18 2025": {
-        "importantArticles": [
-            {
-                "headline": "Capstone Partners, a leading middle market investment banking firm, released its Annual Industrials M&A Report, which shares insights into public market valuations, the macroeconomic climate, merger and acquisition (M&A) activity, and an outlook for 2025 industry activity. With extensive knowledge and transaction experience, Capstone Partners' Industrials Investment Banking Team provides unique commentary on nine key sectors: Chemicals, Engineered Products, Environmental Health & Safety, HVAC, I",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6124",
-                "source": "PR Newswire",
-                "ticker": "HBAN",
-                "title": "Capstone Partners Reports: Industrials M&A Gains as Industry Players Navigate Shifting Economy",
-                "url": "https://finance.yahoo.com/news/capstone-partners-reports-industrials-m-170000995.html"
-            },
-            {
-                "headline": "Capstone Partners, a leading middle market investment banking firm, released its Annual Industrials M&A Report, which shares insights into public market valuations, the macroeconomic climate, merger and acquisition (M&A) activity, and an outlook for 2025 industry activity. With extensive knowledge and transaction experience, Capstone Partners' Industrials Investment Banking Team provides unique commentary on nine key sectors: Chemicals, Engineered Products, Environmental Health & Safety, HVAC, I",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6124",
-                "source": "PR Newswire",
-                "ticker": "HBAN",
-                "title": "Capstone Partners Reports: Industrials M&A Gains as Industry Players Navigate Shifting Economy",
-                "url": "https://finance.yahoo.com/news/capstone-partners-reports-industrials-m-170000995.html"
-            }
-        ],
-        "avgScore": 0.6124
-    },
-    "coef": 0.22727272727272727,
-    "avgCoef": 0.031119180661869045,
+    "coef": 0.17575757575757575,
+    "avgCoef": 0.024567781714053615,
     "similar": {
-        "KO": 0.7272727272727273,
-        "CVS": 0.5909090909090909,
-        "BABA": 0.5545454545454546,
-        "CSCO": 0.5181818181818182
+        "KO": 0.8060606060606059,
+        "BABA": 0.6,
+        "T": 0.5636363636363636,
+        "CVS": 0.5636363636363636
     }
 }

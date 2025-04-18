@@ -2,16 +2,6 @@
     "4 17 2025": {
         "importantArticles": [
             {
-                "headline": "(Bloomberg) -- Eli Lilly & Co. shares surged after its experimental pill helped patients shed weight and control blood sugar about as well as Ozempic, an advance that could turbocharge what\u2019s already one of the fastest growing markets in medicine.Most Read from BloombergTrump Signs Executive Orders on Federal Purchasing, Office SpaceDOGE Places Entire Staff of Federal Homelessness Agency on LeaveHow Did This Suburb Figure Out Mass Transit?Why the Best Bike Lanes Always Get BlamedNashville\u2019s $3 B",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8481",
-                "source": "Bloomberg",
-                "ticker": "PFE",
-                "title": "Lilly Soars as Study Positions Weight-Loss Pill to Pass Ozempic",
-                "url": "https://finance.yahoo.com/news/lilly-soars-weight-loss-pill-115533510.html"
-            },
-            {
                 "headline": "We recently published a list of 15 Best Large-Cap Value Stocks to Buy as the Recession Hits. In this article, we are going to take a look at where Pfizer Inc. (NYSE:PFE) stands against other best large-cap value stocks to buy as the recession hits. Goldman Sachs highlighted that equities around the world traded in and [\u2026]",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -20,6 +10,16 @@
                 "ticker": "PFE",
                 "title": "Is Pfizer Inc.\u00a0(PFE) the Best Large-Cap Value Stock to Buy as the Recession Hits?",
                 "url": "https://finance.yahoo.com/news/pfizer-inc-pfe-best-large-185020270.html"
+            },
+            {
+                "headline": "(Bloomberg) -- Eli Lilly & Co. shares surged after its experimental pill helped patients shed weight and control blood sugar about as well as Ozempic, an advance that could turbocharge what\u2019s already one of the fastest growing markets in medicine. Shares of the drug\u2019s originator Chugai Pharmaceutical Co. also soared. Most Read from BloombergTrump Signs Executive Orders on Federal Purchasing, Office SpaceDOGE Places Entire Staff of Federal Homelessness Agency on LeaveHow Did This Suburb Figure Ou",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7351",
+                "source": "Bloomberg",
+                "ticker": "PFE",
+                "title": "Lilly Soars As Study Shows Weight-Loss Pill to Pass Ozempic",
+                "url": "https://finance.yahoo.com/news/lilly-soars-weight-loss-pill-115533510.html"
             },
             {
                 "headline": "Tariff uncertainty has created an ideal opportunity for long-term investors to pounce.",
@@ -62,7 +62,7 @@
                 "url": "https://finance.yahoo.com/news/pfizer-nyse-pfe-gets-cdc-172534992.html"
             }
         ],
-        "avgScore": 0.14254000000000003
+        "avgScore": 0.13123999999999997
     },
     "4 16 2025": {
         "importantArticles": [
@@ -132,16 +132,6 @@
                 "url": "https://finance.yahoo.com/news/bofa-keeps-neutral-pfizer-danuglipron-150532621.html"
             },
             {
-                "headline": "(Bloomberg) -- Supply Lines is a daily newsletter that tracks global trade. Sign up here.Most Read from BloombergHow Did This Suburb Figure Out Mass Transit?The Secret Formula for Faster TrainsEven Oslo Has an Air Quality ProblemNYC Tourist Helicopter Crashes in Hudson River, Killing SixLisbon Mayor Wants Companies to Help Fix City\u2019s Housing ShortagePresident Donald Trump\u2019s administration pressed forward with plans to impose tariffs on semiconductor and pharmaceutical imports by initiating trade",
-                "publication_date": "2025-04-15T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.5994",
-                "source": "Bloomberg",
-                "ticker": "PFE",
-                "title": "Trump Initiates Chips and Drug Probes\u00a0Ahead of More Tariffs",
-                "url": "https://finance.yahoo.com/news/trump-announces-chips-drug-probes-204108780.html"
-            },
-            {
                 "headline": "PFE's decision to scrap the development of danuglipron comes after a study participant develops potential drug-induced liver injury.",
                 "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -150,9 +140,19 @@
                 "ticker": "PFE",
                 "title": "Pfizer Halts Obesity Pill Development Amid Safety Concerns",
                 "url": "https://finance.yahoo.com/news/pfizer-halts-obesity-pill-development-165700605.html"
+            },
+            {
+                "headline": "Pfizer (NYSE: PFE) recently reminded investors how risky the drug-development business can be.  On April 14, the company told investors it would scrap development of danuglipron, its oral GLP-1 candidate for weight management.  Pfizer's stock price is way down, but the quarterly dividend it pays has risen for 16 consecutive years.",
+                "publication_date": "2025-04-15T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.1027",
+                "source": "Motley Fool",
+                "ticker": "PFE",
+                "title": "Is High-Yield Pfizer Stock Still a Buy After Scrapping Its Weight Loss Pill?",
+                "url": "https://finance.yahoo.com/news/high-yield-pfizer-stock-still-113900876.html"
             }
         ],
-        "avgScore": 0.06673749999999996
+        "avgScore": 0.16189999999999996
     },
     "4 14 2025": {
         "importantArticles": [
@@ -207,17 +207,17 @@
                 "url": "https://finance.yahoo.com/video/pfizer-abandons-obesity-pill-trial-140656016.html"
             },
             {
-                "headline": "Pfizer  is halting development of its experimental weight-loss pill, as the booming obesity drug market remains out of reach for the drug giant.  The company said Monday the stoppage comes after it reviewed clinical data and a study subject developed a liver injury that might have been caused by the drug, called danuglipron.  Halting the drug\u2019s development means  Pfizer  still is unable to get a cut, for now, of the white-hot obesity market, which analysts say could reach $100 billion by the end of the decade.",
+                "headline": "(Bloomberg) -- Supply Lines is a daily newsletter that tracks global trade. Sign up here.Most Read from BloombergHow Did This Suburb Figure Out Mass Transit?The Secret Formula for Faster TrainsEven Oslo Has an Air Quality ProblemNYC Tourist Helicopter Crashes in Hudson River, Killing SixLisbon Mayor Wants Companies to Help Fix City\u2019s Housing ShortagePresident Donald Trump\u2019s administration pressed forward with plans to impose tariffs on semiconductor and pharmaceutical imports by initiating trade",
                 "publication_date": "2025-04-14T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.5719",
-                "source": "The Wall Street Journal",
+                "sentimentScore": "-0.5994",
+                "source": "Bloomberg",
                 "ticker": "PFE",
-                "title": "Pfizer Halts Development of Weight-Loss Pill",
-                "url": "https://finance.yahoo.com/m/b3673b54-a975-32c1-a871-82025800a9e7/pfizer-halts-development-of.html"
+                "title": "Trump Initiates Chips and Drug Probes\u00a0Ahead of More Tariffs",
+                "url": "https://finance.yahoo.com/news/trump-announces-chips-drug-probes-204108780.html"
             }
         ],
-        "avgScore": -0.02610434782608697
+        "avgScore": -0.04999166666666668
     },
     "4 11 2025": {
         "importantArticles": [
@@ -654,7 +654,7 @@
                 "source": "Reuters",
                 "ticker": "PFE",
                 "title": "Proxy adviser ISS recommends against Pfizer executive pay proposal",
-                "url": "https://finance.yahoo.com/news/proxy-adviser-iss-recommends-pfizer-131020994.html"
+                "url": "https://finance.yahoo.com/news/proxy-adviser-iss-recommends-pfizer-131020223.html"
             },
             {
                 "headline": "Finding stocks expected to beat quarterly earnings estimates becomes an easier task with our Zacks Earnings ESP.",
@@ -1309,77 +1309,12 @@
         ],
         "avgScore": 0.3579333333333333
     },
-    "3 18 2025": {
-        "importantArticles": [
-            {
-                "headline": "We recently published a list of 10 Most Profitable Value Stocks to Buy Now. In this article, we are going to take a look at where Pfizer Inc. (NYSE:PFE) stands against other profitable value stocks to buy now. Matt Powers, Managing Partner at Powers Advisory Group, joined the discussion on CNBC\u2019s \u2018Power Lunch\u2019 on March [\u2026]",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8799",
-                "source": "Insider Monkey",
-                "ticker": "PFE",
-                "title": "Pfizer Inc. (PFE): One of the Most Profitable Value Stocks to Buy Now",
-                "url": "https://finance.yahoo.com/news/pfizer-inc-pfe-one-most-063306322.html"
-            },
-            {
-                "headline": "Pfizer will sell about 662 million ordinary shares, or 7.3%, of Haleon, created in a merger of GSK and Pfizer's consumer healthcare businesses in 2019, and spun off in 2022.  Under the deal, the Sensodyne maker has agreed to buy back shares worth $220 million from Pfizer, currently its largest shareholder.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8126",
-                "source": "Reuters",
-                "ticker": "PFE",
-                "title": "Pfizer to sell entire Haleon stake",
-                "url": "https://finance.yahoo.com/news/pfizer-sell-entire-haleon-stake-165448231.html"
-            },
-            {
-                "headline": "Pfizer (PFE) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6486",
-                "source": "Zacks",
-                "ticker": "PFE",
-                "title": "Pfizer Inc. (PFE) is Attracting Investor Attention: Here is What You Should Know",
-                "url": "https://finance.yahoo.com/news/pfizer-inc-pfe-attracting-investor-130016800.html"
-            },
-            {
-                "headline": "Whether finding new treatments for schizophrenia or first-time ways to tackle bladder cancer, these companies are finding forward-looking therapies.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.6597",
-                "source": "FastCompany",
-                "ticker": "PFE",
-                "title": "From cancer vaccines to COPD treatments, these 10 companies are developing innovative medicines",
-                "url": "https://finance.yahoo.com/news/cancer-vaccines-copd-treatments-10-110000859.html"
-            },
-            {
-                "headline": "NEW YORK, March 18, 2025--Pfizer Inc. (NYSE: PFE) invites investors and the general public to view and listen to a webcast of a conference call with investment analysts at 10:00 a.m. EDT on Tuesday, April 29, 2025. The purpose of the call is to provide an update on Pfizer\u2019s results, as reflected in the company\u2019s First Quarter 2025 Performance Report, to be issued that morning.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Business Wire",
-                "ticker": "PFE",
-                "title": "Pfizer Invites Public to View and Listen to Webcast of April 29 Conference Call with Analysts",
-                "url": "https://finance.yahoo.com/news/pfizer-invites-public-view-listen-140000034.html"
-            },
-            {
-                "headline": "We recently published a list of 10 Stocks Market Experts are Talking About These Days. In this article, we are going to take a look at where Pfizer Inc (NYSE:PFE) stands against other stocks that market experts are talking about these days. Piper Sandler\u2019s Chief Market Technician Craig Johnson said in a latest program on [\u2026]",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Insider Monkey",
-                "ticker": "PFE",
-                "title": "Analyst Says Pfizer (PFE) Stock Will \u2018Move Too Fast to Catch\u2019",
-                "url": "https://finance.yahoo.com/news/analyst-says-pfizer-pfe-stock-220229259.html"
-            }
-        ],
-        "avgScore": 0.28023333333333333
-    },
-    "coef": 0.13043478260869565,
-    "avgCoef": 0.03060894231756422,
+    "coef": 0.12817617165443254,
+    "avgCoef": 0.02357519727990715,
     "similar": {
-        "F": 0.541501976284585,
-        "ADT": 0.48122529644268774,
-        "CSCO": 0.4298418972332016,
-        "CMCSA": 0.4130434782608696
+        "F": 0.5189158667419538,
+        "ADT": 0.47826086956521746,
+        "CSCO": 0.4059853190287973,
+        "PCG": 0.39243365330321855
     }
 }

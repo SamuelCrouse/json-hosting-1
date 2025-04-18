@@ -424,77 +424,12 @@
         ],
         "avgScore": 0.5232
     },
-    "3 18 2025": {
-        "importantArticles": [
-            {
-                "headline": "If you're contemplating an investment in AGNC today for passive income, there are a few things you should understand first.  AGNC Investment Corp. is a unique company for those interested in residential real estate exposure.  It operates as a mortgage real estate investment trust (mREIT) specializing in buying mortgage-backed securities (MBS), or bundles of home loans pooled together and sold to investors.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8402",
-                "source": "Motley Fool",
-                "ticker": "AGNC",
-                "title": "AGNC: Buy, Sell, or Hold?",
-                "url": "https://finance.yahoo.com/news/agnc-buy-sell-hold-093500345.html"
-            },
-            {
-                "headline": "AGNC Investment (NASDAQ: AGNC) pays a monster monthly dividend.  The real estate investment trust (REIT) currently yields around 14%.  The mortgage REIT has maintained its massive monthly dividend for the last 60 consecutive months.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.5106",
-                "source": "Motley Fool",
-                "ticker": "AGNC",
-                "title": "Every AGNC Investment Investor Should Keep an Eye on This Number",
-                "url": "https://finance.yahoo.com/news/every-agnc-investment-investor-keep-110300964.html"
-            },
-            {
-                "headline": "In the most recent trading session, AGNC Investment (AGNC) closed at $10.39, indicating a +0.39% shift from the previous trading day.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "AGNC",
-                "title": "AGNC Investment (AGNC) Advances While Market Declines: Some Information for Investors",
-                "url": "https://finance.yahoo.com/news/agnc-investment-agnc-advances-while-215015436.html"
-            },
-            {
-                "headline": "In the most recent trading session, AGNC Investment (AGNC) closed at $10.39, indicating a +0.39% shift from the previous trading day.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "AGNC",
-                "title": "AGNC Investment (AGNC) Advances While Market Declines: Some Information for Investors",
-                "url": "https://finance.yahoo.com/news/agnc-investment-agnc-advances-while-215015436.html"
-            },
-            {
-                "headline": "AGNC Investment (NASDAQ: AGNC) pays a monster monthly dividend.  The real estate investment trust (REIT) currently yields around 14%.  The mortgage REIT has maintained its massive monthly dividend for the last 60 consecutive months.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.5106",
-                "source": "Motley Fool",
-                "ticker": "AGNC",
-                "title": "Every AGNC Investment Investor Should Keep an Eye on This Number",
-                "url": "https://finance.yahoo.com/news/every-agnc-investment-investor-keep-110300964.html"
-            },
-            {
-                "headline": "If you're contemplating an investment in AGNC today for passive income, there are a few things you should understand first.  AGNC Investment Corp. is a unique company for those interested in residential real estate exposure.  It operates as a mortgage real estate investment trust (mREIT) specializing in buying mortgage-backed securities (MBS), or bundles of home loans pooled together and sold to investors.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8402",
-                "source": "Motley Fool",
-                "ticker": "AGNC",
-                "title": "AGNC: Buy, Sell, or Hold?",
-                "url": "https://finance.yahoo.com/news/agnc-buy-sell-hold-093500345.html"
-            }
-        ],
-        "avgScore": 0.45026666666666665
-    },
-    "coef": 0.19801992180625097,
-    "avgCoef": -0.0038636058942960318,
+    "coef": 0.20632756795527354,
+    "avgCoef": 0.02358993768824023,
     "similar": {
-        "HLN": 0.4202422784999326,
-        "INTC": 0.3080309894763904,
-        "KO": 0.2948296613559737,
-        "CVS": 0.270627226468543
+        "HLN": 0.46767582069862007,
+        "INTC": 0.327373074489034,
+        "KO": 0.31361790329201583,
+        "CVS": 0.2916096293767866
     }
 }

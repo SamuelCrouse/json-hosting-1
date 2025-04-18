@@ -64,11 +64,11 @@
         ],
         "avgScore": 0.4426875
     },
-    "4 16 2025": {
+    "4 15 2025": {
         "importantArticles": [
             {
                 "headline": "Infosys (NSE: INFY) (BSE: INFY) (NYSE: INFY), a global leader in next-generation digital services and consulting, and Spark New Zealand (Spark), New Zealand's largest telecommunications and digital services company, today announced a strategic agreement that will support the transformation of Spark's technology delivery model through digital innovation.",
-                "publication_date": "2025-04-16T00:00:00.000Z",
+                "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.8555",
                 "source": "PR Newswire",
@@ -78,7 +78,7 @@
             },
             {
                 "headline": "Infosys (NSE: INFY) (BSE: INFY) (NYSE: INFY), a global leader in next-generation digital services and consulting, and Spark New Zealand (Spark), New Zealand's largest telecommunications and digital services company, today announced a strategic agreement that will support the transformation of Spark's technology delivery model through digital innovation.",
-                "publication_date": "2025-04-16T00:00:00.000Z",
+                "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.8555",
                 "source": "PR Newswire",
@@ -415,11 +415,11 @@
         "avgScore": 0.4737333333333334
     },
     "coef": -0.8727272727272729,
-    "avgCoef": 0.03698924971958882,
+    "avgCoef": 0.025533318474440514,
     "similar": {
+        "MP": 0.5181818181818182,
         "HTZ": 0.4272727272727273,
-        "MP": 0.4000000000000001,
-        "KO": 0.28181818181818186,
-        "HLN": 0.2505701261680129
+        "UNH": 0.16363636363636366,
+        "HLN": 0.16363636363636366
     }
 }

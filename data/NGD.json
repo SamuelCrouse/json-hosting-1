@@ -171,20 +171,20 @@
                 "publication_date": "2025-03-31T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.5994",
-                "source": "PR Newswire",
+                "source": "CNW Group",
                 "ticker": "NGD",
                 "title": "NEW GOLD ANNOUNCES MAILING OF ITS MANAGEMENT INFORMATION CIRCULAR AND DIRECTOR NOT STANDING FOR RE-ELECTION",
-                "url": "https://finance.yahoo.com/news/gold-announces-mailing-management-information-210000696.html"
+                "url": "https://finance.yahoo.com/news/gold-announces-mailing-management-information-210000927.html"
             },
             {
                 "headline": "New Gold Inc. (\"New Gold\" or the \"Company\") (TSX: NGD) (NYSE American: NGD) announces the mailing of its Management Information Circular (the \"Circular\") for the Company's annual general and special meeting of shareholders being held on Tuesday, May 6, 2025 at 4:00 pm Eastern Time (the \"Meeting\"). New Gold is using the notice and access process adopted by the Canadian securities regulators for the delivery of the Circular. The Circular has also been posted on New Gold's website and filed on SEDA",
                 "publication_date": "2025-03-31T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.5994",
-                "source": "PR Newswire",
+                "source": "CNW Group",
                 "ticker": "NGD",
                 "title": "NEW GOLD ANNOUNCES MAILING OF ITS MANAGEMENT INFORMATION CIRCULAR AND DIRECTOR NOT STANDING FOR RE-ELECTION",
-                "url": "https://finance.yahoo.com/news/gold-announces-mailing-management-information-210000696.html"
+                "url": "https://finance.yahoo.com/news/gold-announces-mailing-management-information-210000927.html"
             }
         ],
         "avgScore": 0.5994
@@ -214,37 +214,12 @@
         ],
         "avgScore": 0.8481
     },
-    "3 18 2025": {
-        "importantArticles": [
-            {
-                "headline": "We recently published a list of 10 Best Gold Penny Stocks to Buy Now. In this article, we are going to take a look at where New Gold Inc. (NYSE:NGD) stands against other best gold penny stocks to buy now. The global precious metals market is influenced by economic uncertainty, inflation, and shifting supply and [\u2026]",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8934",
-                "source": "Insider Monkey",
-                "ticker": "NGD",
-                "title": "Is New Gold Inc. (NGD) The Best Gold Penny Stock to Buy Now?",
-                "url": "https://finance.yahoo.com/news/gold-inc-ngd-best-gold-001251540.html"
-            },
-            {
-                "headline": "We recently published a list of 10 Best Gold Penny Stocks to Buy Now. In this article, we are going to take a look at where New Gold Inc. (NYSE:NGD) stands against other best gold penny stocks to buy now. The global precious metals market is influenced by economic uncertainty, inflation, and shifting supply and [\u2026]",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8934",
-                "source": "Insider Monkey",
-                "ticker": "NGD",
-                "title": "Is New Gold Inc. (NGD) The Best Gold Penny Stock to Buy Now?",
-                "url": "https://finance.yahoo.com/news/gold-inc-ngd-best-gold-001251540.html"
-            }
-        ],
-        "avgScore": 0.8934
-    },
-    "coef": 0.261904761904762,
-    "avgCoef": 0.035662835370264254,
+    "coef": 0.3214285714285715,
+    "avgCoef": 0.024454530595652633,
     "similar": {
-        "CVS": 0.5476190476190477,
-        "SCHW": 0.4047619047619048,
-        "UNH": 0.3571428571428572,
-        "GRAB": 0.3571428571428572
+        "CVS": 0.5357142857142858,
+        "UNH": 0.39285714285714296,
+        "SCHW": 0.3571428571428572,
+        "PSLV": 0.3214285714285715
     }
 }

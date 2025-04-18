@@ -334,77 +334,12 @@
         ],
         "avgScore": 0.0
     },
-    "3 18 2025": {
-        "importantArticles": [
-            {
-                "headline": "We recently published a list of 10 Best Gold Penny Stocks to Buy Now. In this article, we are going to take a look at where B2Gold Corp. (NYSE:BTG) stands against other best gold penny stocks to buy now. The global precious metals market is influenced by economic uncertainty, inflation, and shifting supply and demand [\u2026]",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8807",
-                "source": "Insider Monkey",
-                "ticker": "BTG",
-                "title": "Is B2Gold Corp. (BTG) The Best Gold Penny Stock to Buy Now?",
-                "url": "https://finance.yahoo.com/news/b2gold-corp-btg-best-gold-001129700.html"
-            },
-            {
-                "headline": "We recently published a list of 15 Best Penny Stocks to Buy According to Billionaires. In this article, we are going to take a look at where B2Gold Corp. (NYSEAMERICAN:BTG) stands against other best penny stocks to buy according to billionaires. Can Small-Cap Stocks Overtake Large-Caps in 2025? On February 14, Morningstar released a report [\u2026]",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8555",
-                "source": "Insider Monkey",
-                "ticker": "BTG",
-                "title": "B2Gold Corp. (BTG): One of the Best Penny Stocks to Buy According to Billionaires",
-                "url": "https://finance.yahoo.com/news/b2gold-corp-btg-one-best-192439160.html"
-            },
-            {
-                "headline": "GAU's Q4 results gain from an increase in gold prices, partially offset by a reduction in the sales volume.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6908",
-                "source": "Zacks",
-                "ticker": "BTG",
-                "title": "Galiano Earnings Lag Estimates in Q4, Rise Y/Y on Higher Gold Prices",
-                "url": "https://finance.yahoo.com/news/galiano-earnings-lag-estimates-q4-162100498.html"
-            },
-            {
-                "headline": "B2Gold (BTG) reachead $3.28 at the closing of the latest trading day, reflecting a +1.55% change compared to its last close.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "BTG",
-                "title": "B2Gold (BTG) Rises As Market Takes a Dip: Key Facts",
-                "url": "https://finance.yahoo.com/news/b2gold-btg-rises-market-takes-221518550.html"
-            },
-            {
-                "headline": "GAU's Q4 results gain from an increase in gold prices, partially offset by a reduction in the sales volume.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6908",
-                "source": "Zacks",
-                "ticker": "BTG",
-                "title": "Galiano Earnings Lag Estimates in Q4, Rise Y/Y on Higher Gold Prices",
-                "url": "https://finance.yahoo.com/news/galiano-earnings-lag-estimates-q4-162100498.html"
-            },
-            {
-                "headline": "We recently published a list of 15 Best Penny Stocks to Buy According to Billionaires. In this article, we are going to take a look at where B2Gold Corp. (NYSEAMERICAN:BTG) stands against other best penny stocks to buy according to billionaires. Can Small-Cap Stocks Overtake Large-Caps in 2025? On February 14, Morningstar released a report [\u2026]",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8555",
-                "source": "Insider Monkey",
-                "ticker": "BTG",
-                "title": "B2Gold Corp. (BTG): One of the Best Penny Stocks to Buy According to Billionaires",
-                "url": "https://finance.yahoo.com/news/b2gold-corp-btg-one-best-192439160.html"
-            }
-        ],
-        "avgScore": 0.60675
-    },
-    "coef": -0.09443002391000636,
-    "avgCoef": 0.032034542946004385,
+    "coef": -0.1815710233756487,
+    "avgCoef": 0.024354345085420896,
     "similar": {
-        "BMY": 0.6235978540783521,
-        "PFE": 0.601844440563991,
-        "KVUE": 0.543835337859028,
-        "SMCI": 0.5003285108303057
+        "PFE": 0.619750683009635,
+        "NVO": 0.5816121794398114,
+        "BMY": 0.5816121794398114,
+        "UAA": 0.5530083017624435
     }
 }

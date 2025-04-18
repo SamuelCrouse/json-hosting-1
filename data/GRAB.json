@@ -1,9 +1,9 @@
 {
-    "4 15 2025": {
+    "4 16 2025": {
         "importantArticles": [
             {
                 "headline": "Key Insights Given the large stake in the stock by institutions, Grab Holdings' stock price might be vulnerable to...",
-                "publication_date": "2025-04-15T00:00:00.000Z",
+                "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.2263",
                 "source": "Simply Wall St.",
@@ -13,7 +13,7 @@
             },
             {
                 "headline": "Key Insights Given the large stake in the stock by institutions, Grab Holdings' stock price might be vulnerable to...",
-                "publication_date": "2025-04-15T00:00:00.000Z",
+                "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.2263",
                 "source": "Simply Wall St.",
@@ -24,11 +24,11 @@
         ],
         "avgScore": -0.2263
     },
-    "3 26 2025": {
+    "3 27 2025": {
         "importantArticles": [
             {
                 "headline": "With Q4 results in hand, I revisit my investment thesis on Grab, examining its ecosystem expansion, financial discipline, and long-term growth potential.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
+                "publication_date": "2025-03-27T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.7003",
                 "source": "GuruFocus.com",
@@ -38,7 +38,7 @@
             },
             {
                 "headline": "With Q4 results in hand, I revisit my investment thesis on Grab, examining its ecosystem expansion, financial discipline, and long-term growth potential.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
+                "publication_date": "2025-03-27T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.7003",
                 "source": "GuruFocus.com",
@@ -49,11 +49,11 @@
         ],
         "avgScore": 0.7003
     },
-    "3 25 2025": {
+    "3 26 2025": {
         "importantArticles": [
             {
                 "headline": "The U.S. stock market recently experienced a surge, driven by positive investor sentiment following reports that the Trump administration may reduce certain tariffs, boosting major indices like the S&P 500 and Nasdaq Composite. Amidst this backdrop, investors are increasingly looking for opportunities in lesser-known sectors of the market. Penny stocks, often associated with smaller or newer companies, remain an intriguing investment area due to their potential for growth at lower price...",
-                "publication_date": "2025-03-25T00:00:00.000Z",
+                "publication_date": "2025-03-26T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.9118",
                 "source": "Simply Wall St.",
@@ -63,7 +63,7 @@
             },
             {
                 "headline": "The U.S. stock market recently experienced a surge, driven by positive investor sentiment following reports that the Trump administration may reduce certain tariffs, boosting major indices like the S&P 500 and Nasdaq Composite. Amidst this backdrop, investors are increasingly looking for opportunities in lesser-known sectors of the market. Penny stocks, often associated with smaller or newer companies, remain an intriguing investment area due to their potential for growth at lower price...",
-                "publication_date": "2025-03-25T00:00:00.000Z",
+                "publication_date": "2025-03-26T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.9118",
                 "source": "Simply Wall St.",
@@ -74,12 +74,57 @@
         ],
         "avgScore": 0.9118
     },
-    "coef": 1.0,
-    "avgCoef": 0.026233683814759344,
+    "3 19 2025": {
+        "importantArticles": [
+            {
+                "headline": "Wealth host Brad Smith reviews several of this morning's top stock stories, including Grab Holdings' (GRAB) reported acquisition attempt of GoTo Group, Barclays' downgrade of PepsiCo (PEP) stock, and Goldman Sachs' upgrade of fashion brand Ralph Lauren (RL). To watch more expert insights and analysis on the latest market action, check out more Wealth&nbsp;here.",
+                "publication_date": "2025-03-19T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6124",
+                "source": "Yahoo Finance Video",
+                "ticker": "GRAB",
+                "title": "Grab Holdings, PepsiCo, Ralph Lauren: Trending Tickers",
+                "url": "https://finance.yahoo.com/video/grab-holdings-pepsico-ralph-lauren-152656770.html"
+            },
+            {
+                "headline": "A game-changing takeover is in the works--but will regulators kill it before it even begins?",
+                "publication_date": "2025-03-19T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.6908",
+                "source": "GuruFocus.com",
+                "ticker": "GRAB",
+                "title": "Grab's $7 Billion Power Move: The Merger That Could Shake Southeast Asia",
+                "url": "https://finance.yahoo.com/news/grabs-7-billion-power-move-194411583.html"
+            },
+            {
+                "headline": "A game-changing takeover is in the works--but will regulators kill it before it even begins?",
+                "publication_date": "2025-03-19T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.6908",
+                "source": "GuruFocus.com",
+                "ticker": "GRAB",
+                "title": "Grab's $7 Billion Power Move: The Merger That Could Shake Southeast Asia",
+                "url": "https://finance.yahoo.com/news/grabs-7-billion-power-move-194411583.html"
+            },
+            {
+                "headline": "Wealth host Brad Smith reviews several of this morning's top stock stories, including Grab Holdings' (GRAB) reported acquisition attempt of GoTo Group, Barclays' downgrade of PepsiCo (PEP) stock, and Goldman Sachs' upgrade of fashion brand Ralph Lauren (RL). To watch more expert insights and analysis on the latest market action, check out more Wealth&nbsp;here.",
+                "publication_date": "2025-03-19T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6124",
+                "source": "Yahoo Finance Video",
+                "ticker": "GRAB",
+                "title": "Grab Holdings, PepsiCo, Ralph Lauren: Trending Tickers",
+                "url": "https://finance.yahoo.com/video/grab-holdings-pepsico-ralph-lauren-152656770.html"
+            }
+        ],
+        "avgScore": -0.03919999999999996
+    },
+    "coef": -0.39999999999999997,
+    "avgCoef": 0.05552711297679728,
     "similar": {
-        "AAL": 1.0,
-        "PBR": 1.0,
-        "AMCR": 1.0,
-        "HBAN": 1.0
+        "NGD": 1.0,
+        "MP": 1.0,
+        "QXO": 0.7999999999999999,
+        "KGC": 0.7999999999999999
     }
 }

@@ -804,77 +804,12 @@
         ],
         "avgScore": -0.12355
     },
-    "3 18 2025": {
-        "importantArticles": [
-            {
-                "headline": "UATP, the global network that enables organizations to simplify payment processes and expand their payment capabilities, announced today the launch of its newest Issuer, TreviPay, designed to provide fully outsourced issuing capabilities for intermediaries and airlines globally. This cutting-edge solution aims to streamline operations, enhance customer service, and deliver tailored solutions for partners worldwide.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6486",
-                "source": "PR Newswire",
-                "ticker": "AAL",
-                "title": "UATP Announces Launch of Latest Issuer, TreviPay",
-                "url": "https://finance.yahoo.com/news/uatp-announces-launch-latest-issuer-120000579.html"
-            },
-            {
-                "headline": "American Airlines currently trades at $11.36 per share and has shown little upside over the past six months, posting a middling return of 3%.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.296",
-                "source": "StockStory",
-                "ticker": "AAL",
-                "title": "3 Reasons to Sell AAL and 1 Stock to Buy Instead",
-                "url": "https://finance.yahoo.com/news/3-reasons-sell-aal-1-091218113.html"
-            },
-            {
-                "headline": "Citi's analyst takes a hard look at three major air carriers.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.1027",
-                "source": "TheStreet",
-                "ticker": "AAL",
-                "title": "Analyst reboots Delta, American, Alaska Air price targets on uncertainty",
-                "url": "https://finance.yahoo.com/news/analyst-reboots-delta-american-alaska-003300156.html"
-            },
-            {
-                "headline": "We recently published a list of Jim Cramer on These 7 Travel and Leisure Stocks. In this article, we are going to take a look at where Airlines Group Inc.\u2019s (NASDAQ:AAL) stands against other travel and leisure stocks that Jim Cramer discusses. On Tuesday, Jim Cramer, the host of Mad Money, discussed the recent struggles [\u2026]",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.6908",
-                "source": "Insider Monkey",
-                "ticker": "AAL",
-                "title": "American Airlines (AAL) \u2013 Jim Cramer: \u2018Airline Stocks Have Been Crushed, But It\u2019s Not That Horrible\u2019",
-                "url": "https://finance.yahoo.com/news/american-airlines-aal-jim-cramer-171413247.html"
-            },
-            {
-                "headline": "Citi's analyst takes a hard look at three major air carriers.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.1027",
-                "source": "TheStreet",
-                "ticker": "AAL",
-                "title": "Analyst reboots Delta, American, Alaska Air price targets on uncertainty",
-                "url": "https://finance.yahoo.com/news/analyst-reboots-delta-american-alaska-003300156.html"
-            },
-            {
-                "headline": "American Airlines currently trades at $11.36 per share and has shown little upside over the past six months, posting a middling return of 3%.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.296",
-                "source": "StockStory",
-                "ticker": "AAL",
-                "title": "3 Reasons to Sell AAL and 1 Stock to Buy Instead",
-                "url": "https://finance.yahoo.com/news/3-reasons-sell-aal-1-091218113.html"
-            }
-        ],
-        "avgScore": 0.037774999999999975
-    },
-    "coef": -0.5709861370104837,
-    "avgCoef": 0.03080978323613804,
+    "coef": -0.5812386132340613,
+    "avgCoef": 0.023657217089695766,
     "similar": {
-        "BTG": 0.259297520661157,
-        "IAG": 0.16210637162865452,
-        "NIO": 0.11667528658622903,
-        "PSLV": 0.09602479338512657
+        "BTG": 0.23312883435582823,
+        "IAG": 0.16554264300970103,
+        "NIO": 0.10790927840632364,
+        "HLN": 0.10061349693251535
     }
 }

@@ -742,26 +742,6 @@
                 "url": "https://finance.yahoo.com/news/wells-fargo-sees-dollar-rallying-212151629.html"
             },
             {
-                "headline": "We recently published a list of Jim Cramer Put These 16 Stocks Under a Microscope. In this article, we are going to take a look at where Wells Fargo & Company (NYSE:WFC) stands against other stocks that Jim Cramer put under a microscope. On Thursday, Jim Cramer, the host of Mad Money, shared his thoughts [\u2026]",
-                "publication_date": "2025-03-31T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.0516",
-                "source": "Insider Monkey",
-                "ticker": "WFC",
-                "title": "Jim Cramer Suggests Waiting on Wells Fargo & Company (WFC) \u2013 No Rush to Buy!",
-                "url": "https://finance.yahoo.com/news/jim-cramer-suggests-waiting-wells-031551668.html"
-            },
-            {
-                "headline": "We recently published a list of Jim Cramer Put These 16 Stocks Under a Microscope. In this article, we are going to take a look at where Wells Fargo & Company (NYSE:WFC) stands against other stocks that Jim Cramer put under a microscope. On Thursday, Jim Cramer, the host of Mad Money, shared his thoughts [\u2026]",
-                "publication_date": "2025-03-31T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.0516",
-                "source": "Insider Monkey",
-                "ticker": "WFC",
-                "title": "Jim Cramer Suggests Waiting on Wells Fargo & Company (WFC) \u2013 No Rush to Buy!",
-                "url": "https://finance.yahoo.com/news/jim-cramer-suggests-waiting-wells-031551668.html"
-            },
-            {
                 "headline": "(Bloomberg) -- Wells Fargo & Co.\u2019s currency strategists say the US dollar stands to be one of the market winners from President Donald Trump\u2019s trade war.Most Read from BloombergWhat Frank Lloyd Wright Learned From the DesertGold-Rush Fever Returns to Historic New Zealand Mining TownBank Regulators Fight for Desks as OCC Returns to New York TowerConcerns about the fallout from his plan to keep raising tariffs has unsettled financial markets worldwide \u2014 dragging the dollar down along with stocks s",
                 "publication_date": "2025-03-31T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -782,7 +762,7 @@
                 "url": "https://finance.yahoo.com/news/makes-wells-fargo-co-wfc-123644413.html"
             }
         ],
-        "avgScore": 0.2794333333333333
+        "avgScore": 0.39335
     },
     "3 27 2025": {
         "importantArticles": [
@@ -1114,12 +1094,12 @@
         ],
         "avgScore": 0.472
     },
-    "coef": -0.07017543859649124,
-    "avgCoef": 0.03655936655927086,
+    "coef": -0.06666666666666667,
+    "avgCoef": 0.024613837954959996,
     "similar": {
-        "TSLA": 0.2771929824561403,
-        "KGC": 0.23859649122807017,
-        "PFE": 0.2263157894736842,
-        "QXO": 0.22456140350877193
+        "TSLA": 0.30701754385964913,
+        "QXO": 0.256140350877193,
+        "KGC": 0.22280701754385965,
+        "AQN": 0.21929824561403505
     }
 }

@@ -639,37 +639,12 @@
         ],
         "avgScore": 0.296
     },
-    "3 18 2025": {
-        "importantArticles": [
-            {
-                "headline": "Petrobras (PBR) concluded the recent trading session at $13.88, signifying a -0.14% move from its prior day's close.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "PBR",
-                "title": "Petrobras (PBR) Stock Moves -0.14%: What You Should Know",
-                "url": "https://finance.yahoo.com/news/petrobras-pbr-stock-moves-0-215014084.html"
-            },
-            {
-                "headline": "Petrobras (PBR) concluded the recent trading session at $13.88, signifying a -0.14% move from its prior day's close.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "PBR",
-                "title": "Petrobras (PBR) Stock Moves -0.14%: What You Should Know",
-                "url": "https://finance.yahoo.com/news/petrobras-pbr-stock-moves-0-215014084.html"
-            }
-        ],
-        "avgScore": 0.0
-    },
-    "coef": -0.6552152171443891,
-    "avgCoef": 0.03183572498710902,
+    "coef": -0.61663004184626,
+    "avgCoef": 0.024051935655360127,
     "similar": {
-        "BAC": 0.19018419224228522,
-        "MU": 0.18895719745362533,
-        "RF": 0.1852762130876456,
-        "KEY": 0.16687129125774705
+        "MU": 0.2310523068493146,
+        "RF": 0.22663729461652518,
+        "BAC": 0.21486392866241996,
+        "KEY": 0.19573220898699903
     }
 }

@@ -32,16 +32,6 @@
                 "url": "https://finance.yahoo.com/video/eli-lillys-glp-1-pill-202940776.html"
             },
             {
-                "headline": "We recently published a list of Jim Cramer Discussed These 12 Stocks Recently. In this article, we are going to take a look at where Novo Nordisk A/S (NYSE:NVO) stands against other stocks that Jim Cramer discussed recently. On Friday, Mad Money host Jim Cramer addressed growing concerns in the market as tensions between the [\u2026]",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.6369",
-                "source": "Insider Monkey",
-                "ticker": "NVO",
-                "title": "\u201cI Am a Buyer\u201d: Jim Cramer Backs Novo Nordisk (NVO) After Its Sharp Decline",
-                "url": "https://finance.yahoo.com/news/am-buyer-jim-cramer-backs-020413895.html"
-            },
-            {
                 "headline": "Eli Lilly stock jetted higher Thursday after the company said its diabetes and weight-loss pill helped patients lose up to 16 pounds.",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -60,9 +50,19 @@
                 "ticker": "NVO",
                 "title": "Novo Nordisk downgraded by BMO as Eli Lilly gains ground in weight-loss drug race",
                 "url": "https://finance.yahoo.com/news/novo-nordisk-downgraded-bmo-eli-184129564.html"
+            },
+            {
+                "headline": "In March this year, U.S. pharma giant Eli Lilly And Co (NYSE:LLY) announced the launch of its popular weight loss drug Mounjaro (tirzepatide) in India, which is expected to have the second-largest population of overweight or obese people by ...",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.25",
+                "source": "Benzinga",
+                "ticker": "NVO",
+                "title": "Eli Lilly's Mounjaro Launch Triggers Weight-Loss Drug Craze In India, Novo Nordisk Seeks To Move Up Wegovy Launch",
+                "url": "https://finance.yahoo.com/news/eli-lillys-mounjaro-launch-triggers-104526470.html"
             }
         ],
-        "avgScore": 0.04693333333333332
+        "avgScore": 0.1324125
     },
     "4 16 2025": {
         "importantArticles": [
@@ -97,6 +97,16 @@
                 "url": "https://finance.yahoo.com/news/glp-1-drug-shortage-over-143913812.html"
             },
             {
+                "headline": "We recently published a list of Jim Cramer Discussed These 12 Stocks Recently. In this article, we are going to take a look at where Novo Nordisk A/S (NYSE:NVO) stands against other stocks that Jim Cramer discussed recently. On Friday, Mad Money host Jim Cramer addressed growing concerns in the market as tensions between the [\u2026]",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.6369",
+                "source": "Insider Monkey",
+                "ticker": "NVO",
+                "title": "\u201cI Am a Buyer\u201d: Jim Cramer Backs Novo Nordisk (NVO) After Its Sharp Decline",
+                "url": "https://finance.yahoo.com/news/am-buyer-jim-cramer-backs-020413895.html"
+            },
+            {
                 "headline": "Telehealth providers, whose revenue skyrocketed amidst GLP-1 shortages, remain defiant on their compounded semaglutide offerings.",
                 "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -115,19 +125,9 @@
                 "ticker": "NVO",
                 "title": "Novo Nordisk A/S (NVO): A Bull Case Theory",
                 "url": "https://finance.yahoo.com/news/novo-nordisk-nvo-bull-case-183735432.html"
-            },
-            {
-                "headline": "Despite its expensive valuation, we suggest investors hold LLY stock as the company boasts solid growth prospects.",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6597",
-                "source": "Zacks",
-                "ticker": "NVO",
-                "title": "Eli Lilly Stock Down 8.2% in a Month: Should You Buy the Dip?",
-                "url": "https://finance.yahoo.com/news/eli-lilly-stock-down-8-110500046.html"
             }
         ],
-        "avgScore": 0.28529999999999994
+        "avgScore": 0.054749999999999965
     },
     "4 15 2025": {
         "importantArticles": [
@@ -627,16 +627,6 @@
                 "url": "https://finance.yahoo.com/video/trump-admin-reportedly-drop-medicare-211717981.html"
             },
             {
-                "headline": "Novo Holdings, the controlling shareholder of weight loss drugmaker Novo Nordisk A/S (NYSE:NVO), reported Wednesday income and investment returns of 60 billion Danish kroner (around $8.68 billion) for 2024. Novo Holdings owns 28.1% shares in Novo ...",
-                "publication_date": "2025-04-04T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "-0.0258",
-                "source": "Benzinga",
-                "ticker": "NVO",
-                "title": "Novo Nordisk Stakeholder Reports $9 Billion In Income Due To Robust Weight Loss Drug Sales",
-                "url": "https://finance.yahoo.com/news/novo-nordisk-stakeholder-reports-9-013028787.html"
-            },
-            {
                 "headline": "Eli Lilly stock has sold off alongside the broader market over the last week, undercutting its moving averages. Is LLY stock a sell?",
                 "publication_date": "2025-04-04T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -645,9 +635,19 @@
                 "ticker": "NVO",
                 "title": "Eli Lilly Reverses Its Recent Upswing On Broader Market Woes. Is It A Sell?",
                 "url": "https://finance.yahoo.com/m/75ad41f4-79f0-3b48-af19-38b6a6e1e059/eli-lilly-reverses-its-recent.html"
+            },
+            {
+                "headline": "The Trump administration finalized new Medicare and Medicaid policies late Friday, but left out weight-loss drugs. Eli Lilly stock skidded.",
+                "publication_date": "2025-04-04T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Investor's Business Daily",
+                "ticker": "NVO",
+                "title": "Eli Lilly, Novo Stocks Dive After Medicare Excludes Weight-Loss Drugs",
+                "url": "https://finance.yahoo.com/m/6276abb5-892d-34ad-bd69-384498b138a5/eli-lilly-novo-stocks-dive.html"
             }
         ],
-        "avgScore": 0.09147999999999998
+        "avgScore": 0.12079999999999999
     },
     "4 3 2025": {
         "importantArticles": [
@@ -672,14 +672,14 @@
                 "url": "https://finance.yahoo.com/news/novo-nordisk-nvo-stock-moves-214514258.html"
             },
             {
-                "headline": "Novo Nordisk's head of commercial strategy and corporate affairs, Camilla Sylvest, has decided to leave the company, the Danish drugmaker said on Thursday. Novo's rare disease unit head, Ludovic Helfgott, who was already on the executive management team, will immediately assume the responsibility for product and portfolio strategy, including commercial strategy, medical affairs and business development across all therapy areas, the company said. Sylvest was one of two women on Novo's 10-person executive management team.",
+                "headline": "Novo Holdings, the controlling shareholder of weight loss drugmaker Novo Nordisk A/S (NYSE:NVO), reported Wednesday income and investment returns of 60 billion Danish kroner (around $8.68 billion) for 2024. Novo Holdings owns 28.1% shares in Novo ...",
                 "publication_date": "2025-04-03T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.0516",
-                "source": "Reuters",
+                "sentiment": "Neutral",
+                "sentimentScore": "-0.0258",
+                "source": "Benzinga",
                 "ticker": "NVO",
-                "title": "Novo Nordisk's head of commercial strategy steps down",
-                "url": "https://finance.yahoo.com/news/novo-nordisks-head-commercial-strategy-063544371.html"
+                "title": "Novo Nordisk Stakeholder Reports $9 Billion In Income Due To Robust Weight Loss Drug Sales",
+                "url": "https://finance.yahoo.com/news/novo-nordisk-stakeholder-reports-9-013028787.html"
             },
             {
                 "headline": "Bagsv\u00e6rd, Denmark, 3 April 2025 \u2013 Novo Nordisk today announced the following changes in Executive Management. After a distinguished career of 28 years with Novo Nordisk, hereof seven years as executive vice president of Commercial Strategy & Corporate Affairs, Camilla Sylvest has decided to leave the company. Consequently, as of 3 April 2025, the following organisational changes are implemented: Ludovic Helfgott, executive vice president, Rare Disease, will assume the responsibility for Product",
@@ -702,17 +702,17 @@
                 "url": "https://finance.yahoo.com/news/novo-nordisks-head-commercial-strategy-063544371.html"
             },
             {
-                "headline": "Novo Nordisk (NVO) closed at $67.10 in the latest trading session, marking a -1.67% move from the prior day.",
+                "headline": "Novo Holdings, the controlling shareholder of weight loss drugmaker Novo Nordisk A/S (NYSE:NVO), reported Wednesday income and investment returns of 60 billion Danish kroner (around $8.68 billion) for 2024. Novo Holdings owns 28.1% shares in Novo ...",
                 "publication_date": "2025-04-03T00:00:00.000Z",
                 "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
+                "sentimentScore": "-0.0258",
+                "source": "Benzinga",
                 "ticker": "NVO",
-                "title": "Novo Nordisk (NVO) Stock Moves -1.67%: What You Should Know",
-                "url": "https://finance.yahoo.com/news/novo-nordisk-nvo-stock-moves-214514258.html"
+                "title": "Novo Nordisk Stakeholder Reports $9 Billion In Income Due To Robust Weight Loss Drug Sales",
+                "url": "https://finance.yahoo.com/news/novo-nordisk-stakeholder-reports-9-013028787.html"
             }
         ],
-        "avgScore": 0.179825
+        "avgScore": 0.1387
     },
     "4 2 2025": {
         "importantArticles": [
@@ -952,6 +952,16 @@
                 "url": "https://finance.yahoo.com/news/bofa-says-novo-nordisk-may-124125031.html"
             },
             {
+                "headline": "Novo Nordisk is betting big on the future of weight loss by shedding its stock market albatross.",
+                "publication_date": "2025-03-28T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.3182",
+                "source": "Moneywise",
+                "ticker": "NVO",
+                "title": "Novo Nordisk\u2019s $2B deal for obesity drug a strategic game-changer for US pharmaceutical market",
+                "url": "https://finance.yahoo.com/news/novo-nordisk-2b-deal-obesity-101900295.html"
+            },
+            {
                 "headline": "Investing.com -- Bank of America (BofA) on Friday lowered its price target for Novo Nordisk (CSE:NOVOb)k (NYSE:NVO) shares, cautioning that the company may miss its first-quarter earnings projections as sales of its megahit drugs Wegovy and Ozempic, lag.",
                 "publication_date": "2025-03-28T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -960,26 +970,411 @@
                 "ticker": "NVO",
                 "title": "BofA cuts Novo Nordisk shares target on expected Q1 earnings miss",
                 "url": "https://finance.yahoo.com/news/bofa-cuts-novo-nordisk-shares-135421763.html"
-            },
-            {
-                "headline": "Novo Nordisk will pay Lexicon Pharmaceuticals up to $1 billion to license its experimental obesity treatment.",
-                "publication_date": "2025-03-28T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.1027",
-                "source": "Investor's Business Daily",
-                "ticker": "NVO",
-                "title": "Novo Nordisk Inks Its Second Big Obesity Deal In A Week \u2014 And It's Not For A GLP-1",
-                "url": "https://finance.yahoo.com/m/37f312c0-b1a2-341e-8db3-6e35681e8002/novo-nordisk-inks-its-second.html"
             }
         ],
-        "avgScore": 0.09521428571428572
+        "avgScore": 0.07405555555555557
     },
-    "coef": -0.4107142857142856,
-    "avgCoef": 0.03183572498710902,
+    "3 27 2025": {
+        "importantArticles": [
+            {
+                "headline": "This might surprise some, but Danish pharmaceutical giant Novo Nordisk (NYSE: NVO) has significantly lagged the market in the past year.  The drugmaker's shares are down by 40% over the trailing-12-month period, despite grabbing headlines for its work in the red-hot weight management drug market.  Novo Nordisk has faced some issues, but even taking those into account, the company's prospects remain excellent.",
+                "publication_date": "2025-03-27T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8555",
+                "source": "Motley Fool",
+                "ticker": "NVO",
+                "title": "1 Growth Stock Down 40% to Buy and Hold Forever",
+                "url": "https://finance.yahoo.com/news/1-growth-stock-down-40-140000868.html"
+            },
+            {
+                "headline": "Novo Nordisk's (NYSE: NVO) is famous and celebrated for its cutting-edge obesity medication.  Its U.S.-traded American depositary receipts (ADRs) saw their price slump by more than 2% following the move, a steeper decline than the S&P 500 index's 0.3% slip.  Well before market open that morning, Morgan Stanley's Thibault Boutherin knocked his Novo Nordisk price target down to 600 Danish kroner ($86.67) per share; previously, this number was 700 kroner ($101.11).",
+                "publication_date": "2025-03-27T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8074",
+                "source": "Motley Fool",
+                "ticker": "NVO",
+                "title": "Why Novo Nordisk Stock Dipped on Thursday",
+                "url": "https://finance.yahoo.com/news/why-novo-nordisk-stock-dipped-223600186.html"
+            },
+            {
+                "headline": "Bagsv\u00e6rd, Denmark, 27 March 2025 - Today, Novo Nordisk A/S held its Annual General Meeting. At the Annual General Meeting, Helge Lund, chair of the Board of Directors communicated: \u201c2024 was another year of significant growth for Novo Nordisk, characterised by continued innovation, capacity expansions and commercial execution. Our industry-leading therapeutic innovations benefited more than 45 million people living with diabetes and obesity worldwide. As we strive to keep pace with increasing de",
+                "publication_date": "2025-03-27T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7184",
+                "source": "GlobeNewswire",
+                "ticker": "NVO",
+                "title": "Resolutions from the Annual General Meeting of Novo Nordisk A/S",
+                "url": "https://finance.yahoo.com/news/resolutions-annual-general-meeting-novo-151700469.html"
+            },
+            {
+                "headline": "LONDON (Reuters) -Novo Nordisk shares have fallen 25% so far in March and are on track for their biggest monthly drop since July 2002, as investor worries intensify that the obesity drug market pioneer has lost its edge over U.S. rival Eli Lilly.  Novo came under pressure last year to prove it could keep its advantage in the lucrative obesity market after U.S. rival Lilly launched its own injection Zepbound, which led in clinical trials to greater weight loss than Wegovy.  That has not happened, say investors and analysts observing rapidly worsening market sentiment toward Novo, despite the fact that Wegovy sales more than doubled in the fourth quarter of last year.",
+                "publication_date": "2025-03-27T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.8402",
+                "source": "Reuters",
+                "ticker": "NVO",
+                "title": "Novo shares on track for biggest monthly fall since 2002, investor worries grow",
+                "url": "https://finance.yahoo.com/news/novo-shares-track-biggest-monthly-172918460.html"
+            },
+            {
+                "headline": "Sales of Novo Nordisk\u2019s (NVO) blockbuster weight-loss drug Wegovy took a hit due to rising competition from off-brand, or compounded, versions of the treatment, according to the Danish pharma giant\u2019s CEO Lars Fruergaard J\u00f8rgensen.",
+                "publication_date": "2025-03-27T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5994",
+                "source": "Quartz",
+                "ticker": "NVO",
+                "title": "Wegovy sales took a hit this year. Novo's CEO blames off-brand competition",
+                "url": "https://finance.yahoo.com/news/wegovy-sales-took-hit-novos-210400146.html"
+            },
+            {
+                "headline": "Bagsv\u00e6rd, Denmark, 27 March 2025 - Today, Novo Nordisk A/S held its Annual General Meeting. At the Annual General Meeting, Helge Lund, chair of the Board of Directors communicated: \u201c2024 was another year of significant growth for Novo Nordisk, characterised by continued innovation, capacity expansions and commercial execution. Our industry-leading therapeutic innovations benefited more than 45 million people living with diabetes and obesity worldwide. As we strive to keep pace with increasing de",
+                "publication_date": "2025-03-27T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7184",
+                "source": "GlobeNewswire",
+                "ticker": "NVO",
+                "title": "Resolutions from the Annual General Meeting of Novo Nordisk A/S",
+                "url": "https://finance.yahoo.com/news/resolutions-annual-general-meeting-novo-151700469.html"
+            }
+        ],
+        "avgScore": 0.42810000000000004
+    },
+    "3 26 2025": {
+        "importantArticles": [
+            {
+                "headline": "The German firm licensed a PRMT5 inhibitor that\u2019s now in Phase 1 testing. Elsewhere, GSK is testing an intriguing hypothesis and Novo fine tuned its Wegovy cash-pay program.",
+                "publication_date": "2025-03-26T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.128",
+                "source": "BioPharma Dive",
+                "ticker": "NVO",
+                "title": "Bayer gains cancer drug from China\u2019s Puhe; Axsome gets mixed ADHD data",
+                "url": "https://finance.yahoo.com/news/bayer-gains-cancer-drug-china-113000028.html"
+            },
+            {
+                "headline": "Cigna (CI) CEO David Cordani is not convinced of the benefits of GLP-1s for weight-loss patients and said the US is the only country among developed nations where insurance coverage is being debated.",
+                "publication_date": "2025-03-26T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.088",
+                "source": "Yahoo Finance",
+                "ticker": "NVO",
+                "title": "US is only country debating GLP-1 insurance coverage for weight loss: Cigna CEO Cordani",
+                "url": "https://finance.yahoo.com/news/us-is-only-country-debating-glp-1-insurance-coverage-for-weight-loss-cigna-ceo-cordani-201308049.html"
+            },
+            {
+                "headline": "The latest investor updates on stocks that are trending on Wednesday.",
+                "publication_date": "2025-03-26T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Yahoo Finance UK",
+                "ticker": "NVO",
+                "title": "Trending tickers: GameStop, UPS, Trump Media, Nissan and Vistry",
+                "url": "https://finance.yahoo.com/news/gamestop-ups-trump-media-nissan-vistry-trending-tickers-120457754.html"
+            },
+            {
+                "headline": "MRK in-licenses an experimental lipoprotein(a) inhibitor from China's Jiangsu Hengrui. This transaction is expected to be closed in the second quarter of 2025.",
+                "publication_date": "2025-03-26T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.0772",
+                "source": "Zacks",
+                "ticker": "NVO",
+                "title": "Merck Inks $2B Licensing Deal With Chinese Biotech for Oral Heart Drug",
+                "url": "https://finance.yahoo.com/news/merck-inks-2b-licensing-deal-121700157.html"
+            },
+            {
+                "headline": "Novo Nordisk leads a GLP-1 agonist market that could surpass $150 billion by 2035. Ironically, the market is passing on the stock right now. Should you?",
+                "publication_date": "2025-03-26T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Motley Fool",
+                "ticker": "NVO",
+                "title": "Is Novo Nordisk Stock a Buy?",
+                "url": "https://finance.yahoo.com/news/novo-nordisk-stock-buy-091300557.html"
+            },
+            {
+                "headline": "The latest investor updates on stocks that are trending on Wednesday.",
+                "publication_date": "2025-03-26T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Yahoo Finance UK",
+                "ticker": "NVO",
+                "title": "Trending tickers: GameStop, UPS, Trump Media, Nissan and Vistry",
+                "url": "https://finance.yahoo.com/news/gamestop-ups-trump-media-nissan-vistry-trending-tickers-120457754.html"
+            }
+        ],
+        "avgScore": 0.027759999999999996
+    },
+    "3 25 2025": {
+        "importantArticles": [
+            {
+                "headline": "Tesla bounces back amid autonomous driving hope, United Airlines hikes card and lounge fees, and more news to start your day.",
+                "publication_date": "2025-03-25T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6908",
+                "source": "Barrons.com",
+                "ticker": "NVO",
+                "title": "Trump Tariff Uncertainty Will Break This Stock Market Calm, Brace for Another Storm. And 5 Other Things to Know Today.",
+                "url": "https://finance.yahoo.com/m/608e6048-cc3e-3e5e-b7a0-b5e5acd98639/trump-tariff-uncertainty-will.html"
+            },
+            {
+                "headline": "R&D innovation is likely to remain a major focus area in 2025. In the Large-Cap Pharmaceuticals industry, AbbVie (ABBV), Novo Nordisk (NVO), Novartis (NVS), Pfizer (PFE) and Bayer (BAYRY) are worth retaining in one's portfolio",
+                "publication_date": "2025-03-25T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5423",
+                "source": "Zacks",
+                "ticker": "NVO",
+                "title": "5 Large Drug Stocks to Watch as Industry Recovers",
+                "url": "https://finance.yahoo.com/news/5-large-drug-stocks-watch-104700001.html"
+            },
+            {
+                "headline": "Big Pharma is expected to see big returns from its investment in a class of drugs made famous by Novo Nordisk\u2019s (NVO) popular diabetes drug Ozempic.",
+                "publication_date": "2025-03-25T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4215",
+                "source": "Quartz",
+                "ticker": "NVO",
+                "title": "GLP-1s are driving returns on R&D investments for Big Pharma, report says",
+                "url": "https://finance.yahoo.com/news/glp-1s-driving-returns-r-182600084.html"
+            },
+            {
+                "headline": "Novo Nordisk is making plans for a Wegovy successor amid uncertainty surrounding CagriSema.",
+                "publication_date": "2025-03-25T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.128",
+                "source": "Pharmaceutical Technology",
+                "ticker": "NVO",
+                "title": "Novo Nordisk earmarks $2bn for Chinese \u201ctriple G\u201d weight loss shot",
+                "url": "https://finance.yahoo.com/news/novo-nordisk-earmarks-2bn-chinese-160148892.html"
+            },
+            {
+                "headline": "The two stocks have been trending in different directions for months. Here's what that says about the broader market.",
+                "publication_date": "2025-03-25T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Barrons.com",
+                "ticker": "NVO",
+                "title": "Step Aside, Novo Nordisk. This Is Europe\u2019s No. 1 Company Now.",
+                "url": "https://finance.yahoo.com/m/f583370e-141b-3b9f-bcad-d0f91dcc042a/step-aside-novo-nordisk-.html"
+            },
+            {
+                "headline": "NVO's shares are down 2% despite making Wegovy available at a discounted price of $499 per month at local pharmacies.",
+                "publication_date": "2025-03-25T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.34",
+                "source": "Zacks",
+                "ticker": "NVO",
+                "title": "Novo Nordisk Expands Wegovy Price Cut Program, Stock Still Falls 2%",
+                "url": "https://finance.yahoo.com/news/novo-nordisk-expands-wegovy-price-160400232.html"
+            }
+        ],
+        "avgScore": 0.3111
+    },
+    "3 24 2025": {
+        "importantArticles": [
+            {
+                "headline": "We recently published a list of 11 Best Extremely Profitable Stocks to Buy According to Analysts. In this article, we are going to take a look at where Novo Nordisk A/S (NYSE:NVO) stands against other best extremely profitable stocks to buy according to analysts. Fed\u2019s Response to Inflation and Growth Challenges We recently covered 10 Best [\u2026]",
+                "publication_date": "2025-03-24T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9715",
+                "source": "Insider Monkey",
+                "ticker": "NVO",
+                "title": "Is Novo Nordisk A/S (NYSE:NVO) The Best Extremely Profitable Stocks to Buy According to Analyst?",
+                "url": "https://finance.yahoo.com/news/novo-nordisk-nyse-nvo-best-034219868.html"
+            },
+            {
+                "headline": "(Reuters) -Danish drugmaker Novo Nordisk has bought global rights to China-based United Laboratories International's so-called \"triple-G\" weight-loss drug candidate in a deal worth up to $2 billion.  Novo has been trying to strengthen its foothold in the potential $150 billion obesity market through the development of next-generation drugs, acquisitions and partnerships.  With the United Lab deal, it has gained the rights to develop, manufacture and sell its experimental drug, UBT251.",
+                "publication_date": "2025-03-24T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.886",
+                "source": "Reuters",
+                "ticker": "NVO",
+                "title": "Novo bets on 'triple G' obesity drug in up to $2 billion deal with Chinese biotech",
+                "url": "https://finance.yahoo.com/news/novo-licenses-chinese-biotechs-obesity-102141800.html"
+            },
+            {
+                "headline": "Guangdong, China and Bagsv\u00e6rd, Denmark, 24 March 2025 \u2013The United Laboratories International Holdings Limited (TUL) and Novo Nordisk A/S (Novo Nordisk) today announced that Novo Nordisk and TUL\u2019s wholly-owned subsidiary The United Bio-Technology (Hengqin) Co., Ltd. (United Biotechnology), have entered into an exclusive license agreement for UBT251, a triple agonist of the receptors for GLP-1, GIP, and glucagon in early-stage clinical development for the treatment of obesity, type 2 diabetes, and",
+                "publication_date": "2025-03-24T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8126",
+                "source": "GlobeNewswire",
+                "ticker": "NVO",
+                "title": "The United Laboratories and Novo Nordisk announce exclusive license agreement for UBT251, a GLP-1/GIP/glucagon triple receptor agonist",
+                "url": "https://finance.yahoo.com/news/united-laboratories-novo-nordisk-announce-100200123.html"
+            },
+            {
+                "headline": "There's a price war brewing in GLP-1 weight loss drugs, and now it's going global.",
+                "publication_date": "2025-03-24T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.7351",
+                "source": "Motley Fool",
+                "ticker": "NVO",
+                "title": "Why Novo Nordisk Stock Dropped on Monday, but Eli Lilly and Him & Hers Health Popped",
+                "url": "https://finance.yahoo.com/news/why-novo-nordisk-stock-dropped-164401958.html"
+            },
+            {
+                "headline": "(Bloomberg) -- German software developer SAP SE unseated Danish weight-loss drug maker Novo Nordisk A/S as Europe\u2019s most-valuable public company.Most Read from BloombergThey Built a Secret Apartment in a Mall. Now the Mall Is Dying.Chicago Transit Faces \u2018Doomsday Scenario,\u2019 Regional Agency SaysLA Faces $1 Billion Budget Hole, Warns of Thousands of LayoffsNew York Subway Ditches MetroCard After 32 Years for Tap-And-GoLibraries Warn They Could Be \u2018Cut off at the Knees\u2019 by DOGEShares of SAP, which",
+                "publication_date": "2025-03-24T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.2023",
+                "source": "Bloomberg",
+                "ticker": "NVO",
+                "title": "SAP Topples Novo to Become Europe\u2019s Biggest Listed Company",
+                "url": "https://finance.yahoo.com/news/sap-topples-novo-become-europe-081430615.html"
+            },
+            {
+                "headline": "German software company SAP overtook Danish healthcare company Novo Nordisk as Europe's largest company by market capitalisation on Monday. At 0900 GMT, SAP had a market cap of $340 billion, slightly more than Novo Nordisk, according to Reuters calculations using LSEG Workspace data. SAP is Europe's largest software maker, providing business application software used by companies for finance, sales, supply chain and other functions.",
+                "publication_date": "2025-03-24T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Reuters",
+                "ticker": "NVO",
+                "title": "Software maker SAP unseats Novo Nordisk as Europe's largest company",
+                "url": "https://finance.yahoo.com/news/germanys-sap-overtakes-novo-nordisk-092027677.html"
+            }
+        ],
+        "avgScore": 0.3462333333333333
+    },
+    "3 21 2025": {
+        "importantArticles": [
+            {
+                "headline": "Eli Lilly (LLY) launched its blockbuster diabetes and weight-loss drug Mounjaro in India on Thursday, beating rival Novo Nordisk (NVO) for a much-awaited entry into the world\u2019s most populous country grappling with increasing rates of obesity and diabetes, Reuters\u2019 Rishika Sadam reports. Mounjaro, a once-weekly injection approved by India\u2019s drug regulator, is priced at 4,375 rupees or $50.67 for a 5 mg vial and 3,500 rupees or $40.54 for a 2.5 mg vial, its lowest dose, the company told Reuters se",
+                "publication_date": "2025-03-21T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.3818",
+                "source": "TipRanks",
+                "ticker": "NVO",
+                "title": "Eli Lilly launches weight-loss drug Mounjaro in India, Reuters says",
+                "url": "https://finance.yahoo.com/news/eli-lilly-launches-weight-loss-141707700.html"
+            },
+            {
+                "headline": "Eli Lilly (LLY) launched its blockbuster diabetes and weight-loss drug Mounjaro in India on Thursday, beating rival Novo Nordisk (NVO) for a much-awaited entry into the world\u2019s most populous country grappling with increasing rates of obesity and diabetes, Reuters\u2019 Rishika Sadam reports. Mounjaro, a once-weekly injection approved by India\u2019s drug regulator, is priced at 4,375 rupees or $50.67 for a 5 mg vial and 3,500 rupees or $40.54 for a 2.5 mg vial, its lowest dose, the company told Reuters se",
+                "publication_date": "2025-03-21T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.3818",
+                "source": "TipRanks",
+                "ticker": "NVO",
+                "title": "Eli Lilly launches weight-loss drug Mounjaro in India, Reuters says",
+                "url": "https://finance.yahoo.com/news/eli-lilly-launches-weight-loss-141707700.html"
+            }
+        ],
+        "avgScore": 0.3818
+    },
+    "3 20 2025": {
+        "importantArticles": [
+            {
+                "headline": "HYDERABAD (Reuters) -Eli Lilly launched its blockbuster diabetes and weight-loss drug Mounjaro in India on Thursday, beating rival Novo Nordisk for a much-awaited entry into the world's most populous country grappling with increasing rates of obesity and diabetes.  U.S.-based Lilly and Danish Novo Nordisk have seen skyrocketing global demand for their innovative weight-loss drugs, with investor interest also boosting the drugmakers' valuations.  Mounjaro, a once-weekly injection approved by India's drug regulator, is priced at 4,375 rupees ($50.67) for a 5 mg vial and 3,500 rupees ($40.54) for a 2.5 mg vial, its lowest doses, the company told Reuters exclusively.",
+                "publication_date": "2025-03-20T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8555",
+                "source": "Reuters",
+                "ticker": "NVO",
+                "title": "Eli Lilly launches weight-loss drug Mounjaro in India, beats Novo Nordisk to major market",
+                "url": "https://finance.yahoo.com/news/eli-lilly-launches-weight-loss-065417424.html"
+            },
+            {
+                "headline": "Novo Nordisk (NVO) reachead $78.79 at the closing of the latest trading day, reflecting a -0.27% change compared to its last close.",
+                "publication_date": "2025-03-20T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "NVO",
+                "title": "Why Novo Nordisk (NVO) Dipped More Than Broader Market Today",
+                "url": "https://finance.yahoo.com/news/why-novo-nordisk-nvo-dipped-214517794.html"
+            },
+            {
+                "headline": "Novo Nordisk (NVO) reachead $78.79 at the closing of the latest trading day, reflecting a -0.27% change compared to its last close.",
+                "publication_date": "2025-03-20T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "NVO",
+                "title": "Why Novo Nordisk (NVO) Dipped More Than Broader Market Today",
+                "url": "https://finance.yahoo.com/news/why-novo-nordisk-nvo-dipped-214517794.html"
+            },
+            {
+                "headline": "HYDERABAD (Reuters) -Eli Lilly launched its blockbuster diabetes and weight-loss drug Mounjaro in India on Thursday, beating rival Novo Nordisk for a much-awaited entry into the world's most populous country grappling with increasing rates of obesity and diabetes.  U.S.-based Lilly and Danish Novo Nordisk have seen skyrocketing global demand for their innovative weight-loss drugs, with investor interest also boosting the drugmakers' valuations.  Mounjaro, a once-weekly injection approved by India's drug regulator, is priced at 4,375 rupees ($50.67) for a 5 mg vial and 3,500 rupees ($40.54) for a 2.5 mg vial, its lowest doses, the company told Reuters exclusively.",
+                "publication_date": "2025-03-20T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8555",
+                "source": "Reuters",
+                "ticker": "NVO",
+                "title": "Eli Lilly launches weight-loss drug Mounjaro in India, beats Novo Nordisk to major market",
+                "url": "https://finance.yahoo.com/news/eli-lilly-launches-weight-loss-065417424.html"
+            }
+        ],
+        "avgScore": 0.42775
+    },
+    "3 19 2025": {
+        "importantArticles": [
+            {
+                "headline": "Burke Wealth Management, an investment management company, released its \u201cFocused Growth Strategy\u201d fourth quarter 2024 investor letter. A copy of the letter can be downloaded here. The market had another outstanding year in 2024, with the S&P 500 rising 25.0%. The strategy had an even better year, with net returns of 28.4%. Looking a bit [\u2026]",
+                "publication_date": "2025-03-19T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9136",
+                "source": "Insider Monkey",
+                "ticker": "NVO",
+                "title": "Novo Nordisk A/S (NVO) Traded Lower Due To Investor Disappointment Over Its New Drug In Obesity",
+                "url": "https://finance.yahoo.com/news/novo-nordisk-nvo-traded-lower-134726126.html"
+            },
+            {
+                "headline": "According to the average brokerage recommendation (ABR), one should invest in Novo Nordisk (NVO). It is debatable whether this highly sought-after metric is effective because Wall Street analysts' recommendations tend to be overly optimistic. Would it be worth investing in the stock?",
+                "publication_date": "2025-03-19T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.743",
+                "source": "Zacks",
+                "ticker": "NVO",
+                "title": "Novo Nordisk (NVO) Is Considered a Good Investment by Brokers: Is That True?",
+                "url": "https://finance.yahoo.com/news/novo-nordisk-nvo-considered-good-133009533.html"
+            },
+            {
+                "headline": "Investors weigh what's next for the market, searching for signals that the sell-off has either hit a bottom or has further to fall. Marketgauge.com chief strategist Michele Schneider joins Morning Brief to explain her \"vanity trade\" strategy, and says the consumer sector is a \"better barometer\" for investors to monitor than mega-cap names like Nvidia (NVDA). To watch more expert insights and analysis on the latest market action, check out more Morning Brief here.",
+                "publication_date": "2025-03-19T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5423",
+                "source": "Yahoo Finance Video",
+                "ticker": "NVO",
+                "title": "Consumer sector is a 'better barometer' than Nvidia",
+                "url": "https://finance.yahoo.com/video/consumer-sector-better-barometer-nvidia-100047823.html"
+            },
+            {
+                "headline": "Build and maintain your watch list with the latest news and analysis of the market's top-rated growth stocks.",
+                "publication_date": "2025-03-19T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.3818",
+                "source": "Investor's Business Daily",
+                "ticker": "NVO",
+                "title": "Stocks To Buy And Watch: Top IPOs, Big And Small Caps, Growth Stocks",
+                "url": "https://finance.yahoo.com/m/6c5668d6-05c3-37a6-8af6-c6146e6b299b/stocks-to-buy-and-watch-top.html"
+            },
+            {
+                "headline": "Polen Capital, an investment management company, released its \u201cPolen Global Growth Strategy\u201d fourth-quarter 2024 investor letter. A copy of the letter can be downloaded here. Over the past two years, global equities (2023-2024) showed a historic +45% cumulative return as per the MSCI ACWI Index (the \u201cIndex\u201d), emphasizing market unpredictability and the futility of macroeconomic [\u2026]",
+                "publication_date": "2025-03-19T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.3818",
+                "source": "Insider Monkey",
+                "ticker": "NVO",
+                "title": "Novo Nordisk A/S (NVO) Dropped as Trial Results Fell Short of Expectations",
+                "url": "https://finance.yahoo.com/news/novo-nordisk-nvo-dropped-trial-130916376.html"
+            },
+            {
+                "headline": "Investors weigh what's next for the market, searching for signals that the sell-off has either hit a bottom or has further to fall. Marketgauge.com chief strategist Michele Schneider joins Morning Brief to explain her \"vanity trade\" strategy, and says the consumer sector is a \"better barometer\" for investors to monitor than mega-cap names like Nvidia (NVDA). To watch more expert insights and analysis on the latest market action, check out more Morning Brief here.",
+                "publication_date": "2025-03-19T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5423",
+                "source": "Yahoo Finance Video",
+                "ticker": "NVO",
+                "title": "Consumer sector is a 'better barometer' than Nvidia",
+                "url": "https://finance.yahoo.com/video/consumer-sector-better-barometer-nvidia-100047823.html"
+            }
+        ],
+        "avgScore": 0.5925
+    },
+    "coef": -0.1552795031055901,
+    "avgCoef": 0.02252430345318405,
     "similar": {
-        "HTZ": 0.3,
-        "ABEV": 0.07864167572767856,
-        "AAL": 0.04285714285714285,
-        "WBD": 0.035714285714285705
+        "BMY": 0.15866741953698477,
+        "VRN": 0.057610846691563806,
+        "UNH": 0.032185206098249576,
+        "SNAP": -0.007340485601355168
     }
 }

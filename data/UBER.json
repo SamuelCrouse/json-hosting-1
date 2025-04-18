@@ -2,7 +2,7 @@
     "4 17 2025": {
         "importantArticles": [
             {
-                "headline": "(Bloomberg) -- Bill Ackman\u2019s Pershing Square Capital Management has amassed a nearly 20% stake in Hertz Global Holdings Inc. in a bet on the rental car company\u2019s turnaround plan and that tariffs will boost the value of its vehicles.Most Read from BloombergTrump Signs Executive Orders on Federal Purchasing, Office SpaceDOGE Places Entire Staff of Federal Homelessness Agency on LeaveHow Did This Suburb Figure Out Mass Transit?Why the Best Bike Lanes Always Get BlamedTrump Administration Takes Over",
+                "headline": "(Bloomberg) -- Bill Ackman\u2019s Pershing Square Capital Management has amassed a nearly 20% stake in Hertz Global Holdings Inc. in a bet on the rental car company\u2019s turnaround plan and that tariffs will boost the value of its vehicles.Most Read from BloombergTrump Signs Executive Orders on Federal Purchasing, Office SpaceDOGE Places Entire Staff of Federal Homelessness Agency on LeaveHow Did This Suburb Figure Out Mass Transit?Trump Administration Takes Over New York Penn Station RevampWhy the Best",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.8519",
@@ -10,16 +10,6 @@
                 "ticker": "UBER",
                 "title": "Bill Ackman Makes Big Bet on Hertz Becoming Tariff Winner",
                 "url": "https://finance.yahoo.com/news/ackman-says-pershing-owns-19-203543846.html"
-            },
-            {
-                "headline": "NEW DELHI (Reuters) -Indian electric cab service BluSmart, seen as a rival to Uber, suspended services on Thursday, two days after the country's market regulator alleged its co-founder misused funds at an affiliate company and bought a luxury apartment with money allocated for electric vehicles.  BluSmart rode India's clean energy boom but its sudden suspension puts the livelihood of thousands of drivers at risk.  With more than 8,000 taxis, it set up charging hubs in cities like New Delhi, Mumbai and Bengaluru to take on Uber and Ola, both ride-hailing services that largely use gasoline-powered fleets.",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4595",
-                "source": "Reuters",
-                "ticker": "UBER",
-                "title": "India's BluSmart, rival of Uber, suspends operations after co-founder probed",
-                "url": "https://finance.yahoo.com/news/indias-blusmart-rival-uber-suspends-054235309.html"
             },
             {
                 "headline": "Investing.com -- Hertz (NASDAQ:HTZ) shares surged 56% on Wednesday and added another 44% on Thursday after Bill Ackman\u2019s Pershing Square hedge fund disclosed a new stake in the car rental company.",
@@ -42,6 +32,16 @@
                 "url": "https://finance.yahoo.com/news/uber-technologies-nyse-uber-returns-140010277.html"
             },
             {
+                "headline": "Finding a business that has the potential to grow substantially is not easy, but it is possible if we look at a few key...",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.2107",
+                "source": "Simply Wall St.",
+                "ticker": "UBER",
+                "title": "Uber Technologies' (NYSE:UBER) Returns On Capital Are Heading Higher",
+                "url": "https://finance.yahoo.com/news/uber-technologies-nyse-uber-returns-140010277.html"
+            },
+            {
                 "headline": "Investing.com -- Hertz (NASDAQ:HTZ) shares surged 56% on Wednesday and added another 44% on Thursday after Bill Ackman\u2019s Pershing Square hedge fund disclosed a new stake in the car rental company.",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -52,8 +52,73 @@
                 "url": "https://finance.yahoo.com/news/bill-ackman-confirms-nearly-20-210301088.html"
             },
             {
-                "headline": "NEW DELHI (Reuters) -Indian electric cab service BluSmart, seen as a rival to Uber, suspended services on Thursday, two days after the country's market regulator alleged its co-founder misused funds at an affiliate company and bought a luxury apartment with money allocated for electric vehicles.  BluSmart rode India's clean energy boom but its sudden suspension puts the livelihood of thousands of drivers at risk.  With more than 8,000 taxis, it set up charging hubs in cities like New Delhi, Mumbai and Bengaluru to take on Uber and Ola, both ride-hailing services that largely use gasoline-powered fleets.",
+                "headline": "(Bloomberg) -- Bill Ackman\u2019s Pershing Square Capital Management has amassed a nearly 20% stake in Hertz Global Holdings Inc. in a bet on the rental car company\u2019s turnaround plan and that tariffs will boost the value of its vehicles.Most Read from BloombergTrump Signs Executive Orders on Federal Purchasing, Office SpaceDOGE Places Entire Staff of Federal Homelessness Agency on LeaveHow Did This Suburb Figure Out Mass Transit?Trump Administration Takes Over New York Penn Station RevampWhy the Best",
                 "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8519",
+                "source": "Bloomberg",
+                "ticker": "UBER",
+                "title": "Bill Ackman Makes Big Bet on Hertz Becoming Tariff Winner",
+                "url": "https://finance.yahoo.com/news/ackman-says-pershing-owns-19-203543846.html"
+            }
+        ],
+        "avgScore": 0.31239999999999996
+    },
+    "4 16 2025": {
+        "importantArticles": [
+            {
+                "headline": "NEW DELHI (Reuters) -Indian electric cab service BluSmart, seen as a rival to Uber, suspended services on Thursday, two days after the country's market regulator alleged its co-founder misused funds at an affiliate company and bought a luxury apartment with money allocated for electric vehicles.  BluSmart rode India's clean energy boom but its sudden suspension puts the livelihood of thousands of drivers at risk.  With more than 8,000 taxis, it set up charging hubs in cities like New Delhi, Mumbai and Bengaluru to take on Uber and Ola, both ride-hailing services that largely use gasoline-powered fleets.",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4595",
+                "source": "Reuters",
+                "ticker": "UBER",
+                "title": "India's BluSmart, rival of Uber, suspends operations after co-founder probed",
+                "url": "https://finance.yahoo.com/news/indias-blusmart-rival-uber-suspends-054235309.html"
+            },
+            {
+                "headline": "The hedge fund, which owns about 1% of Lyft, said it nominated Alan Bazaar and Daniel Silvers for election to the board of the company, which has underperformed rival Uber Technologies and the broader market.  \"There is an urgent need for shareholder-driven change in Lyft's boardroom, which is unfortunately dominated by misaligned founders and independent directors with insufficient public market experience,\" said Arnaud Ajdler, Engine Capital's founder and portfolio manager.  Lyft's shares were up 1%, after it announced its entry into European markets by acquiring Germany's FreeNow mobility platform for nearly $200 million.",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.1531",
+                "source": "Reuters",
+                "ticker": "UBER",
+                "title": "Lyft investor Engine Capital names board nominees in start to proxy battle",
+                "url": "https://finance.yahoo.com/news/lyft-investor-engine-capital-name-125242411.html"
+            },
+            {
+                "headline": "Dara Khosrowshahi said studying engineering and liberal arts in college was an \u201cabsolute necessity\u201d to being a leader.",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Fortune",
+                "ticker": "UBER",
+                "title": "Uber\u2019s CEO says learning these two subjects in college is an \u2018absolute necessity\u2019 for any Gen Z grad eyeing up management roles",
+                "url": "https://finance.yahoo.com/news/uber-ceo-says-learning-two-163414618.html"
+            },
+            {
+                "headline": "Dara Khosrowshahi said studying engineering and liberal arts in college was an \u201cabsolute necessity\u201d to being a leader.",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Fortune",
+                "ticker": "UBER",
+                "title": "Uber\u2019s CEO says learning these two subjects in college is an \u2018absolute necessity\u2019 for any Gen Z grad eyeing up management roles",
+                "url": "https://finance.yahoo.com/news/uber-ceo-says-learning-two-163414618.html"
+            },
+            {
+                "headline": "The hedge fund, which owns about 1% of Lyft, said it nominated Alan Bazaar and Daniel Silvers for election to the board of the company, which has underperformed rival Uber Technologies and the broader market.  \"There is an urgent need for shareholder-driven change in Lyft's boardroom, which is unfortunately dominated by misaligned founders and independent directors with insufficient public market experience,\" said Arnaud Ajdler, Engine Capital's founder and portfolio manager.  Lyft's shares were up 1%, after it announced its entry into European markets by acquiring Germany's FreeNow mobility platform for nearly $200 million.",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.1531",
+                "source": "Reuters",
+                "ticker": "UBER",
+                "title": "Lyft investor Engine Capital names board nominees in start to proxy battle",
+                "url": "https://finance.yahoo.com/news/lyft-investor-engine-capital-name-125242411.html"
+            },
+            {
+                "headline": "NEW DELHI (Reuters) -Indian electric cab service BluSmart, seen as a rival to Uber, suspended services on Thursday, two days after the country's market regulator alleged its co-founder misused funds at an affiliate company and bought a luxury apartment with money allocated for electric vehicles.  BluSmart rode India's clean energy boom but its sudden suspension puts the livelihood of thousands of drivers at risk.  With more than 8,000 taxis, it set up charging hubs in cities like New Delhi, Mumbai and Bengaluru to take on Uber and Ola, both ride-hailing services that largely use gasoline-powered fleets.",
+                "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.4595",
                 "source": "Reuters",
@@ -62,75 +127,20 @@
                 "url": "https://finance.yahoo.com/news/indias-blusmart-rival-uber-suspends-054235309.html"
             }
         ],
-        "avgScore": 0.349175
-    },
-    "4 16 2025": {
-        "importantArticles": [
-            {
-                "headline": "We recently compiled a list of the 14 Best American Tech Stocks To Buy Now. In this article, we are going to take a look at where Uber Technologies, Inc. (NYSE:UBER) stands against the other American tech stocks. American stocks moved up a bit on Monday, April 14 as investors focused on news about tech [\u2026]",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7783",
-                "source": "Insider Monkey",
-                "ticker": "UBER",
-                "title": "Is Uber Technologies, Inc. (UBER) The Best American Tech Stock To Buy Now?",
-                "url": "https://finance.yahoo.com/news/uber-technologies-inc-uber-best-034327202.html"
-            },
-            {
-                "headline": "The hedge fund, which owns about 1% of Lyft, said it nominated Alan Bazaar and Daniel Silvers for election to the board of the company, which has underperformed rival Uber Technologies and the broader market.  \"There is an urgent need for shareholder-driven change in Lyft's boardroom, which is unfortunately dominated by misaligned founders and independent directors with insufficient public market experience,\" said Arnaud Ajdler, Engine Capital's founder and portfolio manager.  Lyft's shares were up 1%, after it announced its entry into European markets by acquiring Germany's FreeNow mobility platform for nearly $200 million.",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.1531",
-                "source": "Reuters",
-                "ticker": "UBER",
-                "title": "Lyft investor Engine Capital names board nominees in start to proxy battle",
-                "url": "https://finance.yahoo.com/news/lyft-investor-engine-capital-name-125242411.html"
-            },
-            {
-                "headline": "Dara Khosrowshahi said studying engineering and liberal arts in college was an \u201cabsolute necessity\u201d to being a leader.",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Fortune",
-                "ticker": "UBER",
-                "title": "Uber\u2019s CEO says learning these two subjects in college is an \u2018absolute necessity\u2019 for any Gen Z grad eyeing up management roles",
-                "url": "https://finance.yahoo.com/news/uber-ceo-says-learning-two-163414618.html"
-            },
-            {
-                "headline": "Dara Khosrowshahi said studying engineering and liberal arts in college was an \u201cabsolute necessity\u201d to being a leader.",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Fortune",
-                "ticker": "UBER",
-                "title": "Uber\u2019s CEO says learning these two subjects in college is an \u2018absolute necessity\u2019 for any Gen Z grad eyeing up management roles",
-                "url": "https://finance.yahoo.com/news/uber-ceo-says-learning-two-163414618.html"
-            },
-            {
-                "headline": "The hedge fund, which owns about 1% of Lyft, said it nominated Alan Bazaar and Daniel Silvers for election to the board of the company, which has underperformed rival Uber Technologies and the broader market.  \"There is an urgent need for shareholder-driven change in Lyft's boardroom, which is unfortunately dominated by misaligned founders and independent directors with insufficient public market experience,\" said Arnaud Ajdler, Engine Capital's founder and portfolio manager.  Lyft's shares were up 1%, after it announced its entry into European markets by acquiring Germany's FreeNow mobility platform for nearly $200 million.",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.1531",
-                "source": "Reuters",
-                "ticker": "UBER",
-                "title": "Lyft investor Engine Capital names board nominees in start to proxy battle",
-                "url": "https://finance.yahoo.com/news/lyft-investor-engine-capital-name-125242411.html"
-            },
-            {
-                "headline": "We recently compiled a list of the 14 Best American Tech Stocks To Buy Now. In this article, we are going to take a look at where Uber Technologies, Inc. (NYSE:UBER) stands against the other American tech stocks. American stocks moved up a bit on Monday, April 14 as investors focused on news about tech [\u2026]",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7783",
-                "source": "Insider Monkey",
-                "ticker": "UBER",
-                "title": "Is Uber Technologies, Inc. (UBER) The Best American Tech Stock To Buy Now?",
-                "url": "https://finance.yahoo.com/news/uber-technologies-inc-uber-best-034327202.html"
-            }
-        ],
-        "avgScore": 0.31046666666666667
+        "avgScore": 0.20420000000000002
     },
     "4 15 2025": {
         "importantArticles": [
+            {
+                "headline": "We recently compiled a list of the 14 Best American Tech Stocks To Buy Now. In this article, we are going to take a look at where Uber Technologies, Inc. (NYSE:UBER) stands against the other American tech stocks. American stocks moved up a bit on Monday, April 14 as investors focused on news about tech [\u2026]",
+                "publication_date": "2025-04-15T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7783",
+                "source": "Insider Monkey",
+                "ticker": "UBER",
+                "title": "Is Uber Technologies, Inc. (UBER) The Best American Tech Stock To Buy Now?",
+                "url": "https://finance.yahoo.com/news/uber-technologies-inc-uber-best-034327202.html"
+            },
             {
                 "headline": "We came across a bullish thesis on Uber Technologies, Inc. (UBER) on Substack by Oguz Erkan. In this article, we will summarize the bulls\u2019 thesis on UBER. Uber Technologies, Inc. (UBER)\u2019s share was trading at $73.10 as of April 14th. UBER\u2019s trailing and forward P/E were 16.03 and 27.40 respectively according to Yahoo Finance. Uber represents a [\u2026]",
                 "publication_date": "2025-04-15T00:00:00.000Z",
@@ -150,16 +160,6 @@
                 "ticker": "UBER",
                 "title": "Is Uber a Buy, Sell, or Hold in 2025?",
                 "url": "https://finance.yahoo.com/news/uber-buy-sell-hold-2025-080500790.html"
-            },
-            {
-                "headline": "SAN FRANCISCO, April 15, 2025--Uber Technologies, Inc. (NYSE: UBER) will hold its quarterly conference call to discuss its first quarter 2025 financial results on Wednesday, May 7th at 5:00 a.m. Pacific Time (8:00 a.m. Eastern Time).",
-                "publication_date": "2025-04-15T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Business Wire",
-                "ticker": "UBER",
-                "title": "Uber Announces Date of First Quarter 2025 Results Conference Call",
-                "url": "https://finance.yahoo.com/news/uber-announces-date-first-quarter-203000714.html"
             },
             {
                 "headline": "The partners will provide delivery from Giant Tiger within an hour.",
@@ -192,7 +192,7 @@
                 "url": "https://finance.yahoo.com/news/uber-buy-sell-hold-2025-080500790.html"
             }
         ],
-        "avgScore": 0.189925
+        "avgScore": 0.3076
     },
     "4 14 2025": {
         "importantArticles": [
@@ -1269,12 +1269,12 @@
         ],
         "avgScore": 0.6824
     },
-    "coef": 0.04912478825522304,
-    "avgCoef": 0.03629999084726356,
+    "coef": 0.007340485601355168,
+    "avgCoef": 0.02458667914885382,
     "similar": {
-        "KO": 0.5923207227555054,
-        "AMCR": 0.5527950310559007,
-        "PCG": 0.5279503105590062,
-        "WMT": 0.5121400338791644
+        "KO": 0.5527950310559007,
+        "PCG": 0.5200451722190853,
+        "AMCR": 0.5166572557876906,
+        "UNH": 0.4624505928853756
     }
 }

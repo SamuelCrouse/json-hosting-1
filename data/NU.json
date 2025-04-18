@@ -639,77 +639,12 @@
         ],
         "avgScore": 0.36319999999999997
     },
-    "3 18 2025": {
-        "importantArticles": [
-            {
-                "headline": "S\u00c3O PAULO, March 18, 2025--Nubank, one of the largest digital financial services platforms in the world, was included for the fifth time in Fast Company\u2019s prestigious World\u2019s Most Innovative Companies list. Nu is #1 in the Finance and Personal Finance category and 3rd place in the overall ranking, gaining 19 positions from last year. The annual list recognizes businesses at the forefront of their industries, driving innovative solutions and shaping the future.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8622",
-                "source": "Business Wire",
-                "ticker": "NU",
-                "title": "Fast Company Names Nu the Most Innovative Company in the World in Finance and Personal Finance",
-                "url": "https://finance.yahoo.com/news/fast-company-names-nu-most-195300271.html"
-            },
-            {
-                "headline": "We recently compiled a list of the 20 Best Fintech Stocks to Buy According to Billionaires. In this article, we are going to take a look at where Nu Holdings Ltd. (NYSE:NU) stands against the other best fintech stocks. Tech stocks have faced challenges lately, and fintech companies have been hit particularly hard. On March [\u2026]",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8405",
-                "source": "Insider Monkey",
-                "ticker": "NU",
-                "title": "Nu Holdings Ltd. (NU): Among the Best Fintech Stocks to Buy According to Billionaires",
-                "url": "https://finance.yahoo.com/news/nu-holdings-ltd-nu-among-201718982.html"
-            },
-            {
-                "headline": "\"A rising tide lifts all boats,\" according to an often-cited adage.  Warren Buffett seems to have a knack for finding stocks that perform well when the overall market is performing dismally.  This performance would probably bring a smile to Buffett's long-term business partner, Charlie Munger, who died in late 2023.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Motley Fool",
-                "ticker": "NU",
-                "title": "These 6 Warren Buffett Stocks Are Soaring in 2025 While the Market Is Sinking",
-                "url": "https://finance.yahoo.com/news/6-warren-buffett-stocks-soaring-084800140.html"
-            },
-            {
-                "headline": "\"A rising tide lifts all boats,\" according to an often-cited adage.  Warren Buffett seems to have a knack for finding stocks that perform well when the overall market is performing dismally.  This performance would probably bring a smile to Buffett's long-term business partner, Charlie Munger, who died in late 2023.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Motley Fool",
-                "ticker": "NU",
-                "title": "These 6 Warren Buffett Stocks Are Soaring in 2025 While the Market Is Sinking",
-                "url": "https://finance.yahoo.com/news/6-warren-buffett-stocks-soaring-084800140.html"
-            },
-            {
-                "headline": "We recently compiled a list of the 20 Best Fintech Stocks to Buy According to Billionaires. In this article, we are going to take a look at where Nu Holdings Ltd. (NYSE:NU) stands against the other best fintech stocks. Tech stocks have faced challenges lately, and fintech companies have been hit particularly hard. On March [\u2026]",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8405",
-                "source": "Insider Monkey",
-                "ticker": "NU",
-                "title": "Nu Holdings Ltd. (NU): Among the Best Fintech Stocks to Buy According to Billionaires",
-                "url": "https://finance.yahoo.com/news/nu-holdings-ltd-nu-among-201718982.html"
-            },
-            {
-                "headline": "S\u00c3O PAULO, March 18, 2025--Nubank, one of the largest digital financial services platforms in the world, was included for the fifth time in Fast Company\u2019s prestigious World\u2019s Most Innovative Companies list. Nu is #1 in the Finance and Personal Finance category and 3rd place in the overall ranking, gaining 19 positions from last year. The annual list recognizes businesses at the forefront of their industries, driving innovative solutions and shaping the future.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8622",
-                "source": "Business Wire",
-                "ticker": "NU",
-                "title": "Fast Company Names Nu the Most Innovative Company in the World in Finance and Personal Finance",
-                "url": "https://finance.yahoo.com/news/fast-company-names-nu-most-195300271.html"
-            }
-        ],
-        "avgScore": 0.5675666666666667
-    },
-    "coef": 0.297298194672601,
-    "avgCoef": 0.0317880125227214,
+    "coef": 0.3333347836144341,
+    "avgCoef": 0.023656398857432412,
     "similar": {
-        "BTG": 0.57406366795449,
-        "PSLV": 0.5307141326386927,
-        "IAG": 0.508601043778747,
-        "AVGO": 0.37346550074574664
+        "BTG": 0.5594109651842585,
+        "PSLV": 0.5191763001428353,
+        "IAG": 0.513276569459394,
+        "AVGO": 0.3952819557905678
     }
 }

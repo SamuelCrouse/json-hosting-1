@@ -919,37 +919,12 @@
         ],
         "avgScore": 0.38
     },
-    "3 18 2025": {
-        "importantArticles": [
-            {
-                "headline": "We recently published a list of 15 Best Penny Stocks to Buy According to Billionaires. In this article, we are going to take a look at where NIO Inc. (NYSE:NIO) stands against other best penny stocks to buy according to billionaires. Can Small-Cap Stocks Overtake Large-Caps in 2025? On February 14, Morningstar released a report [\u2026]",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8555",
-                "source": "Insider Monkey",
-                "ticker": "NIO",
-                "title": "NIO Inc. (NIO): Among the Best Penny Stocks to Buy According to Billionaires",
-                "url": "https://finance.yahoo.com/news/nio-inc-nio-among-best-191919536.html"
-            },
-            {
-                "headline": "We recently published a list of 15 Best Penny Stocks to Buy According to Billionaires. In this article, we are going to take a look at where NIO Inc. (NYSE:NIO) stands against other best penny stocks to buy according to billionaires. Can Small-Cap Stocks Overtake Large-Caps in 2025? On February 14, Morningstar released a report [\u2026]",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8555",
-                "source": "Insider Monkey",
-                "ticker": "NIO",
-                "title": "NIO Inc. (NIO): Among the Best Penny Stocks to Buy According to Billionaires",
-                "url": "https://finance.yahoo.com/news/nio-inc-nio-among-best-191919536.html"
-            }
-        ],
-        "avgScore": 0.8555
-    },
-    "coef": 0.06820396592259458,
-    "avgCoef": 0.035398471451257796,
+    "coef": 0.04964272633879248,
+    "avgCoef": 0.025473761536005248,
     "similar": {
-        "HLN": 0.6328784925276153,
-        "GRAB": 0.42416371188051666,
-        "KVUE": 0.4053264260542763,
-        "IAG": 0.39688212551147883
+        "HLN": 0.6139954853273137,
+        "KVUE": 0.3956374856697703,
+        "KO": 0.39037234802777715,
+        "IAG": 0.3550207095743947
     }
 }

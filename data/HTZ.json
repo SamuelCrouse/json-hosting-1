@@ -2,6 +2,16 @@
     "4 17 2025": {
         "importantArticles": [
             {
+                "headline": "(Bloomberg) -- Bill Ackman\u2019s Pershing Square Capital Management has amassed a nearly 20% stake in Hertz Global Holdings Inc. in a bet on the rental car company\u2019s turnaround plan and that tariffs will boost the value of its vehicles.Most Read from BloombergTrump Signs Executive Orders on Federal Purchasing, Office SpaceDOGE Places Entire Staff of Federal Homelessness Agency on LeaveHow Did This Suburb Figure Out Mass Transit?Trump Administration Takes Over New York Penn Station RevampWhy the Best",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8519",
+                "source": "Bloomberg",
+                "ticker": "HTZ",
+                "title": "Bill Ackman Makes Big Bet on Hertz Becoming Tariff Winner",
+                "url": "https://finance.yahoo.com/news/ackman-says-pershing-owns-19-203543846.html"
+            },
+            {
                 "headline": "Wealth host Brad Smith and Yahoo Finance Senior Reporter Alexandra Canal examine some of today's trending tickers. The chipmaker sell-off continues, with Nvidia (NVDA) and Advanced Micro Devices (AMD) extending losses sparked by new chip export restrictions that add costs for the company. Hertz (HTZ) extends gains fueled by billionaire investor Bill Ackman's firm, Pershing Square Capital Management, disclosing its large stake in the rental car company. To watch more expert insights and analysis on the latest market action, check out more Wealth here.",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -20,16 +30,6 @@
                 "ticker": "HTZ",
                 "title": "Hertz Surges After Ackman\u2019s Pershing Square Discloses Stake",
                 "url": "https://finance.yahoo.com/news/hertz-surges-ackman-pershing-square-202632370.html"
-            },
-            {
-                "headline": "(Bloomberg) -- Bill Ackman\u2019s Pershing Square Capital Management has amassed a nearly 20% stake in rental car company Hertz Global Holdings Inc. in a bet that tariffs will push up car prices, the billionaire said in a social media post.Most Read from BloombergTrump Signs Executive Orders on Federal Purchasing, Office SpaceDOGE Places Entire Staff of Federal Homelessness Agency on LeaveHow Did This Suburb Figure Out Mass Transit?Why the Best Bike Lanes Always Get BlamedNashville\u2019s $3 Billion Trans",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6369",
-                "source": "Bloomberg",
-                "ticker": "HTZ",
-                "title": "Bill Ackman Makes Big Bet on Hertz Becoming Tariff Winner",
-                "url": "https://finance.yahoo.com/news/ackman-says-pershing-owns-19-203543846.html"
             },
             {
                 "headline": "The major averages were broadly lower near noon, with the Nasdaq down over 300 points amid escalating trade tensions and new export restrictions.\u200b This follows the U.S. government\u2019s decision to tighten export controls on advanced AI-related computer chips.\u200b The recent U.S. actions have intensified concerns over a potential trade war. President Donald Trump has announced a new investigation into critical mineral imports and imposed steep tariffs on Chinese imports. In retaliation, China has incre",
@@ -62,7 +62,7 @@
                 "url": "https://finance.yahoo.com/m/c29ef7b9-cc72-3a72-b2fd-4643602885fd/hertz-stock-spikes-after-bill.html"
             }
         ],
-        "avgScore": 0.29201
+        "avgScore": 0.31351
     },
     "4 16 2025": {
         "importantArticles": [
@@ -349,12 +349,12 @@
         ],
         "avgScore": 0.27105
     },
-    "coef": -0.028571428571428574,
-    "avgCoef": 0.03212280671061942,
+    "coef": 0.08571428571428573,
+    "avgCoef": 0.021824140806841304,
     "similar": {
-        "KO": 0.7714285714285715,
-        "SPY": 0.7142857142857143,
-        "HOOD": 0.7142857142857143,
-        "NU": 0.6571428571428573
+        "SPY": 0.8285714285714287,
+        "HOOD": 0.8285714285714287,
+        "KO": 0.8285714285714287,
+        "WMT": 0.8285714285714287
     }
 }

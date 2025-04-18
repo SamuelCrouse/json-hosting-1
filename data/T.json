@@ -2,6 +2,16 @@
     "4 17 2025": {
         "importantArticles": [
             {
+                "headline": "We recently published a list of 10 Best Performing Long Term Stocks So Far in 2025. In this article, we are going to take a look at where AT&T Inc. (NYSE:T) stands against other best performing long term stocks so far in 2025. Consumer morale fell more drastically than expected in April, owing to a [\u2026]",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8555",
+                "source": "Insider Monkey",
+                "ticker": "T",
+                "title": "Is AT&T Inc. (T) the Best Performing Long Term Stock So Far in 2025?",
+                "url": "https://finance.yahoo.com/news/t-inc-t-best-performing-030713828.html"
+            },
+            {
                 "headline": "Besides Wall Street's top -and-bottom-line estimates for AT&T (T), review projections for some of its key metrics to gain a deeper understanding of how the company might have fared during the quarter ended March 2025.",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -20,16 +30,6 @@
                 "ticker": "T",
                 "title": "Comcast Unveils 5-Year Xfinity Guarantee Plan: How to Play the Stock",
                 "url": "https://finance.yahoo.com/news/comcast-unveils-5-xfinity-guarantee-152300612.html"
-            },
-            {
-                "headline": "T-Mobile (TMUS) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.2263",
-                "source": "Zacks",
-                "ticker": "T",
-                "title": "T-Mobile (TMUS) Reports Next Week: Wall Street Expects Earnings Growth",
-                "url": "https://finance.yahoo.com/news/t-mobile-tmus-reports-next-140114526.html"
             },
             {
                 "headline": "\"Tariff\" has probably been the most used word in the business and investing world since U.S. President Donald Trump announced his new tariff plan on April 2.  The newly announced tariffs caused the stock market to plummet in the following days, and another word began to circulate more and more: recession.  Concerns about how new tariffs could affect prices, supply chains, and economic growth have caused many people to believe a recession is more likely to happen.",
@@ -62,7 +62,7 @@
                 "url": "https://finance.yahoo.com/news/comcast-unveils-5-xfinity-guarantee-152300612.html"
             }
         ],
-        "avgScore": 0.18052500000000002
+        "avgScore": 0.31551999999999997
     },
     "4 16 2025": {
         "importantArticles": [
@@ -1074,12 +1074,12 @@
         ],
         "avgScore": 0.3818
     },
-    "coef": -0.2175438596491228,
-    "avgCoef": 0.036031319168065574,
+    "coef": -0.24912280701754386,
+    "avgCoef": 0.02483931072780119,
     "similar": {
-        "PSLV": 0.19298245614035087,
-        "BTG": 0.13708281275835973,
-        "NGD": 0.11403508771929824,
-        "SBSW": 0.09916631055574433
+        "PSLV": 0.1701754385964912,
+        "SBSW": 0.13690216324509835,
+        "BTG": 0.11247820534019261,
+        "NGD": 0.07017543859649124
     }
 }

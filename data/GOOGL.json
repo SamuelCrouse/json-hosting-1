@@ -62,7 +62,7 @@
                 "url": "https://finance.yahoo.com/news/federal-judge-declares-googles-digital-155852450.html"
             }
         ],
-        "avgScore": 0.10203414634146336
+        "avgScore": 0.058338095238095224
     },
     "4 16 2025": {
         "importantArticles": [
@@ -127,7 +127,7 @@
                 "url": "https://finance.yahoo.com/news/google-faces-5-billion-lawsuit-102205564.html"
             }
         ],
-        "avgScore": 0.08338999999999994
+        "avgScore": 0.11134761904761901
     },
     "4 15 2025": {
         "importantArticles": [
@@ -322,7 +322,7 @@
                 "url": "https://finance.yahoo.com/news/google-trims-workforce-platforms-devices-154618589.html"
             }
         ],
-        "avgScore": 0.40118571428571426
+        "avgScore": 0.39343000000000006
     },
     "4 10 2025": {
         "importantArticles": [
@@ -387,7 +387,7 @@
                 "url": "https://finance.yahoo.com/news/google-spend-75-billion-ai-134816774.html"
             }
         ],
-        "avgScore": 0.40572499999999995
+        "avgScore": 0.40979459459459455
     },
     "4 9 2025": {
         "importantArticles": [
@@ -432,34 +432,34 @@
                 "url": "https://finance.yahoo.com/m/24eb806e-1e5d-3b58-917b-390720595b5d/tariffs-are-still-coming-for.html"
             },
             {
-                "headline": "Alphabet (NasdaqGS:GOOGL) saw its stock price fall by 8% over the last week, aligning closely with the broader market decline of 12% amid heightened volatility due to tariff uncertainties. While broader economic concerns weighed heavily on the market, Alphabet's strategic partnerships and integrations with Bentley Systems and Shirofune did little to buoy its performance against such pressures. Despite promising technological enhancements with entities like Google's Street View, the overall...",
+                "headline": "President Trump's announcement of tariffs on imports from countries worldwide has rocked the stock market -- and the tech-heavy Nasdaq Composite (NASDAQINDEX: ^IXIC) has led the decline, crashing more than 20% from its most recent high.  Why are tech stocks being hit so hard?  All this has prompted investors to worry about tech earnings ahead, fleeing shares of these companies.",
                 "publication_date": "2025-04-09T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.5358",
-                "source": "Simply Wall St.",
+                "sentimentScore": "-0.3749",
+                "source": "Motley Fool",
                 "ticker": "GOOGL",
-                "title": "Alphabet (NasdaqGS:GOOGL) Expands AI Analytics With New Partnerships And Integrations",
-                "url": "https://finance.yahoo.com/news/alphabet-nasdaqgs-googl-expands-ai-175322231.html"
+                "title": "The Stock Market Has Crashed: My Top 5 Dirt Cheap Tech Stocks to Buy Now",
+                "url": "https://finance.yahoo.com/news/stock-market-crashed-top-5-221000917.html"
             },
             {
-                "headline": "Investing.com -- KeyBanc Capital Markets cut price targets across a group of digital advertising and streaming stocks citing worsening ad agency checks and increased macro uncertainty.The firm reduced revenue forecasts and price targets for eight names, including Overweight-rated Alphabet (NASDAQ:GOOGL), Meta Platforms (NASDAQ:META), Netflix (NASDAQ:NFLX), Pinterest (NYSE:PINS), Spotify (NYSE:SPOT), and The Trade Desk (NASDAQ:TTD).Trump tariffs have induced the investments pause until, as compan",
+                "headline": "The tech industry tried to cozy up to the Trump Administration in the hopes that it could avoid getting caught in the crossfire of his policy moves. But they couldn't dodge his tariffs.",
                 "publication_date": "2025-04-09T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.4588",
-                "source": "Investing.com",
+                "sentiment": "Positive",
+                "sentimentScore": "0.0772",
+                "source": "Yahoo Finance",
                 "ticker": "GOOGL",
-                "title": "KeyBanc flags Ad spending slowdown, cuts target on major digital names",
-                "url": "https://finance.yahoo.com/news/keybanc-flags-ad-spending-slowdown-174806506.html"
+                "title": "The tech world aggressively backed Trump. It couldn't stop his tariffs.",
+                "url": "https://finance.yahoo.com/news/the-tech-world-aggressively-backed-trump-it-couldnt-stop-his-tariffs-192914454.html"
             }
         ],
-        "avgScore": -0.13395714285714289
+        "avgScore": 0.011379999999999968
     },
-    "coef": 0.7857142857142859,
-    "avgCoef": 0.031119180661869045,
+    "coef": 0.8928571428571429,
+    "avgCoef": 0.0241556605019324,
     "similar": {
-        "PTON": 0.9642857142857145,
-        "GPN": 0.9285714285714288,
-        "FCX": 0.9285714285714288,
-        "PCG": 0.8928571428571429
+        "FCX": 0.9642857142857145,
+        "PCG": 0.9642857142857145,
+        "AVGO": 0.9285714285714288,
+        "PTON": 0.9285714285714288
     }
 }

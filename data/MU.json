@@ -32,6 +32,16 @@
                 "url": "https://finance.yahoo.com/m/b3ca87f9-4543-3023-8dfe-6aa0dc9b42af/amd-micron-broadcom-stocks.html"
             },
             {
+                "headline": "We recently published a list of Buy The Dip On These 10 Semiconductor Stocks Tumbling On China H20 Chip Sale Ban. In this article, we are going to take a look at where Micron Technology, Inc. (NASDAQ:MU) stands against other semiconductor stocks tumbling on China H20 chip sale ban. Semiconductor manufacturers are at the forefront [\u2026]",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.802",
+                "source": "Insider Monkey",
+                "ticker": "MU",
+                "title": "Is Micron Technology, Inc. (MU) Worth Buying on the China H20 Chip Sale Ban?",
+                "url": "https://finance.yahoo.com/news/micron-technology-inc-mu-worth-034452332.html"
+            },
+            {
                 "headline": "We recently published a list of 12 Stocks on Jim Cramer\u2019s Radar Recently. In this article, we are going to take a look at where Micron Technology, Inc. (NASDAQ:MU) stands against other stocks that on Jim Cramer\u2019s radar recently. On Tuesday, Jim Cramer, host of Mad Money, criticized the market\u2019s reaction, or lack thereof, to [\u2026]",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -50,19 +60,9 @@
                 "ticker": "MU",
                 "title": "Nvidia stock falls again, market cap losses near $270 billion after Trump administration's new export controls",
                 "url": "https://finance.yahoo.com/news/nvidia-stock-falls-again-market-cap-losses-near-270-billion-after-trump-administrations-new-export-controls-160422973.html"
-            },
-            {
-                "headline": "Micron Technology said it is reshuffling its business segments to focus on the AI-linked demand for its memory chips from large-scale cloud providers.",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.128",
-                "source": "Reuters",
-                "ticker": "MU",
-                "title": "Micron rejigs business units to highlight AI data center demand",
-                "url": "https://finance.yahoo.com/news/micron-rejigs-business-units-highlight-151745484.html"
             }
         ],
-        "avgScore": -0.07156666666666665
+        "avgScore": -0.17591428571428572
     },
     "4 15 2025": {
         "importantArticles": [
@@ -987,7 +987,7 @@
                 "url": "https://finance.yahoo.com/news/microns-1b-ai-chip-surge-163555488.html"
             }
         ],
-        "avgScore": 0.22155652173913049
+        "avgScore": 0.20379090909090916
     },
     "3 20 2025": {
         "importantArticles": [
@@ -1052,7 +1052,7 @@
                 "url": "https://finance.yahoo.com/news/citi-lists-key-takeaways-chip-104357443.html"
             }
         ],
-        "avgScore": 0.39937777777777783
+        "avgScore": 0.41058947368421056
     },
     "3 19 2025": {
         "importantArticles": [
@@ -1120,7 +1120,7 @@
         "avgScore": 0.52725
     },
     "coef": -0.23759398496240602,
-    "avgCoef": 0.03614987114151055,
+    "avgCoef": 0.025533318474440514,
     "similar": {
         "UNH": 0.6812030075187969,
         "KO": 0.4496240601503759,

@@ -674,57 +674,12 @@
         ],
         "avgScore": -0.05135
     },
-    "3 18 2025": {
-        "importantArticles": [
-            {
-                "headline": "SAN JOSE, Calif., March 18, 2025--NVIDIA GTC 2025 - Hewlett Packard Enterprise (NYSE: HPE) and NVIDIA today announced new enterprise AI solutions with NVIDIA from NVIDIA AI Computing by HPE that accelerates the time to value for customers deploying generative, agentic and physical AI. NVIDIA AI Computing by HPE unveils new enterprise AI solutions with enhanced performance, power efficiency, security, and new capabilities for a full-stack, turnkey private cloud for AI. These solutions support ent",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.9022",
-                "source": "Business Wire",
-                "ticker": "HPE",
-                "title": "Hewlett Packard Enterprise Introduces New Enterprise AI solutions with NVIDIA to Accelerate Time to Value for Generative, Agentic and Physical AI",
-                "url": "https://finance.yahoo.com/news/hewlett-packard-enterprise-introduces-enterprise-200000490.html"
-            },
-            {
-                "headline": "SAN JOSE, Calif., March 18, 2025--NVIDIA GTC 2025 - Hewlett Packard Enterprise (NYSE: HPE) today unveiled a unified data layer for AI, deeper collaboration with NVIDIA, and significant enhancements across its enterprise data storage portfolio. Enterprises will be able to achieve quicker time to insight through easy access, built-in intelligence and governed control of multi-vendor, multicloud data through HPE GreenLake cloud.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8555",
-                "source": "Business Wire",
-                "ticker": "HPE",
-                "title": "Hewlett Packard Enterprise Drives Agentic AI Era With an Intelligent, Unified Data Layer for AI",
-                "url": "https://finance.yahoo.com/news/hewlett-packard-enterprise-drives-agentic-200000824.html"
-            },
-            {
-                "headline": "SAN JOSE, Calif., March 18, 2025--NVIDIA GTC 2025 - Hewlett Packard Enterprise (NYSE: HPE) today unveiled a unified data layer for AI, deeper collaboration with NVIDIA, and significant enhancements across its enterprise data storage portfolio. Enterprises will be able to achieve quicker time to insight through easy access, built-in intelligence and governed control of multi-vendor, multicloud data through HPE GreenLake cloud.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8555",
-                "source": "Business Wire",
-                "ticker": "HPE",
-                "title": "Hewlett Packard Enterprise Drives Agentic AI Era With an Intelligent, Unified Data Layer for AI",
-                "url": "https://finance.yahoo.com/news/hewlett-packard-enterprise-drives-agentic-200000824.html"
-            },
-            {
-                "headline": "SAN JOSE, Calif., March 18, 2025--NVIDIA GTC 2025 - Hewlett Packard Enterprise (NYSE: HPE) and NVIDIA today announced new enterprise AI solutions with NVIDIA from NVIDIA AI Computing by HPE that accelerates the time to value for customers deploying generative, agentic and physical AI. NVIDIA AI Computing by HPE unveils new enterprise AI solutions with enhanced performance, power efficiency, security, and new capabilities for a full-stack, turnkey private cloud for AI. These solutions support ent",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.9022",
-                "source": "Business Wire",
-                "ticker": "HPE",
-                "title": "Hewlett Packard Enterprise Introduces New Enterprise AI solutions with NVIDIA to Accelerate Time to Value for Generative, Agentic and Physical AI",
-                "url": "https://finance.yahoo.com/news/hewlett-packard-enterprise-introduces-enterprise-200000490.html"
-            }
-        ],
-        "avgScore": 0.87885
-    },
-    "coef": 0.06176470588235294,
-    "avgCoef": 0.035781636074257044,
+    "coef": -0.024999999999999998,
+    "avgCoef": 0.025325271619334833,
     "similar": {
-        "ADT": 0.5823529411764706,
-        "PSLV": 0.5676470588235295,
-        "NGD": 0.5676470588235295,
-        "BCS": 0.5676470588235295
+        "PSLV": 0.6285714285714286,
+        "NGD": 0.5857142857142856,
+        "BCS": 0.5642857142857142,
+        "ADT": 0.5142857142857142
     }
 }

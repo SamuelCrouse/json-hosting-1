@@ -2,33 +2,8 @@
     "4 17 2025": {
         "importantArticles": [
             {
-                "headline": "JACKSONVILLE, Fla., April 17, 2025--Dun & Bradstreet Holdings, Inc. (\"Dun & Bradstreet\") (NYSE:DNB), a leading global provider of business decisioning data and analytics, today announced it will report its first quarter 2025 financial results on Thursday, May 1, 2025, at approximately 7:30 a.m. Eastern Time via press release. This release will be available on Dun & Bradstreet\u2019s Investor Relations website at https://investor.dnb.com. Due to the proposed transaction announced on March 24, 2025, Du",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Business Wire",
-                "ticker": "DNB",
-                "title": "Dun & Bradstreet to Report First Quarter 2025 Financial Results on May 1, 2025",
-                "url": "https://finance.yahoo.com/news/dun-bradstreet-report-first-quarter-210000374.html"
-            },
-            {
-                "headline": "JACKSONVILLE, Fla., April 17, 2025--Dun & Bradstreet Holdings, Inc. (\"Dun & Bradstreet\") (NYSE:DNB), a leading global provider of business decisioning data and analytics, today announced it will report its first quarter 2025 financial results on Thursday, May 1, 2025, at approximately 7:30 a.m. Eastern Time via press release. This release will be available on Dun & Bradstreet\u2019s Investor Relations website at https://investor.dnb.com. Due to the proposed transaction announced on March 24, 2025, Du",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Business Wire",
-                "ticker": "DNB",
-                "title": "Dun & Bradstreet to Report First Quarter 2025 Financial Results on May 1, 2025",
-                "url": "https://finance.yahoo.com/news/dun-bradstreet-report-first-quarter-210000374.html"
-            }
-        ],
-        "avgScore": 0.0
-    },
-    "4 16 2025": {
-        "importantArticles": [
-            {
                 "headline": "JACKSONVILLE, Fla., April 16, 2025--Dun & Bradstreet, (NYSE:DNB), a leading global provider of business data and analytics, today introduced a complimentary supply chain evaluation that equips businesses with information to help them understand potential risks and opportunities within their supply chains. The evaluation provides a view of expenses resulting from planned or proposed tariffs on a business\u2019 supply chain using Dun & Bradstreet\u2019s proprietary data to illuminate how dependencies on cer",
-                "publication_date": "2025-04-16T00:00:00.000Z",
+                "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.7269",
                 "source": "Business Wire",
@@ -38,7 +13,7 @@
             },
             {
                 "headline": "JACKSONVILLE, Fla., April 16, 2025--Dun & Bradstreet, (NYSE:DNB), a leading global provider of business data and analytics, today introduced a complimentary supply chain evaluation that equips businesses with information to help them understand potential risks and opportunities within their supply chains. The evaluation provides a view of expenses resulting from planned or proposed tariffs on a business\u2019 supply chain using Dun & Bradstreet\u2019s proprietary data to illuminate how dependencies on cer",
-                "publication_date": "2025-04-16T00:00:00.000Z",
+                "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.7269",
                 "source": "Business Wire",
@@ -48,6 +23,51 @@
             }
         ],
         "avgScore": 0.7269
+    },
+    "4 11 2025": {
+        "importantArticles": [
+            {
+                "headline": "As the Q4 earnings season comes to a close, it\u2019s time to take stock of this quarter\u2019s best and worst performers in the data & business process services industry, including Broadridge (NYSE:BR) and its peers.",
+                "publication_date": "2025-04-11T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0258",
+                "source": "StockStory",
+                "ticker": "DNB",
+                "title": "Unpacking Q4 Earnings: Broadridge (NYSE:BR) In The Context Of Other Data & Business Process Services Stocks",
+                "url": "https://finance.yahoo.com/news/unpacking-q4-earnings-broadridge-nyse-091532055.html"
+            },
+            {
+                "headline": "Verisk (VRSK) witnessed a jump in share price last session on above-average trading volume. The latest trend in earnings estimate revisions for the stock doesn't suggest further strength down the road.",
+                "publication_date": "2025-04-11T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.1098",
+                "source": "Zacks",
+                "ticker": "DNB",
+                "title": "Verisk (VRSK) Soars 4.4%: Is Further Upside Left in the Stock?",
+                "url": "https://finance.yahoo.com/news/verisk-vrsk-soars-4-4-143900666.html"
+            },
+            {
+                "headline": "Verisk (VRSK) witnessed a jump in share price last session on above-average trading volume. The latest trend in earnings estimate revisions for the stock doesn't suggest further strength down the road.",
+                "publication_date": "2025-04-11T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.1098",
+                "source": "Zacks",
+                "ticker": "DNB",
+                "title": "Verisk (VRSK) Soars 4.4%: Is Further Upside Left in the Stock?",
+                "url": "https://finance.yahoo.com/news/verisk-vrsk-soars-4-4-143900666.html"
+            },
+            {
+                "headline": "As the Q4 earnings season comes to a close, it\u2019s time to take stock of this quarter\u2019s best and worst performers in the data & business process services industry, including Broadridge (NYSE:BR) and its peers.",
+                "publication_date": "2025-04-11T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0258",
+                "source": "StockStory",
+                "ticker": "DNB",
+                "title": "Unpacking Q4 Earnings: Broadridge (NYSE:BR) In The Context Of Other Data & Business Process Services Stocks",
+                "url": "https://finance.yahoo.com/news/unpacking-q4-earnings-broadridge-nyse-091532055.html"
+            }
+        ],
+        "avgScore": -0.041999999999999996
     },
     "4 10 2025": {
         "importantArticles": [
@@ -62,46 +82,6 @@
                 "url": "https://finance.yahoo.com/news/global-business-optimism-continues-decline-070000057.html"
             },
             {
-                "headline": "As the Q4 earnings season comes to a close, it\u2019s time to take stock of this quarter\u2019s best and worst performers in the data & business process services industry, including Broadridge (NYSE:BR) and its peers.",
-                "publication_date": "2025-04-10T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0258",
-                "source": "StockStory",
-                "ticker": "DNB",
-                "title": "Unpacking Q4 Earnings: Broadridge (NYSE:BR) In The Context Of Other Data & Business Process Services Stocks",
-                "url": "https://finance.yahoo.com/news/unpacking-q4-earnings-broadridge-nyse-091532055.html"
-            },
-            {
-                "headline": "Verisk (VRSK) witnessed a jump in share price last session on above-average trading volume. The latest trend in earnings estimate revisions for the stock doesn't suggest further strength down the road.",
-                "publication_date": "2025-04-10T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.1098",
-                "source": "Zacks",
-                "ticker": "DNB",
-                "title": "Verisk (VRSK) Soars 4.4%: Is Further Upside Left in the Stock?",
-                "url": "https://finance.yahoo.com/news/verisk-vrsk-soars-4-4-143900666.html"
-            },
-            {
-                "headline": "Verisk (VRSK) witnessed a jump in share price last session on above-average trading volume. The latest trend in earnings estimate revisions for the stock doesn't suggest further strength down the road.",
-                "publication_date": "2025-04-10T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.1098",
-                "source": "Zacks",
-                "ticker": "DNB",
-                "title": "Verisk (VRSK) Soars 4.4%: Is Further Upside Left in the Stock?",
-                "url": "https://finance.yahoo.com/news/verisk-vrsk-soars-4-4-143900666.html"
-            },
-            {
-                "headline": "As the Q4 earnings season comes to a close, it\u2019s time to take stock of this quarter\u2019s best and worst performers in the data & business process services industry, including Broadridge (NYSE:BR) and its peers.",
-                "publication_date": "2025-04-10T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0258",
-                "source": "StockStory",
-                "ticker": "DNB",
-                "title": "Unpacking Q4 Earnings: Broadridge (NYSE:BR) In The Context Of Other Data & Business Process Services Stocks",
-                "url": "https://finance.yahoo.com/news/unpacking-q4-earnings-broadridge-nyse-091532055.html"
-            },
-            {
                 "headline": "Dun & Bradstreet (NYSE: DNB), a leading global provider of business data and analytics, today released its quarterly 2025 Global Business Optimism Insights report, revealing a 1.3% quarter-over-quarter decline in business optimism, following a sharp 12.9% drop seen in the prior quarter. Persistent global economic uncertainty and rising trade protectionism continue to dampen global business sentiment.",
                 "publication_date": "2025-04-10T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -112,79 +92,104 @@
                 "url": "https://finance.yahoo.com/news/global-business-optimism-continues-decline-070000057.html"
             }
         ],
-        "avgScore": 0.1527666666666667
+        "avgScore": 0.5423
+    },
+    "4 9 2025": {
+        "importantArticles": [
+            {
+                "headline": "As the Q4 earnings season comes to a close, it\u2019s time to take stock of this quarter\u2019s best and worst performers in the data & business process services industry, including Dun & Bradstreet (NYSE:DNB) and its peers.",
+                "publication_date": "2025-04-09T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0258",
+                "source": "StockStory",
+                "ticker": "DNB",
+                "title": "Data & Business Process Services Stocks Q4 Teardown: Dun & Bradstreet (NYSE:DNB) Vs The Rest",
+                "url": "https://finance.yahoo.com/news/data-business-process-services-stocks-090515510.html"
+            },
+            {
+                "headline": "As the Q4 earnings season comes to a close, it\u2019s time to take stock of this quarter\u2019s best and worst performers in the data & business process services industry, including Dun & Bradstreet (NYSE:DNB) and its peers.",
+                "publication_date": "2025-04-09T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0258",
+                "source": "StockStory",
+                "ticker": "DNB",
+                "title": "Data & Business Process Services Stocks Q4 Teardown: Dun & Bradstreet (NYSE:DNB) Vs The Rest",
+                "url": "https://finance.yahoo.com/news/data-business-process-services-stocks-090515510.html"
+            }
+        ],
+        "avgScore": 0.0258
     },
     "4 8 2025": {
         "importantArticles": [
             {
-                "headline": "As the Q4 earnings season comes to a close, it\u2019s time to take stock of this quarter\u2019s best and worst performers in the data & business process services industry, including Dun & Bradstreet (NYSE:DNB) and its peers.",
+                "headline": "As the Q4 earnings season wraps, let\u2019s dig into this quarter\u2019s best and worst performers in the data & business process services industry, including SS&C (NASDAQ:SSNC) and its peers.",
                 "publication_date": "2025-04-08T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0258",
                 "source": "StockStory",
                 "ticker": "DNB",
-                "title": "Data & Business Process Services Stocks Q4 Teardown: Dun & Bradstreet (NYSE:DNB) Vs The Rest",
-                "url": "https://finance.yahoo.com/news/data-business-process-services-stocks-090515510.html"
+                "title": "Unpacking Q4 Earnings: SS&C (NASDAQ:SSNC) In The Context Of Other Data & Business Process Services Stocks",
+                "url": "https://finance.yahoo.com/news/unpacking-q4-earnings-ss-c-090306308.html"
             },
             {
-                "headline": "As the Q4 earnings season comes to a close, it\u2019s time to take stock of this quarter\u2019s best and worst performers in the data & business process services industry, including Dun & Bradstreet (NYSE:DNB) and its peers.",
+                "headline": "As the Q4 earnings season wraps, let\u2019s dig into this quarter\u2019s best and worst performers in the data & business process services industry, including SS&C (NASDAQ:SSNC) and its peers.",
                 "publication_date": "2025-04-08T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0258",
                 "source": "StockStory",
                 "ticker": "DNB",
-                "title": "Data & Business Process Services Stocks Q4 Teardown: Dun & Bradstreet (NYSE:DNB) Vs The Rest",
-                "url": "https://finance.yahoo.com/news/data-business-process-services-stocks-090515510.html"
+                "title": "Unpacking Q4 Earnings: SS&C (NASDAQ:SSNC) In The Context Of Other Data & Business Process Services Stocks",
+                "url": "https://finance.yahoo.com/news/unpacking-q4-earnings-ss-c-090306308.html"
             }
         ],
         "avgScore": 0.0258
     },
-    "4 7 2025": {
+    "4 3 2025": {
         "importantArticles": [
             {
-                "headline": "As the Q4 earnings season wraps, let\u2019s dig into this quarter\u2019s best and worst performers in the data & business process services industry, including SS&C (NASDAQ:SSNC) and its peers.",
-                "publication_date": "2025-04-07T00:00:00.000Z",
+                "headline": "Wrapping up Q4 earnings, we look at the numbers and key takeaways for the data & business process services stocks, including CoStar (NASDAQ:CSGP) and its peers.",
+                "publication_date": "2025-04-03T00:00:00.000Z",
                 "sentiment": "Neutral",
-                "sentimentScore": "0.0258",
+                "sentimentScore": "0.0",
                 "source": "StockStory",
                 "ticker": "DNB",
-                "title": "Unpacking Q4 Earnings: SS&C (NASDAQ:SSNC) In The Context Of Other Data & Business Process Services Stocks",
-                "url": "https://finance.yahoo.com/news/unpacking-q4-earnings-ss-c-090306308.html"
+                "title": "Reflecting On Data & Business Process Services Stocks\u2019 Q4 Earnings: CoStar (NASDAQ:CSGP)",
+                "url": "https://finance.yahoo.com/news/reflecting-data-business-process-services-091235954.html"
             },
             {
-                "headline": "As the Q4 earnings season wraps, let\u2019s dig into this quarter\u2019s best and worst performers in the data & business process services industry, including SS&C (NASDAQ:SSNC) and its peers.",
-                "publication_date": "2025-04-07T00:00:00.000Z",
+                "headline": "Wrapping up Q4 earnings, we look at the numbers and key takeaways for the data & business process services stocks, including CoStar (NASDAQ:CSGP) and its peers.",
+                "publication_date": "2025-04-03T00:00:00.000Z",
                 "sentiment": "Neutral",
-                "sentimentScore": "0.0258",
+                "sentimentScore": "0.0",
                 "source": "StockStory",
                 "ticker": "DNB",
-                "title": "Unpacking Q4 Earnings: SS&C (NASDAQ:SSNC) In The Context Of Other Data & Business Process Services Stocks",
-                "url": "https://finance.yahoo.com/news/unpacking-q4-earnings-ss-c-090306308.html"
+                "title": "Reflecting On Data & Business Process Services Stocks\u2019 Q4 Earnings: CoStar (NASDAQ:CSGP)",
+                "url": "https://finance.yahoo.com/news/reflecting-data-business-process-services-091235954.html"
             }
         ],
-        "avgScore": 0.0258
+        "avgScore": 0.0
     },
     "4 2 2025": {
         "importantArticles": [
             {
-                "headline": "Wrapping up Q4 earnings, we look at the numbers and key takeaways for the data & business process services stocks, including CoStar (NASDAQ:CSGP) and its peers.",
+                "headline": "Dun & Bradstreet\u2019s stock price has taken a beating over the past six months, shedding 22.3% of its value and falling to $8.94 per share. This was partly driven by its softer quarterly results and may have investors wondering how to approach the situation.",
                 "publication_date": "2025-04-02T00:00:00.000Z",
                 "sentiment": "Neutral",
-                "sentimentScore": "0.0",
+                "sentimentScore": "-0.0",
                 "source": "StockStory",
                 "ticker": "DNB",
-                "title": "Reflecting On Data & Business Process Services Stocks\u2019 Q4 Earnings: CoStar (NASDAQ:CSGP)",
-                "url": "https://finance.yahoo.com/news/reflecting-data-business-process-services-091235954.html"
+                "title": "3 Reasons to Sell DNB and 1 Stock to Buy Instead",
+                "url": "https://finance.yahoo.com/news/3-reasons-sell-dnb-1-090535443.html"
             },
             {
-                "headline": "Wrapping up Q4 earnings, we look at the numbers and key takeaways for the data & business process services stocks, including CoStar (NASDAQ:CSGP) and its peers.",
+                "headline": "Dun & Bradstreet\u2019s stock price has taken a beating over the past six months, shedding 22.3% of its value and falling to $8.94 per share. This was partly driven by its softer quarterly results and may have investors wondering how to approach the situation.",
                 "publication_date": "2025-04-02T00:00:00.000Z",
                 "sentiment": "Neutral",
-                "sentimentScore": "0.0",
+                "sentimentScore": "-0.0",
                 "source": "StockStory",
                 "ticker": "DNB",
-                "title": "Reflecting On Data & Business Process Services Stocks\u2019 Q4 Earnings: CoStar (NASDAQ:CSGP)",
-                "url": "https://finance.yahoo.com/news/reflecting-data-business-process-services-091235954.html"
+                "title": "3 Reasons to Sell DNB and 1 Stock to Buy Instead",
+                "url": "https://finance.yahoo.com/news/3-reasons-sell-dnb-1-090535443.html"
             }
         ],
         "avgScore": 0.0
@@ -192,33 +197,8 @@
     "4 1 2025": {
         "importantArticles": [
             {
-                "headline": "Dun & Bradstreet\u2019s stock price has taken a beating over the past six months, shedding 22.3% of its value and falling to $8.94 per share. This was partly driven by its softer quarterly results and may have investors wondering how to approach the situation.",
-                "publication_date": "2025-04-01T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "-0.0",
-                "source": "StockStory",
-                "ticker": "DNB",
-                "title": "3 Reasons to Sell DNB and 1 Stock to Buy Instead",
-                "url": "https://finance.yahoo.com/news/3-reasons-sell-dnb-1-090535443.html"
-            },
-            {
-                "headline": "Dun & Bradstreet\u2019s stock price has taken a beating over the past six months, shedding 22.3% of its value and falling to $8.94 per share. This was partly driven by its softer quarterly results and may have investors wondering how to approach the situation.",
-                "publication_date": "2025-04-01T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "-0.0",
-                "source": "StockStory",
-                "ticker": "DNB",
-                "title": "3 Reasons to Sell DNB and 1 Stock to Buy Instead",
-                "url": "https://finance.yahoo.com/news/3-reasons-sell-dnb-1-090535443.html"
-            }
-        ],
-        "avgScore": 0.0
-    },
-    "3 31 2025": {
-        "importantArticles": [
-            {
                 "headline": "The end of the earnings season is always a good time to take a step back and see who shined (and who not so much). Let\u2019s take a look at how data & business process services stocks fared in Q4, starting with Verisk (NASDAQ:VRSK).",
-                "publication_date": "2025-03-31T00:00:00.000Z",
+                "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.4404",
                 "source": "StockStory",
@@ -228,7 +208,7 @@
             },
             {
                 "headline": "The end of the earnings season is always a good time to take a step back and see who shined (and who not so much). Let\u2019s take a look at how data & business process services stocks fared in Q4, starting with Verisk (NASDAQ:VRSK).",
-                "publication_date": "2025-03-31T00:00:00.000Z",
+                "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.4404",
                 "source": "StockStory",
@@ -239,36 +219,11 @@
         ],
         "avgScore": 0.4404
     },
-    "3 28 2025": {
-        "importantArticles": [
-            {
-                "headline": "The end of the earnings season is always a good time to take a step back and see who shined (and who not so much). Let\u2019s take a look at how data & business process services stocks fared in Q4, starting with ADP (NASDAQ:ADP).",
-                "publication_date": "2025-03-28T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4404",
-                "source": "StockStory",
-                "ticker": "DNB",
-                "title": "Winners And Losers Of Q4: ADP (NASDAQ:ADP) Vs The Rest Of The Data & Business Process Services Stocks",
-                "url": "https://finance.yahoo.com/news/winners-losers-q4-adp-nasdaq-090658806.html"
-            },
-            {
-                "headline": "The end of the earnings season is always a good time to take a step back and see who shined (and who not so much). Let\u2019s take a look at how data & business process services stocks fared in Q4, starting with ADP (NASDAQ:ADP).",
-                "publication_date": "2025-03-28T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4404",
-                "source": "StockStory",
-                "ticker": "DNB",
-                "title": "Winners And Losers Of Q4: ADP (NASDAQ:ADP) Vs The Rest Of The Data & Business Process Services Stocks",
-                "url": "https://finance.yahoo.com/news/winners-losers-q4-adp-nasdaq-090658806.html"
-            }
-        ],
-        "avgScore": 0.4404
-    },
-    "3 25 2025": {
+    "3 26 2025": {
         "importantArticles": [
             {
                 "headline": "Stock index futures are experiencing a notable surge, reflecting renewed investor optimism, primarily driven by reports suggesting that the U.S. administration may reduce the scope of proposed tariffs, potentially excluding certain sectors. Such developments have bolstered market sentiment, leading to premarket gains across major indices. \u200b In the commodities market, oil prices have experienced a slight decline as investors closely monitor ongoing ceasefire talks between Russia and Ukraine. The",
-                "publication_date": "2025-03-25T00:00:00.000Z",
+                "publication_date": "2025-03-26T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.7906",
                 "source": "TipRanks",
@@ -278,7 +233,7 @@
             },
             {
                 "headline": "The end of an earnings season can be a great time to discover new stocks and assess how companies are handling the current business environment. Let\u2019s take a look at how Planet Labs (NYSE:PL) and the rest of the data & business process services stocks fared in Q4.",
-                "publication_date": "2025-03-25T00:00:00.000Z",
+                "publication_date": "2025-03-26T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.6249",
                 "source": "StockStory",
@@ -288,7 +243,7 @@
             },
             {
                 "headline": "The end of an earnings season can be a great time to discover new stocks and assess how companies are handling the current business environment. Let\u2019s take a look at how Planet Labs (NYSE:PL) and the rest of the data & business process services stocks fared in Q4.",
-                "publication_date": "2025-03-25T00:00:00.000Z",
+                "publication_date": "2025-03-26T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.6249",
                 "source": "StockStory",
@@ -298,7 +253,7 @@
             },
             {
                 "headline": "Stock index futures are experiencing a notable surge, reflecting renewed investor optimism, primarily driven by reports suggesting that the U.S. administration may reduce the scope of proposed tariffs, potentially excluding certain sectors. Such developments have bolstered market sentiment, leading to premarket gains across major indices. \u200b In the commodities market, oil prices have experienced a slight decline as investors closely monitor ongoing ceasefire talks between Russia and Ukraine. The",
-                "publication_date": "2025-03-25T00:00:00.000Z",
+                "publication_date": "2025-03-26T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.7906",
                 "source": "TipRanks",
@@ -309,11 +264,11 @@
         ],
         "avgScore": 0.70775
     },
-    "3 24 2025": {
+    "3 25 2025": {
         "importantArticles": [
             {
                 "headline": "Dun & Bradstreet has agreed to be acquired by private-equity firm Clearlake Capital for $4.1 billion, the data and analytics provider said on Monday, putting an end to its second stint as a public company after its stock-market listing more than four years ago.  Its shares are down nearly 30% this year and about 60% since going public in 2020, making it an attractive target for Clearlake.  Analysts have also pointed to its healthy free cash flow and potential for growth in revenue and margins as some of the factors that made it ripe for a takeover.",
-                "publication_date": "2025-03-24T00:00:00.000Z",
+                "publication_date": "2025-03-25T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.93",
                 "source": "Reuters",
@@ -323,7 +278,7 @@
             },
             {
                 "headline": "SANTA MONICA, Calif. & JACKSONVILLE, Fla., March 24, 2025--Clearlake Capital Group, L.P., (together with certain of its affiliates, \"Clearlake\"), today announced that it has entered into a definitive agreement to acquire Dun & Bradstreet Holdings, Inc. (\"Dun & Bradstreet\") (NYSE: DNB), a leading global provider of business decisioning data and analytics, in a transaction valued at $7.7 billion, including outstanding debt / with an equity value of $4.1 billion.",
-                "publication_date": "2025-03-24T00:00:00.000Z",
+                "publication_date": "2025-03-25T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.9022",
                 "source": "Business Wire",
@@ -333,7 +288,7 @@
             },
             {
                 "headline": "Dun & Bradstreet Holdings agreed to be acquired by private equity firm Clearlake Capital Group in a transaction valued at $7.7 billion, including outstanding debt.",
-                "publication_date": "2025-03-24T00:00:00.000Z",
+                "publication_date": "2025-03-25T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.7579",
                 "source": "The Wall Street Journal",
@@ -343,7 +298,7 @@
             },
             {
                 "headline": "(Bloomberg) -- Clearlake Capital Group has lined up $5.75 billion of debt financing to help pay for its planned acquisition of data and analytics provider Dun & Bradstreet Holdings Inc., according to a securities filing on Monday.Most Read from BloombergThey Built a Secret Apartment in a Mall. Now the Mall Is Dying.Why Did the Government Declare War on My Adorable Tiny Truck?Chicago Transit Faces \u2018Doomsday Scenario,\u2019 Regional Agency SaysLA Faces $1 Billion Budget Hole, Warns of Thousands of Layo",
-                "publication_date": "2025-03-24T00:00:00.000Z",
+                "publication_date": "2025-03-25T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "-0.0258",
                 "source": "Bloomberg",
@@ -353,7 +308,7 @@
             },
             {
                 "headline": "(Bloomberg) -- Clearlake Capital Group has agreed to acquire Dun & Bradstreet Holdings Inc. in a deal that values one of Wall Street\u2019s oldest data and analytics providers at $4.1 billion.Most Read from BloombergThey Built a Secret Apartment in a Mall. Now the Mall Is Dying.Why Did the Government Declare War on My Adorable Tiny Truck?Chicago Transit Faces \u2018Doomsday Scenario,\u2019 Regional Agency SaysLA Faces $1 Billion Budget Hole, Warns of Thousands of LayoffsLibraries Warn They Could Be \u2018Cut off at",
-                "publication_date": "2025-03-24T00:00:00.000Z",
+                "publication_date": "2025-03-25T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.3182",
                 "source": "Bloomberg",
@@ -363,7 +318,7 @@
             },
             {
                 "headline": "Dun & Bradstreet Holdings agreed to be acquired by private equity firm Clearlake Capital Group in a transaction valued at $7.7 billion, including outstanding debt.",
-                "publication_date": "2025-03-24T00:00:00.000Z",
+                "publication_date": "2025-03-25T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.7579",
                 "source": "The Wall Street Journal",
@@ -374,36 +329,11 @@
         ],
         "avgScore": 0.5765
     },
-    "3 21 2025": {
-        "importantArticles": [
-            {
-                "headline": "(Bloomberg) -- Clearlake Capital Group is nearing an acquisition of Dun & Bradstreet Holdings Inc. in a deal that would value one of Wall Street\u2019s oldest data and analytics providers at about $4 billion, people familiar with the matter said. Most Read from BloombergThey Built a Secret Apartment in a Mall. Now the Mall Is Dying.Chicago Transit Faces \u2018Doomsday Scenario,\u2019 Regional Agency SaysLA Faces $1 Billion Budget Hole, Warns of Thousands of LayoffsNew York Subway Ditches MetroCard After 32 Yea",
-                "publication_date": "2025-03-21T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.2732",
-                "source": "Bloomberg",
-                "ticker": "DNB",
-                "title": "Clearlake Is Nearing $4 Billion Deal for Dun & Bradstreet",
-                "url": "https://finance.yahoo.com/news/clearlake-nearing-4-billion-deal-182426341.html"
-            },
-            {
-                "headline": "(Bloomberg) -- Clearlake Capital Group is nearing an acquisition of Dun & Bradstreet Holdings Inc. in a deal that would value one of Wall Street\u2019s oldest data and analytics providers at about $4 billion, people familiar with the matter said. Most Read from BloombergThey Built a Secret Apartment in a Mall. Now the Mall Is Dying.Chicago Transit Faces \u2018Doomsday Scenario,\u2019 Regional Agency SaysLA Faces $1 Billion Budget Hole, Warns of Thousands of LayoffsNew York Subway Ditches MetroCard After 32 Yea",
-                "publication_date": "2025-03-21T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.2732",
-                "source": "Bloomberg",
-                "ticker": "DNB",
-                "title": "Clearlake Is Nearing $4 Billion Deal for Dun & Bradstreet",
-                "url": "https://finance.yahoo.com/news/clearlake-nearing-4-billion-deal-182426341.html"
-            }
-        ],
-        "avgScore": 0.2732
-    },
-    "3 19 2025": {
+    "3 20 2025": {
         "importantArticles": [
             {
                 "headline": "Small-cap stocks can be incredibly lucrative investments because their lack of analyst coverage leads to frequent mispricings. However, these businesses (and their stock prices) often stay small because their subscale operations make it harder to expand their competitive moats.",
-                "publication_date": "2025-03-19T00:00:00.000Z",
+                "publication_date": "2025-03-20T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.1779",
                 "source": "StockStory",
@@ -413,7 +343,7 @@
             },
             {
                 "headline": "Small-cap stocks can be incredibly lucrative investments because their lack of analyst coverage leads to frequent mispricings. However, these businesses (and their stock prices) often stay small because their subscale operations make it harder to expand their competitive moats.",
-                "publication_date": "2025-03-19T00:00:00.000Z",
+                "publication_date": "2025-03-20T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.1779",
                 "source": "StockStory",
@@ -424,12 +354,37 @@
         ],
         "avgScore": 0.1779
     },
-    "coef": -0.013869959038576213,
-    "avgCoef": 0.020031859039376133,
+    "3 19 2025": {
+        "importantArticles": [
+            {
+                "headline": "As the Q4 earnings season wraps, let\u2019s dig into this quarter\u2019s best and worst performers in the data & business process services industry, including EXL (NASDAQ:EXLS) and its peers.",
+                "publication_date": "2025-03-19T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0258",
+                "source": "StockStory",
+                "ticker": "DNB",
+                "title": "Q4 Rundown: EXL (NASDAQ:EXLS) Vs Other Data & Business Process Services Stocks",
+                "url": "https://finance.yahoo.com/news/q4-rundown-exl-nasdaq-exls-090305931.html"
+            },
+            {
+                "headline": "As the Q4 earnings season wraps, let\u2019s dig into this quarter\u2019s best and worst performers in the data & business process services industry, including EXL (NASDAQ:EXLS) and its peers.",
+                "publication_date": "2025-03-19T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0258",
+                "source": "StockStory",
+                "ticker": "DNB",
+                "title": "Q4 Rundown: EXL (NASDAQ:EXLS) Vs Other Data & Business Process Services Stocks",
+                "url": "https://finance.yahoo.com/news/q4-rundown-exl-nasdaq-exls-090305931.html"
+            }
+        ],
+        "avgScore": 0.0258
+    },
+    "coef": 0.201066018974522,
+    "avgCoef": 0.017087153589724544,
     "similar": {
-        "CMCSA": 0.45430931643573735,
-        "RIVN": 0.4099864562956654,
-        "CSCO": 0.38505484746687496,
-        "CNH": 0.32134073601552154
+        "GRAB": 0.5538134206842098,
+        "PBR": 0.5326485765816286,
+        "CVS": 0.518538680513241,
+        "HTZ": 0.5114837324790473
     }
 }

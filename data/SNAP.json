@@ -914,57 +914,12 @@
         ],
         "avgScore": 0.07235
     },
-    "3 18 2025": {
-        "importantArticles": [
-            {
-                "headline": "Why Snap, Unity, Xreal, and Texas A&M University are among Fast Company\u2019s Most Innovative Companies in augmented and virtual reality for 2025.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4927",
-                "source": "FastCompany",
-                "ticker": "SNAP",
-                "title": "The 10 most innovative augmented and virtual reality companies of 2025",
-                "url": "https://finance.yahoo.com/news/10-most-innovative-augmented-virtual-110000145.html"
-            },
-            {
-                "headline": "Snapchatters are highly\u00a0engaged with film and TV content.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4576",
-                "source": "Social Media Today",
-                "ticker": "SNAP",
-                "title": "Snapchat Shares Insights Into How To Connect With Film and TV Fans in the App",
-                "url": "https://finance.yahoo.com/news/snapchat-shares-insights-connect-film-144513420.html"
-            },
-            {
-                "headline": "Snapchatters are highly\u00a0engaged with film and TV content.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4576",
-                "source": "Social Media Today",
-                "ticker": "SNAP",
-                "title": "Snapchat Shares Insights Into How To Connect With Film and TV Fans in the App",
-                "url": "https://finance.yahoo.com/news/snapchat-shares-insights-connect-film-144513420.html"
-            },
-            {
-                "headline": "Why Snap, Unity, Xreal, and Texas A&M University are among Fast Company\u2019s Most Innovative Companies in augmented and virtual reality for 2025.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4927",
-                "source": "FastCompany",
-                "ticker": "SNAP",
-                "title": "The 10 most innovative augmented and virtual reality companies of 2025",
-                "url": "https://finance.yahoo.com/news/10-most-innovative-augmented-virtual-110000145.html"
-            }
-        ],
-        "avgScore": 0.47515
-    },
-    "coef": 0.2439761802968485,
-    "avgCoef": 0.032023306640368454,
+    "coef": 0.20738169109598012,
+    "avgCoef": 0.024344691568967073,
     "similar": {
-        "TSLA": 0.4472896638775556,
-        "LYG": 0.43825350905174637,
-        "ADT": 0.4337354316388418,
-        "AUR": 0.4262053026173341
+        "LYG": 0.4393679896101273,
+        "TSLA": 0.40949096631663867,
+        "CLF": 0.40949096631663867,
+        "AUR": 0.40421855044131716
     }
 }

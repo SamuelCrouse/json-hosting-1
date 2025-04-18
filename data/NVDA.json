@@ -22,14 +22,14 @@
                 "url": "https://finance.yahoo.com/news/nvidia-ceo-jensen-huang-arrived-073924556.html"
             },
             {
-                "headline": "(Reuters) -Wall Street stocks ended mixed on Thursday, lifted by Eli Lilly and Apple, as\u00a0investors weighed progress in U.S. trade negotiations with Japan against concerns about the interest rate\u00a0outlook.  Traders leaned toward optimism following U.S. President Donald Trump's comments about \"big progress\" in the bilateral talks after Wednesday's steep selloff.  Trump also told reporters he expects to make a trade deal with China, although he offered no indication of how talks would get underway with the two superpowers at an apparent impasse.",
+                "headline": "The risk-to-reward is starting to look favorable to invest in Super Micro Computer's (SMCI) stock again thanks to the company's continued expansion in the AI realm.",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.872",
-                "source": "Reuters",
+                "source": "Zacks",
                 "ticker": "NVDA",
-                "title": "Wall Street choppy as Eli Lilly jumps, UnitedHealth plummets",
-                "url": "https://finance.yahoo.com/news/us-stock-futures-bounce-back-100015027.html"
+                "title": "Super Micro Computer (SMCI) Stock Upgraded to a Zacks Rank #1 (Strong Buy)",
+                "url": "https://finance.yahoo.com/news/super-micro-computer-smci-stock-011700018.html"
             },
             {
                 "headline": "Stocks wrapped up another volatile week with a mixed day as the global trade war remains top of mind and tensions rose between the Trump administration and the Federal Reserve.  The S&P 500 ticked up 0.1%, while the Nasdaq slipped 0.1%.  The Dow Jones Industrial Average was an outlier, falling 1.3%, or 527 points, after disappointing results from  UnitedHealth  UnitedHealth\u2019s share price, which dropped by $130.93, or 22%, has an outsize effect on the price-weighted Dow index.",
@@ -62,20 +62,10 @@
                 "url": "https://finance.yahoo.com/news/nvidia-amd-see-charges-due-160543145.html"
             }
         ],
-        "avgScore": 0.06276874999999993
+        "avgScore": 0.04390769230769229
     },
     "4 16 2025": {
         "importantArticles": [
-            {
-                "headline": "Recent market volatility has raised anxiety for some investors, but these are the best opportunities to buy shares of the best growth stocks.  The stocks of growing companies will continue to hit new highs over many years.  You just have to maintain a cool attitude toward market swings and realize that the traders on Wall Street hitting the sell button on negative news are not investing for the long term.",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.9674",
-                "source": "Motley Fool",
-                "ticker": "NVDA",
-                "title": "2 Growth Stocks Down 27% or More to Buy Right Now",
-                "url": "https://finance.yahoo.com/news/2-growth-stocks-down-27-083700946.html"
-            },
             {
                 "headline": "Artificial intelligence services at their heart are massive data plays: You need data \u2014 a lot of it \u2014 to build the models, and then the models need efficient ways to ingest and output data to work. A company called Hammerspace has built a system to help AI and other organizations tap into data troves with minimal heavy lifting, and it\u2019s been seeing impressive adoption. Now, with customers including Meta and the Department of Defense, as well as other very recognizable names, Hammerspace is annou",
                 "publication_date": "2025-04-16T00:00:00.000Z",
@@ -95,6 +85,16 @@
                 "ticker": "NVDA",
                 "title": "Reverse Stock-Split Watch: Is Intel Next?",
                 "url": "https://finance.yahoo.com/news/reverse-stock-split-watch-intel-130600394.html"
+            },
+            {
+                "headline": "Advanced Micro Devices (NASDAQ: AMD) supplies some of the world's best semiconductors, including a growing portfolio of chips specifically designed to handle artificial intelligence (AI) workloads in data centers and personal computers.  Investors can expect to learn more about the company's progress, and perhaps even receive an updated forecast from CEO Lisa Su regarding AI chip sales for 2025.  AMD launched its MI300X AI graphics processing unit (GPU) for the data center in late 2023.",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9231",
+                "source": "Motley Fool",
+                "ticker": "NVDA",
+                "title": "Should You Buy Advanced Micro Devices (AMD) Stock Before May 6?",
+                "url": "https://finance.yahoo.com/news/buy-advanced-micro-devices-amd-093200563.html"
             },
             {
                 "headline": "US-China trade war tensions drag US stocks lower after Nvidia (NVDA) reported restrictions on exports to China would cost the chipmaker $5.5 billion. CFRA Research chief investment strategist Sam Stovall joins Morning Brief with Madison Mills and Brad Smith to discuss what the uncertainty means for first quarter earnings and chipmakers' outlooks. To watch more expert insights and analysis on the latest market action, check out more Morning Brief here.",
@@ -127,10 +127,10 @@
                 "url": "https://finance.yahoo.com/news/stock-market-today-stocks-slide-095909363.html"
             }
         ],
-        "avgScore": 0.024924793388429758
+        "avgScore": 0.03131666666666667
     },
     "coef": 0.9999999999999999,
-    "avgCoef": 0.017722806710619425,
+    "avgCoef": 0.021824140806841304,
     "similar": {
         "NVDA": 0.9999999999999999,
         "INTC": 0.9999999999999999,

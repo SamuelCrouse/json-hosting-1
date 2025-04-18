@@ -372,16 +372,6 @@
     "4 9 2025": {
         "importantArticles": [
             {
-                "headline": "- Investors are officially on a bear market watch. - The S&P 500 is now knocking on the door of bear market territory. - The Nasdaq-100 closed down more than 20% from its recent high.",
-                "publication_date": "2025-04-09T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "etf.com",
-                "ticker": "SPY",
-                "title": "QQQ Close Confirms Bear Market; SPY Nears Its Own",
-                "url": "https://finance.yahoo.com/news/qqq-close-confirms-bear-market-004500726.html"
-            },
-            {
                 "headline": "Investors are digesting tariff whiplash after the White House confirmed plans to levy 104% tariffs on China, set to go into effect at 12:01am ET.",
                 "publication_date": "2025-04-09T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -400,6 +390,16 @@
                 "ticker": "SPY",
                 "title": "US stocks stage historic rally as Trump's 90-day pause takes worst case scenario 'off the table'",
                 "url": "https://finance.yahoo.com/news/us-stocks-stage-historic-rally-as-trumps-90-day-pause-takes-worst-case-scenario-off-the-table-203145671.html"
+            },
+            {
+                "headline": "Bear market and recession buzz are strong on Wall Street these days. Should you fear these?",
+                "publication_date": "2025-04-09T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.4019",
+                "source": "Zacks",
+                "ticker": "SPY",
+                "title": "Should You Fear a Bear Market & Recession? ETFs in Focus",
+                "url": "https://finance.yahoo.com/news/fear-bear-market-recession-etfs-170000802.html"
             },
             {
                 "headline": "- Equities extended their losing streak as VOO, SPY hit bear market territory intraday. - Bond ETFs also dropped as Trump threatens more China tariffs. - Recession and interest rate hike fears pushed investors into buffer ETFs: Innovator. - NOTE: Clarifies seventh paragraph to say around $850 million in buffer ETFs were traded on Friday.",
@@ -432,7 +432,7 @@
                 "url": "https://finance.yahoo.com/news/us-stocks-stage-historic-rally-as-trumps-90-day-pause-takes-worst-case-scenario-off-the-table-203145671.html"
             }
         ],
-        "avgScore": -0.30720000000000003
+        "avgScore": -0.384
     },
     "4 8 2025": {
         "importantArticles": [
@@ -447,6 +447,16 @@
                 "url": "https://finance.yahoo.com/news/spy-gains-big-9-4-220000581.html"
             },
             {
+                "headline": "- Investors are officially on a bear market watch. - The S&P 500 is now knocking on the door of bear market territory. - The Nasdaq-100 closed down more than 20% from its recent high.",
+                "publication_date": "2025-04-08T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "etf.com",
+                "ticker": "SPY",
+                "title": "QQQ Close Confirms Bear Market; SPY Nears Its Own",
+                "url": "https://finance.yahoo.com/news/qqq-close-confirms-bear-market-004500726.html"
+            },
+            {
                 "headline": "A stock market rally evaporated on Tuesday as the White House announced further tariffs on China.",
                 "publication_date": "2025-04-08T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -455,16 +465,6 @@
                 "ticker": "SPY",
                 "title": "Trump's China tariffs send stocks tumbling as 'FOMO' rally fades, S&P 500 closes at lowest level in a year",
                 "url": "https://finance.yahoo.com/news/trumps-china-tariffs-send-stocks-tumbling-as-fomo-rally-fades-sp-500-closes-at-lowest-level-in-a-year-203506681.html"
-            },
-            {
-                "headline": "Trump's tariffs have sent shockwaves through markets amid one of the largest three-day crashes since World War II.",
-                "publication_date": "2025-04-08T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.5994",
-                "source": "Yahoo Finance",
-                "ticker": "SPY",
-                "title": "8 charts show the dramatic fallout from Trump\u2019s 'Liberation Day' announcement",
-                "url": "https://finance.yahoo.com/news/8-charts-show-the-dramatic-fallout-from-trumps-liberation-day-announcement-080053892.html"
             },
             {
                 "headline": "The largest difference between this shock and the one that came with the pandemic is that the president has a potential \"off\" switch for the chaos this time.",
@@ -497,7 +497,7 @@
                 "url": "https://finance.yahoo.com/news/8-charts-show-the-dramatic-fallout-from-trumps-liberation-day-announcement-080053892.html"
             }
         ],
-        "avgScore": -0.24620000000000003
+        "avgScore": -0.2051666666666667
     },
     "4 7 2025": {
         "importantArticles": [
@@ -1309,77 +1309,12 @@
         ],
         "avgScore": 0.2787
     },
-    "3 18 2025": {
-        "importantArticles": [
-            {
-                "headline": "Wall Street is debating whether the sell-off marked a bottom for stocks as the Fed holds its policy meeting.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Yahoo Finance",
-                "ticker": "SPY",
-                "title": "Stock market today: Nasdaq leads stocks lower, Nvidia falls over 3% as tech rout resumes ahead of Fed decision",
-                "url": "https://finance.yahoo.com/news/live/stock-market-today-nasdaq-leads-stocks-lower-nvidia-falls-over-3-as-tech-rout-resumes-ahead-of-fed-decision-200344705.html"
-            },
-            {
-                "headline": "ETFs pulled in $22.3 billion in capital last week, with VOO and SPY leading the way.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "SPY",
-                "title": "Big ETF Inflows of Last Week: VOO, SPY and More",
-                "url": "https://finance.yahoo.com/news/big-etf-inflows-last-week-141500903.html"
-            },
-            {
-                "headline": "The Magnificent Seven stocks are having their worst quarter in more than two years \u2014 and are dragging down the S&P 500 with them.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.0516",
-                "source": "Yahoo Finance",
-                "ticker": "SPY",
-                "title": "The 'Magnificent 7' stocks are having their worst quarter in more than 2 years",
-                "url": "https://finance.yahoo.com/news/the-magnificent-7-stocks-are-having-their-worst-quarter-in-more-than-2-years-190335944.html"
-            },
-            {
-                "headline": "Investors' bullish stance on US stocks has reversed as concerns over a global trade war have driven equities lower.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.7269",
-                "source": "Yahoo Finance",
-                "ticker": "SPY",
-                "title": "Investors ditch US stocks in 'bull crash': Bank of America",
-                "url": "https://finance.yahoo.com/news/investors-ditch-us-stocks-in-bull-crash-bank-of-america-151019981.html"
-            },
-            {
-                "headline": "The Magnificent Seven stocks are having their worst quarter in more than two years \u2014 and are dragging down the S&P 500 with them.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.0516",
-                "source": "Yahoo Finance",
-                "ticker": "SPY",
-                "title": "The 'Magnificent 7' stocks are having their worst quarter in more than 2 years",
-                "url": "https://finance.yahoo.com/news/the-magnificent-7-stocks-are-having-their-worst-quarter-in-more-than-2-years-190335944.html"
-            },
-            {
-                "headline": "ETFs pulled in $22.3 billion in capital last week, with VOO and SPY leading the way.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "SPY",
-                "title": "Big ETF Inflows of Last Week: VOO, SPY and More",
-                "url": "https://finance.yahoo.com/news/big-etf-inflows-last-week-141500903.html"
-            }
-        ],
-        "avgScore": -0.194625
-    },
-    "coef": 0.07066963398347265,
-    "avgCoef": 0.017149536677412938,
+    "coef": 0.13103643561218437,
+    "avgCoef": 0.021341206393811606,
     "similar": {
-        "BBD": 0.4016312407315867,
-        "INTC": 0.39733136869029373,
-        "ITUB": 0.3774097874443895,
-        "SNAP": 0.35186559018344427
+        "SNAP": 0.45919233686511157,
+        "BBD": 0.45395480225988705,
+        "ITUB": 0.4093220338983051,
+        "INTC": 0.3671279446031027
     }
 }

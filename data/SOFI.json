@@ -919,77 +919,12 @@
         ],
         "avgScore": 0.47965
     },
-    "3 18 2025": {
-        "importantArticles": [
-            {
-                "headline": "We recently compiled a list of the 20 Best Fintech Stocks to Buy According to Billionaires. In this article, we are going to take a look at where SoFi Technologies, Inc. (NASDAQ:SOFI) stands against the other best fintech stocks. Tech stocks have faced challenges lately, and fintech companies have been hit particularly hard. On March [\u2026]",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8405",
-                "source": "Insider Monkey",
-                "ticker": "SOFI",
-                "title": "SoFi Technologies (SOFI): Among the Best Fintech Stocks to Buy According to Billionaires",
-                "url": "https://finance.yahoo.com/news/sofi-technologies-sofi-among-best-195546358.html"
-            },
-            {
-                "headline": "SoFi Technologies (NasdaqGS:SOFI) saw a notable price movement with its stock increasing by 10% over the past week, which coincides with the finalization of an agreement for a $5 billion Loan Platform Business with Blue Owl Capital. This agreement represents the company's largest Loan Platform Business deal to date, highlighting an expansion in its personal loan offerings and a move towards less capital-intensive, fee-based income streams. In contrast, major indices, including the Dow Jones,...",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7506",
-                "source": "Simply Wall St.",
-                "ticker": "SOFI",
-                "title": "SoFi Technologies (NasdaqGS:SOFI) Up 10% As It Seals US$5 Billion Deal With Blue Owl Capital",
-                "url": "https://finance.yahoo.com/news/sofi-technologies-nasdaqgs-sofi-10-180932381.html"
-            },
-            {
-                "headline": "The Wall Street veteran turns heads with rebooted stock prices.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "TheStreet",
-                "ticker": "SOFI",
-                "title": "Veteran trader makes bold move on Palantir, Rocket Lab and SoFi",
-                "url": "https://finance.yahoo.com/news/veteran-trader-makes-bold-move-180300141.html"
-            },
-            {
-                "headline": "The Wall Street veteran turns heads with rebooted stock prices.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "TheStreet",
-                "ticker": "SOFI",
-                "title": "Veteran trader makes bold move on Palantir, Rocket Lab and SoFi",
-                "url": "https://finance.yahoo.com/news/veteran-trader-makes-bold-move-180300141.html"
-            },
-            {
-                "headline": "SoFi Technologies (NasdaqGS:SOFI) saw a notable price movement with its stock increasing by 10% over the past week, which coincides with the finalization of an agreement for a $5 billion Loan Platform Business with Blue Owl Capital. This agreement represents the company's largest Loan Platform Business deal to date, highlighting an expansion in its personal loan offerings and a move towards less capital-intensive, fee-based income streams. In contrast, major indices, including the Dow Jones,...",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7506",
-                "source": "Simply Wall St.",
-                "ticker": "SOFI",
-                "title": "SoFi Technologies (NasdaqGS:SOFI) Up 10% As It Seals US$5 Billion Deal With Blue Owl Capital",
-                "url": "https://finance.yahoo.com/news/sofi-technologies-nasdaqgs-sofi-10-180932381.html"
-            },
-            {
-                "headline": "We recently compiled a list of the 20 Best Fintech Stocks to Buy According to Billionaires. In this article, we are going to take a look at where SoFi Technologies, Inc. (NASDAQ:SOFI) stands against the other best fintech stocks. Tech stocks have faced challenges lately, and fintech companies have been hit particularly hard. On March [\u2026]",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8405",
-                "source": "Insider Monkey",
-                "ticker": "SOFI",
-                "title": "SoFi Technologies (SOFI): Among the Best Fintech Stocks to Buy According to Billionaires",
-                "url": "https://finance.yahoo.com/news/sofi-technologies-sofi-among-best-195546358.html"
-            }
-        ],
-        "avgScore": 0.5303666666666667
-    },
-    "coef": 0.1974025974025974,
-    "avgCoef": 0.03058522690254447,
+    "coef": 0.20150375939849624,
+    "avgCoef": 0.02355712839227304,
     "similar": {
-        "CNH": 0.5012987012987012,
-        "MU": 0.4831168831168831,
-        "CSCO": 0.4194805194805195,
-        "RIVN": 0.4142857142857143
+        "CNH": 0.512781954887218,
+        "MU": 0.4796992481203006,
+        "CSCO": 0.44060150375939844,
+        "RIVN": 0.42105263157894735
     }
 }

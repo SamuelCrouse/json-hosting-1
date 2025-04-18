@@ -379,7 +379,7 @@
                 "source": "Reuters",
                 "ticker": "NKE",
                 "title": "Britain's JD Sports backs Nike strategy, says relationship good",
-                "url": "https://finance.yahoo.com/news/britains-jd-sports-backs-nike-164036730.html"
+                "url": "https://finance.yahoo.com/news/britains-jd-sports-backs-nike-164036120.html"
             },
             {
                 "headline": "The sneaker business illustrates how Trump's tariffs on imports will raise costs for businesses and consumers while generating no new American jobs, for a net loss to the US economy.",
@@ -607,7 +607,7 @@
                 "url": "https://finance.yahoo.com/m/95c1ed1a-dca0-389b-ab9d-e7acf65a34f2/the-score-nike-apple-.html"
             }
         ],
-        "avgScore": 0.09591904761904764
+        "avgScore": 0.06947000000000003
     },
     "4 3 2025": {
         "importantArticles": [
@@ -622,6 +622,16 @@
                 "url": "https://finance.yahoo.com/news/latest-news-e-commerce-navigating-120736393.html"
             },
             {
+                "headline": "Nike shares plunged Thursday amid concerns the Trump administration\u2019s recently announced reciprocal tariffs could weigh on the company's profits. Monitor these key levels on the monthly chart.",
+                "publication_date": "2025-04-03T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6249",
+                "source": "Investopedia",
+                "ticker": "NKE",
+                "title": "Watch These Nike Price Levels as Stock Plunges to 7-Year Low on Tariff Worries",
+                "url": "https://finance.yahoo.com/news/watch-nike-price-levels-stock-023156932.html"
+            },
+            {
                 "headline": "Investors weren\u2019t happy with President Donald Trump\u2019s reciprocal tariffs, sending stocks plunging. The S&P 500 fell 4% at 10:14 a.m., the Nasdaq composite declined 5%, and the Dow Jones Industrial Average slid 3.7%, or 1,556 points.",
                 "publication_date": "2025-04-03T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -630,16 +640,6 @@
                 "ticker": "NKE",
                 "title": "The Magnificent 7, GM, Nike, Lululemon, Deckers, PDD: Stocks in motion today",
                 "url": "https://finance.yahoo.com/news/mag-7-nike-lululemon-deckers-115800242.html"
-            },
-            {
-                "headline": "(Bloomberg) -- The world\u2019s 500 richest people saw their combined wealth plunge by $208 billion Thursday as broad tariffs announced by President Donald Trump sent global markets into a tailspin. Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Would \u2018Transportation Abundance\u2019 Look Li",
-                "publication_date": "2025-04-03T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.5106",
-                "source": "Bloomberg",
-                "ticker": "NKE",
-                "title": "Billionaires Lose Combined $208 Billion in One Day From Trump Tariffs",
-                "url": "https://finance.yahoo.com/news/billionaires-lose-combined-208-billion-212223804.html"
             },
             {
                 "headline": "At his \"Liberation Day\" spectacle at the White House Wednesday afternoon, Trump revealed a baseline tariff rate of 10% on countries that will go into effect on April 5.Additional tariffs will be added for some countries that the administration considers to be the worst offenders. Some of those alleged worst offenders are important sourcing and business regions for many large US companies such as Apple (AAPL), Nike (NKE), and Walmart (WMT). China, for example, will see an estimated reciprocal tariff of 34%. Vietnam at 32%. Japan is at 24%. The news has hit stocks, with Dow Jones Industrial Average futures down about 1,200 points, or nearly 3% (YM=F). S&P 500 futures are down 3.5% (ES=F), and Nasdaq futures are off by 3.8% (NQ=F). Japan\u2019s Nikkei (^N225) and Hong Kong\u2019s Hang Seng Index (^HSI) have also registered significant losses. Here\u2019s the hot analysis investors need to know right now:First, retail stocks are getting battered. Walmart, Nike, and Under Armour (UAA, UA) are getting slammed as steep tariffs on China could hammer profits. Nike, for example, relies on China and Vietnam for 55% of its sourcing. Stifel analyst Jim Duffy estimates Nike could see $1.69 a share in earnings wiped out this year because of tariffs. Next up, Apple is going to have a rough day: Morgan Stanley estimates that the tariffs on iPhones and other devices from China will increase Apple\u2019s annual costs by a whopping $8.5 billion. That could hit Apple\u2019s profits by 52 cents next year. Brutal. And lastly, the technical takedown: Market technicians are locked in on the S&P 500\u2019s March 13 closing low of 5,527.50. At this moment, the S&P 500 (^GSPC) is poised to test that low. A break through below the March lows intraday coupled with a new closing low could really damage sentiment further pros warn. RBC strategist Lori Calvasina says the S&P 500 has a clear shot to 4,900 if that low is breached. For more expert insight and the latest market action, click here.",
@@ -672,7 +672,7 @@
                 "url": "https://finance.yahoo.com/m/7b7cdbfc-8e60-3a5e-9cc5-d65069523d47/u-s-retailers-exposed-to.html"
             }
         ],
-        "avgScore": -0.06810370370370371
+        "avgScore": -0.0433535714285714
     },
     "4 2 2025": {
         "importantArticles": [
@@ -1264,12 +1264,12 @@
         ],
         "avgScore": 0.28337142857142855
     },
-    "coef": 0.1155844155844156,
-    "avgCoef": 0.035937812674559075,
+    "coef": 0.14025974025974028,
+    "avgCoef": 0.024641908130398592,
     "similar": {
-        "ERIC": 0.5636363636363637,
-        "CMCSA": 0.5324675324675324,
-        "PTEN": 0.4883116883116883,
-        "TTD": 0.48441558441558447
+        "ERIC": 0.5610389610389611,
+        "CMCSA": 0.5415584415584416,
+        "WBD": 0.4883116883116883,
+        "PTEN": 0.487012987012987
     }
 }

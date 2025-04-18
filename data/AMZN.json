@@ -62,7 +62,7 @@
                 "url": "https://finance.yahoo.com/news/tariff-tsunami-leaves-amazon-stock-124603518.html"
             }
         ],
-        "avgScore": 0.5299727272727274
+        "avgScore": 0.5176250000000001
     },
     "4 16 2025": {
         "importantArticles": [
@@ -322,7 +322,7 @@
                 "url": "https://finance.yahoo.com/news/nasdaq-bear-market-3-no-110000820.html"
             }
         ],
-        "avgScore": 0.07993750000000001
+        "avgScore": 0.06863043478260872
     },
     "4 10 2025": {
         "importantArticles": [
@@ -344,7 +344,7 @@
                 "source": "Reuters",
                 "ticker": "AMZN",
                 "title": "Amazon CEO sets out AI investment mission in annual shareholder letter",
-                "url": "https://finance.yahoo.com/news/amazon-ceo-sets-ai-investment-110953905.html"
+                "url": "https://finance.yahoo.com/news/amazon-ceo-sets-ai-investment-110953466.html"
             },
             {
                 "headline": "It can be discouraging to see your stocks suddenly drop in value, but stock prices don't always match up with a company's long-term value.  Warren Buffett made his fortune by investing in companies when they were selling at discounted prices to what they were ultimately worth.  History has shown repeatedly that investors get their best returns buying shares of quality companies during bear markets.",
@@ -387,7 +387,7 @@
                 "url": "https://finance.yahoo.com/news/trump-already-slowing-global-trade-090000989.html"
             }
         ],
-        "avgScore": 0.24344901960784315
+        "avgScore": 0.24960980392156862
     },
     "4 9 2025": {
         "importantArticles": [
@@ -452,7 +452,7 @@
                 "url": "https://finance.yahoo.com/news/amazon-already-appears-cutting-back-171100250.html"
             }
         ],
-        "avgScore": 0.15708055555555556
+        "avgScore": 0.15779722222222223
     },
     "4 8 2025": {
         "importantArticles": [
@@ -517,10 +517,10 @@
                 "url": "https://finance.yahoo.com/news/jpmorgan-cuts-price-targets-many-163010128.html"
             }
         ],
-        "avgScore": 0.39998124999999995
+        "avgScore": 0.3633625
     },
     "coef": 0.28571428571428575,
-    "avgCoef": 0.032168964903673776,
+    "avgCoef": 0.02358993768824023,
     "similar": {
         "TTD": 0.880952380952381,
         "SNAP": 0.7619047619047621,

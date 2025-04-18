@@ -119,37 +119,12 @@
         ],
         "avgScore": 0.3818
     },
-    "3 18 2025": {
-        "importantArticles": [
-            {
-                "headline": "We recently published a list of 12 Most Shorted Stocks in 2025. In this article, we are going to take a look at where Riot Platforms, Inc. (NASDAQ:RIOT) stands against other shorted stocks in 2025. Reuters reported that President Trump\u2019s tariffs have impacted the broader stock markets, weighing on investors\u2019 sentiments, as worries related to [\u2026]",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.7506",
-                "source": "Insider Monkey",
-                "ticker": "RIOT",
-                "title": "Is Riot Platforms (RIOT) One of the Most Shorted Stocks in 2025?",
-                "url": "https://finance.yahoo.com/news/riot-platforms-riot-one-most-214241657.html"
-            },
-            {
-                "headline": "We recently published a list of 12 Most Shorted Stocks in 2025. In this article, we are going to take a look at where Riot Platforms, Inc. (NASDAQ:RIOT) stands against other shorted stocks in 2025. Reuters reported that President Trump\u2019s tariffs have impacted the broader stock markets, weighing on investors\u2019 sentiments, as worries related to [\u2026]",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.7506",
-                "source": "Insider Monkey",
-                "ticker": "RIOT",
-                "title": "Is Riot Platforms (RIOT) One of the Most Shorted Stocks in 2025?",
-                "url": "https://finance.yahoo.com/news/riot-platforms-riot-one-most-214241657.html"
-            }
-        ],
-        "avgScore": -0.7506
-    },
-    "coef": 0.7,
-    "avgCoef": 0.0079264955198833,
+    "coef": 0.7999999999999999,
+    "avgCoef": 0.036189249719588826,
     "similar": {
-        "STLA": 0.8999999999999998,
-        "PCG": 0.8999999999999998,
-        "NVO": 0.7999999999999999,
-        "INFY": 0.7999999999999999
+        "F": 1.0,
+        "AMZN": 1.0,
+        "BAC": 1.0,
+        "HBAN": 1.0
     }
 }

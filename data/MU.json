@@ -987,7 +987,7 @@
                 "url": "https://finance.yahoo.com/news/microns-1b-ai-chip-surge-163555488.html"
             }
         ],
-        "avgScore": 0.21232500000000007
+        "avgScore": 0.22155652173913049
     },
     "3 20 2025": {
         "importantArticles": [
@@ -1052,7 +1052,7 @@
                 "url": "https://finance.yahoo.com/news/citi-lists-key-takeaways-chip-104357443.html"
             }
         ],
-        "avgScore": 0.40508333333333335
+        "avgScore": 0.39937777777777783
     },
     "3 19 2025": {
         "importantArticles": [
@@ -1087,6 +1087,16 @@
                 "url": "https://finance.yahoo.com/news/rising-ai-investments-boost-micron-133000626.html"
             },
             {
+                "headline": "Market Domination Overtime's Julie Hyman and Josh Schafer preview several of the top stories and data to come out on Thursday, March 20. Nike (NKE), FedEx (FDX), Micron Technology (MU), and Darden Restaurants (DRI) are among the companies reporting their latest earnings results tomorrow. Key housing data due out Thursday includes US existing home sales for the month of February. Lastly, Ubisoft will be releasing the long-awaited Assassin's Creed Shadow, the latest installment in the developer's Assassin's Creed game franchise. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime&nbsp;here.",
+                "publication_date": "2025-03-19T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.1027",
+                "source": "Yahoo Finance Video",
+                "ticker": "MU",
+                "title": "Nike earnings, housing data, Assassin's Creed: What to Watch",
+                "url": "https://finance.yahoo.com/video/nike-earnings-housing-data-assassins-230000200.html"
+            },
+            {
                 "headline": "MU's Q2 performance is likely to reflect the benefits of rising investments in AI and strategic partnerships with tech giants.",
                 "publication_date": "2025-03-19T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -1105,91 +1115,16 @@
                 "ticker": "MU",
                 "title": "China's top memory chipmaker YMTC to raise prices, alongside US peers Micron, Sandisk",
                 "url": "https://finance.yahoo.com/news/chinas-top-memory-chipmaker-ymtc-093000147.html"
-            },
-            {
-                "headline": "Micron Technology (NasdaqGS:MU) saw a 14% price increase over the past week, potentially influenced by its groundbreaking product announcements. The company became the first to ship both HBM3E and SOCAMM memory products, designed for AI servers, which could have attracted investor attention. Collaboration with NVIDIA to bolster their AI infrastructure added momentum. This partnership aligns well given the broader tech industry's recent uptick, as seen in Nvidia's modest gains amid the...",
-                "publication_date": "2025-03-19T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8225",
-                "source": "Simply Wall St.",
-                "ticker": "MU",
-                "title": "Micron Technology (NasdaqGS:MU) Unveils World's Fastest AI Memory Solutions In Partnership With NVIDIA",
-                "url": "https://finance.yahoo.com/news/micron-technology-nasdaqgs-mu-unveils-173450586.html"
             }
         ],
-        "avgScore": 0.6687666666666666
+        "avgScore": 0.52725
     },
-    "3 18 2025": {
-        "importantArticles": [
-            {
-                "headline": "MU's Q2 performance is likely to have benefited from strong demand for memory chips used for GPU-enabled AI servers and an improving demand-supply environment.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6808",
-                "source": "Zacks",
-                "ticker": "MU",
-                "title": "Micron Stock Before Q2 Earnings: A Smart Buy or Risky Investment?",
-                "url": "https://finance.yahoo.com/news/micron-stock-q2-earnings-smart-190000658.html"
-            },
-            {
-                "headline": "Micron HBM3E 12H and LPDDR5X-based SOCAMM solutions designed to unlock full potential of AI platformsSAN JOSE, Calif., March 18, 2025 (GLOBE NEWSWIRE) -- GTC 2025 -- Secular growth of AI is built on the foundation of high-performance, high-bandwidth memory solutions. These high-performing memory solutions are critical to unlock the capabilities of GPUs and processors. Micron Technology, Inc. (Nasdaq: MU), today announced it is the world\u2019s first and only memory company shipping both HBM3E and SOC",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.5267",
-                "source": "GlobeNewswire",
-                "ticker": "MU",
-                "title": "Micron Innovates From the Data Center to the Edge With NVIDIA",
-                "url": "https://finance.yahoo.com/news/micron-innovates-data-center-edge-202300069.html"
-            },
-            {
-                "headline": "Verizon and Micron could each eclipse AT&T's market cap by 2027.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Motley Fool",
-                "ticker": "MU",
-                "title": "Prediction: 2 Companies That Will Be Worth More Than AT&T 2 Years From Now",
-                "url": "https://finance.yahoo.com/news/prediction-2-companies-worth-more-082600021.html"
-            },
-            {
-                "headline": "Nvidia faces a threat to its dominance as Qualcomm and Micron make the case for a key AI process to happen on smartphones, not data centers.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.3818",
-                "source": "Barrons.com",
-                "ticker": "MU",
-                "title": "AI Is Moving Out of the Data Center. How Nvidia Wants to Keep Its Edge.",
-                "url": "https://finance.yahoo.com/m/38105b40-4658-3fda-98f5-88b2a2122815/ai-is-moving-out-of-the-data.html"
-            },
-            {
-                "headline": "We recently published a list of Jim Cramer\u2019s Latest Stock Moves: Top 10 Calls. In this article, we are going to take a look at where Micron Technology, Inc. (NASDAQ:MU) stands against other stocks that Jim Cramer discusses. Jim Cramer in a recent program on CNBC expressed his frustration over the recent market selloff following [\u2026]",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.3182",
-                "source": "Insider Monkey",
-                "ticker": "MU",
-                "title": "Jim Cramer Says Micron Technology (MU) to be Under Pressure if Trump \u2018Comes After\u2019 It",
-                "url": "https://finance.yahoo.com/news/jim-cramer-says-micron-technology-194538443.html"
-            },
-            {
-                "headline": "The past few weeks have been rough for technology stocks.  This explains why, at the time of this writing, the Nasdaq-100 Technology Sector index has pulled back 13% in the past month.  Not surprisingly, Micron Technology (NASDAQ: MU), one of the components of the Nasdaq-100 index, has witnessed volatility on the stock market this year.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.2235",
-                "source": "Motley Fool",
-                "ticker": "MU",
-                "title": "Prediction: This Nasdaq Stock Could Start Soaring After March 20",
-                "url": "https://finance.yahoo.com/news/prediction-nasdaq-stock-could-start-170000274.html"
-            }
-        ],
-        "avgScore": 0.015157142857142869
-    },
-    "coef": -0.21038961038961035,
-    "avgCoef": 0.006800652270410941,
+    "coef": -0.23759398496240602,
+    "avgCoef": 0.03614987114151055,
     "similar": {
-        "UNH": 0.696103896103896,
-        "KO": 0.4246753246753247,
-        "IAG": 0.24545454545454545,
-        "ABEV": 0.20785970566885964
+        "UNH": 0.6812030075187969,
+        "KO": 0.4496240601503759,
+        "IAG": 0.27368421052631575,
+        "ABEV": 0.2700263447822197
     }
 }

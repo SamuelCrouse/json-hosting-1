@@ -247,16 +247,6 @@
     "4 7 2025": {
         "importantArticles": [
             {
-                "headline": "Companies with a long history of paying dividends and consistently hiking them remain appealing to income-focused investors. ManpowerGroup, Regions Financial, and Nexstar Media have rewarded shareholders for years and recently announced dividend increases. These companies currently offer dividend yields of around 4%-5%. ManpowerGroup ManpowerGroup (NYSE:MAN) provides workforce solutions and services under the Talent Solutions, Manpower, and Experis brands worldwide. Don't Miss: \u2018Scrolling To UBI",
-                "publication_date": "2025-04-07T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8336",
-                "source": "Benzinga",
-                "ticker": "RF",
-                "title": "Why ManpowerGroup, Regions Financial, And Nexstar MediaAre Winners For Passive Income",
-                "url": "https://finance.yahoo.com/news/why-manpowergroup-regions-financial-nexstar-010046008.html"
-            },
-            {
                 "headline": "BIRMINGHAM, Ala., April 07, 2025--Regions Bank on Monday announced Brandon Greve has been named head of Regions Investment Services, part of the bank\u2019s Wealth Management division. Greve succeeds Jim Nonnengard, who is retiring following a 43-year career in financial services.",
                 "publication_date": "2025-04-07T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -275,19 +265,9 @@
                 "ticker": "RF",
                 "title": "Regions Bank Names Brandon Greve Head of Regions Investment Services; Additional Leadership Promotions Announced",
                 "url": "https://finance.yahoo.com/news/regions-bank-names-brandon-greve-130000833.html"
-            },
-            {
-                "headline": "Companies with a long history of paying dividends and consistently hiking them remain appealing to income-focused investors. ManpowerGroup, Regions Financial, and Nexstar Media have rewarded shareholders for years and recently announced dividend increases. These companies currently offer dividend yields of around 4%-5%. ManpowerGroup ManpowerGroup (NYSE:MAN) provides workforce solutions and services under the Talent Solutions, Manpower, and Experis brands worldwide. Don't Miss: \u2018Scrolling To UBI",
-                "publication_date": "2025-04-07T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8336",
-                "source": "Benzinga",
-                "ticker": "RF",
-                "title": "Why ManpowerGroup, Regions Financial, And Nexstar MediaAre Winners For Passive Income",
-                "url": "https://finance.yahoo.com/news/why-manpowergroup-regions-financial-nexstar-010046008.html"
             }
         ],
-        "avgScore": 0.7921
+        "avgScore": 0.7506
     },
     "4 4 2025": {
         "importantArticles": [
@@ -454,37 +434,12 @@
         ],
         "avgScore": -0.1531
     },
-    "3 18 2025": {
-        "importantArticles": [
-            {
-                "headline": "This scholarship program has fueled the educational dreams of 20,000-plus students. Learn how Regions and a bank associate are supporting its mission. NORTHAMPTON, MA / ACCESS Newswire / March 18, 2025 /By Kim Borges | March 4, 2025 \"We're closing ...",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6808",
-                "source": "ACCESS Newswire",
-                "ticker": "RF",
-                "title": "Growth Fund",
-                "url": "https://finance.yahoo.com/news/growth-fund-153000992.html"
-            },
-            {
-                "headline": "This scholarship program has fueled the educational dreams of 20,000-plus students. Learn how Regions and a bank associate are supporting its mission. NORTHAMPTON, MA / ACCESS Newswire / March 18, 2025 /By Kim Borges | March 4, 2025 \"We're closing ...",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6808",
-                "source": "ACCESS Newswire",
-                "ticker": "RF",
-                "title": "Growth Fund",
-                "url": "https://finance.yahoo.com/news/growth-fund-153000992.html"
-            }
-        ],
-        "avgScore": 0.6808
-    },
-    "coef": 0.16783216783216784,
-    "avgCoef": 0.017138205410535387,
+    "coef": 0.08181818181818183,
+    "avgCoef": 0.03642421444974804,
     "similar": {
-        "GRAB": 0.41958041958041964,
-        "NU": 0.4055944055944056,
-        "UMC": 0.34965034965034975,
-        "MSTR": 0.32867132867132864
+        "NU": 0.3454545454545455,
+        "GRAB": 0.3454545454545455,
+        "UMC": 0.3090909090909091,
+        "NKE": 0.30000000000000004
     }
 }

@@ -154,57 +154,12 @@
         ],
         "avgScore": 0.11799999999999997
     },
-    "3 18 2025": {
-        "importantArticles": [
-            {
-                "headline": "Pfizer will sell about 662 million ordinary shares, or 7.3%, of Haleon, created in a merger of GSK and Pfizer's consumer healthcare businesses in 2019, and spun off in 2022.  Under the deal, the Sensodyne maker has agreed to buy back shares worth $220 million from Pfizer, currently its largest shareholder.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8126",
-                "source": "Reuters",
-                "ticker": "HLN",
-                "title": "Pfizer to sell entire Haleon stake",
-                "url": "https://finance.yahoo.com/news/pfizer-sell-entire-haleon-stake-165448231.html"
-            },
-            {
-                "headline": "Teva Pharmaceutical ADR shows improving price performance, earning an upgrade to its IBD Relative Strength Rating",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7184",
-                "source": "Investor's Business Daily",
-                "ticker": "HLN",
-                "title": "Teva Pharmaceutical Stock Scores RS Rating Upgrade",
-                "url": "https://finance.yahoo.com/m/04de21f0-07dc-3e0d-b449-f61687506067/teva-pharmaceutical-stock.html"
-            },
-            {
-                "headline": "Teva Pharmaceutical ADR shows improving price performance, earning an upgrade to its IBD Relative Strength Rating",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7184",
-                "source": "Investor's Business Daily",
-                "ticker": "HLN",
-                "title": "Teva Pharmaceutical Stock Scores RS Rating Upgrade",
-                "url": "https://finance.yahoo.com/m/04de21f0-07dc-3e0d-b449-f61687506067/teva-pharmaceutical-stock.html"
-            },
-            {
-                "headline": "Pfizer will sell about 662 million ordinary shares, or 7.3%, of Haleon, created in a merger of GSK and Pfizer's consumer healthcare businesses in 2019, and spun off in 2022.  Under the deal, the Sensodyne maker has agreed to buy back shares worth $220 million from Pfizer, currently its largest shareholder.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8126",
-                "source": "Reuters",
-                "ticker": "HLN",
-                "title": "Pfizer to sell entire Haleon stake",
-                "url": "https://finance.yahoo.com/news/pfizer-sell-entire-haleon-stake-165448231.html"
-            }
-        ],
-        "avgScore": 0.7655000000000001
-    },
-    "coef": 0.39999999999999997,
-    "avgCoef": 0.017055963441976924,
+    "coef": -0.5,
+    "avgCoef": 0.03306241894064345,
     "similar": {
+        "NVDA": 1.0,
         "BTG": 1.0,
-        "AGNC": 1.0,
-        "SNAP": 1.0,
-        "NGD": 1.0
+        "BAC": 1.0,
+        "AGNC": 1.0
     }
 }

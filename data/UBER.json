@@ -2,6 +2,16 @@
     "4 17 2025": {
         "importantArticles": [
             {
+                "headline": "(Bloomberg) -- Bill Ackman\u2019s Pershing Square Capital Management has amassed a nearly 20% stake in Hertz Global Holdings Inc. in a bet on the rental car company\u2019s turnaround plan and that tariffs will boost the value of its vehicles.Most Read from BloombergTrump Signs Executive Orders on Federal Purchasing, Office SpaceDOGE Places Entire Staff of Federal Homelessness Agency on LeaveHow Did This Suburb Figure Out Mass Transit?Why the Best Bike Lanes Always Get BlamedTrump Administration Takes Over",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8519",
+                "source": "Bloomberg",
+                "ticker": "UBER",
+                "title": "Bill Ackman Makes Big Bet on Hertz Becoming Tariff Winner",
+                "url": "https://finance.yahoo.com/news/ackman-says-pershing-owns-19-203543846.html"
+            },
+            {
                 "headline": "NEW DELHI (Reuters) -Indian electric cab service BluSmart, seen as a rival to Uber, suspended services on Thursday, two days after the country's market regulator alleged its co-founder misused funds at an affiliate company and bought a luxury apartment with money allocated for electric vehicles.  BluSmart rode India's clean energy boom but its sudden suspension puts the livelihood of thousands of drivers at risk.  With more than 8,000 taxis, it set up charging hubs in cities like New Delhi, Mumbai and Bengaluru to take on Uber and Ola, both ride-hailing services that largely use gasoline-powered fleets.",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -20,16 +30,6 @@
                 "ticker": "UBER",
                 "title": "Bill Ackman confirms nearly 20% stake in Hertz, floats Uber partnership",
                 "url": "https://finance.yahoo.com/news/bill-ackman-confirms-nearly-20-210301088.html"
-            },
-            {
-                "headline": "Finding a business that has the potential to grow substantially is not easy, but it is possible if we look at a few key...",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.2107",
-                "source": "Simply Wall St.",
-                "ticker": "UBER",
-                "title": "Uber Technologies' (NYSE:UBER) Returns On Capital Are Heading Higher",
-                "url": "https://finance.yahoo.com/news/uber-technologies-nyse-uber-returns-140010277.html"
             },
             {
                 "headline": "Finding a business that has the potential to grow substantially is not easy, but it is possible if we look at a few key...",
@@ -62,7 +62,7 @@
                 "url": "https://finance.yahoo.com/news/indias-blusmart-rival-uber-suspends-054235309.html"
             }
         ],
-        "avgScore": 0.1816
+        "avgScore": 0.349175
     },
     "4 16 2025": {
         "importantArticles": [
@@ -1237,16 +1237,6 @@
                 "url": "https://finance.yahoo.com/news/singapore-competition-watchdog-says-no-062738885.html"
             },
             {
-                "headline": "(Bloomberg) -- Bill Ackman\u2019s Pershing Square Capital Management has amassed a nearly 20% stake in rental car company Hertz Global Holdings Inc. in a bet that tariffs will push up car prices, the billionaire said in a social media post.Most Read from BloombergTrump Signs Executive Orders on Federal Purchasing, Office SpaceDOGE Places Entire Staff of Federal Homelessness Agency on LeaveHow Did This Suburb Figure Out Mass Transit?Why the Best Bike Lanes Always Get BlamedNashville\u2019s $3 Billion Trans",
-                "publication_date": "2025-03-19T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6369",
-                "source": "Bloomberg",
-                "ticker": "UBER",
-                "title": "Bill Ackman Makes Big Bet on Hertz Becoming Tariff Winner",
-                "url": "https://finance.yahoo.com/news/ackman-says-pershing-owns-19-203543846.html"
-            },
-            {
                 "headline": "Today's Research Daily features new research reports on 16 major stocks, including Shell plc (SHEL), Uber Technologies, Inc. (UBER) and TotalEnergies SE (TTE), as well as two micro-cap stocks Geospace Technologies Corporation (GEOS) and Natural Health Trends Corp. (NHTC).",
                 "publication_date": "2025-03-19T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -1265,16 +1255,6 @@
                 "ticker": "UBER",
                 "title": "Top Analyst Reports for Shell, Uber & TotalEnergies",
                 "url": "https://finance.yahoo.com/news/top-analyst-reports-shell-uber-223100107.html"
-            },
-            {
-                "headline": "(Bloomberg) -- Bill Ackman\u2019s Pershing Square Capital Management has amassed a nearly 20% stake in rental car company Hertz Global Holdings Inc. in a bet that tariffs will push up car prices, the billionaire said in a social media post.Most Read from BloombergTrump Signs Executive Orders on Federal Purchasing, Office SpaceDOGE Places Entire Staff of Federal Homelessness Agency on LeaveHow Did This Suburb Figure Out Mass Transit?Why the Best Bike Lanes Always Get BlamedNashville\u2019s $3 Billion Trans",
-                "publication_date": "2025-03-19T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6369",
-                "source": "Bloomberg",
-                "ticker": "UBER",
-                "title": "Bill Ackman Makes Big Bet on Hertz Becoming Tariff Winner",
-                "url": "https://finance.yahoo.com/news/ackman-says-pershing-owns-19-203543846.html"
             },
             {
                 "headline": "SINGAPORE (Reuters) -The Competition and Consumer Commission of Singapore said on Wednesday it had not received notification from ride and delivery companies Grab or GoTo on a proposed merger.  The commission said that it is aware of media reports regarding a possible merger between the two companies, and that the parties should seek legal advice on whether any proposed merger complies with competition laws in Singapore.  \"CCCS is open to engaging with the parties via our merger notification and pre-notification discussion processes,\" it said in an emailed statement to Reuters.",
@@ -1287,79 +1267,14 @@
                 "url": "https://finance.yahoo.com/news/singapore-competition-watchdog-says-no-062738885.html"
             }
         ],
-        "avgScore": 0.6672333333333333
+        "avgScore": 0.6824
     },
-    "3 18 2025": {
-        "importantArticles": [
-            {
-                "headline": "We recently published a list of 13 High Growth Large Cap Stocks To Invest In. In this article, we are going to take a look at where Uber Technologies, Inc. (NYSE:UBER) stands against other best high growth stocks to invest in. After two years of 25%+ gains, some investors worry that stocks are overvalued. Historically, [\u2026]",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.836",
-                "source": "Insider Monkey",
-                "ticker": "UBER",
-                "title": "Is Uber Technologies (UBER) Among the Best High Growth Stocks?",
-                "url": "https://finance.yahoo.com/news/uber-technologies-uber-among-best-070321773.html"
-            },
-            {
-                "headline": "Serve Robotics (NASDAQ: SERV) develops autonomous robots that have already completed thousands of food deliveries on behalf of platforms like Uber's Uber Eats.  In fact, the company has a contract with Uber to deploy thousands of new robots by the end of 2025, which will pave the way for an expansion into new geographic markets.  Serve's robots are powered by Nvidia's (NASDAQ: NVDA) Jetson Orin platform, which provides the hardware and software required to run advanced robotics and computer vision.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6705",
-                "source": "Motley Fool",
-                "ticker": "UBER",
-                "title": "Should You Buy Serve Robotics Stock After Its 65% Plunge? Nvidia's Recent Move Might Hold the Answer.",
-                "url": "https://finance.yahoo.com/news/buy-serve-robotics-stock-65-085900128.html"
-            },
-            {
-                "headline": "We recently published a list of Top 10 Trending Stocks as AI Hype Fades. In this article, we are going to take a look at where Uber Technologies, Inc. (NYSE:UBER) stands against other top trending stocks as AI hype fades. The US stock market took a major hit recently due to tariff-related uncertainties and a [\u2026]",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.0516",
-                "source": "Insider Monkey",
-                "ticker": "UBER",
-                "title": "Analyst Says He\u2019s \u2018Sticking With\u2019 His Top Pick Uber Technologies (UBER) in 2025",
-                "url": "https://finance.yahoo.com/news/analyst-says-sticking-top-pick-180709343.html"
-            },
-            {
-                "headline": "(Bloomberg) -- Grab Holdings Ltd. is moving forward with its attempt to take over GoTo Group, according to people familiar with the matter, who said the Singaporean ride and delivery firm has begun due diligence on its Indonesian rival.Most Read from BloombergNew York Subway Ditches MetroCard After 32 Years for Tap-And-GoLA Faces $1 Billion Budget Hole, Warns of Thousands of LayoffsDespite Cost-Cutting Moves, Trump Plans to Remake DC in His StyleAmtrak CEO Departs Amid Threats of a Transit Fundi",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.4767",
-                "source": "Bloomberg",
-                "ticker": "UBER",
-                "title": "Grab Is Said to Move Forward With Talks to Buy Rival GoTo",
-                "url": "https://finance.yahoo.com/news/grab-said-move-forward-talks-052940508.html"
-            },
-            {
-                "headline": "We recently published a list of Top 10 Trending Stocks as AI Hype Fades. In this article, we are going to take a look at where Uber Technologies, Inc. (NYSE:UBER) stands against other top trending stocks as AI hype fades. The US stock market took a major hit recently due to tariff-related uncertainties and a [\u2026]",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.0516",
-                "source": "Insider Monkey",
-                "ticker": "UBER",
-                "title": "Analyst Says He\u2019s \u2018Sticking With\u2019 His Top Pick Uber Technologies (UBER) in 2025",
-                "url": "https://finance.yahoo.com/news/analyst-says-sticking-top-pick-180709343.html"
-            },
-            {
-                "headline": "Serve Robotics (NASDAQ: SERV) develops autonomous robots that have already completed thousands of food deliveries on behalf of platforms like Uber's Uber Eats.  In fact, the company has a contract with Uber to deploy thousands of new robots by the end of 2025, which will pave the way for an expansion into new geographic markets.  Serve's robots are powered by Nvidia's (NASDAQ: NVDA) Jetson Orin platform, which provides the hardware and software required to run advanced robotics and computer vision.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6705",
-                "source": "Motley Fool",
-                "ticker": "UBER",
-                "title": "Should You Buy Serve Robotics Stock After Its 65% Plunge? Nvidia's Recent Move Might Hold the Answer.",
-                "url": "https://finance.yahoo.com/news/buy-serve-robotics-stock-65-085900128.html"
-            }
-        ],
-        "avgScore": 0.27035
-    },
-    "coef": 0.03359683794466403,
-    "avgCoef": 0.016100240817583582,
+    "coef": 0.04912478825522304,
+    "avgCoef": 0.03629999084726356,
     "similar": {
-        "KO": 0.5790513833992095,
-        "AMCR": 0.5345849802371541,
-        "PCG": 0.5187747035573123,
-        "WMT": 0.49209486166007904
+        "KO": 0.5923207227555054,
+        "AMCR": 0.5527950310559007,
+        "PCG": 0.5279503105590062,
+        "WMT": 0.5121400338791644
     }
 }

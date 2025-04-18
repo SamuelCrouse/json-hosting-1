@@ -42,7 +42,7 @@
                 "url": "https://finance.yahoo.com/news/1-screaming-bargain-investors-cant-110000806.html"
             },
             {
-                "headline": "A number of stocks jumped in the morning session after a Federal judge ruled that advertising giant Google (owned by Alphabet) monopolized online advertising technology. The affected technologies were the publisher ad servers and ad exchanges. These platforms are central to how digital ads are bought, sold, and placed across the internet, and they have been major revenue drivers for Alphabet. The decision raised the possibility that Alphabet could be forced to divest these assets, potentially we",
+                "headline": "A number of stocks jumped in the morning session after a Federal judge ruled that advertising giant Google (owned by Alphabet) monopolized online advertising technology. The affected technologies were the publisher ad servers and exchanges. These platforms are central to how digital ads are bought, sold, and placed across the internet, and they have been major revenue drivers for Alphabet. The decision raised the possibility that Alphabet could be forced to divest these assets, potentially weake",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.5423",
@@ -859,37 +859,12 @@
         ],
         "avgScore": 0.2458
     },
-    "3 18 2025": {
-        "importantArticles": [
-            {
-                "headline": "The Trade Desk\u2019s stock price has taken a beating over the past six months, shedding 47.4% of its value and falling to $56.86 per share. This was partly due to its softer quarterly results and may have investors wondering how to approach the situation.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "-0.0",
-                "source": "StockStory",
-                "ticker": "TTD",
-                "title": "The Trade Desk (TTD): Buy, Sell, or Hold Post Q4 Earnings?",
-                "url": "https://finance.yahoo.com/news/trade-desk-ttd-buy-sell-090548953.html"
-            },
-            {
-                "headline": "The Trade Desk\u2019s stock price has taken a beating over the past six months, shedding 47.4% of its value and falling to $56.86 per share. This was partly due to its softer quarterly results and may have investors wondering how to approach the situation.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "-0.0",
-                "source": "StockStory",
-                "ticker": "TTD",
-                "title": "The Trade Desk (TTD): Buy, Sell, or Hold Post Q4 Earnings?",
-                "url": "https://finance.yahoo.com/news/trade-desk-ttd-buy-sell-090548953.html"
-            }
-        ],
-        "avgScore": 0.0
-    },
-    "coef": -0.6826892208061609,
-    "avgCoef": 0.02530814489273635,
+    "coef": -0.6721804511278194,
+    "avgCoef": 0.019858347888160585,
     "similar": {
-        "KO": 0.3202338590460869,
-        "UNH": 0.2916531495166187,
-        "T": 0.24618383890155562,
-        "NGD": 0.2383890999389734
+        "KO": 0.32481203007518794,
+        "UNH": 0.2827067669172932,
+        "T": 0.26766917293233083,
+        "NGD": 0.26165413533834586
     }
 }

@@ -122,16 +122,6 @@
     "4 10 2025": {
         "importantArticles": [
             {
-                "headline": "Freeport-McMoRan (NYSE:FCX) recently confirmed its dividend at $0.15 per share and updated its earnings forecast, maintaining copper sales expectations but reducing gold sales projections for Q1 2025. This news may have added weight to the company's modest 2.2% price decline over the past month, a period characterized by broader market volatility following tariff announcements. Despite the company's attempts to reinforce shareholder value, the overall market, which faced declines due to...",
-                "publication_date": "2025-04-10T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.5719",
-                "source": "Simply Wall St.",
-                "ticker": "FCX",
-                "title": "Freeport-McMoRan (NYSE:FCX) Confirms Dividend at US$0.15 Per Share",
-                "url": "https://finance.yahoo.com/news/freeport-mcmoran-nyse-fcx-confirms-000250691.html"
-            },
-            {
                 "headline": "Freeport-McMoRan (FCX) saw its shares surge in the last session with trading volume being higher than average. The latest trend in earnings estimate revisions could translate into further price increase in the near term.",
                 "publication_date": "2025-04-10T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -150,19 +140,9 @@
                 "ticker": "FCX",
                 "title": "Freeport-McMoRan (FCX) Moves 15.5% Higher: Will This Strength Last?",
                 "url": "https://finance.yahoo.com/news/freeport-mcmoran-fcx-moves-15-123600809.html"
-            },
-            {
-                "headline": "Freeport-McMoRan (NYSE:FCX) recently confirmed its dividend at $0.15 per share and updated its earnings forecast, maintaining copper sales expectations but reducing gold sales projections for Q1 2025. This news may have added weight to the company's modest 2.2% price decline over the past month, a period characterized by broader market volatility following tariff announcements. Despite the company's attempts to reinforce shareholder value, the overall market, which faced declines due to...",
-                "publication_date": "2025-04-10T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.5719",
-                "source": "Simply Wall St.",
-                "ticker": "FCX",
-                "title": "Freeport-McMoRan (NYSE:FCX) Confirms Dividend at US$0.15 Per Share",
-                "url": "https://finance.yahoo.com/news/freeport-mcmoran-nyse-fcx-confirms-000250691.html"
             }
         ],
-        "avgScore": 0.5570999999999999
+        "avgScore": 0.5423
     },
     "4 9 2025": {
         "importantArticles": [
@@ -187,6 +167,26 @@
                 "url": "https://finance.yahoo.com/news/freeport-mcmoran-stock-loses-25-114200272.html"
             },
             {
+                "headline": "Freeport-McMoRan (NYSE:FCX) recently confirmed its dividend at $0.15 per share and updated its earnings forecast, maintaining copper sales expectations but reducing gold sales projections for Q1 2025. This news may have added weight to the company's modest 2.2% price decline over the past month, a period characterized by broader market volatility following tariff announcements. Despite the company's attempts to reinforce shareholder value, the overall market, which faced declines due to...",
+                "publication_date": "2025-04-09T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5719",
+                "source": "Simply Wall St.",
+                "ticker": "FCX",
+                "title": "Freeport-McMoRan (NYSE:FCX) Confirms Dividend at US$0.15 Per Share",
+                "url": "https://finance.yahoo.com/news/freeport-mcmoran-nyse-fcx-confirms-000250691.html"
+            },
+            {
+                "headline": "Freeport-McMoRan (NYSE:FCX) recently confirmed its dividend at $0.15 per share and updated its earnings forecast, maintaining copper sales expectations but reducing gold sales projections for Q1 2025. This news may have added weight to the company's modest 2.2% price decline over the past month, a period characterized by broader market volatility following tariff announcements. Despite the company's attempts to reinforce shareholder value, the overall market, which faced declines due to...",
+                "publication_date": "2025-04-09T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5719",
+                "source": "Simply Wall St.",
+                "ticker": "FCX",
+                "title": "Freeport-McMoRan (NYSE:FCX) Confirms Dividend at US$0.15 Per Share",
+                "url": "https://finance.yahoo.com/news/freeport-mcmoran-nyse-fcx-confirms-000250691.html"
+            },
+            {
                 "headline": "While FCX is poised to gain from progress in expansion activities and solid financial health, high production costs and falling copper prices warrant caution.",
                 "publication_date": "2025-04-09T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -207,7 +207,7 @@
                 "url": "https://finance.yahoo.com/news/freeport-mcmoran-fcx-top-ranked-134007349.html"
             }
         ],
-        "avgScore": 0.84995
+        "avgScore": 0.7572666666666666
     },
     "4 7 2025": {
         "importantArticles": [
@@ -725,7 +725,7 @@
         "avgScore": 0.0
     },
     "coef": -0.140049562779655,
-    "avgCoef": 0.013995667069392955,
+    "avgCoef": 0.034203318620673565,
     "similar": {
         "T": 0.5847683498518929,
         "BABA": 0.5233431030187108,

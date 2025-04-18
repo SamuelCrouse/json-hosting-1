@@ -284,37 +284,12 @@
         ],
         "avgScore": 0.7584
     },
-    "3 18 2025": {
-        "importantArticles": [
-            {
-                "headline": "We recently published a list of 10 Stocks Defy Monday\u2019s Market Optimism. In this article, we are going to take a look at where Peloton Interactive Inc. (NASDAQ:PTON) stands against other stocks that defy Monday\u2019s market optimism. US shares kicked off Monday\u2019s trading with a bounceback from last week\u2019s pessimistic sentiment, as economies took a [\u2026]",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7717",
-                "source": "Insider Monkey",
-                "ticker": "PTON",
-                "title": "Why Peloton Interactive Inc. (PTON) Stock Plunged On Monday",
-                "url": "https://finance.yahoo.com/news/why-peloton-interactive-inc-pton-134614169.html"
-            },
-            {
-                "headline": "We recently published a list of 10 Stocks Defy Monday\u2019s Market Optimism. In this article, we are going to take a look at where Peloton Interactive Inc. (NASDAQ:PTON) stands against other stocks that defy Monday\u2019s market optimism. US shares kicked off Monday\u2019s trading with a bounceback from last week\u2019s pessimistic sentiment, as economies took a [\u2026]",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7717",
-                "source": "Insider Monkey",
-                "ticker": "PTON",
-                "title": "Why Peloton Interactive Inc. (PTON) Stock Plunged On Monday",
-                "url": "https://finance.yahoo.com/news/why-peloton-interactive-inc-pton-134614169.html"
-            }
-        ],
-        "avgScore": 0.7717
-    },
-    "coef": 0.11515151515151514,
-    "avgCoef": 0.02823697434773185,
+    "coef": 0.0,
+    "avgCoef": 0.02030020870628656,
     "similar": {
-        "TSLA": 0.5757575757575757,
-        "NVDA": 0.5515151515151515,
-        "MP": 0.5515151515151515,
-        "SMCI": 0.5272727272727272
+        "NVDA": 0.5333333333333333,
+        "TSLA": 0.5333333333333333,
+        "MP": 0.48333333333333334,
+        "NOK": 0.41666666666666663
     }
 }

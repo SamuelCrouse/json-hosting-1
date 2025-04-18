@@ -62,7 +62,7 @@
                 "url": "https://finance.yahoo.com/news/taiwan-semiconductor-manufacturing-company-tsm-171055800.html"
             }
         ],
-        "avgScore": 0.013761290322580687
+        "avgScore": 0.027473333333333367
     },
     "4 16 2025": {
         "importantArticles": [
@@ -117,17 +117,17 @@
                 "url": "https://finance.yahoo.com/news/asian-tech-stocks-slide-fresh-055536977.html"
             },
             {
-                "headline": "AI chip giant Nvidia warned that it will take a financial hit from new requirements around its H20 chips, which are aimed at the Chinese market.",
+                "headline": "Key earnings from Taiwan Semiconductor (TSM), UnitedHealth Group (UNH), American Express (AXP), and Netflix (NFLX) are set to be released Thursday, with Netflix no longer reporting its quarterly subscriber numbers. March housing data is also due, with economists forecasting declines in starts and permits. Meanwhile, markets are watching for more Federal Reserve commentary after Fed Chairman Jerome Powell\u2019s remarks on Wednesday deepened a sell-off. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime&nbsp;here.",
                 "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.2732",
-                "source": "FastCompany",
+                "sentimentScore": "-0.3976",
+                "source": "Yahoo Finance Video",
                 "ticker": "TSM",
-                "title": "Chip stocks update: Nvidia, AMD, TSMC, Intel share prices fall after Trump\u2019s export license demand",
-                "url": "https://finance.yahoo.com/news/chip-stocks-nvidia-amd-tsmc-122400228.html"
+                "title": "Netflix & UnitedHealth earnings, housing data: What to Watch",
+                "url": "https://finance.yahoo.com/video/netflix-unitedhealth-earnings-housing-data-230000837.html"
             }
         ],
-        "avgScore": 0.20672941176470594
+        "avgScore": 0.1731555555555556
     },
     "4 15 2025": {
         "importantArticles": [
@@ -192,7 +192,7 @@
                 "url": "https://finance.yahoo.com/news/prediction-3-stocks-thatll-worth-134500902.html"
             }
         ],
-        "avgScore": 0.04757857142857142
+        "avgScore": 0.05123846153846153
     },
     "4 14 2025": {
         "importantArticles": [
@@ -257,7 +257,7 @@
                 "url": "https://finance.yahoo.com/news/nvidia-commits-500-billion-to-ai-infrastructure-buildout-in-us-will-bring-supercomputer-production-to-texas-143540782.html"
             }
         ],
-        "avgScore": 0.2887636363636364
+        "avgScore": 0.26470000000000005
     },
     "4 11 2025": {
         "importantArticles": [
@@ -412,14 +412,14 @@
                 "url": "https://finance.yahoo.com/news/us-may-fine-tsmc-1b-153142770.html"
             },
             {
-                "headline": "Bucking the trend, however, shares of Intel (NASDAQ: INTC) were up 13.3%.  After years of underperformance, Intel has shown signs of turning the tide over the course of the last few months.  Most recently, Intel revived a bump from the news that it and Taiwan Semiconductor Manufacturing Company (TSMC) -- the world's premiere chip manufacturer -- had reportedly reached an agreement that could revitalize Intel's struggling foundry business.",
+                "headline": "Semiconductor giant Intel (NASDAQ: INTC) has a new CEO ready to shake up the company after years of disappointing results.  Intel has been losing market share to AMD in its core CPU businesses, struggling to gain a foothold in the AI accelerator market, and pouring billions into new factories and manufacturing technology.  Intel is making progress on the foundry front.",
                 "publication_date": "2025-04-09T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.4588",
+                "sentimentScore": "0.1531",
                 "source": "Motley Fool",
                 "ticker": "TSM",
-                "title": "Why Intel Stock Was Up 13.3% in Q1 as the S&P 500 Had Its Worst Quarter Since 2022",
-                "url": "https://finance.yahoo.com/news/why-intel-stock-13-3-012203754.html"
+                "title": "Will Intel Stock Be a Trade War Winner?",
+                "url": "https://finance.yahoo.com/news/intel-stock-trade-war-winner-102000970.html"
             },
             {
                 "headline": "Trump Demands TSMC Build in U.S. or Face Major Tax Penalty",
@@ -432,16 +432,6 @@
                 "url": "https://finance.yahoo.com/news/president-trump-warns-tsmc-100-124833731.html"
             },
             {
-                "headline": "Speaking at a Republican National Congressional Committee event, Trump criticized former President Joe Biden's administration for providing a $6.6 billion grant to TSMC's U.S. unit for semiconductor production in Phoenix, Arizona, saying semiconductor companies do not need the money.  \"TSMC, I gave them no money ... all I did was say, if you don't build your plant here, you're going to pay a big tax,\" Trump said.  TSMC declined to comment.",
-                "publication_date": "2025-04-09T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.3818",
-                "source": "Reuters",
-                "ticker": "TSM",
-                "title": "Trump says he told TSMC it would pay 100% tax if it doesn't build in US",
-                "url": "https://finance.yahoo.com/news/trump-says-told-tsmc-pay-005809794.html"
-            },
-            {
                 "headline": "The probe concerns a chip TSMC manufactured that ended up in a Huawei AI processor.",
                 "publication_date": "2025-04-09T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -450,9 +440,19 @@
                 "ticker": "TSM",
                 "title": "TSMC may face $1bn-plus penalty in US export case",
                 "url": "https://finance.yahoo.com/news/tsmc-may-face-1bn-plus-100211908.html"
+            },
+            {
+                "headline": "And we take a look at Texas Instruments and Taiwan Semiconductor.",
+                "publication_date": "2025-04-09T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Motley Fool",
+                "ticker": "TSM",
+                "title": "Tesla Underdelivers",
+                "url": "https://finance.yahoo.com/news/tesla-underdelivers-134600733.html"
             }
         ],
-        "avgScore": 0.1224
+        "avgScore": 0.14637142857142857
     },
     "4 8 2025": {
         "importantArticles": [
@@ -517,7 +517,7 @@
                 "url": "https://finance.yahoo.com/news/tsmc-could-face-1b-us-193911645.html"
             }
         ],
-        "avgScore": 0.04094285714285715
+        "avgScore": 0.0406375
     },
     "4 7 2025": {
         "importantArticles": [
@@ -909,12 +909,12 @@
         ],
         "avgScore": 0.39662307692307697
     },
-    "coef": 0.23956043956043957,
-    "avgCoef": -0.004772664107962801,
+    "coef": 0.16923076923076924,
+    "avgCoef": 0.03592851625381333,
     "similar": {
-        "SOUN": 0.3142857142857143,
-        "SMCI": 0.27912087912087913,
-        "RIOT": 0.24395604395604395,
-        "TSM": 0.23956043956043957
+        "SOUN": 0.2703296703296703,
+        "SMCI": 0.21318681318681318,
+        "QXO": 0.2087912087912088,
+        "RIOT": 0.2
     }
 }

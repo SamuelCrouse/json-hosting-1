@@ -1189,57 +1189,12 @@
         ],
         "avgScore": 0.66275
     },
-    "3 18 2025": {
-        "importantArticles": [
-            {
-                "headline": "Kinder Morgan (KMI) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8176",
-                "source": "Zacks",
-                "ticker": "KMI",
-                "title": "Investors Heavily Search Kinder Morgan, Inc. (KMI): Here is What You Need to Know",
-                "url": "https://finance.yahoo.com/news/investors-heavily-search-kinder-morgan-130011189.html"
-            },
-            {
-                "headline": "Kinder Morgan (KMI) concluded the recent trading session at $27.52, signifying a -0.97% move from its prior day's close.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4939",
-                "source": "Zacks",
-                "ticker": "KMI",
-                "title": "Kinder Morgan (KMI) Stock Moves -0.97%: What You Should Know",
-                "url": "https://finance.yahoo.com/news/kinder-morgan-kmi-stock-moves-220018031.html"
-            },
-            {
-                "headline": "Kinder Morgan (KMI) concluded the recent trading session at $27.52, signifying a -0.97% move from its prior day's close.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4939",
-                "source": "Zacks",
-                "ticker": "KMI",
-                "title": "Kinder Morgan (KMI) Stock Moves -0.97%: What You Should Know",
-                "url": "https://finance.yahoo.com/news/kinder-morgan-kmi-stock-moves-220018031.html"
-            },
-            {
-                "headline": "Kinder Morgan (KMI) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8176",
-                "source": "Zacks",
-                "ticker": "KMI",
-                "title": "Investors Heavily Search Kinder Morgan, Inc. (KMI): Here is What You Need to Know",
-                "url": "https://finance.yahoo.com/news/investors-heavily-search-kinder-morgan-130011189.html"
-            }
-        ],
-        "avgScore": 0.65575
-    },
-    "coef": 0.41798418972332013,
-    "avgCoef": 0.014813848053506959,
+    "coef": 0.40711462450592883,
+    "avgCoef": 0.028567732374894853,
     "similar": {
-        "WBD": 0.5148221343873518,
-        "AUR": 0.49703557312252966,
-        "BMY": 0.4930830039525692,
-        "CSX": 0.4792490118577075
+        "CSX": 0.5177865612648223,
+        "BMY": 0.4861660079051384,
+        "WBD": 0.4748729531338228,
+        "AUR": 0.4635798983625071
     }
 }

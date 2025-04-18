@@ -352,6 +352,26 @@
                 "url": "https://finance.yahoo.com/news/fair-housing-month-keybank-survey-133000089.html"
             },
             {
+                "headline": "Q1 2025 KeyCorp Earnings Call",
+                "publication_date": "2025-04-01T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Thomson Reuters StreetEvents",
+                "ticker": "KEY",
+                "title": "Q1 2025 KeyCorp Earnings Call",
+                "url": "https://finance.yahoo.com/news/q1-2025-keycorp-earnings-call-020905232.html"
+            },
+            {
+                "headline": "Q1 2025 KeyCorp Earnings Call",
+                "publication_date": "2025-04-01T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Thomson Reuters StreetEvents",
+                "ticker": "KEY",
+                "title": "Q1 2025 KeyCorp Earnings Call",
+                "url": "https://finance.yahoo.com/news/q1-2025-keycorp-earnings-call-020905232.html"
+            },
+            {
                 "headline": "While many believe owning a home is not an attainable goal for themselves nor the average American, potential homeowners do have access to more financial tools and education and are more capable than they think on their journeys toward homeownership ...",
                 "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -362,7 +382,7 @@
                 "url": "https://finance.yahoo.com/news/fair-housing-month-keybank-survey-133000089.html"
             }
         ],
-        "avgScore": 0.4391
+        "avgScore": 0.21955
     },
     "3 24 2025": {
         "importantArticles": [
@@ -414,37 +434,12 @@
         ],
         "avgScore": 0.2732
     },
-    "3 18 2025": {
-        "importantArticles": [
-            {
-                "headline": "Grant will create access for early-stage food businesses in Alaska, focusing on underserved communities ANCHORAGE, AK / ACCESS Newswire / March 18, 2025 /Anchorage Community Land Trust (ACLT) has received a $300,000 grant from KeyBank to launch the ...",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8555",
-                "source": "ACCESS Newswire",
-                "ticker": "KEY",
-                "title": "Anchorage Community Land Trust (ACLT) Receives $300,000 Grant From KeyBank for a Shared Commercial Kitchen Incubator",
-                "url": "https://finance.yahoo.com/news/anchorage-community-land-trust-aclt-163000372.html"
-            },
-            {
-                "headline": "Grant will create access for early-stage food businesses in Alaska, focusing on underserved communities ANCHORAGE, AK / ACCESS Newswire / March 18, 2025 /Anchorage Community Land Trust (ACLT) has received a $300,000 grant from KeyBank to launch the ...",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8555",
-                "source": "ACCESS Newswire",
-                "ticker": "KEY",
-                "title": "Anchorage Community Land Trust (ACLT) Receives $300,000 Grant From KeyBank for a Shared Commercial Kitchen Incubator",
-                "url": "https://finance.yahoo.com/news/anchorage-community-land-trust-aclt-163000372.html"
-            }
-        ],
-        "avgScore": 0.8555
-    },
-    "coef": -0.1188811188811189,
-    "avgCoef": 0.017293918363868847,
+    "coef": -0.26363636363636367,
+    "avgCoef": 0.03771740851731284,
     "similar": {
-        "MP": 0.3846153846153847,
-        "IAG": 0.30069930069930073,
-        "HTZ": 0.23076923076923078,
-        "GOLD": 0.22377622377622378
+        "IAG": 0.4090909090909091,
+        "GOLD": 0.3727272727272728,
+        "UNH": 0.3545454545454546,
+        "MP": 0.28181818181818186
     }
 }

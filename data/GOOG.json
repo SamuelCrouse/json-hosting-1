@@ -62,7 +62,7 @@
                 "url": "https://finance.yahoo.com/news/federal-judge-declares-googles-digital-155852450.html"
             }
         ],
-        "avgScore": 0.11306923076923073
+        "avgScore": 0.08782249999999998
     },
     "4 16 2025": {
         "importantArticles": [
@@ -127,7 +127,7 @@
                 "url": "https://finance.yahoo.com/news/google-faces-5-billion-lawsuit-102205564.html"
             }
         ],
-        "avgScore": 0.08338999999999994
+        "avgScore": 0.11134761904761901
     },
     "4 15 2025": {
         "importantArticles": [
@@ -262,6 +262,16 @@
     "4 11 2025": {
         "importantArticles": [
             {
+                "headline": "Alphabet and Nvidia have joined prominent venture capital investors to back\u00a0Safe Superintelligence (SSI), a startup co-founded by OpenAI's former chief scientist Ilya Sutskever that has quickly risen to become one of the most valuable artificial intelligence startups months after its launch, a source familiar with the matter said.  The funding illustrates renewed interest from the big tech and infrastructure providers in making strategic investments in the startups developing cutting-edge AI that requires massive amounts of computing power.  Alphabet, which has its own AI models, earlier in the week announced a deal\u00a0by its cloud computing arm to sell SSI access to tensor processing units (TPUs), its in-house AI chips.",
+                "publication_date": "2025-04-11T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9332",
+                "source": "Reuters",
+                "ticker": "GOOG",
+                "title": "Exclusive-Alphabet, Nvidia invest in OpenAI co-founder Sutskever's SSI, source says",
+                "url": "https://finance.yahoo.com/news/exclusive-alphabet-nvidia-invest-openai-012945259.html"
+            },
+            {
                 "headline": "We recently published a list of 11 Best Digital Payments Stocks to Buy According to Analysts. In this article, we are going to take a look at where Alphabet Inc. (NASDAQ:GOOGL) stands against other best digital payment stocks. Digital payment stocks are companies that specialize in designing, developing, or administering digital payment solutions. These firms [\u2026]",
                 "publication_date": "2025-04-11T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -280,16 +290,6 @@
                 "ticker": "GOOG",
                 "title": "Is Alphabet Inc. (GOOGL) Among the Best Geothermal Stocks to Buy According to Hedge Funds?",
                 "url": "https://finance.yahoo.com/news/alphabet-inc-googl-among-best-181435446.html"
-            },
-            {
-                "headline": "Alphabet (NASDAQ: GOOGL)(NASDAQ: GOOG) stock is rising Friday.  The tech giant's share price was up 2.4% as of 3 p.m. ET amid a 1.5% gain for the S&P 500 and a 1.7% a gain for the Nasdaq Composite.  The stock market has seen a historically volatile stretch of trading this week, but it appears to be poised to end the stretch on something of a high note.",
-                "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7579",
-                "source": "Motley Fool",
-                "ticker": "GOOG",
-                "title": "Why Alphabet Stock Is Gaining Today",
-                "url": "https://finance.yahoo.com/news/why-alphabet-stock-gaining-today-192657886.html"
             },
             {
                 "headline": "Despite increased market volatility surrounding tariff announcements, investors shouldn't forget about a major technological innovation that's happening.  It seems new AI advancements are announced every week.  One company that many feared would be negatively affected is Alphabet (NASDAQ: GOOGL) (NASDAQ: GOOG).",
@@ -322,7 +322,7 @@
                 "url": "https://finance.yahoo.com/news/google-trims-workforce-platforms-devices-154618589.html"
             }
         ],
-        "avgScore": 0.374585
+        "avgScore": 0.40118571428571426
     },
     "4 10 2025": {
         "importantArticles": [
@@ -387,19 +387,19 @@
                 "url": "https://finance.yahoo.com/news/google-spend-75-billion-ai-134816774.html"
             }
         ],
-        "avgScore": 0.41484054054054054
+        "avgScore": 0.40572499999999995
     },
     "4 9 2025": {
         "importantArticles": [
             {
-                "headline": "With Google Gemini now powering Reddit Answers, the platform may have just unlocked its most valuable asset: itself.",
+                "headline": "Just a few weeks after OpenAI said it would adopt rival Anthropic\u2019s standard for connecting AI models to the systems where data resides, Google is following suit. In a post on X on Wednesday, Google DeepMind CEO Demis Hassabis said Google would add support for Anthropic\u2019s Model Context Protocol, or MCP, to its Gemini models and SDK. He did not specify a timeline for when this would be done. \"MCP is a good protocol and it's rapidly becoming an open standard for the AI agentic era,\" wrote Hassabis",
                 "publication_date": "2025-04-09T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.7328",
-                "source": "GuruFocus.com",
+                "sentimentScore": "0.743",
+                "source": "TechCrunch",
                 "ticker": "GOOG",
-                "title": "Reddit Just Went Full AI--And It's Coming for Google's Turf",
-                "url": "https://finance.yahoo.com/news/reddit-just-went-full-ai-172159975.html"
+                "title": "Google to embrace Anthropic\u2019s standard for connecting AI models to data",
+                "url": "https://finance.yahoo.com/news/google-says-itll-embrace-anthropic-231842524.html"
             },
             {
                 "headline": "Advanced Micro Devices, Inc (NASDAQ:AMD) on Wednesday announced the new Alphabet Inc (NASDAQ:GOOG) (NASDAQ:GOOGL) Google Cloud C4D and H4D virtual machines (VMs), which fifth-generation AMD EPYC processors power. The latest additions to Google Cloud\u2019s general-purpose and HPC-optimized VMs deliver leadership performance, scalability, and efficiency, from data analytics and web serving to high-performance computing (HPC) and AI. Based on Google Cloud\u2019s testing, leveraging the advancements of the A",
@@ -452,14 +452,14 @@
                 "url": "https://finance.yahoo.com/news/keybanc-flags-ad-spending-slowdown-174806506.html"
             }
         ],
-        "avgScore": -0.1354142857142857
+        "avgScore": -0.13395714285714289
     },
-    "coef": 0.7857142857142859,
-    "avgCoef": 0.013892557819651145,
+    "coef": 0.8928571428571429,
+    "avgCoef": 0.036860265660169964,
     "similar": {
-        "PTON": 0.9642857142857145,
-        "GPN": 0.9285714285714288,
-        "FCX": 0.9285714285714288,
-        "PCG": 0.8928571428571429
+        "FCX": 0.9642857142857145,
+        "PCG": 0.9642857142857145,
+        "AVGO": 0.9285714285714288,
+        "PTON": 0.9285714285714288
     }
 }

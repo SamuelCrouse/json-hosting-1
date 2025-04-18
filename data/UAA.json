@@ -182,26 +182,6 @@
                 "url": "https://finance.yahoo.com/news/under-armour-uaa-surges-14-140200792.html"
             },
             {
-                "headline": "The sneaker business illustrates how Trump's tariffs on imports will raise costs for businesses and consumers while generating no new American jobs, for a net loss to the US economy.",
-                "publication_date": "2025-04-10T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.5423",
-                "source": "Yahoo Finance",
-                "ticker": "UAA",
-                "title": "Opinion: The folly of Trump\u2019s sneaker tariffs",
-                "url": "https://finance.yahoo.com/news/opinion-the-folly-of-trumps-sneaker-tariffs-164418249.html"
-            },
-            {
-                "headline": "The sneaker business illustrates how Trump's tariffs on imports will raise costs for businesses and consumers while generating no new American jobs, for a net loss to the US economy.",
-                "publication_date": "2025-04-10T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.5423",
-                "source": "Yahoo Finance",
-                "ticker": "UAA",
-                "title": "Opinion: The folly of Trump\u2019s sneaker tariffs",
-                "url": "https://finance.yahoo.com/news/opinion-the-folly-of-trumps-sneaker-tariffs-164418249.html"
-            },
-            {
                 "headline": "Under Armour (UAA) witnessed a jump in share price last session on above-average trading volume. The latest trend in earnings estimate revisions for the stock doesn't suggest further strength down the road.",
                 "publication_date": "2025-04-10T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -222,7 +202,7 @@
                 "url": "https://finance.yahoo.com/news/columbia-sportswear-under-armour-carters-221903921.html"
             }
         ],
-        "avgScore": -0.009066666666666667
+        "avgScore": 0.25755
     },
     "4 9 2025": {
         "importantArticles": [
@@ -237,6 +217,26 @@
                 "url": "https://finance.yahoo.com/news/q4-earnings-review-apparel-accessories-090508778.html"
             },
             {
+                "headline": "The sneaker business illustrates how Trump's tariffs on imports will raise costs for businesses and consumers while generating no new American jobs, for a net loss to the US economy.",
+                "publication_date": "2025-04-09T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5423",
+                "source": "Yahoo Finance",
+                "ticker": "UAA",
+                "title": "Opinion: The folly of Trump\u2019s sneaker tariffs",
+                "url": "https://finance.yahoo.com/news/opinion-the-folly-of-trumps-sneaker-tariffs-164418249.html"
+            },
+            {
+                "headline": "The sneaker business illustrates how Trump's tariffs on imports will raise costs for businesses and consumers while generating no new American jobs, for a net loss to the US economy.",
+                "publication_date": "2025-04-09T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5423",
+                "source": "Yahoo Finance",
+                "ticker": "UAA",
+                "title": "Opinion: The folly of Trump\u2019s sneaker tariffs",
+                "url": "https://finance.yahoo.com/news/opinion-the-folly-of-trumps-sneaker-tariffs-164418249.html"
+            },
+            {
                 "headline": "As the Q4 earnings season wraps, let\u2019s dig into this quarter\u2019s best and worst performers in the apparel and accessories industry, including VF Corp (NYSE:VFC) and its peers.",
                 "publication_date": "2025-04-09T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -247,7 +247,7 @@
                 "url": "https://finance.yahoo.com/news/q4-earnings-review-apparel-accessories-090508778.html"
             }
         ],
-        "avgScore": 0.0258
+        "avgScore": -0.25825
     },
     "4 8 2025": {
         "importantArticles": [
@@ -544,12 +544,12 @@
         ],
         "avgScore": 0.0
     },
-    "coef": 0.11707988980716254,
-    "avgCoef": 0.017055963441976924,
+    "coef": 0.19807446523706262,
+    "avgCoef": 0.02586241894064345,
     "similar": {
-        "T": 0.42090823862875804,
-        "UMC": 0.4099041016711435,
-        "RIVN": 0.3493813484042632,
-        "NU": 0.29711169785559394
+        "UMC": 0.5439560439560439,
+        "NU": 0.46703296703296704,
+        "T": 0.43956043956043955,
+        "RIVN": 0.3186813186813187
     }
 }

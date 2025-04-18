@@ -414,37 +414,12 @@
         ],
         "avgScore": 0.4737333333333334
     },
-    "3 18 2025": {
-        "importantArticles": [
-            {
-                "headline": "We recently published a list of Top 10 AI News Updates Taking Wall Street By Storm. In this article, we are going to take a look at where Infosys Limited (NYSE:INFY) stands against other top AI news updates taking Wall Street by storm. Escalating costs for developing bigger and more powerful artificial models has always [\u2026]",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.5849",
-                "source": "Insider Monkey",
-                "ticker": "INFY",
-                "title": "Infosys (INFY) Expands AI Partnership with Citizen to Drive Financial Transformation",
-                "url": "https://finance.yahoo.com/news/infosys-infy-expands-ai-partnership-073035370.html"
-            },
-            {
-                "headline": "We recently published a list of Top 10 AI News Updates Taking Wall Street By Storm. In this article, we are going to take a look at where Infosys Limited (NYSE:INFY) stands against other top AI news updates taking Wall Street by storm. Escalating costs for developing bigger and more powerful artificial models has always [\u2026]",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.5849",
-                "source": "Insider Monkey",
-                "ticker": "INFY",
-                "title": "Infosys (INFY) Expands AI Partnership with Citizen to Drive Financial Transformation",
-                "url": "https://finance.yahoo.com/news/infosys-infy-expands-ai-partnership-073035370.html"
-            }
-        ],
-        "avgScore": 0.5849
-    },
-    "coef": -0.7062937062937064,
-    "avgCoef": 0.011316326028357877,
+    "coef": -0.8727272727272729,
+    "avgCoef": 0.03698924971958882,
     "similar": {
-        "HTZ": 0.43356643356643365,
-        "MP": 0.3916083916083916,
-        "HLN": 0.2662000579685716,
-        "KO": 0.1958041958041958
+        "HTZ": 0.4272727272727273,
+        "MP": 0.4000000000000001,
+        "KO": 0.28181818181818186,
+        "HLN": 0.2505701261680129
     }
 }

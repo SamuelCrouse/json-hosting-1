@@ -437,16 +437,6 @@
     "4 7 2025": {
         "importantArticles": [
             {
-                "headline": "With one in 10 jobs dependent on the auto industry, the state is already feeling the effects of tariffs. Automakers and factory workers are tightening their belts, even as many locals hope the short-term pain will lead to long-term gain.",
-                "publication_date": "2025-04-07T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.5423",
-                "source": "The Wall Street Journal",
-                "ticker": "STLA",
-                "title": "The First Victim of Trump\u2019s Trade War: Michigan\u2019s Economy",
-                "url": "https://finance.yahoo.com/m/8160e7f9-788f-3e4d-8b51-d74f1c6d5e2d/the-first-victim-of-trump%E2%80%99s.html"
-            },
-            {
                 "headline": "Auto stocks continued their downward slide on Monday as the sector, heavily exposed to tariffs, looks for a bottom.",
                 "publication_date": "2025-04-07T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -465,6 +455,16 @@
                 "ticker": "STLA",
                 "title": "Auto stocks have been clobbered by Trump's tariffs",
                 "url": "https://finance.yahoo.com/video/auto-stocks-clobbered-trumps-tariffs-203056273.html"
+            },
+            {
+                "headline": "Stellantis (STLA), the automaker behind Jeep, has said it will absorb some of its suppliers\u2019 costs from President Donald Trump\u2019s tariffs \u2014 one of the first indicators of how the auto industry is responding to the president\u2019s trade war.",
+                "publication_date": "2025-04-07T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5994",
+                "source": "Quartz",
+                "ticker": "STLA",
+                "title": "Stellantis will help suppliers offset the cost of tariffs, report says",
+                "url": "https://finance.yahoo.com/news/stellantis-help-suppliers-offset-cost-194400069.html"
             },
             {
                 "headline": "Stellantis (STLA), the automaker behind Jeep, has said it will absorb some of its suppliers\u2019 costs from President Donald Trump\u2019s tariffs \u2014 one of the first indicators of how the auto industry is responding to the president\u2019s trade war.",
@@ -497,7 +497,7 @@
                 "url": "https://finance.yahoo.com/news/auto-stocks-continue-slide-as-tariff-impact-threatens-to-decimate-sales-185757899.html"
             }
         ],
-        "avgScore": -0.064225
+        "avgScore": -0.2664
     },
     "4 4 2025": {
         "importantArticles": [
@@ -549,7 +549,7 @@
                 "source": "Reuters",
                 "ticker": "STLA",
                 "title": "Automakers provide stable pricing for now, but warn of future hikes",
-                "url": "https://finance.yahoo.com/news/stellantis-extends-employee-discount-public-145032672.html"
+                "url": "https://finance.yahoo.com/news/stellantis-extends-employee-discount-public-145032066.html"
             },
             {
                 "headline": "We recently published a list of 10 Stocks on Jim Cramer\u2019s Radar Recently. In this article, we are going to take a look at where Stellantis N.V. (NYSE:STLA) stands against other stocks that are on Jim Cramer\u2019s radar. On Thursday, Jim Cramer, the host of Mad Money, addressed the growing concerns surrounding the current tariff [\u2026]",
@@ -587,14 +587,14 @@
                 "url": "https://finance.yahoo.com/news/stellantis-temporarily-halting-production-2-161436908.html"
             },
             {
-                "headline": "The array of automotive parts that President Trump plans to tariff is more extensive than the industry expected, raising concerns about significant cost increases for U.S.-built vehicles.  As part of Trump\u2019s tariff announcement Wednesday, the administration published a list of auto parts that would be subject to 25% tariffs starting May 3.  The parts list is \u201cmore extensive than feared,\u201d Bernstein financial analyst Daniel Roeska wrote in a research note following Trump\u2019s announcement.",
+                "headline": "(Bloomberg) -- President Claudia Sheinbaum is pitching Mexico as a winner in Donald Trump\u2019s global trade war, arguing that her positive relationship with the US leader has made it a more attractive place to invest.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Would \u2018Transportatio",
                 "publication_date": "2025-04-03T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.2023",
-                "source": "The Wall Street Journal",
+                "sentimentScore": "0.101",
+                "source": "Bloomberg",
                 "ticker": "STLA",
-                "title": "Trump Tariffs to Hit Many Auto Parts",
-                "url": "https://finance.yahoo.com/m/8fa09341-a8fb-370d-802e-d116d20090dc/trump-tariffs-to-hit-many.html"
+                "title": "Sheinbaum Touts Her Strong Ties to Trump to Sell CEOs on Mexico",
+                "url": "https://finance.yahoo.com/news/sheinbaum-dispatches-trade-chief-washington-150229828.html"
             },
             {
                 "headline": "Shuttering of Windsor plant brings reality of tariff war home",
@@ -627,7 +627,7 @@
                 "url": "https://finance.yahoo.com/news/fitch-cuts-stellantis-stock-rating-200758745.html"
             }
         ],
-        "avgScore": -0.03982142857142858
+        "avgScore": -0.05844615384615385
     },
     "4 2 2025": {
         "importantArticles": [
@@ -682,17 +682,17 @@
                 "url": "https://finance.yahoo.com/news/jpmorgan-tariff-day-trade-going-160204744.html"
             },
             {
-                "headline": "First-quarter 2025 total U.S. sales decreased 12% year over year",
+                "headline": "March was the first month China's Leapmotor, partly owned by Stellantis, became the top-seller among the country's EV startups.",
                 "publication_date": "2025-04-02T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
-                "source": "PR Newswire",
+                "source": "Automotive News",
                 "ticker": "STLA",
-                "title": "FCA US Reports First-quarter 2025 US Sales Results",
-                "url": "https://finance.yahoo.com/news/fca-us-reports-first-quarter-235000079.html"
+                "title": "Stellantis-backed Leapmotor becomes top-seller among Chinese EV startups in March",
+                "url": "https://finance.yahoo.com/news/stellantis-backed-leapmotor-becomes-top-175818204.html"
             }
         ],
-        "avgScore": 0.11860000000000001
+        "avgScore": 0.1475
     },
     "4 1 2025": {
         "importantArticles": [
@@ -707,6 +707,16 @@
                 "url": "https://finance.yahoo.com/news/stellantis-n-v-stla-best-165416715.html"
             },
             {
+                "headline": "First-quarter 2025 total U.S. sales decreased 12% year over year",
+                "publication_date": "2025-04-01T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "PR Newswire",
+                "ticker": "STLA",
+                "title": "FCA US Reports First-quarter 2025 US Sales Results",
+                "url": "https://finance.yahoo.com/news/fca-us-reports-first-quarter-235000079.html"
+            },
+            {
                 "headline": "Wayne Griffiths, CEO of Volkswagen\u2019s Spanish subsidiary SEAT and father of the Cupra brand, stepped down at his own request \u201cto pursue new challenges.\u201d",
                 "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -715,16 +725,6 @@
                 "ticker": "STLA",
                 "title": "The mastermind behind Europe\u2019s hottest new car brand is leaving Volkswagen in a shock departure",
                 "url": "https://finance.yahoo.com/news/mastermind-behind-europe-hottest-car-174536947.html"
-            },
-            {
-                "headline": "Companies In The News Are: STLA, TSLA, COOP, RKT, SGML.",
-                "publication_date": "2025-04-01T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "STLA",
-                "title": "Company News for Apr 1, 2025",
-                "url": "https://finance.yahoo.com/news/company-news-apr-1-2025-093100353.html"
             },
             {
                 "headline": "General Motors and Ford reported upbeat first quarter US sales, just as the threat of tariffs portends pain ahead for the Big Three automakers.",
@@ -737,16 +737,6 @@
                 "url": "https://finance.yahoo.com/news/gm-ford-report-upbeat-q1-retail-sales-as-trump-tariffs-loom-182750180.html"
             },
             {
-                "headline": "US automakers are making a last-ditch effort to sway the Trump administration on tariffs set to take effect this week, contending that levies on the thousands of parts they source abroad could have catastrophic effects on the industry.",
-                "publication_date": "2025-04-01T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.4939",
-                "source": "Bloomberg",
-                "ticker": "STLA",
-                "title": "US automakers make mad dash to persuade Trump to temper tariffs",
-                "url": "https://finance.yahoo.com/news/us-automakers-mad-dash-persuade-013847428.html"
-            },
-            {
                 "headline": "Companies In The News Are: STLA, TSLA, COOP, RKT, SGML.",
                 "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -755,9 +745,19 @@
                 "ticker": "STLA",
                 "title": "Company News for Apr 1, 2025",
                 "url": "https://finance.yahoo.com/news/company-news-apr-1-2025-093100353.html"
+            },
+            {
+                "headline": "Wayne Griffiths, CEO of Volkswagen\u2019s Spanish subsidiary SEAT and father of the Cupra brand, stepped down at his own request \u201cto pursue new challenges.\u201d",
+                "publication_date": "2025-04-01T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Fortune",
+                "ticker": "STLA",
+                "title": "The mastermind behind Europe\u2019s hottest new car brand is leaving Volkswagen in a shock departure",
+                "url": "https://finance.yahoo.com/news/mastermind-behind-europe-hottest-car-174536947.html"
             }
         ],
-        "avgScore": -0.17676000000000003
+        "avgScore": -0.07798000000000002
     },
     "3 31 2025": {
         "importantArticles": [
@@ -772,6 +772,26 @@
                 "url": "https://finance.yahoo.com/news/car-dealer-afraid-buyers-are-rushing-to-purchase-cars-ahead-of-tariffs-144014529.html"
             },
             {
+                "headline": "US automakers are making a last-ditch effort to sway the Trump administration on tariffs set to take effect this week, contending that levies on the thousands of parts they source abroad could have catastrophic effects on the industry.",
+                "publication_date": "2025-03-31T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.4939",
+                "source": "Bloomberg",
+                "ticker": "STLA",
+                "title": "US automakers make mad dash to persuade Trump to temper tariffs",
+                "url": "https://finance.yahoo.com/news/us-automakers-mad-dash-persuade-013847428.html"
+            },
+            {
+                "headline": "US automakers are making a last-ditch effort to sway the Trump administration on tariffs set to take effect this week, contending that levies on the thousands of parts they source abroad could have catastrophic effects on the industry.",
+                "publication_date": "2025-03-31T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.4939",
+                "source": "Bloomberg",
+                "ticker": "STLA",
+                "title": "US automakers make mad dash to persuade Trump to temper tariffs",
+                "url": "https://finance.yahoo.com/news/us-automakers-mad-dash-persuade-013847428.html"
+            },
+            {
                 "headline": "President Trump\u2019s auto tariffs have customers and dealers spooked.",
                 "publication_date": "2025-03-31T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -782,7 +802,7 @@
                 "url": "https://finance.yahoo.com/news/car-dealer-afraid-buyers-are-rushing-to-purchase-cars-ahead-of-tariffs-144014529.html"
             }
         ],
-        "avgScore": 0.0
+        "avgScore": -0.24695
     },
     "3 28 2025": {
         "importantArticles": [
@@ -1182,26 +1202,6 @@
                 "url": "https://finance.yahoo.com/news/golden-state-gladiator-jeep-brand-160000421.html"
             },
             {
-                "headline": "Chinese EV maker Leapmotor has started selling two electric vehicle models at Stellantis dealerships in Britain via its joint venture with the world's No. 4 automaker, it said on Wednesday.  Leapmotor has launched sales of the T03 compact electric car and the C10, a large electric SUV, with the B10 midsize SUV launching later this year, at 44 Stellantis dealerships where staff have been trained to sell the cars.  By the end of 2025, Leapmotors will be on sale at 80 Stellantis dealers in Britain, with more coming next year, said Damien Dally, Leapmotor's UK managing director.",
-                "publication_date": "2025-03-19T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.1779",
-                "source": "Reuters",
-                "ticker": "STLA",
-                "title": "Leapmotor launches UK sales with two EV models",
-                "url": "https://finance.yahoo.com/news/leapmotor-launches-uk-sales-two-000947183.html"
-            },
-            {
-                "headline": "Chinese EV maker Leapmotor has started selling two electric vehicle models at Stellantis dealerships in Britain via its joint venture with the world's No. 4 automaker, it said on Wednesday.  Leapmotor has launched sales of the T03 compact electric car and the C10, a large electric SUV, with the B10 midsize SUV launching later this year, at 44 Stellantis dealerships where staff have been trained to sell the cars.  By the end of 2025, Leapmotors will be on sale at 80 Stellantis dealers in Britain, with more coming next year, said Damien Dally, Leapmotor's UK managing director.",
-                "publication_date": "2025-03-19T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.1779",
-                "source": "Reuters",
-                "ticker": "STLA",
-                "title": "Leapmotor launches UK sales with two EV models",
-                "url": "https://finance.yahoo.com/news/leapmotor-launches-uk-sales-two-000947183.html"
-            },
-            {
                 "headline": "Big Bear Edition debuts for 2025 Jeep\u00ae Gladiator midsize pickup truck, a tribute to the inspiring outdoors and adventurous people of California",
                 "publication_date": "2025-03-19T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -1222,59 +1222,14 @@
                 "url": "https://finance.yahoo.com/news/elkann-says-stellantis-appoint-ceo-135258434.html"
             }
         ],
-        "avgScore": 0.4203333333333334
+        "avgScore": 0.71945
     },
-    "3 18 2025": {
-        "importantArticles": [
-            {
-                "headline": "Hosted by automotive enthusiast and gearhead Garrett Reed, the new, interactive, mobile Dodge Charger Virtual Experience showcases the all-new Dodge Charger and lets customers create their dream ride right on their phone",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6808",
-                "source": "PR Newswire",
-                "ticker": "STLA",
-                "title": "Dodge Brand Debuts New Interactive Mobile 360-degree Dodge Charger Virtual Experience, 2025 Charger Muscle Cars in Bludicrous Start Arriving in Dealerships",
-                "url": "https://finance.yahoo.com/news/dodge-brand-debuts-interactive-mobile-150000002.html"
-            },
-            {
-                "headline": "The investment aims to bolster the manufacturing of steel components for electric drive modules in Italy.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Just Auto",
-                "ticker": "STLA",
-                "title": "Stellantis to invest $41m in Italian plant for EV component production",
-                "url": "https://finance.yahoo.com/news/stellantis-invest-41m-italian-plant-113209782.html"
-            },
-            {
-                "headline": "The investment aims to bolster the manufacturing of steel components for electric drive modules in Italy.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Just Auto",
-                "ticker": "STLA",
-                "title": "Stellantis to invest $41m in Italian plant for EV component production",
-                "url": "https://finance.yahoo.com/news/stellantis-invest-41m-italian-plant-113209782.html"
-            },
-            {
-                "headline": "Hosted by automotive enthusiast and gearhead Garrett Reed, the new, interactive, mobile Dodge Charger Virtual Experience showcases the all-new Dodge Charger and lets customers create their dream ride right on their phone",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6808",
-                "source": "PR Newswire",
-                "ticker": "STLA",
-                "title": "Dodge Brand Debuts New Interactive Mobile 360-degree Dodge Charger Virtual Experience, 2025 Charger Muscle Cars in Bludicrous Start Arriving in Dealerships",
-                "url": "https://finance.yahoo.com/news/dodge-brand-debuts-interactive-mobile-150000002.html"
-            }
-        ],
-        "avgScore": 0.3404
-    },
-    "coef": 0.19203615563854604,
-    "avgCoef": 0.014899489504096041,
+    "coef": 0.17922077922077922,
+    "avgCoef": 0.03574049816603176,
     "similar": {
-        "LYG": 0.43603503574399277,
-        "T": 0.39819261683874985,
-        "ERIC": 0.3784241890524289,
-        "BBD": 0.30734463276836166
+        "LYG": 0.3844155844155844,
+        "T": 0.37792207792207794,
+        "ERIC": 0.3168831168831169,
+        "PFE": 0.2584415584415584
     }
 }

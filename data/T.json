@@ -1074,77 +1074,12 @@
         ],
         "avgScore": 0.3818
     },
-    "3 18 2025": {
-        "importantArticles": [
-            {
-                "headline": "AT&T (T) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6486",
-                "source": "Zacks",
-                "ticker": "T",
-                "title": "AT&T Inc. (T) is Attracting Investor Attention: Here is What You Should Know",
-                "url": "https://finance.yahoo.com/news/t-inc-t-attracting-investor-130016128.html"
-            },
-            {
-                "headline": "In the closing of the recent trading day, AT&T (T) stood at $26.61, denoting a -0.82% change from the preceding trading day.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "T",
-                "title": "AT&T (T) Stock Moves -0.82%: What You Should Know",
-                "url": "https://finance.yahoo.com/news/t-t-stock-moves-0-214516025.html"
-            },
-            {
-                "headline": "Verizon and Micron could each eclipse AT&T's market cap by 2027.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Motley Fool",
-                "ticker": "T",
-                "title": "Prediction: 2 Companies That Will Be Worth More Than AT&T 2 Years From Now",
-                "url": "https://finance.yahoo.com/news/prediction-2-companies-worth-more-082600021.html"
-            },
-            {
-                "headline": "Prosecutors say they stopped a group of porch pirates that were scraping FedEx websites and bribing AT&T staff for delivery data.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.2263",
-                "source": "The Wall Street Journal",
-                "ticker": "T",
-                "title": "How Bribes Helped a Crime Ring Steal Thousands of iPhones From Porches",
-                "url": "https://finance.yahoo.com/m/882ce17f-5f63-3176-934a-019a63110244/how-bribes-helped-a-crime.html"
-            },
-            {
-                "headline": "Verizon and Micron could each eclipse AT&T's market cap by 2027.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Motley Fool",
-                "ticker": "T",
-                "title": "Prediction: 2 Companies That Will Be Worth More Than AT&T 2 Years From Now",
-                "url": "https://finance.yahoo.com/news/prediction-2-companies-worth-more-082600021.html"
-            },
-            {
-                "headline": "In the closing of the recent trading day, AT&T (T) stood at $26.61, denoting a -0.82% change from the preceding trading day.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "T",
-                "title": "AT&T (T) Stock Moves -0.82%: What You Should Know",
-                "url": "https://finance.yahoo.com/news/t-t-stock-moves-0-214516025.html"
-            }
-        ],
-        "avgScore": 0.10557499999999999
-    },
-    "coef": -0.25112781954887214,
-    "avgCoef": 0.016953878041519814,
+    "coef": -0.2175438596491228,
+    "avgCoef": 0.036031319168065574,
     "similar": {
-        "PSLV": 0.21052631578947367,
-        "BTG": 0.15361463203875644,
-        "NGD": 0.09473684210526315,
-        "NOK": 0.08120300751879699
+        "PSLV": 0.19298245614035087,
+        "BTG": 0.13708281275835973,
+        "NGD": 0.11403508771929824,
+        "SBSW": 0.09916631055574433
     }
 }

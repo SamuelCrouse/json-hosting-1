@@ -12,6 +12,16 @@
                 "url": "https://finance.yahoo.com/news/amd-stock-ticket-becoming-millionaire-151500201.html"
             },
             {
+                "headline": "SAN FRANCISCO (Reuters) -Intel's new CEO, Lip-Bu Tan, is flattening the semiconductor giant's leadership team, with important chip groups reporting directly to him, according to a memo from Tan seen by Reuters.  Intel has also promoted networking chip chief Sachin Katti to be chief technology officer and artificial intelligence chief, according to the memo.  The leadership changes are the first major move under Tan, who took the top job last month, to turn around the venerable Silicon Valley chipmaker after years of problems.",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7003",
+                "source": "Reuters",
+                "ticker": "INTC",
+                "title": "Exclusive-Intel CEO Lip-Bu Tan flattens leadership structure, names new AI chief, memo says",
+                "url": "https://finance.yahoo.com/news/exclusive-intel-ceo-lip-bu-233237497.html"
+            },
+            {
                 "headline": "Nike (NYSE: NKE), Intel (NASDAQ: INTC), and Kraft Heinz (NASDAQ: KHC) all seem like they could be good, cheap buys to load up on right now, given their beaten-down prices.  Nike's stock hasn't been this cheap since 2017.  President Trump has paused \"reciprocal tariffs\" on countries (except China) for a period of 90 days, but this is becoming an evolving development, which has led to investors not wanting any part of Nike's stock.",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -20,16 +30,6 @@
                 "ticker": "INTC",
                 "title": "3 Crashing Stocks That Haven't Been This Cheap in Over 5 Years",
                 "url": "https://finance.yahoo.com/news/3-crashing-stocks-havent-cheap-082300672.html"
-            },
-            {
-                "headline": "(Bloomberg) -- Mark Zuckerberg, the first witness in the Federal Trade Commission\u2019s trial to break up his social media empire, gave a rare window into how he makes business decisions: by fighting for survival, even when his company is ahead.Most Read from BloombergTrump Signs Executive Orders on Federal Purchasing, Office SpaceHow Did This Suburb Figure Out Mass Transit?DOGE Places Entire Staff of Federal Homelessness Agency on LeaveWhy the Best Bike Lanes Always Get BlamedLA County Floats Leane",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4019",
-                "source": "Bloomberg",
-                "ticker": "INTC",
-                "title": "Meta Saw TikTok as \u2018Highly Urgent\u2019 Threat, Zuckerberg Says at Antitrust Trial",
-                "url": "https://finance.yahoo.com/news/meta-saw-tiktok-highly-urgent-221403450.html"
             },
             {
                 "headline": "Nvidia stock continued its slide on Thursday, bringing market cap losses since it disclosed new export controls to nearly $270 billion.",
@@ -62,7 +62,7 @@
                 "url": "https://finance.yahoo.com/news/intel-shares-tumble-tsmc-dismisses-180824556.html"
             }
         ],
-        "avgScore": 0.20864000000000002
+        "avgScore": 0.21680000000000002
     },
     "4 16 2025": {
         "importantArticles": [
@@ -77,16 +77,6 @@
                 "url": "https://finance.yahoo.com/news/reverse-stock-split-watch-intel-130600394.html"
             },
             {
-                "headline": "JP Morgan analyst Harlan Sur reiterated an Underweight rating on Intel Corp (NASDAQ:INTC) on Tuesday, setting a price forecast of $23. On Monday, before the market opened, Intel announced a 51% stake sale of its programmable chip business, Altera, to private equity firm Silver Lake Management for $4.46 billion, valuing Altera at $8.75 billion with a transaction multiple of ~5.7 times calendar 2024 sales. As a reference, Intel bought Altera in 2015 at 9 times calendar 2014 sales and in 2020, and",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6037",
-                "source": "Benzinga",
-                "ticker": "INTC",
-                "title": "Intel Growth Challenges Are Not Over Despite Altera Stake Sale: Analyst",
-                "url": "https://finance.yahoo.com/news/intel-growth-challenges-not-over-221609444.html"
-            },
-            {
                 "headline": "President Trump\u2019s tariffs have overshadowed Applied Materials (AMAT) stock, stirring up short-term headaches for the semiconductor equipment titan. Despite a recent rebound, shares trade ~30% below their 52-week highs, with the decline somewhat justified. Indeed, higher costs and global trade tensions could dent the company\u2019s near-term prospects. Still, the effort to restore chip manufacturing to U.S. soil promises a lucrative payoff in the long run. Given this narrative and AMAT\u2019s unmatched rol",
                 "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -95,6 +85,16 @@
                 "ticker": "INTC",
                 "title": "How the U.S.-China Trade War Benefits Applied Materials Stock (AMAT)",
                 "url": "https://finance.yahoo.com/news/u-china-trade-war-benefits-120800147.html"
+            },
+            {
+                "headline": "(Bloomberg) -- Mark Zuckerberg, the first witness in the Federal Trade Commission\u2019s trial to break up his social media empire, gave a rare window into how he makes business decisions: by fighting for survival, even when his company is ahead.Most Read from BloombergTrump Signs Executive Orders on Federal Purchasing, Office SpaceHow Did This Suburb Figure Out Mass Transit?DOGE Places Entire Staff of Federal Homelessness Agency on LeaveWhy the Best Bike Lanes Always Get BlamedLA County Floats Leane",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4019",
+                "source": "Bloomberg",
+                "ticker": "INTC",
+                "title": "Meta Saw TikTok as \u2018Highly Urgent\u2019 Threat, Zuckerberg Says at Antitrust Trial",
+                "url": "https://finance.yahoo.com/news/meta-saw-tiktok-highly-urgent-221403450.html"
             },
             {
                 "headline": "We recently published a list of Jim Cramer Sounds the Alarm on China Rhetoric and Dollar Panic Then Analyzes 11 Key Stocks. In this article, we are going to take a look at where Intel Corporation (NASDAQ:INTC) stands against other key stocks that Jim Cramer analyzes. In his latest appearance on CNBC\u2019s Squawk on the Street, [\u2026]",
@@ -127,7 +127,7 @@
                 "url": "https://finance.yahoo.com/news/intel-corporation-intc-sells-51-034023793.html"
             }
         ],
-        "avgScore": 0.09278333333333333
+        "avgScore": 0.07596666666666665
     },
     "4 15 2025": {
         "importantArticles": [
@@ -142,6 +142,16 @@
                 "url": "https://finance.yahoo.com/news/intel-sell-51-stake-altera-133200062.html"
             },
             {
+                "headline": "JP Morgan analyst Harlan Sur reiterated an Underweight rating on Intel Corp (NASDAQ:INTC) on Tuesday, setting a price forecast of $23. On Monday, before the market opened, Intel announced a 51% stake sale of its programmable chip business, Altera, to private equity firm Silver Lake Management for $4.46 billion, valuing Altera at $8.75 billion with a transaction multiple of ~5.7 times calendar 2024 sales. As a reference, Intel bought Altera in 2015 at 9 times calendar 2014 sales and in 2020, and",
+                "publication_date": "2025-04-15T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6037",
+                "source": "Benzinga",
+                "ticker": "INTC",
+                "title": "Intel Growth Challenges Are Not Over Despite Altera Stake Sale: Analyst",
+                "url": "https://finance.yahoo.com/news/intel-growth-challenges-not-over-221609444.html"
+            },
+            {
                 "headline": "This transaction values Altera at $8.75bn, with Intel retaining a 49% ownership stake in the unit.",
                 "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -150,16 +160,6 @@
                 "ticker": "INTC",
                 "title": "Intel to sell majority stake in Altera to Silver Lake",
                 "url": "https://finance.yahoo.com/news/intel-sell-majority-stake-altera-090625006.html"
-            },
-            {
-                "headline": "Intel (NASDAQ: INTC) announced on Monday that it had agreed to sell a 51% stake in Altera, the FPGA specialist it acquired in 2015, to investment firm Silver Lake.  While Intel will retain a 49% stake in the company, it will relinquish operational control as Altera becomes an independent, pure-play FPGA provider.  Intel acquired Altera nearly a decade ago as part of a plan to capture more spending in the data center.",
-                "publication_date": "2025-04-15T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.2732",
-                "source": "Motley Fool",
-                "ticker": "INTC",
-                "title": "Intel Dumps Altera at a Huge Loss",
-                "url": "https://finance.yahoo.com/news/intel-dumps-altera-huge-loss-105500665.html"
             },
             {
                 "headline": "The sale to private equity firm Silver Lake comes as the chipmaker looks to shore up its finances.",
@@ -192,7 +192,7 @@
                 "url": "https://finance.yahoo.com/news/company-news-apr-15-2025-135800533.html"
             }
         ],
-        "avgScore": 0.18183333333333335
+        "avgScore": 0.22402000000000002
     },
     "4 14 2025": {
         "importantArticles": [
@@ -322,7 +322,7 @@
                 "url": "https://finance.yahoo.com/news/nvidia-tesla-ford-intel-bp-trending-tickers-090920052.html"
             }
         ],
-        "avgScore": 0.04006666666666666
+        "avgScore": 0.036059999999999995
     },
     "4 10 2025": {
         "importantArticles": [
@@ -392,16 +392,6 @@
     "4 9 2025": {
         "importantArticles": [
             {
-                "headline": "A number of stocks fell in the afternoon session after markets gave up early gains with optimism over progress in US-China trade talks quickly fading as the Trump administration announced plans to raise tariffs on all Chinese imports to well above 100%.",
-                "publication_date": "2025-04-09T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8779",
-                "source": "StockStory",
-                "ticker": "INTC",
-                "title": "Etsy (ETSY) and Snap (SNAP), Lyft (LYFT), Intel (INTC), Target (TGT) Stocks Trade Down, What You Need To Know",
-                "url": "https://finance.yahoo.com/news/etsy-etsy-snap-snap-lyft-215228650.html"
-            },
-            {
                 "headline": "LPL Financial Holdings Inc. has appointed Vaughn Harvey as the executive vice president and chief data and artificial intelligence (AI) officer, marking a significant move in its AI strategy. With over 25 years of experience in AI-driven digital transformations, Harvey will spearhead LPL\u2019s data and AI initiatives, enhancing digital transformation across the organization. This appointment comes as LPL Financial aims to advance its offerings in artificial intelligence through programs like AI...",
                 "publication_date": "2025-04-09T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -420,6 +410,16 @@
                 "ticker": "INTC",
                 "title": "Is Nvidia's Artificial Intelligence (AI) Business Recession-Resistant?",
                 "url": "https://finance.yahoo.com/news/nvidias-artificial-intelligence-ai-business-120000539.html"
+            },
+            {
+                "headline": "Conditions continue to work in favor of Taiwan Semiconductor Manufacturing (TSMC) (NYSE: TSM).  Unfortunately, the healthy state of TSMC's business did not prevent a 35% drop in the stock price since January.  Other than TSMC's equipment maker ASML, few other AI stocks are in a stronger position.",
+                "publication_date": "2025-04-09T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7461",
+                "source": "Motley Fool",
+                "ticker": "INTC",
+                "title": "Taiwan Semiconductor Manufacturing Is Down 35%. Here's Why Now Could Be the Best Time to Buy the AI Stock.",
+                "url": "https://finance.yahoo.com/news/taiwan-semiconductor-manufacturing-down-35-100000106.html"
             },
             {
                 "headline": "Intel Sees 7% Decline as Semiconductor Sector Faces Pressure",
@@ -452,10 +452,20 @@
                 "url": "https://finance.yahoo.com/news/amd-downgraded-dollar-general-upgraded-133520598.html"
             }
         ],
-        "avgScore": 0.4984777777777778
+        "avgScore": 0.45105
     },
     "4 8 2025": {
         "importantArticles": [
+            {
+                "headline": "A number of stocks fell in the afternoon session after markets gave up early gains with optimism over progress in US-China trade talks quickly fading as the Trump administration announced plans to raise tariffs on all Chinese imports to well above 100%.",
+                "publication_date": "2025-04-08T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8779",
+                "source": "StockStory",
+                "ticker": "INTC",
+                "title": "Etsy (ETSY) and Snap (SNAP), Lyft (LYFT), Intel (INTC), Target (TGT) Stocks Trade Down, What You Need To Know",
+                "url": "https://finance.yahoo.com/news/etsy-etsy-snap-snap-lyft-215228650.html"
+            },
             {
                 "headline": "Intel CEO Promises 'Startup Culture' in Bid to Regain Market Share",
                 "publication_date": "2025-04-08T00:00:00.000Z",
@@ -475,16 +485,6 @@
                 "ticker": "INTC",
                 "title": "Intel Corporation (INTC): A Bull Case Theory",
                 "url": "https://finance.yahoo.com/news/intel-corporation-intc-bull-case-131021124.html"
-            },
-            {
-                "headline": "Advanced Micro Devices risks falling behind as competition in the server and PC markets ramps up, say analysts at KeyBanc.",
-                "publication_date": "2025-04-08T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.1779",
-                "source": "Barrons.com",
-                "ticker": "INTC",
-                "title": "Advanced Micro Devices Stock Gets a Downgrade. Nvidia and Intel Are Part of the Problem.",
-                "url": "https://finance.yahoo.com/m/0ba88920-9a0b-3cc5-ae1f-e782d6edf1ec/advanced-micro-devices-stock.html"
             },
             {
                 "headline": "KeyBanc recently cut its rating on AMD (AMD) to Sector Weight from Overweight, Schwab Network reported today. As reasons for the downgrade, the bank cited tough competition and worries about AMD\u2019s China business. Intense Competition KeyBanc is concerned that AMD will fall further behind Nvidia (NVDA) and lose ground to Intel (INTC). As a result, [\u2026]",
@@ -517,7 +517,7 @@
                 "url": "https://finance.yahoo.com/news/amd-stock-catches-a-downgrade-as-concerns-about-china-and-tariffs-heat-up-150108550.html"
             }
         ],
-        "avgScore": -0.15852857142857144
+        "avgScore": -0.028975
     },
     "4 7 2025": {
         "importantArticles": [
@@ -647,7 +647,7 @@
                 "url": "https://finance.yahoo.com/video/intel-dell-chinese-tech-stocks-151645306.html"
             }
         ],
-        "avgScore": 0.06563333333333332
+        "avgScore": 0.08539375000000002
     },
     "4 3 2025": {
         "importantArticles": [
@@ -692,16 +692,6 @@
                 "url": "https://finance.yahoo.com/news/analyst-says-intel-intc-more-203735275.html"
             },
             {
-                "headline": "In the closing of the recent trading day, Intel (INTC) stood at $21.98, denoting a -0.32% change from the preceding trading day.",
-                "publication_date": "2025-04-03T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "INTC",
-                "title": "Intel (INTC) Stock Sinks As Market Gains: What You Should Know",
-                "url": "https://finance.yahoo.com/news/intel-intc-stock-sinks-market-214514839.html"
-            },
-            {
                 "headline": "Intel and TSMC have tentatively agreed to form a joint venture that would run the U.S. company\u2019s foundry business, The Information reported Thursday.",
                 "publication_date": "2025-04-03T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -710,9 +700,19 @@
                 "ticker": "INTC",
                 "title": "Intel, TSMC Set To Form Chipmaking Joint Venture in the US, Report Says",
                 "url": "https://finance.yahoo.com/news/intel-tsmc-set-form-chipmaking-203855803.html"
+            },
+            {
+                "headline": "(Bloomberg) -- Intel Corp. shares gained on a report that the company tentatively agreed to a Taiwan Semiconductor Manufacturing Co. joint venture, a sign the beleaguered US chipmaker is moving ahead with a plan that\u2019s been highly anticipated by investors. Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Spee",
+                "publication_date": "2025-04-03T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.3818",
+                "source": "Bloomberg",
+                "ticker": "INTC",
+                "title": "Intel Gains on Report of Joint Venture Deal With TSMC",
+                "url": "https://finance.yahoo.com/news/intel-gains-report-joint-venture-193728149.html"
             }
         ],
-        "avgScore": 0.39547999999999994
+        "avgScore": 0.43942222222222216
     },
     "4 2 2025": {
         "importantArticles": [
@@ -777,20 +777,10 @@
                 "url": "https://finance.yahoo.com/news/intel-report-first-quarter-2025-203000084.html"
             }
         ],
-        "avgScore": 0.20064285714285715
+        "avgScore": 0.22978333333333334
     },
     "4 1 2025": {
         "importantArticles": [
-            {
-                "headline": "Investing.com -- On Monday, Lip-Bu Tan, the recently appointed CEO of Intel Corporation (NASDAQ:INTC), laid out an ambitious plan to overhaul the company's culture and operational approach during the IntelVision 2025 conference. Tan, who stepped into the CEO role on March 12, has focused his early efforts on engaging with customers and identifying significant areas for improvement. He emphasized the need for Intel to \"underpromise and overdeliver,\" a motto he considers his trademark.",
-                "publication_date": "2025-04-01T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8979",
-                "source": "Investing.com",
-                "ticker": "INTC",
-                "title": "New CEO Lip-Bu Tan vows to change Intel's culture",
-                "url": "https://finance.yahoo.com/news/ceo-lip-bu-tan-vows-233259568.html"
-            },
             {
                 "headline": "Intel's (INTC) new CEO, Lip-Bu Tan, is focused on doing better for the legacy chipmaker's customers and shareholders. Yahoo Finance Tech Editor Dan Howley sits down with Madison Mills and Invesco chief global market strategist Kristina Hooper to discuss Intel's turnaround efforts under its new leadership. To watch more expert insights and analysis on the latest market action, check out more Catalysts here.",
                 "publication_date": "2025-04-01T00:00:00.000Z",
@@ -812,6 +802,16 @@
                 "url": "https://finance.yahoo.com/m/f32887d9-264e-3371-b21c-a37758c3f1ce/trump-wants-made-in-america-.html"
             },
             {
+                "headline": "(Bloomberg) -- Commerce Secretary Howard Lutnick has signaled he could withhold promised Chips Act grants as he pushes for companies in line for federal semiconductor subsidies to substantially expand their US projects, according to eight people familiar with the matter.Most Read from BloombergWhat Frank Lloyd Wright Learned From the DesertGold-Rush Fever Returns to Historic New Zealand Mining TownBank Regulators Fight for Desks as OCC Returns to New York TowerThe Commerce chief wants firms that",
+                "publication_date": "2025-04-01T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5256",
+                "source": "Bloomberg",
+                "ticker": "INTC",
+                "title": "US chip grants in limbo as Lutnick pushes bigger investments",
+                "url": "https://finance.yahoo.com/news/us-chip-grants-limbo-lutnick-055242551.html"
+            },
+            {
                 "headline": "(Bloomberg) -- In a quarter marred by tariff uncertainty, US government spending cuts and the threat of recession, it is fears about a bubble brewing in artificial intelligence that have dealt the latest blow to the Nasdaq 100.Most Read from BloombergWhat Frank Lloyd Wright Learned From the DesertGold-Rush Fever Returns to Historic New Zealand Mining TownBank Regulators Fight for Desks as OCC Returns to New York TowerLondon Clears Final Hurdle for More High-Speed Trains to EuropeLocal Government",
                 "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -822,16 +822,6 @@
                 "url": "https://finance.yahoo.com/news/nasdaq-100-worst-quarter-years-093618789.html"
             },
             {
-                "headline": "In his first remarks as Intel's new CEO, Lip-Bu Tan on Monday outlined a leaner version of the iconic American chipmaker in which he would work directly with engineers to develop new products based on feedback from the company's customers.  Tan earlier this month took over at Intel, which once enjoyed more than 90% market share in both personal computers and data center servers but has lost out to rivals such as Nvidia in recent years.  Speaking at Intel's \"Vision\" event in Las Vegas, where the company was set to discuss products with its customers, Tan said he spent his first weeks on the job meeting with customers and said the company had fallen far short of their expectations.",
-                "publication_date": "2025-04-01T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.5346",
-                "source": "Reuters",
-                "ticker": "INTC",
-                "title": "Intel's new CEO tells customers 'be brutally honest with us'",
-                "url": "https://finance.yahoo.com/news/intels-ceo-tells-customers-brutally-223625582.html"
-            },
-            {
                 "headline": "Intel's new chief executive, Lip-Bu Tan, offered his strategy for turning around the troubled chipmaker in a speech late Monday.",
                 "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -840,13 +830,33 @@
                 "ticker": "INTC",
                 "title": "Intel's New CEO Outlines Recovery Strategy. Wall Street Remains Cautious.",
                 "url": "https://finance.yahoo.com/m/c8867474-1225-3eeb-9748-6215fcf4d96f/intel-s-new-ceo-outlines.html"
+            },
+            {
+                "headline": "Intel (INTC) is declining 2.5% today, and Schwab Network reporter Caroline Woods noted that the shares may be falling due to cautious comments by the chipmaker\u2019s new CEO. Statements by Commerce Secretary Howard Lutnick could also be weighing on INTC stock, Woods stated. The New CEO\u2019s Words of Warning Speaking yesterday, INTC CEO Lip-Bu Tan [\u2026]",
+                "publication_date": "2025-04-01T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.296",
+                "source": "Insider Monkey",
+                "ticker": "INTC",
+                "title": "Cautious CEO Comments Weigh on Intel (INTC) Stock",
+                "url": "https://finance.yahoo.com/news/cautious-ceo-comments-weigh-intel-162952453.html"
             }
         ],
-        "avgScore": 0.1154631578947368
+        "avgScore": 0.08481333333333332
     },
     "3 31 2025": {
         "importantArticles": [
             {
+                "headline": "Investing.com -- On Monday, Lip-Bu Tan, the recently appointed CEO of Intel Corporation (NASDAQ:INTC), laid out an ambitious plan to overhaul the company's culture and operational approach during the IntelVision 2025 conference. Tan, who stepped into the CEO role on March 12, has focused his early efforts on engaging with customers and identifying significant areas for improvement. He emphasized the need for Intel to \"underpromise and overdeliver,\" a motto he considers his trademark.",
+                "publication_date": "2025-03-31T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8979",
+                "source": "Investing.com",
+                "ticker": "INTC",
+                "title": "New CEO Lip-Bu Tan vows to change Intel's culture",
+                "url": "https://finance.yahoo.com/news/ceo-lip-bu-tan-vows-233259568.html"
+            },
+            {
                 "headline": "Alchip Technologies reported record-breaking financial results for 2024, driven by strong demand for their advanced 7nm AI chips, particularly in North America. AI chip applications constituted a substantial portion of their revenue, highlighting the growing reliance on high-performance computing and AI-specific ASICs. The company saw significant increases across all key financial metrics, including revenue, operating income, net income, and earnings per share. Such developments underscore...",
                 "publication_date": "2025-03-31T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -857,14 +867,24 @@
                 "url": "https://finance.yahoo.com/news/ai-chips-today-alchip-advances-110713607.html"
             },
             {
-                "headline": "AMD CEO Lisa Su pushes back on the AI slowdown narrative.",
+                "headline": "Chief Executive Officer Lip-Bu Tan said customers told him Intel strayed from their needs and fell behind competitors on innovation.",
                 "publication_date": "2025-03-31T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Yahoo Finance",
+                "sentiment": "Positive",
+                "sentimentScore": "0.3818",
+                "source": "The Wall Street Journal",
                 "ticker": "INTC",
-                "title": "AMD CEO Lisa Su to Yahoo Finance: Demand for AI infrastructure is 'immense'",
-                "url": "https://finance.yahoo.com/news/amd-ceo-lisa-su-to-yahoo-finance-demand-for-ai-infrastructure-is-immense-151646707.html"
+                "title": "Intel\u2019s New CEO Plots Turnaround; \u2018We Need to Improve\u2019",
+                "url": "https://finance.yahoo.com/m/1c5e33cb-dbf0-3c04-b7c2-21b206a274d4/intel%E2%80%99s-new-ceo-plots.html"
+            },
+            {
+                "headline": "In his first remarks as Intel's new CEO, Lip-Bu Tan on Monday outlined a leaner version of the iconic American chipmaker in which he would work directly with engineers to develop new products based on feedback from the company's customers.  Tan earlier this month took over at Intel, which once enjoyed more than 90% market share in both personal computers and data center servers but has lost out to rivals such as Nvidia in recent years.  Speaking at Intel's \"Vision\" event in Las Vegas, where the company was set to discuss products with its customers, Tan said he spent his first weeks on the job meeting with customers and said the company had fallen far short of their expectations.",
+                "publication_date": "2025-03-31T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5346",
+                "source": "Reuters",
+                "ticker": "INTC",
+                "title": "Intel's new CEO tells customers 'be brutally honest with us'",
+                "url": "https://finance.yahoo.com/news/intels-ceo-tells-customers-brutally-223625582.html"
             },
             {
                 "headline": "Plus, 24 other underperformers to avoid this spring",
@@ -877,16 +897,6 @@
                 "url": "https://finance.yahoo.com/news/intel-among-worst-stocks-own-191532529.html"
             },
             {
-                "headline": "Plus, 24 other underperformers to avoid this spring",
-                "publication_date": "2025-03-31T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.296",
-                "source": "Schaeffer's Investment Research",
-                "ticker": "INTC",
-                "title": "Intel Among Worst Stocks to Own in April, Q2",
-                "url": "https://finance.yahoo.com/news/intel-among-worst-stocks-own-191532529.html"
-            },
-            {
                 "headline": "AMD CEO Lisa Su pushes back on the AI slowdown narrative.",
                 "publication_date": "2025-03-31T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -895,19 +905,9 @@
                 "ticker": "INTC",
                 "title": "AMD CEO Lisa Su to Yahoo Finance: Demand for AI infrastructure is 'immense'",
                 "url": "https://finance.yahoo.com/news/amd-ceo-lisa-su-to-yahoo-finance-demand-for-ai-infrastructure-is-immense-151646707.html"
-            },
-            {
-                "headline": "Alchip Technologies reported record-breaking financial results for 2024, driven by strong demand for their advanced 7nm AI chips, particularly in North America. AI chip applications constituted a substantial portion of their revenue, highlighting the growing reliance on high-performance computing and AI-specific ASICs. The company saw significant increases across all key financial metrics, including revenue, operating income, net income, and earnings per share. Such developments underscore...",
-                "publication_date": "2025-03-31T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8519",
-                "source": "Simply Wall St.",
-                "ticker": "INTC",
-                "title": "AI Chips Today - Alchip Advances With Record 2024 AI Chip Performance",
-                "url": "https://finance.yahoo.com/news/ai-chips-today-alchip-advances-110713607.html"
             }
         ],
-        "avgScore": 0.18530000000000002
+        "avgScore": 0.18791250000000007
     },
     "3 28 2025": {
         "importantArticles": [
@@ -972,7 +972,7 @@
                 "url": "https://finance.yahoo.com/news/intel-exits-sk-hynix-takes-172549950.html"
             }
         ],
-        "avgScore": 0.17565454545454548
+        "avgScore": 0.19322
     },
     "3 27 2025": {
         "importantArticles": [
@@ -997,14 +997,14 @@
                 "url": "https://finance.yahoo.com/news/intel-stock-could-soar-nvidia-113000467.html"
             },
             {
-                "headline": "Pat Gelsinger, the former CEO of Intel, on Wednesday joined venture capital firm Playground Global as a general partner and also joined the board of a startup working to improve a key chip manufacturing tool.  Founded in 2015, Silicon Valley-based Playground has $1.2 billion in assets under management and specializes in deep technology investments such as semiconductors.  Gelsinger, who left Intel after disagreements with its board over his turnaround strategy, told Reuters in an interview that he will be involved with 10 to 20 of Playground's portfolio companies and focused on finding technologies that can perform at least 10 times better than the existing state of the art.",
+                "headline": "Since late last year, the company has been reshuffling its board to make it more chip industry focused as it attempts to reclaim its lost glory under new leadership.",
                 "publication_date": "2025-03-27T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.743",
+                "sentimentScore": "0.6204",
                 "source": "Reuters",
                 "ticker": "INTC",
-                "title": "Ex-Intel CEO Gelsinger joins venture capital firm Playground Global",
-                "url": "https://finance.yahoo.com/news/ex-intel-ceo-gelsinger-joins-230901778.html"
+                "title": "Three Intel board members to retire in chip industry-focused reshuffle",
+                "url": "https://finance.yahoo.com/news/three-intel-board-members-retire-145128442.html"
             },
             {
                 "headline": "(Bloomberg) -- Advanced Micro Devices Inc. is falling further behind Nvidia Corp. in its technological capabilities, a fact that could continue to pressure the stock, according to Jefferies, which downgraded the chipmaker to hold.Most Read from BloombergWhy Did the Government Declare War on My Adorable Tiny Truck?How SUVs Are Making Traffic WorseTrump Slashed International Aid. Geneva Is Feeling the Impact.These US Bridges Face High Risk of Catastrophic Ship StrikesAffordable Housing Developers",
@@ -1037,7 +1037,7 @@
                 "url": "https://finance.yahoo.com/m/54cc8168-227d-3d93-8f62-ddb9421d3058/amd-stock-downgraded-as.html"
             }
         ],
-        "avgScore": 0.17220833333333327
+        "avgScore": 0.11029166666666661
     },
     "3 26 2025": {
         "importantArticles": [
@@ -1052,6 +1052,16 @@
                 "url": "https://finance.yahoo.com/news/ai-chips-nvidia-peak-aio-110739343.html"
             },
             {
+                "headline": "Pat Gelsinger, the former CEO of Intel, on Wednesday joined venture capital firm Playground Global as a general partner and also joined the board of a startup working to improve a key chip manufacturing tool.  Founded in 2015, Silicon Valley-based Playground has $1.2 billion in assets under management and specializes in deep technology investments such as semiconductors.  Gelsinger, who left Intel after disagreements with its board over his turnaround strategy, told Reuters in an interview that he will be involved with 10 to 20 of Playground's portfolio companies and focused on finding technologies that can perform at least 10 times better than the existing state of the art.",
+                "publication_date": "2025-03-26T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.743",
+                "source": "Reuters",
+                "ticker": "INTC",
+                "title": "Ex-Intel CEO Gelsinger joins venture capital firm Playground Global",
+                "url": "https://finance.yahoo.com/news/ex-intel-ceo-gelsinger-joins-230901778.html"
+            },
+            {
                 "headline": "The executive agreed to buy $25 million of Intel stock within his first 30 days. He made good on that promise Friday.",
                 "publication_date": "2025-03-26T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -1060,16 +1070,6 @@
                 "ticker": "INTC",
                 "title": "Intel CEO Lip Bu Tan Completes $25 Million Stock Buy",
                 "url": "https://finance.yahoo.com/m/477b25f5-90a9-3213-9b91-16c55e0d00a4/intel-ceo-lip-bu-tan.html"
-            },
-            {
-                "headline": "Intel (NASDAQ: INTC) is facing multiple headwinds in its core PC CPU market.  While Intel extended warranties, this mishap almost certainly pushed some customers to rival Advanced Micro Devices.  While gaming accounts for only a portion of the PC CPU market, AMD's products probably came to be viewed as a low-risk alternative.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4779",
-                "source": "Motley Fool",
-                "ticker": "INTC",
-                "title": "Intel Investors Just Got Great News From Amazon",
-                "url": "https://finance.yahoo.com/news/intel-investors-just-got-great-092000155.html"
             },
             {
                 "headline": "AMD stock has fallen amid sluggish sales of PCs and traditional servers. It also hasn\u2019t been able to dent Nvidia\u2019s lead in AI accelerators.",
@@ -1102,7 +1102,7 @@
                 "url": "https://finance.yahoo.com/m/ea67532c-f57f-3c3d-bd44-63735af01978/tsmc%E2%80%99s-u-s-made-chips-might.html"
             }
         ],
-        "avgScore": 0.2104
+        "avgScore": 0.2864857142857143
     },
     "3 25 2025": {
         "importantArticles": [
@@ -1169,37 +1169,12 @@
         ],
         "avgScore": 0.29514
     },
-    "3 24 2025": {
-        "importantArticles": [
-            {
-                "headline": "UBS says Intel's near-term focus includes landing major chip clients and rolling out a lower-power 18A process",
-                "publication_date": "2025-03-24T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "GuruFocus.com",
-                "ticker": "INTC",
-                "title": "Intel's CEO Resets Roadmap With Fresh Play for Nvidia and Broadcom",
-                "url": "https://finance.yahoo.com/news/intels-ceo-resets-roadmap-fresh-202506446.html"
-            },
-            {
-                "headline": "UBS says Intel's near-term focus includes landing major chip clients and rolling out a lower-power 18A process",
-                "publication_date": "2025-03-24T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "GuruFocus.com",
-                "ticker": "INTC",
-                "title": "Intel's CEO Resets Roadmap With Fresh Play for Nvidia and Broadcom",
-                "url": "https://finance.yahoo.com/news/intels-ceo-resets-roadmap-fresh-202506446.html"
-            }
-        ],
-        "avgScore": 0.0
-    },
-    "coef": -0.45964912280701753,
-    "avgCoef": 0.005449057254860829,
+    "coef": -0.45510835913312697,
+    "avgCoef": 0.03216969071905949,
     "similar": {
-        "T": 0.0912280701754386,
-        "IAG": 0.031578947368421054,
-        "UNH": 0.019298245614035085,
-        "NGD": -0.010526315789473684
+        "GOLD": 0.1991744066047472,
+        "T": 0.1929824561403509,
+        "NGD": 0.16202270381836945,
+        "IAG": 0.11661506707946334
     }
 }

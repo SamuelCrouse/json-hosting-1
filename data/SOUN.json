@@ -904,57 +904,12 @@
         ],
         "avgScore": 0.01840000000000001
     },
-    "3 18 2025": {
-        "importantArticles": [
-            {
-                "headline": "We recently published a list of 10 Stocks Defy Monday\u2019s Market Optimism. In this article, we are going to take a look at where SoundHound AI Inc. (NASDAQ:SOUN) stands against other stocks that defy Monday\u2019s market optimism. US shares kicked off Monday\u2019s trading with a bounceback from last week\u2019s pessimistic sentiment, as economies took a [\u2026]",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7717",
-                "source": "Insider Monkey",
-                "ticker": "SOUN",
-                "title": "Why SoundHound AI Inc. (SOUN) Went Down On Monday",
-                "url": "https://finance.yahoo.com/news/why-soundhound-ai-inc-soun-134432470.html"
-            },
-            {
-                "headline": "As the Q4 earnings season wraps, let\u2019s dig into this quarter\u2019s best and worst performers in the automation software industry, including Pegasystems (NASDAQ:PEGA) and its peers.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0258",
-                "source": "StockStory",
-                "ticker": "SOUN",
-                "title": "Automation Software Stocks Q4 In Review: Pegasystems (NASDAQ:PEGA) Vs Peers",
-                "url": "https://finance.yahoo.com/news/automation-software-stocks-q4-review-090227140.html"
-            },
-            {
-                "headline": "As the Q4 earnings season wraps, let\u2019s dig into this quarter\u2019s best and worst performers in the automation software industry, including Pegasystems (NASDAQ:PEGA) and its peers.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0258",
-                "source": "StockStory",
-                "ticker": "SOUN",
-                "title": "Automation Software Stocks Q4 In Review: Pegasystems (NASDAQ:PEGA) Vs Peers",
-                "url": "https://finance.yahoo.com/news/automation-software-stocks-q4-review-090227140.html"
-            },
-            {
-                "headline": "We recently published a list of 10 Stocks Defy Monday\u2019s Market Optimism. In this article, we are going to take a look at where SoundHound AI Inc. (NASDAQ:SOUN) stands against other stocks that defy Monday\u2019s market optimism. US shares kicked off Monday\u2019s trading with a bounceback from last week\u2019s pessimistic sentiment, as economies took a [\u2026]",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7717",
-                "source": "Insider Monkey",
-                "ticker": "SOUN",
-                "title": "Why SoundHound AI Inc. (SOUN) Went Down On Monday",
-                "url": "https://finance.yahoo.com/news/why-soundhound-ai-inc-soun-134432470.html"
-            }
-        ],
-        "avgScore": 0.39875000000000005
-    },
-    "coef": 0.001694915524739963,
-    "avgCoef": 0.02116858059676342,
+    "coef": -0.0552306809250766,
+    "avgCoef": 0.019992713973608193,
     "similar": {
-        "RIVN": 0.3519774573043323,
-        "INFY": 0.3406780204727326,
-        "AUR": 0.3203390341758531,
-        "GOLD": 0.31525428760163315
+        "INFY": 0.3430799944522406,
+        "RIVN": 0.34113067630194377,
+        "GOLD": 0.3157895403480851,
+        "AUR": 0.2923977225445232
     }
 }

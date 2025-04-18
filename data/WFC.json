@@ -552,17 +552,17 @@
                 "url": "https://finance.yahoo.com/m/215ef5e2-d9c0-33f9-a5f0-a2011587c8c8/banks-don%E2%80%99t-pay-tariffs-but.html"
             },
             {
-                "headline": "Earnings preview of key companies reporting this week and what to look out for.",
+                "headline": "We all know that the banking business isn't subject to tariffs. But as cyclical operators, their business is heavily exposed to trends in the broader economy, which in turn is seen as weighed down by the ongoing tariffs uncertainty.",
                 "publication_date": "2025-04-04T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Yahoo Finance UK",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5499",
+                "source": "Zacks",
                 "ticker": "WFC",
-                "title": "Stocks to watch this week: JPMorgan, TSMC, Walgreens Boots Alliance, Levi's and Tesco",
-                "url": "https://finance.yahoo.com/news/jpmorgan-tsmc-walgreens-boots-alliance-levis-tesco-stocks-to-watch-125459353.html"
+                "title": "A Closer Look at Bank Stocks & Tariff Worries",
+                "url": "https://finance.yahoo.com/news/closer-look-bank-stocks-tariff-004800860.html"
             }
         ],
-        "avgScore": 0.0002666666666666558
+        "avgScore": -0.07832857142857144
     },
     "4 3 2025": {
         "importantArticles": [
@@ -1114,77 +1114,12 @@
         ],
         "avgScore": 0.472
     },
-    "3 18 2025": {
-        "importantArticles": [
-            {
-                "headline": "$250,000 directed to United Way Bay Area to support free financial planning at the organization's 20 SparkPoint\u2122 centers across the region SAN FRANCISCO, CA / ACCESS Newswire / March 18, 2025 / The $1 million donation from Wells Fargo to United ...",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.9118",
-                "source": "ACCESS Newswire",
-                "ticker": "WFC",
-                "title": "California United Ways Receive $1 Million From Wells Fargo To Accelerate Financial Empowerment",
-                "url": "https://finance.yahoo.com/news/california-united-ways-receive-1-180500847.html"
-            },
-            {
-                "headline": "We recently published a list of 10 Most Profitable Value Stocks to Buy Now. In this article, we are going to take a look at where Wells Fargo & Company (NYSE:WFC) stands against other profitable value stocks to buy now. Matt Powers, Managing Partner at Powers Advisory Group, joined the discussion on CNBC\u2019s \u2018Power Lunch\u2019 [\u2026]",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.9036",
-                "source": "Insider Monkey",
-                "ticker": "WFC",
-                "title": "Wells Fargo & Co. (WFC): Among the Most Profitable Value Stocks to Buy Now",
-                "url": "https://finance.yahoo.com/news/wells-fargo-co-wfc-among-063508633.html"
-            },
-            {
-                "headline": "Regulators have terminated 11 consent orders against Wells since 2019, including five so far this year. The bank's asset cap, however, remains.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6597",
-                "source": "Banking Dive",
-                "ticker": "WFC",
-                "title": "OCC terminates 2021 Wells Fargo consent order, leaving bank with 3",
-                "url": "https://finance.yahoo.com/news/occ-terminates-2021-wells-fargo-120839863.html"
-            },
-            {
-                "headline": "Big US banks wanted Michelle Bowman to be their new overseer at the Federal Reserve \u2014 and that's what they got.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Yahoo Finance",
-                "ticker": "WFC",
-                "title": "Wall Street gets a Washington win with Trump's pick of Bowman as Fed overseer",
-                "url": "https://finance.yahoo.com/news/wall-street-gets-a-washington-win-with-trumps-pick-of-bowman-as-fed-overseer-162215009.html"
-            },
-            {
-                "headline": "WFC's 2021 consent order related to loss mitigation practices is terminated by OCC. This marks the 11th consent order closed by regulators since 2019.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.128",
-                "source": "Zacks",
-                "ticker": "WFC",
-                "title": "Wells Fargo's 2021 Compliance Consent Order Terminated by OCC",
-                "url": "https://finance.yahoo.com/news/wells-fargos-2021-compliance-consent-162500495.html"
-            },
-            {
-                "headline": "Wells Fargo (WFC) closed the most recent trading day at $71.11, moving +0.38% from the previous trading session.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.25",
-                "source": "Zacks",
-                "ticker": "WFC",
-                "title": "Wells Fargo (WFC) Rises As Market Takes a Dip: Key Facts",
-                "url": "https://finance.yahoo.com/news/wells-fargo-wfc-rises-market-214515620.html"
-            }
-        ],
-        "avgScore": 0.47551666666666664
-    },
-    "coef": 0.007518796992481202,
-    "avgCoef": 0.017293918363868847,
+    "coef": -0.07017543859649124,
+    "avgCoef": 0.03655936655927086,
     "similar": {
-        "TSLA": 0.306766917293233,
-        "KGC": 0.26165413533834586,
-        "KMI": 0.2300751879699248,
-        "QXO": 0.22105263157894736
+        "TSLA": 0.2771929824561403,
+        "KGC": 0.23859649122807017,
+        "PFE": 0.2263157894736842,
+        "QXO": 0.22456140350877193
     }
 }

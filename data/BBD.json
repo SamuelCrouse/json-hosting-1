@@ -74,37 +74,12 @@
         ],
         "avgScore": 0.3818
     },
-    "3 18 2025": {
-        "importantArticles": [
-            {
-                "headline": "We recently published a list of 15 Best Penny Stocks to Buy According to Billionaires. In this article, we are going to take a look at where Banco Bradesco S.A. (NYSE:BBD) stands against other best penny stocks to buy according to billionaires. Can Small-Cap Stocks Overtake Large-Caps in 2025? On February 14, Morningstar released a [\u2026]",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8555",
-                "source": "Insider Monkey",
-                "ticker": "BBD",
-                "title": "Is Banco Bradesco S.A. (NYSE:BBD) the Best Penny Stock to Buy According to Billionaires?",
-                "url": "https://finance.yahoo.com/news/banco-bradesco-nyse-bbd-best-232112451.html"
-            },
-            {
-                "headline": "We recently published a list of 15 Best Penny Stocks to Buy According to Billionaires. In this article, we are going to take a look at where Banco Bradesco S.A. (NYSE:BBD) stands against other best penny stocks to buy according to billionaires. Can Small-Cap Stocks Overtake Large-Caps in 2025? On February 14, Morningstar released a [\u2026]",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8555",
-                "source": "Insider Monkey",
-                "ticker": "BBD",
-                "title": "Is Banco Bradesco S.A. (NYSE:BBD) the Best Penny Stock to Buy According to Billionaires?",
-                "url": "https://finance.yahoo.com/news/banco-bradesco-nyse-bbd-best-232112451.html"
-            }
-        ],
-        "avgScore": 0.8555
-    },
-    "coef": 0.39999999999999997,
-    "avgCoef": -0.0043412566640297,
+    "coef": 0.5,
+    "avgCoef": 0.033984129271698214,
     "similar": {
         "TSLA": 1.0,
-        "NU": 0.7999999999999999,
-        "CLSK": 0.7999999999999999,
-        "MU": 0.7999999999999999
+        "MP": 1.0,
+        "T": 1.0,
+        "IAG": 1.0
     }
 }

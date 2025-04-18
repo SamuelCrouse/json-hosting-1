@@ -529,37 +529,12 @@
         ],
         "avgScore": 0.36755
     },
-    "3 18 2025": {
-        "importantArticles": [
-            {
-                "headline": "Idaho Strategic Resources (IDR) saw its shares surge in the last session with trading volume being higher than average. The latest trend in earnings estimate revisions may not translate into further price increase in the near term.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.5423",
-                "source": "Zacks",
-                "ticker": "KGC",
-                "title": "Idaho Strategic Resources (IDR) Soars 6.0%: Is Further Upside Left in the Stock?",
-                "url": "https://finance.yahoo.com/news/idaho-strategic-resources-idr-soars-155400128.html"
-            },
-            {
-                "headline": "Idaho Strategic Resources (IDR) saw its shares surge in the last session with trading volume being higher than average. The latest trend in earnings estimate revisions may not translate into further price increase in the near term.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.5423",
-                "source": "Zacks",
-                "ticker": "KGC",
-                "title": "Idaho Strategic Resources (IDR) Soars 6.0%: Is Further Upside Left in the Stock?",
-                "url": "https://finance.yahoo.com/news/idaho-strategic-resources-idr-soars-155400128.html"
-            }
-        ],
-        "avgScore": 0.5423
-    },
-    "coef": -0.06428571428571428,
-    "avgCoef": 0.015238144686945248,
+    "coef": -0.06373626373626373,
+    "avgCoef": 0.03573610256163615,
     "similar": {
-        "HIMS": 0.6857142857142856,
-        "ACHR": 0.6464285714285712,
-        "TFC": 0.6357142857142856,
-        "MSFT": 0.6178571428571428
+        "INTC": 0.7054945054945055,
+        "HIMS": 0.665934065934066,
+        "TFC": 0.6351648351648352,
+        "ACHR": 0.6263736263736264
     }
 }

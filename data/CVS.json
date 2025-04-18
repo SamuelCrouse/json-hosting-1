@@ -312,16 +312,6 @@
                 "url": "https://finance.yahoo.com/news/cvs-health-names-former-ups-180829477.html"
             },
             {
-                "headline": "Bloomberg, citing people familiar with the situation, said the timing of Cowhey's departure was unclear but did not give a reason for the CFO leaving.  CVS declined to comment to Bloomberg and did not immediately respond to a Reuters email for comment.",
-                "publication_date": "2025-04-08T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.128",
-                "source": "Reuters",
-                "ticker": "CVS",
-                "title": "CVS Health's CFO to leave amid turnaround efforts, Bloomberg News reports",
-                "url": "https://finance.yahoo.com/news/cvs-healths-financial-chief-step-020941952.html"
-            },
-            {
                 "headline": "CVS Health\u00ae (NYSE: CVS) today announced two leadership updates.",
                 "publication_date": "2025-04-08T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -330,9 +320,19 @@
                 "ticker": "CVS",
                 "title": "CVS Health Announces Chief Financial Officer Transition Plan; Appoints Chief Medical Officer",
                 "url": "https://finance.yahoo.com/news/cvs-health-announces-chief-financial-103000579.html"
+            },
+            {
+                "headline": "UPS and PepsiCo alum Brian Newman will receive a $1 million base salary as the latest member of the healthcare company\u2019s revamped leadership suite.",
+                "publication_date": "2025-04-08T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "CFO Dive",
+                "ticker": "CVS",
+                "title": "Newly-minted CVS Health CFO inks $1M salary",
+                "url": "https://finance.yahoo.com/news/newly-minted-cvs-health-cfo-143134031.html"
             }
         ],
-        "avgScore": 0.4218809523809523
+        "avgScore": 0.44937499999999997
     },
     "4 7 2025": {
         "importantArticles": [
@@ -367,6 +367,16 @@
                 "url": "https://finance.yahoo.com/video/healthcare-stocks-rally-us-govt-214254028.html"
             },
             {
+                "headline": "Bloomberg, citing people familiar with the situation, said the timing of Cowhey's departure was unclear but did not give a reason for the CFO leaving.  CVS declined to comment to Bloomberg and did not immediately respond to a Reuters email for comment.",
+                "publication_date": "2025-04-07T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.128",
+                "source": "Reuters",
+                "ticker": "CVS",
+                "title": "CVS Health's CFO to leave amid turnaround efforts, Bloomberg News reports",
+                "url": "https://finance.yahoo.com/news/cvs-healths-financial-chief-step-020941952.html"
+            },
+            {
                 "headline": "UnitedHealth (UNH), Humana (HUM), and CVS Health (CVS) rally in extended-hours trading on news that the US government will pay more than previously proposed to Medicare Advantage providers. Julie Hyman breaks down the details on Market Domination Overtime. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime here.",
                 "publication_date": "2025-04-07T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -385,19 +395,9 @@
                 "ticker": "CVS",
                 "title": "CVS Health Takes the Lead in 2025 S&P 500 Chart: Is It a Buy Now?",
                 "url": "https://finance.yahoo.com/news/cvs-health-takes-lead-2025-190000258.html"
-            },
-            {
-                "headline": "CVS Health (NYSE:CVS) has had a great run on the share market with its stock up by a significant 39% over the last...",
-                "publication_date": "2025-04-07T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7964",
-                "source": "Simply Wall St.",
-                "ticker": "CVS",
-                "title": "CVS Health Corporation's (NYSE:CVS) Stock Is Rallying But Financials Look Ambiguous: Will The Momentum Continue?",
-                "url": "https://finance.yahoo.com/news/cvs-health-corporations-nyse-cvs-120019751.html"
             }
         ],
-        "avgScore": 0.5061666666666667
+        "avgScore": 0.34762499999999996
     },
     "4 4 2025": {
         "importantArticles": [
@@ -994,37 +994,12 @@
         ],
         "avgScore": 0.2222666666666667
     },
-    "3 18 2025": {
-        "importantArticles": [
-            {
-                "headline": "Let\u2019s dig into the relative performance of Clover Health (NASDAQ:CLOV) and its peers as we unravel the now-completed Q4 health insurance providers earnings season.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "StockStory",
-                "ticker": "CVS",
-                "title": "Q4 Earnings Outperformers: Clover Health (NASDAQ:CLOV) And The Rest Of The Health Insurance Providers Stocks",
-                "url": "https://finance.yahoo.com/news/q4-earnings-outperformers-clover-health-090348873.html"
-            },
-            {
-                "headline": "Let\u2019s dig into the relative performance of Clover Health (NASDAQ:CLOV) and its peers as we unravel the now-completed Q4 health insurance providers earnings season.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "StockStory",
-                "ticker": "CVS",
-                "title": "Q4 Earnings Outperformers: Clover Health (NASDAQ:CLOV) And The Rest Of The Health Insurance Providers Stocks",
-                "url": "https://finance.yahoo.com/news/q4-earnings-outperformers-clover-health-090348873.html"
-            }
-        ],
-        "avgScore": 0.0
-    },
-    "coef": 0.16603891804563292,
-    "avgCoef": 0.024193347926187495,
+    "coef": 0.17750466780249147,
+    "avgCoef": 0.01935685807419011,
     "similar": {
-        "PTON": 0.5411359283578129,
-        "UNH": 0.4083047939213064,
-        "GOOGL": 0.39019145740723743,
-        "AA": 0.3841536785692144
+        "PTON": 0.6520220965814291,
+        "AA": 0.5746933304100466,
+        "GOOGL": 0.5395438912412364,
+        "GOOG": 0.5219691716568313
     }
 }

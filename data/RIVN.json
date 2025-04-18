@@ -77,26 +77,6 @@
                 "url": "https://finance.yahoo.com/news/rivian-automotive-nasdaqgs-rivn-spins-180111280.html"
             },
             {
-                "headline": "At one point last year, it fell about 65% from January to April after poor delivery numbers, only to soar more than 100% from its lows on the news of a partnership with Volkswagen.  Can Rivian take advantage of Musk's missteps?  Elon Musk's foray into politics and DOGE (the Department of Government Efficiency) has clearly hurt Tesla\u00a0and opened the door for electric vehicle (EV) rivals like Rivian.",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.2732",
-                "source": "Motley Fool",
-                "ticker": "RIVN",
-                "title": "Is Rivian Stock a Buy Now?",
-                "url": "https://finance.yahoo.com/news/rivian-stock-buy-now-012900176.html"
-            },
-            {
-                "headline": "At one point last year, it fell about 65% from January to April after poor delivery numbers, only to soar more than 100% from its lows on the news of a partnership with Volkswagen.  Can Rivian take advantage of Musk's missteps?  Elon Musk's foray into politics and DOGE (the Department of Government Efficiency) has clearly hurt Tesla\u00a0and opened the door for electric vehicle (EV) rivals like Rivian.",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.2732",
-                "source": "Motley Fool",
-                "ticker": "RIVN",
-                "title": "Is Rivian Stock a Buy Now?",
-                "url": "https://finance.yahoo.com/news/rivian-stock-buy-now-012900176.html"
-            },
-            {
                 "headline": "Rivian Automotive (NasdaqGS:RIVN) experienced a significant month with a 11% share price increase, coinciding with the strategic spinout of its micromobility business, Also, Inc., where CEO RJ Scaringe will serve as Chairman. This move is likely seen as a refocus on Rivian's core electric vehicle operations. Despite a broader market experiencing volatility due to U.S. export restrictions and tech sector sell-offs, Rivian's organizational changes provide a positive counterbalance, hinting at...",
                 "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -107,7 +87,7 @@
                 "url": "https://finance.yahoo.com/news/rivian-automotive-nasdaqgs-rivn-spins-180111280.html"
             }
         ],
-        "avgScore": 0.2814
+        "avgScore": 0.836
     },
     "4 15 2025": {
         "importantArticles": [
@@ -132,6 +112,26 @@
                 "url": "https://finance.yahoo.com/news/why-rivian-automotive-rivn-dipped-215016192.html"
             },
             {
+                "headline": "At one point last year, it fell about 65% from January to April after poor delivery numbers, only to soar more than 100% from its lows on the news of a partnership with Volkswagen.  Can Rivian take advantage of Musk's missteps?  Elon Musk's foray into politics and DOGE (the Department of Government Efficiency) has clearly hurt Tesla\u00a0and opened the door for electric vehicle (EV) rivals like Rivian.",
+                "publication_date": "2025-04-15T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.2732",
+                "source": "Motley Fool",
+                "ticker": "RIVN",
+                "title": "Is Rivian Stock a Buy Now?",
+                "url": "https://finance.yahoo.com/news/rivian-stock-buy-now-012900176.html"
+            },
+            {
+                "headline": "At one point last year, it fell about 65% from January to April after poor delivery numbers, only to soar more than 100% from its lows on the news of a partnership with Volkswagen.  Can Rivian take advantage of Musk's missteps?  Elon Musk's foray into politics and DOGE (the Department of Government Efficiency) has clearly hurt Tesla\u00a0and opened the door for electric vehicle (EV) rivals like Rivian.",
+                "publication_date": "2025-04-15T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.2732",
+                "source": "Motley Fool",
+                "ticker": "RIVN",
+                "title": "Is Rivian Stock a Buy Now?",
+                "url": "https://finance.yahoo.com/news/rivian-stock-buy-now-012900176.html"
+            },
+            {
                 "headline": "Rivian Automotive (RIVN) concluded the recent trading session at $11.91, signifying a -1% move from its prior day's close.",
                 "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -152,7 +152,7 @@
                 "url": "https://finance.yahoo.com/news/rivian-ceo-discusses-tariffs-says-215953826.html"
             }
         ],
-        "avgScore": 0.0
+        "avgScore": -0.09106666666666667
     },
     "4 14 2025": {
         "importantArticles": [
@@ -697,16 +697,6 @@
                 "url": "https://finance.yahoo.com/news/rivian-spins-electric-micromobility-business-121704741.html"
             },
             {
-                "headline": "The EV startup is focusing on expanding into an unexpected market.",
-                "publication_date": "2025-03-27T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "TheStreet",
-                "ticker": "RIVN",
-                "title": "Rivian ventures away from cars, heads down an unexpected avenue",
-                "url": "https://finance.yahoo.com/news/rivian-ventures-away-cars-heads-020700622.html"
-            },
-            {
                 "headline": "The automaker says that the cameras it developed for its Enhanced Highway Assist feature\u00a0offer the highest resolution \u201cof any vehicle in North America.\u201d",
                 "publication_date": "2025-03-27T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -725,9 +715,19 @@
                 "ticker": "RIVN",
                 "title": "Rivian spins out electric micromobility business",
                 "url": "https://finance.yahoo.com/news/rivian-spins-electric-micromobility-business-121704741.html"
+            },
+            {
+                "headline": "Both European and American automakers are seeing their shares take a hit from President Trump's decision to put a 25% levy on vehicles and some auto parts imported into the US. There are a couple of auto stocks moving higher though. Both Tesla and Rivian are trading higher given how much of their production is in the United States. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
+                "publication_date": "2025-03-27T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6124",
+                "source": "Yahoo Finance Video",
+                "ticker": "RIVN",
+                "title": "Auto stocks feel the impact of Trump's latest tariff: Market Minute",
+                "url": "https://finance.yahoo.com/video/auto-stocks-feel-impact-trumps-152124933.html"
             }
         ],
-        "avgScore": 0.39004
+        "avgScore": 0.48755
     },
     "3 26 2025": {
         "importantArticles": [
@@ -792,7 +792,7 @@
                 "url": "https://finance.yahoo.com/news/rivian-unveils-spins-off-secret-144559592.html"
             }
         ],
-        "avgScore": 0.12431999999999999
+        "avgScore": 0.11301818181818181
     },
     "3 25 2025": {
         "importantArticles": [
@@ -1019,77 +1019,12 @@
         ],
         "avgScore": 0.16675
     },
-    "3 18 2025": {
-        "importantArticles": [
-            {
-                "headline": "Investors might have been a collectively gloomy bunch on Tuesday, but they ended up being positive about the future of electric vehicle (EV) maker Rivian Automotive (NASDAQ: RIVN).  The analyst behind the positive note was Benchmark's Mickey Legg, who that morning reiterated his existing buy recommendation on Rivian and his $18 per-share price target.  According to reports, Legg's justification comes from what he feels is Rivian's good access to capital.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.9366",
-                "source": "Motley Fool",
-                "ticker": "RIVN",
-                "title": "Why Rivian Stock Gained While the Market Slumped Today",
-                "url": "https://finance.yahoo.com/news/why-rivian-stock-gained-while-222400285.html"
-            },
-            {
-                "headline": "Why Waymo, BYD, Mercedes-Benz, and Nvidia are among Fast Company\u2019s Most Innovative Companies in automotive for 2025.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4927",
-                "source": "FastCompany",
-                "ticker": "RIVN",
-                "title": "The most innovative companies in automotive for 2025",
-                "url": "https://finance.yahoo.com/news/most-innovative-companies-automotive-2025-110000600.html"
-            },
-            {
-                "headline": "The automaker will get its first SDV to market one year ahead of schedule as a result of gaining access to the U.S. EV maker's technology.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4215",
-                "source": "Automotive News",
-                "ticker": "RIVN",
-                "title": "VW, with Rivian help, brings forward launch of first software-defined vehicle",
-                "url": "https://finance.yahoo.com/news/vw-rivian-help-brings-forward-060000143.html"
-            },
-            {
-                "headline": "Also: Trump will call Putin today, Microsoft almost passed on Nadella.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Fortune",
-                "ticker": "RIVN",
-                "title": "Rivian CEO RJ Scaringe on steering through the mess",
-                "url": "https://finance.yahoo.com/news/rivian-ceo-rj-scaringe-steering-095223899.html"
-            },
-            {
-                "headline": "Investing.com -- Despite near-term headwinds, Rivian (NASDAQ:RIVN)'s long-term trajectory remains intact, according to Benchmark analysts, who maintained a Buy rating and an $18 price target on the stock.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.2023",
-                "source": "Investing.com",
-                "ticker": "RIVN",
-                "title": "Rivian's long-term story remains intact: Benchmark",
-                "url": "https://finance.yahoo.com/news/rivians-long-term-story-remains-153818881.html"
-            },
-            {
-                "headline": "We recently published a list of Jim Cramer\u2019s Latest Calls: Top 10 Stocks. In this article, we are going to take a look at where Rivian Automotive, Inc. (NASDAQ:RIVN) stands against other top stocks that Jim Cramer discusses. Jim Cramer recently talked about the impact of tariffs on the US stock market and mentioned some [\u2026]",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.3818",
-                "source": "Insider Monkey",
-                "ticker": "RIVN",
-                "title": "Jim Cramer Says He Can\u2019t Recommend Rivian Automotive (RIVN) Because It \u2018Needs So Much More Money\u2019",
-                "url": "https://finance.yahoo.com/news/jim-cramer-says-t-recommend-165522253.html"
-            }
-        ],
-        "avgScore": 0.4058166666666667
-    },
-    "coef": -0.1344592471045436,
-    "avgCoef": 0.019363311509842926,
+    "coef": -0.12030075187969923,
+    "avgCoef": 0.019879446011809437,
     "similar": {
-        "VALE": 0.31178955850328943,
-        "T": 0.31113999692307426,
-        "NGD": 0.3007470116396313,
-        "KGC": 0.2968496421583402
+        "VALE": 0.3413533834586466,
+        "T": 0.28721804511278193,
+        "SCHW": 0.23609022556390977,
+        "HPE": 0.23157894736842105
     }
 }

@@ -424,37 +424,12 @@
         ],
         "avgScore": 0.1779
     },
-    "3 18 2025": {
-        "importantArticles": [
-            {
-                "headline": "As the Q4 earnings season wraps, let\u2019s dig into this quarter\u2019s best and worst performers in the data & business process services industry, including EXL (NASDAQ:EXLS) and its peers.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0258",
-                "source": "StockStory",
-                "ticker": "DNB",
-                "title": "Q4 Rundown: EXL (NASDAQ:EXLS) Vs Other Data & Business Process Services Stocks",
-                "url": "https://finance.yahoo.com/news/q4-rundown-exl-nasdaq-exls-090305931.html"
-            },
-            {
-                "headline": "As the Q4 earnings season wraps, let\u2019s dig into this quarter\u2019s best and worst performers in the data & business process services industry, including EXL (NASDAQ:EXLS) and its peers.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0258",
-                "source": "StockStory",
-                "ticker": "DNB",
-                "title": "Q4 Rundown: EXL (NASDAQ:EXLS) Vs Other Data & Business Process Services Stocks",
-                "url": "https://finance.yahoo.com/news/q4-rundown-exl-nasdaq-exls-090305931.html"
-            }
-        ],
-        "avgScore": 0.0258
-    },
-    "coef": -0.08444778071896848,
-    "avgCoef": 0.025749263949433047,
+    "coef": -0.013869959038576213,
+    "avgCoef": 0.020031859039376133,
     "similar": {
-        "CMCSA": 0.43287398245829206,
-        "CNH": 0.37737731804056235,
-        "RIVN": 0.3307601199296693,
-        "AAPL": 0.30634158758586827
+        "CMCSA": 0.45430931643573735,
+        "RIVN": 0.4099864562956654,
+        "CSCO": 0.38505484746687496,
+        "CNH": 0.32134073601552154
     }
 }

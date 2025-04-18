@@ -32,6 +32,26 @@
                 "url": "https://finance.yahoo.com/news/us-stock-futures-bounce-back-100015027.html"
             },
             {
+                "headline": "Stocks wrapped up another volatile week with a mixed day as the global trade war remains top of mind and tensions rose between the Trump administration and the Federal Reserve.  The S&P 500 ticked up 0.1%, while the Nasdaq slipped 0.1%.  The Dow Jones Industrial Average was an outlier, falling 1.3%, or 527 points, after disappointing results from  UnitedHealth  UnitedHealth\u2019s share price, which dropped by $130.93, or 22%, has an outsize effect on the price-weighted Dow index.",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.8807",
+                "source": "The Wall Street Journal",
+                "ticker": "NVDA",
+                "title": "Dow Industrials Fall, Capping Another Tough Week on Wall Street",
+                "url": "https://finance.yahoo.com/m/4964ab56-4a95-35a8-b7e2-e890652d06b5/dow-industrials-fall-capping.html"
+            },
+            {
+                "headline": "UnitedHealth stock falls sharply after an earnings miss and cut to guidance at the health insurer, a judge rules that Alphabet\u2019s Google operates an illegal ad monopoly, and Nvidia extends losses following a warning it would record a massive charge from trade restrictions.",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.872",
+                "source": "Barrons.com",
+                "ticker": "NVDA",
+                "title": "These Stocks Moved the Most Today: UnitedHealth, Alphabet, Nvidia, Lilly, D.R. Horton, Schwab, Netflix, Hertz, and More",
+                "url": "https://finance.yahoo.com/m/eeba0522-f2ba-32bd-a110-d642d205fb98/these-stocks-moved-the-most.html"
+            },
+            {
                 "headline": "The major averages were broadly lower near noon, with the Nasdaq down over 300 points amid escalating trade tensions and new export restrictions.\u200b This follows the U.S. government\u2019s decision to tighten export controls on advanced AI-related computer chips.\u200b The recent U.S. actions have intensified concerns over a potential trade war. President Donald Trump has announced a new investigation into critical mineral imports and imposed steep tariffs on Chinese imports. In retaliation, China has incre",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -40,29 +60,9 @@
                 "ticker": "NVDA",
                 "title": "Nvidia, AMD see charges due to new China export rules: Morning Buzz",
                 "url": "https://finance.yahoo.com/news/nvidia-amd-see-charges-due-160543145.html"
-            },
-            {
-                "headline": "We recently published a list of 12 Stocks on Jim Cramer\u2019s Radar Recently. In this article, we are going to take a look at where NVIDIA Corporation (NASDAQ:NVDA) stands against other stocks that on Jim Cramer\u2019s radar recently. On Tuesday, Jim Cramer, host of Mad Money, criticized the market\u2019s reaction, or lack thereof, to the [\u2026]",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.7906",
-                "source": "Insider Monkey",
-                "ticker": "NVDA",
-                "title": "Jim Cramer Says NVIDIA (NVDA) Can\u2019t Be Owned Like Before: \u201cYou Have to Trim\u201d",
-                "url": "https://finance.yahoo.com/news/jim-cramer-says-nvidia-nvda-170211589.html"
-            },
-            {
-                "headline": "Nvidia CEO Lands in China as U.S. AI Chip Ban Threatens $5.5B in Sales",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.7351",
-                "source": "GuruFocus.com",
-                "ticker": "NVDA",
-                "title": "Nvidia's Top Exec in Beijing Amid Rising U.S.-China Chip Tensions",
-                "url": "https://finance.yahoo.com/news/nvidias-top-exec-beijing-amid-151127876.html"
             }
         ],
-        "avgScore": 0.0902522388059701
+        "avgScore": 0.06276874999999993
     },
     "4 16 2025": {
         "importantArticles": [
@@ -107,16 +107,6 @@
                 "url": "https://finance.yahoo.com/video/q1-earnings-us-china-trade-143923088.html"
             },
             {
-                "headline": "(Bloomberg) -- Chinese stocks in Hong Kong snapped a six-day winning streak, as renewed fears of an expanding US-China trade war weighed on sentiment.Most Read from BloombergHow Did This Suburb Figure Out Mass Transit?Trump Signs Executive Orders on Federal Purchasing, Office SpaceLA County Floats Leaner Budget Burdened by Fire and Legal CostsThe Hang Seng China Enterprises Index closed down 2.6% to be among Asia\u2019s worst performers on Wednesday. The mainland benchmark CSI 300 Index ended up 0.3%",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.9001",
-                "source": "Bloomberg",
-                "ticker": "NVDA",
-                "title": "Chinese Stocks Slump in Hong Kong as Trade War Concerns Mount",
-                "url": "https://finance.yahoo.com/news/chinese-stocks-slump-hong-kong-081841312.html"
-            },
-            {
                 "headline": "(Reuters) -Global chip stocks were battered on Wednesday on fresh evidence of how U.S. President Donald Trump's shifting trade policy was complicating the outlook for semiconductor and computing giants, including AI pioneer Nvidia and its rival AMD.  Attempts to reorient global trade through tariffs and export curbs have started to show the effect as Nvidia warned of a $5.5 billion hit after Washington restricted exports of its AI processor tailored for China, while Dutch chip-making tools giant ASML raised doubts about its outlook.  The U.S. restriction, which also hit the MI308 processor of Advanced Micro Devices, marked the latest blow for the AI chip trade that is losing steam after a two-year rally as tariff threats and fears over Big Tech's spending weigh on sentiment.",
                 "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -125,66 +115,26 @@
                 "ticker": "NVDA",
                 "title": "Global chipmakers feel the pinch of Trump's shifting trade policy",
                 "url": "https://finance.yahoo.com/news/global-chip-stocks-slide-nvidia-110516321.html"
-            }
-        ],
-        "avgScore": 0.011309649122807009
-    },
-    "4 3 2025": {
-        "importantArticles": [
-            {
-                "headline": "CEO Jensen Huang met Chinese trade officials after the U.S. launched a probe into the company's chip sales.",
-                "publication_date": "2025-04-03T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.128",
-                "source": "GuruFocus.com",
-                "ticker": "NVDA",
-                "title": "Nvidia CEO Meets Chinese Officials After U.S. Opens Probe Into Chip Sales",
-                "url": "https://finance.yahoo.com/news/nvidia-ceo-meets-chinese-officials-211032755.html"
             },
             {
-                "headline": "CEO Jensen Huang met Chinese trade officials after the U.S. launched a probe into the company's chip sales.",
-                "publication_date": "2025-04-03T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.128",
-                "source": "GuruFocus.com",
+                "headline": "Tech stocks are leading Wall Street lower as new export restriction take the U.S-China trade war to a new and damaging level.",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.8885",
+                "source": "TheStreet",
                 "ticker": "NVDA",
-                "title": "Nvidia CEO Meets Chinese Officials After U.S. Opens Probe Into Chip Sales",
-                "url": "https://finance.yahoo.com/news/nvidia-ceo-meets-chinese-officials-211032755.html"
+                "title": "Stock Market Today: Stocks tumble as Powell adds to trade war concerns",
+                "url": "https://finance.yahoo.com/news/stock-market-today-stocks-slide-095909363.html"
             }
         ],
-        "avgScore": 0.128
+        "avgScore": 0.024924793388429758
     },
-    "3 24 2025": {
-        "importantArticles": [
-            {
-                "headline": "As a volatile market correction rattles Big Tech, Nvidia stock puts the focus on these rules for when to sell stocks.",
-                "publication_date": "2025-03-24T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Investor's Business Daily",
-                "ticker": "NVDA",
-                "title": "Nvidia Stock \u2014 Once Again \u2014 Puts The 8 'Secrets' Of Selling In Focus",
-                "url": "https://finance.yahoo.com/m/0de2c5ec-4d76-3994-a567-02c18b5b2cfc/nvidia-stock-%E2%80%94-once-again-%E2%80%94.html"
-            },
-            {
-                "headline": "As a volatile market correction rattles Big Tech, Nvidia stock puts the focus on these rules for when to sell stocks.",
-                "publication_date": "2025-03-24T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Investor's Business Daily",
-                "ticker": "NVDA",
-                "title": "Nvidia Stock \u2014 Once Again \u2014 Puts The 8 'Secrets' Of Selling In Focus",
-                "url": "https://finance.yahoo.com/m/0de2c5ec-4d76-3994-a567-02c18b5b2cfc/nvidia-stock-%E2%80%94-once-again-%E2%80%94.html"
-            }
-        ],
-        "avgScore": 0.0
-    },
-    "coef": -0.7999999999999999,
-    "avgCoef": 0.006929451712450895,
+    "coef": 0.9999999999999999,
+    "avgCoef": 0.017722806710619425,
     "similar": {
-        "QXO": 0.7999999999999999,
-        "AAL": 0.39999999999999997,
-        "MARA": 0.39999999999999997,
-        "UAA": 0.316227766016838
+        "NVDA": 0.9999999999999999,
+        "INTC": 0.9999999999999999,
+        "ABEV": 0.9999999999999999,
+        "LCID": NaN
     }
 }

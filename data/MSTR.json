@@ -972,17 +972,17 @@
                 "url": "https://finance.yahoo.com/news/microstrategy-accounts-16-2024-equity-193000980.html"
             },
             {
-                "headline": "MicroStrategy shares jumped more than 10% on Monday after a regulatory filing revealed that the software firm, the world's largest corporate holder of bitcoin, had purchased more of the digital currency. Monitor these major chart levels.",
+                "headline": "Strategy Executive Chair Michael Saylor discusses a U.S. Bitcoin strategic reserve, why securities holders keep him sleepless, and his own economic immortality.",
                 "publication_date": "2025-03-25T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.296",
-                "source": "Investopedia",
+                "source": "CoinDesk",
                 "ticker": "MSTR",
-                "title": "Watch These MicroStrategy Price Levels as Stock Jumps After Latest Bitcoin Purchase",
-                "url": "https://finance.yahoo.com/news/watch-microstrategy-price-levels-stock-034857741.html"
+                "title": "Michael Saylor\u2019s $200 Trillion Bitcoin Strategy: U.S. BTC Domination and Immortality",
+                "url": "https://finance.yahoo.com/news/michael-saylor-200-trillion-bitcoin-145640692.html"
             }
         ],
-        "avgScore": 0.26635000000000003
+        "avgScore": 0.26042
     },
     "3 24 2025": {
         "importantArticles": [
@@ -1047,7 +1047,7 @@
                 "url": "https://finance.yahoo.com/news/michael-saylors-firm-hits-500-173654633.html"
             }
         ],
-        "avgScore": 0.2873076923076924
+        "avgScore": 0.2879285714285714
     },
     "3 21 2025": {
         "importantArticles": [
@@ -1244,77 +1244,12 @@
         ],
         "avgScore": 0.2922666666666666
     },
-    "3 18 2025": {
-        "importantArticles": [
-            {
-                "headline": "Not all firms following MicroStrategy's lead have reaped the same rewards.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4767",
-                "source": "TheStreet",
-                "ticker": "MSTR",
-                "title": "MicroStrategy copycats struggle to match its Bitcoin playbook",
-                "url": "https://finance.yahoo.com/news/microstrategy-copycats-struggling-saylor-built-220000857.html"
-            },
-            {
-                "headline": "The business software company's shares typically move in line with the token, because it's the largest corporate holder of the cryptocurrency.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.296",
-                "source": "Barrons.com",
-                "ticker": "MSTR",
-                "title": "MicroStrategy Stock Falls. What Its Latest Bitcoin Buy Means for Crypto.",
-                "url": "https://finance.yahoo.com/m/18c78a23-7ac8-3c60-8b9c-f403f234a409/microstrategy-stock-falls-.html"
-            },
-            {
-                "headline": "Strategy (formerly MicroStrategy) plans to issue $500M in Series A Perpetual Preferred Stock to fund more Bitcoin purchases.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "TheStreet",
-                "ticker": "MSTR",
-                "title": "MicroStrategy plans major stock sale to fuel Bitcoin buying spree",
-                "url": "https://finance.yahoo.com/news/microstrategy-plans-major-stock-sale-122420790.html"
-            },
-            {
-                "headline": "MicroStrategy, the bitcoin-buying machine, has come up with a new instrument for funding yet more purchases of the largest cryptocurrrency.  MicroStrategy has already bought up nearly half a million bitcoin, now worth about $41 billion, funded through debt and equity sales.  The strikes pay a lower 8% dividend and rank behind strife stock in the line for repayment; they can also be converted into common stock.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.6908",
-                "source": "The Wall Street Journal",
-                "ticker": "MSTR",
-                "title": "\u2018Strife\u2019: MicroStrategy\u2019s New Tool for Buying Yet More Bitcoin",
-                "url": "https://finance.yahoo.com/m/1cdabbcd-a629-38ae-af50-0d16d28c6f5f/%E2%80%98strife%E2%80%99-microstrategy%E2%80%99s-new.html"
-            },
-            {
-                "headline": "The stock has run circles around the broader market for two years, but it could be a ticking time bomb.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.6486",
-                "source": "Motley Fool",
-                "ticker": "MSTR",
-                "title": "Strategy (MicroStrategy): Buy, Sell, or Hold?",
-                "url": "https://finance.yahoo.com/news/strategy-microstrategy-buy-sell-hold-122300254.html"
-            },
-            {
-                "headline": "MSTR's recent price action is exact inverse of the BTC topping pattern from January that warned of a price sell-off.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.2732",
-                "source": "CoinDesk",
-                "ticker": "MSTR",
-                "title": "MicroStrategy's Double Bottom May Be Signal for New Bull Run: Technical Analysis",
-                "url": "https://finance.yahoo.com/news/microstrategys-double-bottom-may-signal-094711777.html"
-            }
-        ],
-        "avgScore": -0.14958888888888888
-    },
-    "coef": -0.059288537549407126,
-    "avgCoef": 0.017765972759887297,
+    "coef": -0.02727272727272727,
+    "avgCoef": 0.021085079911598168,
     "similar": {
-        "TTD": 0.347261434217956,
-        "VRN": 0.3422762068145849,
-        "ACHR": 0.3235460191981932,
-        "FCX": 0.3156408808582722
+        "TTD": 0.39610389610389607,
+        "VRN": 0.3916856328697574,
+        "ACHR": 0.3896103896103896,
+        "FCX": 0.34935064935064936
     }
 }

@@ -2,6 +2,16 @@
     "4 17 2025": {
         "importantArticles": [
             {
+                "headline": "Investing.com -- Hewlett Packard Enterprise\u2019s (NYSE:HPE) board of directors is expected to meet in the coming days to discuss a proposal from Elliott Investment Management to replace CEO Antonio Neri, according to Semafor, citing people close to the company. Neri, a company veteran who has led HPE since 2018, has come under scrutiny amid challenges in shareholder performance and strategic execution.",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.0772",
+                "source": "Investing.com",
+                "ticker": "HPE",
+                "title": "Elliott said to pressure HPE Board to replace CEO Antonio Neri",
+                "url": "https://finance.yahoo.com/news/elliott-said-pressure-hpe-board-220224716.html"
+            },
+            {
                 "headline": "HPE stock climbed amid a report activist investor Elliott Management plans to seek the ouster of Chief Executive Antonio Neri.",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -20,9 +30,19 @@
                 "ticker": "HPE",
                 "title": "Elliott Management Seeks To Oust HPE's Chief Executive Neri, Report Says",
                 "url": "https://finance.yahoo.com/m/50729a9d-fa2a-38a7-b9da-89adc4f0f3ef/elliott-management-seeks-to.html"
+            },
+            {
+                "headline": "Investing.com -- Hewlett Packard Enterprise\u2019s (NYSE:HPE) board of directors is expected to meet in the coming days to discuss a proposal from Elliott Investment Management to replace CEO Antonio Neri, according to Semafor, citing people close to the company. Neri, a company veteran who has led HPE since 2018, has come under scrutiny amid challenges in shareholder performance and strategic execution.",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.0772",
+                "source": "Investing.com",
+                "ticker": "HPE",
+                "title": "Elliott said to pressure HPE Board to replace CEO Antonio Neri",
+                "url": "https://finance.yahoo.com/news/elliott-said-pressure-hpe-board-220224716.html"
             }
         ],
-        "avgScore": 0.0
+        "avgScore": 0.0386
     },
     "4 16 2025": {
         "importantArticles": [
@@ -699,12 +719,12 @@
         ],
         "avgScore": 0.87885
     },
-    "coef": 0.06622518349184178,
-    "avgCoef": 0.0012330163313298544,
+    "coef": 0.06176470588235294,
+    "avgCoef": 0.035781636074257044,
     "similar": {
-        "ADT": 0.5916116391937865,
-        "NGD": 0.5813099439839444,
-        "PSLV": 0.5783666024954182,
-        "BCS": 0.5754232610068918
+        "ADT": 0.5823529411764706,
+        "PSLV": 0.5676470588235295,
+        "NGD": 0.5676470588235295,
+        "BCS": 0.5676470588235295
     }
 }

@@ -424,37 +424,12 @@
         ],
         "avgScore": -0.4215
     },
-    "3 18 2025": {
-        "importantArticles": [
-            {
-                "headline": "What trends should we look for it we want to identify stocks that can multiply in value over the long term? Ideally, a...",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6705",
-                "source": "Simply Wall St.",
-                "ticker": "PCG",
-                "title": "PG&E (NYSE:PCG) Shareholders Will Want The ROCE Trajectory To Continue",
-                "url": "https://finance.yahoo.com/news/pg-e-nyse-pcg-shareholders-123601990.html"
-            },
-            {
-                "headline": "What trends should we look for it we want to identify stocks that can multiply in value over the long term? Ideally, a...",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6705",
-                "source": "Simply Wall St.",
-                "ticker": "PCG",
-                "title": "PG&E (NYSE:PCG) Shareholders Will Want The ROCE Trajectory To Continue",
-                "url": "https://finance.yahoo.com/news/pg-e-nyse-pcg-shareholders-123601990.html"
-            }
-        ],
-        "avgScore": 0.6705
-    },
-    "coef": 0.31243143218319597,
-    "avgCoef": 0.022287632183952216,
+    "coef": 0.31361790329201583,
+    "avgCoef": 0.020410446182826072,
     "similar": {
-        "PSLV": 0.8096814580522262,
-        "NGD": 0.7986803512852122,
-        "BTG": 0.7634768096307677,
-        "RIVN": 0.7524757028637538
+        "PSLV": 0.8143061348634796,
+        "RIVN": 0.8060530321452686,
+        "NGD": 0.7812937239906358,
+        "BTG": 0.7400282103995811
     }
 }

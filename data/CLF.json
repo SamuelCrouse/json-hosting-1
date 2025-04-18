@@ -574,57 +574,12 @@
         ],
         "avgScore": 0.27115
     },
-    "3 18 2025": {
-        "importantArticles": [
-            {
-                "headline": "We recently published a list of 10 Best Steel Stocks to Buy According to Billionaires. In this article, we are going to take a look at where Cleveland-Cliffs Inc. (NYSE:CLF) stands against other best steel stocks to buy according to billionaires. The steel sector remains vital to global infrastructure and manufacturing, and continuous growth is [\u2026]",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.9217",
-                "source": "Insider Monkey",
-                "ticker": "CLF",
-                "title": "Cleveland-Cliffs Inc. (CLF): Among the Best Steel Stocks to Buy According to Billionaires",
-                "url": "https://finance.yahoo.com/news/cleveland-cliffs-inc-clf-among-141755976.html"
-            },
-            {
-                "headline": "We recently published a list of 10 Stocks Defy Monday\u2019s Market Optimism. In this article, we are going to take a look at where Cleveland-Cliffs Inc. (NYSE:CLF) stands against other stocks that defy Monday\u2019s market optimism. US shares kicked off Monday\u2019s trading with a bounceback from last week\u2019s pessimistic sentiment, as economies took a pause [\u2026]",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7717",
-                "source": "Insider Monkey",
-                "ticker": "CLF",
-                "title": "Why Cleveland-Cliffs Inc. (CLF) Went Down On Monday",
-                "url": "https://finance.yahoo.com/news/why-cleveland-cliffs-inc-clf-134359076.html"
-            },
-            {
-                "headline": "We recently published a list of 10 Stocks Defy Monday\u2019s Market Optimism. In this article, we are going to take a look at where Cleveland-Cliffs Inc. (NYSE:CLF) stands against other stocks that defy Monday\u2019s market optimism. US shares kicked off Monday\u2019s trading with a bounceback from last week\u2019s pessimistic sentiment, as economies took a pause [\u2026]",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7717",
-                "source": "Insider Monkey",
-                "ticker": "CLF",
-                "title": "Why Cleveland-Cliffs Inc. (CLF) Went Down On Monday",
-                "url": "https://finance.yahoo.com/news/why-cleveland-cliffs-inc-clf-134359076.html"
-            },
-            {
-                "headline": "We recently published a list of 10 Best Steel Stocks to Buy According to Billionaires. In this article, we are going to take a look at where Cleveland-Cliffs Inc. (NYSE:CLF) stands against other best steel stocks to buy according to billionaires. The steel sector remains vital to global infrastructure and manufacturing, and continuous growth is [\u2026]",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.9217",
-                "source": "Insider Monkey",
-                "ticker": "CLF",
-                "title": "Cleveland-Cliffs Inc. (CLF): Among the Best Steel Stocks to Buy According to Billionaires",
-                "url": "https://finance.yahoo.com/news/cleveland-cliffs-inc-clf-among-141755976.html"
-            }
-        ],
-        "avgScore": 0.8467
-    },
-    "coef": 0.12214867177384148,
-    "avgCoef": 0.025157110395155755,
+    "coef": 0.17336914876329135,
+    "avgCoef": 0.01944858407224498,
     "similar": {
-        "NU": 0.5033113945379976,
-        "PLTR": 0.5018397237937343,
-        "SNAP": 0.4885946870953659,
-        "HIMS": 0.4871230163511028
+        "UAA": 0.4892665474060823,
+        "PLTR": 0.47721198680204935,
+        "HBAN": 0.43789114893821013,
+        "NKE": 0.43789114893821013
     }
 }

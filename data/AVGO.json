@@ -387,7 +387,7 @@
                 "url": "https://finance.yahoo.com/news/broadcom-inc-avgo-jim-cramer-124113832.html"
             }
         ],
-        "avgScore": 0.08063333333333335
+        "avgScore": 0.08796363636363638
     },
     "4 9 2025": {
         "importantArticles": [
@@ -452,7 +452,7 @@
                 "url": "https://finance.yahoo.com/news/zacks-analyst-blog-highlights-apple-103800973.html"
             }
         ],
-        "avgScore": 0.40921
+        "avgScore": 0.37200909090909096
     },
     "4 8 2025": {
         "importantArticles": [
@@ -1147,16 +1147,6 @@
                 "url": "https://finance.yahoo.com/news/broadcom-extends-200g-lane-dsp-130000512.html"
             },
             {
-                "headline": "Two major chipmakers recently lost their places in the trillion-dollar club.",
-                "publication_date": "2025-03-25T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.3182",
-                "source": "Motley Fool",
-                "ticker": "AVGO",
-                "title": "Prediction: These 2 Artificial Intelligence (AI) Semiconductor Stocks Will Reclaim Their Spots in the Trillion-Dollar Club by Year's End",
-                "url": "https://finance.yahoo.com/news/prediction-2-artificial-intelligence-ai-010600856.html"
-            },
-            {
                 "headline": "U.S. trade restrictions are a major overhang on AI chip stocks, including Nvidia. Industry officials are lobbying the White House for changes.",
                 "publication_date": "2025-03-25T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -1165,9 +1155,19 @@
                 "ticker": "AVGO",
                 "title": "U.S. Trade Restrictions Remain Big Overhang On AI Chip Stocks",
                 "url": "https://finance.yahoo.com/m/f72c061e-4488-35be-81dc-f92bd92fc388/u-s-trade-restrictions.html"
+            },
+            {
+                "headline": "Broadcom and Crown Castle in the Box have been highlighted as Zacks Bull and Bear of the Day",
+                "publication_date": "2025-03-25T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "AVGO",
+                "title": "Broadcom and Crown Castle in the Box have been highlighted as Zacks Bull and Bear of the Day",
+                "url": "https://finance.yahoo.com/news/broadcom-crown-castle-box-highlighted-062000144.html"
             }
         ],
-        "avgScore": 0.07255000000000003
+        "avgScore": 0.1283714285714286
     },
     "3 24 2025": {
         "importantArticles": [
@@ -1202,6 +1202,16 @@
                 "url": "https://finance.yahoo.com/news/marvell-technology-undervalued-data-center-101646406.html"
             },
             {
+                "headline": "Two major chipmakers recently lost their places in the trillion-dollar club.",
+                "publication_date": "2025-03-24T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.3182",
+                "source": "Motley Fool",
+                "ticker": "AVGO",
+                "title": "Prediction: These 2 Artificial Intelligence (AI) Semiconductor Stocks Will Reclaim Their Spots in the Trillion-Dollar Club by Year's End",
+                "url": "https://finance.yahoo.com/news/prediction-2-artificial-intelligence-ai-010600856.html"
+            },
+            {
                 "headline": "Investors looking for ways to find stocks that are set to beat quarterly earnings estimates should check out the Zacks Earnings ESP.",
                 "publication_date": "2025-03-24T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -1220,19 +1230,9 @@
                 "ticker": "AVGO",
                 "title": "Intel's CEO Resets Roadmap With Fresh Play for Nvidia and Broadcom",
                 "url": "https://finance.yahoo.com/news/intels-ceo-resets-roadmap-fresh-202506446.html"
-            },
-            {
-                "headline": "Intel has a chance at brighter days under new CEO Lip-Bu Tan, but it will take a while, Band of America analyst Vivek Arya said.",
-                "publication_date": "2025-03-24T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.3182",
-                "source": "Yahoo Finance",
-                "ticker": "AVGO",
-                "title": "Intel has a shot at being 'viable' with new CEO at the wheel: Analyst",
-                "url": "https://finance.yahoo.com/news/intel-has-a-shot-at-being-viable-with-new-ceo-at-the-wheel-analyst-143519196.html"
             }
         ],
-        "avgScore": 0.5537299999999999
+        "avgScore": 0.4744636363636363
     },
     "3 21 2025": {
         "importantArticles": [
@@ -1364,12 +1364,12 @@
         ],
         "avgScore": 0.5363666666666667
     },
-    "coef": 0.02857142857142857,
-    "avgCoef": 0.002455251356226363,
+    "coef": 0.01818181818181818,
+    "avgCoef": 0.035745952253381126,
     "similar": {
-        "UNH": 0.2571428571428571,
-        "T": 0.21818181818181817,
-        "TSLA": 0.14285714285714285,
-        "INTC": 0.13506493506493505
+        "UNH": 0.3103896103896104,
+        "T": 0.20649350649350648,
+        "TSLA": 0.11168831168831168,
+        "INTC": 0.10389610389610389
     }
 }

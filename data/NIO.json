@@ -827,7 +827,32 @@
                 "url": "https://finance.yahoo.com/video/carnival-nio-lennar-market-minute-160824431.html"
             }
         ],
-        "avgScore": -0.0691
+        "avgScore": -0.0649
+    },
+    "3 20 2025": {
+        "importantArticles": [
+            {
+                "headline": "Market Domination Overtime hosts Julie Hyman and Josh Schafer preview the biggest market stories and events for Friday, March 21. Cruise line operator Carnival Corporation (CCL) and EV maker Nio (NIO) are the latest companies to report quarterly earnings results tomorrow. Nvidia's (NVDA) 2025 GTV event wraps up on Friday, its biggest moment being CEO Jensen Huang's keynote address earlier this week. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime&nbsp;here.",
+                "publication_date": "2025-03-20T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.1027",
+                "source": "Yahoo Finance Video",
+                "ticker": "NIO",
+                "title": "Carnival earnings, Nio, Nvidia GTC wraps up: What to Watch",
+                "url": "https://finance.yahoo.com/video/carnival-earnings-nio-nvidia-gtc-230032894.html"
+            },
+            {
+                "headline": "Market Domination Overtime hosts Julie Hyman and Josh Schafer preview the biggest market stories and events for Friday, March 21. Cruise line operator Carnival Corporation (CCL) and EV maker Nio (NIO) are the latest companies to report quarterly earnings results tomorrow. Nvidia's (NVDA) 2025 GTV event wraps up on Friday, its biggest moment being CEO Jensen Huang's keynote address earlier this week. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime&nbsp;here.",
+                "publication_date": "2025-03-20T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.1027",
+                "source": "Yahoo Finance Video",
+                "ticker": "NIO",
+                "title": "Carnival earnings, Nio, Nvidia GTC wraps up: What to Watch",
+                "url": "https://finance.yahoo.com/video/carnival-earnings-nio-nvidia-gtc-230032894.html"
+            }
+        ],
+        "avgScore": -0.1027
     },
     "3 19 2025": {
         "importantArticles": [
@@ -919,12 +944,12 @@
         ],
         "avgScore": 0.8555
     },
-    "coef": 0.02030838804768783,
-    "avgCoef": 0.0003769981751124569,
+    "coef": 0.06820396592259458,
+    "avgCoef": 0.035398471451257796,
     "similar": {
-        "HLN": 0.6034612490594431,
-        "GRAB": 0.5062053761516263,
-        "NU": 0.46333211249539646,
-        "KVUE": 0.39864613575090924
+        "HLN": 0.6328784925276153,
+        "GRAB": 0.42416371188051666,
+        "KVUE": 0.4053264260542763,
+        "IAG": 0.39688212551147883
     }
 }

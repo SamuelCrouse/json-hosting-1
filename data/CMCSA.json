@@ -1244,77 +1244,12 @@
         ],
         "avgScore": 0.33105
     },
-    "3 18 2025": {
-        "importantArticles": [
-            {
-                "headline": "Comcast (NasdaqGS:CMCSA) has shown resilience amid a volatile market backdrop with a 1% share price increase over the past month. This growth aligns with key product developments, notably the expansion of Xfinity Multiview and upgraded internet speeds, which likely enhanced consumer engagement, especially during March Madness. Customers now enjoy increased interactivity through voice commands and access to comprehensive tournament coverage. Meanwhile, broader market trends showed significant...",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.9049",
-                "source": "Simply Wall St.",
-                "ticker": "CMCSA",
-                "title": "Comcast (NasdaqGS:CMCSA) Expands Xfinity Multiview Enhancing March Hoops Viewing Experience",
-                "url": "https://finance.yahoo.com/news/comcast-nasdaqgs-cmcsa-expands-xfinity-174735756.html"
-            },
-            {
-                "headline": "NBCUniversal (CMCSA) is already courting advertisers for its ambitious 2026 lineup, which features a slate of major live events.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4767",
-                "source": "Quartz",
-                "ticker": "CMCSA",
-                "title": "NBCUniversal is already pitching next year's live events to advertisers",
-                "url": "https://finance.yahoo.com/news/nbcuniversal-already-pitching-next-years-165250634.html"
-            },
-            {
-                "headline": "We recently published a list of 12 Incredibly Cheap Dividend Stocks to Buy Now. In this article, we are going to take a look at where Comcast Corporation (NASDAQ:CMCSA) stands against other incredibly cheap dividend stocks to buy now. Value investing has long been a preferred strategy among investors, largely influenced by Warren Buffett, who [\u2026]",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.34",
-                "source": "Insider Monkey",
-                "ticker": "CMCSA",
-                "title": "Comcast Corporation (CMCSA): Among Incredibly Cheap Dividend Stock to Buy Now",
-                "url": "https://finance.yahoo.com/news/comcast-corporation-cmcsa-among-incredibly-213457673.html"
-            },
-            {
-                "headline": "New Retail Store Provides Convenient Location for Spokane Residents to Experience Xfinity and Comcast Business Products, Address Service Needs and Exchange Equipment SPOKANE, WA / ACCESS Newswire / March 18, 2025 / Comcast has opened a new Xfinity ...",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "ACCESS Newswire",
-                "ticker": "CMCSA",
-                "title": "Comcast Opens New Xfinity Store in Spokane",
-                "url": "https://finance.yahoo.com/news/comcast-opens-xfinity-store-spokane-190000414.html"
-            },
-            {
-                "headline": "We recently published a list of 12 Incredibly Cheap Dividend Stocks to Buy Now. In this article, we are going to take a look at where Comcast Corporation (NASDAQ:CMCSA) stands against other incredibly cheap dividend stocks to buy now. Value investing has long been a preferred strategy among investors, largely influenced by Warren Buffett, who [\u2026]",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.34",
-                "source": "Insider Monkey",
-                "ticker": "CMCSA",
-                "title": "Comcast Corporation (CMCSA): Among Incredibly Cheap Dividend Stock to Buy Now",
-                "url": "https://finance.yahoo.com/news/comcast-corporation-cmcsa-among-incredibly-213457673.html"
-            },
-            {
-                "headline": "NBCUniversal (CMCSA) is already courting advertisers for its ambitious 2026 lineup, which features a slate of major live events.",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4767",
-                "source": "Quartz",
-                "ticker": "CMCSA",
-                "title": "NBCUniversal is already pitching next year's live events to advertisers",
-                "url": "https://finance.yahoo.com/news/nbcuniversal-already-pitching-next-years-165250634.html"
-            }
-        ],
-        "avgScore": 0.43040000000000006
-    },
-    "coef": -0.17221908526256355,
-    "avgCoef": 0.02517083919285347,
+    "coef": -0.16103896103896104,
+    "avgCoef": 0.019942418045587315,
     "similar": {
-        "UMC": 0.35177865612648224,
-        "MSTR": 0.32919254658385094,
-        "TTD": 0.2907961603613778,
-        "SNAP": 0.2874082439299831
+        "UMC": 0.3337662337662338,
+        "MSTR": 0.2727272727272727,
+        "TTD": 0.2662337662337662,
+        "SNAP": 0.24805194805194808
     }
 }

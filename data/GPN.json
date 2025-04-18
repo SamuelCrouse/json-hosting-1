@@ -114,37 +114,12 @@
         ],
         "avgScore": 0.0
     },
-    "3 18 2025": {
-        "importantArticles": [
-            {
-                "headline": "We recently compiled a list of the 20 Best Fintech Stocks to Buy According to Billionaires. In this article, we are going to take a look at where Global Payments Inc. (NYSE:GPN) stands against the other best fintech stocks. Tech stocks have faced challenges lately, and fintech companies have been hit particularly hard. On March [\u2026]",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8405",
-                "source": "Insider Monkey",
-                "ticker": "GPN",
-                "title": "Global Payments (GPN): Among the Best Fintech Stocks to Buy According to Billionaires",
-                "url": "https://finance.yahoo.com/news/global-payments-gpn-among-best-200414545.html"
-            },
-            {
-                "headline": "We recently compiled a list of the 20 Best Fintech Stocks to Buy According to Billionaires. In this article, we are going to take a look at where Global Payments Inc. (NYSE:GPN) stands against the other best fintech stocks. Tech stocks have faced challenges lately, and fintech companies have been hit particularly hard. On March [\u2026]",
-                "publication_date": "2025-03-18T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8405",
-                "source": "Insider Monkey",
-                "ticker": "GPN",
-                "title": "Global Payments (GPN): Among the Best Fintech Stocks to Buy According to Billionaires",
-                "url": "https://finance.yahoo.com/news/global-payments-gpn-among-best-200414545.html"
-            }
-        ],
-        "avgScore": 0.8405
-    },
-    "coef": 0.6000000000000001,
-    "avgCoef": 0.014690111513837397,
+    "coef": 0.5,
+    "avgCoef": 0.03500331862067356,
     "similar": {
+        "SPY": 1.0,
+        "F": 1.0,
         "PLTR": 1.0,
-        "BAC": 1.0,
-        "HBAN": 1.0,
-        "ACHR": 1.0
+        "PFE": 1.0
     }
 }

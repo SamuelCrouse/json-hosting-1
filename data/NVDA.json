@@ -22,24 +22,14 @@
                 "url": "https://finance.yahoo.com/news/nvidia-ceo-jensen-huang-arrived-073924556.html"
             },
             {
-                "headline": "Taiwan Semiconductor Manufacturing (NYSE: TSM), popularly known as TSMC, is the world's largest semiconductor foundry, which fabricates chips for the top consumer electronics companies and chip designers across the globe.  The world's leading companies, such as Nvidia, AMD, Broadcom, Sony, and Apple, tap TSMC's plants for manufacturing chips that power personal computers (PCs), smartphones, data centers, and gaming consoles, among others.  As a result, TSMC is in a solid position to benefit from the secular growth of the global semiconductor market, which is expected to hit $2 trillion in annual revenue in 2032.",
+                "headline": "(Reuters) -Wall Street stocks ended mixed on Thursday, lifted by Eli Lilly and Apple, as\u00a0investors weighed progress in U.S. trade negotiations with Japan against concerns about the interest rate\u00a0outlook.  Traders leaned toward optimism following U.S. President Donald Trump's comments about \"big progress\" in the bilateral talks after Wednesday's steep selloff.  Trump also told reporters he expects to make a trade deal with China, although he offered no indication of how talks would get underway with the two superpowers at an apparent impasse.",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.8689",
-                "source": "Motley Fool",
+                "sentimentScore": "0.872",
+                "source": "Reuters",
                 "ticker": "NVDA",
-                "title": "TSMC: Why This Semiconductor Giant Looks Like a Massive Bargain Right Now",
-                "url": "https://finance.yahoo.com/news/tsmc-why-semiconductor-giant-looks-220000368.html"
-            },
-            {
-                "headline": "UnitedHealth stock falls sharply after an earnings miss and cut to guidance at the health insurer, a judge rules that Alphabet\u2019s Google operates an illegal ad monopoly, and Nvidia extends losses following a warning it would record a massive charge from trade restrictions.",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.872",
-                "source": "Barrons.com",
-                "ticker": "NVDA",
-                "title": "These Stocks Are Moving the Most Today: UnitedHealth, Alphabet, Nvidia, Lilly, D.R. Horton, Schwab, Netflix, Hertz, and More",
-                "url": "https://finance.yahoo.com/m/eeba0522-f2ba-32bd-a110-d642d205fb98/these-stocks-are-moving-the.html"
+                "title": "Wall Street choppy as Eli Lilly jumps, UnitedHealth plummets",
+                "url": "https://finance.yahoo.com/news/us-stock-futures-bounce-back-100015027.html"
             },
             {
                 "headline": "The major averages were broadly lower near noon, with the Nasdaq down over 300 points amid escalating trade tensions and new export restrictions.\u200b This follows the U.S. government\u2019s decision to tighten export controls on advanced AI-related computer chips.\u200b The recent U.S. actions have intensified concerns over a potential trade war. President Donald Trump has announced a new investigation into critical mineral imports and imposed steep tariffs on Chinese imports. In retaliation, China has incre",
@@ -52,17 +42,27 @@
                 "url": "https://finance.yahoo.com/news/nvidia-amd-see-charges-due-160543145.html"
             },
             {
-                "headline": "The U.S.-China tech war just claimed another high-profile casualty.",
+                "headline": "We recently published a list of 12 Stocks on Jim Cramer\u2019s Radar Recently. In this article, we are going to take a look at where NVIDIA Corporation (NASDAQ:NVDA) stands against other stocks that on Jim Cramer\u2019s radar recently. On Tuesday, Jim Cramer, host of Mad Money, criticized the market\u2019s reaction, or lack thereof, to the [\u2026]",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.8074",
-                "source": "Quartz",
+                "sentimentScore": "-0.7906",
+                "source": "Insider Monkey",
                 "ticker": "NVDA",
-                "title": "Nvidia stock plunges 7% as a U.S. ban on China AI exports means a $5.5 billion hit",
-                "url": "https://finance.yahoo.com/news/nvidia-stock-slumps-6-u-142600357.html"
+                "title": "Jim Cramer Says NVIDIA (NVDA) Can\u2019t Be Owned Like Before: \u201cYou Have to Trim\u201d",
+                "url": "https://finance.yahoo.com/news/jim-cramer-says-nvidia-nvda-170211589.html"
+            },
+            {
+                "headline": "Nvidia CEO Lands in China as U.S. AI Chip Ban Threatens $5.5B in Sales",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.7351",
+                "source": "GuruFocus.com",
+                "ticker": "NVDA",
+                "title": "Nvidia's Top Exec in Beijing Amid Rising U.S.-China Chip Tensions",
+                "url": "https://finance.yahoo.com/news/nvidias-top-exec-beijing-amid-151127876.html"
             }
         ],
-        "avgScore": 0.020847191011235874
+        "avgScore": 0.0902522388059701
     },
     "4 16 2025": {
         "importantArticles": [
@@ -127,14 +127,64 @@
                 "url": "https://finance.yahoo.com/news/global-chip-stocks-slide-nvidia-110516321.html"
             }
         ],
-        "avgScore": 0.08293186813186808
+        "avgScore": 0.011309649122807009
     },
-    "coef": -0.9999999999999999,
-    "avgCoef": 0.12673289289644812,
+    "4 3 2025": {
+        "importantArticles": [
+            {
+                "headline": "CEO Jensen Huang met Chinese trade officials after the U.S. launched a probe into the company's chip sales.",
+                "publication_date": "2025-04-03T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.128",
+                "source": "GuruFocus.com",
+                "ticker": "NVDA",
+                "title": "Nvidia CEO Meets Chinese Officials After U.S. Opens Probe Into Chip Sales",
+                "url": "https://finance.yahoo.com/news/nvidia-ceo-meets-chinese-officials-211032755.html"
+            },
+            {
+                "headline": "CEO Jensen Huang met Chinese trade officials after the U.S. launched a probe into the company's chip sales.",
+                "publication_date": "2025-04-03T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.128",
+                "source": "GuruFocus.com",
+                "ticker": "NVDA",
+                "title": "Nvidia CEO Meets Chinese Officials After U.S. Opens Probe Into Chip Sales",
+                "url": "https://finance.yahoo.com/news/nvidia-ceo-meets-chinese-officials-211032755.html"
+            }
+        ],
+        "avgScore": 0.128
+    },
+    "3 24 2025": {
+        "importantArticles": [
+            {
+                "headline": "As a volatile market correction rattles Big Tech, Nvidia stock puts the focus on these rules for when to sell stocks.",
+                "publication_date": "2025-03-24T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Investor's Business Daily",
+                "ticker": "NVDA",
+                "title": "Nvidia Stock \u2014 Once Again \u2014 Puts The 8 'Secrets' Of Selling In Focus",
+                "url": "https://finance.yahoo.com/m/0de2c5ec-4d76-3994-a567-02c18b5b2cfc/nvidia-stock-%E2%80%94-once-again-%E2%80%94.html"
+            },
+            {
+                "headline": "As a volatile market correction rattles Big Tech, Nvidia stock puts the focus on these rules for when to sell stocks.",
+                "publication_date": "2025-03-24T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Investor's Business Daily",
+                "ticker": "NVDA",
+                "title": "Nvidia Stock \u2014 Once Again \u2014 Puts The 8 'Secrets' Of Selling In Focus",
+                "url": "https://finance.yahoo.com/m/0de2c5ec-4d76-3994-a567-02c18b5b2cfc/nvidia-stock-%E2%80%94-once-again-%E2%80%94.html"
+            }
+        ],
+        "avgScore": 0.0
+    },
+    "coef": -0.7999999999999999,
+    "avgCoef": 0.006929451712450895,
     "similar": {
-        "SPY": 0.9999999999999999,
-        "HTZ": 0.9999999999999999,
-        "F": 0.9999999999999999,
-        "PLTR": 0.9999999999999999
+        "QXO": 0.7999999999999999,
+        "AAL": 0.39999999999999997,
+        "MARA": 0.39999999999999997,
+        "UAA": 0.316227766016838
     }
 }

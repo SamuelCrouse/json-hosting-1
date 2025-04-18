@@ -1,0 +1,60 @@
+{
+    "4 17 2025": {
+        "importantArticles": [
+            {
+                "headline": "PITTSBURGH, April 17, 2025--Aurora Innovation, Inc. (NASDAQ: AUR) today announced it will release first quarter 2025 results after market close on May 8, 2025 and will host a business review conference call that day at 5:00 p.m. Eastern time.",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.3818",
+                "source": "Business Wire",
+                "ticker": "AUR",
+                "title": "Aurora to Host First Quarter 2025 Business Review Conference Call on May 8, 2025",
+                "url": "https://finance.yahoo.com/news/aurora-host-first-quarter-2025-130000858.html"
+            },
+            {
+                "headline": "PITTSBURGH, April 17, 2025--Aurora Innovation, Inc. (NASDAQ: AUR) today announced it will release first quarter 2025 results after market close on May 8, 2025 and will host a business review conference call that day at 5:00 p.m. Eastern time.",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.3818",
+                "source": "Business Wire",
+                "ticker": "AUR",
+                "title": "Aurora to Host First Quarter 2025 Business Review Conference Call on May 8, 2025",
+                "url": "https://finance.yahoo.com/news/aurora-host-first-quarter-2025-130000858.html"
+            }
+        ],
+        "avgScore": 0.3818
+    },
+    "3 25 2025": {
+        "importantArticles": [
+            {
+                "headline": "PITTSBURGH, March 25, 2025--Aurora Innovation (NASDAQ: AUR), the leader in autonomous trucking, released a thorough Driverless Safety Report that includes details on the company\u2019s approach to safety engineering, cybersecurity, risk management, and more. Aurora is now in final preparations to launch its commercial self-driving trucking service in Texas.",
+                "publication_date": "2025-03-25T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7269",
+                "source": "Business Wire",
+                "ticker": "AUR",
+                "title": "Aurora Releases Safety Report in Preparation for Driverless Trucking",
+                "url": "https://finance.yahoo.com/news/aurora-releases-safety-report-preparation-160000546.html"
+            },
+            {
+                "headline": "PITTSBURGH, March 25, 2025--Aurora Innovation (NASDAQ: AUR), the leader in autonomous trucking, released a thorough Driverless Safety Report that includes details on the company\u2019s approach to safety engineering, cybersecurity, risk management, and more. Aurora is now in final preparations to launch its commercial self-driving trucking service in Texas.",
+                "publication_date": "2025-03-25T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7269",
+                "source": "Business Wire",
+                "ticker": "AUR",
+                "title": "Aurora Releases Safety Report in Preparation for Driverless Trucking",
+                "url": "https://finance.yahoo.com/news/aurora-releases-safety-report-preparation-160000546.html"
+            }
+        ],
+        "avgScore": 0.7269
+    },
+    "coef": -0.9999999999999999,
+    "avgCoef": 0.02663416943914182,
+    "similar": {
+        "AMCR": 0.9999999999999999,
+        "UNH": 0.9999999999999999,
+        "NGD": 0.9999999999999999,
+        "MU": 0.9999999999999999
+    }
+}

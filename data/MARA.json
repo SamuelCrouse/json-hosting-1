@@ -24,11 +24,11 @@
         ],
         "avgScore": -0.8316
     },
-    "4 10 2025": {
+    "4 9 2025": {
         "importantArticles": [
             {
                 "headline": "(Bloomberg) -- Bitcoin surged and most smaller cryptocurrencies gained even more after President Donald Trump surprised markets by saying he would pause so-called reciprocal tariffs on dozens of non-retaliating countries. The largest digital asset jumped as much as 7.7% to $82,967 after beginning Wednesday in the red, while XRP and Solana each increased more than 11%. Ether, the second-biggest token, also turned higher after Trump noted the change on his social media platform.The about-face by T",
-                "publication_date": "2025-04-10T00:00:00.000Z",
+                "publication_date": "2025-04-09T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.8107",
                 "source": "Bloomberg",
@@ -38,7 +38,7 @@
             },
             {
                 "headline": "(Bloomberg) -- Bitcoin surged and most smaller cryptocurrencies gained even more after President Donald Trump surprised markets by saying he would pause so-called reciprocal tariffs on dozens of non-retaliating countries. The largest digital asset jumped as much as 7.7% to $82,967 after beginning Wednesday in the red, while XRP and Solana each increased more than 11%. Ether, the second-biggest token, also turned higher after Trump noted the change on his social media platform.The about-face by T",
-                "publication_date": "2025-04-10T00:00:00.000Z",
+                "publication_date": "2025-04-09T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.8107",
                 "source": "Bloomberg",
@@ -149,12 +149,12 @@
         ],
         "avgScore": 0.8979
     },
-    "coef": -0.2571428571428572,
-    "avgCoef": 0.03825540939017944,
+    "coef": -0.3714285714285715,
+    "avgCoef": 0.01694882896065474,
     "similar": {
-        "CVS": 1.0,
-        "CMCSA": 1.0,
         "KO": 0.942857142857143,
-        "UNH": 0.7714285714285715
+        "T": 0.7142857142857143,
+        "KVUE": 0.6571428571428573,
+        "CVS": 0.6571428571428573
     }
 }

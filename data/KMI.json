@@ -2,6 +2,16 @@
     "4 17 2025": {
         "importantArticles": [
             {
+                "headline": "Kinder Morgan is undeterred by \u201cperceived ups and downs\u201d in the natural gas market, said Executive Chairman Rich Kinder during the company\u2019s first earnings call of 2025.",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.91",
+                "source": "Hart Energy",
+                "ticker": "KMI",
+                "title": "Kinder Morgan Sees Strong Gas Market, Despite Political Noise",
+                "url": "https://finance.yahoo.com/news/kinder-morgan-sees-strong-gas-175400073.html"
+            },
+            {
                 "headline": "Kinder Morgan (NYSE:KMI) recently announced its first-quarter 2025 earnings report, highlighting a year-over-year sales increase of USD 399 million. Despite the revenue rise, net income saw a 29 million decline, with earnings per share dipping by 1 cent. Over the last week, the company's stock price moved 2.67%, contrasting slightly with the broader market's 3% downturn. While the company's sales growth may have provided some support, overall market conditions, including concerns about...",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -20,16 +30,6 @@
                 "ticker": "KMI",
                 "title": "Kinder Morgan Bullish on Natural Gas: Time to Bet on AR & RRC?",
                 "url": "https://finance.yahoo.com/news/kinder-morgan-bullish-natural-gas-125300800.html"
-            },
-            {
-                "headline": "Key Insights The projected fair value for Kinder Morgan is US$41.65 based on 2 Stage Free Cash Flow to Equity Kinder...",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8807",
-                "source": "Simply Wall St.",
-                "ticker": "KMI",
-                "title": "An Intrinsic Calculation For Kinder Morgan, Inc. (NYSE:KMI) Suggests It's 35% Undervalued",
-                "url": "https://finance.yahoo.com/news/intrinsic-calculation-kinder-morgan-inc-110020296.html"
             },
             {
                 "headline": "KMI Q1 earnings suffer due to a planned facility turnaround and higher operating costs, partly offset by gains in Natural Gas Pipelines, CO2 and Terminals segments.",
@@ -62,7 +62,7 @@
                 "url": "https://finance.yahoo.com/news/q1-2025-kinder-morgan-inc-121917335.html"
             }
         ],
-        "avgScore": 0.5963666666666667
+        "avgScore": 0.6339333333333335
     },
     "4 16 2025": {
         "importantArticles": [
@@ -127,7 +127,7 @@
                 "url": "https://finance.yahoo.com/news/enstor-receives-ferc-approval-mississippi-092933395.html"
             }
         ],
-        "avgScore": 0.5444571428571428
+        "avgScore": 0.5478875
     },
     "4 15 2025": {
         "importantArticles": [
@@ -252,16 +252,6 @@
                 "url": "https://finance.yahoo.com/news/equinor-forms-power-unit-support-111900893.html"
             },
             {
-                "headline": "In the latest trading session, Kinder Morgan (KMI) closed at $25.79, marking a -1.75% move from the previous day.",
-                "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4939",
-                "source": "Zacks",
-                "ticker": "KMI",
-                "title": "Kinder Morgan (KMI) Stock Moves -1.75%: What You Should Know",
-                "url": "https://finance.yahoo.com/news/kinder-morgan-kmi-stock-moves-215011004.html"
-            },
-            {
                 "headline": "SUBCY awards contract extension to Eidesvik Seven Chartering's Seven Viking. This is expected to prolong the vessel's stay with Subsea7 through 2026 and 2027.",
                 "publication_date": "2025-04-11T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -270,6 +260,16 @@
                 "ticker": "KMI",
                 "title": "Subsea7 Awards Multi-Year Extension for Seven Viking Subsea Vessel",
                 "url": "https://finance.yahoo.com/news/subsea7-awards-multi-extension-seven-171900603.html"
+            },
+            {
+                "headline": "E's investment aligns with the Roman government's Mattei Plan, which aims to strengthen Rome's relations with Africa.",
+                "publication_date": "2025-04-11T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.3182",
+                "source": "Zacks",
+                "ticker": "KMI",
+                "title": "Eni to Invest 24B Euros to Boost North Africa's Energy Production",
+                "url": "https://finance.yahoo.com/news/eni-invest-24b-euros-boost-171900160.html"
             },
             {
                 "headline": ": EPD is set to generate additional fee-based earnings with major capital projects either currently in service or under construction.",
@@ -302,7 +302,7 @@
                 "url": "https://finance.yahoo.com/news/subsea7-awards-multi-extension-seven-171900603.html"
             }
         ],
-        "avgScore": 0.40120000000000006
+        "avgScore": 0.378025
     },
     "4 10 2025": {
         "importantArticles": [
@@ -317,6 +317,16 @@
                 "url": "https://finance.yahoo.com/news/eni-expects-plenitude-valuation-cross-105100920.html"
             },
             {
+                "headline": "In the latest trading session, Kinder Morgan (KMI) closed at $25.79, marking a -1.75% move from the previous day.",
+                "publication_date": "2025-04-10T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4939",
+                "source": "Zacks",
+                "ticker": "KMI",
+                "title": "Kinder Morgan (KMI) Stock Moves -1.75%: What You Should Know",
+                "url": "https://finance.yahoo.com/news/kinder-morgan-kmi-stock-moves-215011004.html"
+            },
+            {
                 "headline": "EQNR expects its Q1 results to be affected by nearly $100 million in costs associated with drilling CCS appraisal wells.",
                 "publication_date": "2025-04-10T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -337,16 +347,6 @@
                 "url": "https://finance.yahoo.com/news/tc-energy-reports-anr-pipeline-173800435.html"
             },
             {
-                "headline": "TRP shuts down ANR pipeline system over a leakage identified near Fennville, MI, which transports over 10 billion cubic feet of gas per day.",
-                "publication_date": "2025-04-10T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "KMI",
-                "title": "TC Energy Reports ANR Pipeline Leak, Warns Gas Outage May Last Days",
-                "url": "https://finance.yahoo.com/news/tc-energy-reports-anr-pipeline-173800435.html"
-            },
-            {
                 "headline": "EQNR expects its Q1 results to be affected by nearly $100 million in costs associated with drilling CCS appraisal wells.",
                 "publication_date": "2025-04-10T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -357,30 +357,20 @@
                 "url": "https://finance.yahoo.com/news/equinor-projects-lower-liquids-lng-144400627.html"
             },
             {
-                "headline": "E plans to sell another stake in Plenitude, aiming for a valuation above $11 billion as investor interest stays strong.",
+                "headline": "In the latest trading session, Kinder Morgan (KMI) closed at $25.79, marking a -1.75% move from the previous day.",
                 "publication_date": "2025-04-10T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.743",
+                "sentimentScore": "0.4939",
                 "source": "Zacks",
                 "ticker": "KMI",
-                "title": "Eni Expects Plenitude Valuation to Cross $11B Amid Strong Demand",
-                "url": "https://finance.yahoo.com/news/eni-expects-plenitude-valuation-cross-105100920.html"
+                "title": "Kinder Morgan (KMI) Stock Moves -1.75%: What You Should Know",
+                "url": "https://finance.yahoo.com/news/kinder-morgan-kmi-stock-moves-215011004.html"
             }
         ],
-        "avgScore": 0.2819
+        "avgScore": 0.3349
     },
     "4 9 2025": {
         "importantArticles": [
-            {
-                "headline": "NGPL PipeCo LLC, a Delaware limited liability company (the \"Company\"), announced today that the requisite consents have been received from the holders (\"Holders\") of the Company's outstanding (i) 4.875% Senior Notes due 2027 (the \"2027 Notes\") and (ii) 3.250% Senior Notes due 2031 (the \"2031 Notes\" and, together with the 2027 Notes, the \"Notes\" and each a \"Series of Notes\") to certain amendments (the \"Proposed Amendments\") to the terms of (i) the Indenture, dated as of August 1, 2017, relating t",
-                "publication_date": "2025-04-09T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6597",
-                "source": "PR Newswire",
-                "ticker": "KMI",
-                "title": "NGPL PipeCo LLC Announces Successful Receipt of Requisite Consents Related to Consent Solicitations with Respect to its 4.875% Senior Notes due 2027 and 3.250% Senior Notes due 2031",
-                "url": "https://finance.yahoo.com/news/ngpl-pipeco-llc-announces-successful-232600667.html"
-            },
             {
                 "headline": "BP pauses its Castellon clean jet fuel project in Spain, citing slower-than-expected market growth as it reevaluates low-carbon spending plans.",
                 "publication_date": "2025-04-09T00:00:00.000Z",
@@ -400,6 +390,16 @@
                 "ticker": "KMI",
                 "title": "Kinder Morgan (KMI) Earnings Expected to Grow: What to Know Ahead of Q1 Release",
                 "url": "https://finance.yahoo.com/news/kinder-morgan-kmi-earnings-expected-140018227.html"
+            },
+            {
+                "headline": "Many investors are still learning about the various metrics that can be useful when analysing a stock. This article is...",
+                "publication_date": "2025-04-09T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4404",
+                "source": "Simply Wall St.",
+                "ticker": "KMI",
+                "title": "Is Kinder Morgan, Inc.'s (NYSE:KMI) ROE Of 8.5% Concerning?",
+                "url": "https://finance.yahoo.com/news/kinder-morgan-inc-nyse-kmi-140010249.html"
             },
             {
                 "headline": "HOUSTON, April 09, 2025--Kinder Morgan, Inc. (NYSE: KMI) today announced it will release first quarter 2025 earnings results on Wednesday, April 16, 2025, after market close and will hold a live webcast and conference call.",
@@ -432,7 +432,7 @@
                 "url": "https://finance.yahoo.com/news/kinder-morgan-inc-nyse-kmi-140010249.html"
             }
         ],
-        "avgScore": 0.46258333333333335
+        "avgScore": 0.4231599999999999
     },
     "4 8 2025": {
         "importantArticles": [
@@ -447,14 +447,14 @@
                 "url": "https://finance.yahoo.com/news/3-energy-biggies-offering-strong-112300112.html"
             },
             {
-                "headline": "In the closing of the recent trading day, Kinder Morgan (KMI) stood at $25.37, denoting a +0.32% change from the preceding trading day.",
+                "headline": "NGPL PipeCo LLC, a Delaware limited liability company (the \"Company\"), announced today that the requisite consents have been received from the holders (\"Holders\") of the Company's outstanding (i) 4.875% Senior Notes due 2027 (the \"2027 Notes\") and (ii) 3.250% Senior Notes due 2031 (the \"2031 Notes\" and, together with the 2027 Notes, the \"Notes\" and each a \"Series of Notes\") to certain amendments (the \"Proposed Amendments\") to the terms of (i) the Indenture, dated as of August 1, 2017, relating t",
                 "publication_date": "2025-04-08T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.4939",
-                "source": "Zacks",
+                "sentimentScore": "0.6597",
+                "source": "PR Newswire",
                 "ticker": "KMI",
-                "title": "Kinder Morgan (KMI) Rises As Market Takes a Dip: Key Facts",
-                "url": "https://finance.yahoo.com/news/kinder-morgan-kmi-rises-market-220017930.html"
+                "title": "NGPL PipeCo LLC Announces Successful Receipt of Requisite Consents Related to Consent Solicitations with Respect to its 4.875% Senior Notes due 2027 and 3.250% Senior Notes due 2031",
+                "url": "https://finance.yahoo.com/news/ngpl-pipeco-llc-announces-successful-232600667.html"
             },
             {
                 "headline": "E is exploring further upstream asset sales after offloading stakes in Ivory Coast and Congo to Vitol in a $1.65 billion deal.",
@@ -477,14 +477,14 @@
                 "url": "https://finance.yahoo.com/news/eni-eyes-more-upstream-asset-104700085.html"
             },
             {
-                "headline": "In the closing of the recent trading day, Kinder Morgan (KMI) stood at $25.37, denoting a +0.32% change from the preceding trading day.",
+                "headline": "NGPL PipeCo LLC, a Delaware limited liability company (the \"Company\"), announced today that the requisite consents have been received from the holders (\"Holders\") of the Company's outstanding (i) 4.875% Senior Notes due 2027 (the \"2027 Notes\") and (ii) 3.250% Senior Notes due 2031 (the \"2031 Notes\" and, together with the 2027 Notes, the \"Notes\" and each a \"Series of Notes\") to certain amendments (the \"Proposed Amendments\") to the terms of (i) the Indenture, dated as of August 1, 2017, relating t",
                 "publication_date": "2025-04-08T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.4939",
-                "source": "Zacks",
+                "sentimentScore": "0.6597",
+                "source": "PR Newswire",
                 "ticker": "KMI",
-                "title": "Kinder Morgan (KMI) Rises As Market Takes a Dip: Key Facts",
-                "url": "https://finance.yahoo.com/news/kinder-morgan-kmi-rises-market-220017930.html"
+                "title": "NGPL PipeCo LLC Announces Successful Receipt of Requisite Consents Related to Consent Solicitations with Respect to its 4.875% Senior Notes due 2027 and 3.250% Senior Notes due 2031",
+                "url": "https://finance.yahoo.com/news/ngpl-pipeco-llc-announces-successful-232600667.html"
             },
             {
                 "headline": "Investors looking for stable, income-generating assets for their portfolios may focus on large-cap energy stocks like WMB, CVX and KMI.",
@@ -497,7 +497,7 @@
                 "url": "https://finance.yahoo.com/news/3-energy-biggies-offering-strong-112300112.html"
             }
         ],
-        "avgScore": 0.5376666666666666
+        "avgScore": 0.5929333333333333
     },
     "4 7 2025": {
         "importantArticles": [
@@ -512,6 +512,16 @@
                 "url": "https://finance.yahoo.com/news/stock-market-crash-best-dividend-120000550.html"
             },
             {
+                "headline": "In the closing of the recent trading day, Kinder Morgan (KMI) stood at $25.37, denoting a +0.32% change from the preceding trading day.",
+                "publication_date": "2025-04-07T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4939",
+                "source": "Zacks",
+                "ticker": "KMI",
+                "title": "Kinder Morgan (KMI) Rises As Market Takes a Dip: Key Facts",
+                "url": "https://finance.yahoo.com/news/kinder-morgan-kmi-rises-market-220017930.html"
+            },
+            {
                 "headline": "With NOK 142.6B spent and 85K jobs created in 2024, EQNR plans 250 new wells and 75 subsea projects on the Norwegian Continental Shelf by 2035.",
                 "publication_date": "2025-04-07T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -520,16 +530,6 @@
                 "ticker": "KMI",
                 "title": "Equinor to Ramp Up Norwegian Energy Activity Through 2035",
                 "url": "https://finance.yahoo.com/news/equinor-ramp-norwegian-energy-activity-114500692.html"
-            },
-            {
-                "headline": "MTDR exits the Eagle Ford Basin through the divestment of remaining acreage and producing assets in the La Salle, Karnes and Atascosa Counties in South Texas.",
-                "publication_date": "2025-04-07T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.1779",
-                "source": "Zacks",
-                "ticker": "KMI",
-                "title": "Matador Divests South Texas Assets, Strengthens Balance Sheet",
-                "url": "https://finance.yahoo.com/news/matador-divests-south-texas-assets-154900968.html"
             },
             {
                 "headline": "Investors looking for ways to find stocks that are set to beat quarterly earnings estimates should check out the Zacks Earnings ESP.",
@@ -562,7 +562,7 @@
                 "url": "https://finance.yahoo.com/news/equinor-ramp-norwegian-energy-activity-114500692.html"
             }
         ],
-        "avgScore": 0.389925
+        "avgScore": 0.4107200000000001
     },
     "4 4 2025": {
         "importantArticles": [
@@ -942,26 +942,6 @@
                 "url": "https://finance.yahoo.com/news/makes-kinder-morgan-kmi-strong-160004198.html"
             },
             {
-                "headline": "Kinder Morgan (KMI) closed the most recent trading day at $28.83, moving +0.42% from the previous trading session.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4939",
-                "source": "Zacks",
-                "ticker": "KMI",
-                "title": "Kinder Morgan (KMI) Exceeds Market Returns: Some Facts to Consider",
-                "url": "https://finance.yahoo.com/news/kinder-morgan-kmi-exceeds-market-220018019.html"
-            },
-            {
-                "headline": "Kinder Morgan (KMI) closed the most recent trading day at $28.83, moving +0.42% from the previous trading session.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4939",
-                "source": "Zacks",
-                "ticker": "KMI",
-                "title": "Kinder Morgan (KMI) Exceeds Market Returns: Some Facts to Consider",
-                "url": "https://finance.yahoo.com/news/kinder-morgan-kmi-exceeds-market-220018019.html"
-            },
-            {
                 "headline": "Does Kinder Morgan (KMI) have what it takes to be a top stock pick for momentum investors? Let's find out.",
                 "publication_date": "2025-03-26T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -982,10 +962,20 @@
                 "url": "https://finance.yahoo.com/news/natural-gas-fuels-ai-data-130500102.html"
             }
         ],
-        "avgScore": 0.5810666666666667
+        "avgScore": 0.62465
     },
     "3 25 2025": {
         "importantArticles": [
+            {
+                "headline": "Kinder Morgan (KMI) closed the most recent trading day at $28.83, moving +0.42% from the previous trading session.",
+                "publication_date": "2025-03-25T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4939",
+                "source": "Zacks",
+                "ticker": "KMI",
+                "title": "Kinder Morgan (KMI) Exceeds Market Returns: Some Facts to Consider",
+                "url": "https://finance.yahoo.com/news/kinder-morgan-kmi-exceeds-market-220018019.html"
+            },
             {
                 "headline": "EPD boasts a stable business model and is not significantly exposed to the volatility in oil and gas prices.",
                 "publication_date": "2025-03-25T00:00:00.000Z",
@@ -1005,9 +995,19 @@
                 "ticker": "KMI",
                 "title": "Here's Why Hold Strategy is Apt for Enterprise Products Stock Now",
                 "url": "https://finance.yahoo.com/news/heres-why-hold-strategy-apt-134600594.html"
+            },
+            {
+                "headline": "Kinder Morgan (KMI) closed the most recent trading day at $28.83, moving +0.42% from the previous trading session.",
+                "publication_date": "2025-03-25T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4939",
+                "source": "Zacks",
+                "ticker": "KMI",
+                "title": "Kinder Morgan (KMI) Exceeds Market Returns: Some Facts to Consider",
+                "url": "https://finance.yahoo.com/news/kinder-morgan-kmi-exceeds-market-220018019.html"
             }
         ],
-        "avgScore": 0.3447
+        "avgScore": 0.4193
     },
     "3 24 2025": {
         "importantArticles": [
@@ -1132,26 +1132,6 @@
                 "url": "https://finance.yahoo.com/news/zacks-industry-outlook-highlights-enbridge-090000647.html"
             },
             {
-                "headline": "In the latest trading session, Kinder Morgan (KMI) closed at $27.85, marking a +1.2% move from the previous day.",
-                "publication_date": "2025-03-20T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4939",
-                "source": "Zacks",
-                "ticker": "KMI",
-                "title": "Kinder Morgan (KMI) Rises Higher Than Market: Key Facts",
-                "url": "https://finance.yahoo.com/news/kinder-morgan-kmi-rises-higher-215015856.html"
-            },
-            {
-                "headline": "In the latest trading session, Kinder Morgan (KMI) closed at $27.85, marking a +1.2% move from the previous day.",
-                "publication_date": "2025-03-20T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4939",
-                "source": "Zacks",
-                "ticker": "KMI",
-                "title": "Kinder Morgan (KMI) Rises Higher Than Market: Key Facts",
-                "url": "https://finance.yahoo.com/news/kinder-morgan-kmi-rises-higher-215015856.html"
-            },
-            {
                 "headline": "Enbridge, Kinder Morgan, Williams and MPLX have been highlighted in this Industry Outlook article.",
                 "publication_date": "2025-03-20T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -1177,24 +1157,24 @@
                 "url": "https://finance.yahoo.com/news/4-oil-gas-pipeline-stocks-163000511.html"
             },
             {
-                "headline": "Kinder Morgan (KMI) concluded the recent trading session at $27.52, signifying a -0.97% move from its prior day's close.",
+                "headline": "In the latest trading session, Kinder Morgan (KMI) closed at $27.85, marking a +1.2% move from the previous day.",
                 "publication_date": "2025-03-19T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.4939",
                 "source": "Zacks",
                 "ticker": "KMI",
-                "title": "Kinder Morgan (KMI) Stock Moves -0.97%: What You Should Know",
-                "url": "https://finance.yahoo.com/news/kinder-morgan-kmi-stock-moves-220018031.html"
+                "title": "Kinder Morgan (KMI) Rises Higher Than Market: Key Facts",
+                "url": "https://finance.yahoo.com/news/kinder-morgan-kmi-rises-higher-215015856.html"
             },
             {
-                "headline": "Kinder Morgan (KMI) concluded the recent trading session at $27.52, signifying a -0.97% move from its prior day's close.",
+                "headline": "In the latest trading session, Kinder Morgan (KMI) closed at $27.85, marking a +1.2% move from the previous day.",
                 "publication_date": "2025-03-19T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.4939",
                 "source": "Zacks",
                 "ticker": "KMI",
-                "title": "Kinder Morgan (KMI) Stock Moves -0.97%: What You Should Know",
-                "url": "https://finance.yahoo.com/news/kinder-morgan-kmi-stock-moves-220018031.html"
+                "title": "Kinder Morgan (KMI) Rises Higher Than Market: Key Facts",
+                "url": "https://finance.yahoo.com/news/kinder-morgan-kmi-rises-higher-215015856.html"
             },
             {
                 "headline": "Midstream players secure additional cashflows from their huge backlog of growth projects, which brightens the outlook for the Zacks Oil and Gas - Production and Pipelines industry. Some of the frontrunners in the industry are ENB, KMI, WMB & MPLX.",
@@ -1222,6 +1202,26 @@
                 "url": "https://finance.yahoo.com/news/investors-heavily-search-kinder-morgan-130011189.html"
             },
             {
+                "headline": "Kinder Morgan (KMI) concluded the recent trading session at $27.52, signifying a -0.97% move from its prior day's close.",
+                "publication_date": "2025-03-18T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4939",
+                "source": "Zacks",
+                "ticker": "KMI",
+                "title": "Kinder Morgan (KMI) Stock Moves -0.97%: What You Should Know",
+                "url": "https://finance.yahoo.com/news/kinder-morgan-kmi-stock-moves-220018031.html"
+            },
+            {
+                "headline": "Kinder Morgan (KMI) concluded the recent trading session at $27.52, signifying a -0.97% move from its prior day's close.",
+                "publication_date": "2025-03-18T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4939",
+                "source": "Zacks",
+                "ticker": "KMI",
+                "title": "Kinder Morgan (KMI) Stock Moves -0.97%: What You Should Know",
+                "url": "https://finance.yahoo.com/news/kinder-morgan-kmi-stock-moves-220018031.html"
+            },
+            {
                 "headline": "Kinder Morgan (KMI) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
                 "publication_date": "2025-03-18T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -1232,14 +1232,14 @@
                 "url": "https://finance.yahoo.com/news/investors-heavily-search-kinder-morgan-130011189.html"
             }
         ],
-        "avgScore": 0.8176
+        "avgScore": 0.65575
     },
-    "coef": 0.44169960474308306,
-    "avgCoef": -0.0003091692137411843,
+    "coef": 0.41798418972332013,
+    "avgCoef": 0.014813848053506959,
     "similar": {
-        "WBD": 0.5237154150197628,
-        "SPY": 0.5118577075098815,
-        "TSLA": 0.4881422924901186,
-        "TFC": 0.4841897233201581
+        "WBD": 0.5148221343873518,
+        "AUR": 0.49703557312252966,
+        "BMY": 0.4930830039525692,
+        "CSX": 0.4792490118577075
     }
 }

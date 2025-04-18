@@ -1,9 +1,59 @@
 {
+    "4 17 2025": {
+        "importantArticles": [
+            {
+                "headline": "Here is how Kolibri Global Energy Inc. (KGEI) and Veren (VRN) have performed compared to their sector so far this year.",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.2732",
+                "source": "Zacks",
+                "ticker": "VRN",
+                "title": "Are Oils-Energy Stocks Lagging  Kolibri Global Energy Inc. (KGEI) This Year?",
+                "url": "https://finance.yahoo.com/news/oils-energy-stocks-lagging-kolibri-134008618.html"
+            },
+            {
+                "headline": "Here is how Kolibri Global Energy Inc. (KGEI) and Veren (VRN) have performed compared to their sector so far this year.",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.2732",
+                "source": "Zacks",
+                "ticker": "VRN",
+                "title": "Are Oils-Energy Stocks Lagging  Kolibri Global Energy Inc. (KGEI) This Year?",
+                "url": "https://finance.yahoo.com/news/oils-energy-stocks-lagging-kolibri-134008618.html"
+            }
+        ],
+        "avgScore": 0.2732
+    },
+    "4 11 2025": {
+        "importantArticles": [
+            {
+                "headline": "CIBC raised the firm\u2019s price target on Veren (VRN) to C$13.65 from C$12.50 and keeps an Outperformer rating on the shares. The decision from OPEC+ to accelerate the phaseout of voluntarily curtailed production surprised the market, and concerns over the pending supply and demand balance sharply pushed oil prices lower, the analyst tells investors in a research note. The firm adjusted oil price expectations lower as part of a Q1 earnings preview for the energy sector. Published first on TheFly \u2013",
+                "publication_date": "2025-04-11T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.0772",
+                "source": "TipRanks",
+                "ticker": "VRN",
+                "title": "Veren price target raised to C$13.65 from C$12.50 at CIBC",
+                "url": "https://finance.yahoo.com/news/veren-price-target-raised-c-143714204.html"
+            },
+            {
+                "headline": "CIBC raised the firm\u2019s price target on Veren (VRN) to C$13.65 from C$12.50 and keeps an Outperformer rating on the shares. The decision from OPEC+ to accelerate the phaseout of voluntarily curtailed production surprised the market, and concerns over the pending supply and demand balance sharply pushed oil prices lower, the analyst tells investors in a research note. The firm adjusted oil price expectations lower as part of a Q1 earnings preview for the energy sector. Published first on TheFly \u2013",
+                "publication_date": "2025-04-11T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.0772",
+                "source": "TipRanks",
+                "ticker": "VRN",
+                "title": "Veren price target raised to C$13.65 from C$12.50 at CIBC",
+                "url": "https://finance.yahoo.com/news/veren-price-target-raised-c-143714204.html"
+            }
+        ],
+        "avgScore": 0.0772
+    },
     "4 4 2025": {
         "importantArticles": [
             {
                 "headline": "The average of price targets set by Wall Street analysts indicates a potential upside of 27.6% in Veren (VRN). While the effectiveness of this highly sought-after metric is questionable, the positive trend in earnings estimate revisions might translate into an upside in the stock.",
-                "publication_date": "2025-04-04T13:55:05.000Z",
+                "publication_date": "2025-04-04T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.34",
                 "source": "Zacks",
@@ -13,7 +63,7 @@
             },
             {
                 "headline": "The average of price targets set by Wall Street analysts indicates a potential upside of 27.6% in Veren (VRN). While the effectiveness of this highly sought-after metric is questionable, the positive trend in earnings estimate revisions might translate into an upside in the stock.",
-                "publication_date": "2025-04-04T13:55:05.000Z",
+                "publication_date": "2025-04-04T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.34",
                 "source": "Zacks",
@@ -24,5 +74,12 @@
         ],
         "avgScore": 0.34
     },
-    "coef": NaN
+    "coef": -0.5,
+    "avgCoef": -0.0010920604697084038,
+    "similar": {
+        "LCID": 1.0,
+        "AAL": 1.0,
+        "SOFI": 1.0,
+        "HPE": 1.0
+    }
 }

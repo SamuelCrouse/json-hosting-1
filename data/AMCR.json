@@ -184,31 +184,6 @@
         ],
         "avgScore": 0.8979
     },
-    "4 1 2025": {
-        "importantArticles": [
-            {
-                "headline": "We recently compiled a list of the 10 Best Stocks Under $10 to Buy Now. In this article, we are going to take a look at where Amcor plc (NYSE:AMCR) stands against the other stocks under $10. On March 28, Friday, US stocks declined as Wall Street continued to struggle with President Trump\u2019s trade war [\u2026]",
-                "publication_date": "2025-04-01T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.25",
-                "source": "Insider Monkey",
-                "ticker": "AMCR",
-                "title": "Is Amcor plc (AMCR) The Best Stock Under $10 to Buy Now?",
-                "url": "https://finance.yahoo.com/news/amcor-plc-amcr-best-stock-193847249.html"
-            },
-            {
-                "headline": "We recently compiled a list of the 10 Best Stocks Under $10 to Buy Now. In this article, we are going to take a look at where Amcor plc (NYSE:AMCR) stands against the other stocks under $10. On March 28, Friday, US stocks declined as Wall Street continued to struggle with President Trump\u2019s trade war [\u2026]",
-                "publication_date": "2025-04-01T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.25",
-                "source": "Insider Monkey",
-                "ticker": "AMCR",
-                "title": "Is Amcor plc (AMCR) The Best Stock Under $10 to Buy Now?",
-                "url": "https://finance.yahoo.com/news/amcor-plc-amcr-best-stock-193847249.html"
-            }
-        ],
-        "avgScore": -0.25
-    },
     "3 31 2025": {
         "importantArticles": [
             {
@@ -222,6 +197,26 @@
                 "url": "https://finance.yahoo.com/news/hitting-plateau-circular-packaging-designers-111500840.html"
             },
             {
+                "headline": "We recently compiled a list of the 10 Best Stocks Under $10 to Buy Now. In this article, we are going to take a look at where Amcor plc (NYSE:AMCR) stands against the other stocks under $10. On March 28, Friday, US stocks declined as Wall Street continued to struggle with President Trump\u2019s trade war [\u2026]",
+                "publication_date": "2025-03-31T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.25",
+                "source": "Insider Monkey",
+                "ticker": "AMCR",
+                "title": "Is Amcor plc (AMCR) The Best Stock Under $10 to Buy Now?",
+                "url": "https://finance.yahoo.com/news/amcor-plc-amcr-best-stock-193847249.html"
+            },
+            {
+                "headline": "We recently compiled a list of the 10 Best Stocks Under $10 to Buy Now. In this article, we are going to take a look at where Amcor plc (NYSE:AMCR) stands against the other stocks under $10. On March 28, Friday, US stocks declined as Wall Street continued to struggle with President Trump\u2019s trade war [\u2026]",
+                "publication_date": "2025-03-31T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.25",
+                "source": "Insider Monkey",
+                "ticker": "AMCR",
+                "title": "Is Amcor plc (AMCR) The Best Stock Under $10 to Buy Now?",
+                "url": "https://finance.yahoo.com/news/amcor-plc-amcr-best-stock-193847249.html"
+            },
+            {
                 "headline": "Many companies have targets to make 100% of their packaging recyclable, reusable or compostable by 2025. Now, as they face the hardest categories to transform, some are weighing whether it\u2019s feasible.",
                 "publication_date": "2025-03-31T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -232,7 +227,7 @@
                 "url": "https://finance.yahoo.com/news/hitting-plateau-circular-packaging-designers-111500840.html"
             }
         ],
-        "avgScore": 0.0
+        "avgScore": -0.125
     },
     "3 28 2025": {
         "importantArticles": [
@@ -359,11 +354,11 @@
         ],
         "avgScore": 0.9062
     },
-    "3 21 2025": {
+    "3 20 2025": {
         "importantArticles": [
             {
                 "headline": "We recently published a list of 15 Best Low Priced Dividend Stocks to Buy Now. In this article, we are going to take a look at where Amcor plc (NYSE:AMCR) stands against other best low priced dividend stocks to buy now. Concerns over an escalating trade war and rising geopolitical tensions have triggered waves of [\u2026]",
-                "publication_date": "2025-03-21T00:00:00.000Z",
+                "publication_date": "2025-03-20T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.1027",
                 "source": "Insider Monkey",
@@ -373,7 +368,7 @@
             },
             {
                 "headline": "We recently published a list of 15 Best Low Priced Dividend Stocks to Buy Now. In this article, we are going to take a look at where Amcor plc (NYSE:AMCR) stands against other best low priced dividend stocks to buy now. Concerns over an escalating trade war and rising geopolitical tensions have triggered waves of [\u2026]",
-                "publication_date": "2025-03-21T00:00:00.000Z",
+                "publication_date": "2025-03-20T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.1027",
                 "source": "Insider Monkey",
@@ -434,12 +429,12 @@
         ],
         "avgScore": 0.8979
     },
-    "coef": -0.3805417136617036,
-    "avgCoef": 0.07368471613754295,
+    "coef": -0.2408876543678858,
+    "avgCoef": 0.00046311302422058785,
     "similar": {
-        "SNAP": 0.43645068581105334,
-        "ITUB": 0.3480784395104682,
-        "CMCSA": 0.2993835282836151,
-        "XOM": 0.259706193209883
+        "MSTR": 0.44862563152918183,
+        "AMD": 0.4397857176074245,
+        "F": 0.42210588976391,
+        "SCHW": 0.41326597584215274
     }
 }

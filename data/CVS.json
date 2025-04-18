@@ -12,16 +12,6 @@
                 "url": "https://finance.yahoo.com/video/google-antitrust-ruling-unitedhealth-lockheed-161409957.html"
             },
             {
-                "headline": "In the most recent trading session, CVS Health (CVS) closed at $68.54, indicating a -0.55% shift from the previous trading day.",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "CVS",
-                "title": "CVS Health (CVS) Stock Moves -0.55%: What You Should Know",
-                "url": "https://finance.yahoo.com/news/cvs-health-cvs-stock-moves-214515118.html"
-            },
-            {
                 "headline": "UnitedHealth Group's tough first quarter signals trouble for other insurers.",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -40,16 +30,6 @@
                 "ticker": "CVS",
                 "title": "UnitedHealth Q1 earnings signal trouble for Medicare Advantage players",
                 "url": "https://finance.yahoo.com/news/unitedhealth-q1-earnings-signal-trouble-for-medicare-advantage-players-155440661.html"
-            },
-            {
-                "headline": "In the most recent trading session, CVS Health (CVS) closed at $68.54, indicating a -0.55% shift from the previous trading day.",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "CVS",
-                "title": "CVS Health (CVS) Stock Moves -0.55%: What You Should Know",
-                "url": "https://finance.yahoo.com/news/cvs-health-cvs-stock-moves-214515118.html"
             },
             {
                 "headline": "Brad Smith outlines today's trending stories as part of Market Minute. A federal judge ruled against Alphabet's (GOOG, GOOGL) Google, finding that the company did monopolize aspects of its online advertising market. UnitedHealth Group's (UNH) earnings miss weighs on competitors like CVS Health (CVS) and Humana (HUM). Lockheed Martin (LMT) named Evan Scott as its new CFO, effective immediately, and reaffirmed its 2025 outlook ahead of its earnings report. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
@@ -60,6 +40,31 @@
                 "ticker": "CVS",
                 "title": "Google antitrust ruling, UnitedHealth, new Lockheed Martin CFO",
                 "url": "https://finance.yahoo.com/video/google-antitrust-ruling-unitedhealth-lockheed-161409957.html"
+            }
+        ],
+        "avgScore": 0.0
+    },
+    "4 16 2025": {
+        "importantArticles": [
+            {
+                "headline": "In the most recent trading session, CVS Health (CVS) closed at $68.54, indicating a -0.55% shift from the previous trading day.",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "CVS",
+                "title": "CVS Health (CVS) Stock Moves -0.55%: What You Should Know",
+                "url": "https://finance.yahoo.com/news/cvs-health-cvs-stock-moves-214515118.html"
+            },
+            {
+                "headline": "In the most recent trading session, CVS Health (CVS) closed at $68.54, indicating a -0.55% shift from the previous trading day.",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "CVS",
+                "title": "CVS Health (CVS) Stock Moves -0.55%: What You Should Know",
+                "url": "https://finance.yahoo.com/news/cvs-health-cvs-stock-moves-214515118.html"
             }
         ],
         "avgScore": 0.0
@@ -122,26 +127,6 @@
                 "url": "https://finance.yahoo.com/news/2-dividend-stocks-defying-market-114500321.html"
             },
             {
-                "headline": "In the latest trading session, CVS Health (CVS) closed at $68.87, marking a -1.87% move from the previous day.",
-                "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "CVS",
-                "title": "CVS Health (CVS) Stock Moves -1.87%: What You Should Know",
-                "url": "https://finance.yahoo.com/news/cvs-health-cvs-stock-moves-214513282.html"
-            },
-            {
-                "headline": "In the latest trading session, CVS Health (CVS) closed at $68.87, marking a -1.87% move from the previous day.",
-                "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "CVS",
-                "title": "CVS Health (CVS) Stock Moves -1.87%: What You Should Know",
-                "url": "https://finance.yahoo.com/news/cvs-health-cvs-stock-moves-214513282.html"
-            },
-            {
                 "headline": "Major stock market indexes are down significantly this year, with many of the most valuable companies in the world leading the descent.  CVS Health is up by 50%, while Medical Properties Trust's shares have risen 26%.  Medical Properties Trust (MPT), a healthcare-focused real estate investment trust (REIT), faced a significant headwind when one of its largest tenants, Steward Healthcare, defaulted on rent and filed for bankruptcy.",
                 "publication_date": "2025-04-11T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -152,7 +137,7 @@
                 "url": "https://finance.yahoo.com/news/2-dividend-stocks-defying-market-114500321.html"
             }
         ],
-        "avgScore": 0.4592
+        "avgScore": 0.9184
     },
     "4 10 2025": {
         "importantArticles": [
@@ -167,6 +152,16 @@
                 "url": "https://finance.yahoo.com/news/cvs-health-corporation-cvs-bull-130621939.html"
             },
             {
+                "headline": "In the latest trading session, CVS Health (CVS) closed at $68.87, marking a -1.87% move from the previous day.",
+                "publication_date": "2025-04-10T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "CVS",
+                "title": "CVS Health (CVS) Stock Moves -1.87%: What You Should Know",
+                "url": "https://finance.yahoo.com/news/cvs-health-cvs-stock-moves-214513282.html"
+            },
+            {
                 "headline": "CVS Health (CVS) is a top S&P 500 performer in 2025, with year-to-date returns exceeding 50%. Moreover, the stock has shirked off Trump-mania, tariff levies, and a global trade war like water off a duck\u2019s back. The stock is up 3% over the past five days and up 42% since January \u2014 wholly opposed to the market squall enveloping the world\u2019s major stock indices and shaving trillions from index valuations, in recent days. Most recognizable for its corner drugstores, CVS\u2019 transformative acquisition of",
                 "publication_date": "2025-04-10T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -185,6 +180,16 @@
                 "ticker": "CVS",
                 "title": "Macro Headwind-Immune CVS Health Stock Set to Extend 50% YTD Rally",
                 "url": "https://finance.yahoo.com/news/macro-headwind-immune-cvs-health-104947404.html"
+            },
+            {
+                "headline": "In the latest trading session, CVS Health (CVS) closed at $68.87, marking a -1.87% move from the previous day.",
+                "publication_date": "2025-04-10T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "CVS",
+                "title": "CVS Health (CVS) Stock Moves -1.87%: What You Should Know",
+                "url": "https://finance.yahoo.com/news/cvs-health-cvs-stock-moves-214513282.html"
             },
             {
                 "headline": "We came across a bullish thesis on CVS Health Corporation (CVS) on Substack by Hidden Market Gems. In this article, we will summarize the bulls\u2019 thesis on CVS. CVS Health Corporation (CVS)\u2019s share was trading at $70.18 as of April 9th. CVS\u2019s trailing and forward P/E were 19.17 and 11.93 respectively according to Yahoo Finance. When markets [\u2026]",
@@ -197,7 +202,7 @@
                 "url": "https://finance.yahoo.com/news/cvs-health-corporation-cvs-bull-130621939.html"
             }
         ],
-        "avgScore": 0.20215
+        "avgScore": 0.13476666666666667
     },
     "4 9 2025": {
         "importantArticles": [
@@ -212,16 +217,6 @@
                 "url": "https://finance.yahoo.com/news/cvs-health-nyse-cvs-announces-180048427.html"
             },
             {
-                "headline": "Apple stock rises after a three-day stretch that has seen shares of the iPhone maker tumble 19%, Broadcom announces a new buyback program of $10 billion, and Humana, CVS Health, and UnitedHealth jump as Medicare boosts payment rates.",
-                "publication_date": "2025-04-09T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.5423",
-                "source": "Barrons.com",
-                "ticker": "CVS",
-                "title": "These Stocks Moved the Most Today: Apple, Nvidia, Broadcom, Humana, CVS, Tesla, Super Micro, Marvell, and More",
-                "url": "https://finance.yahoo.com/m/ce3796ea-ab57-3c47-9467-f326c40ce941/these-stocks-moved-the-most.html"
-            },
-            {
                 "headline": "Recently, Zacks.com users have been paying close attention to CVS Health (CVS). This makes it worthwhile to examine what the stock has in store.",
                 "publication_date": "2025-04-09T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -230,6 +225,16 @@
                 "ticker": "CVS",
                 "title": "CVS Health Corporation (CVS) Is a Trending Stock: Facts to Know Before Betting on It",
                 "url": "https://finance.yahoo.com/news/cvs-health-corporation-cvs-trending-130013501.html"
+            },
+            {
+                "headline": "CVS Health (CVS) witnessed a jump in share price last session on above-average trading volume. The latest trend in earnings estimate revisions for the stock doesn't suggest further strength down the road.",
+                "publication_date": "2025-04-09T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.1098",
+                "source": "Zacks",
+                "ticker": "CVS",
+                "title": "CVS Health (CVS) Surges 5.9%: Is This an Indication of Further Gains?",
+                "url": "https://finance.yahoo.com/news/cvs-health-cvs-surges-5-125500714.html"
             },
             {
                 "headline": "We recently published a list of 10 Stocks Lead Rally Amid Market Bloodbath. In this article, we are going to take a look at where CVS Health Corporation (NYSE:CVS) stands against other stocks that lead rally amid market bloodbath. The stock market took a battering anew on Tuesday, with all major indices registering steep losses [\u2026]",
@@ -252,17 +257,17 @@
                 "url": "https://finance.yahoo.com/news/cvs-health-cvs-surges-5-125500714.html"
             },
             {
-                "headline": "Health insurance stocks extended Monday\u2019s gains into Tuesday after Medicare regulators finalized stronger-than-expected 2026 payment rates.",
+                "headline": "Recently, Zacks.com users have been paying close attention to CVS Health (CVS). This makes it worthwhile to examine what the stock has in store.",
                 "publication_date": "2025-04-09T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.34",
-                "source": "Quartz",
+                "source": "Zacks",
                 "ticker": "CVS",
-                "title": "Humana and CVS stock pop on Medicare payout and Dr. Oz news",
-                "url": "https://finance.yahoo.com/news/humana-cvs-pop-medicare-payout-202000682.html"
+                "title": "CVS Health Corporation (CVS) Is a Trending Stock: Facts to Know Before Betting on It",
+                "url": "https://finance.yahoo.com/news/cvs-health-corporation-cvs-trending-130013501.html"
             }
         ],
-        "avgScore": 0.23670000000000005
+        "avgScore": 0.134475
     },
     "4 8 2025": {
         "importantArticles": [
@@ -327,7 +332,7 @@
                 "url": "https://finance.yahoo.com/news/cvs-health-announces-chief-financial-103000579.html"
             }
         ],
-        "avgScore": 0.40144
+        "avgScore": 0.4218809523809523
     },
     "4 7 2025": {
         "importantArticles": [
@@ -352,6 +357,26 @@
                 "url": "https://finance.yahoo.com/news/cvs-health-takes-lead-2025-190000258.html"
             },
             {
+                "headline": "UnitedHealth (UNH), Humana (HUM), and CVS Health (CVS) rally in extended-hours trading on news that the US government will pay more than previously proposed to Medicare Advantage providers. Julie Hyman breaks down the details on Market Domination Overtime. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime here.",
+                "publication_date": "2025-04-07T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.0516",
+                "source": "Yahoo Finance Video",
+                "ticker": "CVS",
+                "title": "Healthcare stocks rally, US govt. to pay more to Medicare plans",
+                "url": "https://finance.yahoo.com/video/healthcare-stocks-rally-us-govt-214254028.html"
+            },
+            {
+                "headline": "UnitedHealth (UNH), Humana (HUM), and CVS Health (CVS) rally in extended-hours trading on news that the US government will pay more than previously proposed to Medicare Advantage providers. Julie Hyman breaks down the details on Market Domination Overtime. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime here.",
+                "publication_date": "2025-04-07T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.0516",
+                "source": "Yahoo Finance Video",
+                "ticker": "CVS",
+                "title": "Healthcare stocks rally, US govt. to pay more to Medicare plans",
+                "url": "https://finance.yahoo.com/video/healthcare-stocks-rally-us-govt-214254028.html"
+            },
+            {
                 "headline": "CVS Health's strong track record of stable cash generation aids it amid the broader market sell-offs due to escalating 2025 Trump tariffs.",
                 "publication_date": "2025-04-07T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -372,7 +397,7 @@
                 "url": "https://finance.yahoo.com/news/cvs-health-corporations-nyse-cvs-120019751.html"
             }
         ],
-        "avgScore": 0.7334499999999999
+        "avgScore": 0.5061666666666667
     },
     "4 4 2025": {
         "importantArticles": [
@@ -472,16 +497,6 @@
                 "url": "https://finance.yahoo.com/news/cvs-health-hold-first-quarter-130000870.html"
             },
             {
-                "headline": "In the most recent trading session, CVS Health (CVS) closed at $68.07, indicating a +0.13% shift from the previous trading day.",
-                "publication_date": "2025-04-03T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "CVS",
-                "title": "CVS Health (CVS) Rises Yet Lags Behind Market: Some Facts Worth Knowing",
-                "url": "https://finance.yahoo.com/news/cvs-health-cvs-rises-yet-214515441.html"
-            },
-            {
                 "headline": "CVS Health\u00ae (NYSE: CVS) will hold a conference call with analysts and investors on Thursday, May 1st, 2025, at 8:00 a.m. ET to discuss first quarter 2025 financial results.",
                 "publication_date": "2025-04-03T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -500,12 +515,32 @@
                 "ticker": "CVS",
                 "title": "Is CVS Health (NYSE:CVS) A Risky Investment?",
                 "url": "https://finance.yahoo.com/news/cvs-health-nyse-cvs-risky-120016554.html"
+            },
+            {
+                "headline": "GoodRx is trying to help pharmacies compete in a digital age, where they already face pressure on their margins.",
+                "publication_date": "2025-04-03T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.128",
+                "source": "Yahoo Finance",
+                "ticker": "CVS",
+                "title": "GoodRx launches new e-commerce experience for prescriptions",
+                "url": "https://finance.yahoo.com/news/goodrx-launches-new-e-commerce-experience-for-prescriptions-130044902.html"
             }
         ],
-        "avgScore": 0.0513
+        "avgScore": 0.0684
     },
     "4 2 2025": {
         "importantArticles": [
+            {
+                "headline": "In the most recent trading session, CVS Health (CVS) closed at $68.07, indicating a +0.13% shift from the previous trading day.",
+                "publication_date": "2025-04-02T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "CVS",
+                "title": "CVS Health (CVS) Rises Yet Lags Behind Market: Some Facts Worth Knowing",
+                "url": "https://finance.yahoo.com/news/cvs-health-cvs-rises-yet-214515441.html"
+            },
             {
                 "headline": "The agency has paused its lawsuit against three pharmacy-benefit managers because no current commissioners can participate in the case.",
                 "publication_date": "2025-04-02T00:00:00.000Z",
@@ -525,9 +560,19 @@
                 "ticker": "CVS",
                 "title": "FTC\u2019s Case Against Drug Managers on Hold After Commissioners Fired",
                 "url": "https://finance.yahoo.com/m/b7f75f7d-076a-3aa0-9235-5ebf269f31b2/ftc%E2%80%99s-case-against-drug.html"
+            },
+            {
+                "headline": "In the most recent trading session, CVS Health (CVS) closed at $68.07, indicating a +0.13% shift from the previous trading day.",
+                "publication_date": "2025-04-02T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "CVS",
+                "title": "CVS Health (CVS) Rises Yet Lags Behind Market: Some Facts Worth Knowing",
+                "url": "https://finance.yahoo.com/news/cvs-health-cvs-rises-yet-214515441.html"
             }
         ],
-        "avgScore": -0.4767
+        "avgScore": -0.23835
     },
     "4 1 2025": {
         "importantArticles": [
@@ -540,16 +585,6 @@
                 "ticker": "CVS",
                 "title": "CVS Health (CVS): One of the Best Healthcare Stocks to Buy According to Billionaires",
                 "url": "https://finance.yahoo.com/news/cvs-health-cvs-one-best-134920129.html"
-            },
-            {
-                "headline": "One quarter into 2025, CVS Health has risen the most of any stock in the S&P 500, with a share price that has popped 50% since the start of the year.",
-                "publication_date": "2025-04-01T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.296",
-                "source": "Investopedia",
-                "ticker": "CVS",
-                "title": "CVS Is the S&P 500's Top Performer of the Quarter\u2014Here's Why",
-                "url": "https://finance.yahoo.com/news/cvs-p-500s-top-performer-205844353.html"
             },
             {
                 "headline": "Philip Morris, CVS Health and Newmont are part of the Zacks Investment Ideas article.",
@@ -572,14 +607,14 @@
                 "url": "https://finance.yahoo.com/news/10-stocks-p-500-etf-150000257.html"
             },
             {
-                "headline": "The first quarter is in the books, and the  best and worst performers are a pharmacy chain and a footwear company\u2014certainly not the usual suspects.  CVS Health  was the N0.  Deckers Outdoor  did the worst, falling 45%.",
+                "headline": "While many stocks in the S&P 500 ETF posted dismal performance in the just-concluded quarter, we discuss some that rose by more than 20%.",
                 "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.552",
-                "source": "Barrons.com",
+                "sentimentScore": "-0.6124",
+                "source": "Zacks",
                 "ticker": "CVS",
-                "title": "CVS Health and Deckers Are the S&P 500\u2019s Best and Worst for the Quarter. Here\u2019s Why.",
-                "url": "https://finance.yahoo.com/m/adb8512b-5c4f-3660-981b-2814bd1a88fd/cvs-health-and-deckers-are.html"
+                "title": "10 Stocks of the S&P 500 ETF Up More Than 20% in Q1",
+                "url": "https://finance.yahoo.com/news/10-stocks-p-500-etf-150000257.html"
             },
             {
                 "headline": "Philip Morris, CVS Health and Newmont are part of the Zacks Investment Ideas article.",
@@ -590,9 +625,19 @@
                 "ticker": "CVS",
                 "title": "Zacks Investment Ideas feature highlights: Philip Morris, CVS Health and Newmont",
                 "url": "https://finance.yahoo.com/news/zacks-investment-ideas-feature-highlights-141600827.html"
+            },
+            {
+                "headline": "We recently published a list of 10 Best Healthcare Stocks to Buy According to Billionaires. In this article, we are going to take a look at where CVS Health Corporation (NYSE:CVS) stands against other best healthcare stocks to invest in. Healthcare stocks experienced a challenging year in 2024, lagging behind high-growth sectors like tech and [\u2026]",
+                "publication_date": "2025-04-01T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.886",
+                "source": "Insider Monkey",
+                "ticker": "CVS",
+                "title": "CVS Health (CVS): One of the Best Healthcare Stocks to Buy According to Billionaires",
+                "url": "https://finance.yahoo.com/news/cvs-health-cvs-one-best-134920129.html"
             }
         ],
-        "avgScore": 0.0035199999999999676
+        "avgScore": 0.09119999999999999
     },
     "3 31 2025": {
         "importantArticles": [
@@ -617,14 +662,24 @@
                 "url": "https://finance.yahoo.com/news/cvs-health-corporation-cvs-among-182208295.html"
             },
             {
-                "headline": "On the final day of the first quarter of 2025, Madison Mills and Julie Hyman take a look at the best and worst-performing stocks and sectors of the year so far. Among the worst performers are Deckers (DECK) and Tesla (TSLA), while CVS Health (CVS) led gains.To watch more expert insights and analysis on the latest market action, check out more Morning Brief here.",
+                "headline": "One quarter into 2025, CVS Health has risen the most of any stock in the S&P 500, with a share price that has popped 50% since the start of the year.",
                 "publication_date": "2025-03-31T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0258",
-                "source": "Yahoo Finance Video",
+                "sentiment": "Positive",
+                "sentimentScore": "0.296",
+                "source": "Investopedia",
                 "ticker": "CVS",
-                "title": "CVS leads S&P 500 in Q1, Deckers & Tesla are biggest losers",
-                "url": "https://finance.yahoo.com/video/cvs-leads-p-500-q1-140111442.html"
+                "title": "CVS Is the S&P 500's Top Performer of the Quarter\u2014Here's Why",
+                "url": "https://finance.yahoo.com/news/cvs-p-500s-top-performer-205844353.html"
+            },
+            {
+                "headline": "The first quarter is in the books, and the  best and worst performers are a pharmacy chain and a footwear company\u2014certainly not the usual suspects.  CVS Health  was the N0.  Deckers Outdoor  did the worst, falling 45%.",
+                "publication_date": "2025-03-31T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.552",
+                "source": "Barrons.com",
+                "ticker": "CVS",
+                "title": "CVS Health and Deckers Are the S&P 500\u2019s Best and Worst for the Quarter. Here\u2019s Why.",
+                "url": "https://finance.yahoo.com/m/adb8512b-5c4f-3660-981b-2814bd1a88fd/cvs-health-and-deckers-are.html"
             },
             {
                 "headline": "We recently published a list of Jim Cramer Looked At These 23 Stocks Recently. In this article, we are going to take a look at where CVS Health Corporation\u2019s (NYSE:CVS) stands against other stocks that Jim Cramer looked at recently. Jim Cramer, the host of Mad Money, offered an optimistic perspective on the market on [\u2026]",
@@ -645,19 +700,9 @@
                 "ticker": "CVS",
                 "title": "The 3 Best Performing S&P 500 Stocks of 2025 Q1",
                 "url": "https://finance.yahoo.com/news/3-best-performing-p-500-150000913.html"
-            },
-            {
-                "headline": "On the final day of the first quarter of 2025, Madison Mills and Julie Hyman take a look at the best and worst-performing stocks and sectors of the year so far. Among the worst performers are Deckers (DECK) and Tesla (TSLA), while CVS Health (CVS) led gains.To watch more expert insights and analysis on the latest market action, check out more Morning Brief here.",
-                "publication_date": "2025-03-31T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0258",
-                "source": "Yahoo Finance Video",
-                "ticker": "CVS",
-                "title": "CVS leads S&P 500 in Q1, Deckers & Tesla are biggest losers",
-                "url": "https://finance.yahoo.com/video/cvs-leads-p-500-q1-140111442.html"
             }
         ],
-        "avgScore": 0.2343
+        "avgScore": 0.13078571428571428
     },
     "3 28 2025": {
         "importantArticles": [
@@ -747,26 +792,6 @@
                 "url": "https://finance.yahoo.com/news/health-insurance-providers-stocks-q4-091200862.html"
             },
             {
-                "headline": "CVS Health (CVS) closed at $67.20 in the latest trading session, marking a +1.08% move from the prior day.",
-                "publication_date": "2025-03-27T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "CVS",
-                "title": "Why the Market Dipped But CVS Health (CVS) Gained Today",
-                "url": "https://finance.yahoo.com/news/why-market-dipped-cvs-health-214515741.html"
-            },
-            {
-                "headline": "CVS Health (CVS) closed at $67.20 in the latest trading session, marking a +1.08% move from the prior day.",
-                "publication_date": "2025-03-27T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "CVS",
-                "title": "Why the Market Dipped But CVS Health (CVS) Gained Today",
-                "url": "https://finance.yahoo.com/news/why-market-dipped-cvs-health-214515741.html"
-            },
-            {
                 "headline": "As the Q4 earnings season wraps, let\u2019s dig into this quarter\u2019s best and worst performers in the health insurance providers industry, including CVS Health (NYSE:CVS) and its peers.",
                 "publication_date": "2025-03-27T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -787,7 +812,32 @@
                 "url": "https://finance.yahoo.com/news/us-is-only-country-debating-glp-1-insurance-coverage-for-weight-loss-cigna-ceo-cordani-201308049.html"
             }
         ],
-        "avgScore": 0.03793333333333333
+        "avgScore": 0.0569
+    },
+    "3 26 2025": {
+        "importantArticles": [
+            {
+                "headline": "CVS Health (CVS) closed at $67.20 in the latest trading session, marking a +1.08% move from the prior day.",
+                "publication_date": "2025-03-26T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "CVS",
+                "title": "Why the Market Dipped But CVS Health (CVS) Gained Today",
+                "url": "https://finance.yahoo.com/news/why-market-dipped-cvs-health-214515741.html"
+            },
+            {
+                "headline": "CVS Health (CVS) closed at $67.20 in the latest trading session, marking a +1.08% move from the prior day.",
+                "publication_date": "2025-03-26T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "CVS",
+                "title": "Why the Market Dipped But CVS Health (CVS) Gained Today",
+                "url": "https://finance.yahoo.com/news/why-market-dipped-cvs-health-214515741.html"
+            }
+        ],
+        "avgScore": 0.0
     },
     "3 21 2025": {
         "importantArticles": [
@@ -857,16 +907,6 @@
     "3 20 2025": {
         "importantArticles": [
             {
-                "headline": "CVS Health shows improving price performance, earning an upgrade to its IBD Relative Strength Rating.",
-                "publication_date": "2025-03-20T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7184",
-                "source": "Investor's Business Daily",
-                "ticker": "CVS",
-                "title": "CVS Health Stock Soars. Profit, Sales Growth Need Repair.",
-                "url": "https://finance.yahoo.com/m/c2fca61f-67a7-3e0e-960b-bf9af355d1e4/cvs-health-stock-soars-.html"
-            },
-            {
                 "headline": "CVS Health\u00ae (NYSE: CVS) has announced that its board of directors has approved a quarterly dividend of sixty-six and one-half cents ($0.665 cents) per share on the Common Stock of the Corporation. The dividend is payable on May 1, 2025, to holders of record on April 22, 2025.",
                 "publication_date": "2025-03-20T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -877,26 +917,6 @@
                 "url": "https://finance.yahoo.com/news/cvs-health-declares-quarterly-dividend-151600946.html"
             },
             {
-                "headline": "In the closing of the recent trading day, CVS Health (CVS) stood at $67.91, denoting a +0.5% change from the preceding trading day.",
-                "publication_date": "2025-03-20T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "CVS",
-                "title": "CVS Health (CVS) Ascends But Remains Behind Market: Some Facts to Note",
-                "url": "https://finance.yahoo.com/news/cvs-health-cvs-ascends-remains-214516792.html"
-            },
-            {
-                "headline": "In the closing of the recent trading day, CVS Health (CVS) stood at $67.91, denoting a +0.5% change from the preceding trading day.",
-                "publication_date": "2025-03-20T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "CVS",
-                "title": "CVS Health (CVS) Ascends But Remains Behind Market: Some Facts to Note",
-                "url": "https://finance.yahoo.com/news/cvs-health-cvs-ascends-remains-214516792.html"
-            },
-            {
                 "headline": "CVS Health\u00ae (NYSE: CVS) has announced that its board of directors has approved a quarterly dividend of sixty-six and one-half cents ($0.665 cents) per share on the Common Stock of the Corporation. The dividend is payable on May 1, 2025, to holders of record on April 22, 2025.",
                 "publication_date": "2025-03-20T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -905,23 +925,33 @@
                 "ticker": "CVS",
                 "title": "CVS Health declares quarterly dividend",
                 "url": "https://finance.yahoo.com/news/cvs-health-declares-quarterly-dividend-151600946.html"
-            },
-            {
-                "headline": "CVS Health shows improving price performance, earning an upgrade to its IBD Relative Strength Rating.",
-                "publication_date": "2025-03-20T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7184",
-                "source": "Investor's Business Daily",
-                "ticker": "CVS",
-                "title": "CVS Health Stock Soars. Profit, Sales Growth Need Repair.",
-                "url": "https://finance.yahoo.com/m/c2fca61f-67a7-3e0e-960b-bf9af355d1e4/cvs-health-stock-soars-.html"
             }
         ],
-        "avgScore": 0.4436
+        "avgScore": 0.6124
     },
     "3 19 2025": {
         "importantArticles": [
             {
+                "headline": "CVS Health shows improving price performance, earning an upgrade to its IBD Relative Strength Rating.",
+                "publication_date": "2025-03-19T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7184",
+                "source": "Investor's Business Daily",
+                "ticker": "CVS",
+                "title": "CVS Health Stock Soars. Profit, Sales Growth Need Repair.",
+                "url": "https://finance.yahoo.com/m/c2fca61f-67a7-3e0e-960b-bf9af355d1e4/cvs-health-stock-soars-.html"
+            },
+            {
+                "headline": "In the closing of the recent trading day, CVS Health (CVS) stood at $67.91, denoting a +0.5% change from the preceding trading day.",
+                "publication_date": "2025-03-19T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "CVS",
+                "title": "CVS Health (CVS) Ascends But Remains Behind Market: Some Facts to Note",
+                "url": "https://finance.yahoo.com/news/cvs-health-cvs-ascends-remains-214516792.html"
+            },
+            {
                 "headline": "The stock market started strong in 2025, but in recent weeks, news of trade wars and tariffs has hammered the markets.  Year to date, the S&P 500 is now down nearly 4.5%, and many investors are worried that there could be further declines coming.  Three stocks that have outperformed the index by a wide mile are CVS Health (NYSE: CVS), Super Micro Computer (NASDAQ: SMCI), and Philip Morris International (NYSE: PM).",
                 "publication_date": "2025-03-19T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -940,9 +970,29 @@
                 "ticker": "CVS",
                 "title": "The S&P 500 Is Struggling, But These 3 Stocks Are Up More Than 25% This Year",
                 "url": "https://finance.yahoo.com/news/p-500-struggling-3-stocks-083400289.html"
+            },
+            {
+                "headline": "In the closing of the recent trading day, CVS Health (CVS) stood at $67.91, denoting a +0.5% change from the preceding trading day.",
+                "publication_date": "2025-03-19T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "CVS",
+                "title": "CVS Health (CVS) Ascends But Remains Behind Market: Some Facts to Note",
+                "url": "https://finance.yahoo.com/news/cvs-health-cvs-ascends-remains-214516792.html"
+            },
+            {
+                "headline": "CVS Health shows improving price performance, earning an upgrade to its IBD Relative Strength Rating.",
+                "publication_date": "2025-03-19T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7184",
+                "source": "Investor's Business Daily",
+                "ticker": "CVS",
+                "title": "CVS Health Stock Soars. Profit, Sales Growth Need Repair.",
+                "url": "https://finance.yahoo.com/m/c2fca61f-67a7-3e0e-960b-bf9af355d1e4/cvs-health-stock-soars-.html"
             }
         ],
-        "avgScore": -0.0516
+        "avgScore": 0.2222666666666667
     },
     "3 18 2025": {
         "importantArticles": [
@@ -969,12 +1019,12 @@
         ],
         "avgScore": 0.0
     },
-    "coef": 0.04749613436253572,
-    "avgCoef": 0.009731618077949422,
+    "coef": 0.16603891804563292,
+    "avgCoef": 0.024193347926187495,
     "similar": {
-        "UMC": 0.45018075178403416,
-        "PSLV": 0.44501812848375855,
-        "NGD": 0.3944244201410575,
-        "NEM": 0.3830666488804511
+        "PTON": 0.5411359283578129,
+        "UNH": 0.4083047939213064,
+        "GOOGL": 0.39019145740723743,
+        "AA": 0.3841536785692144
     }
 }

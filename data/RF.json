@@ -2,16 +2,6 @@
     "4 17 2025": {
         "importantArticles": [
             {
-                "headline": "BIRMINGHAM, Ala., April 16, 2025--Regions Financial Corporation (NYSE:RF) today declared cash dividends on its common shares, as well as Series C, D, E and F preferred shares.",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6705",
-                "source": "Business Wire",
-                "ticker": "RF",
-                "title": "Regions Financial Corporation Declares Quarterly Common and Preferred Stock Dividends",
-                "url": "https://finance.yahoo.com/news/regions-financial-corporation-declares-quarterly-203000684.html"
-            },
-            {
                 "headline": "While the top- and bottom-line numbers for Regions Financial (RF) give a sense of how the business performed in the quarter ended March 2025, it could be worth looking at how some of its key metrics compare to Wall Street estimates and year-ago values.",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -30,6 +20,16 @@
                 "ticker": "RF",
                 "title": "Regions Financial (RF) Q1 Earnings Beat Estimates",
                 "url": "https://finance.yahoo.com/news/regions-financial-rf-q1-earnings-111003053.html"
+            },
+            {
+                "headline": "RF's first-quarter 2025 results reflect a rise in NII and non-interest income, along with a decline in expenses.",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "RF",
+                "title": "Regions Financial Q1 Earnings Beat, Non-Interest Income & NII Rise Y/Y",
+                "url": "https://finance.yahoo.com/news/regions-financial-q1-earnings-beat-152400539.html"
             },
             {
                 "headline": "BIRMINGHAM, Ala., April 17, 2025--Regions Financial Corp. (NYSE:RF) today reported earnings for the first quarter ended March 31, 2025.",
@@ -62,7 +62,32 @@
                 "url": "https://finance.yahoo.com/news/regions-financial-q1-earnings-beat-152400539.html"
             }
         ],
-        "avgScore": 0.24303333333333335
+        "avgScore": 0.15753999999999999
+    },
+    "4 16 2025": {
+        "importantArticles": [
+            {
+                "headline": "BIRMINGHAM, Ala., April 16, 2025--Regions Financial Corporation (NYSE:RF) today declared cash dividends on its common shares, as well as Series C, D, E and F preferred shares.",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6705",
+                "source": "Business Wire",
+                "ticker": "RF",
+                "title": "Regions Financial Corporation Declares Quarterly Common and Preferred Stock Dividends",
+                "url": "https://finance.yahoo.com/news/regions-financial-corporation-declares-quarterly-203000684.html"
+            },
+            {
+                "headline": "BIRMINGHAM, Ala., April 16, 2025--Regions Financial Corporation (NYSE:RF) today declared cash dividends on its common shares, as well as Series C, D, E and F preferred shares.",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6705",
+                "source": "Business Wire",
+                "ticker": "RF",
+                "title": "Regions Financial Corporation Declares Quarterly Common and Preferred Stock Dividends",
+                "url": "https://finance.yahoo.com/news/regions-financial-corporation-declares-quarterly-203000684.html"
+            }
+        ],
+        "avgScore": 0.6705
     },
     "4 15 2025": {
         "importantArticles": [
@@ -267,8 +292,53 @@
     "4 4 2025": {
         "importantArticles": [
             {
-                "headline": "Company's outstanding workplace culture is recognized for the 11th year. BIRMINGHAM, AL / ACCESS Newswire / April 3, 2025 /By Lara Warren Regions Bank is proud to announce it has received the 2025 Gallup Exceptional Workplace Award (GEWA) for employee ...",
+                "headline": "BILL Holdings suffers from market challenges and competition. However, the company benefits from AI-driven automation, partnerships, and growing platform adoption.",
                 "publication_date": "2025-04-04T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.128",
+                "source": "Zacks",
+                "ticker": "RF",
+                "title": "Is BILL Stock Still Worth Holding Despite Plunging 50% Year to Date?",
+                "url": "https://finance.yahoo.com/news/bill-stock-still-worth-holding-162800280.html"
+            },
+            {
+                "headline": "In recent market developments, Regions Financial (NYSE:RF) experienced a 11% decline last week. This movement coincided with a broader market downturn driven by escalating trade tensions, as evidenced by the Dow Jones tumbling into correction territory and the Nasdaq slipping into a bear market following the U.S. administration's implementation of new tariffs and China's retaliatory measures. As financial institutions such as Bank of America, JPMorgan Chase, and Citigroup saw significant...",
+                "publication_date": "2025-04-04T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.4019",
+                "source": "Simply Wall St.",
+                "ticker": "RF",
+                "title": "Regions Financial (NYSE:RF) Slides 11% in a Week as Dow Jones Enters Correction Territory",
+                "url": "https://finance.yahoo.com/news/regions-financial-nyse-rf-slides-175657997.html"
+            },
+            {
+                "headline": "In recent market developments, Regions Financial (NYSE:RF) experienced a 11% decline last week. This movement coincided with a broader market downturn driven by escalating trade tensions, as evidenced by the Dow Jones tumbling into correction territory and the Nasdaq slipping into a bear market following the U.S. administration's implementation of new tariffs and China's retaliatory measures. As financial institutions such as Bank of America, JPMorgan Chase, and Citigroup saw significant...",
+                "publication_date": "2025-04-04T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.4019",
+                "source": "Simply Wall St.",
+                "ticker": "RF",
+                "title": "Regions Financial (NYSE:RF) Slides 11% in a Week as Dow Jones Enters Correction Territory",
+                "url": "https://finance.yahoo.com/news/regions-financial-nyse-rf-slides-175657997.html"
+            },
+            {
+                "headline": "BILL Holdings suffers from market challenges and competition. However, the company benefits from AI-driven automation, partnerships, and growing platform adoption.",
+                "publication_date": "2025-04-04T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.128",
+                "source": "Zacks",
+                "ticker": "RF",
+                "title": "Is BILL Stock Still Worth Holding Despite Plunging 50% Year to Date?",
+                "url": "https://finance.yahoo.com/news/bill-stock-still-worth-holding-162800280.html"
+            }
+        ],
+        "avgScore": -0.13695
+    },
+    "4 3 2025": {
+        "importantArticles": [
+            {
+                "headline": "Company's outstanding workplace culture is recognized for the 11th year. BIRMINGHAM, AL / ACCESS Newswire / April 3, 2025 /By Lara Warren Regions Bank is proud to announce it has received the 2025 Gallup Exceptional Workplace Award (GEWA) for employee ...",
+                "publication_date": "2025-04-03T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.891",
                 "source": "ACCESS Newswire",
@@ -277,48 +347,8 @@
                 "url": "https://finance.yahoo.com/news/regions-bank-named-2025-gallup-200000953.html"
             },
             {
-                "headline": "BILL Holdings suffers from market challenges and competition. However, the company benefits from AI-driven automation, partnerships, and growing platform adoption.",
-                "publication_date": "2025-04-04T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.128",
-                "source": "Zacks",
-                "ticker": "RF",
-                "title": "Is BILL Stock Still Worth Holding Despite Plunging 50% Year to Date?",
-                "url": "https://finance.yahoo.com/news/bill-stock-still-worth-holding-162800280.html"
-            },
-            {
-                "headline": "In recent market developments, Regions Financial (NYSE:RF) experienced a 11% decline last week. This movement coincided with a broader market downturn driven by escalating trade tensions, as evidenced by the Dow Jones tumbling into correction territory and the Nasdaq slipping into a bear market following the U.S. administration's implementation of new tariffs and China's retaliatory measures. As financial institutions such as Bank of America, JPMorgan Chase, and Citigroup saw significant...",
-                "publication_date": "2025-04-04T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.4019",
-                "source": "Simply Wall St.",
-                "ticker": "RF",
-                "title": "Regions Financial (NYSE:RF) Slides 11% in a Week as Dow Jones Enters Correction Territory",
-                "url": "https://finance.yahoo.com/news/regions-financial-nyse-rf-slides-175657997.html"
-            },
-            {
-                "headline": "In recent market developments, Regions Financial (NYSE:RF) experienced a 11% decline last week. This movement coincided with a broader market downturn driven by escalating trade tensions, as evidenced by the Dow Jones tumbling into correction territory and the Nasdaq slipping into a bear market following the U.S. administration's implementation of new tariffs and China's retaliatory measures. As financial institutions such as Bank of America, JPMorgan Chase, and Citigroup saw significant...",
-                "publication_date": "2025-04-04T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.4019",
-                "source": "Simply Wall St.",
-                "ticker": "RF",
-                "title": "Regions Financial (NYSE:RF) Slides 11% in a Week as Dow Jones Enters Correction Territory",
-                "url": "https://finance.yahoo.com/news/regions-financial-nyse-rf-slides-175657997.html"
-            },
-            {
-                "headline": "BILL Holdings suffers from market challenges and competition. However, the company benefits from AI-driven automation, partnerships, and growing platform adoption.",
-                "publication_date": "2025-04-04T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.128",
-                "source": "Zacks",
-                "ticker": "RF",
-                "title": "Is BILL Stock Still Worth Holding Despite Plunging 50% Year to Date?",
-                "url": "https://finance.yahoo.com/news/bill-stock-still-worth-holding-162800280.html"
-            },
-            {
                 "headline": "Company's outstanding workplace culture is recognized for the 11th year. BIRMINGHAM, AL / ACCESS Newswire / April 3, 2025 /By Lara Warren Regions Bank is proud to announce it has received the 2025 Gallup Exceptional Workplace Award (GEWA) for employee ...",
-                "publication_date": "2025-04-04T00:00:00.000Z",
+                "publication_date": "2025-04-03T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.891",
                 "source": "ACCESS Newswire",
@@ -327,7 +357,7 @@
                 "url": "https://finance.yahoo.com/news/regions-bank-named-2025-gallup-200000953.html"
             }
         ],
-        "avgScore": 0.20570000000000008
+        "avgScore": 0.891
     },
     "4 2 2025": {
         "importantArticles": [
@@ -449,12 +479,12 @@
         ],
         "avgScore": 0.6808
     },
-    "coef": 0.3939393939393939,
-    "avgCoef": 0.04201346468685264,
+    "coef": 0.16783216783216784,
+    "avgCoef": 0.017138205410535387,
     "similar": {
-        "NU": 0.8181818181818182,
-        "GRAB": 0.8060606060606059,
-        "CCL": 0.6606060606060605,
-        "UMC": 0.6363636363636362
+        "GRAB": 0.41958041958041964,
+        "NU": 0.4055944055944056,
+        "UMC": 0.34965034965034975,
+        "MSTR": 0.32867132867132864
     }
 }

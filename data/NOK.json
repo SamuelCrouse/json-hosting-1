@@ -407,26 +407,6 @@
                 "url": "https://finance.yahoo.com/news/nokia-inks-patent-license-agreement-144800555.html"
             },
             {
-                "headline": "We recently compiled a list of the 10 Best Stocks Under $10 to Buy Now. In this article, we are going to take a look at where Nokia Oyj (NYSE:NOK) stands against the other stocks under $10. On March 28, Friday, US stocks declined as Wall Street continued to struggle with President Trump\u2019s trade war [\u2026]",
-                "publication_date": "2025-04-01T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.25",
-                "source": "Insider Monkey",
-                "ticker": "NOK",
-                "title": "Is Nokia Oyj (NOK) The Best Stock Under $10 to Buy Now?",
-                "url": "https://finance.yahoo.com/news/nokia-oyj-nok-best-stock-211828438.html"
-            },
-            {
-                "headline": "We recently compiled a list of the 10 Best Stocks Under $10 to Buy Now. In this article, we are going to take a look at where Nokia Oyj (NYSE:NOK) stands against the other stocks under $10. On March 28, Friday, US stocks declined as Wall Street continued to struggle with President Trump\u2019s trade war [\u2026]",
-                "publication_date": "2025-04-01T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.25",
-                "source": "Insider Monkey",
-                "ticker": "NOK",
-                "title": "Is Nokia Oyj (NOK) The Best Stock Under $10 to Buy Now?",
-                "url": "https://finance.yahoo.com/news/nokia-oyj-nok-best-stock-211828438.html"
-            },
-            {
                 "headline": "Amazon is set to leverage NOK's video technologies to enhance its streaming services and devices.",
                 "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -447,7 +427,7 @@
                 "url": "https://finance.yahoo.com/news/nokia-corporation-repurchase-own-shares-193000556.html"
             }
         ],
-        "avgScore": 0.2029
+        "avgScore": 0.42935
     },
     "3 31 2025": {
         "importantArticles": [
@@ -482,6 +462,16 @@
                 "url": "https://finance.yahoo.com/news/nokia-modernizes-vodafone-idea-optical-070000040.html"
             },
             {
+                "headline": "We recently compiled a list of the 10 Best Stocks Under $10 to Buy Now. In this article, we are going to take a look at where Nokia Oyj (NYSE:NOK) stands against the other stocks under $10. On March 28, Friday, US stocks declined as Wall Street continued to struggle with President Trump\u2019s trade war [\u2026]",
+                "publication_date": "2025-03-31T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.25",
+                "source": "Insider Monkey",
+                "ticker": "NOK",
+                "title": "Is Nokia Oyj (NOK) The Best Stock Under $10 to Buy Now?",
+                "url": "https://finance.yahoo.com/news/nokia-oyj-nok-best-stock-211828438.html"
+            },
+            {
                 "headline": "Press Release 2degrees and Nokia accelerate delivery of 5G services and improve network efficiency in New Zealand 2degrees and Nokia sign six-year deal to utilize Nokia\u2019s containerized Cloud Native Communication Suite (CNCS). CNCS, through the Nokia Cloud Platform, will streamline network activities, enhance automation, and minimize manual intervention across 2degrees\u2019 network. CNCS will be deployed on the Nokia Cloud Platform, which integrates a full set of Red Hat cloud products, including Red",
                 "publication_date": "2025-03-31T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -500,19 +490,9 @@
                 "ticker": "NOK",
                 "title": "Nokia modernizes Vodafone Idea\u2019s optical network to enhance 4G services and support 5G rollout",
                 "url": "https://finance.yahoo.com/news/nokia-modernizes-vodafone-idea-optical-070000040.html"
-            },
-            {
-                "headline": "Nokia CorporationStock Exchange Release31 March 2025 at 22:30 EEST Nokia Corporation: Repurchase of own shares on 31.03.2025 Espoo, Finland \u2013 On 31 March 2025 Nokia Corporation (LEI: 549300A0JPRWG1KI7U06) has acquired its own shares (ISIN FI0009000681) as follows: Trading venue (MIC Code) Number of shares Weighted average price / share, EUR* XHEL 2,328,727 4.82 CEUX 1,600,000 4.82 BATE - - AQEU 100,000 4.81 TQEX 146,020 4.83 Total 4,174,747 4.82 * Rounded to two decimals On 22 November 2024, Nok",
-                "publication_date": "2025-03-31T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7964",
-                "source": "GlobeNewswire",
-                "ticker": "NOK",
-                "title": "Nokia Corporation: Repurchase of own shares on 31.03.2025",
-                "url": "https://finance.yahoo.com/news/nokia-corporation-repurchase-own-shares-193000011.html"
             }
         ],
-        "avgScore": 0.7918499999999999
+        "avgScore": 0.58348
     },
     "3 28 2025": {
         "importantArticles": [
@@ -999,12 +979,12 @@
         ],
         "avgScore": 0.55115
     },
-    "coef": -0.14285714285714285,
-    "avgCoef": -0.007655182811199378,
+    "coef": -0.1969924812030075,
+    "avgCoef": 0.01659073344881341,
     "similar": {
-        "HLN": 0.38796992481203,
-        "KO": 0.3759398496240601,
-        "CVS": 0.34736842105263155,
-        "ABEV": 0.27754796998506703
+        "HLN": 0.4796992481203006,
+        "CVS": 0.3924812030075188,
+        "KO": 0.37293233082706767,
+        "ABEV": 0.29259122039076174
     }
 }

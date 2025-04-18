@@ -69,34 +69,19 @@
         ],
         "avgScore": 0.53025
     },
-    "4 11 2025": {
-        "importantArticles": [
-            {
-                "headline": "We recently published a list of 10 Best Low Priced Growth Stocks To Invest In. In this article, we are going to take a look at where \u200b\u200bPeloton Interactive, Inc. (NASDAQ:PTON) stands against other best low priced growth stocks. Low priced stocks usually fall under the small to mid-cap size category. This growth criteria, often [\u2026]",
-                "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8979",
-                "source": "Insider Monkey",
-                "ticker": "PTON",
-                "title": "Peloton Interactive, Inc. (PTON): One of the Best Low Priced Growth Stocks to Invest In",
-                "url": "https://finance.yahoo.com/news/peloton-interactive-inc-pton-one-211040317.html"
-            },
-            {
-                "headline": "We recently published a list of 10 Best Low Priced Growth Stocks To Invest In. In this article, we are going to take a look at where \u200b\u200bPeloton Interactive, Inc. (NASDAQ:PTON) stands against other best low priced growth stocks. Low priced stocks usually fall under the small to mid-cap size category. This growth criteria, often [\u2026]",
-                "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8979",
-                "source": "Insider Monkey",
-                "ticker": "PTON",
-                "title": "Peloton Interactive, Inc. (PTON): One of the Best Low Priced Growth Stocks to Invest In",
-                "url": "https://finance.yahoo.com/news/peloton-interactive-inc-pton-one-211040317.html"
-            }
-        ],
-        "avgScore": 0.8979
-    },
     "4 10 2025": {
         "importantArticles": [
             {
+                "headline": "We recently published a list of 10 Best Low Priced Growth Stocks To Invest In. In this article, we are going to take a look at where \u200b\u200bPeloton Interactive, Inc. (NASDAQ:PTON) stands against other best low priced growth stocks. Low priced stocks usually fall under the small to mid-cap size category. This growth criteria, often [\u2026]",
+                "publication_date": "2025-04-10T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8979",
+                "source": "Insider Monkey",
+                "ticker": "PTON",
+                "title": "Peloton Interactive, Inc. (PTON): One of the Best Low Priced Growth Stocks to Invest In",
+                "url": "https://finance.yahoo.com/news/peloton-interactive-inc-pton-one-211040317.html"
+            },
+            {
                 "headline": "The Russell 2000 is packed with potential breakout stocks, thanks to its focus on smaller companies with high growth potential. However, smaller size also means these businesses often lack the resilience and financial flexibility of large-cap firms, making careful selection crucial.",
                 "publication_date": "2025-04-10T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -115,16 +100,6 @@
                 "ticker": "PTON",
                 "title": "Peloton Interactive (NASDAQ:PTON shareholders incur further losses as stock declines 7.0% this week, taking five-year losses to 84%",
                 "url": "https://finance.yahoo.com/news/peloton-interactive-nasdaq-pton-shareholders-131030595.html"
-            },
-            {
-                "headline": "As a result, the retailer\u2019s chief supply chain officer is leaving the business and the company is on the hunt for a new chief of information.",
-                "publication_date": "2025-04-10T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Retail Dive",
-                "ticker": "PTON",
-                "title": "Peloton names new COO, chief commercial officer",
-                "url": "https://finance.yahoo.com/news/peloton-names-coo-chief-commercial-120600882.html"
             },
             {
                 "headline": "As a result, the retailer\u2019s chief supply chain officer is leaving the business and the company is on the hunt for a new chief of information.",
@@ -157,7 +132,7 @@
                 "url": "https://finance.yahoo.com/news/3-russell-2000-stocks-hot-153035263.html"
             }
         ],
-        "avgScore": 0.2919
+        "avgScore": 0.4434
     },
     "4 9 2025": {
         "importantArticles": [
@@ -334,12 +309,12 @@
         ],
         "avgScore": 0.7717
     },
-    "coef": 0.3090909090909091,
-    "avgCoef": 0.00809014147623243,
+    "coef": 0.11515151515151514,
+    "avgCoef": 0.02823697434773185,
     "similar": {
-        "MP": 0.6454545454545455,
-        "SMCI": 0.5454545454545455,
-        "TSLA": 0.5363636363636364,
-        "NVDA": 0.5
+        "TSLA": 0.5757575757575757,
+        "NVDA": 0.5515151515151515,
+        "MP": 0.5515151515151515,
+        "SMCI": 0.5272727272727272
     }
 }

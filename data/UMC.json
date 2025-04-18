@@ -112,7 +112,7 @@
                 "url": "https://finance.yahoo.com/news/globalfoundries-explores-merger-united-microelectronics-163028112.html"
             }
         ],
-        "avgScore": 0.3371571428571428
+        "avgScore": 0.2912833333333333
     },
     "3 31 2025": {
         "importantArticles": [
@@ -137,6 +137,26 @@
                 "url": "https://finance.yahoo.com/news/globalfoundries-taiwanese-chipmaker-umc-mull-150510599.html"
             },
             {
+                "headline": "Shares of Taiwan-based semiconductor manufacturer United Microelectronics surged Monday on reports it could merge with U.S. chipmaker GlobalFoundries.",
+                "publication_date": "2025-03-31T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6124",
+                "source": "Investopedia",
+                "ticker": "UMC",
+                "title": "United Microelectronics Stock Pops on Report of Possible GlobalFoundries Deal",
+                "url": "https://finance.yahoo.com/news/united-microelectronics-stock-pops-report-215539009.html"
+            },
+            {
+                "headline": "Shares of Taiwan-based semiconductor manufacturer United Microelectronics surged Monday on reports it could merge with U.S. chipmaker GlobalFoundries.",
+                "publication_date": "2025-03-31T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6124",
+                "source": "Investopedia",
+                "ticker": "UMC",
+                "title": "United Microelectronics Stock Pops on Report of Possible GlobalFoundries Deal",
+                "url": "https://finance.yahoo.com/news/united-microelectronics-stock-pops-report-215539009.html"
+            },
+            {
                 "headline": "Taiwan's major chipmaker United Microelectronics and U.S.-based GlobalFoundries are looking into the possibility of a merger, two sources familiar with the matter told Reuters on Monday.  A combined company would establish a larger U.S.-based firm with a global manufacturing footprint spanning Asia, the United States and Europe.  The potential deal comes as the U.S. seeks to strengthen its semiconductor supply chain amid rising geopolitical tensions in the Taiwan Strait and increasing competition from China in the mature chip market.",
                 "publication_date": "2025-03-31T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -157,14 +177,14 @@
                 "url": "https://finance.yahoo.com/news/umc-stock-surges-report-globalfoundries-154054457.html"
             }
         ],
-        "avgScore": 0.7964
+        "avgScore": 0.7350666666666666
     },
     "coef": -0.19999999999999998,
-    "avgCoef": 0.012904770835422864,
+    "avgCoef": 0.017765972759887297,
     "similar": {
         "T": 0.0,
         "NVDA": -0.19999999999999998,
         "BTG": -0.19999999999999998,
-        "RIG": -0.19999999999999998
+        "AAPL": -0.19999999999999998
     }
 }

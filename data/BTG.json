@@ -347,16 +347,6 @@
                 "url": "https://finance.yahoo.com/news/b2gold-corp-btg-best-gold-001129700.html"
             },
             {
-                "headline": "We recently published a list of 15 Best Penny Stocks to Buy According to Billionaires. In this article, we are going to take a look at where B2Gold Corp. (NYSEAMERICAN:BTG) stands against other best penny stocks to buy according to billionaires. Can Small-Cap Stocks Overtake Large-Caps in 2025? On February 14, Morningstar released a report [\u2026]",
-                "publication_date": "2025-03-19T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8555",
-                "source": "Insider Monkey",
-                "ticker": "BTG",
-                "title": "B2Gold Corp. (BTG): One of the Best Penny Stocks to Buy According to Billionaires",
-                "url": "https://finance.yahoo.com/news/b2gold-corp-btg-one-best-192439160.html"
-            },
-            {
                 "headline": "BTG's Fekola Solar Plant in Mali is now operational, with reduced emissions and fuel consumption.",
                 "publication_date": "2025-03-19T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -365,6 +355,16 @@
                 "ticker": "BTG",
                 "title": "B2Gold Completes Fekola Solar Plant Expansion to Cut Fuel Costs",
                 "url": "https://finance.yahoo.com/news/b2gold-completes-fekola-solar-plant-145300075.html"
+            },
+            {
+                "headline": "B2Gold (BTG) reachead $3.28 at the closing of the latest trading day, reflecting a +1.55% change compared to its last close.",
+                "publication_date": "2025-03-19T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "BTG",
+                "title": "B2Gold (BTG) Rises As Market Takes a Dip: Key Facts",
+                "url": "https://finance.yahoo.com/news/b2gold-btg-rises-market-takes-221518550.html"
             },
             {
                 "headline": "B2Gold (BTG) reachead $3.28 at the closing of the latest trading day, reflecting a +1.55% change compared to its last close.",
@@ -387,20 +387,30 @@
                 "url": "https://finance.yahoo.com/news/b2gold-completes-fekola-solar-plant-145300075.html"
             },
             {
-                "headline": "We recently published a list of 15 Best Penny Stocks to Buy According to Billionaires. In this article, we are going to take a look at where B2Gold Corp. (NYSEAMERICAN:BTG) stands against other best penny stocks to buy according to billionaires. Can Small-Cap Stocks Overtake Large-Caps in 2025? On February 14, Morningstar released a report [\u2026]",
+                "headline": "We recently published a list of 10 Best Gold Penny Stocks to Buy Now. In this article, we are going to take a look at where B2Gold Corp. (NYSE:BTG) stands against other best gold penny stocks to buy now. The global precious metals market is influenced by economic uncertainty, inflation, and shifting supply and demand [\u2026]",
                 "publication_date": "2025-03-19T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8807",
+                "source": "Insider Monkey",
+                "ticker": "BTG",
+                "title": "Is B2Gold Corp. (BTG) The Best Gold Penny Stock to Buy Now?",
+                "url": "https://finance.yahoo.com/news/b2gold-corp-btg-best-gold-001129700.html"
+            }
+        ],
+        "avgScore": 0.2935666666666667
+    },
+    "3 18 2025": {
+        "importantArticles": [
+            {
+                "headline": "We recently published a list of 15 Best Penny Stocks to Buy According to Billionaires. In this article, we are going to take a look at where B2Gold Corp. (NYSEAMERICAN:BTG) stands against other best penny stocks to buy according to billionaires. Can Small-Cap Stocks Overtake Large-Caps in 2025? On February 14, Morningstar released a report [\u2026]",
+                "publication_date": "2025-03-18T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.8555",
                 "source": "Insider Monkey",
                 "ticker": "BTG",
                 "title": "B2Gold Corp. (BTG): One of the Best Penny Stocks to Buy According to Billionaires",
                 "url": "https://finance.yahoo.com/news/b2gold-corp-btg-one-best-192439160.html"
-            }
-        ],
-        "avgScore": 0.43405000000000005
-    },
-    "3 18 2025": {
-        "importantArticles": [
+            },
             {
                 "headline": "GAU's Q4 results gain from an increase in gold prices, partially offset by a reduction in the sales volume.",
                 "publication_date": "2025-03-18T00:00:00.000Z",
@@ -420,16 +430,26 @@
                 "ticker": "BTG",
                 "title": "Galiano Earnings Lag Estimates in Q4, Rise Y/Y on Higher Gold Prices",
                 "url": "https://finance.yahoo.com/news/galiano-earnings-lag-estimates-q4-162100498.html"
+            },
+            {
+                "headline": "We recently published a list of 15 Best Penny Stocks to Buy According to Billionaires. In this article, we are going to take a look at where B2Gold Corp. (NYSEAMERICAN:BTG) stands against other best penny stocks to buy according to billionaires. Can Small-Cap Stocks Overtake Large-Caps in 2025? On February 14, Morningstar released a report [\u2026]",
+                "publication_date": "2025-03-18T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8555",
+                "source": "Insider Monkey",
+                "ticker": "BTG",
+                "title": "B2Gold Corp. (BTG): One of the Best Penny Stocks to Buy According to Billionaires",
+                "url": "https://finance.yahoo.com/news/b2gold-corp-btg-one-best-192439160.html"
             }
         ],
-        "avgScore": 0.6908
+        "avgScore": 0.77315
     },
-    "coef": 0.06416375790145078,
-    "avgCoef": 0.1098226434165392,
+    "coef": 0.05866493982328657,
+    "avgCoef": 0.0033017433988889082,
     "similar": {
-        "AMD": 0.5663149066954133,
-        "AAPL": 0.5412073492557152,
-        "AGNC": 0.53636516409862,
-        "ADT": 0.5272587062336607
+        "ADT": 0.5607354494865915,
+        "AAPL": 0.5328381634424825,
+        "BMY": 0.5328381634424825,
+        "AMD": 0.5160997918160171
     }
 }

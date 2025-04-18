@@ -99,11 +99,11 @@
         ],
         "avgScore": 0.6808
     },
-    "3 28 2025": {
+    "3 27 2025": {
         "importantArticles": [
             {
                 "headline": "TORONTO, March 27, 2025 (GLOBE NEWSWIRE) -- Sprott Inc. (NYSE/TSX: SII) (\u201cSprott\u201d) on behalf of the Sprott Physical Silver Trust (NYSE Arca/TSX: PSLV) (\u201cPSLV\u201d or the \u201cTrust\u201d) today announced that PSLV\u2019s net asset value (\u201cNAV\u201d) has surpassed US$6 billion. \u201cWe would like to thank our unitholders for their trust and support in helping the Sprott Physical Silver Trust reach this significant milestone,\u201d said John Ciampaglia, Chief Executive Officer of Sprott Asset Management. \u201cPSLV provides investors",
-                "publication_date": "2025-03-28T00:00:00.000Z",
+                "publication_date": "2025-03-27T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.9779",
                 "source": "GlobeNewswire",
@@ -113,7 +113,7 @@
             },
             {
                 "headline": "TORONTO, March 27, 2025 (GLOBE NEWSWIRE) -- Sprott Inc. (NYSE/TSX: SII) (\u201cSprott\u201d) on behalf of the Sprott Physical Silver Trust (NYSE Arca/TSX: PSLV) (\u201cPSLV\u201d or the \u201cTrust\u201d) today announced that PSLV\u2019s net asset value (\u201cNAV\u201d) has surpassed US$6 billion. \u201cWe would like to thank our unitholders for their trust and support in helping the Sprott Physical Silver Trust reach this significant milestone,\u201d said John Ciampaglia, Chief Executive Officer of Sprott Asset Management. \u201cPSLV provides investors",
-                "publication_date": "2025-03-28T00:00:00.000Z",
+                "publication_date": "2025-03-27T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.9779",
                 "source": "GlobeNewswire",
@@ -124,12 +124,12 @@
         ],
         "avgScore": 0.9779
     },
-    "coef": -0.09999999999999999,
-    "avgCoef": 0.08965468654180546,
+    "coef": -0.3,
+    "avgCoef": -0.00646757936220009,
     "similar": {
-        "UNH": 0.7999999999999999,
-        "WBD": 0.7999999999999999,
-        "CVS": 0.7999999999999999,
-        "META": 0.7999999999999999
+        "BMY": 0.6,
+        "UNH": 0.49999999999999994,
+        "AVGO": 0.3,
+        "SMCI": 0.19999999999999998
     }
 }

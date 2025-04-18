@@ -32,16 +32,6 @@
                 "url": "https://finance.yahoo.com/news/better-artificial-intelligence-ai-stock-150000487.html"
             },
             {
-                "headline": "Alphabet\u2019s  Google created an illegal monopoly that allowed it to control parts of the online advertising industry, a federal judge ruled Thursday, a decision that could upend one of the technology giant\u2019s core businesses.  The ruling marked the second time in eight months that a U.S. judge labeled Google an illegal monopolist\u2014and could lead the Justice Department to seek a forced sale of some of the company\u2019s advertising products.  U.S. District Judge Leonie Brinkema said Google\u2019s monopoly in ad exchanges and server markets violated the Sherman Antitrust Act, harming advertisers and consumers.",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.9153",
-                "source": "The Wall Street Journal",
-                "ticker": "GOOG",
-                "title": "Judge Rules Google Operates Illegal Ad Monopoly",
-                "url": "https://finance.yahoo.com/m/c20747a8-71f1-3654-87fa-881e6d2bb89a/judge-rules-google-operates.html"
-            },
-            {
                 "headline": "The major averages were broadly lower near noon, with the Nasdaq down over 300 points amid escalating trade tensions and new export restrictions.\u200b This follows the U.S. government\u2019s decision to tighten export controls on advanced AI-related computer chips.\u200b The recent U.S. actions have intensified concerns over a potential trade war. President Donald Trump has announced a new investigation into critical mineral imports and imposed steep tariffs on Chinese imports. In retaliation, China has incre",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -50,6 +40,16 @@
                 "ticker": "GOOG",
                 "title": "Nvidia, AMD see charges due to new China export rules: Morning Buzz",
                 "url": "https://finance.yahoo.com/news/nvidia-amd-see-charges-due-160543145.html"
+            },
+            {
+                "headline": "Alphabet\u2019s  Google created a monopoly that allowed it to control parts of the online-advertising industry, a federal judge ruled Thursday, a decision that could upend one of the technology giant\u2019s core businesses.  The ruling marked the second time in eight months that a U.S. judge labeled Google an illegal monopolist\u2014and could lead the Justice Department to seek a forced sale of some of the company\u2019s advertising products.  U.S. District Judge Leonie Brinkema said Google\u2019s monopoly in ad exchanges and server markets violated the Sherman Antitrust Act, harming advertisers and consumers.",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.8481",
+                "source": "The Wall Street Journal",
+                "ticker": "GOOG",
+                "title": "Judge Rules Google Operates Illegal Ad Monopoly",
+                "url": "https://finance.yahoo.com/m/c20747a8-71f1-3654-87fa-881e6d2bb89a/judge-rules-google-operates.html"
             },
             {
                 "headline": "Federal judge declares Google's digital ad network an illegal monopoly, joining its search engine.",
@@ -62,7 +62,7 @@
                 "url": "https://finance.yahoo.com/news/federal-judge-declares-googles-digital-155852450.html"
             }
         ],
-        "avgScore": 0.1407741935483871
+        "avgScore": 0.11306923076923073
     },
     "4 16 2025": {
         "importantArticles": [
@@ -127,7 +127,7 @@
                 "url": "https://finance.yahoo.com/news/google-faces-5-billion-lawsuit-102205564.html"
             }
         ],
-        "avgScore": 0.12062499999999994
+        "avgScore": 0.08338999999999994
     },
     "4 15 2025": {
         "importantArticles": [
@@ -192,7 +192,7 @@
                 "url": "https://finance.yahoo.com/news/prediction-3-stocks-thatll-worth-134500902.html"
             }
         ],
-        "avgScore": 0.18948750000000003
+        "avgScore": 0.19732580645161293
     },
     "4 14 2025": {
         "importantArticles": [
@@ -257,7 +257,7 @@
                 "url": "https://finance.yahoo.com/news/nasdaq-bear-market-3-unstoppable-070600305.html"
             }
         ],
-        "avgScore": 0.26767368421052634
+        "avgScore": 0.2594
     },
     "4 11 2025": {
         "importantArticles": [
@@ -292,16 +292,6 @@
                 "url": "https://finance.yahoo.com/news/why-alphabet-stock-gaining-today-192657886.html"
             },
             {
-                "headline": "We recently published a list of 10 AI Stocks to Watch Now. In this article, we are going to take a look at where Alphabet Inc. (NASDAQ:GOOGL) stands against other AI stocks to watch now. The trade war between two of the world\u2019s biggest economies, China and the US, is deepening even further. In a [\u2026]",
-                "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.5994",
-                "source": "Insider Monkey",
-                "ticker": "GOOG",
-                "title": "Alphabet\u2019s (GOOGL) Ironwood AI Chip Drops \u2013 9,000+ Chip Clusters Powering Gemini Models",
-                "url": "https://finance.yahoo.com/news/alphabet-googl-ironwood-ai-chip-213112569.html"
-            },
-            {
                 "headline": "Despite increased market volatility surrounding tariff announcements, investors shouldn't forget about a major technological innovation that's happening.  It seems new AI advancements are announced every week.  One company that many feared would be negatively affected is Alphabet (NASDAQ: GOOGL) (NASDAQ: GOOG).",
                 "publication_date": "2025-04-11T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -320,9 +310,19 @@
                 "ticker": "GOOG",
                 "title": "Google Slashes Hundreds of Jobs Amid Quiet Restructuring Push",
                 "url": "https://finance.yahoo.com/news/google-slashes-hundreds-jobs-amid-104722851.html"
+            },
+            {
+                "headline": "The affected division includes the Android operating system, Pixel smartphones, and the Chrome browser, among other services.",
+                "publication_date": "2025-04-11T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.1531",
+                "source": "Verdict",
+                "ticker": "GOOG",
+                "title": "Google trims workforce in platforms and devices unit-report",
+                "url": "https://finance.yahoo.com/news/google-trims-workforce-platforms-devices-154618589.html"
             }
         ],
-        "avgScore": 0.305805
+        "avgScore": 0.374585
     },
     "4 10 2025": {
         "importantArticles": [
@@ -357,14 +357,14 @@
                 "url": "https://finance.yahoo.com/news/2-growth-stocks-buy-tariff-141500336.html"
             },
             {
-                "headline": "President Trump threw out what appeared to be a lifeline to tech companies Wednesday by suspending onerous tariffs that had sent their stocks spiraling downward.  The uncertainty over trade barriers is still rattling Big Tech and the global economy.  Trump\u2019s reprieve pushed  Nvidia\u2019s  stock above where it was before he imposed tariffs last week, but the trade war with China is escalating, not easing, and huge uncertainty remains.",
+                "headline": "We recently published a list of 10 AI Stocks to Watch Now. In this article, we are going to take a look at where Alphabet Inc. (NASDAQ:GOOGL) stands against other AI stocks to watch now. The trade war between two of the world\u2019s biggest economies, China and the US, is deepening even further. In a [\u2026]",
                 "publication_date": "2025-04-10T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.9307",
-                "source": "The Wall Street Journal",
+                "sentimentScore": "-0.5994",
+                "source": "Insider Monkey",
                 "ticker": "GOOG",
-                "title": "Tariffs Are Still Coming for the AI Boom",
-                "url": "https://finance.yahoo.com/m/24eb806e-1e5d-3b58-917b-390720595b5d/tariffs-are-still-coming-for.html"
+                "title": "Alphabet\u2019s (GOOGL) Ironwood AI Chip Drops \u2013 9,000+ Chip Clusters Powering Gemini Models",
+                "url": "https://finance.yahoo.com/news/alphabet-googl-ironwood-ai-chip-213112569.html"
             },
             {
                 "headline": "We recently published a list of Jim Cramer Calls Market Decline \u2018Man-Made\u2019 and Breaks Down 15 Stocks. In this article, we are going to take a look at where Alphabet Inc. (NASDAQ:GOOGL) stands against other stocks that Jim Cramer discusses. On Monday, April 7th, Jim Cramer opened the Mad Money episode with a message of [\u2026]",
@@ -377,30 +377,20 @@
                 "url": "https://finance.yahoo.com/news/alphabet-inc-googl-jim-cramer-162857189.html"
             },
             {
-                "headline": "President Trump's announcement of tariffs on imports from countries worldwide has rocked the stock market -- and the tech-heavy Nasdaq Composite (NASDAQINDEX: ^IXIC) has led the decline, crashing more than 20% from its most recent high.  Why are tech stocks being hit so hard?  All this has prompted investors to worry about tech earnings ahead, fleeing shares of these companies.",
+                "headline": "Google pushes forward with $75B capex for data centers and AI compute as trade pressure on China escalates",
                 "publication_date": "2025-04-10T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.3749",
-                "source": "Motley Fool",
+                "sentimentScore": "-0.296",
+                "source": "GuruFocus.com",
                 "ticker": "GOOG",
-                "title": "The Stock Market Has Crashed: My Top 5 Dirt Cheap Tech Stocks to Buy Now",
-                "url": "https://finance.yahoo.com/news/stock-market-crashed-top-5-221000917.html"
+                "title": "Google to Spend $75 Billion on AI Infrastructure Despite Tariff Tensions",
+                "url": "https://finance.yahoo.com/news/google-spend-75-billion-ai-134816774.html"
             }
         ],
-        "avgScore": 0.37955405405405396
+        "avgScore": 0.41484054054054054
     },
     "4 9 2025": {
         "importantArticles": [
-            {
-                "headline": "Las Vegas (Reuters) -Alphabet said on Wednesday it was still committed to spending some $75 billion this year to build out data center capacity despite turmoil over U.S. tariffs and sought to reassure investors that its AI plans were yielding good returns.  Investors are fretting about the massive capital costs of AI projects, especially as uncertainty surrounding U.S. President Donald Trump's tariffs roil markets and cloud the economic outlook.  CEO Sundar Pichai said the investment would buy the chips and build the servers needed to burnish Alphabet's core offerings, including Search, while supporting the development of AI services such as its Gemini model.",
-                "publication_date": "2025-04-09T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8286",
-                "source": "Reuters",
-                "ticker": "GOOG",
-                "title": "Alphabet reaffirms $75 billion spending plan in 2025 despite tariff turmoil",
-                "url": "https://finance.yahoo.com/news/alphabet-ceo-reaffirms-planned-75-171952025.html"
-            },
             {
                 "headline": "With Google Gemini now powering Reddit Answers, the platform may have just unlocked its most valuable asset: itself.",
                 "publication_date": "2025-04-09T00:00:00.000Z",
@@ -412,14 +402,34 @@
                 "url": "https://finance.yahoo.com/news/reddit-just-went-full-ai-172159975.html"
             },
             {
-                "headline": "Alphabet's on Wednesday unveiled its seventh-generation artificial intelligence chip named Ironwood, which the company said is designed to speed the performance of AI applications.  Known in the tech industry as \"inference\" computing, the chips perform rapid calculations to render answers in a chatbot or generate other types of responses.  The search giant's multi-billion dollar, roughly decade-long effort represents one of the few viable alternative chips to Nvidia's powerful AI processors.",
+                "headline": "Advanced Micro Devices, Inc (NASDAQ:AMD) on Wednesday announced the new Alphabet Inc (NASDAQ:GOOG) (NASDAQ:GOOGL) Google Cloud C4D and H4D virtual machines (VMs), which fifth-generation AMD EPYC processors power. The latest additions to Google Cloud\u2019s general-purpose and HPC-optimized VMs deliver leadership performance, scalability, and efficiency, from data analytics and web serving to high-performance computing (HPC) and AI. Based on Google Cloud\u2019s testing, leveraging the advancements of the A",
                 "publication_date": "2025-04-09T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.7096",
-                "source": "Reuters",
+                "sentimentScore": "0.5423",
+                "source": "Benzinga",
                 "ticker": "GOOG",
-                "title": "Google launches new Ironwood chip to speed AI applications",
-                "url": "https://finance.yahoo.com/news/google-launches-ironwood-chip-speed-121209543.html"
+                "title": "AMD Powers Google Cloud's New AI Servers Promising 80% Boost In Speed",
+                "url": "https://finance.yahoo.com/news/amd-powers-google-clouds-ai-191122189.html"
+            },
+            {
+                "headline": "The tech industry tried to cozy up to the Trump Administration in the hopes that it could avoid getting caught in the crossfire of his policy moves. But they couldn't dodge his tariffs.",
+                "publication_date": "2025-04-09T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.0772",
+                "source": "Yahoo Finance",
+                "ticker": "GOOG",
+                "title": "The tech world aggressively backed Trump. It couldn't stop his tariffs.",
+                "url": "https://finance.yahoo.com/news/the-tech-world-aggressively-backed-trump-it-couldnt-stop-his-tariffs-192914454.html"
+            },
+            {
+                "headline": "President Trump threw out what appeared to be a lifeline to tech companies Wednesday by suspending onerous tariffs that had sent their stocks spiraling downward.  The uncertainty over trade barriers is still rattling Big Tech and the global economy.  Trump\u2019s reprieve pushed  Nvidia\u2019s  stock above where it was before he imposed tariffs last week, but the trade war with China is escalating, not easing, and huge uncertainty remains.",
+                "publication_date": "2025-04-09T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.9307",
+                "source": "The Wall Street Journal",
+                "ticker": "GOOG",
+                "title": "Tariffs Are Still Coming for the AI Boom",
+                "url": "https://finance.yahoo.com/m/24eb806e-1e5d-3b58-917b-390720595b5d/tariffs-are-still-coming-for.html"
             },
             {
                 "headline": "Alphabet (NasdaqGS:GOOGL) saw its stock price fall by 8% over the last week, aligning closely with the broader market decline of 12% amid heightened volatility due to tariff uncertainties. While broader economic concerns weighed heavily on the market, Alphabet's strategic partnerships and integrations with Bentley Systems and Shirofune did little to buoy its performance against such pressures. Despite promising technological enhancements with entities like Google's Street View, the overall...",
@@ -440,51 +450,16 @@
                 "ticker": "GOOG",
                 "title": "KeyBanc flags Ad spending slowdown, cuts target on major digital names",
                 "url": "https://finance.yahoo.com/news/keybanc-flags-ad-spending-slowdown-174806506.html"
-            },
-            {
-                "headline": "We recently published a list of 9 AI Stocks In Focus: Tariffs and Key Updates. In this article, we are going to take a look at where Alphabet Inc. (NASDAQ:GOOGL) stands against other AI stocks in focus. President Donald Trump\u2019s new tariff regimes have been introduced under the International Emergency Economic Powers Act. A 10% [\u2026]",
-                "publication_date": "2025-04-09T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.3818",
-                "source": "Insider Monkey",
-                "ticker": "GOOG",
-                "title": "Alphabet (GOOGL) to Spotlight AI and Cloud Strategy at Upcoming Google Cloud Next Event",
-                "url": "https://finance.yahoo.com/news/alphabet-googl-spotlight-ai-cloud-162211877.html"
             }
         ],
-        "avgScore": 0.1832692307692307
+        "avgScore": -0.1354142857142857
     },
-    "3 28 2025": {
-        "importantArticles": [
-            {
-                "headline": "SAN FRANCISCO (Reuters) -A U.S. judge's ruling that Google has illegal monopolies in ad technology sets up the possibility of U.S. prosecutors seeking a breakup.  Here's what the case involves and what Google owner Alphabet faces from here.  The most important thing is what this is not about: this is not about search, Google's bread and butter, although there is a separate antitrust case about search.",
-                "publication_date": "2025-03-28T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.3626",
-                "source": "Reuters",
-                "ticker": "GOOG",
-                "title": "Explainer-What does ruling on Google's illegal ad tech monopoly mean?",
-                "url": "https://finance.yahoo.com/news/explainer-does-ruling-googles-illegal-192822635.html"
-            },
-            {
-                "headline": "SAN FRANCISCO (Reuters) -A U.S. judge's ruling that Google has illegal monopolies in ad technology sets up the possibility of U.S. prosecutors seeking a breakup.  Here's what the case involves and what Google owner Alphabet faces from here.  The most important thing is what this is not about: this is not about search, Google's bread and butter, although there is a separate antitrust case about search.",
-                "publication_date": "2025-03-28T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.3626",
-                "source": "Reuters",
-                "ticker": "GOOG",
-                "title": "Explainer-What does ruling on Google's illegal ad tech monopoly mean?",
-                "url": "https://finance.yahoo.com/news/explainer-does-ruling-googles-illegal-192822635.html"
-            }
-        ],
-        "avgScore": -0.3626
-    },
-    "coef": 0.38095238095238104,
-    "avgCoef": 0.027599204002336352,
+    "coef": 0.7857142857142859,
+    "avgCoef": 0.013892557819651145,
     "similar": {
-        "CDE": 0.9047619047619048,
-        "FCX": 0.8095238095238096,
-        "HL": 0.7619047619047621,
-        "LYG": 0.7142857142857144
+        "PTON": 0.9642857142857145,
+        "GPN": 0.9285714285714288,
+        "FCX": 0.9285714285714288,
+        "PCG": 0.8928571428571429
     }
 }

@@ -427,16 +427,6 @@
                 "url": "https://finance.yahoo.com/news/best-credit-card-deals-115629613.html"
             },
             {
-                "headline": "We recently published a list of 15 Best Penny Stocks to Buy According to Billionaires. In this article, we are going to take a look at where Lloyds Banking Group plc (NYSE:LYG) stands against other best penny stocks to buy according to billionaires. Can Small-Cap Stocks Overtake Large-Caps in 2025? On February 14, Morningstar released [\u2026]",
-                "publication_date": "2025-03-19T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8555",
-                "source": "Insider Monkey",
-                "ticker": "LYG",
-                "title": "Lloyds Banking Group (LYG): Among the Best Penny Stocks to Buy According to Billionaires",
-                "url": "https://finance.yahoo.com/news/lloyds-banking-group-lyg-among-191254283.html"
-            },
-            {
                 "headline": "British arms manufacturers are \u201cdangerously reliant\u201d on foreign banks, a former defence secretary has warned.",
                 "publication_date": "2025-03-19T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -455,16 +445,6 @@
                 "ticker": "LYG",
                 "title": "British defence suppliers \u2018dangerously reliant\u2019 on foreign banks",
                 "url": "https://finance.yahoo.com/news/british-defence-suppliers-dangerously-reliant-153921353.html"
-            },
-            {
-                "headline": "We recently published a list of 15 Best Penny Stocks to Buy According to Billionaires. In this article, we are going to take a look at where Lloyds Banking Group plc (NYSE:LYG) stands against other best penny stocks to buy according to billionaires. Can Small-Cap Stocks Overtake Large-Caps in 2025? On February 14, Morningstar released [\u2026]",
-                "publication_date": "2025-03-19T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8555",
-                "source": "Insider Monkey",
-                "ticker": "LYG",
-                "title": "Lloyds Banking Group (LYG): Among the Best Penny Stocks to Buy According to Billionaires",
-                "url": "https://finance.yahoo.com/news/lloyds-banking-group-lyg-among-191254283.html"
             },
             {
                 "headline": "Discover the best credit cards to save money, earn rewards and travel smarter.",
@@ -477,10 +457,20 @@
                 "url": "https://finance.yahoo.com/news/best-credit-card-deals-115629613.html"
             }
         ],
-        "avgScore": 0.5406000000000001
+        "avgScore": 0.38315
     },
     "3 18 2025": {
         "importantArticles": [
+            {
+                "headline": "We recently published a list of 15 Best Penny Stocks to Buy According to Billionaires. In this article, we are going to take a look at where Lloyds Banking Group plc (NYSE:LYG) stands against other best penny stocks to buy according to billionaires. Can Small-Cap Stocks Overtake Large-Caps in 2025? On February 14, Morningstar released [\u2026]",
+                "publication_date": "2025-03-18T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8555",
+                "source": "Insider Monkey",
+                "ticker": "LYG",
+                "title": "Lloyds Banking Group (LYG): Among the Best Penny Stocks to Buy According to Billionaires",
+                "url": "https://finance.yahoo.com/news/lloyds-banking-group-lyg-among-191254283.html"
+            },
             {
                 "headline": "Thousands of technology and engineering roles were placed under review a few weeks ago.",
                 "publication_date": "2025-03-18T00:00:00.000Z",
@@ -500,16 +490,26 @@
                 "ticker": "LYG",
                 "title": "Lloyds overhauls IT division with 6,000 staff affected",
                 "url": "https://finance.yahoo.com/news/lloyds-overhauls-division-6-000-143630375.html"
+            },
+            {
+                "headline": "We recently published a list of 15 Best Penny Stocks to Buy According to Billionaires. In this article, we are going to take a look at where Lloyds Banking Group plc (NYSE:LYG) stands against other best penny stocks to buy according to billionaires. Can Small-Cap Stocks Overtake Large-Caps in 2025? On February 14, Morningstar released [\u2026]",
+                "publication_date": "2025-03-18T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8555",
+                "source": "Insider Monkey",
+                "ticker": "LYG",
+                "title": "Lloyds Banking Group (LYG): Among the Best Penny Stocks to Buy According to Billionaires",
+                "url": "https://finance.yahoo.com/news/lloyds-banking-group-lyg-among-191254283.html"
             }
         ],
-        "avgScore": 0.0
+        "avgScore": 0.42775
     },
-    "coef": 0.11978877749504747,
-    "avgCoef": 0.08664551444454474,
+    "coef": 0.3038720410604064,
+    "avgCoef": -0.0011830294822210853,
     "similar": {
-        "T": 0.5766576032901124,
-        "INTC": 0.4652261823644867,
-        "MP": 0.4485114692256429,
-        "FSM": 0.43179675608679907
+        "T": 0.7513926833493686,
+        "BABA": 0.6022191359197144,
+        "MP": 0.5856442973164196,
+        "GOLD": 0.5138199967021417
     }
 }

@@ -349,6 +349,31 @@
         ],
         "avgScore": 0.7351
     },
+    "3 28 2025": {
+        "importantArticles": [
+            {
+                "headline": "We recently published a list of 9 AI News and Ratings on Investors\u2019 Radar. In this article, we are going to take a look at where Telefonaktiebolaget LM Ericsson (publ) (NASDAQ:ERIC) stands against other AI news and ratings on investors\u2019 radar. According to a Reuters report posted on March 25, Chinese AI firms have made [\u2026]",
+                "publication_date": "2025-03-28T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Insider Monkey",
+                "ticker": "ERIC",
+                "title": "Telefonaktiebolaget LM Ericsson (ERIC) Partners with SoftBank to Bring AI and 6G to Japan \u2013 A Tech Leap Forward!",
+                "url": "https://finance.yahoo.com/news/telefonaktiebolaget-lm-ericsson-eric-partners-221052623.html"
+            },
+            {
+                "headline": "We recently published a list of 9 AI News and Ratings on Investors\u2019 Radar. In this article, we are going to take a look at where Telefonaktiebolaget LM Ericsson (publ) (NASDAQ:ERIC) stands against other AI news and ratings on investors\u2019 radar. According to a Reuters report posted on March 25, Chinese AI firms have made [\u2026]",
+                "publication_date": "2025-03-28T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Insider Monkey",
+                "ticker": "ERIC",
+                "title": "Telefonaktiebolaget LM Ericsson (ERIC) Partners with SoftBank to Bring AI and 6G to Japan \u2013 A Tech Leap Forward!",
+                "url": "https://finance.yahoo.com/news/telefonaktiebolaget-lm-ericsson-eric-partners-221052623.html"
+            }
+        ],
+        "avgScore": 0.0
+    },
     "3 25 2025": {
         "importantArticles": [
             {
@@ -419,12 +444,12 @@
         ],
         "avgScore": 0.7433000000000001
     },
-    "coef": 0.3591638357540393,
-    "avgCoef": 0.08493407535041529,
+    "coef": 0.370509474577705,
+    "avgCoef": -0.004437406145586195,
     "similar": {
-        "TTD": 0.577479108467279,
-        "TSM": 0.5000123987948392,
-        "META": 0.47888511433871916,
-        "NVDA": 0.46480025803463915
+        "TTD": 0.6212301716603625,
+        "SNAP": 0.4680119678876274,
+        "TSM": 0.4485114692256429,
+        "NVDA": 0.44015411265622095
     }
 }

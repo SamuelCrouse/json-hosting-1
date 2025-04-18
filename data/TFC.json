@@ -1,4 +1,29 @@
 {
+    "4 17 2025": {
+        "importantArticles": [
+            {
+                "headline": "Truist Financial Corporation (NYSE: TFC) reported its first quarter 2025 results today. Investors can access the live first quarter 2025 earnings call at 8 a.m. ET today by webcast or dial-in as follows:",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "CNW Group",
+                "ticker": "TFC",
+                "title": "Truist reports first quarter 2025 results",
+                "url": "https://finance.yahoo.com/news/truist-reports-first-quarter-2025-100000631.html"
+            },
+            {
+                "headline": "Truist Financial Corporation (NYSE: TFC) reported its first quarter 2025 results today. Investors can access the live first quarter 2025 earnings call at 8 a.m. ET today by webcast or dial-in as follows:",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "CNW Group",
+                "ticker": "TFC",
+                "title": "Truist reports first quarter 2025 results",
+                "url": "https://finance.yahoo.com/news/truist-reports-first-quarter-2025-100000631.html"
+            }
+        ],
+        "avgScore": 0.0
+    },
     "4 16 2025": {
         "importantArticles": [
             {
@@ -294,6 +319,31 @@
         ],
         "avgScore": 0.7963
     },
+    "3 28 2025": {
+        "importantArticles": [
+            {
+                "headline": "The Charlotte, North Carolina-based bank is emphasizing listening cards to guide advisers' conversations with clients past the pitch stage.",
+                "publication_date": "2025-03-28T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Banking Dive",
+                "ticker": "TFC",
+                "title": "Truist\u2019s wealth advisers hone their listening ear",
+                "url": "https://finance.yahoo.com/news/truist-wealth-advisers-hone-listening-094500599.html"
+            },
+            {
+                "headline": "The Charlotte, North Carolina-based bank is emphasizing listening cards to guide advisers' conversations with clients past the pitch stage.",
+                "publication_date": "2025-03-28T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Banking Dive",
+                "ticker": "TFC",
+                "title": "Truist\u2019s wealth advisers hone their listening ear",
+                "url": "https://finance.yahoo.com/news/truist-wealth-advisers-hone-listening-094500599.html"
+            }
+        ],
+        "avgScore": 0.0
+    },
     "3 26 2025": {
         "importantArticles": [
             {
@@ -454,12 +504,12 @@
         ],
         "avgScore": 0.46113333333333334
     },
-    "coef": -0.6970405327946539,
-    "avgCoef": 0.03283332015098471,
+    "coef": -0.7054110595426593,
+    "avgCoef": -0.028516398084226895,
     "similar": {
-        "HLN": 0.36446563806256416,
-        "ABEV": 0.26423758759535904,
-        "T": 0.21412356236175648,
-        "HTZ": 0.19590028045862823
+        "HLN": 0.27562749870878417,
+        "HTZ": 0.2185391125641964,
+        "T": 0.19087593375860193,
+        "GOLD": 0.12448430462517517
     }
 }

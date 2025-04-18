@@ -24,31 +24,6 @@
         ],
         "avgScore": 0.0
     },
-    "4 3 2025": {
-        "importantArticles": [
-            {
-                "headline": "The new facility, with an initial investment of $5bn, is equipped for manufacturing 22nm and 28nm solutions.",
-                "publication_date": "2025-04-03T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.1779",
-                "source": "Investment Monitor",
-                "ticker": "UMC",
-                "title": "UMC expands Singapore presence with new fabrication facility",
-                "url": "https://finance.yahoo.com/news/umc-expands-singapore-presence-fabrication-093247811.html"
-            },
-            {
-                "headline": "The new facility, with an initial investment of $5bn, is equipped for manufacturing 22nm and 28nm solutions.",
-                "publication_date": "2025-04-03T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.1779",
-                "source": "Investment Monitor",
-                "ticker": "UMC",
-                "title": "UMC expands Singapore presence with new fabrication facility",
-                "url": "https://finance.yahoo.com/news/umc-expands-singapore-presence-fabrication-093247811.html"
-            }
-        ],
-        "avgScore": 0.1779
-    },
     "4 2 2025": {
         "importantArticles": [
             {
@@ -112,7 +87,7 @@
                 "url": "https://finance.yahoo.com/news/globalfoundries-explores-merger-united-microelectronics-163028112.html"
             }
         ],
-        "avgScore": 0.2912833333333333
+        "avgScore": 0.27508571428571427
     },
     "4 1 2025": {
         "importantArticles": [
@@ -179,12 +154,12 @@
         ],
         "avgScore": 0.7350666666666666
     },
-    "coef": -0.7999999999999999,
-    "avgCoef": 0.015848415448448196,
+    "coef": -0.5,
+    "avgCoef": -0.023538527213159476,
     "similar": {
-        "T": 0.0,
-        "KO": 0.0,
-        "SPY": -0.19999999999999998,
-        "PLTR": -0.19999999999999998
+        "SPY": -0.5,
+        "NVDA": -0.5,
+        "HTZ": -0.5,
+        "F": -0.5
     }
 }

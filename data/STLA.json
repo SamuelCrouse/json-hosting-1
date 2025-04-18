@@ -107,16 +107,6 @@
                 "url": "https://finance.yahoo.com/news/u-europe-putting-auto-industry-122213362.html"
             },
             {
-                "headline": "(Bloomberg) -- On an overcast afternoon on Canada\u2019s east coast, Mark Carney emerged from a pickup truck and stepped carefully in his dress shoes through the muddy lot outside a lumber mill. His hard hat didn\u2019t fit right, pitched forward at an awkward angle; an aide hustled over to fix it before he went inside.Most Read from BloombergHow Did This Suburb Figure Out Mass Transit?Even Oslo Has an Air Quality ProblemNYC Tourist Helicopter Crashes in Hudson River, Killing SixLisbon Mayor Wants Compani",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.5267",
-                "source": "Bloomberg",
-                "ticker": "STLA",
-                "title": "Carney Rides Anti-Trump Sentiment on Campaign Trail, and Voters Like It",
-                "url": "https://finance.yahoo.com/news/carney-rides-anti-trump-sentiment-090000377.html"
-            },
-            {
                 "headline": "After electronics, the administrative windfall is now shifting to autos. Trump hinted at offering some short-term tariff relief to automakers to give them time to develop a future roadmap.",
                 "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -125,9 +115,19 @@
                 "ticker": "STLA",
                 "title": "Auto ETFs Rise on Hopes of Tariff Exemptions",
                 "url": "https://finance.yahoo.com/news/auto-etfs-rise-hopes-tariff-093100082.html"
+            },
+            {
+                "headline": "New 2025 Jeep\u00ae Wagoneer Overland package is purpose-built for challenging conditions, combining 32-inch all-terrain tires, Quadra-Lift air suspension, two-speed transfer case, skid plates and more, with a unique appearance, plus ample space and creature comforts for seven passengers and their gear",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5719",
+                "source": "PR Newswire",
+                "ticker": "STLA",
+                "title": "Ready for Adventure: Jeep\u00ae Brand Debuts 2025 Wagoneer Overland Special Edition",
+                "url": "https://finance.yahoo.com/news/ready-adventure-jeep-brand-debuts-040100567.html"
             }
         ],
-        "avgScore": 0.19845
+        "avgScore": 0.34347999999999995
     },
     "4 15 2025": {
         "importantArticles": [
@@ -162,6 +162,16 @@
                 "url": "https://finance.yahoo.com/news/stellantis-qinomic-unveil-electric-retrofit-165825254.html"
             },
             {
+                "headline": "(Bloomberg) -- On an overcast afternoon on Canada\u2019s east coast, Mark Carney emerged from a pickup truck and stepped carefully in his dress shoes through the muddy lot outside a lumber mill. His hard hat didn\u2019t fit right, pitched forward at an awkward angle; an aide hustled over to fix it before he went inside.Most Read from BloombergHow Did This Suburb Figure Out Mass Transit?Even Oslo Has an Air Quality ProblemNYC Tourist Helicopter Crashes in Hudson River, Killing SixLisbon Mayor Wants Compani",
+                "publication_date": "2025-04-15T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5267",
+                "source": "Bloomberg",
+                "ticker": "STLA",
+                "title": "Carney Rides Anti-Trump Sentiment on Campaign Trail, and Voters Like It",
+                "url": "https://finance.yahoo.com/news/carney-rides-anti-trump-sentiment-090000377.html"
+            },
+            {
                 "headline": "(Bloomberg) -- President Donald Trump\u2019s tariff exclusions for smartphones and other tech products have added to a growing set of confusing signals for companies and trading partners digesting how to engage a White House still promising to negotiate dozens of new deals in America\u2019s favor.Most Read from BloombergHow Did This Suburb Figure Out Mass Transit?The Secret Formula for Faster TrainsEven Oslo Has an Air Quality ProblemNYC Tourist Helicopter Crashes in Hudson River, Killing SixLisbon Mayor",
                 "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -180,19 +190,9 @@
                 "ticker": "STLA",
                 "title": "UBS Downgrades Stellantis Stock, Slashes Price Target on Tariff Headwinds",
                 "url": "https://finance.yahoo.com/news/ubs-downgrades-stellantis-stock-slashes-173010749.html"
-            },
-            {
-                "headline": "Auto stocks jumped on Monday afternoon after President Trump hinted tariff relief might be coming.",
-                "publication_date": "2025-04-15T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4767",
-                "source": "Yahoo Finance",
-                "ticker": "STLA",
-                "title": "Auto stocks pop as Trump says he's 'looking at something' to help car companies with tariffs",
-                "url": "https://finance.yahoo.com/news/auto-stocks-pop-as-trump-says-hes-looking-at-something-to-help-car-companies-with-tariffs-180127851.html"
             }
         ],
-        "avgScore": 0.43596666666666667
+        "avgScore": 0.2984428571428572
     },
     "4 11 2025": {
         "importantArticles": [
@@ -237,27 +237,27 @@
                 "url": "https://finance.yahoo.com/news/stellantis-first-quarter-shipments-fall-060038385.html"
             },
             {
-                "headline": "European stocks climbed, echoing Wednesday's U.S. rally after President Trump's tariff pause.    The benchmark Stoxx Europe 600 shot up 3.7%, its biggest one-day gains since March 2022.   Country-specific indexes also rallied.",
+                "headline": "The auto giant, which houses brands including Jeep, Ram, Chrysler, Fiat and Peugeot, said vehicle shipments in North America fell 20%.",
                 "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.34",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
                 "source": "The Wall Street Journal",
                 "ticker": "STLA",
-                "title": "Tariff Delay Lifts European Markets; Bank Stocks Rally",
-                "url": "https://finance.yahoo.com/m/7425a3bd-a941-34b4-bc0f-97d5cdee86a4/tariff-delay-lifts-european.html"
+                "title": "Stellantis Shipments Fall 9% on Lower North American Production",
+                "url": "https://finance.yahoo.com/m/7839ac0b-2eb7-3dba-81c6-06bb1adbc8cf/stellantis-shipments-fall-9-.html"
             },
             {
-                "headline": "Jeep\u00ae brand and Jeep Performance Parts (JPP) by Mopar head to Moab, Utah, April 12-20 with even more vehicles and experiences for Jeep customers and off-road enthusiasts",
+                "headline": "The latest investor updates on stocks that are trending on Friday.",
                 "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.34",
-                "source": "PR Newswire",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Yahoo Finance UK",
                 "ticker": "STLA",
-                "title": "Jeep\u00ae Brand and Jeep Performance Parts (JPP) by Mopar Gear Up to Hit the Town and Trails at the 59th Annual Easter Jeep Safari",
-                "url": "https://finance.yahoo.com/news/jeep-brand-jeep-performance-parts-040100674.html"
+                "title": "Trending tickers: Nvidia, Tesla, Ford, Intel and BP",
+                "url": "https://finance.yahoo.com/news/nvidia-tesla-ford-intel-bp-trending-tickers-090920052.html"
             }
         ],
-        "avgScore": 0.27665
+        "avgScore": 0.18443333333333334
     },
     "4 10 2025": {
         "importantArticles": [
@@ -542,7 +542,7 @@
                 "url": "https://finance.yahoo.com/news/fitch-cuts-stellantis-stock-rating-200758745.html"
             }
         ],
-        "avgScore": -0.06331666666666667
+        "avgScore": -0.07767692307692307
     },
     "4 3 2025": {
         "importantArticles": [
@@ -577,16 +577,6 @@
                 "url": "https://finance.yahoo.com/m/f453e4bd-ece5-32c0-834a-b79041ac6cd4/stocks-to-watch-wednesday-.html"
             },
             {
-                "headline": "(Bloomberg) -- Supply Lines is a daily newsletter that tracks global trade. Sign up here.Most Read from BloombergWhat Frank Lloyd Wright Learned From the DesertLondon Clears Final Hurdle for More High-Speed Trains to EuropeMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersBank Regulators Fight for Desks as OCC Returns to New York TowerMercedes-Benz Group AG is considering withdrawing its least expensive cars from the US bec",
-                "publication_date": "2025-04-03T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.7096",
-                "source": "Bloomberg",
-                "ticker": "STLA",
-                "title": "Mercedes Weighs Pulling US Entry-Level Cars Over Tariffs",
-                "url": "https://finance.yahoo.com/news/mercedes-weighs-pulling-us-entry-153127919.html"
-            },
-            {
                 "headline": "(Bloomberg) -- Beaten-down corporate bonds from automakers could rally after Wednesday\u2019s tariff announcement from US President Donald Trump, making the debt an attractive purchase, according to JPMorgan Chase & Co.Most Read from BloombergMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Frank Lloyd Wright Learned From the DesertLocal Governments Vie for Fired Federal WorkersChicago School District Agree",
                 "publication_date": "2025-04-03T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -605,9 +595,19 @@
                 "ticker": "STLA",
                 "title": "Stellantis-backed Leapmotor becomes top-seller among Chinese EV startups in March",
                 "url": "https://finance.yahoo.com/news/stellantis-backed-leapmotor-becomes-top-175818204.html"
+            },
+            {
+                "headline": "Carmaker Stellantis will close its assembly plant in Windsor, Ontario for two weeks, Canadian labour union Unifor said on Wednesday. Stellantis said the primary driver behind the decision is the announcement of tariffs from U.S. President Donald Trump, the union said in a Facebook post. Stellantis did not immediately respond to a Reuters request for comment.",
+                "publication_date": "2025-04-03T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Reuters",
+                "ticker": "STLA",
+                "title": "Stellantis to close Canada's Windsor plant for two weeks over Trump tariffs, union says",
+                "url": "https://finance.yahoo.com/news/stellantis-close-canadas-windsor-plant-025959788.html"
             }
         ],
-        "avgScore": 0.1290625
+        "avgScore": 0.24887142857142858
     },
     "4 2 2025": {
         "importantArticles": [
@@ -652,6 +652,16 @@
                 "url": "https://finance.yahoo.com/news/gm-ford-report-upbeat-q1-retail-sales-as-trump-tariffs-loom-182750180.html"
             },
             {
+                "headline": "(Bloomberg) -- Supply Lines is a daily newsletter that tracks global trade. Sign up here.Most Read from BloombergWhat Frank Lloyd Wright Learned From the DesertLondon Clears Final Hurdle for More High-Speed Trains to EuropeMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersBank Regulators Fight for Desks as OCC Returns to New York TowerMercedes-Benz Group AG is considering withdrawing its least expensive cars from the US bec",
+                "publication_date": "2025-04-02T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.7096",
+                "source": "Bloomberg",
+                "ticker": "STLA",
+                "title": "Mercedes Weighs Pulling US Entry-Level Cars Over Tariffs",
+                "url": "https://finance.yahoo.com/news/mercedes-weighs-pulling-us-entry-153127919.html"
+            },
+            {
                 "headline": "Companies In The News Are: STLA, TSLA, COOP, RKT, SGML.",
                 "publication_date": "2025-04-02T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -660,19 +670,9 @@
                 "ticker": "STLA",
                 "title": "Company News for Apr 1, 2025",
                 "url": "https://finance.yahoo.com/news/company-news-apr-1-2025-093100353.html"
-            },
-            {
-                "headline": "Wayne Griffiths, CEO of Volkswagen\u2019s Spanish subsidiary SEAT and father of the Cupra brand, stepped down at his own request \u201cto pursue new challenges.\u201d",
-                "publication_date": "2025-04-02T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Fortune",
-                "ticker": "STLA",
-                "title": "The mastermind behind Europe\u2019s hottest new car brand is leaving Volkswagen in a shock departure",
-                "url": "https://finance.yahoo.com/news/mastermind-behind-europe-hottest-car-174536947.html"
             }
         ],
-        "avgScore": -0.07798000000000002
+        "avgScore": -0.18325000000000002
     },
     "4 1 2025": {
         "importantArticles": [
@@ -827,7 +827,7 @@
                 "url": "https://finance.yahoo.com/news/jpmorgan-cuts-outlook-for-gm-ford-stocks-says-trump-auto-tariffs-may-be-worse-for-ferrari-122341848.html"
             }
         ],
-        "avgScore": 0.028338461538461552
+        "avgScore": 0.03285
     },
     "3 27 2025": {
         "importantArticles": [
@@ -872,6 +872,16 @@
                 "url": "https://finance.yahoo.com/m/0cf1bed9-22f5-3bcf-8b17-1db014eda445/auto-industry-stocks-drop-on.html"
             },
             {
+                "headline": "Overly ambitious sales targets and new taxes on electric vehicles (EVs) are putting more UK car plants at risk of closure, manufacturers have warned.",
+                "publication_date": "2025-03-27T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "-0.0258",
+                "source": "The Telegraph",
+                "ticker": "STLA",
+                "title": "Harsh net zero rules will force more car factories to close, industry warns",
+                "url": "https://finance.yahoo.com/news/harsh-net-zero-rules-force-080000396.html"
+            },
+            {
                 "headline": "The company is also preparing to upgrade its new B10 crossover by the end of the year.",
                 "publication_date": "2025-03-27T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -880,19 +890,9 @@
                 "ticker": "STLA",
                 "title": "Leapmotor plans to introduce smart-driving technologies in Europe in 2026",
                 "url": "https://finance.yahoo.com/news/leapmotor-plans-introduce-smart-driving-182304197.html"
-            },
-            {
-                "headline": "Stellantis' Chinese partner Leapmotor plans to roll out vehicles equipped with its smart-driving technologies in Europe next year, the company's senior vice president said on Wednesday.  That is the first timeline announced by a Chinese automaker for advanced driver-assistance technologies outside China and comes as the manufacturers scramble for an edge in the hyper-competitive market for EVs and long-range hybrids.  Leapmotor will launch a research and development team in Europe that will focus on algorithm training for self-driving systems based on data collected from roads there, senior vice-president Cao Li told Reuters.",
-                "publication_date": "2025-03-27T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.25",
-                "source": "Reuters",
-                "ticker": "STLA",
-                "title": "China's Leapmotor aims for Europe smart-driving rollout in 2026",
-                "url": "https://finance.yahoo.com/news/chinas-leapmotor-aims-europe-smart-095422086.html"
             }
         ],
-        "avgScore": 0.25636000000000003
+        "avgScore": 0.20933333333333337
     },
     "3 26 2025": {
         "importantArticles": [
@@ -1139,12 +1139,12 @@
         ],
         "avgScore": 0.1676333333333333
     },
-    "coef": 0.025563909774436087,
-    "avgCoef": 0.01927611242207972,
+    "coef": 0.007518796992481202,
+    "avgCoef": -0.02860840604889737,
     "similar": {
-        "PBR": 0.24511278195488717,
-        "GRAB": 0.156390977443609,
-        "SNAP": 0.14285714285714285,
-        "UMC": 0.12481203007518797
+        "PBR": 0.2421052631578947,
+        "SNAP": 0.20751879699248119,
+        "GRAB": 0.16541353383458643,
+        "TTD": 0.12481203007518797
     }
 }

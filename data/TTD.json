@@ -27,16 +27,6 @@
     "4 14 2025": {
         "importantArticles": [
             {
-                "headline": "With the return of market volatility, anxiety levels are rising for retirement savers, but if you're not going to be tapping into your savings for many years, there's no reason to worry.  Stock market dips are historically the best time to invest, because lower share prices allow you to gain more of a company's earnings, which leads to great returns when the markets recover.  To help you in your search for undervalued growth stocks, here are two excellent candidates.",
-                "publication_date": "2025-04-14T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.9786",
-                "source": "Motley Fool",
-                "ticker": "TTD",
-                "title": "Stock Market Sell-Off: 2 Growth Stocks to Buy Hand Over Fist",
-                "url": "https://finance.yahoo.com/news/stock-market-sell-off-2-095200421.html"
-            },
-            {
                 "headline": "Although the market rebounded sharply on Wednesday on news that President Trump was pausing tariffs and only levying a flat 10% rate, except for China, the Nasdaq is still in a bear market.  Bear markets start when an index drops 20% from its all-time high and technically remain in bear market status until a new all-time high is reached, which then kicks off a bull market.  Regardless of the technical definition of a bear market, there are still plenty of bargains to be scooped up right now, and I think investors should still be buying.",
                 "publication_date": "2025-04-14T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -75,33 +65,38 @@
                 "ticker": "TTD",
                 "title": "Nasdaq Bear Market: 2 No-Brainer Stocks to Buy Right Now",
                 "url": "https://finance.yahoo.com/news/nasdaq-bear-market-2-no-121500068.html"
-            },
-            {
-                "headline": "With the return of market volatility, anxiety levels are rising for retirement savers, but if you're not going to be tapping into your savings for many years, there's no reason to worry.  Stock market dips are historically the best time to invest, because lower share prices allow you to gain more of a company's earnings, which leads to great returns when the markets recover.  To help you in your search for undervalued growth stocks, here are two excellent candidates.",
-                "publication_date": "2025-04-14T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.9786",
-                "source": "Motley Fool",
-                "ticker": "TTD",
-                "title": "Stock Market Sell-Off: 2 Growth Stocks to Buy Hand Over Fist",
-                "url": "https://finance.yahoo.com/news/stock-market-sell-off-2-095200421.html"
             }
         ],
-        "avgScore": 0.36043333333333333
+        "avgScore": 0.05135
+    },
+    "4 11 2025": {
+        "importantArticles": [
+            {
+                "headline": "The stock market sold off rapidly over the past few weeks, leading many to label this a stock market crash brought on by President Donald Trump's tariff announcements.  Stocks moved down sharply this week as reciprocal tariffs went into effect; they recovered quickly as Trump announced tariff relief on every country except China, but continued to mark additional losses on Thursday.  The tariffs might have some effect in the short term, but it's unlikely that they will still be the primary topic of discussion five years from now.",
+                "publication_date": "2025-04-11T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5187",
+                "source": "Motley Fool",
+                "ticker": "TTD",
+                "title": "Stock Market Turmoil: Here Are My Top 10 Stocks to Buy Now",
+                "url": "https://finance.yahoo.com/news/stock-market-turmoil-top-10-100000537.html"
+            },
+            {
+                "headline": "The stock market sold off rapidly over the past few weeks, leading many to label this a stock market crash brought on by President Donald Trump's tariff announcements.  Stocks moved down sharply this week as reciprocal tariffs went into effect; they recovered quickly as Trump announced tariff relief on every country except China, but continued to mark additional losses on Thursday.  The tariffs might have some effect in the short term, but it's unlikely that they will still be the primary topic of discussion five years from now.",
+                "publication_date": "2025-04-11T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5187",
+                "source": "Motley Fool",
+                "ticker": "TTD",
+                "title": "Stock Market Turmoil: Here Are My Top 10 Stocks to Buy Now",
+                "url": "https://finance.yahoo.com/news/stock-market-turmoil-top-10-100000537.html"
+            }
+        ],
+        "avgScore": -0.5187
     },
     "4 10 2025": {
         "importantArticles": [
             {
-                "headline": "The artificial intelligence (AI) trend played a central role in the stock market's rise over the past couple of years.  Numerous companies benefited from the proliferation of this rapidly advancing technology, and investors bought their shares hand over fist based on impressive growth rates and sunny long-term prospects.  Investors have been selling off AI stocks and booking profits as they look to preserve their capital amid the ongoing volatility and economic uncertainty caused by President Donald Trump's actions to adjust the economy to his liking.",
-                "publication_date": "2025-04-10T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.9719",
-                "source": "Motley Fool",
-                "ticker": "TTD",
-                "title": "2 No-Brainer Artificial Intelligence (AI) Stocks to Buy Right Now",
-                "url": "https://finance.yahoo.com/news/2-no-brainer-artificial-intelligence-075500020.html"
-            },
-            {
                 "headline": "The recent Board changes at The Trade Desk (NasdaqGM:TTD) include the upcoming resignation of board member David Wells, and the appointment of Will Platt-Higgins as Executive Vice President of Business Development for North America. Over the last week, the company's share price moved 3.9% lower. While these internal changes signaled a shift within the company\u2019s leadership, broader market dynamics, including a significant rebound in major indices like the Nasdaq due to a pause in tariffs,...",
                 "publication_date": "2025-04-10T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -140,25 +135,60 @@
                 "ticker": "TTD",
                 "title": "Trade Desk (NasdaqGM:TTD) Board Changes as David Wells Steps Down After 10 Years",
                 "url": "https://finance.yahoo.com/news/trade-desk-nasdaqgm-ttd-board-054358461.html"
-            },
-            {
-                "headline": "The artificial intelligence (AI) trend played a central role in the stock market's rise over the past couple of years.  Numerous companies benefited from the proliferation of this rapidly advancing technology, and investors bought their shares hand over fist based on impressive growth rates and sunny long-term prospects.  Investors have been selling off AI stocks and booking profits as they look to preserve their capital amid the ongoing volatility and economic uncertainty caused by President Donald Trump's actions to adjust the economy to his liking.",
-                "publication_date": "2025-04-10T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.9719",
-                "source": "Motley Fool",
-                "ticker": "TTD",
-                "title": "2 No-Brainer Artificial Intelligence (AI) Stocks to Buy Right Now",
-                "url": "https://finance.yahoo.com/news/2-no-brainer-artificial-intelligence-075500020.html"
             }
         ],
-        "avgScore": 0.6496000000000001
+        "avgScore": 0.48845000000000005
     },
     "4 9 2025": {
         "importantArticles": [
             {
-                "headline": "If you can stomach it, the time to go bargain hunting is when most other investors are panic-selling.",
+                "headline": "The artificial intelligence (AI) trend played a central role in the stock market's rise over the past couple of years.  Numerous companies benefited from the proliferation of this rapidly advancing technology, and investors bought their shares hand over fist based on impressive growth rates and sunny long-term prospects.  Investors have been selling off AI stocks and booking profits as they look to preserve their capital amid the ongoing volatility and economic uncertainty caused by President Donald Trump's actions to adjust the economy to his liking.",
                 "publication_date": "2025-04-09T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9719",
+                "source": "Motley Fool",
+                "ticker": "TTD",
+                "title": "2 No-Brainer Artificial Intelligence (AI) Stocks to Buy Right Now",
+                "url": "https://finance.yahoo.com/news/2-no-brainer-artificial-intelligence-075500020.html"
+            },
+            {
+                "headline": "We recently published a list of Jim Cramer Got These 10 Stocks All Wrong. In this article, we are going to take a look at where Trade Desk Inc. (NASDAQ:TTD) stands against other stocks that Jim Cramer discussed 1 year ago. On Tuesday, April 1 , the host of Mad Money opened the show by focusing [\u2026]",
+                "publication_date": "2025-04-09T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.743",
+                "source": "Insider Monkey",
+                "ticker": "TTD",
+                "title": "Jim Cramer Went \u201cAll-In\u201d on The Trade Desk (TTD) After a 43% Drop \u2013 Here\u2019s Why",
+                "url": "https://finance.yahoo.com/news/jim-cramer-went-trade-desk-184442805.html"
+            },
+            {
+                "headline": "We recently published a list of Jim Cramer Got These 10 Stocks All Wrong. In this article, we are going to take a look at where Trade Desk Inc. (NASDAQ:TTD) stands against other stocks that Jim Cramer discussed 1 year ago. On Tuesday, April 1 , the host of Mad Money opened the show by focusing [\u2026]",
+                "publication_date": "2025-04-09T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.743",
+                "source": "Insider Monkey",
+                "ticker": "TTD",
+                "title": "Jim Cramer Went \u201cAll-In\u201d on The Trade Desk (TTD) After a 43% Drop \u2013 Here\u2019s Why",
+                "url": "https://finance.yahoo.com/news/jim-cramer-went-trade-desk-184442805.html"
+            },
+            {
+                "headline": "The artificial intelligence (AI) trend played a central role in the stock market's rise over the past couple of years.  Numerous companies benefited from the proliferation of this rapidly advancing technology, and investors bought their shares hand over fist based on impressive growth rates and sunny long-term prospects.  Investors have been selling off AI stocks and booking profits as they look to preserve their capital amid the ongoing volatility and economic uncertainty caused by President Donald Trump's actions to adjust the economy to his liking.",
+                "publication_date": "2025-04-09T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9719",
+                "source": "Motley Fool",
+                "ticker": "TTD",
+                "title": "2 No-Brainer Artificial Intelligence (AI) Stocks to Buy Right Now",
+                "url": "https://finance.yahoo.com/news/2-no-brainer-artificial-intelligence-075500020.html"
+            }
+        ],
+        "avgScore": 0.11445
+    },
+    "4 8 2025": {
+        "importantArticles": [
+            {
+                "headline": "If you can stomach it, the time to go bargain hunting is when most other investors are panic-selling.",
+                "publication_date": "2025-04-08T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.2023",
                 "source": "Motley Fool",
@@ -167,28 +197,8 @@
                 "url": "https://finance.yahoo.com/news/got-1-000-3-stocks-080500829.html"
             },
             {
-                "headline": "We recently published a list of Jim Cramer Got These 10 Stocks All Wrong. In this article, we are going to take a look at where Trade Desk Inc. (NASDAQ:TTD) stands against other stocks that Jim Cramer discussed 1 year ago. On Tuesday, April 1 , the host of Mad Money opened the show by focusing [\u2026]",
-                "publication_date": "2025-04-09T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.743",
-                "source": "Insider Monkey",
-                "ticker": "TTD",
-                "title": "Jim Cramer Went \u201cAll-In\u201d on The Trade Desk (TTD) After a 43% Drop \u2013 Here\u2019s Why",
-                "url": "https://finance.yahoo.com/news/jim-cramer-went-trade-desk-184442805.html"
-            },
-            {
-                "headline": "We recently published a list of Jim Cramer Got These 10 Stocks All Wrong. In this article, we are going to take a look at where Trade Desk Inc. (NASDAQ:TTD) stands against other stocks that Jim Cramer discussed 1 year ago. On Tuesday, April 1 , the host of Mad Money opened the show by focusing [\u2026]",
-                "publication_date": "2025-04-09T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.743",
-                "source": "Insider Monkey",
-                "ticker": "TTD",
-                "title": "Jim Cramer Went \u201cAll-In\u201d on The Trade Desk (TTD) After a 43% Drop \u2013 Here\u2019s Why",
-                "url": "https://finance.yahoo.com/news/jim-cramer-went-trade-desk-184442805.html"
-            },
-            {
                 "headline": "If you can stomach it, the time to go bargain hunting is when most other investors are panic-selling.",
-                "publication_date": "2025-04-09T00:00:00.000Z",
+                "publication_date": "2025-04-08T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.2023",
                 "source": "Motley Fool",
@@ -197,7 +207,7 @@
                 "url": "https://finance.yahoo.com/news/got-1-000-3-stocks-080500829.html"
             }
         ],
-        "avgScore": -0.27035
+        "avgScore": 0.2023
     },
     "4 4 2025": {
         "importantArticles": [
@@ -224,11 +234,11 @@
         ],
         "avgScore": 0.4404
     },
-    "4 3 2025": {
+    "4 2 2025": {
         "importantArticles": [
             {
                 "headline": "The end of an earnings season can be a great time to discover new stocks and assess how companies are handling the current business environment. Let\u2019s take a look at how Semrush (NYSE:SEMR) and the rest of the sales and marketing software stocks fared in Q4.",
-                "publication_date": "2025-04-03T00:00:00.000Z",
+                "publication_date": "2025-04-02T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.6249",
                 "source": "StockStory",
@@ -236,21 +246,6 @@
                 "title": "Sales And Marketing Software Stocks Q4 In Review: Semrush (NYSE:SEMR) Vs Peers",
                 "url": "https://finance.yahoo.com/news/sales-marketing-software-stocks-q4-090301689.html"
             },
-            {
-                "headline": "The end of an earnings season can be a great time to discover new stocks and assess how companies are handling the current business environment. Let\u2019s take a look at how Semrush (NYSE:SEMR) and the rest of the sales and marketing software stocks fared in Q4.",
-                "publication_date": "2025-04-03T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6249",
-                "source": "StockStory",
-                "ticker": "TTD",
-                "title": "Sales And Marketing Software Stocks Q4 In Review: Semrush (NYSE:SEMR) Vs Peers",
-                "url": "https://finance.yahoo.com/news/sales-marketing-software-stocks-q4-090301689.html"
-            }
-        ],
-        "avgScore": 0.6249
-    },
-    "4 2 2025": {
-        "importantArticles": [
             {
                 "headline": "Based on the average brokerage recommendation (ABR), The Trade Desk (TTD) should be added to one's portfolio. Wall Street analysts' overly optimistic recommendations cast doubt on the effectiveness of this highly sought-after metric. So, is the stock worth buying?",
                 "publication_date": "2025-04-02T00:00:00.000Z",
@@ -272,8 +267,43 @@
                 "url": "https://finance.yahoo.com/news/down-50-2025-trade-desk-110000646.html"
             },
             {
-                "headline": "Earnings results often indicate what direction a company will take in the months ahead. With Q4 behind us, let\u2019s have a look at ON24 (NYSE:ONTF) and its peers.",
+                "headline": "The high-growth digital advertising company faces some near-term headwinds.",
                 "publication_date": "2025-04-02T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Motley Fool",
+                "ticker": "TTD",
+                "title": "Down 50% in 2025: Is The Trade Desk Stock a Buy?",
+                "url": "https://finance.yahoo.com/news/down-50-2025-trade-desk-110000646.html"
+            },
+            {
+                "headline": "Based on the average brokerage recommendation (ABR), The Trade Desk (TTD) should be added to one's portfolio. Wall Street analysts' overly optimistic recommendations cast doubt on the effectiveness of this highly sought-after metric. So, is the stock worth buying?",
+                "publication_date": "2025-04-02T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.1779",
+                "source": "Zacks",
+                "ticker": "TTD",
+                "title": "Is The Trade Desk (TTD) a Buy as Wall Street Analysts Look Optimistic?",
+                "url": "https://finance.yahoo.com/news/trade-desk-ttd-buy-wall-133009928.html"
+            },
+            {
+                "headline": "The end of an earnings season can be a great time to discover new stocks and assess how companies are handling the current business environment. Let\u2019s take a look at how Semrush (NYSE:SEMR) and the rest of the sales and marketing software stocks fared in Q4.",
+                "publication_date": "2025-04-02T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6249",
+                "source": "StockStory",
+                "ticker": "TTD",
+                "title": "Sales And Marketing Software Stocks Q4 In Review: Semrush (NYSE:SEMR) Vs Peers",
+                "url": "https://finance.yahoo.com/news/sales-marketing-software-stocks-q4-090301689.html"
+            }
+        ],
+        "avgScore": 0.2676
+    },
+    "4 1 2025": {
+        "importantArticles": [
+            {
+                "headline": "Earnings results often indicate what direction a company will take in the months ahead. With Q4 behind us, let\u2019s have a look at ON24 (NYSE:ONTF) and its peers.",
+                "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
                 "source": "StockStory",
@@ -283,7 +313,37 @@
             },
             {
                 "headline": "Let\u2019s dig into the relative performance of Braze (NASDAQ:BRZE) and its peers as we unravel the now-completed Q4 sales and marketing software earnings season.",
-                "publication_date": "2025-04-02T00:00:00.000Z",
+                "publication_date": "2025-04-01T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "StockStory",
+                "ticker": "TTD",
+                "title": "Q4 Earnings Highlights: Braze (NASDAQ:BRZE) Vs The Rest Of The Sales And Marketing Software Stocks",
+                "url": "https://finance.yahoo.com/news/q4-earnings-highlights-braze-nasdaq-090454365.html"
+            },
+            {
+                "headline": "We recently published a list of 12 Most Oversold Large Cap Stocks to Invest in Now. In this article, we are going to take a look at where The Trade Desk, Inc. (NASDAQ:TTD) stands against other most oversold large cap stocks to invest in now. Impact of Tariff Uncertainty on Wall Street and the Future [\u2026]",
+                "publication_date": "2025-04-01T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.34",
+                "source": "Insider Monkey",
+                "ticker": "TTD",
+                "title": "Is The Trade Desk, Inc. (TTD) the Most Oversold Large Cap Stock to Invest in Now?",
+                "url": "https://finance.yahoo.com/news/trade-desk-inc-ttd-most-134509340.html"
+            },
+            {
+                "headline": "We recently published a list of 12 Most Oversold Large Cap Stocks to Invest in Now. In this article, we are going to take a look at where The Trade Desk, Inc. (NASDAQ:TTD) stands against other most oversold large cap stocks to invest in now. Impact of Tariff Uncertainty on Wall Street and the Future [\u2026]",
+                "publication_date": "2025-04-01T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.34",
+                "source": "Insider Monkey",
+                "ticker": "TTD",
+                "title": "Is The Trade Desk, Inc. (TTD) the Most Oversold Large Cap Stock to Invest in Now?",
+                "url": "https://finance.yahoo.com/news/trade-desk-inc-ttd-most-134509340.html"
+            },
+            {
+                "headline": "Let\u2019s dig into the relative performance of Braze (NASDAQ:BRZE) and its peers as we unravel the now-completed Q4 sales and marketing software earnings season.",
+                "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
                 "source": "StockStory",
@@ -293,65 +353,20 @@
             },
             {
                 "headline": "Earnings results often indicate what direction a company will take in the months ahead. With Q4 behind us, let\u2019s have a look at ON24 (NYSE:ONTF) and its peers.",
-                "publication_date": "2025-04-02T00:00:00.000Z",
+                "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
                 "source": "StockStory",
                 "ticker": "TTD",
                 "title": "Sales And Marketing Software Stocks Q4 In Review: ON24 (NYSE:ONTF) Vs Peers",
                 "url": "https://finance.yahoo.com/news/sales-marketing-software-stocks-q4-091144215.html"
-            },
-            {
-                "headline": "The high-growth digital advertising company faces some near-term headwinds.",
-                "publication_date": "2025-04-02T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Motley Fool",
-                "ticker": "TTD",
-                "title": "Down 50% in 2025: Is The Trade Desk Stock a Buy?",
-                "url": "https://finance.yahoo.com/news/down-50-2025-trade-desk-110000646.html"
             }
         ],
-        "avgScore": 0.044475
-    },
-    "4 1 2025": {
-        "importantArticles": [
-            {
-                "headline": "We recently published a list of 12 Most Oversold Large Cap Stocks to Invest in Now. In this article, we are going to take a look at where The Trade Desk, Inc. (NASDAQ:TTD) stands against other most oversold large cap stocks to invest in now. Impact of Tariff Uncertainty on Wall Street and the Future [\u2026]",
-                "publication_date": "2025-04-01T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.34",
-                "source": "Insider Monkey",
-                "ticker": "TTD",
-                "title": "Is The Trade Desk, Inc. (TTD) the Most Oversold Large Cap Stock to Invest in Now?",
-                "url": "https://finance.yahoo.com/news/trade-desk-inc-ttd-most-134509340.html"
-            },
-            {
-                "headline": "We recently published a list of 12 Most Oversold Large Cap Stocks to Invest in Now. In this article, we are going to take a look at where The Trade Desk, Inc. (NASDAQ:TTD) stands against other most oversold large cap stocks to invest in now. Impact of Tariff Uncertainty on Wall Street and the Future [\u2026]",
-                "publication_date": "2025-04-01T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.34",
-                "source": "Insider Monkey",
-                "ticker": "TTD",
-                "title": "Is The Trade Desk, Inc. (TTD) the Most Oversold Large Cap Stock to Invest in Now?",
-                "url": "https://finance.yahoo.com/news/trade-desk-inc-ttd-most-134509340.html"
-            }
-        ],
-        "avgScore": -0.34
+        "avgScore": -0.11333333333333334
     },
     "3 31 2025": {
         "importantArticles": [
             {
-                "headline": "The Nasdaq-100 is composed of the 100 largest non-financial companies listed on the Nasdaq Composite (NASDAQINDEX: ^IXIC).  For those who have followed the market in recent years, it should come as no surprise that this tech-heavy index, which is full of some of the largest artificial intelligence companies in the world, has been a good long-term investment.  Over the last five years, the Nasdaq-100 is up 154%.",
-                "publication_date": "2025-03-31T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7096",
-                "source": "Motley Fool",
-                "ticker": "TTD",
-                "title": "Should You Invest in the 3 Worst-Performing Stocks in the Nasdaq-100 in 2025?",
-                "url": "https://finance.yahoo.com/news/invest-3-worst-performing-stocks-102500919.html"
-            },
-            {
                 "headline": "Delaware lawmakers pushed through controversial changes governing corporate behavior in a scramble to keep more businesses from leaving the state following Elon Musk's dramatic exit.",
                 "publication_date": "2025-03-31T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -370,19 +385,9 @@
                 "ticker": "TTD",
                 "title": "Delaware passes law designed to stop more Elon Musks from leaving state",
                 "url": "https://finance.yahoo.com/news/delaware-passes-law-designed-to-stop-more-elon-musks-from-leaving-state-164403802.html"
-            },
-            {
-                "headline": "The Nasdaq-100 is composed of the 100 largest non-financial companies listed on the Nasdaq Composite (NASDAQINDEX: ^IXIC).  For those who have followed the market in recent years, it should come as no surprise that this tech-heavy index, which is full of some of the largest artificial intelligence companies in the world, has been a good long-term investment.  Over the last five years, the Nasdaq-100 is up 154%.",
-                "publication_date": "2025-03-31T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7096",
-                "source": "Motley Fool",
-                "ticker": "TTD",
-                "title": "Should You Invest in the 3 Worst-Performing Stocks in the Nasdaq-100 in 2025?",
-                "url": "https://finance.yahoo.com/news/invest-3-worst-performing-stocks-102500919.html"
             }
         ],
-        "avgScore": 0.25365
+        "avgScore": -0.2023
     },
     "3 28 2025": {
         "importantArticles": [
@@ -397,6 +402,16 @@
                 "url": "https://finance.yahoo.com/news/1-large-cap-stock-buy-130159228.html"
             },
             {
+                "headline": "Growth stocks might seem risky right now, but these three look too good to pass up right now.",
+                "publication_date": "2025-03-28T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6428",
+                "source": "Motley Fool",
+                "ticker": "TTD",
+                "title": "3 No-Brainer Growth Stocks to Buy With $100 Right Now",
+                "url": "https://finance.yahoo.com/news/3-no-brainer-growth-stocks-081500303.html"
+            },
+            {
                 "headline": "Despite the stock's struggles, there remains a lot to appreciate about The Trade Desk.",
                 "publication_date": "2025-03-28T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -405,16 +420,6 @@
                 "ticker": "TTD",
                 "title": "1 Growth Stock Down 60% to Buy Hand Over Fist in the Nasdaq Correction",
                 "url": "https://finance.yahoo.com/news/1-growth-stock-down-60-124500983.html"
-            },
-            {
-                "headline": "Stock market downturns are traditionally the ideal time to go shopping for bargains.",
-                "publication_date": "2025-03-28T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.5267",
-                "source": "Motley Fool",
-                "ticker": "TTD",
-                "title": "5 Historically Cheap Growth Stocks to Buy With Confidence in the Wake of the Nasdaq Correction",
-                "url": "https://finance.yahoo.com/news/5-historically-cheap-growth-stocks-090600526.html"
             },
             {
                 "headline": "We recently published a list of Why These 15 Software Stocks Are Plunging In 2025. In this article, we are going to take a look at where The Trade Desk Inc (NASDAQ:TTD) stands against other software stocks that are plunging in 2025. The software sector has been anything but calm lately. These stocks were the [\u2026]",
@@ -427,16 +432,6 @@
                 "url": "https://finance.yahoo.com/news/why-trade-desk-inc-ttd-171204212.html"
             },
             {
-                "headline": "Stock market downturns are traditionally the ideal time to go shopping for bargains.",
-                "publication_date": "2025-03-28T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.5267",
-                "source": "Motley Fool",
-                "ticker": "TTD",
-                "title": "5 Historically Cheap Growth Stocks to Buy With Confidence in the Wake of the Nasdaq Correction",
-                "url": "https://finance.yahoo.com/news/5-historically-cheap-growth-stocks-090600526.html"
-            },
-            {
                 "headline": "Despite the stock's struggles, there remains a lot to appreciate about The Trade Desk.",
                 "publication_date": "2025-03-28T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -445,9 +440,19 @@
                 "ticker": "TTD",
                 "title": "1 Growth Stock Down 60% to Buy Hand Over Fist in the Nasdaq Correction",
                 "url": "https://finance.yahoo.com/news/1-growth-stock-down-60-124500983.html"
+            },
+            {
+                "headline": "Growth stocks might seem risky right now, but these three look too good to pass up right now.",
+                "publication_date": "2025-03-28T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6428",
+                "source": "Motley Fool",
+                "ticker": "TTD",
+                "title": "3 No-Brainer Growth Stocks to Buy With $100 Right Now",
+                "url": "https://finance.yahoo.com/news/3-no-brainer-growth-stocks-081500303.html"
             }
         ],
-        "avgScore": 0.605625
+        "avgScore": 0.63465
     },
     "3 27 2025": {
         "importantArticles": [
@@ -462,6 +467,16 @@
                 "url": "https://finance.yahoo.com/news/trade-desk-nasdaqgm-ttd-surges-174302768.html"
             },
             {
+                "headline": "Stock market downturns are traditionally the ideal time to go shopping for bargains.",
+                "publication_date": "2025-03-27T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5267",
+                "source": "Motley Fool",
+                "ticker": "TTD",
+                "title": "5 Historically Cheap Growth Stocks to Buy With Confidence in the Wake of the Nasdaq Correction",
+                "url": "https://finance.yahoo.com/news/5-historically-cheap-growth-stocks-090600526.html"
+            },
+            {
                 "headline": "Zacks.com users have recently been watching The Trade Desk (TTD) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
                 "publication_date": "2025-03-27T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -482,16 +497,6 @@
                 "url": "https://finance.yahoo.com/news/why-trade-desk-inc-ttd-113107199.html"
             },
             {
-                "headline": "We recently published a list of Pulse of The Market: Tuesday\u2019s 10 Top Performers. In this article, we are going to take a look at where The Trade Desk Inc. (NASDAQ:TTD) stands against other Tuesday\u2019s top performers. A lackluster trading persisted on the stock market on Tuesday, with all major indices finishing in the green [\u2026]",
-                "publication_date": "2025-03-27T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.3818",
-                "source": "Insider Monkey",
-                "ticker": "TTD",
-                "title": "Why The Trade Desk Inc. (TTD) Went Up On Tuesday?",
-                "url": "https://finance.yahoo.com/news/why-trade-desk-inc-ttd-113107199.html"
-            },
-            {
                 "headline": "Zacks.com users have recently been watching The Trade Desk (TTD) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
                 "publication_date": "2025-03-27T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -502,31 +507,21 @@
                 "url": "https://finance.yahoo.com/news/investors-heavily-search-trade-desk-130012202.html"
             },
             {
-                "headline": "The Trade Desk (NasdaqGM:TTD) saw a notable price increase of 16% over the past week amid significant developments. Key events that may have influenced the company's performance include its partnership with Cineverse to integrate OpenPath with its ad tech platform, aiming to enhance advertising efficiency. Furthermore, Perion Network's adoption of Unified ID 2.0 underscores the company's innovative approach. Additionally, the appointment of Preetha Athrey and the announcement of Vivek Kundra...",
+                "headline": "Stock market downturns are traditionally the ideal time to go shopping for bargains.",
                 "publication_date": "2025-03-27T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.8779",
-                "source": "Simply Wall St.",
+                "sentimentScore": "0.5267",
+                "source": "Motley Fool",
                 "ticker": "TTD",
-                "title": "Trade Desk (NasdaqGM:TTD) Surges 16% Over A Week As Vivek Kundra Announced As COO",
-                "url": "https://finance.yahoo.com/news/trade-desk-nasdaqgm-ttd-surges-174302768.html"
+                "title": "5 Historically Cheap Growth Stocks to Buy With Confidence in the Wake of the Nasdaq Correction",
+                "url": "https://finance.yahoo.com/news/5-historically-cheap-growth-stocks-090600526.html"
             }
         ],
-        "avgScore": 0.5788
+        "avgScore": 0.565775
     },
     "3 26 2025": {
         "importantArticles": [
             {
-                "headline": "Such was the case for The Trade Desk (NASDAQ: TTD).  With a strong performance in 2024 and a high valuation, an unforced error turned investors against the stock after it reported its fourth-quarter and full-year 2024 earnings.  Considering the company's bright future and heavily discounted stock price, now is likely an excellent time to add shares.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8625",
-                "source": "Motley Fool",
-                "ticker": "TTD",
-                "title": "Here Is My Top Artificial Intelligence (AI) Stock to Buy During the Correction",
-                "url": "https://finance.yahoo.com/news/top-artificial-intelligence-ai-stock-082500271.html"
-            },
-            {
                 "headline": "We came across a bullish thesis on The Trade Desk, Inc. (TTD) on Substack by Francesco Ferrari. In this article, we will summarize the bulls\u2019 thesis on TTD. The Trade Desk, Inc. (TTD)\u2019s share was trading at $59.34 as of March 24th. TTD\u2019s trailing and forward P/E were 76.08 and 53.48 respectively according to Yahoo Finance. The [\u2026]",
                 "publication_date": "2025-03-26T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -545,23 +540,23 @@
                 "ticker": "TTD",
                 "title": "The Trade Desk, Inc. (TTD): A Bull Case Theory",
                 "url": "https://finance.yahoo.com/news/trade-desk-inc-ttd-bull-145533166.html"
-            },
-            {
-                "headline": "Such was the case for The Trade Desk (NASDAQ: TTD).  With a strong performance in 2024 and a high valuation, an unforced error turned investors against the stock after it reported its fourth-quarter and full-year 2024 earnings.  Considering the company's bright future and heavily discounted stock price, now is likely an excellent time to add shares.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8625",
-                "source": "Motley Fool",
-                "ticker": "TTD",
-                "title": "Here Is My Top Artificial Intelligence (AI) Stock to Buy During the Correction",
-                "url": "https://finance.yahoo.com/news/top-artificial-intelligence-ai-stock-082500271.html"
             }
         ],
-        "avgScore": 0.7099500000000001
+        "avgScore": 0.5574
     },
     "3 25 2025": {
         "importantArticles": [
             {
+                "headline": "Such was the case for The Trade Desk (NASDAQ: TTD).  With a strong performance in 2024 and a high valuation, an unforced error turned investors against the stock after it reported its fourth-quarter and full-year 2024 earnings.  Considering the company's bright future and heavily discounted stock price, now is likely an excellent time to add shares.",
+                "publication_date": "2025-03-25T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8625",
+                "source": "Motley Fool",
+                "ticker": "TTD",
+                "title": "Here Is My Top Artificial Intelligence (AI) Stock to Buy During the Correction",
+                "url": "https://finance.yahoo.com/news/top-artificial-intelligence-ai-stock-082500271.html"
+            },
+            {
                 "headline": "We recently published a list of 10 Stocks with Potential to Explode in 2025. In this article, we are going to take a look at where The Trade Desk, Inc. (NASDAQ:TTD) stands against other stocks with potential to explode in 2025. The recent pullback in US equities can be a sign of an aging bull [\u2026]",
                 "publication_date": "2025-03-25T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -600,59 +595,19 @@
                 "ticker": "TTD",
                 "title": "The Trade Desk, Inc. (TTD): Among Stocks with Potential to Explode in 2025",
                 "url": "https://finance.yahoo.com/news/trade-desk-inc-ttd-among-133203552.html"
-            }
-        ],
-        "avgScore": -0.064
-    },
-    "3 24 2025": {
-        "importantArticles": [
-            {
-                "headline": "One of those I've recently increased my position in is The Trade Desk (NASDAQ: TTD).  The Trade Desk had a rough fourth quarter and has announced some changes.  Not many people are familiar with The Trade Desk, but you've likely interacted with its software without knowing.",
-                "publication_date": "2025-03-24T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.1406",
-                "source": "Motley Fool",
-                "ticker": "TTD",
-                "title": "1 Unstoppable Stock Down Over 60% That I'm Buying Like There's No Tomorrow",
-                "url": "https://finance.yahoo.com/news/1-unstoppable-stock-down-over-081400381.html"
             },
             {
-                "headline": "One of those I've recently increased my position in is The Trade Desk (NASDAQ: TTD).  The Trade Desk had a rough fourth quarter and has announced some changes.  Not many people are familiar with The Trade Desk, but you've likely interacted with its software without knowing.",
-                "publication_date": "2025-03-24T00:00:00.000Z",
+                "headline": "Such was the case for The Trade Desk (NASDAQ: TTD).  With a strong performance in 2024 and a high valuation, an unforced error turned investors against the stock after it reported its fourth-quarter and full-year 2024 earnings.  Considering the company's bright future and heavily discounted stock price, now is likely an excellent time to add shares.",
+                "publication_date": "2025-03-25T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.1406",
+                "sentimentScore": "0.8625",
                 "source": "Motley Fool",
                 "ticker": "TTD",
-                "title": "1 Unstoppable Stock Down Over 60% That I'm Buying Like There's No Tomorrow",
-                "url": "https://finance.yahoo.com/news/1-unstoppable-stock-down-over-081400381.html"
+                "title": "Here Is My Top Artificial Intelligence (AI) Stock to Buy During the Correction",
+                "url": "https://finance.yahoo.com/news/top-artificial-intelligence-ai-stock-082500271.html"
             }
         ],
-        "avgScore": 0.1406
-    },
-    "3 21 2025": {
-        "importantArticles": [
-            {
-                "headline": "Here are three Nasdaq stocks down 20% or more that you'll regret not buying on the dip.  Shares of Google parent Alphabet (NASDAQ: GOOG) (NASDAQ: GOOGL) have dropped 23% below the all-time high set only a few weeks ago.  This decline could bring out all of the doomsayers who believe the company faces existential threats from generative AI and regulators.",
-                "publication_date": "2025-03-21T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.7479",
-                "source": "Motley Fool",
-                "ticker": "TTD",
-                "title": "3 Nasdaq Stocks Down 20% or More That You'll Regret Not Buying on the Dip",
-                "url": "https://finance.yahoo.com/news/3-nasdaq-stocks-down-20-084900877.html"
-            },
-            {
-                "headline": "Here are three Nasdaq stocks down 20% or more that you'll regret not buying on the dip.  Shares of Google parent Alphabet (NASDAQ: GOOG) (NASDAQ: GOOGL) have dropped 23% below the all-time high set only a few weeks ago.  This decline could bring out all of the doomsayers who believe the company faces existential threats from generative AI and regulators.",
-                "publication_date": "2025-03-21T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.7479",
-                "source": "Motley Fool",
-                "ticker": "TTD",
-                "title": "3 Nasdaq Stocks Down 20% or More That You'll Regret Not Buying on the Dip",
-                "url": "https://finance.yahoo.com/news/3-nasdaq-stocks-down-20-084900877.html"
-            }
-        ],
-        "avgScore": -0.7479
+        "avgScore": 0.24483333333333335
     },
     "3 20 2025": {
         "importantArticles": [
@@ -667,24 +622,24 @@
                 "url": "https://finance.yahoo.com/news/trade-desk-plunges-53-ytd-170100343.html"
             },
             {
-                "headline": "The Nasdaq Composite (NASDAQINDEX: ^IXIC) entered market correction territory on March 6, meaning it closed more than 10% below its recent bull-market high.  The Nasdaq has recovered from every past correction, and there is no reason this one should be different.  Here are two beaten-down Nasdaq stocks that most Wall Street analysts expect to soar in the coming months.",
+                "headline": "Here are three Nasdaq stocks down 20% or more that you'll regret not buying on the dip.  Shares of Google parent Alphabet (NASDAQ: GOOG) (NASDAQ: GOOGL) have dropped 23% below the all-time high set only a few weeks ago.  This decline could bring out all of the doomsayers who believe the company faces existential threats from generative AI and regulators.",
                 "publication_date": "2025-03-20T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.296",
+                "sentimentScore": "-0.7479",
                 "source": "Motley Fool",
                 "ticker": "TTD",
-                "title": "Nasdaq Correction: 2 Brilliant Stocks Down 39% and 60% to Buy Before They Soar, According to Wall Street",
-                "url": "https://finance.yahoo.com/news/nasdaq-correction-2-brilliant-stocks-080000166.html"
+                "title": "3 Nasdaq Stocks Down 20% or More That You'll Regret Not Buying on the Dip",
+                "url": "https://finance.yahoo.com/news/3-nasdaq-stocks-down-20-084900877.html"
             },
             {
-                "headline": "The Nasdaq Composite (NASDAQINDEX: ^IXIC) entered market correction territory on March 6, meaning it closed more than 10% below its recent bull-market high.  The Nasdaq has recovered from every past correction, and there is no reason this one should be different.  Here are two beaten-down Nasdaq stocks that most Wall Street analysts expect to soar in the coming months.",
+                "headline": "Here are three Nasdaq stocks down 20% or more that you'll regret not buying on the dip.  Shares of Google parent Alphabet (NASDAQ: GOOG) (NASDAQ: GOOGL) have dropped 23% below the all-time high set only a few weeks ago.  This decline could bring out all of the doomsayers who believe the company faces existential threats from generative AI and regulators.",
                 "publication_date": "2025-03-20T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.296",
+                "sentimentScore": "-0.7479",
                 "source": "Motley Fool",
                 "ticker": "TTD",
-                "title": "Nasdaq Correction: 2 Brilliant Stocks Down 39% and 60% to Buy Before They Soar, According to Wall Street",
-                "url": "https://finance.yahoo.com/news/nasdaq-correction-2-brilliant-stocks-080000166.html"
+                "title": "3 Nasdaq Stocks Down 20% or More That You'll Regret Not Buying on the Dip",
+                "url": "https://finance.yahoo.com/news/3-nasdaq-stocks-down-20-084900877.html"
             },
             {
                 "headline": "TTD faces challenges due to slower platform adoption and competitive pressures, but strong demand in CTV and key partnerships offer growth potential.",
@@ -697,39 +652,39 @@
                 "url": "https://finance.yahoo.com/news/trade-desk-plunges-53-ytd-170100343.html"
             }
         ],
-        "avgScore": 0.2458
+        "avgScore": 0.01984999999999998
     },
     "3 19 2025": {
         "importantArticles": [
             {
-                "headline": "The Trade Desk\u2019s stock price has taken a beating over the past six months, shedding 47.4% of its value and falling to $56.86 per share. This was partly due to its softer quarterly results and may have investors wondering how to approach the situation.",
+                "headline": "The Nasdaq Composite (NASDAQINDEX: ^IXIC) entered market correction territory on March 6, meaning it closed more than 10% below its recent bull-market high.  The Nasdaq has recovered from every past correction, and there is no reason this one should be different.  Here are two beaten-down Nasdaq stocks that most Wall Street analysts expect to soar in the coming months.",
                 "publication_date": "2025-03-19T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "-0.0",
-                "source": "StockStory",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.296",
+                "source": "Motley Fool",
                 "ticker": "TTD",
-                "title": "The Trade Desk (TTD): Buy, Sell, or Hold Post Q4 Earnings?",
-                "url": "https://finance.yahoo.com/news/trade-desk-ttd-buy-sell-090548953.html"
+                "title": "Nasdaq Correction: 2 Brilliant Stocks Down 39% and 60% to Buy Before They Soar, According to Wall Street",
+                "url": "https://finance.yahoo.com/news/nasdaq-correction-2-brilliant-stocks-080000166.html"
             },
             {
-                "headline": "The Trade Desk\u2019s stock price has taken a beating over the past six months, shedding 47.4% of its value and falling to $56.86 per share. This was partly due to its softer quarterly results and may have investors wondering how to approach the situation.",
+                "headline": "The Nasdaq Composite (NASDAQINDEX: ^IXIC) entered market correction territory on March 6, meaning it closed more than 10% below its recent bull-market high.  The Nasdaq has recovered from every past correction, and there is no reason this one should be different.  Here are two beaten-down Nasdaq stocks that most Wall Street analysts expect to soar in the coming months.",
                 "publication_date": "2025-03-19T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "-0.0",
-                "source": "StockStory",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.296",
+                "source": "Motley Fool",
                 "ticker": "TTD",
-                "title": "The Trade Desk (TTD): Buy, Sell, or Hold Post Q4 Earnings?",
-                "url": "https://finance.yahoo.com/news/trade-desk-ttd-buy-sell-090548953.html"
+                "title": "Nasdaq Correction: 2 Brilliant Stocks Down 39% and 60% to Buy Before They Soar, According to Wall Street",
+                "url": "https://finance.yahoo.com/news/nasdaq-correction-2-brilliant-stocks-080000166.html"
             }
         ],
-        "avgScore": 0.0
+        "avgScore": -0.296
     },
-    "coef": -0.17647058823529413,
-    "avgCoef": 0.008978732124381389,
+    "coef": -0.3735294117647059,
+    "avgCoef": -0.01941870676401397,
     "similar": {
-        "UMC": 0.38970588235294124,
-        "T": 0.27696078431372556,
-        "NVO": 0.25490196078431376,
-        "LCID": 0.24019607843137256
+        "NGD": 0.4794117647058824,
+        "GOLD": 0.44117647058823534,
+        "HLN": 0.33529411764705885,
+        "UMC": 0.3205882352941176
     }
 }

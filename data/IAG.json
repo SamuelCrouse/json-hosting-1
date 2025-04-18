@@ -139,6 +139,31 @@
         ],
         "avgScore": 0.5574
     },
+    "3 28 2025": {
+        "importantArticles": [
+            {
+                "headline": "We recently published a list of 10 Stocks Jump, Defy Market Uncertainties on Thursday. In this article, we are going to take a look at where IAMGOLD Corporation (NYSE:IAG) stands against other stocks that jumped, defying market uncertainties on Thursday. The stock market extended losses on Thursday, with all the major indices ending in the [\u2026]",
+                "publication_date": "2025-03-28T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.7579",
+                "source": "Insider Monkey",
+                "ticker": "IAG",
+                "title": "Why IAMGOLD Corporation (IAG) Surged On Thursday?",
+                "url": "https://finance.yahoo.com/news/why-iamgold-corporation-iag-surged-082657518.html"
+            },
+            {
+                "headline": "We recently published a list of 10 Stocks Jump, Defy Market Uncertainties on Thursday. In this article, we are going to take a look at where IAMGOLD Corporation (NYSE:IAG) stands against other stocks that jumped, defying market uncertainties on Thursday. The stock market extended losses on Thursday, with all the major indices ending in the [\u2026]",
+                "publication_date": "2025-03-28T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.7579",
+                "source": "Insider Monkey",
+                "ticker": "IAG",
+                "title": "Why IAMGOLD Corporation (IAG) Surged On Thursday?",
+                "url": "https://finance.yahoo.com/news/why-iamgold-corporation-iag-surged-082657518.html"
+            }
+        ],
+        "avgScore": -0.7579
+    },
     "3 25 2025": {
         "importantArticles": [
             {
@@ -164,12 +189,12 @@
         ],
         "avgScore": 0.0
     },
-    "coef": 0.3,
-    "avgCoef": 0.03299400957040485,
+    "coef": 0.6,
+    "avgCoef": -0.030736457636096247,
     "similar": {
-        "AUR": 0.8999999999999998,
-        "SOUN": 0.7,
-        "CLSK": 0.6,
-        "MP": 0.6
+        "MP": 0.7714285714285715,
+        "KGC": 0.6571428571428573,
+        "HTZ": 0.6,
+        "IAG": 0.6
     }
 }

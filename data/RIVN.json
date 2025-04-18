@@ -12,6 +12,26 @@
                 "url": "https://finance.yahoo.com/news/rivian-automotive-nasdaqgs-rivn-spins-180111280.html"
             },
             {
+                "headline": "Earnings results often indicate what direction a company will take in the months ahead. With Q4 behind us, let\u2019s have a look at Rivian (NASDAQ:RIVN) and its peers.",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "StockStory",
+                "ticker": "RIVN",
+                "title": "Winners And Losers Of Q4: Rivian (NASDAQ:RIVN) Vs The Rest Of The Automobile Manufacturing Stocks",
+                "url": "https://finance.yahoo.com/news/winners-losers-q4-rivian-nasdaq-090232529.html"
+            },
+            {
+                "headline": "Earnings results often indicate what direction a company will take in the months ahead. With Q4 behind us, let\u2019s have a look at Rivian (NASDAQ:RIVN) and its peers.",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "StockStory",
+                "ticker": "RIVN",
+                "title": "Winners And Losers Of Q4: Rivian (NASDAQ:RIVN) Vs The Rest Of The Automobile Manufacturing Stocks",
+                "url": "https://finance.yahoo.com/news/winners-losers-q4-rivian-nasdaq-090232529.html"
+            },
+            {
                 "headline": "Rivian Automotive (NasdaqGS:RIVN) experienced a significant month with a 11% share price increase, coinciding with the strategic spinout of its micromobility business, Also, Inc., where CEO RJ Scaringe will serve as Chairman. This move is likely seen as a refocus on Rivian's core electric vehicle operations. Despite a broader market experiencing volatility due to U.S. export restrictions and tech sector sell-offs, Rivian's organizational changes provide a positive counterbalance, hinting at...",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -22,7 +42,7 @@
                 "url": "https://finance.yahoo.com/news/rivian-automotive-nasdaqgs-rivn-spins-180111280.html"
             }
         ],
-        "avgScore": 0.836
+        "avgScore": 0.418
     },
     "4 16 2025": {
         "importantArticles": [
@@ -247,26 +267,6 @@
                 "url": "https://finance.yahoo.com/news/3-top-ev-stocks-buy-224100418.html"
             },
             {
-                "headline": "Investing.com -- U.S. president Donald Trump\u2019s latest announcement of reciprocal tariffs has reignited investor concerns about the auto sector, with Bernstein warning of growing risks to both U.S. and European manufacturers.",
-                "publication_date": "2025-04-07T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.4215",
-                "source": "Investing.com",
-                "ticker": "RIVN",
-                "title": "Impact of tariffs on U.S. and European auto sector",
-                "url": "https://finance.yahoo.com/news/impact-tariffs-u-european-auto-093002893.html"
-            },
-            {
-                "headline": "Investing.com -- U.S. president Donald Trump\u2019s latest announcement of reciprocal tariffs has reignited investor concerns about the auto sector, with Bernstein warning of growing risks to both U.S. and European manufacturers.",
-                "publication_date": "2025-04-07T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.4215",
-                "source": "Investing.com",
-                "ticker": "RIVN",
-                "title": "Impact of tariffs on U.S. and European auto sector",
-                "url": "https://finance.yahoo.com/news/impact-tariffs-u-european-auto-093002893.html"
-            },
-            {
                 "headline": "Rivian, Nio, and Polestar could thrive as Tesla tumbles.",
                 "publication_date": "2025-04-07T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -287,7 +287,7 @@
                 "url": "https://finance.yahoo.com/news/rivian-deliveries-tank-not-time-133000833.html"
             }
         ],
-        "avgScore": 0.05930000000000002
+        "avgScore": 0.2997
     },
     "4 4 2025": {
         "importantArticles": [
@@ -332,16 +332,6 @@
                 "url": "https://finance.yahoo.com/news/jim-cramer-rivian-automotive-rivn-184721629.html"
             },
             {
-                "headline": "If there\u2019s one thing that financial markets don\u2019t like, it\u2019s uncertainty \u2013 and President Trump\u2019s tariffs have thrown a huge bucket of uncertainty right into the mix. It\u2019s not just that his aggressive tariff policy has ignited a competitive trade war with our largest trading partners, Canada and Mexico \u2013 it\u2019s also that the mercurial President will announce tariffs, walk them back, and reimpose them. He\u2019s created an environment that makes it difficult for investors to predict what\u2019s coming next. F",
-                "publication_date": "2025-04-04T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.6486",
-                "source": "TipRanks",
-                "ticker": "RIVN",
-                "title": "Trump Tariffs\u2019 Pain Could Be These Stocks\u2019 Gain",
-                "url": "https://finance.yahoo.com/news/trump-tariffs-pain-could-stocks-080004921.html"
-            },
-            {
                 "headline": "RIVN's deliveries drop to 8,640 vehicles from 13,588 in the same period last year due to sluggish demand for EV.",
                 "publication_date": "2025-04-04T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -350,9 +340,19 @@
                 "ticker": "RIVN",
                 "title": "Rivian Q1 Deliveries Decline Y/Y Amid Weaker Demand for EV",
                 "url": "https://finance.yahoo.com/news/rivian-q1-deliveries-decline-y-110900519.html"
+            },
+            {
+                "headline": "While Tesla and Rivian's first-quarter deliveries fall year over year, NIO, XPeng and Li Auto witness a surge in sales.",
+                "publication_date": "2025-04-04T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "RIVN",
+                "title": "EV Roundup: Q1 Deliveries of TSLA, RIVN, LI, XPEV & NIO in Focus",
+                "url": "https://finance.yahoo.com/news/ev-roundup-q1-deliveries-tsla-153700253.html"
             }
         ],
-        "avgScore": -0.33846
+        "avgScore": -0.26092499999999996
     },
     "4 3 2025": {
         "importantArticles": [
@@ -367,16 +367,6 @@
                 "url": "https://finance.yahoo.com/news/why-rivian-stock-plunged-today-151610713.html"
             },
             {
-                "headline": "Some investors are hoping Tesla's recent controversies will give Rivian a much-needed boost.",
-                "publication_date": "2025-04-03T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6705",
-                "source": "Motley Fool",
-                "ticker": "RIVN",
-                "title": "Rivian Stock: Buy, Sell, or Hold?",
-                "url": "https://finance.yahoo.com/news/rivian-stock-buy-sell-hold-081500867.html"
-            },
-            {
                 "headline": "Investing.com -- Rivian Automotive reported first-quarter vehicle deliveries of 8640, a fall of 36% but it was slightly above analysts\u2019 estimates of 8610. Shares fell more than 4% in early tradingThe electric vehicle maker also said it produced 14611 vehicles at its Normal, Illinois, facility during the quarter ended March 31. For the same period last year, Rivian produced 13,980 vehicles at the same manufacturing facility and delivered 13,588 vehicles.",
                 "publication_date": "2025-04-03T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -385,6 +375,26 @@
                 "ticker": "RIVN",
                 "title": "Rivian deliveries fall but beat estimates slightly, shares down",
                 "url": "https://finance.yahoo.com/news/rivian-deliveries-fall-beat-estimates-141156400.html"
+            },
+            {
+                "headline": "Electric automaker Lucid  posted a 58% jump in first-quarter deliveries on Wednesday as it lowered prices of its vehicles, while peer Rivian Automotive reported a 36% decline.  Lucid has also offered incentives including cheaper financing to woo customers away from cheaper hybrid vehicles amid high interest rates.  Rivian has been battling tough demand as consumers opt for cheaper hybrid and gas-powered vehicles in an uncertain economic and political environment.",
+                "publication_date": "2025-04-03T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.3818",
+                "source": "Reuters",
+                "ticker": "RIVN",
+                "title": "Lucid's quarterly deliveries rise, Rivian's fall sharply",
+                "url": "https://finance.yahoo.com/news/rivian-reports-fall-first-quarter-123133979.html"
+            },
+            {
+                "headline": "If there\u2019s one thing that financial markets don\u2019t like, it\u2019s uncertainty \u2013 and President Trump\u2019s tariffs have thrown a huge bucket of uncertainty right into the mix. It\u2019s not just that his aggressive tariff policy has ignited a competitive trade war with our largest trading partners, Canada and Mexico \u2013 it\u2019s also that the mercurial President will announce tariffs, walk them back, and reimpose them. He\u2019s created an environment that makes it difficult for investors to predict what\u2019s coming next. F",
+                "publication_date": "2025-04-03T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.6486",
+                "source": "TipRanks",
+                "ticker": "RIVN",
+                "title": "Trump Tariffs\u2019 Pain Could Be These Stocks\u2019 Gain",
+                "url": "https://finance.yahoo.com/news/trump-tariffs-pain-could-stocks-080004921.html"
             },
             {
                 "headline": "We recently published a list of 10 Firms Outperform Broader Market on Tuesday. In this article, we are going to take a look at where Rivian Automotive Inc. (NASDAQ:RIVN) stands against other firms that outperform broader market on Tuesday. The stock market finished mixed on Tuesday, with the Dow Jones the sole loser with a [\u2026]",
@@ -405,19 +415,9 @@
                 "ticker": "RIVN",
                 "title": "Why Rivian (RIVN) Shares Are Getting Obliterated Today",
                 "url": "https://finance.yahoo.com/news/why-rivian-rivn-shares-getting-180747472.html"
-            },
-            {
-                "headline": "The latest investor updates on stocks that are trending on Wednesday.",
-                "publication_date": "2025-04-03T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Yahoo Finance UK",
-                "ticker": "RIVN",
-                "title": "Trending tickers: Tesla, Johnson & Johnson, CoreWeave, Newsmax and Raspberry Pi",
-                "url": "https://finance.yahoo.com/news/tesla-johnson-johnson-coreweave-newsmax-raspberry-pi-trending-tickers-094114477.html"
             }
         ],
-        "avgScore": 0.12563571428571427
+        "avgScore": 0.03021666666666668
     },
     "4 2 2025": {
         "importantArticles": [
@@ -432,6 +432,16 @@
                 "url": "https://finance.yahoo.com/news/why-rivian-stock-surged-today-000845168.html"
             },
             {
+                "headline": "Some investors are hoping Tesla's recent controversies will give Rivian a much-needed boost.",
+                "publication_date": "2025-04-02T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6705",
+                "source": "Motley Fool",
+                "ticker": "RIVN",
+                "title": "Rivian Stock: Buy, Sell, or Hold?",
+                "url": "https://finance.yahoo.com/news/rivian-stock-buy-sell-hold-081500867.html"
+            },
+            {
                 "headline": "Electric vehicle maker Rivian is spinning out a startup focused on small EVs designed for short trips, with investment from venture capital firm Eclipse. Rivian CEO RJ Scaringe and&nbsp;Eclipse partner Jiten Behl speak with Caroline Hyde on \"Bloomberg Technology.\"",
                 "publication_date": "2025-04-02T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -442,14 +452,24 @@
                 "url": "https://finance.yahoo.com/video/rivian-spins-off-micromobility-startup-180245598.html"
             },
             {
-                "headline": "We recently compiled a list of the 10 Best EV Stocks to Buy Under $50. In this article, we are going to take a look at where Rivian Automotive, Inc. (NASDAQ:RIVN) stands against the other EV stocks under $50. Electric vehicle (EV) sales continue to grow but at a slower pace than many had previously [\u2026]",
+                "headline": "The latest investor updates on stocks that are trending on Wednesday.",
+                "publication_date": "2025-04-02T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Yahoo Finance UK",
+                "ticker": "RIVN",
+                "title": "Trending tickers: Tesla, Johnson & Johnson, CoreWeave, Newsmax and Raspberry Pi",
+                "url": "https://finance.yahoo.com/news/tesla-johnson-johnson-coreweave-newsmax-raspberry-pi-trending-tickers-094114477.html"
+            },
+            {
+                "headline": "The unit will focus on small, lightweight electric vehicles to address global mobility transportation challenges, according to the EV maker.",
                 "publication_date": "2025-04-02T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.3818",
-                "source": "Insider Monkey",
+                "sentimentScore": "0.0772",
+                "source": "Automotive Dive",
                 "ticker": "RIVN",
-                "title": "Is Rivian Automotive, Inc. (RIVN) The Best EV Stock to Buy Under $50?",
-                "url": "https://finance.yahoo.com/news/rivian-automotive-inc-rivn-best-170107519.html"
+                "title": "Rivian spins off micromobility unit as new startup named \u2018Also\u2019",
+                "url": "https://finance.yahoo.com/news/rivian-spins-off-micromobility-unit-094500501.html"
             },
             {
                 "headline": "Tesla, Rivian Automotive, Lucid, General Motors and Ford are part of the Zacks top Analyst Blog.",
@@ -460,29 +480,9 @@
                 "ticker": "RIVN",
                 "title": "The Zacks Analyst Blog Highlights Tesla, Rivian Automotive, Lucid, General Motors and Ford",
                 "url": "https://finance.yahoo.com/news/zacks-analyst-blog-highlights-tesla-144500047.html"
-            },
-            {
-                "headline": "We recently compiled a list of the 10 Best EV Stocks to Buy Under $50. In this article, we are going to take a look at where Rivian Automotive, Inc. (NASDAQ:RIVN) stands against the other EV stocks under $50. Electric vehicle (EV) sales continue to grow but at a slower pace than many had previously [\u2026]",
-                "publication_date": "2025-04-02T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.3818",
-                "source": "Insider Monkey",
-                "ticker": "RIVN",
-                "title": "Is Rivian Automotive, Inc. (RIVN) The Best EV Stock to Buy Under $50?",
-                "url": "https://finance.yahoo.com/news/rivian-automotive-inc-rivn-best-170107519.html"
-            },
-            {
-                "headline": "Electric vehicle maker Rivian is spinning out a startup focused on small EVs designed for short trips, with investment from venture capital firm Eclipse. Rivian CEO RJ Scaringe and&nbsp;Eclipse partner Jiten Behl speak with Caroline Hyde on \"Bloomberg Technology.\"",
-                "publication_date": "2025-04-02T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.3818",
-                "source": "Bloomberg",
-                "ticker": "RIVN",
-                "title": "Rivian Spins Off 'Micromobility' Startup Also",
-                "url": "https://finance.yahoo.com/video/rivian-spins-off-micromobility-startup-180245598.html"
             }
         ],
-        "avgScore": 0.481075
+        "avgScore": 0.38171428571428573
     },
     "4 1 2025": {
         "importantArticles": [
@@ -562,37 +562,37 @@
                 "url": "https://finance.yahoo.com/news/rivian-spins-electric-micromobility-business-121704741.html"
             },
             {
-                "headline": "The automaker says that the cameras it developed for its Enhanced Highway Assist feature\u00a0offer the highest resolution \u201cof any vehicle in North America.\u201d",
+                "headline": "We recently published a list of 10 Stocks Jump, Defy Market Uncertainties on Thursday. In this article, we are going to take a look at where Rivian Automotive Inc. (NASDAQ:RIVN) stands against other stocks that jumped, defying market uncertainties on Thursday. The stock market extended losses on Thursday, with all the major indices ending in [\u2026]",
+                "publication_date": "2025-03-28T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.7579",
+                "source": "Insider Monkey",
+                "ticker": "RIVN",
+                "title": "Why Rivian Automotive Inc. (RIVN) Surged On Thursday?",
+                "url": "https://finance.yahoo.com/news/why-rivian-automotive-inc-rivn-082639507.html"
+            },
+            {
+                "headline": "Automaker stocks here and abroad are getting smoked following President Trump's big move to impose 25% tariffs on foreign autos and certain auto parts. But one automaker is up \u2014 Tesla.",
+                "publication_date": "2025-03-28T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "-0.0129",
+                "source": "Yahoo Finance",
+                "ticker": "RIVN",
+                "title": "Elon Musk says Trump's auto tariffs won't be a problem for Tesla",
+                "url": "https://finance.yahoo.com/news/elon-musk-says-trumps-auto-tariffs-wont-be-a-problem-for-tesla-164553149.html"
+            },
+            {
+                "headline": "Which of these electric vehicle stocks deserves more attention from investors?",
                 "publication_date": "2025-03-28T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
-                "source": "Automotive Dive",
+                "source": "Motley Fool",
                 "ticker": "RIVN",
-                "title": "Rivian rolls out hands-free driving via software update",
-                "url": "https://finance.yahoo.com/news/rivian-rolls-hands-free-driving-094800766.html"
-            },
-            {
-                "headline": "In connection with the spin-off, Also has secured $105m from venture capital fund Eclipse Venture.",
-                "publication_date": "2025-03-28T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4019",
-                "source": "Just Auto",
-                "ticker": "RIVN",
-                "title": "Rivian spins out electric micromobility business",
-                "url": "https://finance.yahoo.com/news/rivian-spins-electric-micromobility-business-121704741.html"
-            },
-            {
-                "headline": "Both European and American automakers are seeing their shares take a hit from President Trump's decision to put a 25% levy on vehicles and some auto parts imported into the US. There are a couple of auto stocks moving higher though. Both Tesla and Rivian are trading higher given how much of their production is in the United States. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
-                "publication_date": "2025-03-28T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6124",
-                "source": "Yahoo Finance Video",
-                "ticker": "RIVN",
-                "title": "Auto stocks feel the impact of Trump's latest tariff: Market Minute",
-                "url": "https://finance.yahoo.com/video/auto-stocks-feel-impact-trumps-152124933.html"
+                "title": "Better EV Stock: Nio vs. Rivian",
+                "url": "https://finance.yahoo.com/news/better-ev-stock-nio-vs-083000175.html"
             }
         ],
-        "avgScore": 0.48755
+        "avgScore": 0.1684857142857143
     },
     "3 27 2025": {
         "importantArticles": [
@@ -627,16 +627,6 @@
                 "url": "https://finance.yahoo.com/news/rivian-spins-micromobility-business-startup-130000338.html"
             },
             {
-                "headline": "Earnings results often indicate what direction a company will take in the months ahead. With Q4 behind us, let\u2019s have a look at Tesla (NASDAQ:TSLA) and its peers.",
-                "publication_date": "2025-03-27T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "StockStory",
-                "ticker": "RIVN",
-                "title": "Q4 Earnings Highs And Lows: Tesla (NASDAQ:TSLA) Vs The Rest Of The Automobile Manufacturing Stocks",
-                "url": "https://finance.yahoo.com/news/q4-earnings-highs-lows-tesla-090146697.html"
-            },
-            {
                 "headline": "Rivian Automotive Inc. is spinning out a new \"micromobility\" company, known as Also, that will develop small electric vehicles designed for short trips. Craig Trudell reports on Bloomberg Television.",
                 "publication_date": "2025-03-27T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -655,6 +645,16 @@
                 "ticker": "RIVN",
                 "title": "Rivian Unveils, Spins Off Secret Micromobility Project",
                 "url": "https://finance.yahoo.com/news/rivian-unveils-spins-off-secret-144559592.html"
+            },
+            {
+                "headline": "The EV maker spun off its compact-vehicle unit, raising $105M and naming CEO RJ Scaringe as board chair",
+                "publication_date": "2025-03-27T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "GuruFocus.com",
+                "ticker": "RIVN",
+                "title": "Rivian Launches Micromobility Unit as Standalone Firm, Keeps Stake",
+                "url": "https://finance.yahoo.com/news/rivian-launches-micromobility-unit-standalone-165009910.html"
             }
         ],
         "avgScore": 0.11301818181818181
@@ -672,6 +672,16 @@
                 "url": "https://finance.yahoo.com/news/rivian-automotive-nasdaqgs-rivn-11-174734398.html"
             },
             {
+                "headline": "Earnings results often indicate what direction a company will take in the months ahead. With Q4 behind us, let\u2019s have a look at Tesla (NASDAQ:TSLA) and its peers.",
+                "publication_date": "2025-03-26T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "StockStory",
+                "ticker": "RIVN",
+                "title": "Q4 Earnings Highs And Lows: Tesla (NASDAQ:TSLA) Vs The Rest Of The Automobile Manufacturing Stocks",
+                "url": "https://finance.yahoo.com/news/q4-earnings-highs-lows-tesla-090146697.html"
+            },
+            {
                 "headline": "Rivian Automotive (RIVN) closed the most recent trading day at $12.36, moving +1.39% from the previous trading session.",
                 "publication_date": "2025-03-26T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -690,6 +700,16 @@
                 "ticker": "RIVN",
                 "title": "Rivian Automotive (RIVN) Exceeds Market Returns: Some Facts to Consider",
                 "url": "https://finance.yahoo.com/news/rivian-automotive-rivn-exceeds-market-215016221.html"
+            },
+            {
+                "headline": "Earnings results often indicate what direction a company will take in the months ahead. With Q4 behind us, let\u2019s have a look at Tesla (NASDAQ:TSLA) and its peers.",
+                "publication_date": "2025-03-26T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "StockStory",
+                "ticker": "RIVN",
+                "title": "Q4 Earnings Highs And Lows: Tesla (NASDAQ:TSLA) Vs The Rest Of The Automobile Manufacturing Stocks",
+                "url": "https://finance.yahoo.com/news/q4-earnings-highs-lows-tesla-090146697.html"
             },
             {
                 "headline": "Rivian Automotive (NasdaqGS:RIVN) saw a 10% increase in its stock price over the past week, buoyed by recent executive changes and expanded collaboration. The appointment of Sreela Venkataratnam as Chief Accounting Officer aligns with Rivian's ongoing efforts to strengthen its financial team. Meanwhile, their expanded collaboration with XPEL introduces more customization options for R1T and R1S owners, potentially appealing to new customers. This price increase also reflects market trends, as...",
@@ -702,7 +722,7 @@
                 "url": "https://finance.yahoo.com/news/rivian-automotive-nasdaqgs-rivn-11-174734398.html"
             }
         ],
-        "avgScore": 0.3548
+        "avgScore": 0.23653333333333335
     },
     "3 25 2025": {
         "importantArticles": [
@@ -872,16 +892,6 @@
                 "url": "https://finance.yahoo.com/news/jim-cramer-says-t-recommend-165522253.html"
             },
             {
-                "headline": "Also: Trump will call Putin today, Microsoft almost passed on Nadella.",
-                "publication_date": "2025-03-19T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Fortune",
-                "ticker": "RIVN",
-                "title": "Rivian CEO RJ Scaringe on steering through the mess",
-                "url": "https://finance.yahoo.com/news/rivian-ceo-rj-scaringe-steering-095223899.html"
-            },
-            {
                 "headline": "Investing.com -- Despite near-term headwinds, Rivian (NASDAQ:RIVN)'s long-term trajectory remains intact, according to Benchmark analysts, who maintained a Buy rating and an $18 price target on the stock.",
                 "publication_date": "2025-03-19T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -900,16 +910,26 @@
                 "ticker": "RIVN",
                 "title": "Jim Cramer Says He Can\u2019t Recommend Rivian Automotive (RIVN) Because It \u2018Needs So Much More Money\u2019",
                 "url": "https://finance.yahoo.com/news/jim-cramer-says-t-recommend-165522253.html"
+            },
+            {
+                "headline": "Why Waymo, BYD, Mercedes-Benz, and Nvidia are among Fast Company\u2019s Most Innovative Companies in automotive for 2025.",
+                "publication_date": "2025-03-19T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4927",
+                "source": "FastCompany",
+                "ticker": "RIVN",
+                "title": "The most innovative companies in automotive for 2025",
+                "url": "https://finance.yahoo.com/news/most-innovative-companies-automotive-2025-110000600.html"
             }
         ],
-        "avgScore": 0.40268
+        "avgScore": 0.50335
     },
-    "coef": -0.15441176470588236,
-    "avgCoef": 0.01469585704505371,
+    "coef": -0.34313725490196084,
+    "avgCoef": -0.015414734693223804,
     "similar": {
-        "KO": 0.33333333333333337,
-        "VALE": 0.3088235294117647,
-        "KVUE": 0.2916666666666667,
-        "AMCR": 0.27696078431372556
+        "IAG": 0.41421568627450983,
+        "CVS": 0.3970588235294118,
+        "UNH": 0.3186274509803922,
+        "HLN": 0.3065604500179649
     }
 }

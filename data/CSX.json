@@ -2,6 +2,16 @@
     "4 17 2025": {
         "importantArticles": [
             {
+                "headline": "Despite a 7% revenue decline, CSX Corp (CSX) focuses on operational recovery and future growth opportunities.",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6369",
+                "source": "GuruFocus.com",
+                "ticker": "CSX",
+                "title": "CSX Corp (CSX) Q1 2025 Earnings Call Highlights: Navigating Challenges with Strategic Resilience",
+                "url": "https://finance.yahoo.com/news/csx-corp-csx-q1-2025-070238934.html"
+            },
+            {
                 "headline": "JACKSONVILLE, Fla., April 16, 2025 (GLOBE NEWSWIRE) -- CSX Corp. (NASDAQ: CSX) today announced first quarter 2025 operating income of $1.04 billion compared to $1.34 billion in the prior year period. Net income was $646 million, or $0.34 per diluted share, compared to $880 million, or $0.45 per diluted share, in the same period last year. 1 Total volume of 1.52 million units for the quarter was 1% lower compared to first quarter 2024. Revenue totaled $3.42 billion for the quarter, decreasing 7%",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -20,16 +30,6 @@
                 "ticker": "CSX",
                 "title": "CSX: Q1 Earnings Snapshot",
                 "url": "https://finance.yahoo.com/news/csx-q1-earnings-snapshot-201023154.html"
-            },
-            {
-                "headline": "Congestion hurt volumes and revenue in CSX\u2019s first quarter. The post Congestion nicks CSX\u2019s earnings, volume and revenue appeared first on FreightWaves.",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.5267",
-                "source": "FreightWaves",
-                "ticker": "CSX",
-                "title": "Congestion nicks CSX\u2019s earnings, volume and revenue",
-                "url": "https://finance.yahoo.com/news/congestion-nicks-csx-earnings-volume-230622545.html"
             },
             {
                 "headline": "Congestion hurt volumes and revenue in CSX\u2019s first quarter. The post Congestion nicks CSX\u2019s earnings, volume and revenue appeared first on FreightWaves.",
@@ -62,7 +62,7 @@
                 "url": "https://finance.yahoo.com/news/csx-corp-announces-first-quarter-200200418.html"
             }
         ],
-        "avgScore": -0.07689999999999998
+        "avgScore": 0.10155000000000003
     },
     "4 16 2025": {
         "importantArticles": [
@@ -102,26 +102,6 @@
                 "url": "https://finance.yahoo.com/news/csx-honors-62-customers-annual-180000825.html"
             },
             {
-                "headline": "JPMorgan, Wells Fargo, Morgan Stanley, Netflix, UnitedHealthcare, Johnson & Johnson and CSX Corp have been highlighted in this Earnings Preview article.",
-                "publication_date": "2025-04-15T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.25",
-                "source": "Zacks",
-                "ticker": "CSX",
-                "title": "JPMorgan, Wells Fargo, Morgan Stanley, Netflix, UnitedHealthcare, Johnson & Johnson and CSX Corp are part of Zacks Earnings Preview",
-                "url": "https://finance.yahoo.com/news/jpmorgan-wells-fargo-morgan-stanley-072200566.html"
-            },
-            {
-                "headline": "JPMorgan, Wells Fargo, Morgan Stanley, Netflix, UnitedHealthcare, Johnson & Johnson and CSX Corp have been highlighted in this Earnings Preview article.",
-                "publication_date": "2025-04-15T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.25",
-                "source": "Zacks",
-                "ticker": "CSX",
-                "title": "JPMorgan, Wells Fargo, Morgan Stanley, Netflix, UnitedHealthcare, Johnson & Johnson and CSX Corp are part of Zacks Earnings Preview",
-                "url": "https://finance.yahoo.com/news/jpmorgan-wells-fargo-morgan-stanley-072200566.html"
-            },
-            {
                 "headline": "JACKSONVILLE, Fla., April 14, 2025 (GLOBE NEWSWIRE) -- CSX Corporation (NASDAQ: CSX) has recognized 62 customers with its 31st Annual Chemical Safety Excellence Award for their dedication to safely transporting hazardous materials across the company\u2019s rail network in 2024. For more than three decades, the award has honored chemical customers who prioritize safety in every shipment, reflecting their commitment to protecting CSX employees, the surrounding communities, and the environment. It also",
                 "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -132,7 +112,7 @@
                 "url": "https://finance.yahoo.com/news/csx-honors-62-customers-annual-180000825.html"
             }
         ],
-        "avgScore": 0.61415
+        "avgScore": 0.9783
     },
     "4 14 2025": {
         "importantArticles": [
@@ -147,6 +127,26 @@
                 "url": "https://finance.yahoo.com/news/us-28-01-time-put-130020950.html"
             },
             {
+                "headline": "JPMorgan, Wells Fargo, Morgan Stanley, Netflix, UnitedHealthcare, Johnson & Johnson and CSX Corp have been highlighted in this Earnings Preview article.",
+                "publication_date": "2025-04-14T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.25",
+                "source": "Zacks",
+                "ticker": "CSX",
+                "title": "JPMorgan, Wells Fargo, Morgan Stanley, Netflix, UnitedHealthcare, Johnson & Johnson and CSX Corp are part of Zacks Earnings Preview",
+                "url": "https://finance.yahoo.com/news/jpmorgan-wells-fargo-morgan-stanley-072200566.html"
+            },
+            {
+                "headline": "JPMorgan, Wells Fargo, Morgan Stanley, Netflix, UnitedHealthcare, Johnson & Johnson and CSX Corp have been highlighted in this Earnings Preview article.",
+                "publication_date": "2025-04-14T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.25",
+                "source": "Zacks",
+                "ticker": "CSX",
+                "title": "JPMorgan, Wells Fargo, Morgan Stanley, Netflix, UnitedHealthcare, Johnson & Johnson and CSX Corp are part of Zacks Earnings Preview",
+                "url": "https://finance.yahoo.com/news/jpmorgan-wells-fargo-morgan-stanley-072200566.html"
+            },
+            {
                 "headline": "Let's talk about the popular CSX Corporation ( NASDAQ:CSX ). The company's shares received a lot of attention from a...",
                 "publication_date": "2025-04-14T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -157,7 +157,32 @@
                 "url": "https://finance.yahoo.com/news/us-28-01-time-put-130020950.html"
             }
         ],
-        "avgScore": 0.6124
+        "avgScore": 0.4312
+    },
+    "4 11 2025": {
+        "importantArticles": [
+            {
+                "headline": "As the Q4 earnings season wraps, let\u2019s dig into this quarter\u2019s best and worst performers in the transportation and logistics industry, including CSX (NASDAQ:CSX) and its peers.",
+                "publication_date": "2025-04-11T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0258",
+                "source": "StockStory",
+                "ticker": "CSX",
+                "title": "Transportation and Logistics Stocks Q4 In Review: CSX (NASDAQ:CSX) Vs Peers",
+                "url": "https://finance.yahoo.com/news/transportation-logistics-stocks-q4-review-090432860.html"
+            },
+            {
+                "headline": "As the Q4 earnings season wraps, let\u2019s dig into this quarter\u2019s best and worst performers in the transportation and logistics industry, including CSX (NASDAQ:CSX) and its peers.",
+                "publication_date": "2025-04-11T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0258",
+                "source": "StockStory",
+                "ticker": "CSX",
+                "title": "Transportation and Logistics Stocks Q4 In Review: CSX (NASDAQ:CSX) Vs Peers",
+                "url": "https://finance.yahoo.com/news/transportation-logistics-stocks-q4-review-090432860.html"
+            }
+        ],
+        "avgScore": 0.0258
     },
     "4 10 2025": {
         "importantArticles": [
@@ -474,12 +499,12 @@
         ],
         "avgScore": 0.4019
     },
-    "coef": -0.4100283364931818,
-    "avgCoef": 0.022423833299051454,
+    "coef": -0.3905683825942881,
+    "avgCoef": -0.028762850127460018,
     "similar": {
-        "UNH": 0.29722578103872566,
-        "NGD": 0.2112809768829496,
-        "IAG": 0.1880042590907602,
-        "HLN": 0.15681028765434274
+        "UNH": 0.3905683825942881,
+        "HTZ": 0.28297784701171064,
+        "IAG": 0.24023640136931684,
+        "NGD": 0.22844565774382888
     }
 }

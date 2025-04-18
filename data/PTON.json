@@ -184,11 +184,11 @@
         ],
         "avgScore": 0.6369
     },
-    "3 26 2025": {
+    "3 25 2025": {
         "importantArticles": [
             {
                 "headline": "A tsunami of government stimulus and a realization that the world wasn\u2019t ending were responsible for much of that.  Breakthroughs like AI, quantum computers and 3-D printing induce a fear of missing out, sending too many stocks rocketing higher.  Companies that sold in-demand physical goods during the emergency even cannibalized their own future demand.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
+                "publication_date": "2025-03-25T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.5719",
                 "source": "The Wall Street Journal",
@@ -198,7 +198,7 @@
             },
             {
                 "headline": "A tsunami of government stimulus and a realization that the world wasn\u2019t ending were responsible for much of that.  Breakthroughs like AI, quantum computers and 3-D printing induce a fear of missing out, sending too many stocks rocketing higher.  Companies that sold in-demand physical goods during the emergency even cannibalized their own future demand.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
+                "publication_date": "2025-03-25T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.5719",
                 "source": "The Wall Street Journal",
@@ -209,11 +209,11 @@
         ],
         "avgScore": -0.5719
     },
-    "3 25 2025": {
+    "3 24 2025": {
         "importantArticles": [
             {
                 "headline": "Peloton has had an impressive run over the past six months. While the S&P 500 has been flat, the stock has returned 38.7% and now trades at $7.17. This was partly thanks to its solid quarterly results, and the run-up might have investors contemplating their next move.",
-                "publication_date": "2025-03-25T00:00:00.000Z",
+                "publication_date": "2025-03-24T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.7584",
                 "source": "StockStory",
@@ -223,7 +223,7 @@
             },
             {
                 "headline": "Peloton has had an impressive run over the past six months. While the S&P 500 has been flat, the stock has returned 38.7% and now trades at $7.17. This was partly thanks to its solid quarterly results, and the run-up might have investors contemplating their next move.",
-                "publication_date": "2025-03-25T00:00:00.000Z",
+                "publication_date": "2025-03-24T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.7584",
                 "source": "StockStory",
@@ -259,12 +259,12 @@
         ],
         "avgScore": 0.7717
     },
-    "coef": -0.11904761904761905,
-    "avgCoef": 0.02127513683525746,
+    "coef": 0.04761904761904763,
+    "avgCoef": -0.01614978744339948,
     "similar": {
-        "UNH": 0.7619047619047621,
-        "BMY": 0.4523809523809524,
-        "CVS": 0.4523809523809524,
-        "WFC": 0.4285714285714286
+        "WFC": 0.5476190476190477,
+        "TSLA": 0.4523809523809524,
+        "SMCI": 0.4285714285714286,
+        "TSM": 0.4047619047619048
     }
 }

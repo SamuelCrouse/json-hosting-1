@@ -52,17 +52,17 @@
                 "url": "https://finance.yahoo.com/m/d3ce31cb-e338-37b2-917c-7c7d602991b0/alcoa-to-face-steep-costs.html"
             },
             {
-                "headline": "The headline numbers for Alcoa (AA) give insight into how the company performed in the quarter ended March 2025, but it may be worthwhile to compare some of its key metrics to Wall Street estimates and the year-ago actuals.",
+                "headline": "The tariffs, coupled with high duties on Chinese imports, are expected to increase Alcoa's annual costs by $10m\u201315m.",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.4767",
-                "source": "Zacks",
+                "sentimentScore": "0.3182",
+                "source": "Mining Technology",
                 "ticker": "AA",
-                "title": "Compared to Estimates, Alcoa (AA) Q1 Earnings: A Look at Key Metrics",
-                "url": "https://finance.yahoo.com/news/compared-estimates-alcoa-aa-q1-223003322.html"
+                "title": "Alcoa anticipates $90m impact from tariffs on Canadian aluminium imports in Q2",
+                "url": "https://finance.yahoo.com/news/alcoa-anticipates-90m-impact-tariffs-103514406.html"
             }
         ],
-        "avgScore": 0.3351
+        "avgScore": 0.3326857142857143
     },
     "4 10 2025": {
         "importantArticles": [
@@ -179,11 +179,11 @@
         ],
         "avgScore": 0.29295
     },
-    "4 2 2025": {
+    "4 1 2025": {
         "importantArticles": [
             {
                 "headline": "MADRID, April 01, 2025--Today, Alcoa Corporation (NYSE: AA, ASX: AAI) and IGNIS Equity Holdings, SL (IGNIS EQT), the majority shareholder in the IGNIS Group of Companies, a vertically integrated energy company based in Spain, announced they have entered into a joint venture agreement to support the continued operation of Alcoa\u2019s San Cipri\u00e1n complex.",
-                "publication_date": "2025-04-02T00:00:00.000Z",
+                "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.7906",
                 "source": "Business Wire",
@@ -193,7 +193,7 @@
             },
             {
                 "headline": "MADRID, April 01, 2025--Today, Alcoa Corporation (NYSE: AA, ASX: AAI) and IGNIS Equity Holdings, SL (IGNIS EQT), the majority shareholder in the IGNIS Group of Companies, a vertically integrated energy company based in Spain, announced they have entered into a joint venture agreement to support the continued operation of Alcoa\u2019s San Cipri\u00e1n complex.",
-                "publication_date": "2025-04-02T00:00:00.000Z",
+                "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.7906",
                 "source": "Business Wire",
@@ -299,12 +299,12 @@
         ],
         "avgScore": 0.8555
     },
-    "coef": -0.11904761904761905,
-    "avgCoef": 0.01599958702819119,
+    "coef": 0.28571428571428575,
+    "avgCoef": -0.0267509232826984,
     "similar": {
-        "INTC": 0.7380952380952381,
-        "ABEV": 0.6666666666666669,
-        "ITUB": 0.5952380952380953,
-        "ACHR": 0.5952380952380953
+        "AAL": 0.8095238095238096,
+        "RIOT": 0.7857142857142858,
+        "WBD": 0.7619047619047621,
+        "INFY": 0.7619047619047621
     }
 }

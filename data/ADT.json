@@ -199,11 +199,11 @@
         ],
         "avgScore": 0.9081
     },
-    "3 21 2025": {
+    "3 20 2025": {
         "importantArticles": [
             {
                 "headline": "ADT has had an impressive run over the past six months. While the S&P 500 has been flat, the stock has returned 9.2% and now trades at $7.92. This was partly thanks to its solid quarterly results, and the performance may have investors wondering how to approach the situation.",
-                "publication_date": "2025-03-21T00:00:00.000Z",
+                "publication_date": "2025-03-20T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.7584",
                 "source": "StockStory",
@@ -213,7 +213,7 @@
             },
             {
                 "headline": "ADT has had an impressive run over the past six months. While the S&P 500 has been flat, the stock has returned 9.2% and now trades at $7.92. This was partly thanks to its solid quarterly results, and the performance may have investors wondering how to approach the situation.",
-                "publication_date": "2025-03-21T00:00:00.000Z",
+                "publication_date": "2025-03-20T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.7584",
                 "source": "StockStory",
@@ -224,12 +224,12 @@
         ],
         "avgScore": 0.7584
     },
-    "coef": 0.4100454302903043,
-    "avgCoef": 0.04074796225452788,
+    "coef": 0.38494060802763264,
+    "avgCoef": -0.02862282393413943,
     "similar": {
-        "CVS": 0.7866177642303797,
-        "XOM": 0.7447763937925935,
-        "GPN": 0.7364081197050363,
-        "CSCO": 0.728039845617479
+        "GPN": 0.7447763937925935,
+        "GRAB": 0.7447763937925935,
+        "SNAP": 0.6276205565667923,
+        "CSCO": 0.6108840083916779
     }
 }

@@ -12,6 +12,16 @@
                 "url": "https://finance.yahoo.com/news/pipeline-operator-kinder-morgan-misses-201127829.html"
             },
             {
+                "headline": "Kinder Morgan Inc (KMI) reports record natural gas demand and a robust project backlog, while addressing challenges in net income and gathering volumes.",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7845",
+                "source": "GuruFocus.com",
+                "ticker": "KMI",
+                "title": "Kinder Morgan Inc (KMI) Q1 2025 Earnings Call Highlights: Navigating Growth Amid Market Volatility",
+                "url": "https://finance.yahoo.com/news/kinder-morgan-inc-kmi-q1-070229387.html"
+            },
+            {
                 "headline": "HOUSTON, April 16, 2025--Kinder Morgan, Inc.\u2019s (NYSE: KMI) board of directors today approved a cash dividend of $0.2925 per share for the first quarter ($1.17 annualized), payable on May 15, 2025 to stockholders of record as of the close of business on April 30, 2025. This dividend is a 2% increase over the first quarter of 2024.",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -20,16 +30,6 @@
                 "ticker": "KMI",
                 "title": "Kinder Morgan Reports First Quarter 2025 Financial Results",
                 "url": "https://finance.yahoo.com/news/kinder-morgan-reports-first-quarter-200500460.html"
-            },
-            {
-                "headline": "VG's Calcasieu Pass LNG export facility consists of mid-scale, modular liquefaction trains and supporting infrastructure to process natural gas for transportation.",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6597",
-                "source": "Zacks",
-                "ticker": "KMI",
-                "title": "Venture Global's Calcasieu Pass Facility Enters Commercial Operations",
-                "url": "https://finance.yahoo.com/news/venture-globals-calcasieu-pass-facility-170600780.html"
             },
             {
                 "headline": "BP, together with its partner CVX, operates the Far South field, situated 4 miles toward the north of the Constellation field.",
@@ -52,8 +52,53 @@
                 "url": "https://finance.yahoo.com/news/exxonmobil-begins-installing-fourth-fpso-120500291.html"
             },
             {
-                "headline": "Enstor has accepted the FERC certificate, marking a significant milestone for the Mississippi Hub Expansion Project, which is expected to be operational by 2028.",
+                "headline": "Kinder Morgan (KMI) delivered earnings and revenue surprises of -2.86% and 2.53%, respectively, for the quarter ended March 2025. Do the numbers hold clues to what lies ahead for the stock?",
                 "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5719",
+                "source": "Zacks",
+                "ticker": "KMI",
+                "title": "Kinder Morgan (KMI) Lags Q1 Earnings Estimates",
+                "url": "https://finance.yahoo.com/news/kinder-morgan-kmi-lags-q1-211502681.html"
+            }
+        ],
+        "avgScore": 0.5909000000000001
+    },
+    "4 16 2025": {
+        "importantArticles": [
+            {
+                "headline": "Enstor has accepted the FERC certificate, marking a significant milestone for the Mississippi Hub Expansion Project, which is expected to be operational by 2028.",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4404",
+                "source": "Offshore Technology",
+                "ticker": "KMI",
+                "title": "Enstor receives FERC approval for Mississippi Hub expansion",
+                "url": "https://finance.yahoo.com/news/enstor-receives-ferc-approval-mississippi-092933395.html"
+            },
+            {
+                "headline": "XOM's preliminary assessments indicate that the gas reserves at the Elektra-1 prospect are commercially infeasible for development.",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.296",
+                "source": "Zacks",
+                "ticker": "KMI",
+                "title": "ExxonMobil Deems Gas Find at Elektra-1 Well Commercially Unviable",
+                "url": "https://finance.yahoo.com/news/exxonmobil-deems-gas-elektra-1-165800026.html"
+            },
+            {
+                "headline": "XOM's preliminary assessments indicate that the gas reserves at the Elektra-1 prospect are commercially infeasible for development.",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.296",
+                "source": "Zacks",
+                "ticker": "KMI",
+                "title": "ExxonMobil Deems Gas Find at Elektra-1 Well Commercially Unviable",
+                "url": "https://finance.yahoo.com/news/exxonmobil-deems-gas-elektra-1-165800026.html"
+            },
+            {
+                "headline": "Enstor has accepted the FERC certificate, marking a significant milestone for the Mississippi Hub Expansion Project, which is expected to be operational by 2028.",
+                "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.4404",
                 "source": "Offshore Technology",
@@ -62,52 +107,7 @@
                 "url": "https://finance.yahoo.com/news/enstor-receives-ferc-approval-mississippi-092933395.html"
             }
         ],
-        "avgScore": 0.5478875
-    },
-    "4 16 2025": {
-        "importantArticles": [
-            {
-                "headline": "XOM's preliminary assessments indicate that the gas reserves at the Elektra-1 prospect are commercially infeasible for development.",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.296",
-                "source": "Zacks",
-                "ticker": "KMI",
-                "title": "ExxonMobil Deems Gas Find at Elektra-1 Well Commercially Unviable",
-                "url": "https://finance.yahoo.com/news/exxonmobil-deems-gas-elektra-1-165800026.html"
-            },
-            {
-                "headline": "BP expects weak gas trading and a $4B rise in debt in Q1. Refining margins and oil output offer partial support amid its shift to fossil fuels.",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.4019",
-                "source": "Zacks",
-                "ticker": "KMI",
-                "title": "BP Expects Lower Gas Output & Higher Debt in Q1 Amid Strategy Shift",
-                "url": "https://finance.yahoo.com/news/bp-expects-lower-gas-output-095700529.html"
-            },
-            {
-                "headline": "BP expects weak gas trading and a $4B rise in debt in Q1. Refining margins and oil output offer partial support amid its shift to fossil fuels.",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.4019",
-                "source": "Zacks",
-                "ticker": "KMI",
-                "title": "BP Expects Lower Gas Output & Higher Debt in Q1 Amid Strategy Shift",
-                "url": "https://finance.yahoo.com/news/bp-expects-lower-gas-output-095700529.html"
-            },
-            {
-                "headline": "XOM's preliminary assessments indicate that the gas reserves at the Elektra-1 prospect are commercially infeasible for development.",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.296",
-                "source": "Zacks",
-                "ticker": "KMI",
-                "title": "ExxonMobil Deems Gas Find at Elektra-1 Well Commercially Unviable",
-                "url": "https://finance.yahoo.com/news/exxonmobil-deems-gas-elektra-1-165800026.html"
-            }
-        ],
-        "avgScore": -0.05295
+        "avgScore": 0.36819999999999997
     },
     "4 15 2025": {
         "importantArticles": [
@@ -152,6 +152,16 @@
                 "url": "https://finance.yahoo.com/news/kinder-morgan-poised-beat-first-141000765.html"
             },
             {
+                "headline": "BP expects weak gas trading and a $4B rise in debt in Q1. Refining margins and oil output offer partial support amid its shift to fossil fuels.",
+                "publication_date": "2025-04-15T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.4019",
+                "source": "Zacks",
+                "ticker": "KMI",
+                "title": "BP Expects Lower Gas Output & Higher Debt in Q1 Amid Strategy Shift",
+                "url": "https://finance.yahoo.com/news/bp-expects-lower-gas-output-095700529.html"
+            },
+            {
                 "headline": "EC mentions that if oil prices continue to slip, it may have to cease production in some fields and focus on assets having lower costs.",
                 "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -160,19 +170,9 @@
                 "ticker": "KMI",
                 "title": "Ecopetrol Warns of Significant Hit to Profits Amid Lower Oil Price",
                 "url": "https://finance.yahoo.com/news/ecopetrol-warns-significant-hit-profits-135400455.html"
-            },
-            {
-                "headline": "Enbridge will generate incremental cash flows from its huge backlog of secured and profitable midstream capital projects.",
-                "publication_date": "2025-04-15T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7845",
-                "source": "Zacks",
-                "ticker": "KMI",
-                "title": "ENB Valuation Remains Premium Amid Escalating Trade War: Buy the Stock?",
-                "url": "https://finance.yahoo.com/news/enb-valuation-remains-premium-amid-130100406.html"
             }
         ],
-        "avgScore": 0.2817199999999999
+        "avgScore": 0.16778333333333328
     },
     "4 14 2025": {
         "importantArticles": [
@@ -602,16 +602,6 @@
                 "url": "https://finance.yahoo.com/news/kinder-morgan-inc-kmi-trending-130010595.html"
             },
             {
-                "headline": "Many companies have de-emphasized paying dividends over the years.  Here are four top dividend stocks yielding around 4% these days that you can confidently buy for dividend income this April.  Agree Realty (NYSE: ADC) has a 4% dividend yield.",
-                "publication_date": "2025-04-02T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7506",
-                "source": "Motley Fool",
-                "ticker": "KMI",
-                "title": "4 Top Dividend Stocks Yielding Around 4% to Buy Without Hesitation in April",
-                "url": "https://finance.yahoo.com/news/4-top-dividend-stocks-yielding-084600541.html"
-            },
-            {
                 "headline": "Baidu and Canadian Solar are part of the Zacks Bull and Bear of the Day article.",
                 "publication_date": "2025-04-02T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -630,16 +620,6 @@
                 "ticker": "KMI",
                 "title": "Baidu and Canadian Solar have been highlighted as Zacks Bull and Bear of the Day",
                 "url": "https://finance.yahoo.com/news/baidu-canadian-solar-highlighted-zacks-140100083.html"
-            },
-            {
-                "headline": "Many companies have de-emphasized paying dividends over the years.  Here are four top dividend stocks yielding around 4% these days that you can confidently buy for dividend income this April.  Agree Realty (NYSE: ADC) has a 4% dividend yield.",
-                "publication_date": "2025-04-02T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7506",
-                "source": "Motley Fool",
-                "ticker": "KMI",
-                "title": "4 Top Dividend Stocks Yielding Around 4% to Buy Without Hesitation in April",
-                "url": "https://finance.yahoo.com/news/4-top-dividend-stocks-yielding-084600541.html"
             },
             {
                 "headline": "Kinder Morgan (KMI) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
@@ -652,11 +632,21 @@
                 "url": "https://finance.yahoo.com/news/kinder-morgan-inc-kmi-trending-130010595.html"
             }
         ],
-        "avgScore": 0.5227333333333334
+        "avgScore": 0.4088
     },
     "4 1 2025": {
         "importantArticles": [
             {
+                "headline": "Many companies have de-emphasized paying dividends over the years.  Here are four top dividend stocks yielding around 4% these days that you can confidently buy for dividend income this April.  Agree Realty (NYSE: ADC) has a 4% dividend yield.",
+                "publication_date": "2025-04-01T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7506",
+                "source": "Motley Fool",
+                "ticker": "KMI",
+                "title": "4 Top Dividend Stocks Yielding Around 4% to Buy Without Hesitation in April",
+                "url": "https://finance.yahoo.com/news/4-top-dividend-stocks-yielding-084600541.html"
+            },
+            {
                 "headline": "Due to the very nature of midstream business, Kinder Morgan, The Williams Companies and MPLX are less vulnerable to oil and gas price volatility.",
                 "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -695,9 +685,19 @@
                 "ticker": "KMI",
                 "title": "3 Midstream Stocks Poised to Withstand Energy Volatility",
                 "url": "https://finance.yahoo.com/news/3-midstream-stocks-poised-withstand-131000900.html"
+            },
+            {
+                "headline": "Many companies have de-emphasized paying dividends over the years.  Here are four top dividend stocks yielding around 4% these days that you can confidently buy for dividend income this April.  Agree Realty (NYSE: ADC) has a 4% dividend yield.",
+                "publication_date": "2025-04-01T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7506",
+                "source": "Motley Fool",
+                "ticker": "KMI",
+                "title": "4 Top Dividend Stocks Yielding Around 4% to Buy Without Hesitation in April",
+                "url": "https://finance.yahoo.com/news/4-top-dividend-stocks-yielding-084600541.html"
             }
         ],
-        "avgScore": 0.3493
+        "avgScore": 0.4830666666666667
     },
     "3 28 2025": {
         "importantArticles": [
@@ -859,31 +859,6 @@
         ],
         "avgScore": 0.47065
     },
-    "3 21 2025": {
-        "importantArticles": [
-            {
-                "headline": "Enbridge, Kinder Morgan, Williams and MPLX have been highlighted in this Industry Outlook article.",
-                "publication_date": "2025-03-21T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4939",
-                "source": "Zacks",
-                "ticker": "KMI",
-                "title": "Zacks Industry Outlook Highlights Enbridge, Kinder Morgan, Williams and MPLX",
-                "url": "https://finance.yahoo.com/news/zacks-industry-outlook-highlights-enbridge-090000647.html"
-            },
-            {
-                "headline": "Enbridge, Kinder Morgan, Williams and MPLX have been highlighted in this Industry Outlook article.",
-                "publication_date": "2025-03-21T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4939",
-                "source": "Zacks",
-                "ticker": "KMI",
-                "title": "Zacks Industry Outlook Highlights Enbridge, Kinder Morgan, Williams and MPLX",
-                "url": "https://finance.yahoo.com/news/zacks-industry-outlook-highlights-enbridge-090000647.html"
-            }
-        ],
-        "avgScore": 0.4939
-    },
     "3 20 2025": {
         "importantArticles": [
             {
@@ -897,6 +872,16 @@
                 "url": "https://finance.yahoo.com/news/4-oil-gas-pipeline-stocks-163000511.html"
             },
             {
+                "headline": "Enbridge, Kinder Morgan, Williams and MPLX have been highlighted in this Industry Outlook article.",
+                "publication_date": "2025-03-20T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4939",
+                "source": "Zacks",
+                "ticker": "KMI",
+                "title": "Zacks Industry Outlook Highlights Enbridge, Kinder Morgan, Williams and MPLX",
+                "url": "https://finance.yahoo.com/news/zacks-industry-outlook-highlights-enbridge-090000647.html"
+            },
+            {
                 "headline": "In the latest trading session, Kinder Morgan (KMI) closed at $27.85, marking a +1.2% move from the previous day.",
                 "publication_date": "2025-03-20T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -915,6 +900,16 @@
                 "ticker": "KMI",
                 "title": "Kinder Morgan (KMI) Rises Higher Than Market: Key Facts",
                 "url": "https://finance.yahoo.com/news/kinder-morgan-kmi-rises-higher-215015856.html"
+            },
+            {
+                "headline": "Enbridge, Kinder Morgan, Williams and MPLX have been highlighted in this Industry Outlook article.",
+                "publication_date": "2025-03-20T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4939",
+                "source": "Zacks",
+                "ticker": "KMI",
+                "title": "Zacks Industry Outlook Highlights Enbridge, Kinder Morgan, Williams and MPLX",
+                "url": "https://finance.yahoo.com/news/zacks-industry-outlook-highlights-enbridge-090000647.html"
             },
             {
                 "headline": "Midstream players secure additional cashflows from their huge backlog of growth projects, which brightens the outlook for the Zacks Oil and Gas - Production and Pipelines industry. Some of the frontrunners in the industry are ENB, KMI, WMB & MPLX.",
@@ -927,7 +922,7 @@
                 "url": "https://finance.yahoo.com/news/4-oil-gas-pipeline-stocks-163000511.html"
             }
         ],
-        "avgScore": 0.66275
+        "avgScore": 0.6064666666666666
     },
     "3 19 2025": {
         "importantArticles": [
@@ -974,12 +969,12 @@
         ],
         "avgScore": 0.65575
     },
-    "coef": 0.0017543859649122807,
-    "avgCoef": 0.04710482443028511,
+    "coef": 0.19504643962848298,
+    "avgCoef": -0.0309941458322194,
     "similar": {
-        "UNH": 0.39649122807017545,
-        "BMY": 0.2,
-        "T": 0.10350877192982455,
-        "PFE": 0.08070175438596491
+        "BMY": 0.28998968008255926,
+        "UNH": 0.2672858617131063,
+        "TSM": 0.25902992776057787,
+        "PFE": 0.2507739938080495
     }
 }

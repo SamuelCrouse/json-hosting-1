@@ -310,27 +310,27 @@
                 "url": "https://finance.yahoo.com/news/morgan-stanley-leads-6-billion-170925702.html"
             },
             {
-                "headline": "Morgan Stanley (MS) is leading the financing of Clearlake Capital Group's multi-billion dollar deal",
-                "publication_date": "2025-03-25T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "MT Newswires",
-                "ticker": "DNB",
-                "title": "Market Chatter: Morgan Stanley Leads Financing of Clearlake's Bid to Take Dun & Bradstreet Private",
-                "url": "https://finance.yahoo.com/news/market-chatter-morgan-stanley-leads-183747635.html"
-            },
-            {
-                "headline": "(Bloomberg) -- Clearlake Capital Group has agreed to acquire Dun & Bradstreet Holdings Inc. in a deal that values one of Wall Street\u2019s oldest data and analytics providers at $4.1 billion.Most Read from BloombergThey Built a Secret Apartment in a Mall. Now the Mall Is Dying.Why Did the Government Declare War on My Adorable Tiny Truck?Chicago Transit Faces \u2018Doomsday Scenario,\u2019 Regional Agency SaysLA Faces $1 Billion Budget Hole, Warns of Thousands of LayoffsLibraries Warn They Could Be \u2018Cut off at",
+                "headline": "Cannae Holdings (CNNE) said Tuesday that it supports the sale of Dun & Bradstreet (DNB), its largest",
                 "publication_date": "2025-03-25T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.3182",
-                "source": "Bloomberg",
+                "sentimentScore": "0.3612",
+                "source": "MT Newswires",
                 "ticker": "DNB",
-                "title": "Clearlake Agrees to Buy Dun & Bradstreet for $4.1 Billion",
-                "url": "https://finance.yahoo.com/news/clearlake-agrees-deal-buy-dun-114929721.html"
+                "title": "Cannae Supports Dun & Bradstreet Sale",
+                "url": "https://finance.yahoo.com/news/cannae-supports-dun-bradstreet-sale-125016833.html"
+            },
+            {
+                "headline": "The end of an earnings season can be a great time to discover new stocks and assess how companies are handling the current business environment. Let\u2019s take a look at how Planet Labs (NYSE:PL) and the rest of the data & business process services stocks fared in Q4.",
+                "publication_date": "2025-03-25T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6249",
+                "source": "StockStory",
+                "ticker": "DNB",
+                "title": "Data & Business Process Services Stocks Q4 Teardown: Planet Labs (NYSE:PL) Vs The Rest",
+                "url": "https://finance.yahoo.com/news/data-business-process-services-stocks-090650925.html"
             }
         ],
-        "avgScore": 0.34485000000000005,
+        "avgScore": 0.437725,
         "pctChange": -0.0011173440329555753
     },
     "3 24 2025": {
@@ -376,6 +376,16 @@
                 "url": "https://finance.yahoo.com/news/top-midday-stories-dun-bradstreet-154428115.html"
             },
             {
+                "headline": "Morgan Stanley (MS) is leading the financing of Clearlake Capital Group's multi-billion dollar deal",
+                "publication_date": "2025-03-24T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "MT Newswires",
+                "ticker": "DNB",
+                "title": "Market Chatter: Morgan Stanley Leads Financing of Clearlake's Bid to Take Dun & Bradstreet Private",
+                "url": "https://finance.yahoo.com/news/market-chatter-morgan-stanley-leads-183747635.html"
+            },
+            {
                 "headline": "Dun & Bradstreet (DNB) agreed to be acquired by Clearlake Capital Group in a deal with a $7.7 billio",
                 "publication_date": "2025-03-24T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -384,23 +394,13 @@
                 "ticker": "DNB",
                 "title": "Dun & Bradstreet to Be Taken Private by Clearlake Capital in $7.7 Billion Deal",
                 "url": "https://finance.yahoo.com/news/dun-bradstreet-taken-private-clearlake-142437993.html"
-            },
-            {
-                "headline": "Dun & Bradstreet Holdings agreed to be acquired by private equity firm Clearlake Capital Group in a transaction valued at $7.7 billion, including outstanding debt.",
-                "publication_date": "2025-03-24T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7579",
-                "source": "The Wall Street Journal",
-                "ticker": "DNB",
-                "title": "Clearlake Capital Group to Acquire Dun & Bradstreet in $7.7 Billion Deal",
-                "url": "https://finance.yahoo.com/m/7f961f78-71cd-3fde-8f3c-56016fb8eea2/clearlake-capital-group-to.html"
             }
         ],
-        "avgScore": 0.5726600000000001,
+        "avgScore": 0.4772166666666667,
         "pctChange": -0.0044493840791335415
     },
     "coef": -0.2378092989944506,
-    "avgCoef": -0.026468706330972612,
+    "avgCoef": -0.005544490758497272,
     "similar": {
         "PDD": 0.45122790065613705,
         "GOLD": 0.37805580865784455,

@@ -23,7 +23,7 @@
             }
         ],
         "avgScore": 0.9509,
-        "pctChange": 0.0006015836960489769
+        "pctChange": -0.0018050953748863711
     },
     "4 22 2025": {
         "importantArticles": [
@@ -69,10 +69,20 @@
             }
         ],
         "avgScore": 0.6979,
-        "pctChange": -0.01364184111854341
+        "pctChange": -0.016014261446580212
     },
     "4 17 2025": {
         "importantArticles": [
+            {
+                "headline": "Ericsson (ERIC) is well positioned to outperform the market, as it exhibits above-average growth in financials.",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5719",
+                "source": "Zacks",
+                "ticker": "ERIC",
+                "title": "Here is Why Growth Investors Should Buy Ericsson (ERIC) Now",
+                "url": "https://finance.yahoo.com/news/why-growth-investors-buy-ericsson-164505756.html"
+            },
             {
                 "headline": "As European markets face heightened volatility due to escalating trade tensions, the pan-European STOXX Europe 600 Index recently ended lower, reflecting investor concerns over global economic growth. In this uncertain environment, identifying stocks that are trading at significant discounts can present potential opportunities for investors seeking value.",
                 "publication_date": "2025-04-17T00:00:00.000Z",
@@ -92,16 +102,6 @@
                 "ticker": "ERIC",
                 "title": "Exploring Three High Growth Tech Stocks In Europe",
                 "url": "https://finance.yahoo.com/news/exploring-three-high-growth-tech-053758170.html"
-            },
-            {
-                "headline": "Ericsson reports robust gross and EBITA margins, while navigating regional sales declines and competitive pressures.",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.3182",
-                "source": "GuruFocus.com",
-                "ticker": "ERIC",
-                "title": "Telefonaktiebolaget L M Ericsson (ERIC) Q1 2025 Earnings Call Highlights: Strong Margins Amid ...",
-                "url": "https://finance.yahoo.com/news/telefonaktiebolaget-l-m-ericsson-eric-010027888.html"
             },
             {
                 "headline": "Ericsson reports robust gross and EBITA margins, while navigating regional sales declines and competitive pressures.",
@@ -134,22 +134,12 @@
                 "url": "https://finance.yahoo.com/news/3-european-stocks-estimated-trading-053750392.html"
             }
         ],
-        "avgScore": -0.05103333333333334,
+        "avgScore": 0.10469999999999997,
         "pctChange": -0.0024480364231213607
     },
     "4 16 2025": {
         "importantArticles": [
             {
-                "headline": "Ericsson (NASDAQ: ERIC) reported first-quarter fiscal 2025 results on Tuesday. The stock price gained after the print. The Swedish telecom equipment maker\u2019s sales grew 3% year-over-year to 55.0 billion Swedish Krona ($5.15 billion), driven by 20% growth in the Americas market. The revenue beat the consensus of $5.10 billion. Organic sales were stable, with strong growth in the Americas market offset by declines in other market areas. Also Read: Ericsson Accelerates 5G Growth in India with Bharti",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.9313",
-                "source": "Benzinga",
-                "ticker": "ERIC",
-                "title": "Ericsson's US Clients Accelerate Purchases In Q1 Ahead of Tariffs, Eyes Solid Q2 Despite Global Uncertainty",
-                "url": "https://finance.yahoo.com/news/ericssons-us-clients-accelerate-purchases-185459009.html"
-            },
-            {
                 "headline": "Ericsson (ERIC) might move higher on growing optimism about its earnings prospects, which is reflected by its upgrade to a Zacks Rank #2 (Buy).",
                 "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -168,16 +158,6 @@
                 "ticker": "ERIC",
                 "title": "Why Telefonaktiebolaget LM Ericsson (ERIC) Skyrocketed On Tuesday?",
                 "url": "https://finance.yahoo.com/news/why-telefonaktiebolaget-lm-ericsson-eric-104533084.html"
-            },
-            {
-                "headline": "U.S.-traded shares of Ericsson jumped Tuesday after the Swedish telecommunications firm reported first-quarter profit that topped analysts\u2019 expectations.",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6249",
-                "source": "Investopedia",
-                "ticker": "ERIC",
-                "title": "Ericsson Stock Surges as North American Sales Jump Amid Tariff Worries",
-                "url": "https://finance.yahoo.com/news/ericsson-stock-surges-north-american-164846696.html"
             },
             {
                 "headline": "We recently published a list of 10 Firms End Stronger on Tuesday. In this article, we are going to take a look at where Telefonaktiebolaget LM Ericsson (NASDAQ:ERIC) stands against other firms that end stronger on Tuesday. A muted trading persisted on the stock market on Tuesday, with major indices ending in the red, recording [\u2026]",
@@ -200,7 +180,7 @@
                 "url": "https://finance.yahoo.com/news/know-ericsson-eric-rating-upgrade-160009841.html"
             }
         ],
-        "avgScore": 0.7359250000000002,
+        "avgScore": 0.6937500000000001,
         "pctChange": 0.02896725660150713
     },
     "4 15 2025": {
@@ -216,24 +196,24 @@
                 "url": "https://finance.yahoo.com/news/ericsson-bell-canada-successfully-test-120000240.html"
             },
             {
-                "headline": "ERIC reports mixed first-quarter 2025 results, driven by solid demand in the Networks Segment along with multiple deal wins.",
+                "headline": "Ericsson (NASDAQ: ERIC) reported first-quarter fiscal 2025 results on Tuesday. The stock price gained after the print. The Swedish telecom equipment maker\u2019s sales grew 3% year-over-year to 55.0 billion Swedish Krona ($5.15 billion), driven by 20% growth in the Americas market. The revenue beat the consensus of $5.10 billion. Organic sales were stable, with strong growth in the Americas market offset by declines in other market areas. Also Read: Ericsson Accelerates 5G Growth in India with Bharti",
                 "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.5859",
-                "source": "Zacks",
+                "sentimentScore": "0.9313",
+                "source": "Benzinga",
                 "ticker": "ERIC",
-                "title": "Ericsson Q1 Earnings Beat Estimates on Higher Revenues",
-                "url": "https://finance.yahoo.com/news/ericsson-q1-earnings-beat-estimates-150200012.html"
+                "title": "Ericsson's US Clients Accelerate Purchases In Q1 Ahead of Tariffs, Eyes Solid Q2 Despite Global Uncertainty",
+                "url": "https://finance.yahoo.com/news/ericssons-us-clients-accelerate-purchases-185459009.html"
             },
             {
-                "headline": "Ericsson Private 5G boosts mining fleet efficiency and uptime, surpassing Wi-Fi's capacity and reliability limits.",
+                "headline": "U.S.-traded shares of Ericsson jumped Tuesday after the Swedish telecommunications firm reported first-quarter profit that topped analysts\u2019 expectations.",
                 "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.5859",
-                "source": "Mining Technology",
+                "sentimentScore": "0.6249",
+                "source": "Investopedia",
                 "ticker": "ERIC",
-                "title": "Newmont deploys Ericsson Private 5G at Australia\u2019s Cadia mine for smarter mining",
-                "url": "https://finance.yahoo.com/news/newmont-deploys-ericsson-private-5g-094728229.html"
+                "title": "Ericsson Stock Surges as North American Sales Jump Amid Tariff Worries",
+                "url": "https://finance.yahoo.com/news/ericsson-stock-surges-north-american-164846696.html"
             },
             {
                 "headline": "(Reuters) -Ericsson's first-quarter core earnings trounced analysts' expectations on Tuesday as North American telecom customers placed more orders for its gear ahead of the impact of potential U.S. tariffs.  Adjusted operating earnings excluding restructuring charges rose 44% year-on-year to 6.2 billion Swedish crowns ($636 million), a nearly 40% beat to the average estimate of 4.44 billion crowns in an LSEG poll of analysts.  However, if faced with price increases related to tariffs, telecoms providers might hold off from buying new gear so that they can avoid passing on the costs\u00a0to\u00a0end\u00a0users.",
@@ -266,7 +246,7 @@
                 "url": "https://finance.yahoo.com/news/newmont-deploys-ericsson-private-5g-094728229.html"
             }
         ],
-        "avgScore": 0.32459999999999994,
+        "avgScore": 0.45417142857142856,
         "pctChange": -0.01610900155140482
     },
     "4 14 2025": {
@@ -451,11 +431,11 @@
         "avgScore": 0.7351,
         "pctChange": 0.003865944856487996
     },
-    "3 26 2025": {
+    "3 25 2025": {
         "importantArticles": [
             {
                 "headline": "Telefonaktiebolaget LM Ericsson (NASDAQ: ERIC) (the \"Company\") held its Annual General Meeting (\"AGM\") today on March 25, 2025 in Kista, Stockholm. Shareholders were also able to exercise their voting rights by post before the meeting.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
+                "publication_date": "2025-03-25T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
                 "source": "PR Newswire",
@@ -465,7 +445,7 @@
             },
             {
                 "headline": "Telefonaktiebolaget LM Ericsson (NASDAQ: ERIC) (the \"Company\") held its Annual General Meeting (\"AGM\") today on March 25, 2025 in Kista, Stockholm. Shareholders were also able to exercise their voting rights by post before the meeting.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
+                "publication_date": "2025-03-25T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
                 "source": "PR Newswire",
@@ -475,14 +455,14 @@
             }
         ],
         "avgScore": 0.0,
-        "pctChange": -0.023481135281234997
+        "pctChange": -0.007281553112570786
     },
-    "coef": 0.4530455884900605,
-    "avgCoef": -0.023666567474425856,
+    "coef": 0.23204774044612855,
+    "avgCoef": -0.0018712654946044449,
     "similar": {
-        "OKLO": 0.6961432213383856,
-        "WFC": 0.6132690283219112,
-        "SMCI": 0.6022191359197144,
-        "RKLB": 0.5856442973164196
+        "DJT": 0.8011171991592532,
+        "OKLO": 0.6795683827350907,
+        "SMCI": 0.6132690283219112,
+        "MRVL": 0.5690694587131248
     }
 }

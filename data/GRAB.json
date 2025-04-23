@@ -23,7 +23,7 @@
             }
         ],
         "avgScore": 0.9052,
-        "pctChange": -0.001113505091006872
+        "pctChange": -0.02783964507171249
     },
     "4 21 2025": {
         "importantArticles": [
@@ -77,11 +77,11 @@
         "avgScore": -0.2263,
         "pctChange": -0.004926103745908273
     },
-    "3 27 2025": {
+    "3 26 2025": {
         "importantArticles": [
             {
                 "headline": "With Q4 results in hand, I revisit my investment thesis on Grab, examining its ecosystem expansion, financial discipline, and long-term growth potential.",
-                "publication_date": "2025-03-27T00:00:00.000Z",
+                "publication_date": "2025-03-26T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.7003",
                 "source": "GuruFocus.com",
@@ -91,7 +91,7 @@
             },
             {
                 "headline": "With Q4 results in hand, I revisit my investment thesis on Grab, examining its ecosystem expansion, financial discipline, and long-term growth potential.",
-                "publication_date": "2025-03-27T00:00:00.000Z",
+                "publication_date": "2025-03-26T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.7003",
                 "source": "GuruFocus.com",
@@ -101,7 +101,7 @@
             }
         ],
         "avgScore": 0.7003,
-        "pctChange": -0.0479166687362723
+        "pctChange": 0.004184096244488566
     },
     "3 25 2025": {
         "importantArticles": [
@@ -129,12 +129,12 @@
         "avgScore": 0.9118,
         "pctChange": 0.05286349118323886
     },
-    "coef": 0.7999999999999999,
-    "avgCoef": -0.03825705146472789,
+    "coef": 0.39999999999999997,
+    "avgCoef": -0.02664975754464896,
     "similar": {
-        "PBR": 0.8999999999999998,
+        "WBD": 0.8999999999999998,
         "CSCO": 0.8999999999999998,
-        "WBD": 0.7999999999999999,
-        "GRAB": 0.7999999999999999
+        "AAL": 0.7,
+        "CMCSA": 0.7
     }
 }

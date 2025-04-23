@@ -1,4 +1,30 @@
 {
+    "4 11 2025": {
+        "importantArticles": [
+            {
+                "headline": "We recently published a list of 10 Firms Buck Thursday\u2019s Market Bloodbath. In this article, we are going to take a look at where IAMGOLD Corporation (NYSE:IAG) stands against other Thursday\u2019s best performers. Investors sold off positions on Thursday, sending the stock market tumbling anew following President Donald Trump\u2019s announcement that he had actually raised [\u2026]",
+                "publication_date": "2025-04-11T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6369",
+                "source": "Insider Monkey",
+                "ticker": "IAG",
+                "title": "Why IAMGOLD Corporation (IAG) Went Up On Thursday?",
+                "url": "https://finance.yahoo.com/news/why-iamgold-corporation-iag-went-104648087.html"
+            },
+            {
+                "headline": "We recently published a list of 10 Firms Buck Thursday\u2019s Market Bloodbath. In this article, we are going to take a look at where IAMGOLD Corporation (NYSE:IAG) stands against other Thursday\u2019s best performers. Investors sold off positions on Thursday, sending the stock market tumbling anew following President Donald Trump\u2019s announcement that he had actually raised [\u2026]",
+                "publication_date": "2025-04-11T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6369",
+                "source": "Insider Monkey",
+                "ticker": "IAG",
+                "title": "Why IAMGOLD Corporation (IAG) Went Up On Thursday?",
+                "url": "https://finance.yahoo.com/news/why-iamgold-corporation-iag-went-104648087.html"
+            }
+        ],
+        "avgScore": 0.6369,
+        "pctChange": 0.009695314916279082
+    },
     "4 10 2025": {
         "importantArticles": [
             {
@@ -195,12 +221,12 @@
         "avgScore": 0.0,
         "pctChange": 0.011589432467463363
     },
-    "coef": 0.6,
-    "avgCoef": -0.009549202803106857,
+    "coef": 0.3214285714285715,
+    "avgCoef": -0.011608815704906099,
     "similar": {
-        "KGC": 0.6571428571428573,
-        "RGTI": 0.6571428571428573,
-        "HTZ": 0.6,
-        "HL": 0.6
+        "CCL": 0.5714285714285715,
+        "RGTI": 0.5714285714285715,
+        "PLTR": 0.5357142857142858,
+        "BTG": 0.5
     }
 }

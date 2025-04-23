@@ -25,11 +25,11 @@
         "avgScore": -0.3089,
         "pctChange": 0.004566205571678748
     },
-    "3 27 2025": {
+    "3 26 2025": {
         "importantArticles": [
             {
                 "headline": "We recently published a list of Pulse of The Market: Tuesday\u2019s 10 Top Performers. In this article, we are going to take a look at where Banco Bradesco SA (NYSE:BBD) stands against other Tuesday\u2019s top performers. A lackluster trading persisted on the stock market on Tuesday, with all major indices finishing in the green territory, [\u2026]",
-                "publication_date": "2025-03-27T00:00:00.000Z",
+                "publication_date": "2025-03-26T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.3818",
                 "source": "Insider Monkey",
@@ -39,7 +39,7 @@
             },
             {
                 "headline": "We recently published a list of Pulse of The Market: Tuesday\u2019s 10 Top Performers. In this article, we are going to take a look at where Banco Bradesco SA (NYSE:BBD) stands against other Tuesday\u2019s top performers. A lackluster trading persisted on the stock market on Tuesday, with all major indices finishing in the green territory, [\u2026]",
-                "publication_date": "2025-03-27T00:00:00.000Z",
+                "publication_date": "2025-03-26T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.3818",
                 "source": "Insider Monkey",
@@ -49,14 +49,14 @@
             }
         ],
         "avgScore": 0.3818,
-        "pctChange": -0.008733579494965319
+        "pctChange": -0.012931020483553638
     },
     "coef": -0.9999999999999999,
-    "avgCoef": 0.03612050473856088,
+    "avgCoef": -0.027682603934384452,
     "similar": {
-        "AVGO": 0.9999999999999999,
-        "HLN": 0.9999999999999999,
-        "RXRX": 0.9999999999999999,
-        "SPY": -0.9999999999999999
+        "TSLA": 0.9999999999999999,
+        "PSLV": 0.9999999999999999,
+        "LCID": 0.9999999999999999,
+        "HTZ": 0.9999999999999999
     }
 }

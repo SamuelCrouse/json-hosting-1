@@ -52,18 +52,18 @@
                 "url": "https://finance.yahoo.com/news/ceo-gloom-rivals-financial-crisis-093000332.html"
             },
             {
-                "headline": "Bank of America topped the charts with advisory on four deals totalling $12.1bn.",
+                "headline": "NEW YORK (Reuters) -Bank of America shareholders voted on Tuesday to  approve pay packages for CEO Brian Moynihan and the lender's top executives, and also elected its 14 directors on the board.  Proxy adviser Institutional Shareholder Services had recommended that investors vote against the payouts, expressing concerns about the process used to set the compensation.  Moynihan earned $35 million for last year, an increase of roughly 21%.",
                 "publication_date": "2025-04-23T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "World Construction Network",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5423",
+                "source": "Reuters",
                 "ticker": "BAC",
-                "title": "Bank of America leads M&A financial adviser rankings for construction in Q1 2025",
-                "url": "https://finance.yahoo.com/news/bank-america-leads-m-financial-151239128.html"
+                "title": "Bank of America's shareholders OK executive compensations, elect directors",
+                "url": "https://finance.yahoo.com/news/bank-americas-shareholders-ok-executive-161238681.html"
             }
         ],
-        "avgScore": 0.09533333333333328,
-        "pctChange": 0.0038066623658345616
+        "avgScore": 0.11439999999999995,
+        "pctChange": -0.009516559107141059
     },
     "4 22 2025": {
         "importantArticles": [
@@ -108,6 +108,16 @@
                 "url": "https://finance.yahoo.com/news/trump-push-against-powell-latest-075114977.html"
             },
             {
+                "headline": "Bank of America topped the charts with advisory on four deals totalling $12.1bn.",
+                "publication_date": "2025-04-22T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "World Construction Network",
+                "ticker": "BAC",
+                "title": "Bank of America leads M&A financial adviser rankings for construction in Q1 2025",
+                "url": "https://finance.yahoo.com/news/bank-america-leads-m-financial-151239128.html"
+            },
+            {
                 "headline": "Many investors vividly remember some of the darkest days of the Great Recession.  While JPMorgan Chase's Chief Executive Officer Jamie Dimon grabs a lot of the headlines in bank land, Bank of America CEO Brian Moynihan was also around during the Great Recession and saw what it did to the industry.  Moynihan became CEO in 2010, and many have lauded him for his conservative growth strategy.",
                 "publication_date": "2025-04-22T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -116,20 +126,10 @@
                 "ticker": "BAC",
                 "title": "Bank of America Is Much Better Prepared for a Disaster Than Before the Great Recession. Here's Why",
                 "url": "https://finance.yahoo.com/news/bank-america-much-better-prepared-100000600.html"
-            },
-            {
-                "headline": "Bank of America Corporation announced today that it will redeem on May 9, 2025 all \u20ac1,250,000,000 principal amount outstanding of its 0.808% Fixed/Floating Rate Senior Notes, due May 9, 2026 (ISIN: XS1991265478; Common Code: 199126547) (the \"Notes\").",
-                "publication_date": "2025-04-22T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6124",
-                "source": "PR Newswire",
-                "ticker": "BAC",
-                "title": "Bank of America Announces Redemption of \u20ac1.25 Billion of 0.808% Fixed/Floating Rate Senior Notes, Due May 9, 2026",
-                "url": "https://finance.yahoo.com/news/bank-america-announces-redemption-1-110000931.html"
             }
         ],
-        "avgScore": 0.5443166666666667,
-        "pctChange": 0.03222861743702912
+        "avgScore": 0.4665571428571429,
+        "pctChange": 0.018528159971999008
     },
     "4 21 2025": {
         "importantArticles": [
@@ -230,17 +230,17 @@
                 "url": "https://finance.yahoo.com/news/wall-street-12-favorite-stocks-181300686.html"
             },
             {
-                "headline": "Facing weak growth in lending, many large banks are making more loans through their trading desks to hedge funds, credit funds and other nonbank financial companies.",
+                "headline": "(Updates with Bank of America's response in the fourth paragraph.) Bank of America (BAC) and JPMo",
                 "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.3182",
-                "source": "The Wall Street Journal",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "MT Newswires",
                 "ticker": "BAC",
-                "title": "Today\u2019s Hot Banking Business Is Lending to Lenders",
-                "url": "https://finance.yahoo.com/m/e82f3672-1db8-3dfa-b0f6-65e27c93d4d2/today%E2%80%99s-hot-banking-business.html"
+                "title": "Update: Market Chatter: US House China Committee Asks US Banks to Drop Roles in CATL Listing",
+                "url": "https://finance.yahoo.com/news/market-chatter-us-house-china-152058713.html"
             }
         ],
-        "avgScore": 0.5196100000000001,
+        "avgScore": 0.4723727272727274,
         "pctChange": -0.013098147031954437
     },
     "4 16 2025": {
@@ -306,7 +306,7 @@
                 "url": "https://finance.yahoo.com/news/bank-america-bac-usual-fine-190126820.html"
             }
         ],
-        "avgScore": 0.19023103448275866,
+        "avgScore": 0.18871904761904765,
         "pctChange": 0.002142995243329236
     },
     "4 15 2025": {
@@ -372,7 +372,7 @@
                 "url": "https://finance.yahoo.com/video/futures-waver-china-halts-boeing-131220346.html"
             }
         ],
-        "avgScore": 0.25157142857142867,
+        "avgScore": 0.23882222222222227,
         "pctChange": -0.017372988108768774
     },
     "4 14 2025": {
@@ -444,6 +444,16 @@
     "4 11 2025": {
         "importantArticles": [
             {
+                "headline": "Dividends are one of the best benefits to being a shareholder, but finding a great dividend stock is no easy task. Does Bank of America (BAC) have what it takes? Let's find out.",
+                "publication_date": "2025-04-11T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9022",
+                "source": "Zacks",
+                "ticker": "BAC",
+                "title": "Bank of America (BAC) is a Top Dividend Stock Right Now: Should You Buy?",
+                "url": "https://finance.yahoo.com/news/bank-america-bac-top-dividend-154508901.html"
+            },
+            {
                 "headline": "We recently published a list of 11 Best Digital Payments Stocks to Buy According to Analysts. In this article, we are going to take a look at where Bank of America Corporation (NYSE:BAC) stands against other best digital payment stocks. Digital payment stocks are companies that specialize in designing, developing, or administering digital payment solutions. [\u2026]",
                 "publication_date": "2025-04-11T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -462,16 +472,6 @@
                 "ticker": "BAC",
                 "title": "Why Bank Stocks JPMorgan Chase, Bank of America, and Wells Fargo Are Falling Ahead of Earnings",
                 "url": "https://finance.yahoo.com/news/why-bank-stocks-jpmorgan-chase-201206095.html"
-            },
-            {
-                "headline": "Earnings mean less, and old outlooks mean nothing when tariff policy is all Wall Street cares about.",
-                "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4588",
-                "source": "Yahoo Finance",
-                "ticker": "BAC",
-                "title": "Tariff uncertainty muddies \u2014 and refocuses \u2014 earnings season: Morning Brief",
-                "url": "https://finance.yahoo.com/news/tariff-uncertainty-muddies--and-refocuses--earnings-season-morning-brief-100025876.html"
             },
             {
                 "headline": "(Bloomberg) -- Investors should sell any rallies in the S&P 500 Index until the Federal Reserve steps in and the US and China de-escalate the global trade war, according to Bank of America Corp.\u2019s Michael Hartnett.Most Read from BloombergMidtown Office Building Evacuated on Concerns of Wall CollapseThe Secret Formula for Faster TrainsIn Chicago, a Former Steel Mill Looks to Make a Quantum LeapNYC Tourist Helicopter Crashes in Hudson River, Killing SixInside the Quiet, Extravagant Expansion of th",
@@ -504,7 +504,7 @@
                 "url": "https://finance.yahoo.com/news/goldman-sachs-tsmc-asml-netflix-lvmh-and-sainsburys-stocks-to-watch-131111514.html"
             }
         ],
-        "avgScore": 0.05215000000000001,
+        "avgScore": 0.1735857142857143,
         "pctChange": 0.020027743831040428
     },
     "4 10 2025": {
@@ -754,6 +754,16 @@
     "4 4 2025": {
         "importantArticles": [
             {
+                "headline": "Banks are set to kick off first quarter earnings season next week. Bloomberg Intelligence director of research global strategy team Alison Williams joins Catalyst with host Madison Mills to discuss what investors can expect from bank earnings. To watch more expert insights and analysis on the latest market action, check out more Catalysts here.",
+                "publication_date": "2025-04-04T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4767",
+                "source": "Yahoo Finance Video",
+                "ticker": "BAC",
+                "title": "Banks to kick off earnings: 'Credit risk' will become key concern",
+                "url": "https://finance.yahoo.com/video/banks-kick-off-earnings-credit-152314153.html"
+            },
+            {
                 "headline": "Stocks of the biggest banks and private-equity firms plunged Thursday as concerns mounted about how Wall Street giants and their customers might be affected by heightened odds of a US recession.",
                 "publication_date": "2025-04-04T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -772,16 +782,6 @@
                 "ticker": "BAC",
                 "title": "Buffett\u2019s Berkshire weathers tariff-fueled stock-market selloff",
                 "url": "https://finance.yahoo.com/news/buffett-berkshire-weathers-tariff-fueled-212449465.html"
-            },
-            {
-                "headline": "(Bloomberg) -- Wall Street forecasters are turning ice cold on US equities, telling investors to refrain from buying the selloff as President Donald Trump\u2019s historic trade war raises the specter of recession.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Would \u2018Transportation Abun",
-                "publication_date": "2025-04-04T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.802",
-                "source": "Bloomberg",
-                "ticker": "BAC",
-                "title": "Wall Street Turns Icy on US Stocks as Tariffs Hit Markets Hard",
-                "url": "https://finance.yahoo.com/news/yardeni-says-us-stock-swoon-061327242.html"
             },
             {
                 "headline": "(Bloomberg) -- Wall Street forecasters are turning ice cold on US equities, telling investors to refrain from buying the selloff as President Donald Trump\u2019s historic trade war raises the specter of recession.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Would \u2018Transportation Abun",
@@ -814,7 +814,7 @@
                 "url": "https://finance.yahoo.com/news/stocks-of-wall-street-giants-plunge-as-trump-tariff-turmoil-roils-the-finance-world-190455146.html"
             }
         ],
-        "avgScore": -0.6427,
+        "avgScore": -0.36285,
         "pctChange": 0.03460315389724743
     },
     "4 3 2025": {
@@ -1070,26 +1070,6 @@
     "3 27 2025": {
         "importantArticles": [
             {
-                "headline": "We recently published a list of Diamond Hill Capital Stock Portfolio: Top 10 Stock Picks. In this article, we are going to take a look at where Bank of America Corporation (NYSE:BAC) stands against other top 10 stock picks of Diamond Hill Capital. Heather Brilliant, CFA, serves as CEO for Diamond Hill Capital and joined the firm [\u2026]",
-                "publication_date": "2025-03-27T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.9118",
-                "source": "Insider Monkey",
-                "ticker": "BAC",
-                "title": "Bank of America Corporation (NYSE:BAC): One of The Top 10 Stock Picks of Diamond Hill Capital",
-                "url": "https://finance.yahoo.com/news/bank-america-corporation-nyse-bac-150649542.html"
-            },
-            {
-                "headline": "Dividends are one of the best benefits to being a shareholder, but finding a great dividend stock is no easy task. Does Bank of America (BAC) have what it takes? Let's find out.",
-                "publication_date": "2025-03-27T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.9022",
-                "source": "Zacks",
-                "ticker": "BAC",
-                "title": "This is Why  Bank of America (BAC) is a Great Dividend Stock",
-                "url": "https://finance.yahoo.com/news/why-bank-america-bac-great-154511922.html"
-            },
-            {
                 "headline": "NEW YORK (Reuters) -Bank of America saw an 80% jump in mortgage applications between January and March as buyers were tempted by increasing home inventory and lower long-term bond yields, an executive said.  \"We're seeing a steady increase in home buying activity, and it's beyond what we would normally see from a seasonality perspective,\" Matt Vernon, head of consumer lending at the second-biggest U.S. bank, told Reuters.  \"We've seen an 80% increase in our applications from January to now, and normally we would see around the 60% increase.\"The drop last fall in U.S. 10-year bond yields, which is a benchmark for mortgage rates, encouraged more buyers to return to the market, he said.",
                 "publication_date": "2025-03-27T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -1098,6 +1078,26 @@
                 "ticker": "BAC",
                 "title": "Bank of America mortgage applications jumped 80% in Q1, executive says",
                 "url": "https://finance.yahoo.com/news/bank-america-mortgage-applications-jumped-103304913.html"
+            },
+            {
+                "headline": "Bank of America (BAC) concluded the recent trading session at $42.82, signifying a -1.06% move from its prior day's close.",
+                "publication_date": "2025-03-27T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "BAC",
+                "title": "Bank of America (BAC) Stock Moves -1.06%: What You Should Know",
+                "url": "https://finance.yahoo.com/news/bank-america-bac-stock-moves-214515649.html"
+            },
+            {
+                "headline": "Gold settled nearly 0.1% lower, down three of the past four sessions, and silver rose nearly 0.1%, up for a second consecutive session.",
+                "publication_date": "2025-03-27T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.296",
+                "source": "The Wall Street Journal",
+                "ticker": "BAC",
+                "title": "Comex Gold Settles 0.09% Lower at $3020.90",
+                "url": "https://finance.yahoo.com/m/38f64c7c-c2f5-3b37-ac1d-e97f15b4a3f2/comex-gold-settles-0-09-.html"
             },
             {
                 "headline": "Gold settled nearly 0.1% lower, down three of the past four sessions, and silver rose nearly 0.1%, up for a second consecutive session.",
@@ -1130,7 +1130,7 @@
                 "url": "https://finance.yahoo.com/news/bank-america-mortgage-applications-jumped-103304913.html"
             }
         ],
-        "avgScore": 0.3879,
+        "avgScore": 0.041833333333333333,
         "pctChange": -0.030780106461958927
     },
     "3 26 2025": {
@@ -1146,24 +1146,24 @@
                 "url": "https://finance.yahoo.com/news/2-no-brainer-dividend-stocks-090000189.html"
             },
             {
-                "headline": "NEW YORK (Reuters) -Wall Street banker bonuses rose 31.5% to an average $244,700 last year as dealmaking rebounded, but the boom times may wane as economic uncertainty rises, New York State Comptroller Thomas DiNapoli said on Wednesday.  Deals have slowed this quarter as companies navigate changing policies from President Donald Trump's administration, including tariffs and personnel changes atop regulatory agencies.  \"This financial market strength is good news for New York's economy and our fiscal position, which relies on the tax revenue it generates,\" DiNapoli said in a statement.",
+                "headline": "We recently published a list of Diamond Hill Capital Stock Portfolio: Top 10 Stock Picks. In this article, we are going to take a look at where Bank of America Corporation (NYSE:BAC) stands against other top 10 stock picks of Diamond Hill Capital. Heather Brilliant, CFA, serves as CEO for Diamond Hill Capital and joined the firm [\u2026]",
                 "publication_date": "2025-03-26T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.81",
-                "source": "Reuters",
+                "sentimentScore": "0.9118",
+                "source": "Insider Monkey",
                 "ticker": "BAC",
-                "title": "Wall Street bonuses jump 32% as total surges to record, NY comptroller says",
-                "url": "https://finance.yahoo.com/news/wall-street-bonuses-jump-32-090311966.html"
+                "title": "Bank of America Corporation (NYSE:BAC): One of The Top 10 Stock Picks of Diamond Hill Capital",
+                "url": "https://finance.yahoo.com/news/bank-america-corporation-nyse-bac-150649542.html"
             },
             {
-                "headline": "Bank of America Corporation announced today that it will redeem on April 2, 2025 all $500,000,000 principal amount outstanding of its Floating Rate Senior Notes, due April 2026 (CUSIP No. 06051GKN8) (the \"Floating Rate Notes\"), and all $3,000,000,000 principal amount outstanding of its 3.384% Fixed/Floating Rate Senior Notes, due April 2026 (CUSIP No. 06051GKM0) (the \"Fixed/Floating Rate Notes\" and, together with the Floating Rate Notes, the \"Notes\").",
+                "headline": "Dividends are one of the best benefits to being a shareholder, but finding a great dividend stock is no easy task. Does Bank of America (BAC) have what it takes? Let's find out.",
                 "publication_date": "2025-03-26T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.6808",
-                "source": "PR Newswire",
+                "sentimentScore": "0.9022",
+                "source": "Zacks",
                 "ticker": "BAC",
-                "title": "Bank of America Announces Redemptions of $500,000,000 Floating Rate Senior Notes and $3,000,000,000 3.384% Fixed/Floating Rate Senior Notes, Due April 2026",
-                "url": "https://finance.yahoo.com/news/bank-america-announces-redemptions-500-201500572.html"
+                "title": "This is Why  Bank of America (BAC) is a Great Dividend Stock",
+                "url": "https://finance.yahoo.com/news/why-bank-america-bac-great-154511922.html"
             },
             {
                 "headline": "U.S. investment banks are poised to cut more jobs if economic uncertainty continues to weigh on dealmaking in the months ahead, according to analysts and recruiters.  U.S. President Donald Trump's threats to impose tariffs on trading partners have roiled markets, weighed on capital markets activity and raised the risk of an economic slowdown.  Wall Street banks including JPMorgan and Bank of America have already begun annual culls targeting underperforming employees, while Goldman Sachs and Morgan Stanley are planning to lay off staff in the coming weeks.",
@@ -1176,16 +1176,6 @@
                 "url": "https://finance.yahoo.com/news/analysis-wall-street-job-cuts-100447824.html"
             },
             {
-                "headline": "(Bloomberg) -- BASF SE hired Bank of America Corp. and JPMorgan Chase & Co. to advise it on the potential sale of its coating business, according to people familiar with the matter.Most Read from BloombergThey Built a Secret Apartment in a Mall. Now the Mall Is Dying.Why Did the Government Declare War on My Adorable Tiny Truck?Trump Slashed International Aid. Geneva Is Feeling the Impact.Chicago Transit Faces \u2018Doomsday Scenario,\u2019 Regional Agency SaysParis Votes to Make 500 More Streets Car-FreeT",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.2732",
-                "source": "Bloomberg",
-                "ticker": "BAC",
-                "title": "BASF Hires BofA, JPMorgan to Advise on Sale of Coatings Business",
-                "url": "https://finance.yahoo.com/news/basf-hires-bofa-jpmorgan-advise-144850800.html"
-            },
-            {
                 "headline": "Bank of America (BAC) reachead $43.28 at the closing of the latest trading day, reflecting a +0.49% change compared to its last close.",
                 "publication_date": "2025-03-26T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -1194,9 +1184,19 @@
                 "ticker": "BAC",
                 "title": "Bank of America (BAC) Exceeds Market Returns: Some Facts to Consider",
                 "url": "https://finance.yahoo.com/news/bank-america-bac-exceeds-market-215016283.html"
+            },
+            {
+                "headline": "BofA now expects gold to trade at $3,063 per ounce (oz) in 2025 and $3,350/oz in 2026, it said in a note on Wednesday.  This is an increase from its previous forecasts of $2,750/oz for 2025 and $2,625/oz for 2026.  Spot gold is currently trading around $3,024/oz and has gained more than 15% so far this year.",
+                "publication_date": "2025-03-26T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5994",
+                "source": "Reuters",
+                "ticker": "BAC",
+                "title": "BofA raises gold price forecasts for 2025, 2026",
+                "url": "https://finance.yahoo.com/news/bofa-raises-gold-price-forecasts-134319961.html"
             }
         ],
-        "avgScore": 0.27968571428571426,
+        "avgScore": 0.5056250000000001,
         "pctChange": -0.006071889850214779
     },
     "3 25 2025": {
@@ -1222,6 +1222,26 @@
                 "url": "https://finance.yahoo.com/news/bank-america-nyse-bac-names-171405097.html"
             },
             {
+                "headline": "(Bloomberg) -- BASF SE hired Bank of America Corp. and JPMorgan Chase & Co. to advise it on the potential sale of its coating business, according to people familiar with the matter.Most Read from BloombergThey Built a Secret Apartment in a Mall. Now the Mall Is Dying.Why Did the Government Declare War on My Adorable Tiny Truck?Trump Slashed International Aid. Geneva Is Feeling the Impact.Chicago Transit Faces \u2018Doomsday Scenario,\u2019 Regional Agency SaysParis Votes to Make 500 More Streets Car-FreeT",
+                "publication_date": "2025-03-25T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.2732",
+                "source": "Bloomberg",
+                "ticker": "BAC",
+                "title": "BASF Hires BofA, JPMorgan to Advise on Sale of Coatings Business",
+                "url": "https://finance.yahoo.com/news/basf-hires-bofa-jpmorgan-advise-144850800.html"
+            },
+            {
+                "headline": "(Bloomberg) -- BASF SE hired Bank of America Corp. and JPMorgan Chase & Co. to advise it on the potential sale of its coating business, according to people familiar with the matter.Most Read from BloombergThey Built a Secret Apartment in a Mall. Now the Mall Is Dying.Why Did the Government Declare War on My Adorable Tiny Truck?Trump Slashed International Aid. Geneva Is Feeling the Impact.Chicago Transit Faces \u2018Doomsday Scenario,\u2019 Regional Agency SaysParis Votes to Make 500 More Streets Car-FreeT",
+                "publication_date": "2025-03-25T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.2732",
+                "source": "Bloomberg",
+                "ticker": "BAC",
+                "title": "BASF Hires BofA, JPMorgan to Advise on Sale of Coatings Business",
+                "url": "https://finance.yahoo.com/news/basf-hires-bofa-jpmorgan-advise-144850800.html"
+            },
+            {
                 "headline": "Bank of America (NYSE:BAC) experienced a price increase of 2.5% over the past week, a movement possibly influenced by the appointment of Vikram Sahu as the new country executive for its India business. As the S&P 500 and Nasdaq posted gains driven by positive market reactions to potential tariff revisions and stable Federal Reserve policy, Bank of America\u2019s upward movement aligns with broader market trends. Despite a flat market performance overall, the company's executive change may have...",
                 "publication_date": "2025-03-25T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -1242,7 +1262,7 @@
                 "url": "https://finance.yahoo.com/news/bank-america-bac-best-affordable-202200172.html"
             }
         ],
-        "avgScore": 0.8699,
+        "avgScore": 0.4888666666666667,
         "pctChange": -0.010628444950250282
     },
     "3 24 2025": {
@@ -1291,12 +1311,12 @@
         "avgScore": 0.0,
         "pctChange": 0.00487576238589786
     },
-    "coef": 0.06495340558362588,
-    "avgCoef": -0.03611364829474229,
+    "coef": 0.1282123744998528,
+    "avgCoef": -0.02222710465937273,
     "similar": {
-        "GRAB": 0.5331827380081984,
-        "PFE": 0.34961876570664707,
-        "AAL": 0.34001695792471975,
-        "CCL": 0.27506355234109386
+        "GRAB": 0.5365716113429962,
+        "NKE": 0.44055353352372323,
+        "CCL": 0.3756001279400974,
+        "NU": 0.3654335079357037
     }
 }

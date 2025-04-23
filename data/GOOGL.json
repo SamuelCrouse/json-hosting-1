@@ -62,8 +62,8 @@
                 "url": "https://finance.yahoo.com/news/google-opts-standalone-prompt-third-171850860.html"
             }
         ],
-        "avgScore": 0.20521785714285715,
-        "pctChange": 0.003309552005837975
+        "avgScore": 0.24230624999999992,
+        "pctChange": -0.0041770702007254915
     },
     "4 22 2025": {
         "importantArticles": [
@@ -128,8 +128,8 @@
                 "url": "https://finance.yahoo.com/m/02169725-77b8-3dd3-b254-6486d0c7700d/justice-department-urges.html"
             }
         ],
-        "avgScore": 0.12360465116279067,
-        "pctChange": 0.030732149876424662
+        "avgScore": 0.15283783783783783,
+        "pctChange": 0.023040902258123466
     },
     "4 21 2025": {
         "importantArticles": [
@@ -194,7 +194,7 @@
                 "url": "https://finance.yahoo.com/news/jim-cramer-questions-alphabet-inc-141153831.html"
             }
         ],
-        "avgScore": -0.05673684210526313,
+        "avgScore": -0.056719999999999965,
         "pctChange": 0.02573307441509094
     },
     "4 17 2025": {
@@ -230,37 +230,37 @@
                 "url": "https://finance.yahoo.com/news/alphabet-inc-goog-top-goldman-120011211.html"
             },
             {
-                "headline": "The landmark decision argues Google wields an illegal monopoly over publisher tools and ad exchanges but not display ad networks.",
+                "headline": "The major averages were broadly lower near noon, with the Nasdaq down over 300 points amid escalating trade tensions and new export restrictions.\u200b This follows the U.S. government\u2019s decision to tighten export controls on advanced AI-related computer chips.\u200b The recent U.S. actions have intensified concerns over a potential trade war. President Donald Trump has announced a new investigation into critical mineral imports and imposed steep tariffs on Chinese imports. In retaliation, China has incre",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.4497",
-                "source": "Marketing Dive",
+                "sentimentScore": "-0.8555",
+                "source": "TipRanks",
                 "ticker": "GOOGL",
-                "title": "Google holds monopoly over key areas of ad tech, US judge rules",
-                "url": "https://finance.yahoo.com/news/google-holds-monopoly-over-key-125400539.html"
+                "title": "Nvidia, AMD see charges due to new China export rules: Morning Buzz",
+                "url": "https://finance.yahoo.com/news/nvidia-amd-see-charges-due-160543145.html"
             },
             {
-                "headline": "Nvidia (NVDA) and Advanced Micro Devices (AMD) plunge after comments from Federal Reserve Chair Jerome Powell deepened losses sparked by costs associated with new US restrictions on exports to China. Futurum CEO Daniel Newman sits down with Josh Lipton, joined by Defiance ETFs CEO and chief investment officer Sylvia Jablonski, to discuss the latest chip news and what it means for investors. To watch more expert insights and analysis on the latest market action, check out more Market Domination here.",
+                "headline": "Federal judge declares Google's digital ad network an illegal monopoly, joining its search engine.",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.2911",
-                "source": "Yahoo Finance Video",
+                "sentimentScore": "-0.5574",
+                "source": "Associated Press Finance",
                 "ticker": "GOOGL",
-                "title": "Nvidia's $5.5B charge: 'Nobody' should be 'surprised'",
-                "url": "https://finance.yahoo.com/video/nvidias-5-5b-charge-nobody-202431372.html"
+                "title": "Federal judge declares Google's digital ad network an illegal monopoly, joining its search engine",
+                "url": "https://finance.yahoo.com/news/federal-judge-declares-googles-digital-155852450.html"
             },
             {
-                "headline": "The legal action has been filed by competition law expert Dr Or Brook at the UK Competition Appeal Tribunal.",
+                "headline": "A judge on Thursday found that Google maintains an illegal monopoly in portions of its online ad business.",
                 "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.128",
-                "source": "Verdict",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5574",
+                "source": "Yahoo Finance",
                 "ticker": "GOOGL",
-                "title": "Google faces \u00a35bn UK lawsuit",
-                "url": "https://finance.yahoo.com/news/google-faces-5bn-uk-lawsuit-093418147.html"
+                "title": "Google found to hold illegal monopoly over online ad business",
+                "url": "https://finance.yahoo.com/news/google-found-to-hold-illegal-monopoly-over-online-ad-business-160129308.html"
             }
         ],
-        "avgScore": 0.42886250000000004,
+        "avgScore": 0.24508888888888883,
         "pctChange": -0.02308815433059484
     },
     "4 16 2025": {
@@ -276,16 +276,6 @@
                 "url": "https://finance.yahoo.com/news/celestica-price-target-lowered-120-150545221.html"
             },
             {
-                "headline": "We recently compiled a list of the 14 Best American Tech Stocks To Buy Now. In this article, we are going to take a look at where Alphabet Inc. (NASDAQ:GOOGL) stands against the other American tech stocks. American stocks moved up a bit on Monday, April 14 as investors focused on news about tech companies [\u2026]",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7783",
-                "source": "Insider Monkey",
-                "ticker": "GOOGL",
-                "title": "Is Alphabet Inc. (GOOGL) The Best American Tech Stock To Buy Now?",
-                "url": "https://finance.yahoo.com/news/alphabet-inc-googl-best-american-205202510.html"
-            },
-            {
                 "headline": "Gold bumped the 'Magnificent Seven' tech stocks to take the top spot as a crowded trade, according to a BofA survey.",
                 "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -294,6 +284,16 @@
                 "ticker": "GOOGL",
                 "title": "After surge to record highs, gold overtakes 'Magnificent 7' as the most crowded trade on Wall Street",
                 "url": "https://finance.yahoo.com/news/after-surge-to-record-highs-gold-overtakes-magnificent-7-as-the-most-crowded-trade-on-wall-street-143338618.html"
+            },
+            {
+                "headline": "Alphabet (GOOGL) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6486",
+                "source": "Zacks",
+                "ticker": "GOOGL",
+                "title": "Investors Heavily Search Alphabet Inc. (GOOGL): Here is What You Need to Know",
+                "url": "https://finance.yahoo.com/news/investors-heavily-search-alphabet-inc-130018317.html"
             },
             {
                 "headline": "Middle Coast Investing, an investment advisor firm, released its first-quarter investor letter. A copy of the letter can be downloaded here. Middle Coast Investing had a difficult but manageable first quarter, but everyone has suffered since the Liberation Day crash at the beginning of the second quarter. To manage the volatility, the firm decided to [\u2026]",
@@ -306,16 +306,6 @@
                 "url": "https://finance.yahoo.com/news/makes-alphabet-goog-better-stock-150444264.html"
             },
             {
-                "headline": "LONDON (Reuters) -Alphabet's Google is being sued in Britain for potential damages of up to 5 billion pounds ($6.6 billion) in a class action alleging the company abused its dominant market position in the online search industry.  The class action, filed at the Competition Appeal Tribunal on Tuesday, argues that Google's actions enabled it to charge higher prices for the advertisements that appear in search inquiries than it otherwise could in a competitive market.  It said the U.S. tech giant contracted phone makers to pre-install Google Search and the Chrome browser on Android devices and paid Apple to make it the default search engine on iPhones, with the intention of shutting out competition.",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.7964",
-                "source": "Reuters",
-                "ticker": "GOOGL",
-                "title": "Google faces 5 billion pound UK lawsuit for abusing dominance in online search",
-                "url": "https://finance.yahoo.com/news/google-faces-5-billion-pound-090629934.html"
-            },
-            {
                 "headline": "Investing.com -- Alphabet Inc\u2019s (NASDAQ:GOOGL) Google is facing a class action lawsuit in the U.K., where it\u2019s being sued for potential damages exceeding \u00a35 billion ($6.6 billion).",
                 "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -324,17 +314,27 @@
                 "ticker": "GOOGL",
                 "title": "Google faces \u00a35 billion lawsuit in U.K. over alleged market abuse",
                 "url": "https://finance.yahoo.com/news/google-faces-5-billion-lawsuit-102205564.html"
+            },
+            {
+                "headline": "The lawsuit claims the tech giant abused its dominance and overcharged companies for search advertising services.",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5267",
+                "source": "The Wall Street Journal",
+                "ticker": "GOOGL",
+                "title": "Google Faces Potential $6.6 Billion U.K. Antitrust Lawsuit Over Search Advertising",
+                "url": "https://finance.yahoo.com/m/a110cb1b-176c-3251-ad05-1f098e047e33/google-faces-potential-6-6.html"
             }
         ],
-        "avgScore": 0.051616666666666616,
+        "avgScore": 0.0606285714285714,
         "pctChange": -0.01415246946475815
     },
-    "coef": -0.49999999999999994,
-    "avgCoef": -0.041437927024413096,
+    "coef": -0.7,
+    "avgCoef": -0.026359527379816897,
     "similar": {
+        "NGD": 0.8999999999999998,
+        "BTG": 0.7,
         "GOLD": 0.7,
-        "INTC": -0.09999999999999999,
-        "WBD": -0.09999999999999999,
-        "SMCI": -0.19999999999999998
+        "HL": 0.7
     }
 }

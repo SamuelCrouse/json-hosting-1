@@ -23,7 +23,7 @@
             }
         ],
         "avgScore": 0.9509,
-        "pctChange": -0.0018050953748863711
+        "pctChange": 0.0
     },
     "4 22 2025": {
         "importantArticles": [
@@ -69,7 +69,7 @@
             }
         ],
         "avgScore": 0.6979,
-        "pctChange": -0.016014261446580212
+        "pctChange": -0.014234861354086251
     },
     "4 17 2025": {
         "importantArticles": [
@@ -431,6 +431,32 @@
         "avgScore": 0.7351,
         "pctChange": 0.003865944856487996
     },
+    "3 28 2025": {
+        "importantArticles": [
+            {
+                "headline": "We recently published a list of 9 AI News and Ratings on Investors\u2019 Radar. In this article, we are going to take a look at where Telefonaktiebolaget LM Ericsson (publ) (NASDAQ:ERIC) stands against other AI news and ratings on investors\u2019 radar. According to a Reuters report posted on March 25, Chinese AI firms have made [\u2026]",
+                "publication_date": "2025-03-28T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Insider Monkey",
+                "ticker": "ERIC",
+                "title": "Telefonaktiebolaget LM Ericsson (ERIC) Partners with SoftBank to Bring AI and 6G to Japan \u2013 A Tech Leap Forward!",
+                "url": "https://finance.yahoo.com/news/telefonaktiebolaget-lm-ericsson-eric-partners-221052623.html"
+            },
+            {
+                "headline": "We recently published a list of 9 AI News and Ratings on Investors\u2019 Radar. In this article, we are going to take a look at where Telefonaktiebolaget LM Ericsson (publ) (NASDAQ:ERIC) stands against other AI news and ratings on investors\u2019 radar. According to a Reuters report posted on March 25, Chinese AI firms have made [\u2026]",
+                "publication_date": "2025-03-28T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Insider Monkey",
+                "ticker": "ERIC",
+                "title": "Telefonaktiebolaget LM Ericsson (ERIC) Partners with SoftBank to Bring AI and 6G to Japan \u2013 A Tech Leap Forward!",
+                "url": "https://finance.yahoo.com/news/telefonaktiebolaget-lm-ericsson-eric-partners-221052623.html"
+            }
+        ],
+        "avgScore": 0.0,
+        "pctChange": -0.0025706915664731513
+    },
     "3 25 2025": {
         "importantArticles": [
             {
@@ -457,12 +483,12 @@
         "avgScore": 0.0,
         "pctChange": -0.007281553112570786
     },
-    "coef": 0.23204774044612855,
-    "avgCoef": -0.0018712654946044449,
+    "coef": 0.26141465744154135,
+    "avgCoef": 0.019675417533133913,
     "similar": {
-        "DJT": 0.8011171991592532,
-        "OKLO": 0.6795683827350907,
-        "SMCI": 0.6132690283219112,
-        "MRVL": 0.5690694587131248
+        "OKLO": 0.6689301821499641,
+        "MRVL": 0.5289215393743901,
+        "RKLB": 0.5222544611469819,
+        "NU": 0.5089203046921653
     }
 }

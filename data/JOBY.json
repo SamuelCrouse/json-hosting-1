@@ -1,4 +1,30 @@
 {
+    "4 23 2025": {
+        "importantArticles": [
+            {
+                "headline": "SANTA CRUZ, Calif., April 23, 2025--Joby Aviation, Inc. (NYSE:JOBY), a company developing all-electric aircraft for commercial passenger service, today announced that it expects to release its first quarter 2025 financial results after market close on Wednesday, May 7, 2025, and to host a webcast at 5:00 pm ET on the same day. The webcast will be publicly available in the Upcoming Events section of the company website, www.jobyaviation.com. If unable to attend the webcast, to listen by phone, pl",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Business Wire",
+                "ticker": "JOBY",
+                "title": "Joby Aviation to Report First Quarter 2025 Financial Results",
+                "url": "https://finance.yahoo.com/news/joby-aviation-report-first-quarter-200500820.html"
+            },
+            {
+                "headline": "SANTA CRUZ, Calif., April 23, 2025--Joby Aviation, Inc. (NYSE:JOBY), a company developing all-electric aircraft for commercial passenger service, today announced that it expects to release its first quarter 2025 financial results after market close on Wednesday, May 7, 2025, and to host a webcast at 5:00 pm ET on the same day. The webcast will be publicly available in the Upcoming Events section of the company website, www.jobyaviation.com. If unable to attend the webcast, to listen by phone, pl",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Business Wire",
+                "ticker": "JOBY",
+                "title": "Joby Aviation to Report First Quarter 2025 Financial Results",
+                "url": "https://finance.yahoo.com/news/joby-aviation-report-first-quarter-200500820.html"
+            }
+        ],
+        "avgScore": 0.0,
+        "pctChange": -0.0032362429582607757
+    },
     "4 8 2025": {
         "importantArticles": [
             {
@@ -77,12 +103,12 @@
         "avgScore": 0.6705,
         "pctChange": 0.018549770100958412
     },
-    "coef": -1.0,
-    "avgCoef": 0.004823956929602544,
+    "coef": -0.7999999999999999,
+    "avgCoef": -0.0048783082162461725,
     "similar": {
-        "T": 0.5,
-        "VZ": 0.5,
-        "LCID": -0.5,
-        "INTC": -0.5
+        "VZ": 0.19999999999999998,
+        "T": 0.0,
+        "INTC": -0.19999999999999998,
+        "ABEV": -0.19999999999999998
     }
 }

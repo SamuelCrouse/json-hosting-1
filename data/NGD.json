@@ -91,11 +91,11 @@
         "avgScore": 0.3844,
         "pctChange": 0.04938274239498085
     },
-    "4 8 2025": {
+    "4 7 2025": {
         "importantArticles": [
             {
                 "headline": "New Gold Inc. (\"New Gold\" or the \"Company\") (TSX: NGD) (NYSE American: NGD) is pleased to announce that it has entered into an agreement with Ontario Teachers' Pension Plan (\"Ontario Teachers'\") to acquire the remaining 19.9% free cash flow interest in the Company's New Afton Mine (\"New Afton\") (the \"Transaction\"). Following the transaction, the Company will have fully consolidated its free cash flow interest in New Afton to 100%.",
-                "publication_date": "2025-04-08T00:00:00.000Z",
+                "publication_date": "2025-04-07T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.9565",
                 "source": "CNW Group",
@@ -105,7 +105,7 @@
             },
             {
                 "headline": "New Gold Inc. (\"New Gold\" or the \"Company\") (TSX: NGD) (NYSE American: NGD) is pleased to announce that it has entered into an agreement with Ontario Teachers' Pension Plan (\"Ontario Teachers'\") to acquire the remaining 19.9% free cash flow interest in the Company's New Afton Mine (\"New Afton\") (the \"Transaction\"). Following the transaction, the Company will have fully consolidated its free cash flow interest in New Afton to 100%.",
-                "publication_date": "2025-04-08T00:00:00.000Z",
+                "publication_date": "2025-04-07T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.9565",
                 "source": "CNW Group",
@@ -115,33 +115,7 @@
             }
         ],
         "avgScore": 0.9565,
-        "pctChange": 0.08724831838896886
-    },
-    "4 4 2025": {
-        "importantArticles": [
-            {
-                "headline": "New Gold Inc. (\"New Gold\" or the \"Company\") (TSX: NGD) (NYSE American: NGD) is providing notice that it will release its first quarter 2025 operational and financial results after market close on Tuesday, April 29, 2025. The Company will host its first quarter 2025 earnings conference call and webcast on Wednesday, April 30, 2025 at 8:30 am Eastern Time.",
-                "publication_date": "2025-04-04T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "PR Newswire",
-                "ticker": "NGD",
-                "title": "NEW GOLD PROVIDES NOTICE OF RELEASE OF FIRST QUARTER 2025 RESULTS AND CONFERENCE CALL",
-                "url": "https://finance.yahoo.com/news/gold-provides-notice-release-first-103000399.html"
-            },
-            {
-                "headline": "New Gold Inc. (\"New Gold\" or the \"Company\") (TSX: NGD) (NYSE American: NGD) is providing notice that it will release its first quarter 2025 operational and financial results after market close on Tuesday, April 29, 2025. The Company will host its first quarter 2025 earnings conference call and webcast on Wednesday, April 30, 2025 at 8:30 am Eastern Time.",
-                "publication_date": "2025-04-04T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "PR Newswire",
-                "ticker": "NGD",
-                "title": "NEW GOLD PROVIDES NOTICE OF RELEASE OF FIRST QUARTER 2025 RESULTS AND CONFERENCE CALL",
-                "url": "https://finance.yahoo.com/news/gold-provides-notice-release-first-103000399.html"
-            }
-        ],
-        "avgScore": 0.0,
-        "pctChange": -0.0066445119567709885
+        "pctChange": -0.0033444784051375933
     },
     "4 3 2025": {
         "importantArticles": [
@@ -156,6 +130,26 @@
                 "url": "https://finance.yahoo.com/news/gold-ngd-beat-estimates-again-161013005.html"
             },
             {
+                "headline": "New Gold Inc. (\"New Gold\" or the \"Company\") (TSX: NGD) (NYSE American: NGD) is providing notice that it will release its first quarter 2025 operational and financial results after market close on Tuesday, April 29, 2025. The Company will host its first quarter 2025 earnings conference call and webcast on Wednesday, April 30, 2025 at 8:30 am Eastern Time.",
+                "publication_date": "2025-04-03T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "PR Newswire",
+                "ticker": "NGD",
+                "title": "NEW GOLD PROVIDES NOTICE OF RELEASE OF FIRST QUARTER 2025 RESULTS AND CONFERENCE CALL",
+                "url": "https://finance.yahoo.com/news/gold-provides-notice-release-first-103000399.html"
+            },
+            {
+                "headline": "New Gold Inc. (\"New Gold\" or the \"Company\") (TSX: NGD) (NYSE American: NGD) is providing notice that it will release its first quarter 2025 operational and financial results after market close on Tuesday, April 29, 2025. The Company will host its first quarter 2025 earnings conference call and webcast on Wednesday, April 30, 2025 at 8:30 am Eastern Time.",
+                "publication_date": "2025-04-03T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "PR Newswire",
+                "ticker": "NGD",
+                "title": "NEW GOLD PROVIDES NOTICE OF RELEASE OF FIRST QUARTER 2025 RESULTS AND CONFERENCE CALL",
+                "url": "https://finance.yahoo.com/news/gold-provides-notice-release-first-103000399.html"
+            },
+            {
                 "headline": "New Gold (NGD) has an impressive earnings surprise history and currently possesses the right combination of the two key ingredients for a likely beat in its next quarterly report.",
                 "publication_date": "2025-04-03T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -166,7 +160,7 @@
                 "url": "https://finance.yahoo.com/news/gold-ngd-beat-estimates-again-161013005.html"
             }
         ],
-        "avgScore": 0.6597,
+        "avgScore": 0.32985,
         "pctChange": -0.14971750765566108
     },
     "4 1 2025": {
@@ -176,20 +170,20 @@
                 "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.5994",
-                "source": "PR Newswire",
+                "source": "CNW Group",
                 "ticker": "NGD",
                 "title": "NEW GOLD ANNOUNCES MAILING OF ITS MANAGEMENT INFORMATION CIRCULAR AND DIRECTOR NOT STANDING FOR RE-ELECTION",
-                "url": "https://finance.yahoo.com/news/gold-announces-mailing-management-information-210000696.html"
+                "url": "https://finance.yahoo.com/news/gold-announces-mailing-management-information-210000927.html"
             },
             {
                 "headline": "New Gold Inc. (\"New Gold\" or the \"Company\") (TSX: NGD) (NYSE American: NGD) announces the mailing of its Management Information Circular (the \"Circular\") for the Company's annual general and special meeting of shareholders being held on Tuesday, May 6, 2025 at 4:00 pm Eastern Time (the \"Meeting\"). New Gold is using the notice and access process adopted by the Canadian securities regulators for the delivery of the Circular. The Circular has also been posted on New Gold's website and filed on SEDA",
                 "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.5994",
-                "source": "PR Newswire",
+                "source": "CNW Group",
                 "ticker": "NGD",
                 "title": "NEW GOLD ANNOUNCES MAILING OF ITS MANAGEMENT INFORMATION CIRCULAR AND DIRECTOR NOT STANDING FOR RE-ELECTION",
-                "url": "https://finance.yahoo.com/news/gold-announces-mailing-management-information-210000696.html"
+                "url": "https://finance.yahoo.com/news/gold-announces-mailing-management-information-210000927.html"
             }
         ],
         "avgScore": 0.5994,
@@ -247,12 +241,12 @@
         "avgScore": 0.91,
         "pctChange": 0.043343611659096566
     },
-    "coef": 0.3571428571428572,
-    "avgCoef": 0.042512333994080644,
+    "coef": 0.39285714285714296,
+    "avgCoef": -0.029602370042961717,
     "similar": {
-        "PBR": 0.9047619047619048,
-        "SNAP": 0.7857142857142858,
-        "BBD": 0.7619047619047621,
-        "XOM": 0.7619047619047621
+        "RTX": 0.7500000000000002,
+        "UMC": 0.7500000000000002,
+        "GRAB": 0.7142857142857144,
+        "NVDA": 0.6071428571428572
     }
 }

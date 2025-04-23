@@ -22,7 +22,8 @@
                 "url": "https://finance.yahoo.com/news/keeping-local-restaurants-cooking-pg-170000527.html"
             }
         ],
-        "avgScore": 0.8934
+        "avgScore": 0.8934,
+        "pctChange": 0.008274195568390454
     },
     "4 10 2025": {
         "importantArticles": [
@@ -47,7 +48,8 @@
                 "url": "https://finance.yahoo.com/news/pg-e-begins-energy-infrastructure-163000209.html"
             }
         ],
-        "avgScore": 0.6808
+        "avgScore": 0.6808,
+        "pctChange": 0.02732245183365464
     },
     "4 9 2025": {
         "importantArticles": [
@@ -72,7 +74,8 @@
                 "url": "https://finance.yahoo.com/news/pg-e-corporation-pcg-one-183105757.html"
             }
         ],
-        "avgScore": 0.9274
+        "avgScore": 0.9274,
+        "pctChange": -0.02022606563889203
     },
     "4 8 2025": {
         "importantArticles": [
@@ -97,13 +100,14 @@
                 "url": "https://finance.yahoo.com/news/three-wildfire-mitigation-plan-builds-173000044.html"
             }
         ],
-        "avgScore": 0.7906
+        "avgScore": 0.7906,
+        "pctChange": 0.054579668033978804
     },
-    "4 2 2025": {
+    "4 3 2025": {
         "importantArticles": [
             {
                 "headline": "The nine microgrid projects will serve about 9,000 customers in disadvantaged or vulnerable Northern California communities, the utility said.",
-                "publication_date": "2025-04-02T00:00:00.000Z",
+                "publication_date": "2025-04-03T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.5574",
                 "source": "Utility Dive",
@@ -112,28 +116,8 @@
                 "url": "https://finance.yahoo.com/news/pg-e-announces-microgrid-awards-111629005.html"
             },
             {
-                "headline": "Every day in Central and Northern California, underground utility lines are damaged due to homeowners and contractors failing to call 811 before starting digging projects. Not only is digging without knowing the location of underground lines dangerous, it can also result in expensive repairs and inconvenient outages. Pacific Gas and Electric Company (PG&E) is joining with others across the country during National Safe Digging Month to help raise awareness of the importance of calling 811 before",
-                "publication_date": "2025-04-02T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.5574",
-                "source": "PR Newswire",
-                "ticker": "PCG",
-                "title": "April is National Safe Digging Month, A Reminder to Call to 811 Before Any Size Digging Project, Large or Small",
-                "url": "https://finance.yahoo.com/news/april-national-safe-digging-month-160000413.html"
-            },
-            {
-                "headline": "Every day in Central and Northern California, underground utility lines are damaged due to homeowners and contractors failing to call 811 before starting digging projects. Not only is digging without knowing the location of underground lines dangerous, it can also result in expensive repairs and inconvenient outages. Pacific Gas and Electric Company (PG&E) is joining with others across the country during National Safe Digging Month to help raise awareness of the importance of calling 811 before",
-                "publication_date": "2025-04-02T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.5574",
-                "source": "PR Newswire",
-                "ticker": "PCG",
-                "title": "April is National Safe Digging Month, A Reminder to Call to 811 Before Any Size Digging Project, Large or Small",
-                "url": "https://finance.yahoo.com/news/april-national-safe-digging-month-160000413.html"
-            },
-            {
                 "headline": "The nine microgrid projects will serve about 9,000 customers in disadvantaged or vulnerable Northern California communities, the utility said.",
-                "publication_date": "2025-04-02T00:00:00.000Z",
+                "publication_date": "2025-04-03T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.5574",
                 "source": "Utility Dive",
@@ -142,30 +126,37 @@
                 "url": "https://finance.yahoo.com/news/pg-e-announces-microgrid-awards-111629005.html"
             }
         ],
-        "avgScore": -0.5574
+        "avgScore": -0.5574,
+        "pctChange": -0.04695649077926857
+    },
+    "4 2 2025": {
+        "importantArticles": [
+            {
+                "headline": "Every day in Central and Northern California, underground utility lines are damaged due to homeowners and contractors failing to call 811 before starting digging projects. Not only is digging without knowing the location of underground lines dangerous, it can also result in expensive repairs and inconvenient outages. Pacific Gas and Electric Company (PG&E) is joining with others across the country during National Safe Digging Month to help raise awareness of the importance of calling 811 before",
+                "publication_date": "2025-04-02T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5574",
+                "source": "PR Newswire",
+                "ticker": "PCG",
+                "title": "April is National Safe Digging Month, A Reminder to Call to 811 Before Any Size Digging Project, Large or Small",
+                "url": "https://finance.yahoo.com/news/april-national-safe-digging-month-160000413.html"
+            },
+            {
+                "headline": "Every day in Central and Northern California, underground utility lines are damaged due to homeowners and contractors failing to call 811 before starting digging projects. Not only is digging without knowing the location of underground lines dangerous, it can also result in expensive repairs and inconvenient outages. Pacific Gas and Electric Company (PG&E) is joining with others across the country during National Safe Digging Month to help raise awareness of the importance of calling 811 before",
+                "publication_date": "2025-04-02T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5574",
+                "source": "PR Newswire",
+                "ticker": "PCG",
+                "title": "April is National Safe Digging Month, A Reminder to Call to 811 Before Any Size Digging Project, Large or Small",
+                "url": "https://finance.yahoo.com/news/april-national-safe-digging-month-160000413.html"
+            }
+        ],
+        "avgScore": -0.5574,
+        "pctChange": -0.01032703970305329
     },
     "3 28 2025": {
         "importantArticles": [
-            {
-                "headline": "Certain electric vehicle owners are now eligible for discounts on\u00a0charging equipment that can be used to power homes during blackouts.",
-                "publication_date": "2025-03-28T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.2732",
-                "source": "Automotive Dive",
-                "ticker": "PCG",
-                "title": "GM Energy joins PG&E bidirectional EV charging pilot in California",
-                "url": "https://finance.yahoo.com/news/gm-energy-joins-pg-e-083200159.html"
-            },
-            {
-                "headline": "\u201cIn the backdrop of the recent LA wildfires, we expect any legislative and regulatory actions resulting from the state's continued wildfire risk will remain supportive for utilities,\u201d Moody's said.",
-                "publication_date": "2025-03-28T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0258",
-                "source": "Utility Dive",
-                "ticker": "PCG",
-                "title": "Moody\u2019s upgrades PG&E on reduced credit risks from wildfires",
-                "url": "https://finance.yahoo.com/news/moody-upgrades-pg-e-reduced-085101194.html"
-            },
             {
                 "headline": "PG&E Corporation (NYSE: PCG) will hold a conference call on Thursday, April 24, 2025, at 11:00 a.m. Eastern Time (8:00 a.m. Pacific Time) to discuss its first quarter 2025 results. The public can access the conference call through a simultaneous webcast. The link is provided below and will also be available from the PG&E Corporation website.",
                 "publication_date": "2025-03-28T00:00:00.000Z",
@@ -187,6 +178,16 @@
                 "url": "https://finance.yahoo.com/news/pg-e-corporation-pcg-stock-194011254.html"
             },
             {
+                "headline": "We recently published a list of 10 Stocks To Trade Without Tariffs And Interest Rate Fears. In this article, we are going to take a look at where PG&E Corporation (NYSE:PCG) stands against other stocks to trade without tariffs and interest rate fears. The Federal Reserve this week decided to keep interest rates unchanged, causing [\u2026]",
+                "publication_date": "2025-03-28T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.9009",
+                "source": "Insider Monkey",
+                "ticker": "PCG",
+                "title": "Is PG&E Corporation (PCG) A Stock to Trade Without Tariffs and Interest Rate Fears?",
+                "url": "https://finance.yahoo.com/news/pg-e-corporation-pcg-stock-194011254.html"
+            },
+            {
                 "headline": "PG&E Corporation (NYSE: PCG) will hold a conference call on Thursday, April 24, 2025, at 11:00 a.m. Eastern Time (8:00 a.m. Pacific Time) to discuss its first quarter 2025 results. The public can access the conference call through a simultaneous webcast. The link is provided below and will also be available from the PG&E Corporation website.",
                 "publication_date": "2025-03-28T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -195,19 +196,10 @@
                 "ticker": "PCG",
                 "title": "PG&E Corporation Schedules First Quarter 2025 Earnings Release and Conference Call",
                 "url": "https://finance.yahoo.com/news/pg-e-corporation-schedules-first-210000919.html"
-            },
-            {
-                "headline": "\u201cIn the backdrop of the recent LA wildfires, we expect any legislative and regulatory actions resulting from the state's continued wildfire risk will remain supportive for utilities,\u201d Moody's said.",
-                "publication_date": "2025-03-28T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0258",
-                "source": "Utility Dive",
-                "ticker": "PCG",
-                "title": "Moody\u2019s upgrades PG&E on reduced credit risks from wildfires",
-                "url": "https://finance.yahoo.com/news/moody-upgrades-pg-e-reduced-085101194.html"
             }
         ],
-        "avgScore": -0.15047500000000003
+        "avgScore": -0.45045,
+        "pctChange": 0.012076578444724926
     },
     "3 27 2025": {
         "importantArticles": [
@@ -232,7 +224,8 @@
                 "url": "https://finance.yahoo.com/news/pg-e-advancing-43-million-170000688.html"
             }
         ],
-        "avgScore": 0.875
+        "avgScore": 0.875,
+        "pctChange": -0.00874629496221786
     },
     "3 25 2025": {
         "importantArticles": [
@@ -257,14 +250,14 @@
                 "url": "https://finance.yahoo.com/news/pg-e-corporation-pcg-one-200945199.html"
             },
             {
-                "headline": "Pacific Gas & Electric Company (PG&E) today announced the launch of Seasonal Aggregation of Versatile Energy (SAVE), an Electric Program Investment Charge (EPIC) demonstration and a first-of-its-kind virtual power plant (VPP) that harnesses residential distributed energy resources to reduce local grid constraints.",
+                "headline": "The first-of-its-kind program with California's largest utility will dispatch home battery power to enhance local grid reliabilitySAN FRANCISCO, March 24, 2025 (GLOBE NEWSWIRE) -- Sunrun (Nasdaq: RUN), the nation\u2019s leading provider of clean energy as a subscription service, today announced a new innovative partnership with Pacific Gas and Electric Company (PG&E). The collaboration will utilize hundreds of Sunrun solar-plus-storage customer homes to deliver targeted load relief to neighborhoods i",
                 "publication_date": "2025-03-25T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.5574",
-                "source": "PR Newswire",
+                "sentimentScore": "0.8689",
+                "source": "GlobeNewswire",
                 "ticker": "PCG",
-                "title": "PG&E Launches Seasonal Aggregation of Versatile Energy (SAVE) Virtual Power Plant Program",
-                "url": "https://finance.yahoo.com/news/pg-e-launches-seasonal-aggregation-170000497.html"
+                "title": "Sunrun and PG&E Harness Home Storage and Solar to Alleviate Local Grid Constraints",
+                "url": "https://finance.yahoo.com/news/sunrun-pg-e-harness-home-120000675.html"
             },
             {
                 "headline": "Pacific Gas & Electric Company (PG&E) today announced the launch of Seasonal Aggregation of Versatile Energy (SAVE), an Electric Program Investment Charge (EPIC) demonstration and a first-of-its-kind virtual power plant (VPP) that harnesses residential distributed energy resources to reduce local grid constraints.",
@@ -275,6 +268,16 @@
                 "ticker": "PCG",
                 "title": "PG&E Launches Seasonal Aggregation of Versatile Energy (SAVE) Virtual Power Plant Program",
                 "url": "https://finance.yahoo.com/news/pg-e-launches-seasonal-aggregation-170000497.html"
+            },
+            {
+                "headline": "The first-of-its-kind program with California's largest utility will dispatch home battery power to enhance local grid reliabilitySAN FRANCISCO, March 24, 2025 (GLOBE NEWSWIRE) -- Sunrun (Nasdaq: RUN), the nation\u2019s leading provider of clean energy as a subscription service, today announced a new innovative partnership with Pacific Gas and Electric Company (PG&E). The collaboration will utilize hundreds of Sunrun solar-plus-storage customer homes to deliver targeted load relief to neighborhoods i",
+                "publication_date": "2025-03-25T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8689",
+                "source": "GlobeNewswire",
+                "ticker": "PCG",
+                "title": "Sunrun and PG&E Harness Home Storage and Solar to Alleviate Local Grid Constraints",
+                "url": "https://finance.yahoo.com/news/sunrun-pg-e-harness-home-120000675.html"
             },
             {
                 "headline": "We recently published a list of 14 Best Affordable Stocks to Buy According to Hedge Funds. In this article, we are going to take a look at where PG&E Corporation (NYSE:PCG) stands against other best affordable stocks to invest in. The broader market has taken a significant hit, dropping 10% from its peak and wiping [\u2026]",
@@ -285,121 +288,43 @@
                 "ticker": "PCG",
                 "title": "PG&E Corporation (PCG): One of the Best Affordable Stocks to Buy According to Hedge Funds",
                 "url": "https://finance.yahoo.com/news/pg-e-corporation-pcg-one-200945199.html"
-            },
-            {
-                "headline": "We recently published a list of 12 Best Energy Stocks to Invest in According to Billionaires. In this article, we are going to take a look at where PG&E Corporation (NYSE:PCG) stands against other best energy stocks to invest in according to billionaires. After significantly lagging behind in 2024, the broader energy sector finally seems [\u2026]",
-                "publication_date": "2025-03-25T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.9118",
-                "source": "Insider Monkey",
-                "ticker": "PCG",
-                "title": "Is PG&E Corporation (PCG) the Best Energy Stock to Invest in According to Billionaires?",
-                "url": "https://finance.yahoo.com/news/pg-e-corporation-pcg-best-135522605.html"
             }
         ],
-        "avgScore": 0.7833
+        "avgScore": 0.8047,
+        "pctChange": 0.010550989788606234
     },
     "3 24 2025": {
         "importantArticles": [
             {
-                "headline": "The first-of-its-kind program with California's largest utility will dispatch home battery power to enhance local grid reliabilitySAN FRANCISCO, March 24, 2025 (GLOBE NEWSWIRE) -- Sunrun (Nasdaq: RUN), the nation\u2019s leading provider of clean energy as a subscription service, today announced a new innovative partnership with Pacific Gas and Electric Company (PG&E). The collaboration will utilize hundreds of Sunrun solar-plus-storage customer homes to deliver targeted load relief to neighborhoods i",
+                "headline": "We recently published a list of Should You Buy the Dip and Follow Insiders into These 10 Stocks?. In this article, we are going to take a look at where PG&E Corporation (NYSE:PCG) stands against other stocks insiders were piling into recently. After a turbulent week, stocks began recovering on Monday, with all three major [\u2026]",
                 "publication_date": "2025-03-24T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8689",
-                "source": "GlobeNewswire",
-                "ticker": "PCG",
-                "title": "Sunrun and PG&E Harness Home Storage and Solar to Alleviate Local Grid Constraints",
-                "url": "https://finance.yahoo.com/news/sunrun-pg-e-harness-home-120000675.html"
-            },
-            {
-                "headline": "The first-of-its-kind program with California's largest utility will dispatch home battery power to enhance local grid reliabilitySAN FRANCISCO, March 24, 2025 (GLOBE NEWSWIRE) -- Sunrun (Nasdaq: RUN), the nation\u2019s leading provider of clean energy as a subscription service, today announced a new innovative partnership with Pacific Gas and Electric Company (PG&E). The collaboration will utilize hundreds of Sunrun solar-plus-storage customer homes to deliver targeted load relief to neighborhoods i",
-                "publication_date": "2025-03-24T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8689",
-                "source": "GlobeNewswire",
-                "ticker": "PCG",
-                "title": "Sunrun and PG&E Harness Home Storage and Solar to Alleviate Local Grid Constraints",
-                "url": "https://finance.yahoo.com/news/sunrun-pg-e-harness-home-120000675.html"
-            }
-        ],
-        "avgScore": 0.8689
-    },
-    "3 21 2025": {
-        "importantArticles": [
-            {
-                "headline": "We recently published a list of 12 Best Nuclear Power Stocks to Buy Now. In this article, we are going to take a look at where PG&E Corporation (NYSE:PCG) stands against other best nuclear power stocks to buy now. The United States of America is the largest producer of nuclear power in the world, accounting [\u2026]",
-                "publication_date": "2025-03-21T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.9042",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
                 "source": "Insider Monkey",
                 "ticker": "PCG",
-                "title": "Is PG&E Corporation (PCG) the Best Nuclear Power Stock to Buy Now?",
-                "url": "https://finance.yahoo.com/news/pg-e-corporation-pcg-best-163343276.html"
+                "title": "PG&E Corporation (PCG): Among Stocks Insiders Were Piling Into Recently",
+                "url": "https://finance.yahoo.com/news/pg-e-corporation-pcg-among-111808185.html"
             },
             {
-                "headline": "OGE Energy (OGE) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.",
-                "publication_date": "2025-03-21T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.2732",
-                "source": "Zacks",
-                "ticker": "PCG",
-                "title": "Why Is OGE Energy (OGE) Up 2.7% Since Last Earnings Report?",
-                "url": "https://finance.yahoo.com/news/why-oge-energy-oge-2-153036135.html"
-            },
-            {
-                "headline": "OGE Energy (OGE) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.",
-                "publication_date": "2025-03-21T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.2732",
-                "source": "Zacks",
-                "ticker": "PCG",
-                "title": "Why Is OGE Energy (OGE) Up 2.7% Since Last Earnings Report?",
-                "url": "https://finance.yahoo.com/news/why-oge-energy-oge-2-153036135.html"
-            },
-            {
-                "headline": "We recently published a list of 12 Best Nuclear Power Stocks to Buy Now. In this article, we are going to take a look at where PG&E Corporation (NYSE:PCG) stands against other best nuclear power stocks to buy now. The United States of America is the largest producer of nuclear power in the world, accounting [\u2026]",
-                "publication_date": "2025-03-21T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.9042",
+                "headline": "We recently published a list of Should You Buy the Dip and Follow Insiders into These 10 Stocks?. In this article, we are going to take a look at where PG&E Corporation (NYSE:PCG) stands against other stocks insiders were piling into recently. After a turbulent week, stocks began recovering on Monday, with all three major [\u2026]",
+                "publication_date": "2025-03-24T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
                 "source": "Insider Monkey",
                 "ticker": "PCG",
-                "title": "Is PG&E Corporation (PCG) the Best Nuclear Power Stock to Buy Now?",
-                "url": "https://finance.yahoo.com/news/pg-e-corporation-pcg-best-163343276.html"
+                "title": "PG&E Corporation (PCG): Among Stocks Insiders Were Piling Into Recently",
+                "url": "https://finance.yahoo.com/news/pg-e-corporation-pcg-among-111808185.html"
             }
         ],
-        "avgScore": 0.5887
+        "avgScore": 0.0,
+        "pctChange": -0.003504670681344979
     },
-    "3 20 2025": {
-        "importantArticles": [
-            {
-                "headline": "Investing.com -- UBS downgraded PG&E (NYSE:PCG) Corp to Neutral from Buy saying there is a lack of catalysts and increased wildfire-related risks. Brokerage lowered its price target to $19 from $22, reflecting a 30% discount to the utility sector average.",
-                "publication_date": "2025-03-20T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.4215",
-                "source": "Investing.com",
-                "ticker": "PCG",
-                "title": "UBS cuts PG&E to \u2018neutral\u2019 on lack of catalysts, wildfire risks",
-                "url": "https://finance.yahoo.com/news/ubs-cuts-pg-e-neutral-153805986.html"
-            },
-            {
-                "headline": "Investing.com -- UBS downgraded PG&E (NYSE:PCG) Corp to Neutral from Buy saying there is a lack of catalysts and increased wildfire-related risks. Brokerage lowered its price target to $19 from $22, reflecting a 30% discount to the utility sector average.",
-                "publication_date": "2025-03-20T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.4215",
-                "source": "Investing.com",
-                "ticker": "PCG",
-                "title": "UBS cuts PG&E to \u2018neutral\u2019 on lack of catalysts, wildfire risks",
-                "url": "https://finance.yahoo.com/news/ubs-cuts-pg-e-neutral-153805986.html"
-            }
-        ],
-        "avgScore": -0.4215
-    },
-    "coef": -0.11818181818181818,
-    "avgCoef": -0.03140677315597183,
+    "coef": 0.09118583155200968,
+    "avgCoef": 0.01374320899926458,
     "similar": {
-        "MP": 0.5272727272727273,
-        "KGC": 0.5090909090909091,
-        "VALE": 0.5,
-        "PSLV": 0.5
+        "HTZ": 0.5957474328064633,
+        "RXRX": 0.5592731001856595,
+        "HL": 0.5471149893120582,
+        "JD": 0.5288778230016562
     }
 }

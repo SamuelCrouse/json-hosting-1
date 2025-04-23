@@ -1,9 +1,9 @@
 {
-    "4 14 2025": {
+    "4 15 2025": {
         "importantArticles": [
             {
                 "headline": "Over the last 7 days, the United States market has risen by 5.8%, contributing to a 4.8% climb over the past year, with earnings forecasted to grow by 14% annually. In this dynamic environment, identifying strong dividend stocks like A-Mark Precious Metals can be a prudent strategy for investors seeking reliable income and potential growth opportunities.",
-                "publication_date": "2025-04-14T00:00:00.000Z",
+                "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.9612",
                 "source": "Simply Wall St.",
@@ -13,7 +13,7 @@
             },
             {
                 "headline": "Over the last 7 days, the United States market has risen by 5.8%, contributing to a 4.8% climb over the past year, with earnings forecasted to grow by 14% annually. In this dynamic environment, identifying strong dividend stocks like A-Mark Precious Metals can be a prudent strategy for investors seeking reliable income and potential growth opportunities.",
-                "publication_date": "2025-04-14T00:00:00.000Z",
+                "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.9612",
                 "source": "Simply Wall St.",
@@ -22,7 +22,8 @@
                 "url": "https://finance.yahoo.com/news/spotlighting-mark-precious-metals-2-113134332.html"
             }
         ],
-        "avgScore": 0.9612
+        "avgScore": 0.9612,
+        "pctChange": -0.03979238939873889
     },
     "4 11 2025": {
         "importantArticles": [
@@ -47,7 +48,8 @@
                 "url": "https://finance.yahoo.com/news/agco-agco-moves-13-3-130800506.html"
             }
         ],
-        "avgScore": 0.4019
+        "avgScore": 0.4019,
+        "pctChange": 0.006932402423787249
     },
     "4 10 2025": {
         "importantArticles": [
@@ -72,7 +74,8 @@
                 "url": "https://finance.yahoo.com/news/cnh-industrial-n-v-cnh-143803556.html"
             }
         ],
-        "avgScore": -0.8176
+        "avgScore": -0.8176,
+        "pctChange": 0.03127796198342107
     },
     "4 9 2025": {
         "importantArticles": [
@@ -97,7 +100,8 @@
                 "url": "https://finance.yahoo.com/news/cnh-stops-us-tractor-shipments-112700358.html"
             }
         ],
-        "avgScore": -0.5106
+        "avgScore": -0.5106,
+        "pctChange": -0.03617571823547739
     },
     "3 26 2025": {
         "importantArticles": [
@@ -122,14 +126,15 @@
                 "url": "https://finance.yahoo.com/news/cnh-industrial-n-v-nyse-190132682.html"
             }
         ],
-        "avgScore": 0.8555
+        "avgScore": 0.8555,
+        "pctChange": 0.00790516873401653
     },
-    "coef": -0.3,
-    "avgCoef": -0.03985940439677205,
+    "coef": -0.6,
+    "avgCoef": 0.01599884809700895,
     "similar": {
-        "TSLA": 0.8999999999999998,
-        "WBD": 0.7999999999999999,
-        "UAA": 0.7999999999999999,
-        "AUR": 0.7999999999999999
+        "HTZ": 0.9999999999999999,
+        "ABEV": 0.7999999999999999,
+        "IAG": 0.49999999999999994,
+        "DVN": 0.49999999999999994
     }
 }

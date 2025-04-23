@@ -22,14 +22,14 @@
                 "url": "https://finance.yahoo.com/news/amphenol-nyse-aph-surprises-strong-123800244.html"
             },
             {
-                "headline": "Amphenol's stock led gains on the S&P 500 Wednesday after the maker of antennas and high-speed cables reported better-than-expected results and issued an upbeat outlook.",
+                "headline": "APH's strong Q1 results benefit from the IT datacom, mobile and defense markets, and strategic acquisitions.",
                 "publication_date": "2025-04-23T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.34",
-                "source": "Investopedia",
+                "sentimentScore": "0.7783",
+                "source": "Zacks",
                 "ticker": "APH",
-                "title": "High-Speed Cable Maker Amphenol's Stock Soars on Strong Results, Rosy Outlook",
-                "url": "https://finance.yahoo.com/news/high-speed-cable-maker-amphenols-155842216.html"
+                "title": "Amphenol Earnings Surpass Estimates in Q1, Sales Increase Y/Y",
+                "url": "https://finance.yahoo.com/news/amphenol-earnings-surpass-estimates-q1-174700022.html"
             },
             {
                 "headline": "WALLINGFORD, Conn., April 23, 2025--Amphenol Corporation (NYSE: APH) today reported record first quarter 2025 results.",
@@ -62,8 +62,8 @@
                 "url": "https://finance.yahoo.com/news/amphenol-aph-reports-q1-earnings-140003542.html"
             }
         ],
-        "avgScore": 0.40135714285714286,
-        "pctChange": -0.043014953794590235
+        "avgScore": 0.4803222222222222,
+        "pctChange": -0.06406202752222405
     },
     "4 22 2025": {
         "importantArticles": [
@@ -109,7 +109,7 @@
             }
         ],
         "avgScore": 0.0,
-        "pctChange": 0.10646387832699619
+        "pctChange": 0.08212930077382367
     },
     "4 21 2025": {
         "importantArticles": [
@@ -150,6 +150,26 @@
                 "url": "https://finance.yahoo.com/news/unlocking-q1-potential-amphenol-aph-131519009.html"
             },
             {
+                "headline": "APH and TEL are well-known players in the electronic components market. Which one is a better investment option right now?",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4404",
+                "source": "Zacks",
+                "ticker": "APH",
+                "title": "Amphenol vs. TE Connectivity: Which Electronics Stock Should You Buy?",
+                "url": "https://finance.yahoo.com/news/amphenol-vs-te-connectivity-electronics-190000165.html"
+            },
+            {
+                "headline": "APH and TEL are well-known players in the electronic components market. Which one is a better investment option right now?",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4404",
+                "source": "Zacks",
+                "ticker": "APH",
+                "title": "Amphenol vs. TE Connectivity: Which Electronics Stock Should You Buy?",
+                "url": "https://finance.yahoo.com/news/amphenol-vs-te-connectivity-electronics-190000165.html"
+            },
+            {
                 "headline": "Looking beyond Wall Street's top -and-bottom-line estimate forecasts for Amphenol (APH), delve into some of its key metrics to gain a deeper insight into the company's potential performance for the quarter ended March 2025.",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -160,7 +180,7 @@
                 "url": "https://finance.yahoo.com/news/unlocking-q1-potential-amphenol-aph-131519009.html"
             }
         ],
-        "avgScore": 0.6369,
+        "avgScore": 0.5386500000000001,
         "pctChange": -0.02259448910495214
     },
     "4 16 2025": {
@@ -437,12 +457,12 @@
         "avgScore": 0.35015,
         "pctChange": 0.008730339181783021
     },
-    "coef": -0.39010989010989006,
-    "avgCoef": 0.0035321248685922014,
+    "coef": -0.39560439560439564,
+    "avgCoef": -0.0027797878255620624,
     "similar": {
-        "VOD": 0.6868131868131868,
-        "T": 0.34615384615384615,
-        "IAG": 0.34615384615384615,
-        "ITUB": 0.30769230769230765
+        "VOD": 0.7087912087912087,
+        "PFE": 0.3626373626373627,
+        "T": 0.35714285714285715,
+        "IAG": 0.33516483516483514
     }
 }

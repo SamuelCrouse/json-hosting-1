@@ -226,7 +226,7 @@ def main(tickers):
                             if index < len(keys) - 1:
                                 tmrClose = tickerCloses[keys[index + 1]][0]['close']
                             else:
-                                dayClose = tickerCloses[keys[index - 1]][0]['close']
+                                dayClose = tickerCloses[key][0]['open']
                                 tmrClose = tickerCloses[key][0]['close']
                             
                             pctChange = (tmrClose - dayClose) / dayClose

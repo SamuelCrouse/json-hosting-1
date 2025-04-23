@@ -2,74 +2,8 @@
     "4 22 2025": {
         "importantArticles": [
             {
-                "headline": "The EV startup is making a bold move that investors will love.",
-                "publication_date": "2025-04-22T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7783",
-                "source": "TheStreet",
-                "ticker": "RIVN",
-                "title": "Surprising AI news sends Rivian stock surging",
-                "url": "https://finance.yahoo.com/news/surprising-ai-news-sends-rivian-172300210.html"
-            },
-            {
-                "headline": "Rivian Automotive (NasdaqGS:RIVN) appointed Aidan Gomez, an AI expert, to its board on April 21, 2025, marking a commitment to technological advancement. Meanwhile, the company spun off its micromobility business into Also, Inc. Despite these developments, Rivian's share price declined by 4% last month, aligning closely with the broader market's 4% drop, as major indices recovered from earlier declines amid tariff uncertainties. The EV sector witnessed mixed performances, with Tesla rising...",
-                "publication_date": "2025-04-22T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.0772",
-                "source": "Simply Wall St.",
-                "ticker": "RIVN",
-                "title": "Rivian Automotive (NasdaqGS:RIVN) Appoints AI Expert Aidan Gomez To Board",
-                "url": "https://finance.yahoo.com/news/rivian-automotive-nasdaqgs-rivn-appoints-174110210.html"
-            },
-            {
-                "headline": "In the closing of the recent trading day, Rivian Automotive (RIVN) stood at $11.36, denoting a +1.88% change from the preceding trading day.",
-                "publication_date": "2025-04-22T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "RIVN",
-                "title": "Rivian Automotive (RIVN) Rises Yet Lags Behind Market: Some Facts Worth Knowing",
-                "url": "https://finance.yahoo.com/news/rivian-automotive-rivn-rises-yet-214515634.html"
-            },
-            {
-                "headline": "GM reported a double-digit sales jump to start the year, while Ford and Stellantis reported quarterly declines.",
-                "publication_date": "2025-04-22T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Automotive Dive",
-                "ticker": "RIVN",
-                "title": "Most automakers report sales gains in Q1",
-                "url": "https://finance.yahoo.com/news/most-automakers-report-sales-gains-091200672.html"
-            },
-            {
-                "headline": "In the closing of the recent trading day, Rivian Automotive (RIVN) stood at $11.36, denoting a +1.88% change from the preceding trading day.",
-                "publication_date": "2025-04-22T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "RIVN",
-                "title": "Rivian Automotive (RIVN) Rises Yet Lags Behind Market: Some Facts Worth Knowing",
-                "url": "https://finance.yahoo.com/news/rivian-automotive-rivn-rises-yet-214515634.html"
-            },
-            {
-                "headline": "Rivian Automotive (NasdaqGS:RIVN) appointed Aidan Gomez, an AI expert, to its board on April 21, 2025, marking a commitment to technological advancement. Meanwhile, the company spun off its micromobility business into Also, Inc. Despite these developments, Rivian's share price declined by 4% last month, aligning closely with the broader market's 4% drop, as major indices recovered from earlier declines amid tariff uncertainties. The EV sector witnessed mixed performances, with Tesla rising...",
-                "publication_date": "2025-04-22T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.0772",
-                "source": "Simply Wall St.",
-                "ticker": "RIVN",
-                "title": "Rivian Automotive (NasdaqGS:RIVN) Appoints AI Expert Aidan Gomez To Board",
-                "url": "https://finance.yahoo.com/news/rivian-automotive-nasdaqgs-rivn-appoints-174110210.html"
-            }
-        ],
-        "avgScore": 0.213875,
-        "pctChange": 0.003533565629981095
-    },
-    "4 21 2025": {
-        "importantArticles": [
-            {
                 "headline": "Aidan Gomez, the co-founder and CEO of generative AI startup Cohere, has joined the board of EV maker Rivian, according to a regulatory filing. The appointment is the latest sign that Rivian sees promises in applying AI to its own venture while positioning itself as a software leader \u2014 and even provider \u2014 within the automotive industry. Rivian increased the size of the board and elected Gomez, whose term will expire in 2026, according to the filing. Gomez has had a long career as a data scientis",
-                "publication_date": "2025-04-21T00:00:00.000Z",
+                "publication_date": "2025-04-22T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.5719",
                 "source": "TechCrunch",
@@ -79,7 +13,7 @@
             },
             {
                 "headline": "IRVINE, Calif., April 21, 2025--Rivian Automotive, Inc. (NASDAQ: RIVN) today announced that Aidan Gomez has been named to its board of directors. Gomez is an experienced data scientist and Artificial Intelligence expert and serves as Co-Founder and CEO of Enterprise AI startup Cohere.",
-                "publication_date": "2025-04-21T00:00:00.000Z",
+                "publication_date": "2025-04-22T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.4767",
                 "source": "Business Wire",
@@ -89,7 +23,7 @@
             },
             {
                 "headline": "Rivian Automotive (NASDAQ: RIVN) exited 2023 with as much or more momentum than its electric vehicle (EV) start-up peers, but that has slowly eroded through today.  Investors might be wondering how Rivian is affected by tariffs since it produces all of its vehicles in the U.S., but the key is that the automaker imports crucial components such as batteries from South Korea and China.  The analyst team also cut its 2025 delivery forecast to 37,000 units, which is down 20% from the middle of Rivian's current guidance.",
-                "publication_date": "2025-04-21T00:00:00.000Z",
+                "publication_date": "2025-04-22T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.5499",
                 "source": "Motley Fool",
@@ -99,7 +33,7 @@
             },
             {
                 "headline": "Rivian Automotive (NASDAQ: RIVN) exited 2023 with as much or more momentum than its electric vehicle (EV) start-up peers, but that has slowly eroded through today.  Investors might be wondering how Rivian is affected by tariffs since it produces all of its vehicles in the U.S., but the key is that the automaker imports crucial components such as batteries from South Korea and China.  The analyst team also cut its 2025 delivery forecast to 37,000 units, which is down 20% from the middle of Rivian's current guidance.",
-                "publication_date": "2025-04-21T00:00:00.000Z",
+                "publication_date": "2025-04-22T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.5499",
                 "source": "Motley Fool",
@@ -109,7 +43,7 @@
             },
             {
                 "headline": "IRVINE, Calif., April 21, 2025--Rivian Automotive, Inc. (NASDAQ: RIVN) today announced that Aidan Gomez has been named to its board of directors. Gomez is an experienced data scientist and Artificial Intelligence expert and serves as Co-Founder and CEO of Enterprise AI startup Cohere.",
-                "publication_date": "2025-04-21T00:00:00.000Z",
+                "publication_date": "2025-04-22T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.4767",
                 "source": "Business Wire",
@@ -119,7 +53,7 @@
             },
             {
                 "headline": "Aidan Gomez, the co-founder and CEO of generative AI startup Cohere, has joined the board of EV maker Rivian, according to a regulatory filing. The appointment is the latest sign that Rivian sees promises in applying AI to its own venture while positioning itself as a software leader \u2014 and even provider \u2014 within the automotive industry. Rivian increased the size of the board and elected Gomez, whose term will expire in 2026, according to the filing. Gomez has had a long career as a data scientis",
-                "publication_date": "2025-04-21T00:00:00.000Z",
+                "publication_date": "2025-04-22T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.5719",
                 "source": "TechCrunch",
@@ -129,79 +63,13 @@
             }
         ],
         "avgScore": 0.16623333333333332,
-        "pctChange": 0.018834084783103663
+        "pctChange": 0.003533565629981095
     },
     "4 17 2025": {
         "importantArticles": [
             {
-                "headline": "Electric vehicle share of the light-vehicle market came in at a relatively modest 7.2% in February, data from S&P Global Mobility showed.",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.296",
-                "source": "Automotive News",
-                "ticker": "RIVN",
-                "title": "GM, Honda lead February EV gain with fresh U.S. models as Tesla, Rivian slip",
-                "url": "https://finance.yahoo.com/news/gm-honda-lead-february-ev-174912244.html"
-            },
-            {
-                "headline": "Shares of Rivian Automotive (NASDAQ: RIVN) have fallen 90% from their high-water mark.  While Rivian is definitely a stock meant for more aggressive types, here are three reasons some investors might want to buy it like there's no tomorrow.  Essentially, when Rivian came public investors were enamored with anything related to electric vehicles and the stock price was bid up to unrealistic heights.",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.2748",
-                "source": "Motley Fool",
-                "ticker": "RIVN",
-                "title": "3 Reasons to Buy Rivian Stock Like There's No Tomorrow",
-                "url": "https://finance.yahoo.com/news/3-reasons-buy-rivian-stock-131500353.html"
-            },
-            {
-                "headline": "Investors looking for ways to find stocks that are set to beat quarterly earnings estimates should check out the Zacks Earnings ESP.",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "RIVN",
-                "title": "Why Investors Need to Take Advantage of These 2 Auto-Tires-Trucks Stocks Now",
-                "url": "https://finance.yahoo.com/news/why-investors-advantage-2-auto-130010042.html"
-            },
-            {
-                "headline": "American automakers are reeling after President Donald Trump imposed a 25% tariff on vehicles and parts imported from Mexico and Canada.  The high tariffs mean the prices on millions of vehicles sold in the U.S. could increase.  Making matters worse is that Trump's trade war with China has escalated to the point where China is now restricting the export of rare-earth minerals to the U.S. These materials\u00a0are used for a wide range of high-tech applications, including batteries and magnets for electric vehicles (EVs).",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.8176",
-                "source": "Motley Fool",
-                "ticker": "RIVN",
-                "title": "Here's What Rivian's CEO Just Said About Trump's Tariffs",
-                "url": "https://finance.yahoo.com/news/heres-rivians-ceo-just-said-113700223.html"
-            },
-            {
-                "headline": "Earnings results often indicate what direction a company will take in the months ahead. With Q4 behind us, let\u2019s have a look at Rivian (NASDAQ:RIVN) and its peers.",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "StockStory",
-                "ticker": "RIVN",
-                "title": "Winners And Losers Of Q4: Rivian (NASDAQ:RIVN) Vs The Rest Of The Automobile Manufacturing Stocks",
-                "url": "https://finance.yahoo.com/news/winners-losers-q4-rivian-nasdaq-090232529.html"
-            },
-            {
-                "headline": "Investors looking for ways to find stocks that are set to beat quarterly earnings estimates should check out the Zacks Earnings ESP.",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "RIVN",
-                "title": "Why Investors Need to Take Advantage of These 2 Auto-Tires-Trucks Stocks Now",
-                "url": "https://finance.yahoo.com/news/why-investors-advantage-2-auto-130010042.html"
-            }
-        ],
-        "avgScore": -0.04936,
-        "pctChange": -0.03879316794319258
-    },
-    "4 16 2025": {
-        "importantArticles": [
-            {
                 "headline": "Rivian Automotive (NasdaqGS:RIVN) experienced a significant month with a 11% share price increase, coinciding with the strategic spinout of its micromobility business, Also, Inc., where CEO RJ Scaringe will serve as Chairman. This move is likely seen as a refocus on Rivian's core electric vehicle operations. Despite a broader market experiencing volatility due to U.S. export restrictions and tech sector sell-offs, Rivian's organizational changes provide a positive counterbalance, hinting at...",
-                "publication_date": "2025-04-16T00:00:00.000Z",
+                "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.836",
                 "source": "Simply Wall St.",
@@ -211,7 +79,7 @@
             },
             {
                 "headline": "Rivian Automotive (NasdaqGS:RIVN) experienced a significant month with a 11% share price increase, coinciding with the strategic spinout of its micromobility business, Also, Inc., where CEO RJ Scaringe will serve as Chairman. This move is likely seen as a refocus on Rivian's core electric vehicle operations. Despite a broader market experiencing volatility due to U.S. export restrictions and tech sector sell-offs, Rivian's organizational changes provide a positive counterbalance, hinting at...",
-                "publication_date": "2025-04-16T00:00:00.000Z",
+                "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.836",
                 "source": "Simply Wall St.",
@@ -221,13 +89,13 @@
             }
         ],
         "avgScore": 0.836,
-        "pctChange": 0.009573595521565241
+        "pctChange": -0.03879316794319258
     },
-    "4 15 2025": {
+    "4 16 2025": {
         "importantArticles": [
             {
                 "headline": "Rivian founder and CEO RJ Scaringe on Tuesday talked about the Trump administration\u2019s tariffs and how the electric vehicle (EV) maker is navigating them during \"The Claman Countdown.\"",
-                "publication_date": "2025-04-15T00:00:00.000Z",
+                "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
                 "source": "Fox Business",
@@ -237,7 +105,7 @@
             },
             {
                 "headline": "Rivian Automotive (RIVN) concluded the recent trading session at $11.91, signifying a -1% move from its prior day's close.",
-                "publication_date": "2025-04-15T00:00:00.000Z",
+                "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
                 "source": "Zacks",
@@ -247,7 +115,7 @@
             },
             {
                 "headline": "At one point last year, it fell about 65% from January to April after poor delivery numbers, only to soar more than 100% from its lows on the news of a partnership with Volkswagen.  Can Rivian take advantage of Musk's missteps?  Elon Musk's foray into politics and DOGE (the Department of Government Efficiency) has clearly hurt Tesla\u00a0and opened the door for electric vehicle (EV) rivals like Rivian.",
-                "publication_date": "2025-04-15T00:00:00.000Z",
+                "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.2732",
                 "source": "Motley Fool",
@@ -257,7 +125,7 @@
             },
             {
                 "headline": "At one point last year, it fell about 65% from January to April after poor delivery numbers, only to soar more than 100% from its lows on the news of a partnership with Volkswagen.  Can Rivian take advantage of Musk's missteps?  Elon Musk's foray into politics and DOGE (the Department of Government Efficiency) has clearly hurt Tesla\u00a0and opened the door for electric vehicle (EV) rivals like Rivian.",
-                "publication_date": "2025-04-15T00:00:00.000Z",
+                "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.2732",
                 "source": "Motley Fool",
@@ -267,7 +135,7 @@
             },
             {
                 "headline": "Rivian Automotive (RIVN) concluded the recent trading session at $11.91, signifying a -1% move from its prior day's close.",
-                "publication_date": "2025-04-15T00:00:00.000Z",
+                "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
                 "source": "Zacks",
@@ -277,7 +145,7 @@
             },
             {
                 "headline": "Rivian founder and CEO RJ Scaringe on Tuesday talked about the Trump administration\u2019s tariffs and how the electric vehicle (EV) maker is navigating them during \"The Claman Countdown.\"",
-                "publication_date": "2025-04-15T00:00:00.000Z",
+                "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
                 "source": "Fox Business",
@@ -287,13 +155,13 @@
             }
         ],
         "avgScore": -0.09106666666666667,
-        "pctChange": -0.03526449048487654
+        "pctChange": 0.009573595521565241
     },
-    "4 14 2025": {
+    "4 15 2025": {
         "importantArticles": [
             {
                 "headline": "Tesla (NASDAQ: TSLA) has been one of the best investments of all time.  With a market cap of nearly $800 billion, Tesla's biggest days of growth are arguably behind it.  This reality has caused investors to search for the next Tesla capable of producing huge gains.",
-                "publication_date": "2025-04-14T00:00:00.000Z",
+                "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.9022",
                 "source": "Motley Fool",
@@ -303,7 +171,7 @@
             },
             {
                 "headline": "Jeff Bezos is reportedly backing a Michigan-based all-electric mobility startup, Slate Auto, with a goal of developing a cheap single-cab EV truck to take on the likes of Tesla Inc. (NASDAQ:TSLA) and Rivian Automotive Inc. (NASDAQ:RIVN). What happened: A report published by TechCrunch shared that the company is backed by Amazon.com Inc. (NASDAQ:AMZN) founder Jeff Bezos. The report said that Slate Auto has brought in people from the likes of Ford Motor Co. (NYSE:F), Harley-Davidson Inc. (NYSE:HOG",
-                "publication_date": "2025-04-14T00:00:00.000Z",
+                "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.802",
                 "source": "Benzinga",
@@ -313,7 +181,7 @@
             },
             {
                 "headline": "China\u2019s suspension of critical rare earth minerals exports to the US could become a major headache for US companies, particularly automakers like Tesla, GM, and Rivian.",
-                "publication_date": "2025-04-14T00:00:00.000Z",
+                "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.1226",
                 "source": "Yahoo Finance",
@@ -323,7 +191,7 @@
             },
             {
                 "headline": "Investing.com -- Bernstein has reiterated its bearish stance on Rivian (NASDAQ:RIVN), warning that the electric vehicle (EV) maker\u2019s shares could face nearly 50% downside from current levels due to mounting tariff pressures and financial headwinds.",
-                "publication_date": "2025-04-14T00:00:00.000Z",
+                "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.5423",
                 "source": "Investing.com",
@@ -333,7 +201,7 @@
             },
             {
                 "headline": "US automakers are facing \"tremendous\" uncertainty related to tariffs, with Ford Motor (F) and Genera",
-                "publication_date": "2025-04-14T00:00:00.000Z",
+                "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.34",
                 "source": "MT Newswires",
@@ -343,7 +211,7 @@
             },
             {
                 "headline": "China\u2019s suspension of critical rare earth minerals exports to the US could become a major headache for US companies, particularly automakers like Tesla, GM, and Rivian.",
-                "publication_date": "2025-04-14T00:00:00.000Z",
+                "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.1226",
                 "source": "Yahoo Finance",
@@ -353,39 +221,13 @@
             }
         ],
         "avgScore": 0.1889,
-        "pctChange": -0.009975053052594229
+        "pctChange": -0.03526449048487654
     },
-    "4 11 2025": {
-        "importantArticles": [
-            {
-                "headline": "We recently published a list of Jim Cramer Recently Talked About These 9 Stocks. In this article, we are going to take a look at where Rivian Automotive, Inc. (NASDAQ:RIVN) stands against other stocks that Jim Cramer discussed recently. On Wednesday, Jim Cramer, the host of Mad Money, shared his thoughts on the market turmoil [\u2026]",
-                "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.5106",
-                "source": "Insider Monkey",
-                "ticker": "RIVN",
-                "title": "Jim Cramer on Rivian (RIVN): Don\u2019t Own the Stock",
-                "url": "https://finance.yahoo.com/news/jim-cramer-rivian-rivn-don-163505205.html"
-            },
-            {
-                "headline": "We recently published a list of Jim Cramer Recently Talked About These 9 Stocks. In this article, we are going to take a look at where Rivian Automotive, Inc. (NASDAQ:RIVN) stands against other stocks that Jim Cramer discussed recently. On Wednesday, Jim Cramer, the host of Mad Money, shared his thoughts on the market turmoil [\u2026]",
-                "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.5106",
-                "source": "Insider Monkey",
-                "ticker": "RIVN",
-                "title": "Jim Cramer on Rivian (RIVN): Don\u2019t Own the Stock",
-                "url": "https://finance.yahoo.com/news/jim-cramer-rivian-rivn-don-163505205.html"
-            }
-        ],
-        "avgScore": -0.5106,
-        "pctChange": 0.048822968867065705
-    },
-    "4 9 2025": {
+    "4 10 2025": {
         "importantArticles": [
             {
                 "headline": "A number of stocks jumped in the afternoon session after markets rallied sharply on news that President Trump announced a 90-day tariff pause. Reciprocal tariffs were also dropped to 10% for most countries, sparking renewed optimism amid ongoing trade talks. The major stock indices rose as investors, growing impatient of seemingly irrational tariff actions, welcomed the pause as a sign of a more measured path forward.",
-                "publication_date": "2025-04-09T00:00:00.000Z",
+                "publication_date": "2025-04-10T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.5106",
                 "source": "StockStory",
@@ -395,7 +237,7 @@
             },
             {
                 "headline": "A number of stocks jumped in the afternoon session after markets rallied sharply on news that President Trump announced a 90-day tariff pause. Reciprocal tariffs were also dropped to 10% for most countries, sparking renewed optimism amid ongoing trade talks. The major stock indices rose as investors, growing impatient of seemingly irrational tariff actions, welcomed the pause as a sign of a more measured path forward.",
-                "publication_date": "2025-04-09T00:00:00.000Z",
+                "publication_date": "2025-04-10T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.5106",
                 "source": "StockStory",
@@ -405,13 +247,13 @@
             }
         ],
         "avgScore": 0.5106,
-        "pctChange": -0.026338182460495844
+        "pctChange": 0.0008726203183724358
     },
-    "4 7 2025": {
+    "4 8 2025": {
         "importantArticles": [
             {
                 "headline": "IRVINE, Calif., April 07, 2025--On Wednesday, April 16, 2025, at 3:50 PM ET, Rivian CFO Claire McDonough will participate in The Bank of America Securities 2025 Automotive Summit. A live webcast of the fireside chat will be available here.",
-                "publication_date": "2025-04-07T00:00:00.000Z",
+                "publication_date": "2025-04-08T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.296",
                 "source": "Business Wire",
@@ -421,7 +263,7 @@
             },
             {
                 "headline": "Rivian Automotive (RIVN) closed the most recent trading day at $11.21, making no change from the previous trading session.",
-                "publication_date": "2025-04-07T00:00:00.000Z",
+                "publication_date": "2025-04-08T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.296",
                 "source": "Zacks",
@@ -431,7 +273,7 @@
             },
             {
                 "headline": "Rivian Automotive (RIVN) closed the most recent trading day at $11.21, making no change from the previous trading session.",
-                "publication_date": "2025-04-07T00:00:00.000Z",
+                "publication_date": "2025-04-08T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.296",
                 "source": "Zacks",
@@ -441,7 +283,7 @@
             },
             {
                 "headline": "IRVINE, Calif., April 07, 2025--On Wednesday, April 16, 2025, at 3:50 PM ET, Rivian CFO Claire McDonough will participate in The Bank of America Securities 2025 Automotive Summit. A live webcast of the fireside chat will be available here.",
-                "publication_date": "2025-04-07T00:00:00.000Z",
+                "publication_date": "2025-04-08T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.296",
                 "source": "Business Wire",
@@ -451,59 +293,79 @@
             }
         ],
         "avgScore": 0.0,
+        "pctChange": 0.08981483795351738
+    },
+    "4 7 2025": {
+        "importantArticles": [
+            {
+                "headline": "Investors knew that 2025 might be a slow one for Rivian Automotive (NASDAQ: RIVN).  The young electric vehicle (EV) maker doesn't have any obvious catalysts to boost demand or deliveries throughout the year, and its highly anticipated R2 model doesn't launch until 2026.  As Rivian investors prepared for an unspectacular year, the company still managed to top estimates, although that might not be enough to appease investors, judging by the stock's 5% drop this past Wednesday following the first-quarter news release.",
+                "publication_date": "2025-04-07T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5994",
+                "source": "Motley Fool",
+                "ticker": "RIVN",
+                "title": "Rivian Deliveries Tank, but It's Not Time to Panic",
+                "url": "https://finance.yahoo.com/news/rivian-deliveries-tank-not-time-133000833.html"
+            },
+            {
+                "headline": "Rivian, Nio, and Polestar could thrive as Tesla tumbles.",
+                "publication_date": "2025-04-07T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Motley Fool",
+                "ticker": "RIVN",
+                "title": "3 Top EV Stocks to Buy in April",
+                "url": "https://finance.yahoo.com/news/3-top-ev-stocks-buy-224100418.html"
+            },
+            {
+                "headline": "Investing.com -- U.S. president Donald Trump\u2019s latest announcement of reciprocal tariffs has reignited investor concerns about the auto sector, with Bernstein warning of growing risks to both U.S. and European manufacturers.",
+                "publication_date": "2025-04-07T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.4215",
+                "source": "Investing.com",
+                "ticker": "RIVN",
+                "title": "Impact of tariffs on U.S. and European auto sector",
+                "url": "https://finance.yahoo.com/news/impact-tariffs-u-european-auto-093002893.html"
+            },
+            {
+                "headline": "Investing.com -- U.S. president Donald Trump\u2019s latest announcement of reciprocal tariffs has reignited investor concerns about the auto sector, with Bernstein warning of growing risks to both U.S. and European manufacturers.",
+                "publication_date": "2025-04-07T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.4215",
+                "source": "Investing.com",
+                "ticker": "RIVN",
+                "title": "Impact of tariffs on U.S. and European auto sector",
+                "url": "https://finance.yahoo.com/news/impact-tariffs-u-european-auto-093002893.html"
+            },
+            {
+                "headline": "Rivian, Nio, and Polestar could thrive as Tesla tumbles.",
+                "publication_date": "2025-04-07T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Motley Fool",
+                "ticker": "RIVN",
+                "title": "3 Top EV Stocks to Buy in April",
+                "url": "https://finance.yahoo.com/news/3-top-ev-stocks-buy-224100418.html"
+            },
+            {
+                "headline": "Investors knew that 2025 might be a slow one for Rivian Automotive (NASDAQ: RIVN).  The young electric vehicle (EV) maker doesn't have any obvious catalysts to boost demand or deliveries throughout the year, and its highly anticipated R2 model doesn't launch until 2026.  As Rivian investors prepared for an unspectacular year, the company still managed to top estimates, although that might not be enough to appease investors, judging by the stock's 5% drop this past Wednesday following the first-quarter news release.",
+                "publication_date": "2025-04-07T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5994",
+                "source": "Motley Fool",
+                "ticker": "RIVN",
+                "title": "Rivian Deliveries Tank, but It's Not Time to Panic",
+                "url": "https://finance.yahoo.com/news/rivian-deliveries-tank-not-time-133000833.html"
+            }
+        ],
+        "avgScore": 0.05930000000000002,
         "pctChange": -0.0365744733288942
     },
     "4 4 2025": {
         "importantArticles": [
             {
-                "headline": "Rivian Automotive's (NasdaqGS:RIVN) recent strategic decisions, notably the spin-off of its micromobility business and the appointment of a new Chief Accounting Officer, coincide with a 2% share price rise over the past month. The company's price movement contrasts with broader market declines, such as a 4% drop in the Nasdaq Composite amidst global trade tensions and escalating tariffs impacting tech and automotive sectors. While Rivian has experienced positive investor sentiment surrounding...",
-                "publication_date": "2025-04-04T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.25",
-                "source": "Simply Wall St.",
-                "ticker": "RIVN",
-                "title": "Rivian Automotive (NasdaqGS:RIVN) Rises 2% In A Month Following New Chief Accounting Officer Appointment",
-                "url": "https://finance.yahoo.com/news/rivian-automotive-nasdaqgs-rivn-rises-183733138.html"
-            },
-            {
-                "headline": "Tesla, Rivian Automotive, NIO, Li Auto and XPeng are part of the Zacks top Analyst Blog.",
-                "publication_date": "2025-04-04T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.2023",
-                "source": "Zacks",
-                "ticker": "RIVN",
-                "title": "The Zacks Analyst Blog Highlights Tesla, Rivian Automotive, NIO, Li Auto and XPeng",
-                "url": "https://finance.yahoo.com/news/zacks-analyst-blog-highlights-tesla-131300124.html"
-            },
-            {
-                "headline": "Tesla, Rivian Automotive, NIO, Li Auto and XPeng are part of the Zacks top Analyst Blog.",
-                "publication_date": "2025-04-04T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.2023",
-                "source": "Zacks",
-                "ticker": "RIVN",
-                "title": "The Zacks Analyst Blog Highlights Tesla, Rivian Automotive, NIO, Li Auto and XPeng",
-                "url": "https://finance.yahoo.com/news/zacks-analyst-blog-highlights-tesla-131300124.html"
-            },
-            {
-                "headline": "Rivian Automotive's (NasdaqGS:RIVN) recent strategic decisions, notably the spin-off of its micromobility business and the appointment of a new Chief Accounting Officer, coincide with a 2% share price rise over the past month. The company's price movement contrasts with broader market declines, such as a 4% drop in the Nasdaq Composite amidst global trade tensions and escalating tariffs impacting tech and automotive sectors. While Rivian has experienced positive investor sentiment surrounding...",
-                "publication_date": "2025-04-04T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.25",
-                "source": "Simply Wall St.",
-                "ticker": "RIVN",
-                "title": "Rivian Automotive (NasdaqGS:RIVN) Rises 2% In A Month Following New Chief Accounting Officer Appointment",
-                "url": "https://finance.yahoo.com/news/rivian-automotive-nasdaqgs-rivn-rises-183733138.html"
-            }
-        ],
-        "avgScore": 0.22615000000000002,
-        "pctChange": 0.0
-    },
-    "4 3 2025": {
-        "importantArticles": [
-            {
                 "headline": "Rivian\u2019s (RIVN) Q1 production and deliveries totaled 14,600 and 8,600, respectively, slightly ahead of the 14,000 and 8,000 guidance as it moves to build up inventory in the early part of the year ahead of its planned second half shutdown at Normal for the R2 expansion, Truist tells investors in a research note. The firm, which made no change to its Hold rating or $14 price target, says that while the numbers for Q1 were largely in-line with prior commentary and Street estimates, the shares and",
-                "publication_date": "2025-04-03T00:00:00.000Z",
+                "publication_date": "2025-04-04T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.34",
                 "source": "TipRanks",
@@ -513,7 +375,7 @@
             },
             {
                 "headline": "While Tesla and Rivian's first-quarter deliveries fall year over year, NIO, XPeng and Li Auto witness a surge in sales.",
-                "publication_date": "2025-04-03T00:00:00.000Z",
+                "publication_date": "2025-04-04T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
                 "source": "Zacks",
@@ -523,7 +385,7 @@
             },
             {
                 "headline": "RIVN's deliveries drop to 8,640 vehicles from 13,588 in the same period last year due to sluggish demand for EV.",
-                "publication_date": "2025-04-03T00:00:00.000Z",
+                "publication_date": "2025-04-04T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.6486",
                 "source": "Zacks",
@@ -533,13 +395,69 @@
             },
             {
                 "headline": "We recently published a list of Top 10 Stocks on Jim Cramer\u2019s Radar as Trump Tariffs Wreak Havoc Across Global Markets. In this article, we are going to take a look at where Rivian Automotive Inc (NASDAQ:RIVN) stands against other top stocks on Jim Cramer\u2019s radar as Trump tariffs wreak havoc across global markets. Jim [\u2026]",
-                "publication_date": "2025-04-03T00:00:00.000Z",
+                "publication_date": "2025-04-04T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.7351",
                 "source": "Insider Monkey",
                 "ticker": "RIVN",
                 "title": "Jim Cramer on Rivian Automotive (RIVN): \u2018I Do Worry About Financing\u2019",
                 "url": "https://finance.yahoo.com/news/jim-cramer-rivian-automotive-rivn-184721629.html"
+            },
+            {
+                "headline": "RIVN's deliveries drop to 8,640 vehicles from 13,588 in the same period last year due to sluggish demand for EV.",
+                "publication_date": "2025-04-04T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.6486",
+                "source": "Zacks",
+                "ticker": "RIVN",
+                "title": "Rivian Q1 Deliveries Decline Y/Y Amid Weaker Demand for EV",
+                "url": "https://finance.yahoo.com/news/rivian-q1-deliveries-decline-y-110900519.html"
+            },
+            {
+                "headline": "While Tesla and Rivian's first-quarter deliveries fall year over year, NIO, XPeng and Li Auto witness a surge in sales.",
+                "publication_date": "2025-04-04T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "RIVN",
+                "title": "EV Roundup: Q1 Deliveries of TSLA, RIVN, LI, XPEV & NIO in Focus",
+                "url": "https://finance.yahoo.com/news/ev-roundup-q1-deliveries-tsla-153700253.html"
+            }
+        ],
+        "avgScore": -0.26092499999999996,
+        "pctChange": 0.0
+    },
+    "4 3 2025": {
+        "importantArticles": [
+            {
+                "headline": "Electric vehicle (EV) maker Rivian Automotive (NASDAQ: RIVN) released first-quarter deliveries today, and the stock tanked.  If you liked Rivian stock before today, though, you should like it even more now.  While Rivian's EV deliveries declined by 36% year over year, the number of units shipped (8,640) was in line with guidance and expectations.",
+                "publication_date": "2025-04-03T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6808",
+                "source": "Motley Fool",
+                "ticker": "RIVN",
+                "title": "Why Rivian Stock Plunged Today",
+                "url": "https://finance.yahoo.com/news/why-rivian-stock-plunged-today-151610713.html"
+            },
+            {
+                "headline": "Investing.com -- Rivian Automotive reported first-quarter vehicle deliveries of 8640, a fall of 36% but it was slightly above analysts\u2019 estimates of 8610. Shares fell more than 4% in early tradingThe electric vehicle maker also said it produced 14611 vehicles at its Normal, Illinois, facility during the quarter ended March 31. For the same period last year, Rivian produced 13,980 vehicles at the same manufacturing facility and delivered 13,588 vehicles.",
+                "publication_date": "2025-04-03T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4215",
+                "source": "Investing.com",
+                "ticker": "RIVN",
+                "title": "Rivian deliveries fall but beat estimates slightly, shares down",
+                "url": "https://finance.yahoo.com/news/rivian-deliveries-fall-beat-estimates-141156400.html"
+            },
+            {
+                "headline": "Electric automaker Lucid  posted a 58% jump in first-quarter deliveries on Wednesday as it lowered prices of its vehicles, while peer Rivian Automotive reported a 36% decline.  Lucid has also offered incentives including cheaper financing to woo customers away from cheaper hybrid vehicles amid high interest rates.  Rivian has been battling tough demand as consumers opt for cheaper hybrid and gas-powered vehicles in an uncertain economic and political environment.",
+                "publication_date": "2025-04-03T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.3818",
+                "source": "Reuters",
+                "ticker": "RIVN",
+                "title": "Lucid's quarterly deliveries rise, Rivian's fall sharply",
+                "url": "https://finance.yahoo.com/news/rivian-reports-fall-first-quarter-123133979.html"
             },
             {
                 "headline": "If there\u2019s one thing that financial markets don\u2019t like, it\u2019s uncertainty \u2013 and President Trump\u2019s tariffs have thrown a huge bucket of uncertainty right into the mix. It\u2019s not just that his aggressive tariff policy has ignited a competitive trade war with our largest trading partners, Canada and Mexico \u2013 it\u2019s also that the mercurial President will announce tariffs, walk them back, and reimpose them. He\u2019s created an environment that makes it difficult for investors to predict what\u2019s coming next. F",
@@ -552,30 +470,40 @@
                 "url": "https://finance.yahoo.com/news/trump-tariffs-pain-could-stocks-080004921.html"
             },
             {
-                "headline": "RIVN's deliveries drop to 8,640 vehicles from 13,588 in the same period last year due to sluggish demand for EV.",
+                "headline": "We recently published a list of 10 Firms Outperform Broader Market on Tuesday. In this article, we are going to take a look at where Rivian Automotive Inc. (NASDAQ:RIVN) stands against other firms that outperform broader market on Tuesday. The stock market finished mixed on Tuesday, with the Dow Jones the sole loser with a [\u2026]",
                 "publication_date": "2025-04-03T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.6486",
-                "source": "Zacks",
+                "sentimentScore": "-0.5267",
+                "source": "Insider Monkey",
                 "ticker": "RIVN",
-                "title": "Rivian Q1 Deliveries Decline Y/Y Amid Weaker Demand for EV",
-                "url": "https://finance.yahoo.com/news/rivian-q1-deliveries-decline-y-110900519.html"
+                "title": "Why Rivian Automotive Inc. (RIVN) Went Up On Tuesday?",
+                "url": "https://finance.yahoo.com/news/why-rivian-automotive-inc-rivn-112941697.html"
+            },
+            {
+                "headline": "Shares of electric vehicle manufacturer Rivian (NASDAQ:RIVN) fell 6.9% in the morning session after the company reported weak first-quarter (2025) vehicle deliveries of 8,640 units, marking a 36% decline compared to the same period in the previous year. While the delivery figure matched both internal guidance and market expectations, the sharp drop hinted at demand and/or production challenges. The company also reaffirmed its full-year 2025 delivery guidance of 46,000 to 51,000 vehicles. However",
+                "publication_date": "2025-04-03T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.4588",
+                "source": "StockStory",
+                "ticker": "RIVN",
+                "title": "Why Rivian (RIVN) Shares Are Getting Obliterated Today",
+                "url": "https://finance.yahoo.com/news/why-rivian-rivn-shares-getting-180747472.html"
             }
         ],
-        "avgScore": -0.33846,
+        "avgScore": 0.03141428571428572,
         "pctChange": -0.027753660211209504
     },
     "4 2 2025": {
         "importantArticles": [
             {
-                "headline": "Electric vehicle (EV) maker Rivian Automotive (NASDAQ: RIVN) released first-quarter deliveries today, and the stock tanked.  If you liked Rivian stock before today, though, you should like it even more now.  While Rivian's EV deliveries declined by 36% year over year, the number of units shipped (8,640) was in line with guidance and expectations.",
+                "headline": "Rivian (NASDAQ: RIVN) stock posted big gains in Tuesday's trading thanks to a pair of bullish catalysts.  The electric vehicle (EV) company's shares ended the day up 6.4% amid the backdrop of a 0.3% gain for the S&P 500 and a 0.8% gain for the Nasdaq Composite.  The stock also got a boost from recent analysis that Rivian could benefit from recent controversies surrounding Tesla and its CEO Elon Musk.",
                 "publication_date": "2025-04-02T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.6808",
+                "sentimentScore": "0.9584",
                 "source": "Motley Fool",
                 "ticker": "RIVN",
-                "title": "Why Rivian Stock Plunged Today",
-                "url": "https://finance.yahoo.com/news/why-rivian-stock-plunged-today-151610713.html"
+                "title": "Why Rivian Stock Surged Today",
+                "url": "https://finance.yahoo.com/news/why-rivian-stock-surged-today-000845168.html"
             },
             {
                 "headline": "Some investors are hoping Tesla's recent controversies will give Rivian a much-needed boost.",
@@ -588,64 +516,8 @@
                 "url": "https://finance.yahoo.com/news/rivian-stock-buy-sell-hold-081500867.html"
             },
             {
-                "headline": "Investing.com -- Rivian Automotive reported first-quarter vehicle deliveries of 8640, a fall of 36% but it was slightly above analysts\u2019 estimates of 8610. Shares fell more than 4% in early tradingThe electric vehicle maker also said it produced 14611 vehicles at its Normal, Illinois, facility during the quarter ended March 31. For the same period last year, Rivian produced 13,980 vehicles at the same manufacturing facility and delivered 13,588 vehicles.",
-                "publication_date": "2025-04-02T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4215",
-                "source": "Investing.com",
-                "ticker": "RIVN",
-                "title": "Rivian deliveries fall but beat estimates slightly, shares down",
-                "url": "https://finance.yahoo.com/news/rivian-deliveries-fall-beat-estimates-141156400.html"
-            },
-            {
-                "headline": "We recently published a list of 10 Firms Outperform Broader Market on Tuesday. In this article, we are going to take a look at where Rivian Automotive Inc. (NASDAQ:RIVN) stands against other firms that outperform broader market on Tuesday. The stock market finished mixed on Tuesday, with the Dow Jones the sole loser with a [\u2026]",
-                "publication_date": "2025-04-02T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.5267",
-                "source": "Insider Monkey",
-                "ticker": "RIVN",
-                "title": "Why Rivian Automotive Inc. (RIVN) Went Up On Tuesday?",
-                "url": "https://finance.yahoo.com/news/why-rivian-automotive-inc-rivn-112941697.html"
-            },
-            {
-                "headline": "Shares of electric vehicle manufacturer Rivian (NASDAQ:RIVN) fell 6.9% in the morning session after the company reported weak first-quarter (2025) vehicle deliveries of 8,640 units, marking a 36% decline compared to the same period in the previous year. While the delivery figure matched both internal guidance and market expectations, the sharp drop hinted at demand and/or production challenges. The company also reaffirmed its full-year 2025 delivery guidance of 46,000 to 51,000 vehicles. However",
-                "publication_date": "2025-04-02T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.4588",
-                "source": "StockStory",
-                "ticker": "RIVN",
-                "title": "Why Rivian (RIVN) Shares Are Getting Obliterated Today",
-                "url": "https://finance.yahoo.com/news/why-rivian-rivn-shares-getting-180747472.html"
-            },
-            {
-                "headline": "The latest investor updates on stocks that are trending on Wednesday.",
-                "publication_date": "2025-04-02T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Yahoo Finance UK",
-                "ticker": "RIVN",
-                "title": "Trending tickers: Tesla, Johnson & Johnson, CoreWeave, Newsmax and Raspberry Pi",
-                "url": "https://finance.yahoo.com/news/tesla-johnson-johnson-coreweave-newsmax-raspberry-pi-trending-tickers-094114477.html"
-            }
-        ],
-        "avgScore": 0.12563571428571427,
-        "pctChange": -0.07686149365405703
-    },
-    "4 1 2025": {
-        "importantArticles": [
-            {
-                "headline": "Rivian (NASDAQ: RIVN) stock posted big gains in Tuesday's trading thanks to a pair of bullish catalysts.  The electric vehicle (EV) company's shares ended the day up 6.4% amid the backdrop of a 0.3% gain for the S&P 500 and a 0.8% gain for the Nasdaq Composite.  The stock also got a boost from recent analysis that Rivian could benefit from recent controversies surrounding Tesla and its CEO Elon Musk.",
-                "publication_date": "2025-04-01T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.9584",
-                "source": "Motley Fool",
-                "ticker": "RIVN",
-                "title": "Why Rivian Stock Surged Today",
-                "url": "https://finance.yahoo.com/news/why-rivian-stock-surged-today-000845168.html"
-            },
-            {
                 "headline": "Electric vehicle maker Rivian is spinning out a startup focused on small EVs designed for short trips, with investment from venture capital firm Eclipse. Rivian CEO RJ Scaringe and&nbsp;Eclipse partner Jiten Behl speak with Caroline Hyde on \"Bloomberg Technology.\"",
-                "publication_date": "2025-04-01T00:00:00.000Z",
+                "publication_date": "2025-04-02T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.3818",
                 "source": "Bloomberg",
@@ -654,18 +526,8 @@
                 "url": "https://finance.yahoo.com/video/rivian-spins-off-micromobility-startup-180245598.html"
             },
             {
-                "headline": "We recently compiled a list of the 10 Best EV Stocks to Buy Under $50. In this article, we are going to take a look at where Rivian Automotive, Inc. (NASDAQ:RIVN) stands against the other EV stocks under $50. Electric vehicle (EV) sales continue to grow but at a slower pace than many had previously [\u2026]",
-                "publication_date": "2025-04-01T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.3818",
-                "source": "Insider Monkey",
-                "ticker": "RIVN",
-                "title": "Is Rivian Automotive, Inc. (RIVN) The Best EV Stock to Buy Under $50?",
-                "url": "https://finance.yahoo.com/news/rivian-automotive-inc-rivn-best-170107519.html"
-            },
-            {
                 "headline": "Tesla, Rivian Automotive, Lucid, General Motors and Ford are part of the Zacks top Analyst Blog.",
-                "publication_date": "2025-04-01T00:00:00.000Z",
+                "publication_date": "2025-04-02T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.2023",
                 "source": "Zacks",
@@ -675,7 +537,7 @@
             },
             {
                 "headline": "We recently compiled a list of the 10 Best EV Stocks to Buy Under $50. In this article, we are going to take a look at where Rivian Automotive, Inc. (NASDAQ:RIVN) stands against the other EV stocks under $50. Electric vehicle (EV) sales continue to grow but at a slower pace than many had previously [\u2026]",
-                "publication_date": "2025-04-01T00:00:00.000Z",
+                "publication_date": "2025-04-02T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.3818",
                 "source": "Insider Monkey",
@@ -685,7 +547,7 @@
             },
             {
                 "headline": "Electric vehicle maker Rivian is spinning out a startup focused on small EVs designed for short trips, with investment from venture capital firm Eclipse. Rivian CEO RJ Scaringe and&nbsp;Eclipse partner Jiten Behl speak with Caroline Hyde on \"Bloomberg Technology.\"",
-                "publication_date": "2025-04-01T00:00:00.000Z",
+                "publication_date": "2025-04-02T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.3818",
                 "source": "Bloomberg",
@@ -694,14 +556,14 @@
                 "url": "https://finance.yahoo.com/video/rivian-spins-off-micromobility-startup-180245598.html"
             }
         ],
-        "avgScore": 0.481075,
-        "pctChange": -0.05948795013087529
+        "avgScore": 0.5189600000000001,
+        "pctChange": -0.07686149365405703
     },
-    "3 31 2025": {
+    "4 1 2025": {
         "importantArticles": [
             {
                 "headline": "Rivian Automotive (NASDAQ: RIVN) reported full-year 2024 earnings in late February.  It should come as no surprise to anyone that Rivian has been bleeding red ink for years.  In 2023, Rivian was focused on ramping up production so it could make vehicles at scale.",
-                "publication_date": "2025-03-31T00:00:00.000Z",
+                "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.3612",
                 "source": "Motley Fool",
@@ -711,7 +573,7 @@
             },
             {
                 "headline": "Rivian Automotive (RIVN) closed at $12.45 in the latest trading session, marking a +0.32% move from the prior day.",
-                "publication_date": "2025-03-31T00:00:00.000Z",
+                "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
                 "source": "Zacks",
@@ -721,7 +583,7 @@
             },
             {
                 "headline": "Rivian Automotive (RIVN) closed at $12.45 in the latest trading session, marking a +0.32% move from the prior day.",
-                "publication_date": "2025-03-31T00:00:00.000Z",
+                "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
                 "source": "Zacks",
@@ -731,7 +593,7 @@
             },
             {
                 "headline": "Rivian Automotive (NASDAQ: RIVN) reported full-year 2024 earnings in late February.  It should come as no surprise to anyone that Rivian has been bleeding red ink for years.  In 2023, Rivian was focused on ramping up production so it could make vehicles at scale.",
-                "publication_date": "2025-03-31T00:00:00.000Z",
+                "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.3612",
                 "source": "Motley Fool",
@@ -741,39 +603,39 @@
             }
         ],
         "avgScore": 0.1806,
-        "pctChange": 0.0666666615599768
+        "pctChange": -0.05948795013087529
     },
     "3 28 2025": {
         "importantArticles": [
             {
-                "headline": "Rivian Automotive (NasdaqGS:RIVN) saw a notable share price increase of nearly 20% last week, coinciding with its strategic decision to spin off its micromobility business into Also, Inc., highlighting the company's focus on core electric vehicle operations. This move may have strengthened investor confidence despite broader market concerns, as the Dow Jones Industrial Average and NASDAQ Composite experienced declines amid heightened inflation and weakened consumer sentiment. While the...",
+                "headline": "Shares of electric vehicle manufacturer Rivian (NASDAQ:RIVN) jumped 8.5% in the afternoon session as auto companies with significant manufacturing local presence became more favored after US President Donald Trump announced a 25% tariff on all vehicles imported into the United States. Rivian manufactures its cars in the United States. While this does not necessarily mean the company sources all its components and raw materials domestically, the stock's positive reaction indicates that investors",
                 "publication_date": "2025-03-28T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.8074",
-                "source": "Simply Wall St.",
+                "sentimentScore": "0.9359",
+                "source": "StockStory",
                 "ticker": "RIVN",
-                "title": "Rivian Automotive (NasdaqGS:RIVN) Sees 20% Weekly Price Jump After Spin-Off Of Micromobility Business",
-                "url": "https://finance.yahoo.com/news/rivian-automotive-nasdaqgs-rivn-sees-174201804.html"
+                "title": "Rivian (RIVN) Shares Skyrocket, What You Need To Know",
+                "url": "https://finance.yahoo.com/news/rivian-rivn-shares-skyrocket-know-185453395.html"
             },
             {
-                "headline": "Automotive stocks had a mixed Thursday after President Trump announced plans for additional new tariffs on imported vehicles and auto parts.  Among the winners in that session was Rivian Automotive (NASDAQ: RIVN).  The theory was that those import tariffs won't affect it like competitors such as General Motors and Ford, which both make electric trucks and SUVs.",
+                "headline": "Both European and American automakers are seeing their shares take a hit from President Trump's decision to put a 25% levy on vehicles and some auto parts imported into the US. There are a couple of auto stocks moving higher though. Both Tesla and Rivian are trading higher given how much of their production is in the United States. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
                 "publication_date": "2025-03-28T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.2477",
-                "source": "Motley Fool",
+                "sentimentScore": "0.6124",
+                "source": "Yahoo Finance Video",
                 "ticker": "RIVN",
-                "title": "Why Rivian Stock Sold Off Today",
-                "url": "https://finance.yahoo.com/news/why-rivian-stock-sold-off-170930533.html"
+                "title": "Auto stocks feel the impact of Trump's latest tariff: Market Minute",
+                "url": "https://finance.yahoo.com/video/auto-stocks-feel-impact-trumps-152124933.html"
             },
             {
-                "headline": "RIVN spins off its micromobility business into a new EV startup called Also, Inc., with $105 million in funding from Eclipse to enter the lightweight EV market.",
+                "headline": "In connection with the spin-off, Also has secured $105m from venture capital fund Eclipse Venture.",
                 "publication_date": "2025-03-28T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4019",
+                "source": "Just Auto",
                 "ticker": "RIVN",
-                "title": "Rivian Spins Off Micromobility Business Into EV Startup \"Also\"",
-                "url": "https://finance.yahoo.com/news/rivian-spins-off-micromobility-business-151800198.html"
+                "title": "Rivian spins out electric micromobility business",
+                "url": "https://finance.yahoo.com/news/rivian-spins-electric-micromobility-business-121704741.html"
             },
             {
                 "headline": "We recently published a list of 10 Stocks Jump, Defy Market Uncertainties on Thursday. In this article, we are going to take a look at where Rivian Automotive Inc. (NASDAQ:RIVN) stands against other stocks that jumped, defying market uncertainties on Thursday. The stock market extended losses on Thursday, with all the major indices ending in [\u2026]",
@@ -786,14 +648,14 @@
                 "url": "https://finance.yahoo.com/news/why-rivian-automotive-inc-rivn-082639507.html"
             },
             {
-                "headline": "Automaker stocks here and abroad are getting smoked following President Trump's big move to impose 25% tariffs on foreign autos and certain auto parts. But one automaker is up \u2014 Tesla.",
+                "headline": "The automaker says that the cameras it developed for its Enhanced Highway Assist feature\u00a0offer the highest resolution \u201cof any vehicle in North America.\u201d",
                 "publication_date": "2025-03-28T00:00:00.000Z",
                 "sentiment": "Neutral",
-                "sentimentScore": "-0.0129",
-                "source": "Yahoo Finance",
+                "sentimentScore": "0.0",
+                "source": "Automotive Dive",
                 "ticker": "RIVN",
-                "title": "Elon Musk says Trump's auto tariffs won't be a problem for Tesla",
-                "url": "https://finance.yahoo.com/news/elon-musk-says-trumps-auto-tariffs-wont-be-a-problem-for-tesla-164553149.html"
+                "title": "Rivian rolls out hands-free driving via software update",
+                "url": "https://finance.yahoo.com/news/rivian-rolls-hands-free-driving-094800766.html"
             },
             {
                 "headline": "Which of these electric vehicle stocks deserves more attention from investors?",
@@ -806,80 +668,14 @@
                 "url": "https://finance.yahoo.com/news/better-ev-stock-nio-vs-083000175.html"
             }
         ],
-        "avgScore": 0.040614285714285714,
+        "avgScore": 0.19871666666666665,
         "pctChange": 0.003223204056796878
     },
     "3 27 2025": {
         "importantArticles": [
             {
-                "headline": "Shares of electric vehicle manufacturer Rivian (NASDAQ:RIVN) jumped 8.5% in the afternoon session as auto companies with significant manufacturing local presence became more favored after US President Donald Trump announced a 25% tariff on all vehicles imported into the United States. Rivian manufactures its cars in the United States. While this does not necessarily mean the company sources all its components and raw materials domestically, the stock's positive reaction indicates that investors",
-                "publication_date": "2025-03-27T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.9359",
-                "source": "StockStory",
-                "ticker": "RIVN",
-                "title": "Rivian (RIVN) Shares Skyrocket, What You Need To Know",
-                "url": "https://finance.yahoo.com/news/rivian-rivn-shares-skyrocket-know-185453395.html"
-            },
-            {
-                "headline": "Both European and American automakers are seeing their shares take a hit from President Trump's decision to put a 25% levy on vehicles and some auto parts imported into the US. There are a couple of auto stocks moving higher though. Both Tesla and Rivian are trading higher given how much of their production is in the United States. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
-                "publication_date": "2025-03-27T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6124",
-                "source": "Yahoo Finance Video",
-                "ticker": "RIVN",
-                "title": "Auto stocks feel the impact of Trump's latest tariff: Market Minute",
-                "url": "https://finance.yahoo.com/video/auto-stocks-feel-impact-trumps-152124933.html"
-            },
-            {
-                "headline": "In connection with the spin-off, Also has secured $105m from venture capital fund Eclipse Venture.",
-                "publication_date": "2025-03-27T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4019",
-                "source": "Just Auto",
-                "ticker": "RIVN",
-                "title": "Rivian spins out electric micromobility business",
-                "url": "https://finance.yahoo.com/news/rivian-spins-electric-micromobility-business-121704741.html"
-            },
-            {
-                "headline": "The automaker says that the cameras it developed for its Enhanced Highway Assist feature\u00a0offer the highest resolution \u201cof any vehicle in North America.\u201d",
-                "publication_date": "2025-03-27T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Automotive Dive",
-                "ticker": "RIVN",
-                "title": "Rivian rolls out hands-free driving via software update",
-                "url": "https://finance.yahoo.com/news/rivian-rolls-hands-free-driving-094800766.html"
-            },
-            {
-                "headline": "In connection with the spin-off, Also has secured $105m from venture capital fund Eclipse Venture.",
-                "publication_date": "2025-03-27T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4019",
-                "source": "Just Auto",
-                "ticker": "RIVN",
-                "title": "Rivian spins out electric micromobility business",
-                "url": "https://finance.yahoo.com/news/rivian-spins-electric-micromobility-business-121704741.html"
-            },
-            {
-                "headline": "Both European and American automakers are seeing their shares take a hit from President Trump's decision to put a 25% levy on vehicles and some auto parts imported into the US. There are a couple of auto stocks moving higher though. Both Tesla and Rivian are trading higher given how much of their production is in the United States. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
-                "publication_date": "2025-03-27T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6124",
-                "source": "Yahoo Finance Video",
-                "ticker": "RIVN",
-                "title": "Auto stocks feel the impact of Trump's latest tariff: Market Minute",
-                "url": "https://finance.yahoo.com/video/auto-stocks-feel-impact-trumps-152124933.html"
-            }
-        ],
-        "avgScore": 0.48755,
-        "pctChange": -0.046851043694689454
-    },
-    "3 26 2025": {
-        "importantArticles": [
-            {
                 "headline": "Rivian  Automotive is spinning out its micromobility business into a new startup called Also Inc.  The new company will focus on small, lightweight vehicles, as well as micromobility, which includes electric scooters and bicycles.  In connection with the spinoff, Also secured a $105 million investment from the venture capital fund Eclipse Ventures, which plans to support the company\u2019s next stage of growth, Rivian said.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
+                "publication_date": "2025-03-27T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.8442",
                 "source": "The Wall Street Journal",
@@ -889,7 +685,7 @@
             },
             {
                 "headline": "Consumer stocks were mixed late Wednesday afternoon with the Consumer Staples Select Sector SPDR Fun",
-                "publication_date": "2025-03-26T00:00:00.000Z",
+                "publication_date": "2025-03-27T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.5106",
                 "source": "MT Newswires",
@@ -899,7 +695,7 @@
             },
             {
                 "headline": "Micromobility startup Also said on Wednesday it has been spun-off from electric-vehicle maker Rivian Automotive with $105 million in Series B funding from venture capital firm Eclipse and will focus on lightweight EVs.  Also will offer small, lightweight, electrically powered vehicles to serve customers at various price points and across geographies, the company said, but did not give specific details about the products.  As demand for sustainable transportation grows, startups are increasingly focusing on small electric vehicles as a solution to congestion, affordability and increasing emissions.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
+                "publication_date": "2025-03-27T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.296",
                 "source": "Reuters",
@@ -909,7 +705,7 @@
             },
             {
                 "headline": "Earnings results often indicate what direction a company will take in the months ahead. With Q4 behind us, let\u2019s have a look at Tesla (NASDAQ:TSLA) and its peers.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
+                "publication_date": "2025-03-27T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
                 "source": "StockStory",
@@ -919,7 +715,7 @@
             },
             {
                 "headline": "Rivian Automotive Inc. is spinning out a new \"micromobility\" company, known as Also, that will develop small electric vehicles designed for short trips. Craig Trudell reports on Bloomberg Television.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
+                "publication_date": "2025-03-27T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
                 "source": "Bloomberg",
@@ -929,7 +725,7 @@
             },
             {
                 "headline": "Rivian Automotive on Wednesday announced a micromobility company that it has been secretly working on for several years.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
+                "publication_date": "2025-03-27T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
                 "source": "Investopedia",
@@ -939,13 +735,13 @@
             }
         ],
         "avgScore": 0.1349076923076923,
-        "pctChange": 0.07603306175947389
+        "pctChange": -0.046851043694689454
     },
-    "3 25 2025": {
+    "3 26 2025": {
         "importantArticles": [
             {
                 "headline": "Rivian Automotive (NasdaqGS:RIVN) saw a 10% increase in its stock price over the past week, buoyed by recent executive changes and expanded collaboration. The appointment of Sreela Venkataratnam as Chief Accounting Officer aligns with Rivian's ongoing efforts to strengthen its financial team. Meanwhile, their expanded collaboration with XPEL introduces more customization options for R1T and R1S owners, potentially appealing to new customers. This price increase also reflects market trends, as...",
-                "publication_date": "2025-03-25T00:00:00.000Z",
+                "publication_date": "2025-03-26T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.7096",
                 "source": "Simply Wall St.",
@@ -955,7 +751,7 @@
             },
             {
                 "headline": "Rivian Automotive (RIVN) closed the most recent trading day at $12.36, moving +1.39% from the previous trading session.",
-                "publication_date": "2025-03-25T00:00:00.000Z",
+                "publication_date": "2025-03-26T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
                 "source": "Zacks",
@@ -965,7 +761,7 @@
             },
             {
                 "headline": "Rivian Automotive (RIVN) closed the most recent trading day at $12.36, moving +1.39% from the previous trading session.",
-                "publication_date": "2025-03-25T00:00:00.000Z",
+                "publication_date": "2025-03-26T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
                 "source": "Zacks",
@@ -975,7 +771,7 @@
             },
             {
                 "headline": "Rivian Automotive (NasdaqGS:RIVN) saw a 10% increase in its stock price over the past week, buoyed by recent executive changes and expanded collaboration. The appointment of Sreela Venkataratnam as Chief Accounting Officer aligns with Rivian's ongoing efforts to strengthen its financial team. Meanwhile, their expanded collaboration with XPEL introduces more customization options for R1T and R1S owners, potentially appealing to new customers. This price increase also reflects market trends, as...",
-                "publication_date": "2025-03-25T00:00:00.000Z",
+                "publication_date": "2025-03-26T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.7096",
                 "source": "Simply Wall St.",
@@ -985,13 +781,13 @@
             }
         ],
         "avgScore": 0.3548,
-        "pctChange": -0.021035540649635864
+        "pctChange": 0.07603306175947389
     },
-    "3 24 2025": {
+    "3 25 2025": {
         "importantArticles": [
             {
                 "headline": "Many growth stocks have struggled so far this year.  Rivian (NASDAQ: RIVN) is no exception.  The strange thing is that shares are dropping in value right as the company gears up for its biggest growth spurt in years.",
-                "publication_date": "2025-03-24T00:00:00.000Z",
+                "publication_date": "2025-03-25T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.5267",
                 "source": "Motley Fool",
@@ -1001,7 +797,7 @@
             },
             {
                 "headline": "Many growth stocks have struggled so far this year.  Rivian (NASDAQ: RIVN) is no exception.  The strange thing is that shares are dropping in value right as the company gears up for its biggest growth spurt in years.",
-                "publication_date": "2025-03-24T00:00:00.000Z",
+                "publication_date": "2025-03-25T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.5267",
                 "source": "Motley Fool",
@@ -1011,14 +807,14 @@
             }
         ],
         "avgScore": 0.5267,
-        "pctChange": 0.013945863998840256
+        "pctChange": -0.021035540649635864
     },
-    "coef": 0.05263157894736842,
-    "avgCoef": 0.02286541264876143,
+    "coef": -0.3071428571428571,
+    "avgCoef": 0.018145656640311716,
     "similar": {
-        "RXRX": 0.5263157894736842,
-        "RGTI": 0.524561403508772,
-        "VALE": 0.4052631578947368,
-        "PTEN": 0.38596491228070173
+        "EQX": 0.47857142857142854,
+        "GOLD": 0.37857142857142856,
+        "NGD": 0.35357142857142854,
+        "JD": 0.2714285714285714
     }
 }

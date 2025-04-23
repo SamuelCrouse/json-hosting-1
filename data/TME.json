@@ -1,9 +1,9 @@
 {
-    "4 15 2025": {
+    "4 16 2025": {
         "importantArticles": [
             {
                 "headline": "Tencent Music Entertainment Group (\"TME\", or the \"Company\") (NYSE: TME and HKEX: 1698), the leading online music and audio entertainment platform in China, today announced that it will report its unaudited financial results for the first quarter of 2025 before the U.S. market opens on Tuesday, May 13, 2025.",
-                "publication_date": "2025-04-15T00:00:00.000Z",
+                "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.6808",
                 "source": "PR Newswire",
@@ -13,7 +13,7 @@
             },
             {
                 "headline": "Tencent Music Entertainment Group (\"TME\", or the \"Company\") (NYSE: TME and HKEX: 1698), the leading online music and audio entertainment platform in China, today announced that it will report its unaudited financial results for the first quarter of 2025 before the U.S. market opens on Tuesday, May 13, 2025.",
-                "publication_date": "2025-04-15T00:00:00.000Z",
+                "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.6808",
                 "source": "PR Newswire",
@@ -23,13 +23,13 @@
             }
         ],
         "avgScore": 0.6808,
-        "pctChange": -0.035965601213366026
+        "pctChange": -0.0032441169586807646
     },
-    "4 9 2025": {
+    "4 10 2025": {
         "importantArticles": [
             {
                 "headline": "Investing.com -- U.S. export tariffs on China are renewing investor concerns over macro risks. Bernstein has analysed which Chinese internet companies can best weather a slowdown. The brokerage models how Trip.com, Tencent Music, and Baidu (NASDAQ:BIDU) would fare in the event of a 1% decline in China\u2019s GDP growth.",
-                "publication_date": "2025-04-09T00:00:00.000Z",
+                "publication_date": "2025-04-10T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.6908",
                 "source": "Investing.com",
@@ -39,7 +39,7 @@
             },
             {
                 "headline": "Investing.com -- U.S. export tariffs on China are renewing investor concerns over macro risks. Bernstein has analysed which Chinese internet companies can best weather a slowdown. The brokerage models how Trip.com, Tencent Music, and Baidu (NASDAQ:BIDU) would fare in the event of a 1% decline in China\u2019s GDP growth.",
-                "publication_date": "2025-04-09T00:00:00.000Z",
+                "publication_date": "2025-04-10T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.6908",
                 "source": "Investing.com",
@@ -49,14 +49,66 @@
             }
         ],
         "avgScore": 0.6908,
-        "pctChange": -0.011867133554614943
+        "pctChange": -0.02081667202933499
     },
-    "coef": 0.9999999999999999,
-    "avgCoef": 0.02361167301270127,
+    "4 2 2025": {
+        "importantArticles": [
+            {
+                "headline": "Tencent Music Entertainment Group (\"TME\", or the \"Company\") (NYSE: TME and HKEX: 1698), the leading online music and audio entertainment platform in China, today released its 2024 Environmental, Social and Governance (\"ESG\") report, outlining the achievements and progress it made throughout the year in executing a sustainability strategy.",
+                "publication_date": "2025-04-02T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8126",
+                "source": "PR Newswire",
+                "ticker": "TME",
+                "title": "Tencent Music Entertainment Group Releases 2024 ESG Report",
+                "url": "https://finance.yahoo.com/news/tencent-music-entertainment-group-releases-090000472.html"
+            },
+            {
+                "headline": "Tencent Music Entertainment Group (\"TME\", or the \"Company\") (NYSE: TME and HKEX: 1698), the leading online music and audio entertainment platform in China, today released its 2024 Environmental, Social and Governance (\"ESG\") report, outlining the achievements and progress it made throughout the year in executing a sustainability strategy.",
+                "publication_date": "2025-04-02T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8126",
+                "source": "PR Newswire",
+                "ticker": "TME",
+                "title": "Tencent Music Entertainment Group Releases 2024 ESG Report",
+                "url": "https://finance.yahoo.com/news/tencent-music-entertainment-group-releases-090000472.html"
+            }
+        ],
+        "avgScore": 0.8126,
+        "pctChange": -0.010366314404732914
+    },
+    "3 24 2025": {
+        "importantArticles": [
+            {
+                "headline": "Tencent Music Entertainment Group (NYSE:TME) recently announced a robust financial performance with annual revenue growing to CNY 28,401 million and net income reaching CNY 6,644 million. These results, coupled with the approval of a new $1,000 million share buyback program, likely bolstered investor confidence, contributing to a 19% price rise over the last quarter. The tech sector's rally, supported by broader market gains after four-week declines, also played a role. Governance changes,...",
+                "publication_date": "2025-03-24T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9657",
+                "source": "Simply Wall St.",
+                "ticker": "TME",
+                "title": "Tencent Music Entertainment Group (NYSE:TME) Jumps 19% This Quarter After Strong Financial Results",
+                "url": "https://finance.yahoo.com/news/tencent-music-entertainment-group-nyse-171331442.html"
+            },
+            {
+                "headline": "Tencent Music Entertainment Group (NYSE:TME) recently announced a robust financial performance with annual revenue growing to CNY 28,401 million and net income reaching CNY 6,644 million. These results, coupled with the approval of a new $1,000 million share buyback program, likely bolstered investor confidence, contributing to a 19% price rise over the last quarter. The tech sector's rally, supported by broader market gains after four-week declines, also played a role. Governance changes,...",
+                "publication_date": "2025-03-24T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9657",
+                "source": "Simply Wall St.",
+                "ticker": "TME",
+                "title": "Tencent Music Entertainment Group (NYSE:TME) Jumps 19% This Quarter After Strong Financial Results",
+                "url": "https://finance.yahoo.com/news/tencent-music-entertainment-group-nyse-171331442.html"
+            }
+        ],
+        "avgScore": 0.9657,
+        "pctChange": 0.004936508696594912
+    },
+    "coef": 0.39999999999999997,
+    "avgCoef": -0.006032483476667155,
     "similar": {
-        "NVDA": 0.9999999999999999,
-        "PLTR": 0.9999999999999999,
-        "PSLV": 0.9999999999999999,
-        "LCID": 0.9999999999999999
+        "INTC": 0.7999999999999999,
+        "TSLA": 0.39999999999999997,
+        "BTG": 0.39999999999999997,
+        "T": 0.39999999999999997
     }
 }

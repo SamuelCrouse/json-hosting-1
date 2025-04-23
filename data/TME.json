@@ -1,0 +1,62 @@
+{
+    "4 15 2025": {
+        "importantArticles": [
+            {
+                "headline": "Tencent Music Entertainment Group (\"TME\", or the \"Company\") (NYSE: TME and HKEX: 1698), the leading online music and audio entertainment platform in China, today announced that it will report its unaudited financial results for the first quarter of 2025 before the U.S. market opens on Tuesday, May 13, 2025.",
+                "publication_date": "2025-04-15T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6808",
+                "source": "PR Newswire",
+                "ticker": "TME",
+                "title": "Tencent Music Entertainment Group to Report First Quarter 2025 Financial Results on May 13, 2025",
+                "url": "https://finance.yahoo.com/news/tencent-music-entertainment-group-report-100000648.html"
+            },
+            {
+                "headline": "Tencent Music Entertainment Group (\"TME\", or the \"Company\") (NYSE: TME and HKEX: 1698), the leading online music and audio entertainment platform in China, today announced that it will report its unaudited financial results for the first quarter of 2025 before the U.S. market opens on Tuesday, May 13, 2025.",
+                "publication_date": "2025-04-15T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6808",
+                "source": "PR Newswire",
+                "ticker": "TME",
+                "title": "Tencent Music Entertainment Group to Report First Quarter 2025 Financial Results on May 13, 2025",
+                "url": "https://finance.yahoo.com/news/tencent-music-entertainment-group-report-100000648.html"
+            }
+        ],
+        "avgScore": 0.6808,
+        "pctChange": -0.035965601213366026
+    },
+    "4 9 2025": {
+        "importantArticles": [
+            {
+                "headline": "Investing.com -- U.S. export tariffs on China are renewing investor concerns over macro risks. Bernstein has analysed which Chinese internet companies can best weather a slowdown. The brokerage models how Trip.com, Tencent Music, and Baidu (NASDAQ:BIDU) would fare in the event of a 1% decline in China\u2019s GDP growth.",
+                "publication_date": "2025-04-09T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6908",
+                "source": "Investing.com",
+                "ticker": "TME",
+                "title": "How resilient are China internet names to tariff-induced macro pressures?",
+                "url": "https://finance.yahoo.com/news/resilient-china-internet-names-tariff-205847024.html"
+            },
+            {
+                "headline": "Investing.com -- U.S. export tariffs on China are renewing investor concerns over macro risks. Bernstein has analysed which Chinese internet companies can best weather a slowdown. The brokerage models how Trip.com, Tencent Music, and Baidu (NASDAQ:BIDU) would fare in the event of a 1% decline in China\u2019s GDP growth.",
+                "publication_date": "2025-04-09T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6908",
+                "source": "Investing.com",
+                "ticker": "TME",
+                "title": "How resilient are China internet names to tariff-induced macro pressures?",
+                "url": "https://finance.yahoo.com/news/resilient-china-internet-names-tariff-205847024.html"
+            }
+        ],
+        "avgScore": 0.6908,
+        "pctChange": -0.011867133554614943
+    },
+    "coef": 0.9999999999999999,
+    "avgCoef": 0.02361167301270127,
+    "similar": {
+        "NVDA": 0.9999999999999999,
+        "PLTR": 0.9999999999999999,
+        "PSLV": 0.9999999999999999,
+        "LCID": 0.9999999999999999
+    }
+}

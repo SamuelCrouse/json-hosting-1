@@ -42,6 +42,16 @@
                 "url": "https://finance.yahoo.com/news/morning-bid-trumps-fed-backflip-043542722.html"
             },
             {
+                "headline": "Tesla\u2019s profit slid last quarter, as the company struggled to overcome a reputational hit from Chief Executive Elon Musk\u2019s polarizing role in the Trump administration.  Musk said he would devote less time to his work at the Department of Government Efficiency from next month, but struck a defiant tone.  \u201cI believe the right thing to do is to fight the waste and fraud and try to get the country back on the right track,\u201d he said late Tuesday, after Tesla posted earnings.",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.9377",
+                "source": "The Wall Street Journal",
+                "ticker": "TSLA",
+                "title": "Tesla Stock Rises After Musk Says He Will Spend Less Time on DOGE",
+                "url": "https://finance.yahoo.com/m/0dc4bb4e-c6eb-3dfe-815d-57b67d6cd5ec/tesla-stock-rises-after-musk.html"
+            },
+            {
                 "headline": "SHANGHAI (Reuters) -China's annual auto shows have become the world's premier showcase for the rise of ever-cheaper, high-tech electric vehicles from domestic brands in the world's biggest car market.  But the Shanghai auto show opened on Wednesday amid industry-wide uncertainty over how the U.S.-China trade war could sap demand and upend supply chains as about 70 automakers launched more than 100 new models into a crowded market with more losers than winners.  Automakers also wrestled with a Chinese government crackdown, announced last week, on the marketing of smart-driving systems that many industry executives view as the next technological battleground here.",
                 "publication_date": "2025-04-23T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -50,23 +60,23 @@
                 "ticker": "TSLA",
                 "title": "Trade war, safety concerns take centre stage at Shanghai auto show",
                 "url": "https://finance.yahoo.com/news/trade-war-safety-concerns-centre-044323312.html"
-            },
-            {
-                "headline": "Musk offered no evidence for his claims but described the protests as \u201cnatural blowback\u201d on Tesla from those on the receiving end of the fraud.",
-                "publication_date": "2025-04-23T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.8462",
-                "source": "Fortune",
-                "ticker": "TSLA",
-                "title": "Elon Musk claims Tesla demonstrators are somehow being paid via the government\u2019s \u2018waste and fraud\u2019 \u2014 they just won\u2019t admit it",
-                "url": "https://finance.yahoo.com/news/elon-musk-claims-tesla-demonstrators-233238848.html"
             }
         ],
-        "avgScore": 0.1281639344262296,
-        "pctChange": -0.03641214296897381
+        "avgScore": 0.13515080645161295,
+        "pctChange": -0.0011378532741046926
     },
     "4 22 2025": {
         "importantArticles": [
+            {
+                "headline": "Wall Street is tracking a lot of things beyond Tesla\u2019s earnings.  Everything from the company\u2019s artificial intelligence plans to Elon Musk\u2019s future at Trump\u2019s so-called Department of Government Efficiency is on the table.  The consensus among Wall Street is for earnings of 36 cents a share from $20.1 billion in sales.",
+                "publication_date": "2025-04-22T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7783",
+                "source": "Barrons.com",
+                "ticker": "TSLA",
+                "title": "Margins, AI, a 'Code Red,' and What Else Wall Street Is Watching Beyond Earnings",
+                "url": "https://finance.yahoo.com/m/67a3ff69-ab1a-3910-8585-a397084155e0/margins-ai-a-code-red-.html"
+            },
             {
                 "headline": "As US stocks (^DJI, ^GSPC, ^IXIC) sell off, Solidarity Capital CEO Jeff McClean sits down with Josh Lipton to check in on the \"Magnificent Seven,\" made up of Nvidia (NVDA), Alphabet (GOOG, GOOGL), Tesla (TSLA), Microsoft (MSFT), Amazon (AMZN), Meta (META), and Apple (AAPL). To watch more expert insights and analysis on the latest market action, check out more Asking for a Trend here.",
                 "publication_date": "2025-04-22T00:00:00.000Z",
@@ -86,16 +96,6 @@
                 "ticker": "TSLA",
                 "title": "Tesla at Risk of a \u2018Throwaway Year\u2019 Without a New Narrative From Earnings",
                 "url": "https://finance.yahoo.com/news/tesla-risk-throwaway-without-narrative-110309935.html"
-            },
-            {
-                "headline": "It fell out of the top 10 on Monday, according to Dow Jones Market Data.  Tesla hasn\u2019t been out of the top 10 since June 11, 2024.  In June 2024, Tesla was worth about $544 billion, which was good enough for 12th place.",
-                "publication_date": "2025-04-22T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7506",
-                "source": "Barrons.com",
-                "ticker": "TSLA",
-                "title": "Tesla Is No Longer Among the 10 Most Valuable S&P 500 Companies",
-                "url": "https://finance.yahoo.com/m/f2906328-82da-397f-83eb-d1a4181f96e3/tesla-is-no-longer-among-the.html"
             },
             {
                 "headline": "Markets tumble as investors brace for political drama, rate cut chaos, and a weaker dollar",
@@ -118,143 +118,129 @@
                 "url": "https://finance.yahoo.com/m/b27c447e-eec9-3958-9c63-4d8e7fd000af/tesla-stock-is-falling-.html"
             },
             {
-                "headline": "Stocks plunge, gold hits record highs, and investors brace for chaos as Fed independence faces its biggest threat in decades.",
+                "headline": "Tesla (NASDAQ: TSLA) stock fell again on Monday after news broke of a major delay in its production plans.  The company-specific news that investors were reacting to was that Tesla will delay the U.S. debut of the bare-bones version of its Model Y. That lower-priced new electric vehicle (EV) was slated to launch this quarter, but its launch will now be pushed out to at least the third quarter, and possibly all the way into 2026, according to Reuters, which was unable to learn the reason for the delay.  Tesla stock is now down by 45% across 2025's trading.",
                 "publication_date": "2025-04-22T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.7964",
-                "source": "GuruFocus.com",
+                "sentimentScore": "-0.7311",
+                "source": "Motley Fool",
                 "ticker": "TSLA",
-                "title": "Trump vs. Powell Just Triggered a Market Earthquake--And Tesla Is Caught in the Crossfire",
-                "url": "https://finance.yahoo.com/news/trump-vs-powell-just-triggered-164919370.html"
+                "title": "Tesla Is Sinking Again Today: Is It Time to Buy the Stock?",
+                "url": "https://finance.yahoo.com/news/tesla-sinking-again-today-time-190223733.html"
             }
         ],
-        "avgScore": 0.018805172413793092,
-        "pctChange": 0.03197882326055769
+        "avgScore": 0.044970370370370334,
+        "pctChange": 0.0697567173104315
     },
-    "4 9 2025": {
+    "4 17 2025": {
         "importantArticles": [
             {
-                "headline": "Tesla reported first quarter earnings after the bell on Tuesday that were short of estimates, but Elon Musk's plans to pare back his DOGE activities sent shares higher.",
-                "publication_date": "2025-04-09T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4215",
+                "headline": "US stocks jumped after President Trump said he has \"no intention\" of firing Federal Reserve Chair Jerome Powell, easing fears on Wall Street that the central bank's independence was under threat.",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.8316",
                 "source": "Yahoo Finance",
                 "ticker": "TSLA",
-                "title": "Tesla stock rises after Musk says time at DOGE will drop 'significantly'",
-                "url": "https://finance.yahoo.com/news/tesla-stock-rises-after-musk-says-time-at-doge-will-drop-significantly-124551548.html"
+                "title": "Stock market today: Dow, S&P 500, Nasdaq soar as Trump softens stance on Powell, China tariffs",
+                "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-soar-as-trump-softens-stance-on-powell-china-tariffs-133419017.html"
             },
             {
-                "headline": "Market worries about Trump trying to unseat Fed chair Jerome Powell were eased, as the president said he had 'no intention' of firing him.",
-                "publication_date": "2025-04-09T00:00:00.000Z",
+                "headline": "US stocks jumped after President Trump said he has \"no intention\" of firing Federal Reserve Chair Jerome Powell, easing fears on Wall Street that the central bank's independence was under threat.",
+                "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.6369",
-                "source": "Yahoo Finance UK",
-                "ticker": "TSLA",
-                "title": "LIVE: FTSE 100 and US markets gain as Trump softens stance on China tariffs, Powell",
-                "url": "https://finance.yahoo.com/news/live/ftse-100-live-markets-trump-china-tariff-stocks-073833524.html"
-            },
-            {
-                "headline": "Market worries about Trump trying to unseat Fed chair Jerome Powell were eased, as the president said he had 'no intention' of firing him.",
-                "publication_date": "2025-04-09T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.6369",
-                "source": "Yahoo Finance UK",
-                "ticker": "TSLA",
-                "title": "LIVE: FTSE 100 and US markets gain as Trump softens stance on China tariffs, Powell",
-                "url": "https://finance.yahoo.com/news/live/ftse-100-live-markets-trump-china-tariff-stocks-073833524.html"
-            },
-            {
-                "headline": "Tesla reported first quarter earnings after the bell on Tuesday that were short of estimates, but Elon Musk's plans to pare back his DOGE activities sent shares higher.",
-                "publication_date": "2025-04-09T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4215",
+                "sentimentScore": "-0.8316",
                 "source": "Yahoo Finance",
                 "ticker": "TSLA",
-                "title": "Tesla stock rises after Musk says time at DOGE will drop 'significantly'",
-                "url": "https://finance.yahoo.com/news/tesla-stock-rises-after-musk-says-time-at-doge-will-drop-significantly-124551548.html"
+                "title": "Stock market today: Dow, S&P 500, Nasdaq soar as Trump softens stance on Powell, China tariffs",
+                "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-soar-as-trump-softens-stance-on-powell-china-tariffs-133419017.html"
             }
         ],
-        "avgScore": -0.10770000000000002,
-        "pctChange": -0.07274069589492625
+        "avgScore": -0.8316,
+        "pctChange": -0.05746362595919796
     },
-    "4 7 2025": {
+    "4 14 2025": {
         "importantArticles": [
             {
-                "headline": "Elon Musk shifts attention back to Tesla's AI and autonomous goals, boosting investor sentiment despite weak Q1 results",
-                "publication_date": "2025-04-07T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.5867",
+                "headline": "Elon Musk will reduce his involvement in the Trump administration's DOGE initiative to focus more on Tesla and other ventures.",
+                "publication_date": "2025-04-14T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
                 "source": "GuruFocus.com",
                 "ticker": "TSLA",
-                "title": "Tesla Jumps as Musk Reaffirms Commitment to AI, Shrugs Off Q1 Weakness",
-                "url": "https://finance.yahoo.com/news/tesla-jumps-musk-reaffirms-commitment-134604809.html"
+                "title": "Musk to Refocus on Tesla as Profit Drops 71% in Q1",
+                "url": "https://finance.yahoo.com/news/musk-refocus-tesla-profit-drops-152000559.html"
             },
             {
-                "headline": "U.S. stocks opened sharply higher Wednesday, buoyed in part by President Trump\u2019s indication that tariffs on China \u201cwill come down substantially but it won\u2019t be zero.\u201d",
-                "publication_date": "2025-04-07T00:00:00.000Z",
+                "headline": "Elon Musk will reduce his involvement in the Trump administration's DOGE initiative to focus more on Tesla and other ventures.",
+                "publication_date": "2025-04-14T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
-                "source": "Quartz",
-                "ticker": "TSLA",
-                "title": "Trump blinks \u2014 and stocks come roaring back",
-                "url": "https://finance.yahoo.com/news/trump-blinks-stocks-come-roaring-122700042.html"
-            },
-            {
-                "headline": "U.S. stocks opened sharply higher Wednesday, buoyed in part by President Trump\u2019s indication that tariffs on China \u201cwill come down substantially but it won\u2019t be zero.\u201d",
-                "publication_date": "2025-04-07T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Quartz",
-                "ticker": "TSLA",
-                "title": "Trump blinks \u2014 and stocks come roaring back",
-                "url": "https://finance.yahoo.com/news/trump-blinks-stocks-come-roaring-122700042.html"
-            },
-            {
-                "headline": "Elon Musk shifts attention back to Tesla's AI and autonomous goals, boosting investor sentiment despite weak Q1 results",
-                "publication_date": "2025-04-07T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.5867",
                 "source": "GuruFocus.com",
                 "ticker": "TSLA",
-                "title": "Tesla Jumps as Musk Reaffirms Commitment to AI, Shrugs Off Q1 Weakness",
-                "url": "https://finance.yahoo.com/news/tesla-jumps-musk-reaffirms-commitment-134604809.html"
-            }
-        ],
-        "avgScore": 0.29335,
-        "pctChange": -0.04899478333715855
-    },
-    "4 4 2025": {
-        "importantArticles": [
-            {
-                "headline": "Q1 2025 Tesla Inc Earnings Call",
-                "publication_date": "2025-04-04T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Thomson Reuters StreetEvents",
-                "ticker": "TSLA",
-                "title": "Q1 2025 Tesla Inc Earnings Call",
-                "url": "https://finance.yahoo.com/news/q1-2025-tesla-inc-earnings-134252928.html"
-            },
-            {
-                "headline": "Q1 2025 Tesla Inc Earnings Call",
-                "publication_date": "2025-04-04T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Thomson Reuters StreetEvents",
-                "ticker": "TSLA",
-                "title": "Q1 2025 Tesla Inc Earnings Call",
-                "url": "https://finance.yahoo.com/news/q1-2025-tesla-inc-earnings-134252928.html"
+                "title": "Musk to Refocus on Tesla as Profit Drops 71% in Q1",
+                "url": "https://finance.yahoo.com/news/musk-refocus-tesla-profit-drops-152000559.html"
             }
         ],
         "avgScore": 0.0,
-        "pctChange": -0.02564423663480949
+        "pctChange": 0.006974418324816589
     },
-    "coef": 0.09999999999999999,
-    "avgCoef": -0.03490180752355741,
+    "4 10 2025": {
+        "importantArticles": [
+            {
+                "headline": "Market worries about Trump trying to unseat Fed chair Jerome Powell were eased, as the president said he had 'no intention' of firing him.",
+                "publication_date": "2025-04-10T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.6369",
+                "source": "Yahoo Finance UK",
+                "ticker": "TSLA",
+                "title": "LIVE: FTSE 100 and US markets gain as Trump softens stance on China tariffs, Powell",
+                "url": "https://finance.yahoo.com/news/live/ftse-100-live-markets-trump-china-tariff-stocks-073833524.html"
+            },
+            {
+                "headline": "Market worries about Trump trying to unseat Fed chair Jerome Powell were eased, as the president said he had 'no intention' of firing him.",
+                "publication_date": "2025-04-10T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.6369",
+                "source": "Yahoo Finance UK",
+                "ticker": "TSLA",
+                "title": "LIVE: FTSE 100 and US markets gain as Trump softens stance on China tariffs, Powell",
+                "url": "https://finance.yahoo.com/news/live/ftse-100-live-markets-trump-china-tariff-stocks-073833524.html"
+            }
+        ],
+        "avgScore": -0.6369,
+        "pctChange": -0.0003565623615963112
+    },
+    "3 25 2025": {
+        "importantArticles": [
+            {
+                "headline": "Tesla missed Q1 estimates with adjusted EPS of 27 cents vs. 39 cents expected.",
+                "publication_date": "2025-03-25T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.296",
+                "source": "GuruFocus.com",
+                "ticker": "TSLA",
+                "title": "Tesla Earnings Crash 71% as Auto Sales Stall, Factory Reworks Bite Into Profit",
+                "url": "https://finance.yahoo.com/news/tesla-earnings-crash-71-auto-145938335.html"
+            },
+            {
+                "headline": "Tesla missed Q1 estimates with adjusted EPS of 27 cents vs. 39 cents expected.",
+                "publication_date": "2025-03-25T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.296",
+                "source": "GuruFocus.com",
+                "ticker": "TSLA",
+                "title": "Tesla Earnings Crash 71% as Auto Sales Stall, Factory Reworks Bite Into Profit",
+                "url": "https://finance.yahoo.com/news/tesla-earnings-crash-71-auto-145938335.html"
+            }
+        ],
+        "avgScore": -0.296,
+        "pctChange": -0.05580626179068929
+    },
+    "coef": 0.5428571428571429,
+    "avgCoef": -0.03388882362071795,
     "similar": {
-        "PDCO": 1.0,
-        "GRAB": 0.8999999999999998,
-        "AGNC": 0.6,
-        "CCL": 0.6
+        "WBD": 0.942857142857143,
+        "TSLA": 0.8857142857142858,
+        "MU": 0.8857142857142858,
+        "SMCI": 0.7714285714285715
     }
 }

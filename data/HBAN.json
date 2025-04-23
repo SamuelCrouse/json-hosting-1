@@ -23,7 +23,7 @@
             }
         ],
         "avgScore": 0.1779,
-        "pctChange": 0.01651109384045529
+        "pctChange": 0.017946876850182904
     },
     "4 21 2025": {
         "importantArticles": [
@@ -104,17 +104,17 @@
                 "url": "https://finance.yahoo.com/news/huntington-bancshares-q1-earnings-snapshot-111646931.html"
             },
             {
-                "headline": "U.S. President Donald Trump's trade policies have sparked concerns about rising inflation and a potential recession, prompting the bank to set aside a bigger buffer to cover loans that might not be repaid.  Huntington's provision for credit losses was $115 million, higher than $107 million from a year earlier.  Its net interest income - the difference between what a bank earns as interest on loans and pays out on deposits - jumped to $1.43 billion in the first quarter, compared with $1.29 billion a year earlier.",
+                "headline": "Huntington Bancshares Incorporated announced that the Board of Directors declared a quarterly cash dividend on the company's common stock (Nasdaq: HBAN) of $0.155 per common share, unchanged from the prior quarter. The common stock cash dividend is payable July 1, 2025, to shareholders of record on June 17, 2025.",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.4767",
-                "source": "Reuters",
+                "sentimentScore": "0.296",
+                "source": "PR Newswire",
                 "ticker": "HBAN",
-                "title": "Huntington's Q1 profit rises as Fed rate cuts temper deposit costs",
-                "url": "https://finance.yahoo.com/news/huntingtons-q1-profit-rises-fed-124350953.html"
+                "title": "Huntington Bancshares Incorporated Declares Quarterly Cash Dividends On Its Common and Preferred Stocks",
+                "url": "https://finance.yahoo.com/news/huntington-bancshares-incorporated-declares-quarterly-200900689.html"
             }
         ],
-        "avgScore": 0.39940000000000003,
+        "avgScore": 0.38462857142857143,
         "pctChange": -0.014630563873366004
     },
     "4 15 2025": {
@@ -218,8 +218,34 @@
     "4 3 2025": {
         "importantArticles": [
             {
-                "headline": "Huntington Bancshares Incorporated (Nasdaq: HBAN) will release first quarter 2025 financial results prior to the market opening on Thursday, April 17, 2025. A news release and supporting financial data will be available at that time on the Investor Relations section of the company's website (www.huntington-ir.com).",
+                "headline": "Capstone Partners, a leading middle market investment banking firm, released its 2024 Middle Market M&A Valuations Index, reporting that middle market M&A activity in 2024 showed signs of stabilization after facing valuation pressure in 2023. While equity markets largely shrugged off the rapid interest rate hikes last year, dealmaking remained constrained by high financing costs, uncertain cash flow projections, and a cautious private equity buyer pool. As a result, average middle market M&A val",
                 "publication_date": "2025-04-03T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.296",
+                "source": "PR Newswire",
+                "ticker": "HBAN",
+                "title": "Capstone Partners Reports:  Middle Market M&A Valuations Ease, Market Players Retain Confidence in a Turnaround in 2025",
+                "url": "https://finance.yahoo.com/news/capstone-partners-reports-middle-market-180000345.html"
+            },
+            {
+                "headline": "Capstone Partners, a leading middle market investment banking firm, released its 2024 Middle Market M&A Valuations Index, reporting that middle market M&A activity in 2024 showed signs of stabilization after facing valuation pressure in 2023. While equity markets largely shrugged off the rapid interest rate hikes last year, dealmaking remained constrained by high financing costs, uncertain cash flow projections, and a cautious private equity buyer pool. As a result, average middle market M&A val",
+                "publication_date": "2025-04-03T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.296",
+                "source": "PR Newswire",
+                "ticker": "HBAN",
+                "title": "Capstone Partners Reports:  Middle Market M&A Valuations Ease, Market Players Retain Confidence in a Turnaround in 2025",
+                "url": "https://finance.yahoo.com/news/capstone-partners-reports-middle-market-180000345.html"
+            }
+        ],
+        "avgScore": -0.296,
+        "pctChange": -0.06389299065675497
+    },
+    "4 2 2025": {
+        "importantArticles": [
+            {
+                "headline": "Huntington Bancshares Incorporated (Nasdaq: HBAN) will release first quarter 2025 financial results prior to the market opening on Thursday, April 17, 2025. A news release and supporting financial data will be available at that time on the Investor Relations section of the company's website (www.huntington-ir.com).",
+                "publication_date": "2025-04-02T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.4404",
                 "source": "PR Newswire",
@@ -228,28 +254,8 @@
                 "url": "https://finance.yahoo.com/news/huntington-bancshares-incorporated-announces-first-200500518.html"
             },
             {
-                "headline": "Capstone Partners, a leading middle market investment banking firm, released its 2024 Middle Market M&A Valuations Index, reporting that middle market M&A activity in 2024 showed signs of stabilization after facing valuation pressure in 2023. While equity markets largely shrugged off the rapid interest rate hikes last year, dealmaking remained constrained by high financing costs, uncertain cash flow projections, and a cautious private equity buyer pool. As a result, average middle market M&A val",
-                "publication_date": "2025-04-03T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.296",
-                "source": "PR Newswire",
-                "ticker": "HBAN",
-                "title": "Capstone Partners Reports:  Middle Market M&A Valuations Ease, Market Players Retain Confidence in a Turnaround in 2025",
-                "url": "https://finance.yahoo.com/news/capstone-partners-reports-middle-market-180000345.html"
-            },
-            {
-                "headline": "Capstone Partners, a leading middle market investment banking firm, released its 2024 Middle Market M&A Valuations Index, reporting that middle market M&A activity in 2024 showed signs of stabilization after facing valuation pressure in 2023. While equity markets largely shrugged off the rapid interest rate hikes last year, dealmaking remained constrained by high financing costs, uncertain cash flow projections, and a cautious private equity buyer pool. As a result, average middle market M&A val",
-                "publication_date": "2025-04-03T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.296",
-                "source": "PR Newswire",
-                "ticker": "HBAN",
-                "title": "Capstone Partners Reports:  Middle Market M&A Valuations Ease, Market Players Retain Confidence in a Turnaround in 2025",
-                "url": "https://finance.yahoo.com/news/capstone-partners-reports-middle-market-180000345.html"
-            },
-            {
                 "headline": "Huntington Bancshares Incorporated (Nasdaq: HBAN) will release first quarter 2025 financial results prior to the market opening on Thursday, April 17, 2025. A news release and supporting financial data will be available at that time on the Investor Relations section of the company's website (www.huntington-ir.com).",
-                "publication_date": "2025-04-03T00:00:00.000Z",
+                "publication_date": "2025-04-02T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.4404",
                 "source": "PR Newswire",
@@ -258,14 +264,40 @@
                 "url": "https://finance.yahoo.com/news/huntington-bancshares-incorporated-announces-first-200500518.html"
             }
         ],
-        "avgScore": 0.07220000000000001,
-        "pctChange": -0.06389299065675497
+        "avgScore": 0.4404,
+        "pctChange": -0.11505588399809115
     },
     "4 1 2025": {
         "importantArticles": [
             {
-                "headline": "Huntington Bancshares Incorporated announced that the Board of Directors declared and set aside a quarterly cash dividend on the company's 5.70% Series I Non-Cumulative Perpetual Preferred Stock (Nasdaq: HBANM) of $356.25 per share (equivalent to $0.35625 per depositary share) payable June 2, 2025, to shareholders of record on May 15, 2025.",
+                "headline": "Huntington Bancshares (NasdaqGS:HBAN) announced a quarterly cash dividend on its preferred stock, which is a significant corporate event for stakeholders. Despite this, the company's share price declined by 2% over the past week. This movement occurred during a general market downturn, with the market dropping 3.4%, driven by broader economic concerns, including anticipated tariffs and weak manufacturing data. While the overall market faced volatility and pressure on equities, especially with...",
                 "publication_date": "2025-04-01T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.2732",
+                "source": "Simply Wall St.",
+                "ticker": "HBAN",
+                "title": "Huntington Bancshares (NasdaqGS:HBAN) Declares US$356 Dividend Despite 2% Share Price Dip",
+                "url": "https://finance.yahoo.com/news/huntington-bancshares-nasdaqgs-hban-declares-174101520.html"
+            },
+            {
+                "headline": "Huntington Bancshares (NasdaqGS:HBAN) announced a quarterly cash dividend on its preferred stock, which is a significant corporate event for stakeholders. Despite this, the company's share price declined by 2% over the past week. This movement occurred during a general market downturn, with the market dropping 3.4%, driven by broader economic concerns, including anticipated tariffs and weak manufacturing data. While the overall market faced volatility and pressure on equities, especially with...",
+                "publication_date": "2025-04-01T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.2732",
+                "source": "Simply Wall St.",
+                "ticker": "HBAN",
+                "title": "Huntington Bancshares (NasdaqGS:HBAN) Declares US$356 Dividend Despite 2% Share Price Dip",
+                "url": "https://finance.yahoo.com/news/huntington-bancshares-nasdaqgs-hban-declares-174101520.html"
+            }
+        ],
+        "avgScore": -0.2732,
+        "pctChange": 0.017391319879529563
+    },
+    "3 31 2025": {
+        "importantArticles": [
+            {
+                "headline": "Huntington Bancshares Incorporated announced that the Board of Directors declared and set aside a quarterly cash dividend on the company's 5.70% Series I Non-Cumulative Perpetual Preferred Stock (Nasdaq: HBANM) of $356.25 per share (equivalent to $0.35625 per depositary share) payable June 2, 2025, to shareholders of record on May 15, 2025.",
+                "publication_date": "2025-03-31T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.296",
                 "source": "PR Newswire",
@@ -274,28 +306,8 @@
                 "url": "https://finance.yahoo.com/news/huntington-bancshares-incorporated-declares-cash-200500115.html"
             },
             {
-                "headline": "Huntington Bancshares (NasdaqGS:HBAN) announced a quarterly cash dividend on its preferred stock, which is a significant corporate event for stakeholders. Despite this, the company's share price declined by 2% over the past week. This movement occurred during a general market downturn, with the market dropping 3.4%, driven by broader economic concerns, including anticipated tariffs and weak manufacturing data. While the overall market faced volatility and pressure on equities, especially with...",
-                "publication_date": "2025-04-01T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.2732",
-                "source": "Simply Wall St.",
-                "ticker": "HBAN",
-                "title": "Huntington Bancshares (NasdaqGS:HBAN) Declares US$356 Dividend Despite 2% Share Price Dip",
-                "url": "https://finance.yahoo.com/news/huntington-bancshares-nasdaqgs-hban-declares-174101520.html"
-            },
-            {
-                "headline": "Huntington Bancshares (NasdaqGS:HBAN) announced a quarterly cash dividend on its preferred stock, which is a significant corporate event for stakeholders. Despite this, the company's share price declined by 2% over the past week. This movement occurred during a general market downturn, with the market dropping 3.4%, driven by broader economic concerns, including anticipated tariffs and weak manufacturing data. While the overall market faced volatility and pressure on equities, especially with...",
-                "publication_date": "2025-04-01T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.2732",
-                "source": "Simply Wall St.",
-                "ticker": "HBAN",
-                "title": "Huntington Bancshares (NasdaqGS:HBAN) Declares US$356 Dividend Despite 2% Share Price Dip",
-                "url": "https://finance.yahoo.com/news/huntington-bancshares-nasdaqgs-hban-declares-174101520.html"
-            },
-            {
                 "headline": "Huntington Bancshares Incorporated announced that the Board of Directors declared and set aside a quarterly cash dividend on the company's 5.70% Series I Non-Cumulative Perpetual Preferred Stock (Nasdaq: HBANM) of $356.25 per share (equivalent to $0.35625 per depositary share) payable June 2, 2025, to shareholders of record on May 15, 2025.",
-                "publication_date": "2025-04-01T00:00:00.000Z",
+                "publication_date": "2025-03-31T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.296",
                 "source": "PR Newswire",
@@ -304,8 +316,8 @@
                 "url": "https://finance.yahoo.com/news/huntington-bancshares-incorporated-declares-cash-200500115.html"
             }
         ],
-        "avgScore": 0.011399999999999993,
-        "pctChange": 0.017391319879529563
+        "avgScore": 0.296,
+        "pctChange": -0.003997363004781841
     },
     "3 25 2025": {
         "importantArticles": [
@@ -333,12 +345,12 @@
         "avgScore": 0.7184,
         "pctChange": -0.003916414304019426
     },
-    "coef": 0.15,
-    "avgCoef": -0.007654233665861102,
+    "coef": 0.05454545454545456,
+    "avgCoef": -0.0017162843285272215,
     "similar": {
-        "BABA": 0.6833333333333333,
-        "T": 0.6166666666666666,
-        "VALE": 0.5833333333333334,
-        "GRAB": 0.5666666666666667
+        "NEE": 0.7181818181818183,
+        "T": 0.7000000000000001,
+        "VZ": 0.6454545454545455,
+        "BABA": 0.5909090909090909
     }
 }

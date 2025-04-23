@@ -269,11 +269,13 @@ def main(tickers):
         except KeyError as e:
             print("KeyError:", e)
 
-        # except IndexError as e:
-            # print("IndexError:", e)
+        except IndexError as e:
+            print("IndexError:", e)
 
         # except TypeError as e:
             # print("TypeError:", e)
+
+        upf.commit_and_push()
 
         time.sleep(90)
 
@@ -371,12 +373,11 @@ if __name__ == "__main__":
     while True:
         mostActive = getDayMovers()
         if "SPY" not in mostActive: mostActive.insert(0, "SPY")
+        mostActive = [x for x in mostActive if type(x) == str]
 
         upd.update_price_data(mostActive)
 
         print(mostActive)
         print(len(mostActive))
         main(mostActive)
-
-        upf.commit_and_push()
     # """

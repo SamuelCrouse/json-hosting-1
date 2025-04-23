@@ -1,140 +1,208 @@
 {
+    "4 22 2025": {
+        "importantArticles": [
+            {
+                "headline": "Many investors are concerned about the impact that tariffs will have on Nvidia's (NASDAQ: NVDA) stock, but Nvidia has already taken steps to circumvent these tariffs: Its most powerful GPUs will be entirely produced in the U.S. This is a massive win for the country, as some of our most critical products won't need to be sourced from outside our borders.  Nvidia announced that its Blackwell chips, the company's current most powerful graphics processing units (GPUs), will be produced entirely in the U.S. Now, this isn't happening tomorrow, but its production is expected to ramp up in the next 12 to 15 months.  Components for these GPUs will come from Taiwan Semiconductor Manufacturing's (NYSE: TSM) chip facility in Phoenix, Foxconn's facility in Houston, and Wistron's facility in Dallas, with final assembly occurring in Nvidia's plant in Texas.",
+                "publication_date": "2025-04-22T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.902",
+                "source": "Motley Fool",
+                "ticker": "NVDA",
+                "title": "Tariff Buster: Nvidia Announces Blackwell GPUs Will Be Made in the U.S. Is the Stock a Buy?",
+                "url": "https://finance.yahoo.com/news/tariff-buster-nvidia-announces-blackwell-115500502.html"
+            },
+            {
+                "headline": "The unbridled optimism for Wall Street's artificial intelligence (AI) darling is starting to sour.",
+                "publication_date": "2025-04-22T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.886",
+                "source": "Motley Fool",
+                "ticker": "NVDA",
+                "title": "Prediction: 8 Wall Street Analysts Lowered Nvidia's Price Target Last Week -- and This Is Just the Beginning",
+                "url": "https://finance.yahoo.com/news/prediction-8-wall-street-analysts-073600067.html"
+            },
+            {
+                "headline": "CoreWeave shares surged Tuesday as several analysts launched coverage of the artificial intelligence play with price targets suggesting they see gains for the stock.",
+                "publication_date": "2025-04-22T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8625",
+                "source": "Investopedia",
+                "ticker": "NVDA",
+                "title": "Nvidia-Backed CoreWeave's Stock Jumps as Analysts Launch Coverage\u2014Here's What They're Saying",
+                "url": "https://finance.yahoo.com/news/nvidia-backed-coreweaves-stock-jumps-180534966.html"
+            },
+            {
+                "headline": "Nvidia reversed higher on Tuesday after shares fell more than 4% on Monday amid fears the trade war may open the door for a Chinese rival to step into its market.  Reports that Amazon.com may be delaying several new data center leases also pressured the stock.  Does that mean Nvidia stock is a buy now?",
+                "publication_date": "2025-04-22T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.7506",
+                "source": "Investor's Business Daily",
+                "ticker": "NVDA",
+                "title": "Nvidia Rises On Amazon's 'Expansion Plans'; Is Nvidia A Buy Now?",
+                "url": "https://finance.yahoo.com/m/dc591aa5-8656-399f-a2b0-90fb4c8c329e/nvidia-rises-on-amazon-s.html"
+            },
+            {
+                "headline": "Investing.com -- Wedbush tech analyst Dan Ives highlighted the urgent need for trade deals to address the challenges facing the US technology sector amid ongoing tariff disputes. The analysts pointed out the significant uncertainty and potential damage to the US and global economies, particularly the US tech industry, which has been thrust into the eye of the storm.",
+                "publication_date": "2025-04-22T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5859",
+                "source": "Investing.com",
+                "ticker": "NVDA",
+                "title": "Trade deals are key to halting US tech decline, Wedbush\u2019s Ives says",
+                "url": "https://finance.yahoo.com/news/trade-deals-key-halting-us-170908149.html"
+            },
+            {
+                "headline": "We recently published a list of 9 Stocks That Could 10X Over the Next 2 Years. In this article, we are going to take a look at where NVIDIA Corporation (NASDAQ:NVDA) stands against other stocks that could 10X over the next 2 years. US Tariffs and the Stock Market Turmoil While tariffs from the US [\u2026]",
+                "publication_date": "2025-04-22T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.3612",
+                "source": "Insider Monkey",
+                "ticker": "NVDA",
+                "title": "NVIDIA Corporation (NVDA): Among Stocks That Could 10X Over the Next 2 Years",
+                "url": "https://finance.yahoo.com/news/nvidia-corporation-nvda-among-stocks-223043106.html"
+            }
+        ],
+        "avgScore": 0.28132424242424237,
+        "pctChange": 0.0011135919387621751
+    },
+    "4 21 2025": {
+        "importantArticles": [
+            {
+                "headline": "Most investors came to know Super Micro as one of the biggest artificial intelligence winners, at least through the first half of last year.  Despite all of this, Super Micro has actually refuted a lot of the allegations against it, and it's also very well positioned to capture the next wave of AI investment.  First, the best news for Super Micro is that its new auditor appears to have cleared its books as accurate, despite the resignation of former auditor Ernst & Young last October.",
+                "publication_date": "2025-04-21T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9794",
+                "source": "Motley Fool",
+                "ticker": "NVDA",
+                "title": "Prediction: Super Micro Computer Could Surge by 150% in the Next Year",
+                "url": "https://finance.yahoo.com/news/prediction-super-micro-computer-could-080000557.html"
+            },
+            {
+                "headline": "The \"Magnificent Seven\" is a name given to Apple, Microsoft (NASDAQ: MSFT), Nvidia, Amazon, Alphabet, Meta Platforms, and Tesla because of their impact on the market over the past few years.  Unfortunately, the \"Magnificent Seven\" hasn't been so magnificent in recent weeks, with all seven down year to date.  Having the Magnificent Seven stocks slump isn't ideal because they account for a lot of many major indexes (especially the S&P 500), but it does present investors with a good opportunity to buy great companies at a \"discounted\" price.",
+                "publication_date": "2025-04-21T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9695",
+                "source": "Motley Fool",
+                "ticker": "NVDA",
+                "title": "1 \"Magnificent Seven\" Stock You'll Regret Not Buying During the Dip",
+                "url": "https://finance.yahoo.com/news/1-magnificent-seven-stock-youll-100000028.html"
+            },
+            {
+                "headline": "The semiconductor sector is growing rapidly thanks to the rise of artificial intelligence (AI), making it a great area to invest in.  The industry saw 19% year-over-year revenue growth to $627 billion in 2024, and is forecast to hit $981 billion by 2029.  Two giants of the industry to consider investing in are Intel (NASDAQ: INTC) and Nvidia (NASDAQ: NVDA).",
+                "publication_date": "2025-04-21T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9246",
+                "source": "Motley Fool",
+                "ticker": "NVDA",
+                "title": "Better Semiconductor Stock: Intel vs. Nvidia",
+                "url": "https://finance.yahoo.com/news/better-semiconductor-stock-intel-vs-160000906.html"
+            },
+            {
+                "headline": "Nvidia  stock fell again early Monday as the company remained in the crossfire of escalating U.S.-China trade tensions, even as CEO Jensen Huang did his part to try to mitigate the negative impacts of a trade war.  Nvidia stock has fallen 5.4% to $96.02 Monday while the  has dropped 2.3%, the  has delclined 1.9%, and the  is off 1.9%.  On Monday, Huang met Japanese Prime Minister Shigeru Ishiba, following a meeting with Chinese leaders in Beijing on Thursday.",
+                "publication_date": "2025-04-21T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.9153",
+                "source": "Barrons.com",
+                "ticker": "NVDA",
+                "title": "Nvidia Stock Falls. How CEO Jensen Huang Is Trying to Ease Trade War Fears.",
+                "url": "https://finance.yahoo.com/m/d0d39255-4607-38cf-9872-1acc7bcbef29/nvidia-stock-falls-how-ceo.html"
+            },
+            {
+                "headline": "Nvidia (NASDAQ: NVDA) just became the latest company to get hit by the trade war.  On Wednesday, the stock tumbled after it announced that it would take a charge of up to $5.5 billion in the first quarter due to a new restriction on exports of its H20 chips to China.  The U.S. has pressured a number of other companies to restrict high-tech exports to China, including EUV lithography machine maker ASML.",
+                "publication_date": "2025-04-21T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.8481",
+                "source": "Motley Fool",
+                "ticker": "NVDA",
+                "title": "Nvidia Just Lost a $5.5 Billion Opportunity. This Fast-Growing Tech Stock Could Scoop It Up",
+                "url": "https://finance.yahoo.com/news/nvidia-just-lost-5-5-163700684.html"
+            },
+            {
+                "headline": "U.S. stocks dropped sharply Monday, continuing a volatile stretch for Wall Street as geopolitical tensions, earnings anxiety, and Federal Reserve uncertainty continue to collide.",
+                "publication_date": "2025-04-21T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.7269",
+                "source": "Quartz",
+                "ticker": "NVDA",
+                "title": "The Dow plunges 1,000 points and the Nasdaq reels as Trump attacks Powell again",
+                "url": "https://finance.yahoo.com/news/dow-drops-400-points-nasdaq-122200277.html"
+            }
+        ],
+        "avgScore": 0.20290377358490572,
+        "pctChange": 0.020431283177354955
+    },
     "4 17 2025": {
         "importantArticles": [
             {
-                "headline": "Artificial intelligence services at their heart are massive data plays: You need data \u2014 a lot of it \u2014 to build the models, and then the models need efficient ways to ingest and output data to work. A company called Hammerspace has built a system to help AI and other organizations tap into data troves with minimal heavy lifting, and it\u2019s been seeing impressive adoption. Now, with customers including Meta and the Department of Defense, as well as other very recognizable names, Hammerspace is annou",
+                "headline": "The risk-to-reward is starting to look favorable to invest in Super Micro Computer's (SMCI) stock again thanks to the company's continued expansion in the AI realm.",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.9382",
-                "source": "TechCrunch",
+                "sentimentScore": "0.872",
+                "source": "Zacks",
                 "ticker": "NVDA",
-                "title": "Hammerspace, an unstructured data wrangler used by Meta, raises $100M at $500M+ valuation",
-                "url": "https://finance.yahoo.com/news/hammerspace-unstructured-data-wrangler-used-110000113.html"
+                "title": "Super Micro Computer (SMCI) Stock Upgraded to a Zacks Rank #1 (Strong Buy)",
+                "url": "https://finance.yahoo.com/news/super-micro-computer-smci-stock-011700018.html"
             },
             {
-                "headline": "In recent years, certain GPU makers like Nvidia have seen their share prices soar.  Intel's management team says it has a plan to reinvigorate growth.  A stock split typically occurs when a company's share price is so high that either investors errantly assume it's \"expensive\" or limit their holdings because they can't afford to buy another whole share.",
+                "headline": "Wealth host Brad Smith and Yahoo Finance Senior Reporter Alexandra Canal examine some of today's trending tickers. The chipmaker sell-off continues, with Nvidia (NVDA) and Advanced Micro Devices (AMD) extending losses sparked by new chip export restrictions that add costs for the company. Hertz (HTZ) extends gains fueled by billionaire investor Bill Ackman's firm, Pershing Square Capital Management, disclosing its large stake in the rental car company. To watch more expert insights and analysis on the latest market action, check out more Wealth here.",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.9337",
-                "source": "Motley Fool",
-                "ticker": "NVDA",
-                "title": "Reverse Stock-Split Watch: Is Intel Next?",
-                "url": "https://finance.yahoo.com/news/reverse-stock-split-watch-intel-130600394.html"
-            },
-            {
-                "headline": "President Donald Trump credited his tariff policies for driving Nvidia Corp.\u2019s (NASDAQ:NVDA) massive $500 billion commitment to build artificial intelligence infrastructure in the United States during a White House press conference on Monday. What ...",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.875",
-                "source": "Benzinga",
-                "ticker": "NVDA",
-                "title": "Jensen Huang Praised By Trump: Nvidia 'Wouldn't Be Doing' $500 Billion AI Infrastructure Commitment Without Tariffs",
-                "url": "https://finance.yahoo.com/news/jensen-huang-praised-trump-nvidia-094532124.html"
-            },
-            {
-                "headline": "US-China trade war tensions drag US stocks lower after Nvidia (NVDA) reported restrictions on exports to China would cost the chipmaker $5.5 billion. CFRA Research chief investment strategist Sam Stovall joins Morning Brief with Madison Mills and Brad Smith to discuss what the uncertainty means for first quarter earnings and chipmakers' outlooks. To watch more expert insights and analysis on the latest market action, check out more Morning Brief here.",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.9022",
+                "sentimentScore": "0.8225",
                 "source": "Yahoo Finance Video",
                 "ticker": "NVDA",
-                "title": "'What about Q1 earnings?' US-China trade war weighs on chip stocks",
-                "url": "https://finance.yahoo.com/video/q1-earnings-us-china-trade-143923088.html"
+                "title": "Nvidia & AMD sell-off, Hertz extends gains: Trending Tickers",
+                "url": "https://finance.yahoo.com/video/nvidia-amd-sell-off-hertz-153336212.html"
             },
             {
-                "headline": "(Reuters) -Global chip stocks were battered on Wednesday on fresh evidence of how U.S. President Donald Trump's shifting trade policy was complicating the outlook for semiconductor and computing giants, including AI pioneer Nvidia and its rival AMD.  Attempts to reorient global trade through tariffs and export curbs have started to show the effect as Nvidia warned of a $5.5 billion hit after Washington restricted exports of its AI processor tailored for China, while Dutch chip-making tools giant ASML raised doubts about its outlook.  The U.S. restriction, which also hit the MI308 processor of Advanced Micro Devices, marked the latest blow for the AI chip trade that is losing steam after a two-year rally as tariff threats and fears over Big Tech's spending weigh on sentiment.",
+                "headline": "Fred Alger Management, an investment management company, released its \u201cAlger Spectra Fund\u201d first quarter 2025 investor letter. A copy of the letter can be downloaded here. In the first quarter, changing trade, monetary, and fiscal policies created increased volatility in U.S. stocks. The introduction of advanced artificial intelligence (AI) models from China was a further [\u2026]",
                 "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.8979",
-                "source": "Reuters",
+                "sentiment": "Positive",
+                "sentimentScore": "0.802",
+                "source": "Insider Monkey",
                 "ticker": "NVDA",
-                "title": "Global chipmakers feel the pinch of Trump's shifting trade policy",
-                "url": "https://finance.yahoo.com/news/global-chip-stocks-slide-nvidia-110516321.html"
+                "title": "Several Headwinds Impacted Nvidia Corporation\u2019s (NVDA) Performance in Q1",
+                "url": "https://finance.yahoo.com/news/several-headwinds-impacted-nvidia-corporation-115033945.html"
             },
             {
-                "headline": "Investors now consider a trade war to be the biggest threat to the stock market, according to a Bank of America survey of global fund managers.",
+                "headline": "Stocks wrapped up another volatile week with a mixed day as the global trade war remains top of mind and tensions rose between the Trump administration and the Federal Reserve.  The S&P 500 ticked up 0.1%, while the Nasdaq slipped 0.1%.  The Dow Jones Industrial Average was an outlier, falling 1.3%, or 527 points, after disappointing results from  UnitedHealth  UnitedHealth\u2019s share price, which dropped by $130.93, or 22%, has an outsize effect on the price-weighted Dow index.",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.8074",
+                "sentimentScore": "-0.8807",
+                "source": "The Wall Street Journal",
+                "ticker": "NVDA",
+                "title": "Dow Industrials Fall, Capping Another Tough Week on Wall Street",
+                "url": "https://finance.yahoo.com/m/4964ab56-4a95-35a8-b7e2-e890652d06b5/dow-industrials-fall-capping.html"
+            },
+            {
+                "headline": "UnitedHealth stock falls sharply after an earnings miss and cut to guidance at the health insurer, a judge rules that Alphabet\u2019s Google operates an illegal ad monopoly, and Nvidia extends losses following a warning it would record a massive charge from trade restrictions.",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.872",
                 "source": "Barrons.com",
                 "ticker": "NVDA",
-                "title": "China Could Be Willing to Enter Trade Talks, Report Says. Here\u2019s the Latest on Tariffs.",
-                "url": "https://finance.yahoo.com/m/ecfe4afd-f277-3693-bb56-5e424ac784bf/china-could-be-willing-to.html"
+                "title": "These Stocks Moved the Most Today: UnitedHealth, Alphabet, Nvidia, Lilly, D.R. Horton, Schwab, Netflix, Hertz, and More",
+                "url": "https://finance.yahoo.com/m/eeba0522-f2ba-32bd-a110-d642d205fb98/these-stocks-moved-the-most.html"
+            },
+            {
+                "headline": "The major averages were broadly lower near noon, with the Nasdaq down over 300 points amid escalating trade tensions and new export restrictions.\u200b This follows the U.S. government\u2019s decision to tighten export controls on advanced AI-related computer chips.\u200b The recent U.S. actions have intensified concerns over a potential trade war. President Donald Trump has announced a new investigation into critical mineral imports and imposed steep tariffs on Chinese imports. In retaliation, China has incre",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.8555",
+                "source": "TipRanks",
+                "ticker": "NVDA",
+                "title": "Nvidia, AMD see charges due to new China export rules: Morning Buzz",
+                "url": "https://finance.yahoo.com/news/nvidia-amd-see-charges-due-160543145.html"
             }
         ],
-        "avgScore": 0.04644824561403508
+        "avgScore": -0.010043636363636341,
+        "pctChange": -0.04512754259595022
     },
-    "4 16 2025": {
-        "importantArticles": [
-            {
-                "headline": "The scramble to build compute capacity for artificial intelligence (AI) models and training has enriched longtime Nvidia (NASDAQ: NVDA) shareholders.  Large tech companies have been sharply increasing capital spending to build data centers and fill them with powerful servers, largely using Nvidia's products.  Retail investors and hedge fund managers alike piled into Nvidia shares over the past few years.",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7964",
-                "source": "Motley Fool",
-                "ticker": "NVDA",
-                "title": "Prediction: Nvidia Stock Will Beat the Market. Here's Why.",
-                "url": "https://finance.yahoo.com/news/prediction-nvidia-stock-beat-market-095000193.html"
-            },
-            {
-                "headline": "Initial rollout will be an AI data centre in Rimouski, Que., equipped with 500 Nvidia Hopper GPUs",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Financial Post",
-                "ticker": "NVDA",
-                "title": "Telus stakes claim in Canada's AI race with plans for Nvidia-powered data centres",
-                "url": "https://finance.yahoo.com/news/telus-stakes-claim-canadas-ai-100008466.html"
-            },
-            {
-                "headline": "The company said it had been informed by US authorities that the H20 chip will now require a licence for export to China \u201cfor the indefinite future.\u201d",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Verdict",
-                "ticker": "NVDA",
-                "title": "Nvidia warns of $5.5bn write-down as US tightens export curbs",
-                "url": "https://finance.yahoo.com/news/nvidia-warns-5-5bn-writedown-094045155.html"
-            },
-            {
-                "headline": "Tech stocks are leading Wall Street lower as new export restriction take the U.S-China trade war to a new and damaging level.",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.8885",
-                "source": "TheStreet",
-                "ticker": "NVDA",
-                "title": "Stock Market Today: Stocks tumble as Powell adds to trade war concerns",
-                "url": "https://finance.yahoo.com/news/stock-market-today-stocks-slide-095909363.html"
-            },
-            {
-                "headline": "The escalating U.S.-China trade war has expanded and moved beyond tariffs, now hitting everything from chips to planes and pharma.  * Shares fell in Asia on Wednesday as AI darling Nvidia took a hit from U.S. curbs on chip sales to China, highlighting the damage to come in a tit-for-tat global trade war, while gold hit a record and the safe-haven currencies jumped.  * Nvidia did not warn at least some major customers in advance about new U.S. export rules it was told about a week ago requiring it to obtain licenses to sell its China-focused artificial intelligence chip, according to two sources familiar with the matter.",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.362",
-                "source": "Reuters",
-                "ticker": "NVDA",
-                "title": "Morning Bid: US-China trade war goes full throttle",
-                "url": "https://finance.yahoo.com/news/morning-bid-us-china-trade-103633010.html"
-            },
-            {
-                "headline": "NEW YORK (Reuters) -U.S. stocks ended sharply lower on Wednesday as Nvidia warned about steep charges from new U.S. curbs on its chip exports to China and Federal Reserve Chair Jerome Powell said U.S. economic growth appears to be slowing.  Powell, in remarks for the Economic Club of Chicago, said larger-than-expected tariffs likely mean higher inflation and slower growth.  The Fed chair's afternoon comments sparked further selling in stocks, which had already been under pressure from a sharp drop in shares of Nvidia and other chipmakers.",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.3182",
-                "source": "Reuters",
-                "ticker": "NVDA",
-                "title": "Indexes drop as Fed's Powell says growth appears to be slowing; Nvidia tumbles",
-                "url": "https://finance.yahoo.com/news/us-stock-futures-drop-nvidia-093523048.html"
-            }
-        ],
-        "avgScore": -0.14935714285714283
-    },
-    "coef": 0.9999999999999999,
-    "avgCoef": -0.02100051497857836,
+    "coef": 0.5,
+    "avgCoef": -0.0115713305579888,
     "similar": {
-        "NVDA": 0.9999999999999999,
-        "INTC": 0.9999999999999999,
-        "ABEV": 0.9999999999999999,
-        "LCID": NaN
+        "HTZ": 1.0,
+        "NVDA": 0.5,
+        "F": 0.5,
+        "TSLA": 0.5
     }
 }

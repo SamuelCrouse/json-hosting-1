@@ -23,7 +23,7 @@
             }
         ],
         "avgScore": 0.0,
-        "pctChange": -0.011528627535615175
+        "pctChange": -0.023970941845005526
     },
     "4 21 2025": {
         "importantArticles": [
@@ -152,26 +152,6 @@
                 "url": "https://finance.yahoo.com/news/petrobras-explores-oil-exploration-opportunities-104000863.html"
             },
             {
-                "headline": "Brazil's Petrobras is weighing opportunities from an oil block auction set to take place this year in India, said the state-run oil firm's head of exploration and production, Sylvia dos Anjos, on Thursday. Petrobras has already collected data to analyze the potential of the offshore areas on offer in deep and ultra-deep waters, said Anjos, but no decision has been made on whether the firm will make a bid.",
-                "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.3612",
-                "source": "Reuters",
-                "ticker": "PBR",
-                "title": "Brazil's Petrobras eyes exploration opportunities in India",
-                "url": "https://finance.yahoo.com/news/brazils-petrobras-eyes-exploration-opportunities-154324501.html"
-            },
-            {
-                "headline": "Brazil's Petrobras is weighing opportunities from an oil block auction set to take place this year in India, said the state-run oil firm's head of exploration and production, Sylvia dos Anjos, on Thursday. Petrobras has already collected data to analyze the potential of the offshore areas on offer in deep and ultra-deep waters, said Anjos, but no decision has been made on whether the firm will make a bid.",
-                "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.3612",
-                "source": "Reuters",
-                "ticker": "PBR",
-                "title": "Brazil's Petrobras eyes exploration opportunities in India",
-                "url": "https://finance.yahoo.com/news/brazils-petrobras-eyes-exploration-opportunities-154324501.html"
-            },
-            {
                 "headline": "PBR explores offshore auction opportunities in India, balancing long-term exploration goals with short-term price volatility and the impact of global trade disruptions.",
                 "publication_date": "2025-04-11T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -192,7 +172,7 @@
                 "url": "https://finance.yahoo.com/news/why-investors-exercise-caution-petrobras-122000281.html"
             }
         ],
-        "avgScore": 0.22086666666666668,
+        "avgScore": 0.5119,
         "pctChange": 0.0025951325157638813
     },
     "4 10 2025": {
@@ -208,6 +188,26 @@
                 "url": "https://finance.yahoo.com/news/strength-seen-chevron-cvx-6-115400605.html"
             },
             {
+                "headline": "Brazil's Petrobras is weighing opportunities from an oil block auction set to take place this year in India, said the state-run oil firm's head of exploration and production, Sylvia dos Anjos, on Thursday. Petrobras has already collected data to analyze the potential of the offshore areas on offer in deep and ultra-deep waters, said Anjos, but no decision has been made on whether the firm will make a bid.",
+                "publication_date": "2025-04-10T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.3612",
+                "source": "Reuters",
+                "ticker": "PBR",
+                "title": "Brazil's Petrobras eyes exploration opportunities in India",
+                "url": "https://finance.yahoo.com/news/brazils-petrobras-eyes-exploration-opportunities-154324501.html"
+            },
+            {
+                "headline": "Brazil's Petrobras is weighing opportunities from an oil block auction set to take place this year in India, said the state-run oil firm's head of exploration and production, Sylvia dos Anjos, on Thursday. Petrobras has already collected data to analyze the potential of the offshore areas on offer in deep and ultra-deep waters, said Anjos, but no decision has been made on whether the firm will make a bid.",
+                "publication_date": "2025-04-10T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.3612",
+                "source": "Reuters",
+                "ticker": "PBR",
+                "title": "Brazil's Petrobras eyes exploration opportunities in India",
+                "url": "https://finance.yahoo.com/news/brazils-petrobras-eyes-exploration-opportunities-154324501.html"
+            },
+            {
                 "headline": "Chevron (CVX) was a big mover last session on higher-than-average trading volume. The latest trend in earnings estimate revisions might not help the stock continue moving higher in the near term.",
                 "publication_date": "2025-04-10T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -218,7 +218,7 @@
                 "url": "https://finance.yahoo.com/news/strength-seen-chevron-cvx-6-115400605.html"
             }
         ],
-        "avgScore": -0.3089,
+        "avgScore": -0.33505,
         "pctChange": 0.02300886942418074
     },
     "4 9 2025": {
@@ -569,12 +569,12 @@
         "avgScore": 0.0,
         "pctChange": 0.004204587527517546
     },
-    "coef": -0.6989292206643376,
-    "avgCoef": -0.03195904371859241,
+    "coef": -0.6272441723910722,
+    "avgCoef": -0.025350472453050887,
     "similar": {
-        "PDCO": -0.017798444761977283,
-        "SMCI": -0.01792126206831635,
-        "CCL": -0.01792126206831635,
-        "BAC": -0.046595281377622505
+        "PDCO": 0.1357131413100768,
+        "NCLH": 0.12544883447821445,
+        "CCL": 0.11469607723722462,
+        "PLTR": 0.05017953379128578
     }
 }

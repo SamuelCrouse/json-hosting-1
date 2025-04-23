@@ -43,7 +43,7 @@
             }
         ],
         "avgScore": 0.36755,
-        "pctChange": 0.008259890957633964
+        "pctChange": -0.011299570321402951
     },
     "4 22 2025": {
         "importantArticles": [
@@ -69,7 +69,7 @@
             }
         ],
         "avgScore": 0.5574,
-        "pctChange": 0.06826138377814396
+        "pctChange": 0.047537939992183656
     },
     "4 16 2025": {
         "importantArticles": [
@@ -136,26 +136,6 @@
                 "url": "https://finance.yahoo.com/news/rigetti-computing-inc-rgti-ascends-215012613.html"
             },
             {
-                "headline": "Rigetti gets tapped by DARPA for a groundbreaking quantum project, sending its stock up 15%. Is this the start of something big for RGTI investors?",
-                "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "RGTI",
-                "title": "RGTI Jumps 15% Post DARPA Quantum Project Win: Time to Buy the Stock?",
-                "url": "https://finance.yahoo.com/news/rgti-jumps-15-post-darpa-160100772.html"
-            },
-            {
-                "headline": "Rigetti gets tapped by DARPA for a groundbreaking quantum project, sending its stock up 15%. Is this the start of something big for RGTI investors?",
-                "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "RGTI",
-                "title": "RGTI Jumps 15% Post DARPA Quantum Project Win: Time to Buy the Stock?",
-                "url": "https://finance.yahoo.com/news/rgti-jumps-15-post-darpa-160100772.html"
-            },
-            {
                 "headline": "In the closing of the recent trading day, Rigetti Computing, Inc. (RGTI) stood at $9.42, denoting a +0.32% change from the preceding trading day.",
                 "publication_date": "2025-04-11T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -168,6 +148,32 @@
         ],
         "avgScore": 0.0,
         "pctChange": -0.026373704915572577
+    },
+    "4 10 2025": {
+        "importantArticles": [
+            {
+                "headline": "Rigetti gets tapped by DARPA for a groundbreaking quantum project, sending its stock up 15%. Is this the start of something big for RGTI investors?",
+                "publication_date": "2025-04-10T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "RGTI",
+                "title": "RGTI Jumps 15% Post DARPA Quantum Project Win: Time to Buy the Stock?",
+                "url": "https://finance.yahoo.com/news/rgti-jumps-15-post-darpa-160100772.html"
+            },
+            {
+                "headline": "Rigetti gets tapped by DARPA for a groundbreaking quantum project, sending its stock up 15%. Is this the start of something big for RGTI investors?",
+                "publication_date": "2025-04-10T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "RGTI",
+                "title": "RGTI Jumps 15% Post DARPA Quantum Project Win: Time to Buy the Stock?",
+                "url": "https://finance.yahoo.com/news/rgti-jumps-15-post-darpa-160100772.html"
+            }
+        ],
+        "avgScore": 0.0,
+        "pctChange": -0.0339702433367829
     },
     "4 9 2025": {
         "importantArticles": [
@@ -182,16 +188,6 @@
                 "url": "https://finance.yahoo.com/news/rigettis-2024-quantum-dreams-turned-195736074.html"
             },
             {
-                "headline": "Nasdaq witnesses its largest intraday comeback since Oct. 10, 2008. We highlight five stocks at the forefront of the rebound.",
-                "publication_date": "2025-04-09T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.34",
-                "source": "Zacks",
-                "ticker": "RGTI",
-                "title": "5 Stocks in Nasdaq ETF Fueling Index's Big Comeback Since 2008",
-                "url": "https://finance.yahoo.com/news/5-stocks-nasdaq-etf-fueling-161000332.html"
-            },
-            {
                 "headline": "Quantum computing stocks have been on a roller coaster ride. Is Rigetti's 61% price drop a buying opportunity or just the beginning of a regrettably necessary correction?",
                 "publication_date": "2025-04-09T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -210,16 +206,6 @@
                 "ticker": "RGTI",
                 "title": "Down 61%, Should You Buy the Dip on Rigetti Computing?",
                 "url": "https://finance.yahoo.com/news/down-61-buy-dip-rigetti-112300924.html"
-            },
-            {
-                "headline": "Nasdaq witnesses its largest intraday comeback since Oct. 10, 2008. We highlight five stocks at the forefront of the rebound.",
-                "publication_date": "2025-04-09T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.34",
-                "source": "Zacks",
-                "ticker": "RGTI",
-                "title": "5 Stocks in Nasdaq ETF Fueling Index's Big Comeback Since 2008",
-                "url": "https://finance.yahoo.com/news/5-stocks-nasdaq-etf-fueling-161000332.html"
             },
             {
                 "headline": "What caused Rigetti's dramatic fall from grace in early 2025? Here's a sobering look at the current state and future prospects of quantum computing experts.",
@@ -232,7 +218,7 @@
                 "url": "https://finance.yahoo.com/news/rigettis-2024-quantum-dreams-turned-195736074.html"
             }
         ],
-        "avgScore": 0.17190000000000003,
+        "avgScore": 0.08785000000000001,
         "pctChange": 0.0031948596245285838
     },
     "4 8 2025": {
@@ -248,6 +234,16 @@
                 "url": "https://finance.yahoo.com/news/quantum-computing-stocks-climb-rigetti-210221624.html"
             },
             {
+                "headline": "Nasdaq witnesses its largest intraday comeback since Oct. 10, 2008. We highlight five stocks at the forefront of the rebound.",
+                "publication_date": "2025-04-08T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.34",
+                "source": "Zacks",
+                "ticker": "RGTI",
+                "title": "5 Stocks in Nasdaq ETF Fueling Index's Big Comeback Since 2008",
+                "url": "https://finance.yahoo.com/news/5-stocks-nasdaq-etf-fueling-161000332.html"
+            },
+            {
                 "headline": "We recently published a list of AI Stocks Dominate Monday\u2019s Top 10 Performers. In this article, we are going to take a look at where Rigetti Computing Inc. (NASDAQ:RGTI) stands against other AI stocks that dominate Monday\u2019s top performers. The stock market finished mixed on Monday as investors remained cautious over the escalating trade tensions [\u2026]",
                 "publication_date": "2025-04-08T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -266,6 +262,16 @@
                 "ticker": "RGTI",
                 "title": "Why Rigetti Computing Inc. (RGTI) Went Up On Monday?",
                 "url": "https://finance.yahoo.com/news/why-rigetti-computing-inc-rgti-101903091.html"
+            },
+            {
+                "headline": "Nasdaq witnesses its largest intraday comeback since Oct. 10, 2008. We highlight five stocks at the forefront of the rebound.",
+                "publication_date": "2025-04-08T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.34",
+                "source": "Zacks",
+                "ticker": "RGTI",
+                "title": "5 Stocks in Nasdaq ETF Fueling Index's Big Comeback Since 2008",
+                "url": "https://finance.yahoo.com/news/5-stocks-nasdaq-etf-fueling-161000332.html"
             },
             {
                 "headline": "Shares of Rigetti Computing and IonQ gained Monday after the companies were among those selected to participate in a Department of Defense program.",
@@ -278,7 +284,7 @@
                 "url": "https://finance.yahoo.com/news/quantum-computing-stocks-climb-rigetti-210221624.html"
             }
         ],
-        "avgScore": 0.14369999999999997,
+        "avgScore": 0.2091333333333333,
         "pctChange": 0.21632132105144078
     },
     "4 7 2025": {
@@ -688,26 +694,6 @@
                 "url": "https://finance.yahoo.com/news/why-quantum-stocks-are-still-high-risk-185432627.html"
             },
             {
-                "headline": "Quantum stocks, including D-Wave (QBTS), IonQ (IONQ), and Rigetti Computing (RGTI), are rebounding on Monday after a brief dip last week when Nvidia's (NVDA) GTC event underwhelmed investors. Threadneedle Ventures founder Ann Berry joins Catalysts host Madison Mills to explore the current state of quantum computing. To watch more expert insights and analysis on the latest market action, check out more Catalysts&nbsp;here.",
-                "publication_date": "2025-03-25T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Yahoo Finance Video",
-                "ticker": "RGTI",
-                "title": "Quantum stocks rebound from doubts on profitability timeline",
-                "url": "https://finance.yahoo.com/video/quantum-stocks-rebound-doubts-profitability-152814858.html"
-            },
-            {
-                "headline": "Quantum stocks, including D-Wave (QBTS), IonQ (IONQ), and Rigetti Computing (RGTI), are rebounding on Monday after a brief dip last week when Nvidia's (NVDA) GTC event underwhelmed investors. Threadneedle Ventures founder Ann Berry joins Catalysts host Madison Mills to explore the current state of quantum computing. To watch more expert insights and analysis on the latest market action, check out more Catalysts&nbsp;here.",
-                "publication_date": "2025-03-25T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Yahoo Finance Video",
-                "ticker": "RGTI",
-                "title": "Quantum stocks rebound from doubts on profitability timeline",
-                "url": "https://finance.yahoo.com/video/quantum-stocks-rebound-doubts-profitability-152814858.html"
-            },
-            {
                 "headline": "The pullback in quantum computing stocks makes sense, one semiconductor analyst explained.",
                 "publication_date": "2025-03-25T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -744,6 +730,26 @@
                 "url": "https://finance.yahoo.com/news/forget-rigetti-computing-buy-millionaire-100000637.html"
             },
             {
+                "headline": "Quantum stocks, including D-Wave (QBTS), IonQ (IONQ), and Rigetti Computing (RGTI), are rebounding on Monday after a brief dip last week when Nvidia's (NVDA) GTC event underwhelmed investors. Threadneedle Ventures founder Ann Berry joins Catalysts host Madison Mills to explore the current state of quantum computing. To watch more expert insights and analysis on the latest market action, check out more Catalysts&nbsp;here.",
+                "publication_date": "2025-03-24T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Yahoo Finance Video",
+                "ticker": "RGTI",
+                "title": "Quantum stocks rebound from doubts on profitability timeline",
+                "url": "https://finance.yahoo.com/video/quantum-stocks-rebound-doubts-profitability-152814858.html"
+            },
+            {
+                "headline": "Quantum stocks, including D-Wave (QBTS), IonQ (IONQ), and Rigetti Computing (RGTI), are rebounding on Monday after a brief dip last week when Nvidia's (NVDA) GTC event underwhelmed investors. Threadneedle Ventures founder Ann Berry joins Catalysts host Madison Mills to explore the current state of quantum computing. To watch more expert insights and analysis on the latest market action, check out more Catalysts&nbsp;here.",
+                "publication_date": "2025-03-24T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Yahoo Finance Video",
+                "ticker": "RGTI",
+                "title": "Quantum stocks rebound from doubts on profitability timeline",
+                "url": "https://finance.yahoo.com/video/quantum-stocks-rebound-doubts-profitability-152814858.html"
+            },
+            {
                 "headline": "Nvidia looks like a more reliable investment than this quantum computing darling.",
                 "publication_date": "2025-03-24T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -764,15 +770,15 @@
                 "url": "https://finance.yahoo.com/news/rigetti-computing-nasdaqcm-rgti-sees-171200320.html"
             }
         ],
-        "avgScore": 0.7504500000000001,
+        "avgScore": 0.5003000000000001,
         "pctChange": 0.004089975761264693
     },
-    "coef": 0.31846901405951333,
-    "avgCoef": -0.03931026744994501,
+    "coef": 0.35930610514293027,
+    "avgCoef": -0.029486636977273082,
     "similar": {
-        "HOOD": 0.44710144970570104,
-        "AMZN": 0.433615791129891,
-        "LCID": 0.42427956596202254,
-        "RIVN": 0.4128686240901833
+        "LCID": 0.5132944359184718,
+        "META": 0.4672749347671605,
+        "RIVN": 0.4177154719888253,
+        "PLTR": 0.3947057214131697
     }
 }

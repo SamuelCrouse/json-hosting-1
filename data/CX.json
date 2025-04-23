@@ -1,9 +1,9 @@
 {
-    "4 2 2025": {
+    "4 1 2025": {
         "importantArticles": [
             {
                 "headline": "MONTERREY, Mexico, April 01, 2025--Today, Jaime Muguiro begins his tenure as CEO of Cemex after being appointed to the position by the company\u2019s Board of Directors on February 10. This appointment is part of a planned leadership transition following former CEO Fernando A. Gonzalez\u2019s decision to retire after a successful career at Cemex.",
-                "publication_date": "2025-04-02T00:00:00.000Z",
+                "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.5859",
                 "source": "Business Wire",
@@ -13,7 +13,7 @@
             },
             {
                 "headline": "MONTERREY, Mexico, April 01, 2025--Today, Jaime Muguiro begins his tenure as CEO of Cemex after being appointed to the position by the company\u2019s Board of Directors on February 10. This appointment is part of a planned leadership transition following former CEO Fernando A. Gonzalez\u2019s decision to retire after a successful career at Cemex.",
-                "publication_date": "2025-04-02T00:00:00.000Z",
+                "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.5859",
                 "source": "Business Wire",
@@ -23,7 +23,7 @@
             }
         ],
         "avgScore": 0.5859,
-        "pctChange": -0.022847120058628344
+        "pctChange": -0.0017543425226828097
     },
     "3 28 2025": {
         "importantArticles": [
@@ -51,32 +51,6 @@
         "avgScore": 0.2263,
         "pctChange": -0.008833871951527732
     },
-    "3 27 2025": {
-        "importantArticles": [
-            {
-                "headline": "We recently published a list of Pulse of The Market: Tuesday\u2019s 10 Top Performers. In this article, we are going to take a look at where Cemex SAB de CV (NYSE:CX) stands against other Tuesday\u2019s top performers. A lackluster trading persisted on the stock market on Tuesday, with all major indices finishing in the green [\u2026]",
-                "publication_date": "2025-03-27T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.3818",
-                "source": "Insider Monkey",
-                "ticker": "CX",
-                "title": "Why Cemex SAB de CV (CX) Went Up On Tuesday?",
-                "url": "https://finance.yahoo.com/news/why-cemex-sab-cv-cx-113130229.html"
-            },
-            {
-                "headline": "We recently published a list of Pulse of The Market: Tuesday\u2019s 10 Top Performers. In this article, we are going to take a look at where Cemex SAB de CV (NYSE:CX) stands against other Tuesday\u2019s top performers. A lackluster trading persisted on the stock market on Tuesday, with all major indices finishing in the green [\u2026]",
-                "publication_date": "2025-03-27T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.3818",
-                "source": "Insider Monkey",
-                "ticker": "CX",
-                "title": "Why Cemex SAB de CV (CX) Went Up On Tuesday?",
-                "url": "https://finance.yahoo.com/news/why-cemex-sab-cv-cx-113130229.html"
-            }
-        ],
-        "avgScore": 0.3818,
-        "pctChange": -0.05980068681976942
-    },
     "3 26 2025": {
         "importantArticles": [
             {
@@ -90,6 +64,26 @@
                 "url": "https://finance.yahoo.com/news/cemex-showcases-significant-operational-sustainability-222700194.html"
             },
             {
+                "headline": "We recently published a list of Pulse of The Market: Tuesday\u2019s 10 Top Performers. In this article, we are going to take a look at where Cemex SAB de CV (NYSE:CX) stands against other Tuesday\u2019s top performers. A lackluster trading persisted on the stock market on Tuesday, with all major indices finishing in the green [\u2026]",
+                "publication_date": "2025-03-26T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.3818",
+                "source": "Insider Monkey",
+                "ticker": "CX",
+                "title": "Why Cemex SAB de CV (CX) Went Up On Tuesday?",
+                "url": "https://finance.yahoo.com/news/why-cemex-sab-cv-cx-113130229.html"
+            },
+            {
+                "headline": "We recently published a list of Pulse of The Market: Tuesday\u2019s 10 Top Performers. In this article, we are going to take a look at where Cemex SAB de CV (NYSE:CX) stands against other Tuesday\u2019s top performers. A lackluster trading persisted on the stock market on Tuesday, with all major indices finishing in the green [\u2026]",
+                "publication_date": "2025-03-26T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.3818",
+                "source": "Insider Monkey",
+                "ticker": "CX",
+                "title": "Why Cemex SAB de CV (CX) Went Up On Tuesday?",
+                "url": "https://finance.yahoo.com/news/why-cemex-sab-cv-cx-113130229.html"
+            },
+            {
                 "headline": "MONTERREY, Mexico, March 25, 2025--Cemex presented its 2024 Integrated Report, titled Our Future in Action: Accelerating a Sustainable World, showcasing its operational and strategic performance in 2024. The year 2024 was marked by solid financial results, the recovery of Cemex\u2019s investment-grade rating, and progress in its decarbonization agenda in alignment with Cemex\u2019s 2030 targets.",
                 "publication_date": "2025-03-26T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -100,15 +94,15 @@
                 "url": "https://finance.yahoo.com/news/cemex-showcases-significant-operational-sustainability-222700194.html"
             }
         ],
-        "avgScore": 0.5267,
+        "avgScore": 0.45424999999999993,
         "pctChange": 0.005008382463218261
     },
-    "coef": 0.0,
-    "avgCoef": 0.01053475202164352,
+    "coef": 0.5,
+    "avgCoef": -0.027819302660157568,
     "similar": {
-        "INTC": 0.7999999999999999,
-        "VZ": 0.7999999999999999,
-        "BBD": 0.7999999999999999,
-        "ITUB": 0.7999999999999999
+        "TSLA": 1.0,
+        "MARA": 1.0,
+        "AMZN": 1.0,
+        "CLSK": 1.0
     }
 }

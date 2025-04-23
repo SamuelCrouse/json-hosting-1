@@ -1,4 +1,30 @@
 {
+    "4 23 2025": {
+        "importantArticles": [
+            {
+                "headline": "We recently published a list of Bitcoin Miners Dominate Tuesday\u2019s 10 Best-Performing Stocks. In this article, we are going to take a look at where MARA Holdings Inc. (NASDAQ:MARA) stands against other Tuesday\u2019s best-performing stocks. The stock market bounced back on Tuesday, erasing losses in the previous day, as investors snapped up shares on news [\u2026]",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.25",
+                "source": "Insider Monkey",
+                "ticker": "MARA",
+                "title": "Why MARA Holdings Inc. (MARA) Went Up On Tuesday",
+                "url": "https://finance.yahoo.com/news/why-mara-holdings-inc-mara-060539543.html"
+            },
+            {
+                "headline": "We recently published a list of Bitcoin Miners Dominate Tuesday\u2019s 10 Best-Performing Stocks. In this article, we are going to take a look at where MARA Holdings Inc. (NASDAQ:MARA) stands against other Tuesday\u2019s best-performing stocks. The stock market bounced back on Tuesday, erasing losses in the previous day, as investors snapped up shares on news [\u2026]",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.25",
+                "source": "Insider Monkey",
+                "ticker": "MARA",
+                "title": "Why MARA Holdings Inc. (MARA) Went Up On Tuesday",
+                "url": "https://finance.yahoo.com/news/why-mara-holdings-inc-mara-060539543.html"
+            }
+        ],
+        "avgScore": -0.25,
+        "pctChange": -0.028719182766452352
+    },
     "4 16 2025": {
         "importantArticles": [
             {
@@ -50,6 +76,32 @@
         ],
         "avgScore": 0.8107,
         "pctChange": 0.0655877745123954
+    },
+    "4 3 2025": {
+        "importantArticles": [
+            {
+                "headline": "Brad Smith and Madison Mills take a closer look at some of the trending tickers of today's trading session on Wealth. GE Vernova (GEV) maintains its full-year outlook despite a $300\u2013$400 million impact from tariffs. AT&T (T) also reaffirmed its guidance as subscriber numbers grew, supporting the company's assertion that it is well-positioned amid economic uncertainty. Bitcoin (BTC-USD) is trading above $90,000, lifting other crypto-related stocks like Coinbase (COIN), Strategy (MSTR), MARA (MARA), and Robinhood (HOOD). To watch more expert insights and analysis on the latest market action, check out more Wealth here.",
+                "publication_date": "2025-04-03T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8555",
+                "source": "Yahoo Finance Video",
+                "ticker": "MARA",
+                "title": "GE Vernova & AT&T outlook, bitcoin & crypto gains: Trending Tickers",
+                "url": "https://finance.yahoo.com/video/ge-vernova-t-outlook-bitcoin-152907412.html"
+            },
+            {
+                "headline": "Brad Smith and Madison Mills take a closer look at some of the trending tickers of today's trading session on Wealth. GE Vernova (GEV) maintains its full-year outlook despite a $300\u2013$400 million impact from tariffs. AT&T (T) also reaffirmed its guidance as subscriber numbers grew, supporting the company's assertion that it is well-positioned amid economic uncertainty. Bitcoin (BTC-USD) is trading above $90,000, lifting other crypto-related stocks like Coinbase (COIN), Strategy (MSTR), MARA (MARA), and Robinhood (HOOD). To watch more expert insights and analysis on the latest market action, check out more Wealth here.",
+                "publication_date": "2025-04-03T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8555",
+                "source": "Yahoo Finance Video",
+                "ticker": "MARA",
+                "title": "GE Vernova & AT&T outlook, bitcoin & crypto gains: Trending Tickers",
+                "url": "https://finance.yahoo.com/video/ge-vernova-t-outlook-bitcoin-152907412.html"
+            }
+        ],
+        "avgScore": 0.8555,
+        "pctChange": 0.006233361651998368
     },
     "4 1 2025": {
         "importantArticles": [
@@ -103,12 +155,12 @@
         "avgScore": 0.9516,
         "pctChange": -0.010877419792981442
     },
-    "coef": -0.19999999999999998,
-    "avgCoef": -0.011943075574126182,
+    "coef": -0.08571428571428573,
+    "avgCoef": -0.026214853892345347,
     "similar": {
-        "JD": 1.0,
-        "IAG": 1.0,
-        "PSLV": 0.7999999999999999,
-        "INTC": 0.7999999999999999
+        "JD": 0.3714285714285715,
+        "IAG": 0.3714285714285715,
+        "BTG": 0.3142857142857143,
+        "LYG": 0.3142857142857143
     }
 }

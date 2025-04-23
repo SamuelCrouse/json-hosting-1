@@ -1,19 +1,163 @@
 {
-    "4 15 2025": {
+    "4 23 2025": {
         "importantArticles": [
             {
-                "headline": "Rocket Lab USA (NASDAQ: RKLB) has been selected to bid for billions in future launches planned by the United States and United Kingdom.  Investors are excited about the opportunities these selections create, sending Rocket Lab shares up as much as 15% on Tuesday morning and up 9% as of 11:30 a.m. ET.  Rocket Lab is one of several space stocks to emerge in recent years, and the company arguably has done more than anyone else in that class to establish itself as a reliable operator.",
-                "publication_date": "2025-04-15T15:56:54.000Z",
+                "headline": "Rocket Lab USA (NasdaqCM:RKLB) recently announced significant government contracts, including a $46 billion U.S. Air Force contract and participation in the UK's $1.3 billion hypersonic technologies program. These developments highlight the company's growing position in the aerospace sector. Over the past month, Rocket Lab's stock price experienced a flat movement of 1.5 percent, which aligns with the broader market's trends. While these major announcements may have added a positive weight...",
+                "publication_date": "2025-04-23T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.8979",
+                "sentimentScore": "0.8176",
+                "source": "Simply Wall St.",
+                "ticker": "RKLB",
+                "title": "Rocket Lab USA (NasdaqCM:RKLB) Lands US$46 Billion U.S. Air Force Contract",
+                "url": "https://finance.yahoo.com/news/rocket-lab-usa-nasdaqcm-rklb-174400362.html"
+            },
+            {
+                "headline": "Rocket Lab USA (NasdaqCM:RKLB) recently announced significant government contracts, including a $46 billion U.S. Air Force contract and participation in the UK's $1.3 billion hypersonic technologies program. These developments highlight the company's growing position in the aerospace sector. Over the past month, Rocket Lab's stock price experienced a flat movement of 1.5 percent, which aligns with the broader market's trends. While these major announcements may have added a positive weight...",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8176",
+                "source": "Simply Wall St.",
+                "ticker": "RKLB",
+                "title": "Rocket Lab USA (NasdaqCM:RKLB) Lands US$46 Billion U.S. Air Force Contract",
+                "url": "https://finance.yahoo.com/news/rocket-lab-usa-nasdaqcm-rklb-174400362.html"
+            }
+        ],
+        "avgScore": 0.8176,
+        "pctChange": 0.0036674255644399342
+    },
+    "4 22 2025": {
+        "importantArticles": [
+            {
+                "headline": "Volatility is way up, while momentum across the major stock indexes has reversed course since the start of the year.  To wit, the benchmark S&P 500 has lost more than 10% of its value this year, and the formerly red-hot Nasdaq-100 has lost even more, with the index dropping by a whopping 13% at the time of this writing.  D-Wave Quantum Inc. (NYSE: QBTS) is pioneering the commercial application of quantum computing technology.",
+                "publication_date": "2025-04-22T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.296",
                 "source": "Motley Fool",
                 "ticker": "RKLB",
-                "title": "Why Rocket Lab Is Up Big Today",
-                "url": "https://finance.yahoo.com/news/why-rocket-lab-big-today-155654682.html"
+                "title": "3 Incredible Growth Stocks I'm Buying On the Dip",
+                "url": "https://finance.yahoo.com/news/3-incredible-growth-stocks-im-110000630.html"
+            },
+            {
+                "headline": "Volatility is way up, while momentum across the major stock indexes has reversed course since the start of the year.  To wit, the benchmark S&P 500 has lost more than 10% of its value this year, and the formerly red-hot Nasdaq-100 has lost even more, with the index dropping by a whopping 13% at the time of this writing.  D-Wave Quantum Inc. (NYSE: QBTS) is pioneering the commercial application of quantum computing technology.",
+                "publication_date": "2025-04-22T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.296",
+                "source": "Motley Fool",
+                "ticker": "RKLB",
+                "title": "3 Incredible Growth Stocks I'm Buying On the Dip",
+                "url": "https://finance.yahoo.com/news/3-incredible-growth-stocks-im-110000630.html"
+            }
+        ],
+        "avgScore": -0.296,
+        "pctChange": 0.07799362560911936
+    },
+    "4 21 2025": {
+        "importantArticles": [
+            {
+                "headline": "Space exploration has undergone an incredible transition from government-led initiatives to ventures led by the private sector, with companies like SpaceX paving the way.  According to McKinsey, the space economy is poised to skyrocket, potentially reaching a staggering $1.8 trillion by 2035.  SpaceX might be on some investors' radar, but it isn't publicly traded.",
+                "publication_date": "2025-04-21T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4767",
+                "source": "Motley Fool",
+                "ticker": "RKLB",
+                "title": "The Best Space Stock to Invest $100 in Right Now",
+                "url": "https://finance.yahoo.com/news/best-space-stock-invest-100-140000498.html"
+            },
+            {
+                "headline": "A number of stocks fell in the afternoon session after President Trump criticized the Federal Reserve's approach to interest rate cuts, warning that the pace was slow and could hinder economic growth. Trump's comments added pressure to an already sensitive market, raising concerns about political interference in monetary policy.",
+                "publication_date": "2025-04-21T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.34",
+                "source": "StockStory",
+                "ticker": "RKLB",
+                "title": "WESCO, Primoris, Matson, Rocket Lab, and Astronics Stocks Trade Down, What You Need To Know",
+                "url": "https://finance.yahoo.com/news/wesco-primoris-matson-rocket-lab-164858754.html"
+            },
+            {
+                "headline": "A number of stocks fell in the afternoon session after President Trump criticized the Federal Reserve's approach to interest rate cuts, warning that the pace was slow and could hinder economic growth. Trump's comments added pressure to an already sensitive market, raising concerns about political interference in monetary policy.",
+                "publication_date": "2025-04-21T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.34",
+                "source": "StockStory",
+                "ticker": "RKLB",
+                "title": "WESCO, Primoris, Matson, Rocket Lab, and Astronics Stocks Trade Down, What You Need To Know",
+                "url": "https://finance.yahoo.com/news/wesco-primoris-matson-rocket-lab-164858754.html"
+            },
+            {
+                "headline": "Space exploration has undergone an incredible transition from government-led initiatives to ventures led by the private sector, with companies like SpaceX paving the way.  According to McKinsey, the space economy is poised to skyrocket, potentially reaching a staggering $1.8 trillion by 2035.  SpaceX might be on some investors' radar, but it isn't publicly traded.",
+                "publication_date": "2025-04-21T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4767",
+                "source": "Motley Fool",
+                "ticker": "RKLB",
+                "title": "The Best Space Stock to Invest $100 in Right Now",
+                "url": "https://finance.yahoo.com/news/best-space-stock-invest-100-140000498.html"
+            }
+        ],
+        "avgScore": 0.06835,
+        "pctChange": 0.020911598121941658
+    },
+    "4 17 2025": {
+        "importantArticles": [
+            {
+                "headline": "We recently published a list of the 10 Best Mid Cap Defense Stocks to Buy According to Analysts. In this article, we will take a look at where Rocket Lab USA, Inc. (NASDAQ:RKLB) stands against other best mid cap defense stocks. Defense stocks have surged over the past week after President Trump unveiled plans for [\u2026]",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8979",
+                "source": "Insider Monkey",
+                "ticker": "RKLB",
+                "title": "Is Rocket Lab USA (RKLB) Among the Best Mid Cap Defense Stocks to Buy According to Analysts?",
+                "url": "https://finance.yahoo.com/news/rocket-lab-usa-rklb-among-132251003.html"
+            },
+            {
+                "headline": "The end of the earnings season is always a good time to take a step back and see who shined (and who not so much). Let\u2019s take a look at how aerospace stocks fared in Q4, starting with Rocket Lab (NASDAQ:RKLB).",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4404",
+                "source": "StockStory",
+                "ticker": "RKLB",
+                "title": "Aerospace Stocks Q4 Highlights: Rocket Lab (NASDAQ:RKLB)",
+                "url": "https://finance.yahoo.com/news/aerospace-stocks-q4-highlights-rocket-090708983.html"
+            },
+            {
+                "headline": "The end of the earnings season is always a good time to take a step back and see who shined (and who not so much). Let\u2019s take a look at how aerospace stocks fared in Q4, starting with Rocket Lab (NASDAQ:RKLB).",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4404",
+                "source": "StockStory",
+                "ticker": "RKLB",
+                "title": "Aerospace Stocks Q4 Highlights: Rocket Lab (NASDAQ:RKLB)",
+                "url": "https://finance.yahoo.com/news/aerospace-stocks-q4-highlights-rocket-090708983.html"
+            },
+            {
+                "headline": "We recently published a list of the 10 Best Mid Cap Defense Stocks to Buy According to Analysts. In this article, we will take a look at where Rocket Lab USA, Inc. (NASDAQ:RKLB) stands against other best mid cap defense stocks. Defense stocks have surged over the past week after President Trump unveiled plans for [\u2026]",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8979",
+                "source": "Insider Monkey",
+                "ticker": "RKLB",
+                "title": "Is Rocket Lab USA (RKLB) Among the Best Mid Cap Defense Stocks to Buy According to Analysts?",
+                "url": "https://finance.yahoo.com/news/rocket-lab-usa-rklb-among-132251003.html"
+            }
+        ],
+        "avgScore": 0.66915,
+        "pctChange": -0.05521784018370067
+    },
+    "4 16 2025": {
+        "importantArticles": [
+            {
+                "headline": "Thanks to President Donald Trump's protectionist policies, lingering inflation, and sticky interest rates, the benchmark S&P 500 has lost 7.6% of its value year to date at the time of this writing.  Amid the market turbulence, two space technology pioneers, Rocket Lab USA (NASDAQ: RKLB) and Intuitive Machines (NASDAQ: LUNR), have emerged as particularly compelling candidates for growth-focused portfolios.  Both companies have seen their shares decline precipitously this year, with Rocket Lab down 25% and Intuitive Machines plummeting 57% since the start of the year, creating potentially attractive entry points for investors with longer time horizons and appropriate risk tolerance.",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9273",
+                "source": "Motley Fool",
+                "ticker": "RKLB",
+                "title": "Better Growth Stock: Rocket Lab USA vs. Intuitive Machines",
+                "url": "https://finance.yahoo.com/news/better-growth-stock-rocket-lab-110000202.html"
             },
             {
                 "headline": "Market Domination host Josh Lipton and ProShares global investment strategist Simeon Hyman take a closer look at some of today's trending tickers. Netflix (NFLX) stock is gaining after the Wall Street Journal reported the streaming giant is aiming for a $1 trillion market cap and to double revenue by 2030. Rocket Lab (RKLB) stock rises after announcing hypersonic business deals in the US and the UK. American Airlines (AAL) is partnering with AT&T (T) to bring free Wi-Fi to flights for rewards members. To watch more expert insights and analysis on the latest market action, check out more Market Domination here.",
-                "publication_date": "2025-04-15T20:19:41.000Z",
+                "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.8316",
                 "source": "Yahoo Finance Video",
@@ -22,8 +166,64 @@
                 "url": "https://finance.yahoo.com/video/netflix-rocket-lab-american-airlines-201941825.html"
             },
             {
+                "headline": "We recently published a list of 10 Firms End Stronger on Tuesday. In this article, we are going to take a look at where Rocket Lab USA, Inc. (NASDAQ:RKLB) stands against other firms that end stronger on Tuesday. A muted trading persisted on the stock market on Tuesday, with major indices ending in the red, recording [\u2026]",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6369",
+                "source": "Insider Monkey",
+                "ticker": "RKLB",
+                "title": "Why Rocket Lab USA, Inc.\u00a0(RKLB) Skyrocketed On Tuesday?",
+                "url": "https://finance.yahoo.com/news/why-rocket-lab-usa-inc-104520005.html"
+            },
+            {
+                "headline": "Allegro MicroSystems (NASDAQ:ALGM): Chip designer Allegro MicroSystems (NASDAQ:ALGM) Allegro MicroSystems fell by 13.4% on Monday after ON Semiconductor withdrew its proposal to acquire the company. See our full article here.",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "StockStory",
+                "ticker": "RKLB",
+                "title": "Stocks making big moves yesterday: Allegro MicroSystems, Netflix, Hewlett Packard Enterprise, Sterling and Rocket Lab",
+                "url": "https://finance.yahoo.com/news/stocks-making-big-moves-yesterday-122452289.html"
+            },
+            {
+                "headline": "We recently published a list of 10 Firms End Stronger on Tuesday. In this article, we are going to take a look at where Rocket Lab USA, Inc. (NASDAQ:RKLB) stands against other firms that end stronger on Tuesday. A muted trading persisted on the stock market on Tuesday, with major indices ending in the red, recording [\u2026]",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6369",
+                "source": "Insider Monkey",
+                "ticker": "RKLB",
+                "title": "Why Rocket Lab USA, Inc.\u00a0(RKLB) Skyrocketed On Tuesday?",
+                "url": "https://finance.yahoo.com/news/why-rocket-lab-usa-inc-104520005.html"
+            },
+            {
+                "headline": "Market Domination host Josh Lipton and ProShares global investment strategist Simeon Hyman take a closer look at some of today's trending tickers. Netflix (NFLX) stock is gaining after the Wall Street Journal reported the streaming giant is aiming for a $1 trillion market cap and to double revenue by 2030. Rocket Lab (RKLB) stock rises after announcing hypersonic business deals in the US and the UK. American Airlines (AAL) is partnering with AT&T (T) to bring free Wi-Fi to flights for rewards members. To watch more expert insights and analysis on the latest market action, check out more Market Domination here.",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8316",
+                "source": "Yahoo Finance Video",
+                "ticker": "RKLB",
+                "title": "Netflix, Rocket Lab, American Airlines: Trending Tickers",
+                "url": "https://finance.yahoo.com/video/netflix-rocket-lab-american-airlines-201941825.html"
+            }
+        ],
+        "avgScore": 0.5989500000000001,
+        "pctChange": -0.011764736213450403
+    },
+    "4 15 2025": {
+        "importantArticles": [
+            {
+                "headline": "Rocket Lab USA (NASDAQ: RKLB) has been selected to bid for billions in future launches planned by the United States and United Kingdom.  Investors are excited about the opportunities these selections create, sending Rocket Lab shares up as much as 15% on Tuesday morning and up 9% as of 11:30 a.m. ET.  Rocket Lab is one of several space stocks to emerge in recent years, and the company arguably has done more than anyone else in that class to establish itself as a reliable operator.",
+                "publication_date": "2025-04-15T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8979",
+                "source": "Motley Fool",
+                "ticker": "RKLB",
+                "title": "Why Rocket Lab Is Up Big Today",
+                "url": "https://finance.yahoo.com/news/why-rocket-lab-big-today-155654682.html"
+            },
+            {
                 "headline": "Shares of aerospace and defense company Rocket Lab (NASDAQ:RKLB) jumped 13.1% in the morning session after the company announced it was selected to provide hypersonic test launch capabilities through its HASTE launch vehicle, along with other related services, under two multi-billion-dollar government development programs for the United States and the United Kingdom.",
-                "publication_date": "2025-04-15T17:11:18.000Z",
+                "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.8074",
                 "source": "StockStory",
@@ -32,8 +232,18 @@
                 "url": "https://finance.yahoo.com/news/why-rocket-lab-rklb-shares-171118786.html"
             },
             {
+                "headline": "Rocket Lab USA (NasdaqCM:RKLB) recently introduced its new STARRAY solar arrays and Frontier RF Communications Systems, showcasing the company's continuous innovation in satellite technology. The stock price rose by 12% over the last week, partly supported by these product advancements. Concurrently, the company's announcement about its selection by the U.S. Space Force for high-profile national security missions further solidifies its market position and could have contributed to the share...",
+                "publication_date": "2025-04-15T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.719",
+                "source": "Simply Wall St.",
+                "ticker": "RKLB",
+                "title": "Rocket Lab USA (NasdaqCM:RKLB) Rockets 12% In A Week After U.S. Space Force Selection",
+                "url": "https://finance.yahoo.com/news/rocket-lab-usa-nasdaqcm-rklb-173713974.html"
+            },
+            {
                 "headline": "Earnings results often indicate what direction a company will take in the months ahead. With Q4 behind us, let\u2019s have a look at Moog (NYSE:MOG.A) and its peers.",
-                "publication_date": "2025-04-15T09:02:15.000Z",
+                "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
                 "source": "StockStory",
@@ -43,7 +253,7 @@
             },
             {
                 "headline": "Josh Lipton examines the trending stories of the trading day on today's Market Minute. Albertsons (ACI) stock is under pressure after the company's full-year earnings outlook fell short of expectations. Bank of America analysts downgraded Dow Inc. (DOW) to Underperform from Buy. Rocket Lab (RKLB) stock gains after announcing new hypersonic business in the US and the UK. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
-                "publication_date": "2025-04-15T17:13:10.000Z",
+                "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.0516",
                 "source": "Yahoo Finance Video",
@@ -53,7 +263,7 @@
             },
             {
                 "headline": "Rocket Lab shares jump after being selected for two, multibillion contracts for hypersonic tech from the U.S. and U.K.",
-                "publication_date": "2025-04-15T13:55:39.000Z",
+                "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.296",
                 "source": "Investor's Business Daily",
@@ -62,33 +272,14 @@
                 "url": "https://finance.yahoo.com/m/c2347a5e-5e63-311d-b58a-c62f57605e21/spacex-rival-jumps-on-two.html"
             }
         ],
-        "avgScore": 0.45752857142857145
+        "avgScore": 0.4713625,
+        "pctChange": -0.05196959322327259
     },
     "4 14 2025": {
         "importantArticles": [
             {
-                "headline": "Rocket Lab USA (NasdaqCM:RKLB) recently introduced its new STARRAY solar arrays and Frontier RF Communications Systems, showcasing the company's continuous innovation in satellite technology. The stock price rose by 12% over the last week, partly supported by these product advancements. Concurrently, the company's announcement about its selection by the U.S. Space Force for high-profile national security missions further solidifies its market position and could have contributed to the share...",
-                "publication_date": "2025-04-14T17:37:13.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.719",
-                "source": "Simply Wall St.",
-                "ticker": "RKLB",
-                "title": "Rocket Lab USA (NasdaqCM:RKLB) Rockets 12% In A Week After U.S. Space Force Selection",
-                "url": "https://finance.yahoo.com/news/rocket-lab-usa-nasdaqcm-rklb-173713974.html"
-            },
-            {
-                "headline": "LONG BEACH, Calif., April 14, 2025--Rocket Lab USA, Inc. (Nasdaq: RKLB) (\"Rocket Lab\" or \"the Company\"), a global leader in launch services and space systems, today announced it has been selected to provide hypersonic test launch capability with its HASTE launch vehicle, engineering expertise, and other services through its participation in two multi-billion dollar government development programs for the United States and the United Kingdom.",
-                "publication_date": "2025-04-14T21:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6808",
-                "source": "Business Wire",
-                "ticker": "RKLB",
-                "title": "Rocket Lab Onramped To Multi-Billion Dollar U.S. and U.K. Defense Contracts To Expand Hypersonic Technology Development with HASTE",
-                "url": "https://finance.yahoo.com/news/rocket-lab-onramped-multi-billion-210000117.html"
-            },
-            {
                 "headline": "One single Space Force contract could expand the small company's revenue by nearly 50% annually.",
-                "publication_date": "2025-04-14T11:07:00.000Z",
+                "publication_date": "2025-04-14T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.3182",
                 "source": "Motley Fool",
@@ -98,52 +289,23 @@
             },
             {
                 "headline": "One single Space Force contract could expand the small company's revenue by nearly 50% annually.",
-                "publication_date": "2025-04-14T11:07:00.000Z",
+                "publication_date": "2025-04-14T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.3182",
                 "source": "Motley Fool",
                 "ticker": "RKLB",
                 "title": "How Much Will Rocket Lab Get From the Space Force?",
                 "url": "https://finance.yahoo.com/news/much-rocket-lab-space-force-110700651.html"
-            },
-            {
-                "headline": "LONG BEACH, Calif., April 14, 2025--Rocket Lab USA, Inc. (Nasdaq: RKLB) (\"Rocket Lab\" or \"the Company\"), a global leader in launch services and space systems, today announced it has been selected to provide hypersonic test launch capability with its HASTE launch vehicle, engineering expertise, and other services through its participation in two multi-billion dollar government development programs for the United States and the United Kingdom.",
-                "publication_date": "2025-04-14T21:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6808",
-                "source": "Business Wire",
-                "ticker": "RKLB",
-                "title": "Rocket Lab Onramped To Multi-Billion Dollar U.S. and U.K. Defense Contracts To Expand Hypersonic Technology Development with HASTE",
-                "url": "https://finance.yahoo.com/news/rocket-lab-onramped-multi-billion-210000117.html"
-            },
-            {
-                "headline": "Rocket Lab USA (NasdaqCM:RKLB) recently introduced its new STARRAY solar arrays and Frontier RF Communications Systems, showcasing the company's continuous innovation in satellite technology. The stock price rose by 12% over the last week, partly supported by these product advancements. Concurrently, the company's announcement about its selection by the U.S. Space Force for high-profile national security missions further solidifies its market position and could have contributed to the share...",
-                "publication_date": "2025-04-14T17:37:13.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.719",
-                "source": "Simply Wall St.",
-                "ticker": "RKLB",
-                "title": "Rocket Lab USA (NasdaqCM:RKLB) Rockets 12% In A Week After U.S. Space Force Selection",
-                "url": "https://finance.yahoo.com/news/rocket-lab-usa-nasdaqcm-rklb-173713974.html"
             }
         ],
-        "avgScore": 0.5726666666666667
+        "avgScore": 0.3182,
+        "pctChange": 0.10141142807974253
     },
     "4 11 2025": {
         "importantArticles": [
             {
-                "headline": "Shares of Rocket Lab (NASDAQ: RKLB) are trading higher this week.  The launch service provider announced a new family of customizable satellite solar arrays at a major industry conference this week, boosting investor optimism.  Rocket Lab announced its new Standardized Array (STARRAY) product line at the 40th Space Symposium in Colorado Springs.",
-                "publication_date": "2025-04-11T19:44:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7964",
-                "source": "Motley Fool",
-                "ticker": "RKLB",
-                "title": "Why Rocket Lab Stock Is Skyrocketing This Week",
-                "url": "https://finance.yahoo.com/news/why-rocket-lab-stock-skyrocketing-194400738.html"
-            },
-            {
                 "headline": "Karman just released its first earnings report after its February IPO. The missile and launch systems maker is a key player in defense, space.",
-                "publication_date": "2025-04-11T12:00:14.000Z",
+                "publication_date": "2025-04-11T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.128",
                 "source": "Investor's Business Daily",
@@ -153,32 +315,49 @@
             },
             {
                 "headline": "Karman just released its first earnings report after its February IPO. The missile and launch systems maker is a key player in defense, space.",
-                "publication_date": "2025-04-11T12:00:14.000Z",
+                "publication_date": "2025-04-11T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.128",
                 "source": "Investor's Business Daily",
                 "ticker": "RKLB",
                 "title": "Newly-Launched Karman Offers 'Smooth' Earnings Debut, Ready To Navigate Tariffs",
                 "url": "https://finance.yahoo.com/m/2b123d40-b5fc-32aa-b6e2-31d01936ca72/newly-launched-karman-offers.html"
-            },
-            {
-                "headline": "Shares of Rocket Lab (NASDAQ: RKLB) are trading higher this week.  The launch service provider announced a new family of customizable satellite solar arrays at a major industry conference this week, boosting investor optimism.  Rocket Lab announced its new Standardized Array (STARRAY) product line at the 40th Space Symposium in Colorado Springs.",
-                "publication_date": "2025-04-11T19:44:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7964",
-                "source": "Motley Fool",
-                "ticker": "RKLB",
-                "title": "Why Rocket Lab Stock Is Skyrocketing This Week",
-                "url": "https://finance.yahoo.com/news/why-rocket-lab-stock-skyrocketing-194400738.html"
             }
         ],
-        "avgScore": 0.4622
+        "avgScore": 0.128,
+        "pctChange": -0.025471218613158295
+    },
+    "4 9 2025": {
+        "importantArticles": [
+            {
+                "headline": "In the closing of the recent trading day, Rocket Lab USA, Inc. (RKLB) stood at $17.18, denoting a -1.94% change from the preceding trading day.",
+                "publication_date": "2025-04-09T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "RKLB",
+                "title": "Rocket Lab USA, Inc. (RKLB) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
+                "url": "https://finance.yahoo.com/news/rocket-lab-usa-inc-rklb-221516002.html"
+            },
+            {
+                "headline": "In the closing of the recent trading day, Rocket Lab USA, Inc. (RKLB) stood at $17.18, denoting a -1.94% change from the preceding trading day.",
+                "publication_date": "2025-04-09T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "RKLB",
+                "title": "Rocket Lab USA, Inc. (RKLB) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
+                "url": "https://finance.yahoo.com/news/rocket-lab-usa-inc-rklb-221516002.html"
+            }
+        ],
+        "avgScore": 0.0,
+        "pctChange": -0.046624622860948824
     },
     "4 8 2025": {
         "importantArticles": [
             {
                 "headline": "ClearBridge Investments, an investment management company, released its \u201cClearBridge Small Cap Growth Strategy\u201d first quarter 2025 investor letter. A copy of the letter can be downloaded here. The stock market performance in the first quarter of 2025 was volatile, following the initial \u201canimal spirits\u201d post-election rally. The strategy surpassed its benchmark with the support of [\u2026]",
-                "publication_date": "2025-04-08T13:46:16.000Z",
+                "publication_date": "2025-04-08T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.6486",
                 "source": "Insider Monkey",
@@ -187,8 +366,18 @@
                 "url": "https://finance.yahoo.com/news/expect-significant-growth-potential-rocket-134616927.html"
             },
             {
+                "headline": "Rocket Lab Shares Climb as Space Contracts Fuel Bullish Options Activity",
+                "publication_date": "2025-04-08T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.296",
+                "source": "GuruFocus.com",
+                "ticker": "RKLB",
+                "title": "Why Rocket Lab Shares Are Jumping Today?",
+                "url": "https://finance.yahoo.com/news/why-rocket-lab-shares-jumping-190318476.html"
+            },
+            {
                 "headline": "LONG BEACH, Calif., April 08, 2025--Rocket Lab USA, Inc. (Nasdaq: RKLB) (\"Rocket Lab\" or \"the Company\"), a global leader in launch services and space systems, today introduced the Company\u2019s family of customizable, next-generation solar arrays, Standardized Array (STARRAY), to meet the diverse power needs of satellites operating in any orbital conditions. The new product line was introduced at the 40th Space Symposium in Colorado Springs, Colorado.",
-                "publication_date": "2025-04-08T12:00:00.000Z",
+                "publication_date": "2025-04-08T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
                 "source": "Business Wire",
@@ -197,38 +386,28 @@
                 "url": "https://finance.yahoo.com/news/rocket-lab-expands-satellite-solutions-120000169.html"
             },
             {
-                "headline": "In the closing of the recent trading day, Rocket Lab USA, Inc. (RKLB) stood at $17.18, denoting a -1.94% change from the preceding trading day.",
-                "publication_date": "2025-04-08T22:15:16.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "RKLB",
-                "title": "Rocket Lab USA, Inc. (RKLB) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
-                "url": "https://finance.yahoo.com/news/rocket-lab-usa-inc-rklb-221516002.html"
-            },
-            {
-                "headline": "In the closing of the recent trading day, Rocket Lab USA, Inc. (RKLB) stood at $17.18, denoting a -1.94% change from the preceding trading day.",
-                "publication_date": "2025-04-08T22:15:16.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "RKLB",
-                "title": "Rocket Lab USA, Inc. (RKLB) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
-                "url": "https://finance.yahoo.com/news/rocket-lab-usa-inc-rklb-221516002.html"
-            },
-            {
                 "headline": "LONG BEACH, Calif., April 08, 2025--Rocket Lab USA, Inc. (Nasdaq: RKLB) (\"Rocket Lab\" or \"the Company\"), a global leader in launch services and space systems, today introduced the Company\u2019s family of customizable, next-generation solar arrays, Standardized Array (STARRAY), to meet the diverse power needs of satellites operating in any orbital conditions. The new product line was introduced at the 40th Space Symposium in Colorado Springs, Colorado.",
-                "publication_date": "2025-04-08T12:00:00.000Z",
+                "publication_date": "2025-04-08T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
                 "source": "Business Wire",
                 "ticker": "RKLB",
                 "title": "Rocket Lab Expands Satellite Solutions with Customizable Solar Arrays",
                 "url": "https://finance.yahoo.com/news/rocket-lab-expands-satellite-solutions-120000169.html"
+            },
+            {
+                "headline": "Rocket Lab Shares Climb as Space Contracts Fuel Bullish Options Activity",
+                "publication_date": "2025-04-08T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.296",
+                "source": "GuruFocus.com",
+                "ticker": "RKLB",
+                "title": "Why Rocket Lab Shares Are Jumping Today?",
+                "url": "https://finance.yahoo.com/news/why-rocket-lab-shares-jumping-190318476.html"
             },
             {
                 "headline": "ClearBridge Investments, an investment management company, released its \u201cClearBridge Small Cap Growth Strategy\u201d first quarter 2025 investor letter. A copy of the letter can be downloaded here. The stock market performance in the first quarter of 2025 was volatile, following the initial \u201canimal spirits\u201d post-election rally. The strategy surpassed its benchmark with the support of [\u2026]",
-                "publication_date": "2025-04-08T13:46:16.000Z",
+                "publication_date": "2025-04-08T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.6486",
                 "source": "Insider Monkey",
@@ -237,8 +416,435 @@
                 "url": "https://finance.yahoo.com/news/expect-significant-growth-potential-rocket-134616927.html"
             }
         ],
-        "avgScore": 0.21619999999999998
+        "avgScore": 0.31486666666666663,
+        "pctChange": 0.19848659993241013
     },
-    "coef": 0.19999999999999998,
-    "avgCoef": 0.167194370755982
+    "4 4 2025": {
+        "importantArticles": [
+            {
+                "headline": "LONG BEACH, Calif., April 03, 2025--Rocket Lab USA, Inc. (\"Rocket Lab\" or \"the Company\"), a global leader in launch services and space systems, today announced that it will release its financial results for the first quarter 2025 following the close of the U.S. markets on Thursday, May 8, 2025. Rocket Lab will host a corresponding conference call at 2:00 p.m. Pacific Time (5:00 p.m. Eastern Time).",
+                "publication_date": "2025-04-04T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Business Wire",
+                "ticker": "RKLB",
+                "title": "Rocket Lab Announces Date of First Quarter 2025 Financial Results",
+                "url": "https://finance.yahoo.com/news/rocket-lab-announces-date-first-203000693.html"
+            },
+            {
+                "headline": "LONG BEACH, Calif., April 03, 2025--Rocket Lab USA, Inc. (\"Rocket Lab\" or \"the Company\"), a global leader in launch services and space systems, today announced that it will release its financial results for the first quarter 2025 following the close of the U.S. markets on Thursday, May 8, 2025. Rocket Lab will host a corresponding conference call at 2:00 p.m. Pacific Time (5:00 p.m. Eastern Time).",
+                "publication_date": "2025-04-04T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Business Wire",
+                "ticker": "RKLB",
+                "title": "Rocket Lab Announces Date of First Quarter 2025 Financial Results",
+                "url": "https://finance.yahoo.com/news/rocket-lab-announces-date-first-203000693.html"
+            }
+        ],
+        "avgScore": 0.0,
+        "pctChange": 0.07025043125068817
+    },
+    "4 3 2025": {
+        "importantArticles": [
+            {
+                "headline": "Is the excitement surrounding chipmaker Nvidia fading?  Whether that's due to its high valuation, concerns about the economy, tariffs, or the possibility of a slowdown in tech spending on the horizon, investors don't appear as eager to own the stock anymore.  What may surprise you is that even over the past 12 months, Nvidia stock has risen by just 20% -- a solid return but not the type investors may have been expecting from the chipmaker, given the growth opportunities in artificial intelligence (AI).",
+                "publication_date": "2025-04-03T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9238",
+                "source": "Motley Fool",
+                "ticker": "RKLB",
+                "title": "3 Growth Stocks That Have Dwarfed Nvidia's Returns Over the Past 12 Months",
+                "url": "https://finance.yahoo.com/news/3-growth-stocks-dwarfed-nvidias-134500205.html"
+            },
+            {
+                "headline": "LONG BEACH, Calif., April 03, 2025--Rocket Lab USA, Inc. (Nasdaq: RKLB) (\"Rocket Lab\" or \"the Company\"), a global leader in launch services and space systems, today introduced its expanded suite of space-grade radio frequency (RF) communications systems, the Frontier radios. The Frontier radio is flight-proven, software-defined and designed for reliable telemetry, tracking, and command (TT&C).",
+                "publication_date": "2025-04-03T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Business Wire",
+                "ticker": "RKLB",
+                "title": "A New Frontier in Radios: Rocket Lab Announces Expanded Radio Products for Reliable Command and Control",
+                "url": "https://finance.yahoo.com/news/frontier-radios-rocket-lab-announces-120000999.html"
+            },
+            {
+                "headline": "LONG BEACH, Calif., April 03, 2025--Rocket Lab USA, Inc. (Nasdaq: RKLB) (\"Rocket Lab\" or \"the Company\"), a global leader in launch services and space systems, today introduced its expanded suite of space-grade radio frequency (RF) communications systems, the Frontier radios. The Frontier radio is flight-proven, software-defined and designed for reliable telemetry, tracking, and command (TT&C).",
+                "publication_date": "2025-04-03T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Business Wire",
+                "ticker": "RKLB",
+                "title": "A New Frontier in Radios: Rocket Lab Announces Expanded Radio Products for Reliable Command and Control",
+                "url": "https://finance.yahoo.com/news/frontier-radios-rocket-lab-announces-120000999.html"
+            },
+            {
+                "headline": "Is the excitement surrounding chipmaker Nvidia fading?  Whether that's due to its high valuation, concerns about the economy, tariffs, or the possibility of a slowdown in tech spending on the horizon, investors don't appear as eager to own the stock anymore.  What may surprise you is that even over the past 12 months, Nvidia stock has risen by just 20% -- a solid return but not the type investors may have been expecting from the chipmaker, given the growth opportunities in artificial intelligence (AI).",
+                "publication_date": "2025-04-03T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9238",
+                "source": "Motley Fool",
+                "ticker": "RKLB",
+                "title": "3 Growth Stocks That Have Dwarfed Nvidia's Returns Over the Past 12 Months",
+                "url": "https://finance.yahoo.com/news/3-growth-stocks-dwarfed-nvidias-134500205.html"
+            }
+        ],
+        "avgScore": 0.4619,
+        "pctChange": -0.08496358872401891
+    },
+    "4 2 2025": {
+        "importantArticles": [
+            {
+                "headline": "Rocket Lab USA (NasdaqCM:RKLB) was recently selected to compete for a significant U.S. Space Force contract valued at up to $5.6 billion. Despite this positive development, the company's shares experienced an 11.53% decline over the past week. The market, overall, faced a 3.4% drop amid broader economic concerns such as impending tariffs and weaker-than-expected manufacturing data, which likely exacerbated pressures on smaller tech and aerospace firms like Rocket Lab.",
+                "publication_date": "2025-04-02T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.1518",
+                "source": "Simply Wall St.",
+                "ticker": "RKLB",
+                "title": "Rocket Lab USA (NasdaqCM:RKLB) Competes For US$5.6B U.S. Space Force Contract Despite 12% Weekly Decline",
+                "url": "https://finance.yahoo.com/news/rocket-lab-usa-nasdaqcm-rklb-180049882.html"
+            },
+            {
+                "headline": "It's time to examine the numbers to evaluate this volatile stock's trajectory after it climbed 350% in the past year.",
+                "publication_date": "2025-04-02T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Motley Fool",
+                "ticker": "RKLB",
+                "title": "Is Rocket Lab Stock a Buy Now?",
+                "url": "https://finance.yahoo.com/news/rocket-lab-stock-buy-now-090800650.html"
+            },
+            {
+                "headline": "It's time to examine the numbers to evaluate this volatile stock's trajectory after it climbed 350% in the past year.",
+                "publication_date": "2025-04-02T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Motley Fool",
+                "ticker": "RKLB",
+                "title": "Is Rocket Lab Stock a Buy Now?",
+                "url": "https://finance.yahoo.com/news/rocket-lab-stock-buy-now-090800650.html"
+            },
+            {
+                "headline": "Rocket Lab USA (NasdaqCM:RKLB) was recently selected to compete for a significant U.S. Space Force contract valued at up to $5.6 billion. Despite this positive development, the company's shares experienced an 11.53% decline over the past week. The market, overall, faced a 3.4% drop amid broader economic concerns such as impending tariffs and weaker-than-expected manufacturing data, which likely exacerbated pressures on smaller tech and aerospace firms like Rocket Lab.",
+                "publication_date": "2025-04-02T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.1518",
+                "source": "Simply Wall St.",
+                "ticker": "RKLB",
+                "title": "Rocket Lab USA (NasdaqCM:RKLB) Competes For US$5.6B U.S. Space Force Contract Despite 12% Weekly Decline",
+                "url": "https://finance.yahoo.com/news/rocket-lab-usa-nasdaqcm-rklb-180049882.html"
+            }
+        ],
+        "avgScore": 0.0759,
+        "pctChange": -0.0749741857031696
+    },
+    "4 1 2025": {
+        "importantArticles": [
+            {
+                "headline": "Rocket Lab USA (NASDAQ: RKLB) stock has witnessed a nearly 400% appreciation over the last 12 months.  Rocket Lab is a hypergrowth stock.  With a market cap of only $8.4 billion as of this writing, Rocket Lab remains a small company.",
+                "publication_date": "2025-04-01T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5106",
+                "source": "Motley Fool",
+                "ticker": "RKLB",
+                "title": "Every Rocket Lab USA Investor Should Keep an Eye on This Number",
+                "url": "https://finance.yahoo.com/news/every-rocket-lab-usa-investor-140500670.html"
+            },
+            {
+                "headline": "We came across a bullish thesis on Rocket Lab USA, Inc. (RKLB) on Substack by Steve Wagner. In this article, we will summarize the bulls\u2019 thesis on RKLB. Rocket Lab USA, Inc. (RKLB)\u2019s share was trading at $17.88 as of March 31st. Rocket Lab\u2019s (RKLB) recent $5.6 billion contract with the U.S. Space Force marks a pivotal [\u2026]",
+                "publication_date": "2025-04-01T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.296",
+                "source": "Insider Monkey",
+                "ticker": "RKLB",
+                "title": "Rocket Lab USA, Inc. (RKLB): A Bull Case Theory",
+                "url": "https://finance.yahoo.com/news/rocket-lab-usa-inc-rklb-124415556.html"
+            },
+            {
+                "headline": "Tariffs are just the start of the answer to why these three space stocks are going down today.",
+                "publication_date": "2025-04-01T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Motley Fool",
+                "ticker": "RKLB",
+                "title": "Why Rocket Lab, Planet Labs, and AST SpaceMobile Stocks All Dropped on Monday",
+                "url": "https://finance.yahoo.com/news/why-rocket-lab-planet-labs-174844800.html"
+            },
+            {
+                "headline": "Tariffs are just the start of the answer to why these three space stocks are going down today.",
+                "publication_date": "2025-04-01T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Motley Fool",
+                "ticker": "RKLB",
+                "title": "Why Rocket Lab, Planet Labs, and AST SpaceMobile Stocks All Dropped on Monday",
+                "url": "https://finance.yahoo.com/news/why-rocket-lab-planet-labs-174844800.html"
+            },
+            {
+                "headline": "We came across a bullish thesis on Rocket Lab USA, Inc. (RKLB) on Substack by Steve Wagner. In this article, we will summarize the bulls\u2019 thesis on RKLB. Rocket Lab USA, Inc. (RKLB)\u2019s share was trading at $17.88 as of March 31st. Rocket Lab\u2019s (RKLB) recent $5.6 billion contract with the U.S. Space Force marks a pivotal [\u2026]",
+                "publication_date": "2025-04-01T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.296",
+                "source": "Insider Monkey",
+                "ticker": "RKLB",
+                "title": "Rocket Lab USA, Inc. (RKLB): A Bull Case Theory",
+                "url": "https://finance.yahoo.com/news/rocket-lab-usa-inc-rklb-124415556.html"
+            },
+            {
+                "headline": "Rocket Lab USA (NASDAQ: RKLB) stock has witnessed a nearly 400% appreciation over the last 12 months.  Rocket Lab is a hypergrowth stock.  With a market cap of only $8.4 billion as of this writing, Rocket Lab remains a small company.",
+                "publication_date": "2025-04-01T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5106",
+                "source": "Motley Fool",
+                "ticker": "RKLB",
+                "title": "Every Rocket Lab USA Investor Should Keep an Eye on This Number",
+                "url": "https://finance.yahoo.com/news/every-rocket-lab-usa-investor-140500670.html"
+            }
+        ],
+        "avgScore": 0.26886666666666664,
+        "pctChange": 0.06556476909468825
+    },
+    "3 31 2025": {
+        "importantArticles": [
+            {
+                "headline": "Julie Hyman outlines the trending stories of the trading day on Market Minute. Moderna (MRNA) shares are falling after a top vaccine official from the Food and Drug Administration (FDA) resigned. Rocket (RKT) is acquiring Mr. Cooper (COOP) for $9.4 billion. Bitcoin (BTC=F) miner Hut 8 (HUT) is in focus on an announcement that it is partnering with the Trump family. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
+                "publication_date": "2025-03-31T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.1027",
+                "source": "Yahoo Finance Video",
+                "ticker": "RKLB",
+                "title": "Moderna, Rocket, Hut 8: Market Minute",
+                "url": "https://finance.yahoo.com/video/moderna-rocket-hut-8-market-162642271.html"
+            },
+            {
+                "headline": "Julie Hyman outlines the trending stories of the trading day on Market Minute. Moderna (MRNA) shares are falling after a top vaccine official from the Food and Drug Administration (FDA) resigned. Rocket (RKT) is acquiring Mr. Cooper (COOP) for $9.4 billion. Bitcoin (BTC=F) miner Hut 8 (HUT) is in focus on an announcement that it is partnering with the Trump family. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
+                "publication_date": "2025-03-31T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.1027",
+                "source": "Yahoo Finance Video",
+                "ticker": "RKLB",
+                "title": "Moderna, Rocket, Hut 8: Market Minute",
+                "url": "https://finance.yahoo.com/video/moderna-rocket-hut-8-market-162642271.html"
+            }
+        ],
+        "avgScore": 0.1027,
+        "pctChange": 0.015100697451715968
+    },
+    "3 28 2025": {
+        "importantArticles": [
+            {
+                "headline": "Rocket Lab (NASDAQ: RKLB) shareholders received some wonderful news Thursday night when the U.S. Department of Defense announced that the company, along with privately held Stoke Space, had been added to \"Lane 1\" of Phase 3 of the National Security Space Launch program by U.S. Space Force.  In response, Rocket Lab stock soared by more than 7% in the opening minutes of trading Friday before retreating to about a 3.5% gain as of 10:05 a.m. ET.  In its own press release, Rocket Lab clarified that NSSL Phase 3 Lane 1, or NSSL3(1), is a firm-fixed-price, indefinite-delivery/indefinite-quantity contract worth up to $5.6 billion for Rocket Lab if it wins all of the contracts on offer over the five-year period ending June 2029.",
+                "publication_date": "2025-03-28T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9393",
+                "source": "Motley Fool",
+                "ticker": "RKLB",
+                "title": "Why Rocket Lab Stock Bounced Back on Friday",
+                "url": "https://finance.yahoo.com/news/why-rocket-lab-stock-bounced-151749895.html"
+            },
+            {
+                "headline": "Rocket Lab (RKLB) shares are on the rise as the US Space Force selected the company for a $5.6 billion Space Launch program. UbiSoft (UBI.PA) announces a new video games subsidiary valued at $4.3 billion. Nippon Steel (NPSCY, NISTF) is reportedly considering investing $7 billion to upgrade United States Steel Corporation (X) facilities, according to Semafor. Morning Brief hosts Brad Smith and Madison Mills break down the news. To watch more expert insights and analysis on the latest market action, check out more Morning Brief here.",
+                "publication_date": "2025-03-28T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7845",
+                "source": "Yahoo Finance Video",
+                "ticker": "RKLB",
+                "title": "Rocket Lab, UbiSoft, Nippon Steel: Stocks in 30",
+                "url": "https://finance.yahoo.com/video/rocket-lab-ubisoft-nippon-steel-145413369.html"
+            },
+            {
+                "headline": "LONG BEACH, Calif., March 27, 2025--Rocket Lab USA, Inc. (Nasdaq: RKLB) (\"Rocket Lab\" or \"the Company\"), a global leader in launch services and space systems, has today been selected by the U.S. Space Force to compete for the Department of Defense\u2019s highest-priority national security missions for its National Security Space Launch (NSSL) Phase 3 Lane 1 program. The firm-fixed price, indefinite delivery/indefinite-quantity (IDIQ) contract has a five-year ordering period that will run through to J",
+                "publication_date": "2025-03-28T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5859",
+                "source": "Business Wire",
+                "ticker": "RKLB",
+                "title": "Rocket Lab\u2019s Neutron Rocket On-Ramped to U.S. Space Force\u2019s $5.6b National Security Space Launch (NSSL) program",
+                "url": "https://finance.yahoo.com/news/rocket-lab-neutron-rocket-ramped-224500204.html"
+            },
+            {
+                "headline": "Here are some of the stocks on the move for Friday, March 28. Lululemon (LULU) shares are sinking after issuing a disappointing full-year forecast. AppLovin (APP) has hired a law firm to investigate short seller activity after a third short-selling firm issued a report on the company. Rocket Lab (RKLB) will be competing for a $5.6 billion US Space Force contract. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
+                "publication_date": "2025-03-28T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.25",
+                "source": "Yahoo Finance Video",
+                "ticker": "RKLB",
+                "title": "Lululemon, AppLovin, Rocket Lab: Market Minute",
+                "url": "https://finance.yahoo.com/video/lululemon-applovin-rocket-lab-market-150937984.html"
+            },
+            {
+                "headline": "Momentum investing is a double-edged sword.",
+                "publication_date": "2025-03-28T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Motley Fool",
+                "ticker": "RKLB",
+                "title": "Why Rocket Lab Stock Dropped on Thursday",
+                "url": "https://finance.yahoo.com/news/why-rocket-lab-stock-dropped-180700190.html"
+            },
+            {
+                "headline": "Investing.com -- The U.S. Space Force's Space Systems Command announced on Thursday that it has awarded contracts to Rocket Lab USA, Inc. (NASDAQ:RKLB) and Stoke Space as part of efforts to broaden its launch system portfolio for critical space operations.",
+                "publication_date": "2025-03-28T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.1027",
+                "source": "Investing.com",
+                "ticker": "RKLB",
+                "title": "Rocket Lab shares soar after winning U.S. Space Force national security contract",
+                "url": "https://finance.yahoo.com/news/rocket-lab-shares-soar-winning-125854554.html"
+            }
+        ],
+        "avgScore": 0.4066888888888889,
+        "pctChange": -0.03974230102651614
+    },
+    "3 27 2025": {
+        "importantArticles": [
+            {
+                "headline": "Rocket Lab USA (NASDAQ: RKLB) has been on an incredible run, with its stock skyrocketing some 400% in the past year.  The rocket company recently celebrated a record year for launches, solidifying its position as the second-most-utilized launch service in the U.S., right behind the industry giant SpaceX.  Here's what investors need to know and what to expect next from Rocket Lab USA.",
+                "publication_date": "2025-03-27T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5719",
+                "source": "Motley Fool",
+                "ticker": "RKLB",
+                "title": "Should You Buy Rocket Lab USA While It's Below $24?",
+                "url": "https://finance.yahoo.com/news/buy-rocket-lab-usa-while-104500005.html"
+            },
+            {
+                "headline": "Rocket Lab USA (NASDAQ: RKLB) has been on an incredible run, with its stock skyrocketing some 400% in the past year.  The rocket company recently celebrated a record year for launches, solidifying its position as the second-most-utilized launch service in the U.S., right behind the industry giant SpaceX.  Here's what investors need to know and what to expect next from Rocket Lab USA.",
+                "publication_date": "2025-03-27T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5719",
+                "source": "Motley Fool",
+                "ticker": "RKLB",
+                "title": "Should You Buy Rocket Lab USA While It's Below $24?",
+                "url": "https://finance.yahoo.com/news/buy-rocket-lab-usa-while-104500005.html"
+            }
+        ],
+        "avgScore": 0.5719,
+        "pctChange": 0.01085780467486799
+    },
+    "3 26 2025": {
+        "importantArticles": [
+            {
+                "headline": "We recently published a list of Why These Defense Stocks Are Gaining This Week. In this article, we are going to take a look at where Rocket Lab USA, Inc. (NASDAQ:RKLB) stands against other defense stocks that are gaining this week. On Friday, President Trump unveiled a new next-generation fighter jet, the F-47. According to [\u2026]",
+                "publication_date": "2025-03-26T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.802",
+                "source": "Insider Monkey",
+                "ticker": "RKLB",
+                "title": "Why Rocket Lab USA, Inc. (RKLB) Is Gaining This Week?",
+                "url": "https://finance.yahoo.com/news/why-rocket-lab-usa-inc-153836132.html"
+            },
+            {
+                "headline": "MAHIA, New Zealand, March 26, 2025--Rocket Lab USA, Inc. (Nasdaq: RKLB) (\"Rocket Lab\" or \"the Company\"), a global leader in launch services and space systems, today successfully launched its latest mission within four months of contract signing for Germany-based global wildfire detection company OroraTech.",
+                "publication_date": "2025-03-26T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5719",
+                "source": "Business Wire",
+                "ticker": "RKLB",
+                "title": "Rocket Lab Successfully Launches Mission for Global Wildfire Detection Company OroraTech",
+                "url": "https://finance.yahoo.com/news/rocket-lab-successfully-launches-mission-164700714.html"
+            },
+            {
+                "headline": "Winning MSR would double Rocket Lab's annual revenue in an instant.",
+                "publication_date": "2025-03-26T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5267",
+                "source": "Motley Fool",
+                "ticker": "RKLB",
+                "title": "Rocket Lab Really (Really) Wants NASA to Pay It $4 Billion",
+                "url": "https://finance.yahoo.com/news/rocket-lab-really-really-wants-110700102.html"
+            },
+            {
+                "headline": "AST SpaceMobile, Intuitive Machines, and Rocket Lab USA could soar much higher.",
+                "publication_date": "2025-03-26T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Motley Fool",
+                "ticker": "RKLB",
+                "title": "3 Brilliant Space Stocks to Buy Now and Hold for the Long Term",
+                "url": "https://finance.yahoo.com/news/3-brilliant-space-stocks-buy-124500148.html"
+            },
+            {
+                "headline": "This week\u2019s picks cover: What Rocket Lab has that SpaceX and others don\u2019t, what investors are missing on easyJet, and why HEXPOL looks like a steady reliable dividend performer.",
+                "publication_date": "2025-03-26T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.0772",
+                "source": "Simply Wall St.",
+                "ticker": "RKLB",
+                "title": "Weekly Picks: \ud83d\ude80 Rocket Lab's Edge, EasyJet's Quiet Comeback, and HEXPOL's Reliable Dividends",
+                "url": "https://finance.yahoo.com/news/weekly-picks-rocket-labs-edge-234834204.html"
+            },
+            {
+                "headline": "Winning MSR would double Rocket Lab's annual revenue in an instant.",
+                "publication_date": "2025-03-26T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5267",
+                "source": "Motley Fool",
+                "ticker": "RKLB",
+                "title": "Rocket Lab Really (Really) Wants NASA to Pay It $4 Billion",
+                "url": "https://finance.yahoo.com/news/rocket-lab-really-really-wants-110700102.html"
+            }
+        ],
+        "avgScore": 0.39555999999999997,
+        "pctChange": -0.052469157908545186
+    },
+    "3 25 2025": {
+        "importantArticles": [
+            {
+                "headline": "As the U.S. equities market works to extend its rebound rally, with the S&P 500 and Nasdaq showing slight gains, investors remain cautious amid ongoing concerns about tariffs and economic uncertainty. In this environment, identifying undervalued stocks can be a strategic move for investors looking to capitalize on potential discounts in the market.",
+                "publication_date": "2025-03-25T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.0772",
+                "source": "Simply Wall St.",
+                "ticker": "RKLB",
+                "title": "3 Stocks Estimated To Be Trading At Discounts Of Up To 47%",
+                "url": "https://finance.yahoo.com/news/3-stocks-estimated-trading-discounts-170759273.html"
+            },
+            {
+                "headline": "As the U.S. equities market works to extend its rebound rally, with the S&P 500 and Nasdaq showing slight gains, investors remain cautious amid ongoing concerns about tariffs and economic uncertainty. In this environment, identifying undervalued stocks can be a strategic move for investors looking to capitalize on potential discounts in the market.",
+                "publication_date": "2025-03-25T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.0772",
+                "source": "Simply Wall St.",
+                "ticker": "RKLB",
+                "title": "3 Stocks Estimated To Be Trading At Discounts Of Up To 47%",
+                "url": "https://finance.yahoo.com/news/3-stocks-estimated-trading-discounts-170759273.html"
+            }
+        ],
+        "avgScore": 0.0772,
+        "pctChange": -0.04094720794089346
+    },
+    "3 24 2025": {
+        "importantArticles": [
+            {
+                "headline": "Rocket Lab USA (NASDAQ: RKLB) stock went on an incredible run in the last 12 months.  Investors went from pessimistic to optimistic on this upstart competitor to SpaceX as it launches more rockets and builds on its capabilities as an end-to-end space economy platform.  With share prices now down 40% from recent highs, does that make Rocket Lab stock a buy right now?",
+                "publication_date": "2025-03-24T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.25",
+                "source": "Motley Fool",
+                "ticker": "RKLB",
+                "title": "Rocket Lab Stock Has Crashed 40%: Should You Buy the Stock Right Now?",
+                "url": "https://finance.yahoo.com/news/rocket-lab-stock-crashed-40-224600837.html"
+            },
+            {
+                "headline": "Rocket Lab USA (NASDAQ: RKLB) stock went on an incredible run in the last 12 months.  Investors went from pessimistic to optimistic on this upstart competitor to SpaceX as it launches more rockets and builds on its capabilities as an end-to-end space economy platform.  With share prices now down 40% from recent highs, does that make Rocket Lab stock a buy right now?",
+                "publication_date": "2025-03-24T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.25",
+                "source": "Motley Fool",
+                "ticker": "RKLB",
+                "title": "Rocket Lab Stock Has Crashed 40%: Should You Buy the Stock Right Now?",
+                "url": "https://finance.yahoo.com/news/rocket-lab-stock-crashed-40-224600837.html"
+            }
+        ],
+        "avgScore": 0.25,
+        "pctChange": 0.0029688953987689532
+    },
+    "coef": -0.2760436449444975,
+    "avgCoef": -0.02688305732441292,
+    "similar": {
+        "ENPH": 0.35050773445268624,
+        "PHYS": 0.3422339467295542,
+        "HMY": 0.2790522950256365,
+        "BMY": 0.25648741941709446
+    }
 }

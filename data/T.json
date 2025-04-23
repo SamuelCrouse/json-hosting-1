@@ -2,6 +2,26 @@
     "4 23 2025": {
         "importantArticles": [
             {
+                "headline": "Is this massive stock plunge a buying opportunity? A household-name retail giant's dividend history and profit margins tell a compelling story.",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.765",
+                "source": "Motley Fool",
+                "ticker": "T",
+                "title": "1 Magnificent S&P 500 Dividend Stock Down 49% to Buy and Hold Forever",
+                "url": "https://finance.yahoo.com/news/1-magnificent-p-500-dividend-120900674.html"
+            },
+            {
+                "headline": "There's probably no one better in the investing world to turn to during these times than Warren Buffett.  The billionaire investor and CEO of Berkshire Hathaway has amassed a $250 billion portfolio of stocks, and many of his picks have stood the test of time.  If you're in the market for solid companies that could be great long-term picks, here are two no-brainer Buffett stocks to buy and hold.",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7506",
+                "source": "Motley Fool",
+                "ticker": "T",
+                "title": "2 No-Brainer Warren Buffett Stocks to Buy Right Now",
+                "url": "https://finance.yahoo.com/news/2-no-brainer-warren-buffett-122000811.html"
+            },
+            {
                 "headline": "AT&T Inc. (NYSE: T) reported solid first-quarter results that again showcase its ability to grow the right way with high-quality, profitable 5G and fiber subscriber additions. The Company reiterates all 2025 full-year financial and operational guidance. Based on the reduction in net debt and the Company's outlook, AT&T is operating within its net leverage target of net debt-to-adjusted EBITDA* in the 2.5x range and plans to commence share repurchases in the second quarter.",
                 "publication_date": "2025-04-23T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -12,24 +32,14 @@
                 "url": "https://finance.yahoo.com/news/t-delivers-strong-first-quarter-103000599.html"
             },
             {
-                "headline": "Telecommunications conglomerate AT&T (NYSE:T) reported Q1 CY2025 results topping the market\u2019s revenue expectations, with sales up 2% year on year to $30.63 billion. Its GAAP profit of $0.61 per share was 23.4% above analysts\u2019 consensus estimates.",
+                "headline": "The 2025 stock market crash occurred at a lousy time for retirees, especially those who just recently stopped working.",
                 "publication_date": "2025-04-23T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6249",
-                "source": "StockStory",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.7964",
+                "source": "Investor's Business Daily",
                 "ticker": "T",
-                "title": "AT&T (NYSE:T) Surprises With Q1 Sales",
-                "url": "https://finance.yahoo.com/news/t-nyse-t-surprises-q1-104746629.html"
-            },
-            {
-                "headline": "AT&T beat Wall Street estimates for wireless subscriber additions in the first quarter on Wednesday, driven by steady demand for its plans that bundled high-speed fiber services and 5G mobile offerings.  The U.S. wireless carrier's focus on bundling to fend off intense competition in a saturating market and aggressive trade-in offers helped it gain 324,000 net monthly bill-paying wireless phone subscribers.  After flagging elevated rate of subscribers leaving its service in January, AT&T ramped up its deals with promotions for the latest iPhones to include trade-ins of models in any condition.",
-                "publication_date": "2025-04-23T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.3818",
-                "source": "Reuters",
-                "ticker": "T",
-                "title": "AT&T leans on bundled plans to beat estimates for subscriber additions",
-                "url": "https://finance.yahoo.com/news/t-leans-bundled-plans-beat-103555523.html"
+                "title": "How Retirees Can Survive the Market Crash",
+                "url": "https://finance.yahoo.com/m/653d0f50-2eab-38a5-9458-6152e6e8c52e/how-retirees-can-survive-the.html"
             },
             {
                 "headline": "The president says tariffs on Chinese goods will be substantially lower, he has no intention of firing Fed Chief, and more news to start your day.",
@@ -50,23 +60,23 @@
                 "ticker": "T",
                 "title": "Verizon Earnings Beat Expectations. Why the Stock Is Shrugging.",
                 "url": "https://finance.yahoo.com/m/fd73d383-996a-327a-b157-0f9e2aa5c42e/verizon-earnings-beat.html"
-            },
-            {
-                "headline": "Verizon earnings topped estimates but the Dow telecom giant lost more postpaid phone subscribers than expected. Verizon stock fell.",
-                "publication_date": "2025-04-23T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.4497",
-                "source": "Investor's Business Daily",
-                "ticker": "T",
-                "title": "Verizon Earnings Top Views Amid Higher Than Expected Wireless Subscriber Loss",
-                "url": "https://finance.yahoo.com/m/8b8a5e3b-52bf-32d2-a41f-d095e4b1e266/verizon-earnings-top-views.html"
             }
         ],
-        "avgScore": -0.029466666666666683,
-        "pctChange": 0.023354041142376405
+        "avgScore": 0.09045238095238102,
+        "pctChange": 0.023553797007500443
     },
     "4 22 2025": {
         "importantArticles": [
+            {
+                "headline": "Artificial intelligence (AI) stocks, in particular, have been slammed as investors move their money from risky stocks to more conservative investments.  The two stocks I'm confident will be worth far more five years from now are Amazon (NASDAQ: AMZN) and Alphabet (NASDAQ: GOOG) (NASDAQ: GOOGL).  Amazon is the leader in e-commerce and sources a substantial amount of goods from China, which was a major tariff target.",
+                "publication_date": "2025-04-22T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8625",
+                "source": "Motley Fool",
+                "ticker": "T",
+                "title": "2 Artificial Intelligence (AI) Stocks Poised for Big Gains in the Next 5 Years",
+                "url": "https://finance.yahoo.com/news/2-artificial-intelligence-ai-stocks-111500007.html"
+            },
             {
                 "headline": "Despite a high debt burden, fierce competition, strength in 5G and fiber, and a customer-oriented approach are key growth drivers for AT&T.",
                 "publication_date": "2025-04-22T00:00:00.000Z",
@@ -88,48 +98,38 @@
                 "url": "https://finance.yahoo.com/news/why-ast-spacemobile-inc-asts-052652637.html"
             },
             {
-                "headline": "Despite stiff competition and macro headwinds, Verizon's 5G expansion and customer-oriented strategies are major growth drivers.",
+                "headline": "Verizon earnings topped estimates but the Dow telecom giant lost more postpaid phone subscribers than expected. Verizon stock fell.",
                 "publication_date": "2025-04-22T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.3818",
-                "source": "Zacks",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.4497",
+                "source": "Investor's Business Daily",
                 "ticker": "T",
-                "title": "Is VZ Stock a Smart Investment Option Before Q1 Earnings Release?",
-                "url": "https://finance.yahoo.com/news/vz-stock-smart-investment-option-163900785.html"
+                "title": "Verizon Earnings Top Views Amid Higher Than Expected Wireless Subscriber Loss",
+                "url": "https://finance.yahoo.com/m/8b8a5e3b-52bf-32d2-a41f-d095e4b1e266/verizon-earnings-top-views.html"
             },
             {
-                "headline": "Telecommunications conglomerate AT&T (NYSE:T) will be announcing earnings results tomorrow morning. Here\u2019s what investors should know.",
+                "headline": "Verizon\u2019s chief executive said his company won\u2019t absorb the cost of tariffs on smartphones.  The cellphone carrier warned that its full-year financial guidance, which it affirmed Tuesday, doesn't reflect effects of an \"evolving tariff environment\" that is hard to predict.  Verizon's stock rose modestly Tuesday morning, underperforming a broader market rally.",
                 "publication_date": "2025-04-22T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "StockStory",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.3612",
+                "source": "The Wall Street Journal",
                 "ticker": "T",
-                "title": "What To Expect From AT&T\u2019s (T) Q1 Earnings",
-                "url": "https://finance.yahoo.com/news/expect-t-t-q1-earnings-120114795.html"
+                "title": "Don\u2019t Ask Us to Pick Up the Smartphone Tariff Tab, Verizon Warns",
+                "url": "https://finance.yahoo.com/m/e7bbdf93-9859-3270-a6db-c0d07b13b684/don%E2%80%99t-ask-us-to-pick-up-the.html"
             },
             {
-                "headline": "Despite stiff competition and macro headwinds, Verizon's 5G expansion and customer-oriented strategies are major growth drivers.",
+                "headline": "We recently published a list of 10 Cheap Blue Chip Stocks to Buy According to Hedge Funds. In this article, we are going to take a look at where AT&T Inc. (NYSE:T) stands against other cheap blue chip stocks to buy according to hedge funds. The broad-based market anxiety increased as the US policy uncertainty rose, [\u2026]",
                 "publication_date": "2025-04-22T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.3818",
-                "source": "Zacks",
-                "ticker": "T",
-                "title": "Is VZ Stock a Smart Investment Option Before Q1 Earnings Release?",
-                "url": "https://finance.yahoo.com/news/vz-stock-smart-investment-option-163900785.html"
-            },
-            {
-                "headline": "We recently published a list of 10 Firms Mirror Wall Street Bloodbath. In this article, we are going to take a look at where AST SpaceMobile Inc. (NASDAQ:ASTS) stands against other best worst-performing companies on Monday Wall Street kicked off the trading week on a sour note anew as investors continued to digest the impact [\u2026]",
-                "publication_date": "2025-04-22T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6369",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.25",
                 "source": "Insider Monkey",
                 "ticker": "T",
-                "title": "Why AST SpaceMobile Inc. (ASTS) Performed Worst On Monday?",
-                "url": "https://finance.yahoo.com/news/why-ast-spacemobile-inc-asts-052652637.html"
+                "title": "Is AT&T Inc.\u00a0(T) the Cheap Blue Chip Stock to Buy According to Hedge Funds?",
+                "url": "https://finance.yahoo.com/news/t-inc-t-cheap-blue-145137574.html"
             }
         ],
-        "avgScore": 0.4678,
-        "pctChange": 0.007221819276729978
+        "avgScore": 0.19944666666666666,
+        "pctChange": 0.007418426176974227
     },
     "4 21 2025": {
         "importantArticles": [
@@ -170,6 +170,16 @@
                 "url": "https://finance.yahoo.com/news/analyst-projections-key-metrics-reveal-131522785.html"
             },
             {
+                "headline": "CMCSA launches five-year guarantee plan for Xfinity users, but increased competition suggests investors should hold the stock for now.",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4854",
+                "source": "Zacks",
+                "ticker": "T",
+                "title": "Comcast Unveils 5-Year Xfinity Guarantee Plan: How to Play the Stock",
+                "url": "https://finance.yahoo.com/news/comcast-unveils-5-xfinity-guarantee-152300612.html"
+            },
+            {
                 "headline": "T-Mobile (TMUS) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -178,16 +188,6 @@
                 "ticker": "T",
                 "title": "T-Mobile (TMUS) Reports Next Week: Wall Street Expects Earnings Growth",
                 "url": "https://finance.yahoo.com/news/t-mobile-tmus-reports-next-140114526.html"
-            },
-            {
-                "headline": "We recently published a list of Jim Cramer is Bullish on These 10 Stocks. In this article, we are going to take a look at where AT&T Inc. (NYSE:T) stands against other stocks that Jim Cramer discusses. On Friday, Mad Money host, Jim Cramer, shared his perspective on how investors might approach the stock market [\u2026]",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.2023",
-                "source": "Insider Monkey",
-                "ticker": "T",
-                "title": "Jim Cramer: AT&T (T) Is Back \u2013 \u201cWorth Owning\u201d with No More Price Wars",
-                "url": "https://finance.yahoo.com/news/jim-cramer-t-t-back-164906816.html"
             },
             {
                 "headline": "\"Tariff\" has probably been the most used word in the business and investing world since U.S. President Donald Trump announced his new tariff plan on April 2.  The newly announced tariffs caused the stock market to plummet in the following days, and another word began to circulate more and more: recession.  Concerns about how new tariffs could affect prices, supply chains, and economic growth have caused many people to believe a recession is more likely to happen.",
@@ -220,7 +220,7 @@
                 "url": "https://finance.yahoo.com/news/t-mobile-tmus-reports-next-140114526.html"
             }
         ],
-        "avgScore": 0.008599999999999997,
+        "avgScore": 0.10396000000000002,
         "pctChange": -0.030202567452876018
     },
     "4 16 2025": {
@@ -234,16 +234,6 @@
                 "ticker": "T",
                 "title": "Better Telecom Stock: AT&T vs. Verizon",
                 "url": "https://finance.yahoo.com/news/better-telecom-stock-t-vs-134500481.html"
-            },
-            {
-                "headline": "Brad Smith takes a closer look at the trending stories on Wall Street as part of today's Market Minute. Netflix (NFLX) stock gains on reports the company is aiming for a $1 trillion market capitalization and to double revenue by 2030. American Airlines (AAL) is partnering with AT&T (T) to offer AAdvantage members free in-flight wi-fi. HPE (HPE) is in focus as activist investor Elliott Management builds a $1.5 billion stake in the company, according to reports. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6908",
-                "source": "Yahoo Finance Video",
-                "ticker": "T",
-                "title": "Netflix wants to double sales, American Air free wi-fi, HPE & Elliott",
-                "url": "https://finance.yahoo.com/video/netflix-double-sales-american-air-161530098.html"
             },
             {
                 "headline": "AT&T (T) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
@@ -266,6 +256,16 @@
                 "url": "https://finance.yahoo.com/news/t-t-gains-market-dips-214514941.html"
             },
             {
+                "headline": "AT&T (T) closed the most recent trading day at $27.50, moving +1.1% from the previous trading session.",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "T",
+                "title": "AT&T (T) Gains As Market Dips: What You Should Know",
+                "url": "https://finance.yahoo.com/news/t-t-gains-market-dips-214514941.html"
+            },
+            {
                 "headline": "AT&T (T) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
                 "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -276,17 +276,17 @@
                 "url": "https://finance.yahoo.com/news/earnings-preview-t-t-q1-140044122.html"
             },
             {
-                "headline": "Brad Smith takes a closer look at the trending stories on Wall Street as part of today's Market Minute. Netflix (NFLX) stock gains on reports the company is aiming for a $1 trillion market capitalization and to double revenue by 2030. American Airlines (AAL) is partnering with AT&T (T) to offer AAdvantage members free in-flight wi-fi. HPE (HPE) is in focus as activist investor Elliott Management builds a $1.5 billion stake in the company, according to reports. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
+                "headline": "Amid recent stock market volatility, the telecom sector offers some respite.  Telecom stocks are relatively stable because of the ubiquity and importance of mobile devices in society, allowing telecoms to produce reliable revenue and free cash flow (FCF).  As a testament to this, while many stocks plunged in the past few weeks, shares of telecom giant AT&T (NYSE: T) hit a 52-week high of $29.03 in April, while rival Verizon Communications (NYSE: VZ) reached its high of $47.35 in March.",
                 "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.6908",
-                "source": "Yahoo Finance Video",
+                "sentimentScore": "0.8625",
+                "source": "Motley Fool",
                 "ticker": "T",
-                "title": "Netflix wants to double sales, American Air free wi-fi, HPE & Elliott",
-                "url": "https://finance.yahoo.com/video/netflix-double-sales-american-air-161530098.html"
+                "title": "Better Telecom Stock: AT&T vs. Verizon",
+                "url": "https://finance.yahoo.com/news/better-telecom-stock-t-vs-134500481.html"
             }
         ],
-        "avgScore": 0.4449,
+        "avgScore": 0.36293333333333333,
         "pctChange": 0.004811219784019242
     },
     "4 15 2025": {
@@ -312,6 +312,26 @@
                 "url": "https://finance.yahoo.com/news/american-airlines-free-wi-fi-113100633.html"
             },
             {
+                "headline": "Brad Smith takes a closer look at the trending stories on Wall Street as part of today's Market Minute. Netflix (NFLX) stock gains on reports the company is aiming for a $1 trillion market capitalization and to double revenue by 2030. American Airlines (AAL) is partnering with AT&T (T) to offer AAdvantage members free in-flight wi-fi. HPE (HPE) is in focus as activist investor Elliott Management builds a $1.5 billion stake in the company, according to reports. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
+                "publication_date": "2025-04-15T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6908",
+                "source": "Yahoo Finance Video",
+                "ticker": "T",
+                "title": "Netflix wants to double sales, American Air free wi-fi, HPE & Elliott",
+                "url": "https://finance.yahoo.com/video/netflix-double-sales-american-air-161530098.html"
+            },
+            {
+                "headline": "Brad Smith takes a closer look at the trending stories on Wall Street as part of today's Market Minute. Netflix (NFLX) stock gains on reports the company is aiming for a $1 trillion market capitalization and to double revenue by 2030. American Airlines (AAL) is partnering with AT&T (T) to offer AAdvantage members free in-flight wi-fi. HPE (HPE) is in focus as activist investor Elliott Management builds a $1.5 billion stake in the company, according to reports. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
+                "publication_date": "2025-04-15T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6908",
+                "source": "Yahoo Finance Video",
+                "ticker": "T",
+                "title": "Netflix wants to double sales, American Air free wi-fi, HPE & Elliott",
+                "url": "https://finance.yahoo.com/video/netflix-double-sales-american-air-161530098.html"
+            },
+            {
                 "headline": "The deal with AT will provide free in-flight internet to loyalty program members, beginning in January.",
                 "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -332,7 +352,7 @@
                 "url": "https://finance.yahoo.com/news/connecting-world-american-airlines-complimentary-100000869.html"
             }
         ],
-        "avgScore": 0.80785,
+        "avgScore": 0.7688333333333333,
         "pctChange": -0.01745452880859375
     },
     "4 14 2025": {
@@ -430,32 +450,42 @@
     "4 10 2025": {
         "importantArticles": [
             {
-                "headline": "We recently published a list of 10 Best Stocks to Buy According to Billionaire Steve Cohen. In this article, we are going to take a look at where AT&T Inc. (NYSE:T) stands against other best stocks to buy according to billionaire Steve Cohen. Steve Cohen, a prominent figure in the world of hedge funds, is [\u2026]",
+                "headline": "U.S. stock indexes rallied at midday Wednesday as President Donald Trump said he has \"no intention\" of firing Federal Reserve Chair Jerome Powell and made further comments suggesting a de-escalation of the trade war with China.",
                 "publication_date": "2025-04-10T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8934",
-                "source": "Insider Monkey",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.8176",
+                "source": "Investopedia",
                 "ticker": "T",
-                "title": "Is AT&T Inc. (T) the Best Stock to Buy According to Billionaire Steve Cohen?",
-                "url": "https://finance.yahoo.com/news/t-inc-t-best-stock-162132055.html"
+                "title": "Top Stock Movers Now: Tesla, Boeing, Enphase, and More",
+                "url": "https://finance.yahoo.com/news/top-stock-movers-now-tesla-161308735.html"
             },
             {
-                "headline": "We recently published a list of 10 Best Stocks to Buy According to Billionaire Steve Cohen. In this article, we are going to take a look at where AT&T Inc. (NYSE:T) stands against other best stocks to buy according to billionaire Steve Cohen. Steve Cohen, a prominent figure in the world of hedge funds, is [\u2026]",
+                "headline": "U.S. stock indexes rallied at midday Wednesday as President Donald Trump said he has \"no intention\" of firing Federal Reserve Chair Jerome Powell and made further comments suggesting a de-escalation of the trade war with China.",
                 "publication_date": "2025-04-10T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8934",
-                "source": "Insider Monkey",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.8176",
+                "source": "Investopedia",
                 "ticker": "T",
-                "title": "Is AT&T Inc. (T) the Best Stock to Buy According to Billionaire Steve Cohen?",
-                "url": "https://finance.yahoo.com/news/t-inc-t-best-stock-162132055.html"
+                "title": "Top Stock Movers Now: Tesla, Boeing, Enphase, and More",
+                "url": "https://finance.yahoo.com/news/top-stock-movers-now-tesla-161308735.html"
             }
         ],
-        "avgScore": 0.8934,
+        "avgScore": -0.8176,
         "pctChange": 0.015157314707472412
     },
     "4 9 2025": {
         "importantArticles": [
             {
+                "headline": "We recently published a list of 10 Best Stocks to Buy According to Billionaire Steve Cohen. In this article, we are going to take a look at where AT&T Inc. (NYSE:T) stands against other best stocks to buy according to billionaire Steve Cohen. Steve Cohen, a prominent figure in the world of hedge funds, is [\u2026]",
+                "publication_date": "2025-04-09T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8934",
+                "source": "Insider Monkey",
+                "ticker": "T",
+                "title": "Is AT&T Inc. (T) the Best Stock to Buy According to Billionaire Steve Cohen?",
+                "url": "https://finance.yahoo.com/news/t-inc-t-best-stock-162132055.html"
+            },
+            {
                 "headline": "The 50-day moving average hasn't failed T yet",
                 "publication_date": "2025-04-09T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -474,16 +504,6 @@
                 "ticker": "T",
                 "title": "Lumen Plummets 34% in a Month: Buy, Sell or Hold the Stock?",
                 "url": "https://finance.yahoo.com/news/lumen-plummets-34-month-buy-135800907.html"
-            },
-            {
-                "headline": "We recently published a list of Jim Cramer Got These 10 Stocks All Wrong. In this article, we are going to take a look at where AT&T Inc. (NYSE:T) stands against other stocks that Jim Cramer discussed 1 year ago. On Tuesday, April 1 , the host of Mad Money opened the show by focusing on [\u2026]",
-                "publication_date": "2025-04-09T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.743",
-                "source": "Insider Monkey",
-                "ticker": "T",
-                "title": "Jim Cramer Once Had Nothing Good to Say About AT&T (T) \u2013 Now He\u2019s Giving It Credit",
-                "url": "https://finance.yahoo.com/news/jim-cramer-once-had-nothing-184428572.html"
             },
             {
                 "headline": "We recently published a list of Jim Cramer Got These 10 Stocks All Wrong. In this article, we are going to take a look at where AT&T Inc. (NYSE:T) stands against other stocks that Jim Cramer discussed 1 year ago. On Tuesday, April 1 , the host of Mad Money opened the show by focusing on [\u2026]",
@@ -516,7 +536,7 @@
                 "url": "https://finance.yahoo.com/news/bull-signal-never-failed-t-184911638.html"
             }
         ],
-        "avgScore": -0.05840000000000001,
+        "avgScore": 0.17955000000000002,
         "pctChange": 0.007559558586269551
     },
     "4 8 2025": {
@@ -654,14 +674,14 @@
                 "url": "https://finance.yahoo.com/news/samsaras-fleet-solution-drive-growth-171700909.html"
             },
             {
-                "headline": "Legendary investor Bill Gross told investors that they shouldn\u2019t try to buy the dip after the worst stock-market drop since the pandemic.",
+                "headline": "We recently published a list of Jim Cramer Says We\u2019re Entering a Bear Market and Breaks Down These 10 Stocks. In this article, we are going to take a look at where AT&T Inc. (NYSE:T) stands against other stocks that Jim Cramer discusses. On Friday, the host of Mad Money opened the show highlighting a [\u2026]",
                 "publication_date": "2025-04-04T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.8519",
-                "source": "MarketWatch",
+                "sentimentScore": "-0.4939",
+                "source": "Insider Monkey",
                 "ticker": "T",
-                "title": "Don\u2019t buy the dip, legendary investor Bill Gross warns. He likes three stocks for now.",
-                "url": "https://finance.yahoo.com/news/don-t-buy-dip-legendary-100700130.html"
+                "title": "Jim Cramer on AT&T (T): \u201cThis Stock\u2019s Got Its Mojo Back\u201d",
+                "url": "https://finance.yahoo.com/news/jim-cramer-t-t-stock-151718493.html"
             },
             {
                 "headline": "Legendary investor Bill Gross told investors that they shouldn\u2019t try to buy the dip after the worst stock-market drop since the pandemic.",
@@ -672,6 +692,16 @@
                 "ticker": "T",
                 "title": "Don\u2019t buy the dip, legendary investor Bill Gross warns. He likes three stocks for now.",
                 "url": "https://finance.yahoo.com/news/don-t-buy-dip-legendary-100700130.html"
+            },
+            {
+                "headline": "We recently published a list of Jim Cramer Says We\u2019re Entering a Bear Market and Breaks Down These 10 Stocks. In this article, we are going to take a look at where AT&T Inc. (NYSE:T) stands against other stocks that Jim Cramer discusses. On Friday, the host of Mad Money opened the show highlighting a [\u2026]",
+                "publication_date": "2025-04-04T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.4939",
+                "source": "Insider Monkey",
+                "ticker": "T",
+                "title": "Jim Cramer on AT&T (T): \u201cThis Stock\u2019s Got Its Mojo Back\u201d",
+                "url": "https://finance.yahoo.com/news/jim-cramer-t-t-stock-151718493.html"
             },
             {
                 "headline": "IOT launches an Electronic Brake Performance Monitoring System to help fleets meet new DVSA guidelines and reduce costs with continuous brake data monitoring.",
@@ -682,46 +712,10 @@
                 "ticker": "T",
                 "title": "Can Samsara's New Fleet Solution Drive Growth and Push Stock Higher?",
                 "url": "https://finance.yahoo.com/news/samsaras-fleet-solution-drive-growth-171700909.html"
-            },
-            {
-                "headline": "Despite a customer-centric business model, VZ appears to be treading in the middle of the road and investors could be better off if they trade with caution.",
-                "publication_date": "2025-04-04T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4404",
-                "source": "Zacks",
-                "ticker": "T",
-                "title": "Will VZ Stock Benefit From a Three-Year Price Lock Guarantee?",
-                "url": "https://finance.yahoo.com/news/vz-stock-benefit-three-price-123600472.html"
             }
         ],
-        "avgScore": -0.0031999999999999806,
+        "avgScore": -0.125875,
         "pctChange": 0.00713216689830586
-    },
-    "4 3 2025": {
-        "importantArticles": [
-            {
-                "headline": "The market (^GSPC,&nbsp;^IXIC,&nbsp;^DJI) outlook is uncertain, with a potentially rough earnings season ahead due to factors like tariffs, slower consumer spending, and business uncertainty. Chris Versace, Tematica Research chief investment officer, joins Catalysts host Madison Mills to share his insights on defensive stocks to buy amid market uncertainty. To watch more expert insights and analysis on the latest market action, check out more Catalysts&nbsp;here.",
-                "publication_date": "2025-04-03T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.296",
-                "source": "Yahoo Finance Video",
-                "ticker": "T",
-                "title": "Top defensive stock picks as tariffs, market uncertainty loom",
-                "url": "https://finance.yahoo.com/video/top-defensive-stock-picks-tariffs-150146097.html"
-            },
-            {
-                "headline": "The market (^GSPC,&nbsp;^IXIC,&nbsp;^DJI) outlook is uncertain, with a potentially rough earnings season ahead due to factors like tariffs, slower consumer spending, and business uncertainty. Chris Versace, Tematica Research chief investment officer, joins Catalysts host Madison Mills to share his insights on defensive stocks to buy amid market uncertainty. To watch more expert insights and analysis on the latest market action, check out more Catalysts&nbsp;here.",
-                "publication_date": "2025-04-03T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.296",
-                "source": "Yahoo Finance Video",
-                "ticker": "T",
-                "title": "Top defensive stock picks as tariffs, market uncertainty loom",
-                "url": "https://finance.yahoo.com/video/top-defensive-stock-picks-tariffs-150146097.html"
-            }
-        ],
-        "avgScore": -0.296,
-        "pctChange": -0.06853146249860823
     },
     "4 2 2025": {
         "importantArticles": [
@@ -756,14 +750,14 @@
                 "url": "https://finance.yahoo.com/news/top-analyst-reports-amazon-oracle-205900596.html"
             },
             {
-                "headline": "While many stocks in the S&P 500 ETF posted dismal performance in the just-concluded quarter, we discuss some that rose by more than 20%.",
+                "headline": "The market (^GSPC,&nbsp;^IXIC,&nbsp;^DJI) outlook is uncertain, with a potentially rough earnings season ahead due to factors like tariffs, slower consumer spending, and business uncertainty. Chris Versace, Tematica Research chief investment officer, joins Catalysts host Madison Mills to share his insights on defensive stocks to buy amid market uncertainty. To watch more expert insights and analysis on the latest market action, check out more Catalysts&nbsp;here.",
                 "publication_date": "2025-04-02T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.6124",
-                "source": "Zacks",
+                "sentimentScore": "-0.296",
+                "source": "Yahoo Finance Video",
                 "ticker": "T",
-                "title": "10 Stocks of the S&P 500 ETF Up More Than 20% in Q1",
-                "url": "https://finance.yahoo.com/news/10-stocks-p-500-etf-150000257.html"
+                "title": "Top defensive stock picks as tariffs, market uncertainty loom",
+                "url": "https://finance.yahoo.com/video/top-defensive-stock-picks-tariffs-150146097.html"
             },
             {
                 "headline": "Today's Research Daily features new research reports on 16 major stocks, including Amazon.com, Inc. (AMZN), Oracle Corp. (ORCL) and Merck & Co., Inc. (MRK).",
@@ -786,7 +780,7 @@
                 "url": "https://finance.yahoo.com/news/t-t-surpasses-market-returns-214516251.html"
             }
         ],
-        "avgScore": -0.07910000000000002,
+        "avgScore": 0.0,
         "pctChange": 0.01634686703771808
     },
     "4 1 2025": {
@@ -812,6 +806,26 @@
                 "url": "https://finance.yahoo.com/news/jim-cramer-bold-call-telecom-141655504.html"
             },
             {
+                "headline": "While many stocks in the S&P 500 ETF posted dismal performance in the just-concluded quarter, we discuss some that rose by more than 20%.",
+                "publication_date": "2025-04-01T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.6124",
+                "source": "Zacks",
+                "ticker": "T",
+                "title": "10 Stocks of the S&P 500 ETF Up More Than 20% in Q1",
+                "url": "https://finance.yahoo.com/news/10-stocks-p-500-etf-150000257.html"
+            },
+            {
+                "headline": "While many stocks in the S&P 500 ETF posted dismal performance in the just-concluded quarter, we discuss some that rose by more than 20%.",
+                "publication_date": "2025-04-01T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.6124",
+                "source": "Zacks",
+                "ticker": "T",
+                "title": "10 Stocks of the S&P 500 ETF Up More Than 20% in Q1",
+                "url": "https://finance.yahoo.com/news/10-stocks-p-500-etf-150000257.html"
+            },
+            {
                 "headline": "We recently published a list of Jim Cramer Says I\u2019m With Trump & Discusses These 12 Stocks. In this article, we are going to take a look at where AT&T Inc. (NYSE:T) stands against other stocks that Jim Cramer discusses. In a recent appearance on CNBC\u2019s Squawk on the Street, Jim Cramer commented that President [\u2026]",
                 "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -832,7 +846,7 @@
                 "url": "https://finance.yahoo.com/news/where-t-stock-1-164500796.html"
             }
         ],
-        "avgScore": 0.39225,
+        "avgScore": 0.05736666666666664,
         "pctChange": -0.011938217932003881
     },
     "3 31 2025": {
@@ -990,26 +1004,6 @@
                 "url": "https://finance.yahoo.com/m/39795115-69e6-34ce-b1d2-b951a7e1e105/at-t-stock-climbs-amid-report.html"
             },
             {
-                "headline": "Q4 2024 Surgepays Inc Earnings Call",
-                "publication_date": "2025-03-27T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Thomson Reuters StreetEvents",
-                "ticker": "T",
-                "title": "Q4 2024 Surgepays Inc Earnings Call",
-                "url": "https://finance.yahoo.com/news/q4-2024-surgepays-inc-earnings-153327633.html"
-            },
-            {
-                "headline": "Q4 2024 Surgepays Inc Earnings Call",
-                "publication_date": "2025-03-27T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Thomson Reuters StreetEvents",
-                "ticker": "T",
-                "title": "Q4 2024 Surgepays Inc Earnings Call",
-                "url": "https://finance.yahoo.com/news/q4-2024-surgepays-inc-earnings-153327633.html"
-            },
-            {
                 "headline": "AT&T stock gained in the wake of a report it's in talks to acquire Lumen's consumer fiber-optic network business for $5.5 billion.",
                 "publication_date": "2025-03-27T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -1030,7 +1024,7 @@
                 "url": "https://finance.yahoo.com/news/better-telecom-stock-t-vs-111500425.html"
             }
         ],
-        "avgScore": 0.39640000000000003,
+        "avgScore": 0.5946,
         "pctChange": -0.0007092448729442767
     },
     "3 26 2025": {
@@ -1046,6 +1040,16 @@
                 "url": "https://finance.yahoo.com/news/why-lumen-technologies-stock-plummeted-195800710.html"
             },
             {
+                "headline": "Q4 2024 Surgepays Inc Earnings Call",
+                "publication_date": "2025-03-26T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Thomson Reuters StreetEvents",
+                "ticker": "T",
+                "title": "Q4 2024 Surgepays Inc Earnings Call",
+                "url": "https://finance.yahoo.com/news/q4-2024-surgepays-inc-earnings-153327633.html"
+            },
+            {
                 "headline": "We recently published a list of 10 Stocks on Jim Cramer\u2019s Radar Amid Market Volatility. In this article, we are going to take a look at where Verizon Communications Inc (NYSE:VZ) stands against other stocks on Jim Cramer\u2019s radar amid market volatility. Jim Cramer in a latest program on CNBC commented on the reasons behind [\u2026]",
                 "publication_date": "2025-03-26T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -1054,26 +1058,6 @@
                 "ticker": "T",
                 "title": "Jim Cramer Says Verizon Communications (VZ) is \u2018Terrible\u2019 \u2013 Recommends AT&T Instead",
                 "url": "https://finance.yahoo.com/news/jim-cramer-says-verizon-communications-171558172.html"
-            },
-            {
-                "headline": "Donald Trump hasn\u2019t been shy about courting corporate donations, but his administration\u2019s plans for the upcoming Easter event take it to the next level.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.128",
-                "source": "FastCompany",
-                "ticker": "T",
-                "title": "Trump\u2019s corporate-sponsored Easter egg roll is turning the White House into NASCAR",
-                "url": "https://finance.yahoo.com/news/trump-corporate-sponsored-easter-egg-191500345.html"
-            },
-            {
-                "headline": "The telecommunications giant has announced a major change customers may not like.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.2755",
-                "source": "TheStreet",
-                "ticker": "T",
-                "title": "AT&T quietly issues stern warning to customers",
-                "url": "https://finance.yahoo.com/news/t-quietly-issues-stern-warning-153300839.html"
             },
             {
                 "headline": "Shares of Lumen were down more than 14% after the report.  The terms, which are not yet finalized, could change or the talks might still collapse, according to the report.  Both Lumen and AT&T declined to comment on Reuters requests.",
@@ -1094,9 +1078,19 @@
                 "ticker": "T",
                 "title": "Trump\u2019s corporate-sponsored Easter egg roll is turning the White House into NASCAR",
                 "url": "https://finance.yahoo.com/news/trump-corporate-sponsored-easter-egg-191500345.html"
+            },
+            {
+                "headline": "We recently published a list of 10 Stocks on Jim Cramer\u2019s Radar Amid Market Volatility. In this article, we are going to take a look at where Verizon Communications Inc (NYSE:VZ) stands against other stocks on Jim Cramer\u2019s radar amid market volatility. Jim Cramer in a latest program on CNBC commented on the reasons behind [\u2026]",
+                "publication_date": "2025-03-26T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Insider Monkey",
+                "ticker": "T",
+                "title": "Jim Cramer Says Verizon Communications (VZ) is \u2018Terrible\u2019 \u2013 Recommends AT&T Instead",
+                "url": "https://finance.yahoo.com/news/jim-cramer-says-verizon-communications-171558172.html"
             }
         ],
-        "avgScore": -0.09024000000000001,
+        "avgScore": -0.03514,
         "pctChange": 0.01989157654326143
     },
     "3 25 2025": {
@@ -1122,6 +1116,26 @@
                 "url": "https://finance.yahoo.com/news/t-t-stock-sinks-market-214516733.html"
             },
             {
+                "headline": "The telecommunications giant has announced a major change customers may not like.",
+                "publication_date": "2025-03-25T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.2755",
+                "source": "TheStreet",
+                "ticker": "T",
+                "title": "AT&T quietly issues stern warning to customers",
+                "url": "https://finance.yahoo.com/news/t-quietly-issues-stern-warning-153300839.html"
+            },
+            {
+                "headline": "The telecommunications giant has announced a major change customers may not like.",
+                "publication_date": "2025-03-25T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.2755",
+                "source": "TheStreet",
+                "ticker": "T",
+                "title": "AT&T quietly issues stern warning to customers",
+                "url": "https://finance.yahoo.com/news/t-quietly-issues-stern-warning-153300839.html"
+            },
+            {
                 "headline": "AT&T (T) reachead $26.96 at the closing of the latest trading day, reflecting a -0.22% change compared to its last close.",
                 "publication_date": "2025-03-25T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -1142,7 +1156,7 @@
                 "url": "https://finance.yahoo.com/news/t-inc-t-among-best-201504901.html"
             }
         ],
-        "avgScore": 0.44035,
+        "avgScore": 0.20173333333333332,
         "pctChange": 0.012449597428784223
     },
     "3 24 2025": {
@@ -1171,12 +1185,12 @@
         "avgScore": 0.5106,
         "pctChange": 0.012982225389118566
     },
-    "coef": -0.19480519480519481,
-    "avgCoef": -0.030658877001275724,
+    "coef": -0.425974025974026,
+    "avgCoef": -0.02501026228813243,
     "similar": {
-        "PBR": 0.5189158667419538,
-        "AMD": 0.4692264257481649,
-        "GRAB": 0.4319593450028233,
-        "SOFI": 0.41276115189158674
+        "HAL": 0.42337662337662335,
+        "SLB": 0.374025974025974,
+        "PDCO": 0.3656423144645583,
+        "ABEV": 0.3476284034695998
     }
 }

@@ -158,6 +158,26 @@
     "3 28 2025": {
         "importantArticles": [
             {
+                "headline": "Certain electric vehicle owners are now eligible for discounts on\u00a0charging equipment that can be used to power homes during blackouts.",
+                "publication_date": "2025-03-28T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.2732",
+                "source": "Automotive Dive",
+                "ticker": "PCG",
+                "title": "GM Energy joins PG&E bidirectional EV charging pilot in California",
+                "url": "https://finance.yahoo.com/news/gm-energy-joins-pg-e-083200159.html"
+            },
+            {
+                "headline": "\u201cIn the backdrop of the recent LA wildfires, we expect any legislative and regulatory actions resulting from the state's continued wildfire risk will remain supportive for utilities,\u201d Moody's said.",
+                "publication_date": "2025-03-28T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0258",
+                "source": "Utility Dive",
+                "ticker": "PCG",
+                "title": "Moody\u2019s upgrades PG&E on reduced credit risks from wildfires",
+                "url": "https://finance.yahoo.com/news/moody-upgrades-pg-e-reduced-085101194.html"
+            },
+            {
                 "headline": "PG&E Corporation (NYSE: PCG) will hold a conference call on Thursday, April 24, 2025, at 11:00 a.m. Eastern Time (8:00 a.m. Pacific Time) to discuss its first quarter 2025 results. The public can access the conference call through a simultaneous webcast. The link is provided below and will also be available from the PG&E Corporation website.",
                 "publication_date": "2025-03-28T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -178,16 +198,6 @@
                 "url": "https://finance.yahoo.com/news/pg-e-corporation-pcg-stock-194011254.html"
             },
             {
-                "headline": "We recently published a list of 10 Stocks To Trade Without Tariffs And Interest Rate Fears. In this article, we are going to take a look at where PG&E Corporation (NYSE:PCG) stands against other stocks to trade without tariffs and interest rate fears. The Federal Reserve this week decided to keep interest rates unchanged, causing [\u2026]",
-                "publication_date": "2025-03-28T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.9009",
-                "source": "Insider Monkey",
-                "ticker": "PCG",
-                "title": "Is PG&E Corporation (PCG) A Stock to Trade Without Tariffs and Interest Rate Fears?",
-                "url": "https://finance.yahoo.com/news/pg-e-corporation-pcg-stock-194011254.html"
-            },
-            {
                 "headline": "PG&E Corporation (NYSE: PCG) will hold a conference call on Thursday, April 24, 2025, at 11:00 a.m. Eastern Time (8:00 a.m. Pacific Time) to discuss its first quarter 2025 results. The public can access the conference call through a simultaneous webcast. The link is provided below and will also be available from the PG&E Corporation website.",
                 "publication_date": "2025-03-28T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -196,9 +206,19 @@
                 "ticker": "PCG",
                 "title": "PG&E Corporation Schedules First Quarter 2025 Earnings Release and Conference Call",
                 "url": "https://finance.yahoo.com/news/pg-e-corporation-schedules-first-210000919.html"
+            },
+            {
+                "headline": "\u201cIn the backdrop of the recent LA wildfires, we expect any legislative and regulatory actions resulting from the state's continued wildfire risk will remain supportive for utilities,\u201d Moody's said.",
+                "publication_date": "2025-03-28T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0258",
+                "source": "Utility Dive",
+                "ticker": "PCG",
+                "title": "Moody\u2019s upgrades PG&E on reduced credit risks from wildfires",
+                "url": "https://finance.yahoo.com/news/moody-upgrades-pg-e-reduced-085101194.html"
             }
         ],
-        "avgScore": -0.45045,
+        "avgScore": -0.15047500000000003,
         "pctChange": 0.012076578444724926
     },
     "3 27 2025": {
@@ -320,7 +340,7 @@
         "pctChange": -0.003504670681344979
     },
     "coef": 0.09118583155200968,
-    "avgCoef": 0.01374320899926458,
+    "avgCoef": -0.003229107121893978,
     "similar": {
         "HTZ": 0.5957474328064633,
         "RXRX": 0.5592731001856595,

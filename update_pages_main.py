@@ -142,7 +142,7 @@ def main(tickers):
 
                     if key in postDict:  # if there are articles for this date
                         # get the article score
-                        scores.append(postDict[key]["avgScore"])
+                        scores.append(postDict[key]['avgScore'])
 
                         # the percent change is calculated as the change from today's close to tomorrow's close
                         #  unless it is current day, then it does yesterday's close to current price
@@ -158,6 +158,8 @@ def main(tickers):
                         pctChange = (tmrClose - dayClose) / dayClose
                         pctChanges.append(pctChange)
                         print(key, dayClose, tmrClose, pctChange)
+
+                        postDict[key]['pctChange'] = pctChange
 
                 # remove non days with price data articles from the dict
                 toRemove = []
@@ -224,7 +226,7 @@ def main(tickers):
                             if index < len(keys) - 1:
                                 tmrClose = tickerCloses[keys[index + 1]][0]['close']
                             else:
-                                dayClose = tickerCloses[key][0]['open']
+                                dayClose = tickerCloses[key[index - 1]][0]['close']
                                 tmrClose = tickerCloses[key][0]['close']
                             
                             pctChange = (tmrClose - dayClose) / dayClose

@@ -28,6 +28,9 @@ def update_price_data(tickers):
         Get all price data and add it to price_data directory
     """
     for item in tickers:
+        if str(item).lower() == 'nan':
+            continue
+
         """
             Retreive and sort price data
         """

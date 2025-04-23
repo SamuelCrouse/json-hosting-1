@@ -123,11 +123,11 @@
         "avgScore": 0.37195,
         "pctChange": -0.016181290700904294
     },
-    "3 25 2025": {
+    "3 24 2025": {
         "importantArticles": [
             {
                 "headline": "Investing.com -- Bank of America (BofA) on Monday downgraded Vodafone (LON:VOD) (NASDAQ:VOD) stock to Neutral from Buy, citing a more challenging near-term financial outlook for the telecom giant, particularly due to the impact of the imminent merger with UK peer Three and market conditions in Germany.",
-                "publication_date": "2025-03-25T00:00:00.000Z",
+                "publication_date": "2025-03-24T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.2247",
                 "source": "Investing.com",
@@ -137,7 +137,7 @@
             },
             {
                 "headline": "Investing.com -- Bank of America (BofA) on Monday downgraded Vodafone (LON:VOD) (NASDAQ:VOD) stock to Neutral from Buy, citing a more challenging near-term financial outlook for the telecom giant, particularly due to the impact of the imminent merger with UK peer Three and market conditions in Germany.",
-                "publication_date": "2025-03-25T00:00:00.000Z",
+                "publication_date": "2025-03-24T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.2247",
                 "source": "Investing.com",
@@ -147,14 +147,14 @@
             }
         ],
         "avgScore": 0.2247,
-        "pctChange": 0.0010694411550331664
+        "pctChange": 0.006458602783969361
     },
     "coef": -0.8999999999999998,
-    "avgCoef": 0.024373627823598705,
+    "avgCoef": -0.017053605526901147,
     "similar": {
+        "MSTR": 0.8999999999999998,
         "NKE": 0.8999999999999998,
         "F": 0.7999999999999999,
-        "AAL": 0.7999999999999999,
-        "LCID": 0.7
+        "AAL": 0.7999999999999999
     }
 }

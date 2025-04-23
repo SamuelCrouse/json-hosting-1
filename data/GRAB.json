@@ -1,9 +1,9 @@
 {
-    "4 16 2025": {
+    "4 15 2025": {
         "importantArticles": [
             {
                 "headline": "Key Insights Given the large stake in the stock by institutions, Grab Holdings' stock price might be vulnerable to...",
-                "publication_date": "2025-04-16T00:00:00.000Z",
+                "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.2263",
                 "source": "Simply Wall St.",
@@ -13,7 +13,7 @@
             },
             {
                 "headline": "Key Insights Given the large stake in the stock by institutions, Grab Holdings' stock price might be vulnerable to...",
-                "publication_date": "2025-04-16T00:00:00.000Z",
+                "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.2263",
                 "source": "Simply Wall St.",
@@ -49,11 +49,11 @@
         ],
         "avgScore": 0.7003
     },
-    "3 26 2025": {
+    "3 25 2025": {
         "importantArticles": [
             {
                 "headline": "The U.S. stock market recently experienced a surge, driven by positive investor sentiment following reports that the Trump administration may reduce certain tariffs, boosting major indices like the S&P 500 and Nasdaq Composite. Amidst this backdrop, investors are increasingly looking for opportunities in lesser-known sectors of the market. Penny stocks, often associated with smaller or newer companies, remain an intriguing investment area due to their potential for growth at lower price...",
-                "publication_date": "2025-03-26T00:00:00.000Z",
+                "publication_date": "2025-03-25T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.9118",
                 "source": "Simply Wall St.",
@@ -63,7 +63,7 @@
             },
             {
                 "headline": "The U.S. stock market recently experienced a surge, driven by positive investor sentiment following reports that the Trump administration may reduce certain tariffs, boosting major indices like the S&P 500 and Nasdaq Composite. Amidst this backdrop, investors are increasingly looking for opportunities in lesser-known sectors of the market. Penny stocks, often associated with smaller or newer companies, remain an intriguing investment area due to their potential for growth at lower price...",
-                "publication_date": "2025-03-26T00:00:00.000Z",
+                "publication_date": "2025-03-25T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.9118",
                 "source": "Simply Wall St.",
@@ -119,12 +119,12 @@
         ],
         "avgScore": -0.03919999999999996
     },
-    "coef": -0.39999999999999997,
-    "avgCoef": -0.030053057934609762,
+    "coef": 0.19999999999999998,
+    "avgCoef": -0.05392362093053099,
     "similar": {
-        "NGD": 1.0,
-        "MP": 1.0,
-        "QXO": 0.7999999999999999,
-        "KGC": 0.7999999999999999
+        "KVUE": 1.0,
+        "T": 1.0,
+        "BABA": 1.0,
+        "WMT": 1.0
     }
 }

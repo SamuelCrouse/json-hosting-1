@@ -1,4 +1,74 @@
 {
+    "4 17 2025": {
+        "importantArticles": [
+            {
+                "headline": "GTCR, a leading private equity firm, announced today the signing of a definitive agreement to sell Worldpay (the \"Company\"), a global leader in merchant acquiring and payments processing, to Global Payments (NYSE: GPN) for $24.25 billion as part of a transformative three-way transaction.",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4939",
+                "source": "PR Newswire",
+                "ticker": "GPN",
+                "title": "GTCR Announces Sale of Worldpay to Global Payments for $24.25 Billion in Conjunction with Transformative Three-Way Transaction",
+                "url": "https://finance.yahoo.com/news/gtcr-announces-sale-worldpay-global-103500529.html"
+            },
+            {
+                "headline": "ATLANTA, April 17, 2025--Global Payments Inc. today announced definitive agreements to divest its Issuer Solutions business to FIS and acquire Worldpay from GTCR and FIS.",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4215",
+                "source": "Business Wire",
+                "ticker": "GPN",
+                "title": "Global Payments Announces Agreements to Acquire Worldpay and Divest Issuer Solutions",
+                "url": "https://finance.yahoo.com/news/global-payments-announces-agreements-acquire-103000036.html"
+            },
+            {
+                "headline": "ATLANTA, April 17, 2025--Global Payments Inc. today announced definitive agreements to divest its Issuer Solutions business to FIS and acquire Worldpay from GTCR and FIS.",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4215",
+                "source": "Business Wire",
+                "ticker": "GPN",
+                "title": "Global Payments Announces Agreements to Acquire Worldpay and Divest Issuer Solutions",
+                "url": "https://finance.yahoo.com/news/global-payments-announces-agreements-acquire-103000036.html"
+            },
+            {
+                "headline": "GTCR, a leading private equity firm, announced today the signing of a definitive agreement to sell Worldpay (the \"Company\"), a global leader in merchant acquiring and payments processing, to Global Payments (NYSE: GPN) for $24.25 billion as part of a transformative three-way transaction.",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4939",
+                "source": "PR Newswire",
+                "ticker": "GPN",
+                "title": "GTCR Announces Sale of Worldpay to Global Payments for $24.25 Billion in Conjunction with Transformative Three-Way Transaction",
+                "url": "https://finance.yahoo.com/news/gtcr-announces-sale-worldpay-global-103500529.html"
+            }
+        ],
+        "avgScore": 0.4577
+    },
+    "4 11 2025": {
+        "importantArticles": [
+            {
+                "headline": "We recently published a list of 11 Best Digital Payments Stocks to Buy According to Analysts. In this article, we are going to take a look at where Global Payments Inc. (NYSE:GPN) stands against other best digital payment stocks. Digital payment stocks are companies that specialize in designing, developing, or administering digital payment solutions. These [\u2026]",
+                "publication_date": "2025-04-11T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8779",
+                "source": "Insider Monkey",
+                "ticker": "GPN",
+                "title": "Is Global Payments Inc. (GPN) Among the Best Digital Payments Stocks to Buy According to Analysts?",
+                "url": "https://finance.yahoo.com/news/global-payments-inc-gpn-among-121744280.html"
+            },
+            {
+                "headline": "We recently published a list of 11 Best Digital Payments Stocks to Buy According to Analysts. In this article, we are going to take a look at where Global Payments Inc. (NYSE:GPN) stands against other best digital payment stocks. Digital payment stocks are companies that specialize in designing, developing, or administering digital payment solutions. These [\u2026]",
+                "publication_date": "2025-04-11T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8779",
+                "source": "Insider Monkey",
+                "ticker": "GPN",
+                "title": "Is Global Payments Inc. (GPN) Among the Best Digital Payments Stocks to Buy According to Analysts?",
+                "url": "https://finance.yahoo.com/news/global-payments-inc-gpn-among-121744280.html"
+            }
+        ],
+        "avgScore": 0.8779
+    },
     "3 27 2025": {
         "importantArticles": [
             {
@@ -49,12 +119,12 @@
         ],
         "avgScore": 0.8405
     },
-    "coef": 0.9999999999999999,
-    "avgCoef": -0.030736457636096247,
+    "coef": 0.7999999999999999,
+    "avgCoef": -0.0471278822744495,
     "similar": {
-        "SPY": 0.9999999999999999,
-        "NVDA": 0.9999999999999999,
-        "F": 0.9999999999999999,
-        "PLTR": 0.9999999999999999
+        "PLTR": 1.0,
+        "BAC": 1.0,
+        "AMD": 1.0,
+        "HBAN": 1.0
     }
 }

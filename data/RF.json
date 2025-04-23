@@ -12,17 +12,57 @@
                 "url": "https://finance.yahoo.com/news/regions-financial-corporation-declares-quarterly-203000684.html"
             },
             {
-                "headline": "BIRMINGHAM, Ala., April 16, 2025--Regions Financial Corporation (NYSE:RF) today declared cash dividends on its common shares, as well as Series C, D, E and F preferred shares.",
+                "headline": "Regions Financial (RF) delivered earnings and revenue surprises of 5.88% and 2.18%, respectively, for the quarter ended March 2025. Do the numbers hold clues to what lies ahead for the stock?",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.6705",
+                "sentimentScore": "0.128",
+                "source": "Zacks",
+                "ticker": "RF",
+                "title": "Regions Financial (RF) Q1 Earnings Beat Estimates",
+                "url": "https://finance.yahoo.com/news/regions-financial-rf-q1-earnings-111003053.html"
+            },
+            {
+                "headline": "BIRMINGHAM, Ala. AP) \u2014 Regions Financial Corp. RF) on Thursday reported first-quarter net income of $490 million.",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Associated Press Finance",
+                "ticker": "RF",
+                "title": "Regions Financial: Q1 Earnings Snapshot",
+                "url": "https://finance.yahoo.com/news/regions-financial-q1-earnings-snapshot-100650143.html"
+            },
+            {
+                "headline": "BIRMINGHAM, Ala., April 17, 2025--Regions Financial Corp. (NYSE:RF) today reported earnings for the first quarter ended March 31, 2025.",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
                 "source": "Business Wire",
                 "ticker": "RF",
-                "title": "Regions Financial Corporation Declares Quarterly Common and Preferred Stock Dividends",
-                "url": "https://finance.yahoo.com/news/regions-financial-corporation-declares-quarterly-203000684.html"
+                "title": "Solid performance. A strong foundation. Regions reports first quarter 2025 earnings of $465 million, earnings per diluted share of $0.51; Adjusted earnings(1) of $487 million, adjusted earnings per diluted share(1) of $0.54",
+                "url": "https://finance.yahoo.com/news/solid-performance-strong-foundation-regions-100000224.html"
+            },
+            {
+                "headline": "BIRMINGHAM, Ala. AP) \u2014 Regions Financial Corp. RF) on Thursday reported first-quarter net income of $490 million.",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Associated Press Finance",
+                "ticker": "RF",
+                "title": "Regions Financial: Q1 Earnings Snapshot",
+                "url": "https://finance.yahoo.com/news/regions-financial-q1-earnings-snapshot-100650143.html"
+            },
+            {
+                "headline": "Regions Financial (RF) delivered earnings and revenue surprises of 5.88% and 2.18%, respectively, for the quarter ended March 2025. Do the numbers hold clues to what lies ahead for the stock?",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.128",
+                "source": "Zacks",
+                "ticker": "RF",
+                "title": "Regions Financial (RF) Q1 Earnings Beat Estimates",
+                "url": "https://finance.yahoo.com/news/regions-financial-rf-q1-earnings-111003053.html"
             }
         ],
-        "avgScore": 0.6705
+        "avgScore": 0.199625
     },
     "4 16 2025": {
         "importantArticles": [
@@ -374,12 +414,12 @@
         ],
         "avgScore": 0.6808
     },
-    "coef": -0.10909090909090911,
-    "avgCoef": -0.028667442889195635,
+    "coef": 0.045454545454545456,
+    "avgCoef": -0.044350504737390724,
     "similar": {
-        "CVS": 0.7818181818181819,
-        "IAG": 0.7000000000000001,
-        "KGC": 0.6636363636363638,
-        "GOLD": 0.6454545454545455
+        "KGC": 0.7636363636363637,
+        "GOLD": 0.7545454545454545,
+        "IAG": 0.7545454545454545,
+        "UNH": 0.6818181818181819
     }
 }

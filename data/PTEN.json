@@ -12,6 +12,26 @@
                 "url": "https://finance.yahoo.com/news/patterson-uti-pten-expected-beat-140103514.html"
             },
             {
+                "headline": "PTEN is expected to report lower revenues from the year-ago period. The company is anticipated to see a higher bottom line due to declining costs.",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.296",
+                "source": "Zacks",
+                "ticker": "PTEN",
+                "title": "Patterson-UTI Energy to Post Q1 Earnings: Here's What to Expect",
+                "url": "https://finance.yahoo.com/news/patterson-uti-energy-post-q1-110200847.html"
+            },
+            {
+                "headline": "PTEN is expected to report lower revenues from the year-ago period. The company is anticipated to see a higher bottom line due to declining costs.",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.296",
+                "source": "Zacks",
+                "ticker": "PTEN",
+                "title": "Patterson-UTI Energy to Post Q1 Earnings: Here's What to Expect",
+                "url": "https://finance.yahoo.com/news/patterson-uti-energy-post-q1-110200847.html"
+            },
+            {
                 "headline": "Patterson-UTI (PTEN) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -22,7 +42,7 @@
                 "url": "https://finance.yahoo.com/news/patterson-uti-pten-expected-beat-140103514.html"
             }
         ],
-        "avgScore": 0.2263
+        "avgScore": -0.03484999999999999
     },
     "4 11 2025": {
         "importantArticles": [
@@ -37,6 +57,26 @@
                 "url": "https://finance.yahoo.com/news/patterson-uti-energy-pten-one-210924996.html"
             },
             {
+                "headline": "We recently published a list of Traders Heavily Sold Down These 10 Stocks on Thursday. In this article, we are going to take a look at where Patterson-UTI Energy Inc. (NASDAQ:PTEN) stands against other stocks that traders heavily sold down on Thursday. The stock market wiped away earlier gains, ending Thursday\u2019s trading in another bloodbath [\u2026]",
+                "publication_date": "2025-04-11T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5423",
+                "source": "Insider Monkey",
+                "ticker": "PTEN",
+                "title": "Why Patterson-UTI Energy Inc. (PTEN) Went Down On Thursday?",
+                "url": "https://finance.yahoo.com/news/why-patterson-uti-energy-inc-094634564.html"
+            },
+            {
+                "headline": "We recently published a list of Traders Heavily Sold Down These 10 Stocks on Thursday. In this article, we are going to take a look at where Patterson-UTI Energy Inc. (NASDAQ:PTEN) stands against other stocks that traders heavily sold down on Thursday. The stock market wiped away earlier gains, ending Thursday\u2019s trading in another bloodbath [\u2026]",
+                "publication_date": "2025-04-11T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5423",
+                "source": "Insider Monkey",
+                "ticker": "PTEN",
+                "title": "Why Patterson-UTI Energy Inc. (PTEN) Went Down On Thursday?",
+                "url": "https://finance.yahoo.com/news/why-patterson-uti-energy-inc-094634564.html"
+            },
+            {
                 "headline": "We recently published a list of 10 Best Low Priced Growth Stocks To Invest In. In this article, we are going to take a look at where \u200b\u200bPatterson-UTI Energy, Inc. (NASDAQ:PTEN) stands against other best low priced growth stocks. Low priced stocks usually fall under the small to mid-cap size category. This growth criteria, often [\u2026]",
                 "publication_date": "2025-04-11T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -47,7 +87,7 @@
                 "url": "https://finance.yahoo.com/news/patterson-uti-energy-pten-one-210924996.html"
             }
         ],
-        "avgScore": 0.9186
+        "avgScore": 0.73045
     },
     "4 8 2025": {
         "importantArticles": [
@@ -174,12 +214,12 @@
         ],
         "avgScore": 0.2185
     },
-    "coef": 0.1785714285714286,
-    "avgCoef": -0.028386030285668887,
+    "coef": 0.0,
+    "avgCoef": -0.04643534602787456,
     "similar": {
-        "TSM": 0.6071428571428572,
-        "PFE": 0.5714285714285715,
-        "NOK": 0.5714285714285715,
-        "RF": 0.5357142857142858
+        "UNH": 0.5714285714285715,
+        "GPN": 0.5714285714285715,
+        "TSM": 0.5357142857142858,
+        "PFE": 0.5
     }
 }

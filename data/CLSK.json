@@ -1,9 +1,9 @@
 {
-    "4 8 2025": {
+    "4 7 2025": {
         "importantArticles": [
             {
                 "headline": "Over the last 7 days, the United States market has dropped 9.4%, and over the past 12 months, it is down by 3.4%, yet earnings are expected to grow by 14% per annum in the coming years. In this environment, identifying high growth tech stocks involves looking for companies with strong fundamentals and innovative potential that can capitalize on anticipated earnings growth despite recent market volatility.",
-                "publication_date": "2025-04-08T00:00:00.000Z",
+                "publication_date": "2025-04-07T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.9217",
                 "source": "Simply Wall St.",
@@ -13,7 +13,7 @@
             },
             {
                 "headline": "Over the last 7 days, the United States market has dropped 9.4%, and over the past 12 months, it is down by 3.4%, yet earnings are expected to grow by 14% per annum in the coming years. In this environment, identifying high growth tech stocks involves looking for companies with strong fundamentals and innovative potential that can capitalize on anticipated earnings growth despite recent market volatility.",
-                "publication_date": "2025-04-08T00:00:00.000Z",
+                "publication_date": "2025-04-07T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.9217",
                 "source": "Simply Wall St.",
@@ -49,12 +49,12 @@
         ],
         "avgScore": -0.5114
     },
-    "coef": 0.9999999999999999,
-    "avgCoef": -0.02238358495031418,
+    "coef": -0.9999999999999999,
+    "avgCoef": -0.020574877011007547,
     "similar": {
         "SPY": 0.9999999999999999,
         "NVDA": 0.9999999999999999,
-        "HTZ": 0.9999999999999999,
-        "F": 0.9999999999999999
+        "PLTR": 0.9999999999999999,
+        "TSLA": 0.9999999999999999
     }
 }

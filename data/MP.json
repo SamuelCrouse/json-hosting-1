@@ -32,6 +32,16 @@
                 "url": "https://finance.yahoo.com/news/china-suspends-exports-certain-rare-143601081.html"
             },
             {
+                "headline": "MP Materials (MP) witnessed a jump in share price last session on above-average trading volume. The latest trend in earnings estimate revisions for the stock doesn't suggest further strength down the road.",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.1098",
+                "source": "Zacks",
+                "ticker": "MP",
+                "title": "MP Materials (MP) Surges 10.0%: Is This an Indication of Further Gains?",
+                "url": "https://finance.yahoo.com/news/mp-materials-mp-surges-10-100600207.html"
+            },
+            {
                 "headline": "China has suspended exports of a wide range of critical minerals and magnets as part of China\u2019s retaliation for President Trump\u2019s sharp increase in tariffs that started on April 2, the New York Times\u2019 Keith Bradsher reported. On April 4, the Chinese government ordered restrictions on the export of six heavy rare earth metals, which are refined entirely in China, as well as rare earth magnets, 90% of which are produced in China, the report noted. Shares of MP Materials (MP) had been higher in ear",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -50,19 +60,9 @@
                 "ticker": "MP",
                 "title": "Why Rare-Earth Stocks Are Soaring Today",
                 "url": "https://finance.yahoo.com/news/why-rare-earth-stocks-soaring-144931014.html"
-            },
-            {
-                "headline": "\u2198\ufe0f Nvidia (NVDA): The chip maker warned it will take a $5.5 billion charge after the U.S. said it will need a license to export H20 processors to certain countries. Shares slid 7% early Wednesday. \u2198\ufe0f Advanced Micro Devices (AMD): AMD stock fell nearly 7%.",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4939",
-                "source": "The Wall Street Journal",
-                "ticker": "MP",
-                "title": "Stocks to Watch: Nvidia, United Airlines, Abbott Laboratories, Lyft",
-                "url": "https://finance.yahoo.com/m/07fd2202-bc1b-3272-a3d1-87e84c0da3ee/stocks-to-watch-nvidia-.html"
             }
         ],
-        "avgScore": 0.2729
+        "avgScore": 0.177225
     },
     "4 15 2025": {
         "importantArticles": [
@@ -205,7 +205,7 @@
         "avgScore": 0.7506
     },
     "coef": -0.3,
-    "avgCoef": -0.02481794646330364,
+    "avgCoef": -0.03792337746074512,
     "similar": {
         "GRAB": 0.8999999999999998,
         "HTZ": 0.7,

@@ -273,7 +273,7 @@ def main(tickers):
         # except TypeError as e:
             # print("TypeError:", e)
 
-        time.sleep(2)
+        time.sleep(90)
 
 
 def getR(x, y):

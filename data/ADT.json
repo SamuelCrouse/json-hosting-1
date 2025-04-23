@@ -74,11 +74,11 @@
         ],
         "avgScore": -0.8126
     },
-    "4 3 2025": {
+    "4 2 2025": {
         "importantArticles": [
             {
                 "headline": "We have screened bargain stocks HPK, BJRI, PRAA, AZZ and ADT based on the EV-to-EBITDA ratio, which gives the true picture of valuation and earnings potential.",
-                "publication_date": "2025-04-03T00:00:00.000Z",
+                "publication_date": "2025-04-02T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.5574",
                 "source": "Zacks",
@@ -88,7 +88,7 @@
             },
             {
                 "headline": "We have screened bargain stocks HPK, BJRI, PRAA, AZZ and ADT based on the EV-to-EBITDA ratio, which gives the true picture of valuation and earnings potential.",
-                "publication_date": "2025-04-03T00:00:00.000Z",
+                "publication_date": "2025-04-02T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.5574",
                 "source": "Zacks",
@@ -99,34 +99,19 @@
         ],
         "avgScore": 0.5574
     },
-    "3 28 2025": {
-        "importantArticles": [
-            {
-                "headline": "Value stocks typically trade at discounts to the broader market, offering patient investors the opportunity to buy businesses when they\u2019re out of favor. The key risk, however, is that these stocks are usually cheap for a reason \u2013 five cents for a piece of fruit may seem like a great deal until you find out it\u2019s rotten.",
-                "publication_date": "2025-03-28T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8442",
-                "source": "StockStory",
-                "ticker": "ADT",
-                "title": "3 Value Stocks in Hot Water",
-                "url": "https://finance.yahoo.com/news/3-value-stocks-hot-water-130220985.html"
-            },
-            {
-                "headline": "Value stocks typically trade at discounts to the broader market, offering patient investors the opportunity to buy businesses when they\u2019re out of favor. The key risk, however, is that these stocks are usually cheap for a reason \u2013 five cents for a piece of fruit may seem like a great deal until you find out it\u2019s rotten.",
-                "publication_date": "2025-03-28T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8442",
-                "source": "StockStory",
-                "ticker": "ADT",
-                "title": "3 Value Stocks in Hot Water",
-                "url": "https://finance.yahoo.com/news/3-value-stocks-hot-water-130220985.html"
-            }
-        ],
-        "avgScore": 0.8442
-    },
     "3 27 2025": {
         "importantArticles": [
             {
+                "headline": "Value stocks typically trade at discounts to the broader market, offering patient investors the opportunity to buy businesses when they\u2019re out of favor. The key risk, however, is that these stocks are usually cheap for a reason \u2013 five cents for a piece of fruit may seem like a great deal until you find out it\u2019s rotten.",
+                "publication_date": "2025-03-27T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8442",
+                "source": "StockStory",
+                "ticker": "ADT",
+                "title": "3 Value Stocks in Hot Water",
+                "url": "https://finance.yahoo.com/news/3-value-stocks-hot-water-130220985.html"
+            },
+            {
                 "headline": "We recently published a list of 10 Worst Affordable Stocks to Buy Under $10. In this article, we are going to take a look at where ADT Inc. (NYSE:ADT) stands against other worst affordable stocks to buy under $10. Will There Be a Small Cap Resurgence in 2025? On February 18, Chris Clark, Chief Executive [\u2026]",
                 "publication_date": "2025-03-27T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -145,9 +130,19 @@
                 "ticker": "ADT",
                 "title": "Is ADT Inc. (NYSE:ADT) the Worst Affordable Stocks to Buy Under $10?",
                 "url": "https://finance.yahoo.com/news/adt-inc-nyse-adt-worst-014023309.html"
+            },
+            {
+                "headline": "Value stocks typically trade at discounts to the broader market, offering patient investors the opportunity to buy businesses when they\u2019re out of favor. The key risk, however, is that these stocks are usually cheap for a reason \u2013 five cents for a piece of fruit may seem like a great deal until you find out it\u2019s rotten.",
+                "publication_date": "2025-03-27T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8442",
+                "source": "StockStory",
+                "ticker": "ADT",
+                "title": "3 Value Stocks in Hot Water",
+                "url": "https://finance.yahoo.com/news/3-value-stocks-hot-water-130220985.html"
             }
         ],
-        "avgScore": -0.8481
+        "avgScore": -0.0019500000000000073
     },
     "3 26 2025": {
         "importantArticles": [
@@ -224,12 +219,12 @@
         ],
         "avgScore": 0.7584
     },
-    "coef": 0.38494060802763264,
-    "avgCoef": -0.02862282393413943,
+    "coef": 0.27545404024004955,
+    "avgCoef": -0.046410848014800554,
     "similar": {
-        "GPN": 0.7447763937925935,
-        "GRAB": 0.7447763937925935,
-        "SNAP": 0.6276205565667923,
-        "CSCO": 0.6108840083916779
+        "PBR": 0.8143858581010162,
+        "BBD": 0.8024095954818835,
+        "GRAB": 0.7545045450053531,
+        "GPN": 0.6586944440522925
     }
 }

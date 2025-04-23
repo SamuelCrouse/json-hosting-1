@@ -32,16 +32,6 @@
                 "url": "https://finance.yahoo.com/news/direct-attack-canadian-auto-town-130003854.html"
             },
             {
-                "headline": "Only two of the five automakers in Canada are producing vehicles at full capacity",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Financial Post",
-                "ticker": "STLA",
-                "title": "\u2018Mass uncertainty\u2019: How Trump's tariffs are already hobbling Canada's auto sector",
-                "url": "https://finance.yahoo.com/news/mass-uncertainty-trumps-tariffs-already-100005994.html"
-            },
-            {
                 "headline": "(Bloomberg) -- The Stellantis NV assembly plant in Windsor, Ontario, rises like an industrial temple on the city\u2019s outskirts. On a typical day, smoke drifts from its sprawling labyrinth of pipes as workers assemble Chrysler Pacifica minivans and Dodge Chargers. But the building has been eerily quiet since its doors shut last week.Most Read from BloombergHow Did This Suburb Figure Out Mass Transit?Trump Signs Executive Orders on Federal Purchasing, Office SpaceLA County Floats Leaner Budget Burde",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -60,9 +50,19 @@
                 "ticker": "STLA",
                 "title": "Trump Trade: Carmakers may see tariff relief, China halts Boeing deliveries",
                 "url": "https://finance.yahoo.com/news/trump-trade-carmakers-may-see-140439617.html"
+            },
+            {
+                "headline": "Chrysler is revving up for an exciting celebration marking 100 years of pioneering innovation and iconic vehicles that have shaped the American automotive landscape over the last century",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7003",
+                "source": "PR Newswire",
+                "ticker": "STLA",
+                "title": "100 Years of Shaping Automotive History: Chrysler's Century of Innovation",
+                "url": "https://finance.yahoo.com/news/100-years-shaping-automotive-history-160000931.html"
             }
         ],
-        "avgScore": 0.32144999999999996
+        "avgScore": 0.4285999999999999
     },
     "4 16 2025": {
         "importantArticles": [
@@ -77,14 +77,34 @@
                 "url": "https://finance.yahoo.com/m/28005fc2-3aaa-3dbc-99c6-0bca08c5bf60/global-auto-stocks-rise-after.html"
             },
             {
-                "headline": "French-Italian carmaker Stellantis has reduced its shortlist of CEO candidates to five, said two people familiar with the matter, as it nears a decision on who will lead the company through one of the industry's most tumultuous periods.  Investors are likely to seek an update on the hiring process as well as further insight into how Stellantis will manage President Donald Trump's 25% tariffs on foreign auto imports at an annual general meeting in Amsterdam later on Tuesday.  Former CEO Carlos Tavares abruptly departed the company - maker of Jeep and Peugeot brand cars - in December following a dramatic plunge in sales and profit.",
+                "headline": "New 2025 Jeep\u00ae Wagoneer Overland package is purpose-built for challenging conditions, combining 32-inch all-terrain tires, Quadra-Lift air suspension, two-speed transfer case, skid plates and more, with a unique appearance, plus ample space and creature comforts for seven passengers and their gear",
                 "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.6249",
-                "source": "Reuters",
+                "sentimentScore": "0.5719",
+                "source": "PR Newswire",
                 "ticker": "STLA",
-                "title": "Stellantis closing in on new CEO with shortlist of five candidates, sources say",
-                "url": "https://finance.yahoo.com/news/stellantis-closing-ceo-shortlist-five-111410074.html"
+                "title": "Ready for Adventure: Jeep\u00ae Brand Debuts 2025 Wagoneer Overland Special Edition",
+                "url": "https://finance.yahoo.com/news/ready-adventure-jeep-brand-debuts-040100567.html"
+            },
+            {
+                "headline": "Only two of the five automakers in Canada are producing vehicles at full capacity",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Financial Post",
+                "ticker": "STLA",
+                "title": "\u2018Mass uncertainty\u2019: How Trump's tariffs are already hobbling Canada's auto sector",
+                "url": "https://finance.yahoo.com/news/mass-uncertainty-trumps-tariffs-already-100005994.html"
+            },
+            {
+                "headline": "Only two of the five automakers in Canada are producing vehicles at full capacity",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Financial Post",
+                "ticker": "STLA",
+                "title": "\u2018Mass uncertainty\u2019: How Trump's tariffs are already hobbling Canada's auto sector",
+                "url": "https://finance.yahoo.com/news/mass-uncertainty-trumps-tariffs-already-100005994.html"
             },
             {
                 "headline": "New 2025 Jeep\u00ae Wagoneer Overland package is purpose-built for challenging conditions, combining 32-inch all-terrain tires, Quadra-Lift air suspension, two-speed transfer case, skid plates and more, with a unique appearance, plus ample space and creature comforts for seven passengers and their gear",
@@ -97,37 +117,17 @@
                 "url": "https://finance.yahoo.com/news/ready-adventure-jeep-brand-debuts-040100567.html"
             },
             {
-                "headline": "MILAN (Reuters) -Stellantis Chairman John Elkann said on Tuesday U.S. tariffs and strict European Union emissions standards were threatening the industry, as the automaker continued its search for a new chief executive.  \"With the current path of painful tariffs and overly rigid regulations, the American and European car industries are being put at risk,\" amid increased competition from China, Elkann said at the group's annual shareholders' meeting.  \"That would be a tragedy as car manufacturing is a source of jobs, innovation and strong communities,\" he said.",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.6369",
-                "source": "Reuters",
-                "ticker": "STLA",
-                "title": "Stellantis chair says US tariffs, EU rules put auto industry at risk",
-                "url": "https://finance.yahoo.com/news/u-europe-putting-auto-industry-122213362.html"
-            },
-            {
-                "headline": "After electronics, the administrative windfall is now shifting to autos. Trump hinted at offering some short-term tariff relief to automakers to give them time to develop a future roadmap.",
+                "headline": "Shares in Asian and European carmakers rose Tuesday after President Trump suggested the sector might get tariff exemptions to give it more time to restructure North American supply chains.  Hyundai advanced 4.3% in South Korea, following roughly similar gains by General Motors and Ford in the U.S. on Monday.  European automakers such as Mercedes-Benz and BMW also rose Tuesday.",
                 "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.4767",
-                "source": "Zacks",
+                "sentimentScore": "0.6808",
+                "source": "The Wall Street Journal",
                 "ticker": "STLA",
-                "title": "Auto ETFs Rise on Hopes of Tariff Exemptions",
-                "url": "https://finance.yahoo.com/news/auto-etfs-rise-hopes-tariff-093100082.html"
-            },
-            {
-                "headline": "New 2025 Jeep\u00ae Wagoneer Overland package is purpose-built for challenging conditions, combining 32-inch all-terrain tires, Quadra-Lift air suspension, two-speed transfer case, skid plates and more, with a unique appearance, plus ample space and creature comforts for seven passengers and their gear",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.5719",
-                "source": "PR Newswire",
-                "ticker": "STLA",
-                "title": "Ready for Adventure: Jeep\u00ae Brand Debuts 2025 Wagoneer Overland Special Edition",
-                "url": "https://finance.yahoo.com/news/ready-adventure-jeep-brand-debuts-040100567.html"
+                "title": "Global Auto Stocks Rise After Trump Hints at Tariff Pause",
+                "url": "https://finance.yahoo.com/m/28005fc2-3aaa-3dbc-99c6-0bca08c5bf60/global-auto-stocks-rise-after.html"
             }
         ],
-        "avgScore": 0.34347999999999995
+        "avgScore": 0.41756666666666664
     },
     "4 15 2025": {
         "importantArticles": [
@@ -142,6 +142,16 @@
                 "url": "https://finance.yahoo.com/video/automaker-stocks-pop-webull-skyrockets-182221164.html"
             },
             {
+                "headline": "French-Italian carmaker Stellantis has reduced its shortlist of CEO candidates to five, said two people familiar with the matter, as it nears a decision on who will lead the company through one of the industry's most tumultuous periods.  Investors are likely to seek an update on the hiring process as well as further insight into how Stellantis will manage President Donald Trump's 25% tariffs on foreign auto imports at an annual general meeting in Amsterdam later on Tuesday.  Former CEO Carlos Tavares abruptly departed the company - maker of Jeep and Peugeot brand cars - in December following a dramatic plunge in sales and profit.",
+                "publication_date": "2025-04-15T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6249",
+                "source": "Reuters",
+                "ticker": "STLA",
+                "title": "Stellantis closing in on new CEO with shortlist of five candidates, sources say",
+                "url": "https://finance.yahoo.com/news/stellantis-closing-ceo-shortlist-five-111410074.html"
+            },
+            {
                 "headline": "New Chrysler Century of Innovation display highlights 100-year anniversary, featuring the original 1924 Chrysler Six that debuted at the 1924 National Automobile Show in New York City",
                 "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -152,14 +162,14 @@
                 "url": "https://finance.yahoo.com/news/stellantis-brings-multiple-exhibits-driving-195600805.html"
             },
             {
-                "headline": "The retrofit solution is designed to allow the conversion of LCVs with combustion engines into EVs.",
+                "headline": "MILAN (Reuters) -Stellantis Chairman John Elkann said on Tuesday U.S. tariffs and strict European Union emissions standards were threatening the industry, as the automaker continued its search for a new chief executive.  \"With the current path of painful tariffs and overly rigid regulations, the American and European car industries are being put at risk,\" amid increased competition from China, Elkann said at the group's annual shareholders' meeting.  \"That would be a tragedy as car manufacturing is a source of jobs, innovation and strong communities,\" he said.",
                 "publication_date": "2025-04-15T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4939",
-                "source": "Just Auto",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.6369",
+                "source": "Reuters",
                 "ticker": "STLA",
-                "title": "Stellantis, Qinomic unveil electric retrofit solution for LCVs",
-                "url": "https://finance.yahoo.com/news/stellantis-qinomic-unveil-electric-retrofit-165825254.html"
+                "title": "Stellantis chair says US tariffs, EU rules put auto industry at risk",
+                "url": "https://finance.yahoo.com/news/u-europe-putting-auto-industry-122213362.html"
             },
             {
                 "headline": "(Bloomberg) -- On an overcast afternoon on Canada\u2019s east coast, Mark Carney emerged from a pickup truck and stepped carefully in his dress shoes through the muddy lot outside a lumber mill. His hard hat didn\u2019t fit right, pitched forward at an awkward angle; an aide hustled over to fix it before he went inside.Most Read from BloombergHow Did This Suburb Figure Out Mass Transit?Even Oslo Has an Air Quality ProblemNYC Tourist Helicopter Crashes in Hudson River, Killing SixLisbon Mayor Wants Compani",
@@ -180,19 +190,9 @@
                 "ticker": "STLA",
                 "title": "Trump\u2019s Tangled Tariffs Sow Confusion as Negotiators Line Up",
                 "url": "https://finance.yahoo.com/news/trump-tangled-tariffs-sow-confusion-122723925.html"
-            },
-            {
-                "headline": "Jeep and Chrysler parent Stellantis will face greater headwinds from tariffs than its counterparts in Detroit, UBS analysts said.",
-                "publication_date": "2025-04-15T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.3612",
-                "source": "Investopedia",
-                "ticker": "STLA",
-                "title": "UBS Downgrades Stellantis Stock, Slashes Price Target on Tariff Headwinds",
-                "url": "https://finance.yahoo.com/news/ubs-downgrades-stellantis-stock-slashes-173010749.html"
             }
         ],
-        "avgScore": 0.2984428571428572
+        "avgScore": 0.25538000000000005
     },
     "4 11 2025": {
         "importantArticles": [
@@ -282,36 +282,6 @@
                 "url": "https://finance.yahoo.com/m/19cc24b6-0c84-3744-b07f-b2f99006606f/stellantis-to-revise-ads.html"
             },
             {
-                "headline": "The company is considering alternative production options within Europe for the Leapmotor vehicle.",
-                "publication_date": "2025-04-10T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Just Auto",
-                "ticker": "STLA",
-                "title": "Stellantis halts Leapmotor EV production in Poland",
-                "url": "https://finance.yahoo.com/news/stellantis-halts-leapmotor-ev-production-114652732.html"
-            },
-            {
-                "headline": "The latest investor updates on stocks that are trending on Wednesday.",
-                "publication_date": "2025-04-10T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Yahoo Finance UK",
-                "ticker": "STLA",
-                "title": "Trending tickers: Apple, Advanced Micro Devices, Ford, BP and AstraZeneca",
-                "url": "https://finance.yahoo.com/news/apple-advanced-micro-devices-ford-bp-astrazeneca-trending-tickers-093254195.html"
-            },
-            {
-                "headline": "The company is considering alternative production options within Europe for the Leapmotor vehicle.",
-                "publication_date": "2025-04-10T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Just Auto",
-                "ticker": "STLA",
-                "title": "Stellantis halts Leapmotor EV production in Poland",
-                "url": "https://finance.yahoo.com/news/stellantis-halts-leapmotor-ev-production-114652732.html"
-            },
-            {
                 "headline": "The Dutch auto conglomerate will clarify that its cars are assembled, not \u201cbuilt,\u201d in U.S. factories.",
                 "publication_date": "2025-04-10T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -320,9 +290,19 @@
                 "ticker": "STLA",
                 "title": "Stellantis to Revise Ads Saying Its Cars Are Built in America",
                 "url": "https://finance.yahoo.com/m/19cc24b6-0c84-3744-b07f-b2f99006606f/stellantis-to-revise-ads.html"
+            },
+            {
+                "headline": "Auto stocks pulled higher after President Trump backed off and announced a 90-day pause on tariffs for most countries, yet at the same time he increased levies on China, and kept auto tariffs in place.",
+                "publication_date": "2025-04-10T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.296",
+                "source": "Yahoo Finance",
+                "ticker": "STLA",
+                "title": "Auto stocks pull higher as Trump reverses on reciprocal duties, but auto tariffs remain",
+                "url": "https://finance.yahoo.com/news/auto-stocks-pull-higher-as-trump-reverses-on-reciprocal-duties-but-auto-tariffs-remain-192700279.html"
             }
         ],
-        "avgScore": 0.074
+        "avgScore": 0.148
     },
     "4 9 2025": {
         "importantArticles": [
@@ -347,14 +327,14 @@
                 "url": "https://finance.yahoo.com/video/why-auto-tariffs-extra-harsh-215733894.html"
             },
             {
-                "headline": "Stellantis has stopped making its Chinese partner Leapmotor's T03 small electric car in Poland and is assessing alternative production options, the Franco-Italian automaker said on Tuesday.  The group \"is no longer assembling Leapmotor's T03 model at the Tychy plant, in Poland, since March 30,\" it said in a statement.  \"While the company remains fully engaged in the launch of Leapmotor vehicles in Europe, at the moment it is evaluating different production options,\" Stellantis said, without providing further details, including whether the model might be relocated to another European plant.",
+                "headline": "The company is considering alternative production options within Europe for the Leapmotor vehicle.",
                 "publication_date": "2025-04-09T00:00:00.000Z",
                 "sentiment": "Neutral",
-                "sentimentScore": "-0.0276",
-                "source": "Reuters",
+                "sentimentScore": "0.0",
+                "source": "Just Auto",
                 "ticker": "STLA",
-                "title": "Stellantis stops making Leapmotor EV in Poland, eyes other options",
-                "url": "https://finance.yahoo.com/news/stellantis-says-stopped-making-small-112442804.html"
+                "title": "Stellantis halts Leapmotor EV production in Poland",
+                "url": "https://finance.yahoo.com/news/stellantis-halts-leapmotor-ev-production-114652732.html"
             },
             {
                 "headline": "Catch up on the top industries and stocks that were impacted, or were predicted to be impacted, by the comments, actions and policies of President Donald Trump with this daily recap compiled by The Fly: TRUMP SAYS NO INFLATION: President Trump said via Truth Social, \u201cOil prices are down, interest rates are down (the slow moving Fed should cut rates!), food prices are down, there is NO INFLATION, and the long time abused USA is bringing in Billions of Dollars a week from the abusing countries on",
@@ -367,16 +347,6 @@
                 "url": "https://finance.yahoo.com/news/trump-trade-trump-claims-no-142755841.html"
             },
             {
-                "headline": "Stellantis' Italian auto production dropped further in the first quarter after output in the country fell to an almost 70-year low in 2024, the FIM Cisl union said on Tuesday, as new models will not support activity before next year.  Vehicle production in the January-March period, comprising passenger cars and vans was down 35.5% compared to a year earlier to around 110,000 units, the union said in a quarterly report.  Activity contracted in all the six assembly plants the automaker runs in Italy, it added.",
-                "publication_date": "2025-04-09T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.4731",
-                "source": "Reuters",
-                "ticker": "STLA",
-                "title": "Stellantis output in Italy fell further in first quarter, union says",
-                "url": "https://finance.yahoo.com/news/stellantis-output-italy-fell-further-112020031.html"
-            },
-            {
                 "headline": "A new report finds that Detroit\u2019s Big Three are actually the most exposed to President Trump\u2019s 25% auto tariffs on foreign-made cars.",
                 "publication_date": "2025-04-09T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -385,13 +355,33 @@
                 "ticker": "STLA",
                 "title": "Detroit's Big Three \u2014 not foreign automakers \u2014 are most exposed to Trump's auto tariffs: New report",
                 "url": "https://finance.yahoo.com/news/detroits-big-three--not-foreign-automakers--are-most-exposed-to-trumps-auto-tariffs-new-report-162635754.html"
+            },
+            {
+                "headline": "The latest investor updates on stocks that are trending on Wednesday.",
+                "publication_date": "2025-04-09T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Yahoo Finance UK",
+                "ticker": "STLA",
+                "title": "Trending tickers: Apple, Advanced Micro Devices, Ford, BP and AstraZeneca",
+                "url": "https://finance.yahoo.com/news/apple-advanced-micro-devices-ford-bp-astrazeneca-trending-tickers-093254195.html"
             }
         ],
-        "avgScore": -0.1446666666666667
+        "avgScore": -0.061216666666666676
     },
     "4 8 2025": {
         "importantArticles": [
             {
+                "headline": "Stellantis has stopped making its Chinese partner Leapmotor's T03 small electric car in Poland and is assessing alternative production options, the Franco-Italian automaker said on Tuesday.  The group \"is no longer assembling Leapmotor's T03 model at the Tychy plant, in Poland, since March 30,\" it said in a statement.  \"While the company remains fully engaged in the launch of Leapmotor vehicles in Europe, at the moment it is evaluating different production options,\" Stellantis said, without providing further details, including whether the model might be relocated to another European plant.",
+                "publication_date": "2025-04-08T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "-0.0276",
+                "source": "Reuters",
+                "ticker": "STLA",
+                "title": "Stellantis stops making Leapmotor EV in Poland, eyes other options",
+                "url": "https://finance.yahoo.com/news/stellantis-says-stopped-making-small-112442804.html"
+            },
+            {
                 "headline": "Auto stocks continued their downward slide on Monday as the sector, heavily exposed to tariffs, looks for a bottom.",
                 "publication_date": "2025-04-08T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -422,14 +412,14 @@
                 "url": "https://finance.yahoo.com/news/stellantis-help-suppliers-offset-cost-194400069.html"
             },
             {
-                "headline": "Stellantis (STLA), the automaker behind Jeep, has said it will absorb some of its suppliers\u2019 costs from President Donald Trump\u2019s tariffs \u2014 one of the first indicators of how the auto industry is responding to the president\u2019s trade war.",
+                "headline": "Stellantis' Italian auto production dropped further in the first quarter after output in the country fell to an almost 70-year low in 2024, the FIM Cisl union said on Tuesday, as new models will not support activity before next year.  Vehicle production in the January-March period, comprising passenger cars and vans was down 35.5% compared to a year earlier to around 110,000 units, the union said in a quarterly report.  Activity contracted in all the six assembly plants the automaker runs in Italy, it added.",
                 "publication_date": "2025-04-08T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.5994",
-                "source": "Quartz",
+                "sentimentScore": "-0.4731",
+                "source": "Reuters",
                 "ticker": "STLA",
-                "title": "Stellantis will help suppliers offset the cost of tariffs, report says",
-                "url": "https://finance.yahoo.com/news/stellantis-help-suppliers-offset-cost-194400069.html"
+                "title": "Stellantis output in Italy fell further in first quarter, union says",
+                "url": "https://finance.yahoo.com/news/stellantis-output-italy-fell-further-112020031.html"
             },
             {
                 "headline": "President Trump's tariff plans have walloped auto stocks. Shares of the big three automakers (F, GM, STLA) all closed lower again on Monday. Yahoo Finance Autos Reporter Pras Subramanian reports the latest in the video above.&nbsp; To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime here.",
@@ -440,19 +430,9 @@
                 "ticker": "STLA",
                 "title": "Auto stocks have been clobbered by Trump's tariffs",
                 "url": "https://finance.yahoo.com/video/auto-stocks-clobbered-trumps-tariffs-203056273.html"
-            },
-            {
-                "headline": "Auto stocks continued their downward slide on Monday as the sector, heavily exposed to tariffs, looks for a bottom.",
-                "publication_date": "2025-04-08T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.0772",
-                "source": "Yahoo Finance",
-                "ticker": "STLA",
-                "title": "Auto stocks continue slide as tariff impact threatens to decimate sales",
-                "url": "https://finance.yahoo.com/news/auto-stocks-continue-slide-as-tariff-impact-threatens-to-decimate-sales-185757899.html"
             }
         ],
-        "avgScore": -0.2664
+        "avgScore": -0.25998
     },
     "4 7 2025": {
         "importantArticles": [
@@ -542,20 +522,10 @@
                 "url": "https://finance.yahoo.com/news/fitch-cuts-stellantis-stock-rating-200758745.html"
             }
         ],
-        "avgScore": -0.07767692307692307
+        "avgScore": -0.06217333333333334
     },
     "4 3 2025": {
         "importantArticles": [
-            {
-                "headline": "MILAN (Reuters) -Carmaker Stellantis has signed a deal with trade unions for 350 voluntary exits from its Pomigliano and Pratola Serra plants in southern Italy, the Fiom union said on Wednesday.  A spokesman for Stellantis said the layoffs involved employees close to retirement age and were in line with overall plans presented in December to the Italian government to boost its production in the country.  Fiom, which did not itself sign the agreement, said in a statement that job reductions involved 300 workers at the Pomigliano assembly plant and 50 at the Pratola Serra engine facility, both in Campania, the region comprising Naples.",
-                "publication_date": "2025-04-03T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7096",
-                "source": "Reuters",
-                "ticker": "STLA",
-                "title": "Stellantis agrees 350 job cuts in southern Italy with unions",
-                "url": "https://finance.yahoo.com/news/stellantis-agrees-350-job-cuts-105439506.html"
-            },
             {
                 "headline": "President Trump made good on his tariff promise for foreign made autos, slapping 25% tariffs across the board on foreign-made automobiles.",
                 "publication_date": "2025-04-03T00:00:00.000Z",
@@ -575,6 +545,16 @@
                 "ticker": "STLA",
                 "title": "Stocks to Watch Wednesday: Tesla, Nvidia, Newsmax",
                 "url": "https://finance.yahoo.com/m/f453e4bd-ece5-32c0-834a-b79041ac6cd4/stocks-to-watch-wednesday-.html"
+            },
+            {
+                "headline": "The array of automotive parts that President Trump plans to tariff is more extensive than the industry expected, raising concerns about significant cost increases for U.S.-built vehicles.  As part of Trump\u2019s tariff announcement Wednesday, the administration published a list of auto parts that would be subject to 25% tariffs starting May 3.  The parts list is \u201cmore extensive than feared,\u201d Bernstein financial analyst Daniel Roeska wrote in a research note following Trump\u2019s announcement.",
+                "publication_date": "2025-04-03T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.2023",
+                "source": "The Wall Street Journal",
+                "ticker": "STLA",
+                "title": "Trump Tariffs to Hit Many Auto Parts",
+                "url": "https://finance.yahoo.com/m/8fa09341-a8fb-370d-802e-d116d20090dc/trump-tariffs-to-hit-many.html"
             },
             {
                 "headline": "(Bloomberg) -- Beaten-down corporate bonds from automakers could rally after Wednesday\u2019s tariff announcement from US President Donald Trump, making the debt an attractive purchase, according to JPMorgan Chase & Co.Most Read from BloombergMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Frank Lloyd Wright Learned From the DesertLocal Governments Vie for Fired Federal WorkersChicago School District Agree",
@@ -607,10 +587,20 @@
                 "url": "https://finance.yahoo.com/news/stellantis-close-canadas-windsor-plant-025959788.html"
             }
         ],
-        "avgScore": 0.24887142857142858
+        "avgScore": 0.17208333333333334
     },
     "4 2 2025": {
         "importantArticles": [
+            {
+                "headline": "MILAN (Reuters) -Carmaker Stellantis has signed a deal with trade unions for 350 voluntary exits from its Pomigliano and Pratola Serra plants in southern Italy, the Fiom union said on Wednesday.  A spokesman for Stellantis said the layoffs involved employees close to retirement age and were in line with overall plans presented in December to the Italian government to boost its production in the country.  Fiom, which did not itself sign the agreement, said in a statement that job reductions involved 300 workers at the Pomigliano assembly plant and 50 at the Pratola Serra engine facility, both in Campania, the region comprising Naples.",
+                "publication_date": "2025-04-02T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7096",
+                "source": "Reuters",
+                "ticker": "STLA",
+                "title": "Stellantis agrees 350 job cuts in southern Italy with unions",
+                "url": "https://finance.yahoo.com/news/stellantis-agrees-350-job-cuts-105439506.html"
+            },
             {
                 "headline": "We recently compiled a list of the 10 Best EV Stocks to Buy Under $50. In this article, we are going to take a look at where Stellantis N.V. (NYSE:STLA) stands against the other EV stocks under $50. Electric vehicle (EV) sales continue to grow but at a slower pace than many had previously expected. [\u2026]",
                 "publication_date": "2025-04-02T00:00:00.000Z",
@@ -630,16 +620,6 @@
                 "ticker": "STLA",
                 "title": "FCA US Reports First-quarter 2025 US Sales Results",
                 "url": "https://finance.yahoo.com/news/fca-us-reports-first-quarter-235000079.html"
-            },
-            {
-                "headline": "Wayne Griffiths, CEO of Volkswagen\u2019s Spanish subsidiary SEAT and father of the Cupra brand, stepped down at his own request \u201cto pursue new challenges.\u201d",
-                "publication_date": "2025-04-02T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Fortune",
-                "ticker": "STLA",
-                "title": "The mastermind behind Europe\u2019s hottest new car brand is leaving Volkswagen in a shock departure",
-                "url": "https://finance.yahoo.com/news/mastermind-behind-europe-hottest-car-174536947.html"
             },
             {
                 "headline": "General Motors and Ford reported upbeat first quarter US sales, just as the threat of tariffs portends pain ahead for the Big Three automakers.",
@@ -662,8 +642,73 @@
                 "url": "https://finance.yahoo.com/news/mercedes-weighs-pulling-us-entry-153127919.html"
             },
             {
-                "headline": "Companies In The News Are: STLA, TSLA, COOP, RKT, SGML.",
+                "headline": "Wayne Griffiths, CEO of Volkswagen\u2019s Spanish subsidiary SEAT and father of the Cupra brand, stepped down at his own request \u201cto pursue new challenges.\u201d",
                 "publication_date": "2025-04-02T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Fortune",
+                "ticker": "STLA",
+                "title": "The mastermind behind Europe\u2019s hottest new car brand is leaving Volkswagen in a shock departure",
+                "url": "https://finance.yahoo.com/news/mastermind-behind-europe-hottest-car-174536947.html"
+            }
+        ],
+        "avgScore": -0.06498333333333335
+    },
+    "4 1 2025": {
+        "importantArticles": [
+            {
+                "headline": "Companies In The News Are: STLA, TSLA, COOP, RKT, SGML.",
+                "publication_date": "2025-04-01T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "STLA",
+                "title": "Company News for Apr 1, 2025",
+                "url": "https://finance.yahoo.com/news/company-news-apr-1-2025-093100353.html"
+            },
+            {
+                "headline": "President Trump\u2019s auto tariffs have customers and dealers spooked.",
+                "publication_date": "2025-04-01T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Yahoo Finance",
+                "ticker": "STLA",
+                "title": "Car dealer: 'Afraid' buyers are rushing to purchase cars ahead of tariffs",
+                "url": "https://finance.yahoo.com/news/car-dealer-afraid-buyers-are-rushing-to-purchase-cars-ahead-of-tariffs-144014529.html"
+            },
+            {
+                "headline": "US automakers are making a last-ditch effort to sway the Trump administration on tariffs set to take effect this week, contending that levies on the thousands of parts they source abroad could have catastrophic effects on the industry.",
+                "publication_date": "2025-04-01T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.4939",
+                "source": "Bloomberg",
+                "ticker": "STLA",
+                "title": "US automakers make mad dash to persuade Trump to temper tariffs",
+                "url": "https://finance.yahoo.com/news/us-automakers-mad-dash-persuade-013847428.html"
+            },
+            {
+                "headline": "US automakers are making a last-ditch effort to sway the Trump administration on tariffs set to take effect this week, contending that levies on the thousands of parts they source abroad could have catastrophic effects on the industry.",
+                "publication_date": "2025-04-01T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.4939",
+                "source": "Bloomberg",
+                "ticker": "STLA",
+                "title": "US automakers make mad dash to persuade Trump to temper tariffs",
+                "url": "https://finance.yahoo.com/news/us-automakers-mad-dash-persuade-013847428.html"
+            },
+            {
+                "headline": "President Trump\u2019s auto tariffs have customers and dealers spooked.",
+                "publication_date": "2025-04-01T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Yahoo Finance",
+                "ticker": "STLA",
+                "title": "Car dealer: 'Afraid' buyers are rushing to purchase cars ahead of tariffs",
+                "url": "https://finance.yahoo.com/news/car-dealer-afraid-buyers-are-rushing-to-purchase-cars-ahead-of-tariffs-144014529.html"
+            },
+            {
+                "headline": "Companies In The News Are: STLA, TSLA, COOP, RKT, SGML.",
+                "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
                 "source": "Zacks",
@@ -672,52 +717,7 @@
                 "url": "https://finance.yahoo.com/news/company-news-apr-1-2025-093100353.html"
             }
         ],
-        "avgScore": -0.18325000000000002
-    },
-    "4 1 2025": {
-        "importantArticles": [
-            {
-                "headline": "President Trump\u2019s auto tariffs have customers and dealers spooked.",
-                "publication_date": "2025-04-01T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Yahoo Finance",
-                "ticker": "STLA",
-                "title": "Car dealer: 'Afraid' buyers are rushing to purchase cars ahead of tariffs",
-                "url": "https://finance.yahoo.com/news/car-dealer-afraid-buyers-are-rushing-to-purchase-cars-ahead-of-tariffs-144014529.html"
-            },
-            {
-                "headline": "US automakers are making a last-ditch effort to sway the Trump administration on tariffs set to take effect this week, contending that levies on the thousands of parts they source abroad could have catastrophic effects on the industry.",
-                "publication_date": "2025-04-01T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.4939",
-                "source": "Bloomberg",
-                "ticker": "STLA",
-                "title": "US automakers make mad dash to persuade Trump to temper tariffs",
-                "url": "https://finance.yahoo.com/news/us-automakers-mad-dash-persuade-013847428.html"
-            },
-            {
-                "headline": "US automakers are making a last-ditch effort to sway the Trump administration on tariffs set to take effect this week, contending that levies on the thousands of parts they source abroad could have catastrophic effects on the industry.",
-                "publication_date": "2025-04-01T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.4939",
-                "source": "Bloomberg",
-                "ticker": "STLA",
-                "title": "US automakers make mad dash to persuade Trump to temper tariffs",
-                "url": "https://finance.yahoo.com/news/us-automakers-mad-dash-persuade-013847428.html"
-            },
-            {
-                "headline": "President Trump\u2019s auto tariffs have customers and dealers spooked.",
-                "publication_date": "2025-04-01T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Yahoo Finance",
-                "ticker": "STLA",
-                "title": "Car dealer: 'Afraid' buyers are rushing to purchase cars ahead of tariffs",
-                "url": "https://finance.yahoo.com/news/car-dealer-afraid-buyers-are-rushing-to-purchase-cars-ahead-of-tariffs-144014529.html"
-            }
-        ],
-        "avgScore": -0.24695
+        "avgScore": -0.16463333333333333
     },
     "3 31 2025": {
         "importantArticles": [
@@ -827,7 +827,7 @@
                 "url": "https://finance.yahoo.com/news/jpmorgan-cuts-outlook-for-gm-ford-stocks-says-trump-auto-tariffs-may-be-worse-for-ferrari-122341848.html"
             }
         ],
-        "avgScore": 0.03285
+        "avgScore": 0.03942
     },
     "3 27 2025": {
         "importantArticles": [
@@ -852,14 +852,14 @@
                 "url": "https://finance.yahoo.com/video/trump-announce-auto-tariffs-191022966.html"
             },
             {
-                "headline": "Stellantis' Chinese partner Leapmotor plans to roll out vehicles equipped with its smart-driving technologies in Europe next year, the company's senior vice president said on Wednesday.  That is the first timeline announced by a Chinese automaker for advanced driver-assistance technologies outside China and comes as the manufacturers scramble for an edge in the hyper-competitive market for EVs and long-range hybrids.  Leapmotor will launch a research and development team in Europe that will focus on algorithm training for self-driving systems based on data collected from roads there, senior vice-president Cao Li told Reuters.",
+                "headline": "The latest investor updates on stocks that are trending on Thursday.",
                 "publication_date": "2025-03-27T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.25",
-                "source": "Reuters",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Yahoo Finance UK",
                 "ticker": "STLA",
-                "title": "China's Leapmotor aims for Europe smart-driving rollout in 2026",
-                "url": "https://finance.yahoo.com/news/chinas-leapmotor-aims-europe-smart-095422086.html"
+                "title": "Trending tickers: Nvidia, General Motors, Robinhood, H&M and Next",
+                "url": "https://finance.yahoo.com/news/nvidia-general-motors-robinhood-hm-next-trending-tickers-121437350.html"
             },
             {
                 "headline": "Auto stocks fell Wednesday afterhours as the White House unveiled new automotive tariffs. President Trump said he would impose 25% tariffs on global automotive imports to the U.S., making good on pledge to impose duties on cars and trucks from other nations.",
@@ -892,10 +892,20 @@
                 "url": "https://finance.yahoo.com/news/leapmotor-plans-introduce-smart-driving-182304197.html"
             }
         ],
-        "avgScore": 0.20933333333333337
+        "avgScore": 0.14371428571428574
     },
     "3 26 2025": {
         "importantArticles": [
+            {
+                "headline": "Stellantis' Chinese partner Leapmotor plans to roll out vehicles equipped with its smart-driving technologies in Europe next year, the company's senior vice president said on Wednesday.  That is the first timeline announced by a Chinese automaker for advanced driver-assistance technologies outside China and comes as the manufacturers scramble for an edge in the hyper-competitive market for EVs and long-range hybrids.  Leapmotor will launch a research and development team in Europe that will focus on algorithm training for self-driving systems based on data collected from roads there, senior vice-president Cao Li told Reuters.",
+                "publication_date": "2025-03-26T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.25",
+                "source": "Reuters",
+                "ticker": "STLA",
+                "title": "China's Leapmotor aims for Europe smart-driving rollout in 2026",
+                "url": "https://finance.yahoo.com/news/chinas-leapmotor-aims-europe-smart-095422086.html"
+            },
             {
                 "headline": "Hyundai (HYMTF) is set to announce a $20B investment in U.S. onshoring that includes a $5B steel plant in Louisiana, people familiar with the plans told CNBC\u2019s Seema Mody. The new steel plant will produce next-generation steel that will be used by Hyundai\u2019s two U.S. auto plants to manufacture electric vehicles, the report noted. The investment is expected to be announced Monday at the White House by President Donald Trump, Hyundai Chairman Euisun Chung and Louisiana Gov. Jeff Landry, CNBC added.",
                 "publication_date": "2025-03-26T00:00:00.000Z",
@@ -915,9 +925,19 @@
                 "ticker": "STLA",
                 "title": "Hyundai to announce $20B investment in U.S., CNBC reports",
                 "url": "https://finance.yahoo.com/news/hyundai-announce-20b-investment-u-124636477.html"
+            },
+            {
+                "headline": "Stellantis' Chinese partner Leapmotor plans to roll out vehicles equipped with its smart-driving technologies in Europe next year, the company's senior vice president said on Wednesday.  That is the first timeline announced by a Chinese automaker for advanced driver-assistance technologies outside China and comes as the manufacturers scramble for an edge in the hyper-competitive market for EVs and long-range hybrids.  Leapmotor will launch a research and development team in Europe that will focus on algorithm training for self-driving systems based on data collected from roads there, senior vice-president Cao Li told Reuters.",
+                "publication_date": "2025-03-26T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.25",
+                "source": "Reuters",
+                "ticker": "STLA",
+                "title": "China's Leapmotor aims for Europe smart-driving rollout in 2026",
+                "url": "https://finance.yahoo.com/news/chinas-leapmotor-aims-europe-smart-095422086.html"
             }
         ],
-        "avgScore": 0.0
+        "avgScore": 0.125
     },
     "3 25 2025": {
         "importantArticles": [
@@ -997,6 +1017,16 @@
                 "url": "https://finance.yahoo.com/video/piper-sandler-remains-bullish-tesla-144207317.html"
             },
             {
+                "headline": "Tesla\u2019s reputational troubles and Stellantis\u2019s falling sales are the latest examples of the obstacles facing transnational auto manufacturers.",
+                "publication_date": "2025-03-21T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.7351",
+                "source": "The Wall Street Journal",
+                "ticker": "STLA",
+                "title": "From Ford to Musk, the Perils of Trying to Build a Global Auto Empire",
+                "url": "https://finance.yahoo.com/m/f45db4b8-b169-39a6-9512-a2b595641dcf/from-ford-to-musk-the-perils.html"
+            },
+            {
                 "headline": "Piper Sandler has downgraded US auto stocks, cutting the price targets on Rivian (RIVN) and Stellantis (STLA) while maintaining an Overweight rating on EV leader Tesla (TSLA). Madison Mills&nbsp;and StoneX senior adviser Jon Hilsenrath assess how Wall Street is forecasting President Trump's tariffs to weigh on automakers and create further uncertainty for the broader auto industry. To watch more expert insights and analysis on the latest market action, check out more Catalysts&nbsp;here.",
                 "publication_date": "2025-03-21T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -1015,19 +1045,9 @@
                 "ticker": "STLA",
                 "title": "Is Stellantis N.V. (STLA) The Best Cheap EV Stock to Buy?",
                 "url": "https://finance.yahoo.com/news/stellantis-n-v-stla-best-154300590.html"
-            },
-            {
-                "headline": "Yahoo Finance host&nbsp;Brad Smith tracks several of this morning's top market stories in this Market Minute, including Carvana's (CVNA) upgrade from Piper Sandler while the firm downgraded Rivian (RIVN) and Stellantis (STLA), and Darden Restaurants' (DRI) shares getting a boost following its earnings results. Stay up to date on the latest market action, minute-by-minute, with&nbsp;Yahoo Finance's Market Minute.",
-                "publication_date": "2025-03-21T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6908",
-                "source": "Yahoo Finance Video",
-                "ticker": "STLA",
-                "title": "Carvana upgrade, Rivian & Stellantis, Darden: Market Minute",
-                "url": "https://finance.yahoo.com/video/carvana-upgrade-rivian-stellantis-darden-161347540.html"
             }
         ],
-        "avgScore": 0.060066666666666636
+        "avgScore": -0.13872500000000001
     },
     "3 20 2025": {
         "importantArticles": [
@@ -1087,16 +1107,6 @@
                 "url": "https://finance.yahoo.com/news/dodge-brand-debuts-interactive-mobile-150000002.html"
             },
             {
-                "headline": "The investment aims to bolster the manufacturing of steel components for electric drive modules in Italy.",
-                "publication_date": "2025-03-19T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Just Auto",
-                "ticker": "STLA",
-                "title": "Stellantis to invest $41m in Italian plant for EV component production",
-                "url": "https://finance.yahoo.com/news/stellantis-invest-41m-italian-plant-113209782.html"
-            },
-            {
                 "headline": "Chinese EV maker Leapmotor has started selling two electric vehicle models at Stellantis dealerships in Britain via its joint venture with the world's No. 4 automaker, it said on Wednesday.  Leapmotor has launched sales of the T03 compact electric car and the C10, a large electric SUV, with the B10 midsize SUV launching later this year, at 44 Stellantis dealerships where staff have been trained to sell the cars.  By the end of 2025, Leapmotors will be on sale at 80 Stellantis dealers in Britain, with more coming next year, said Damien Dally, Leapmotor's UK managing director.",
                 "publication_date": "2025-03-19T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -1115,16 +1125,6 @@
                 "ticker": "STLA",
                 "title": "Leapmotor launches UK sales with two EV models",
                 "url": "https://finance.yahoo.com/news/leapmotor-launches-uk-sales-two-000947183.html"
-            },
-            {
-                "headline": "The investment aims to bolster the manufacturing of steel components for electric drive modules in Italy.",
-                "publication_date": "2025-03-19T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Just Auto",
-                "ticker": "STLA",
-                "title": "Stellantis to invest $41m in Italian plant for EV component production",
-                "url": "https://finance.yahoo.com/news/stellantis-invest-41m-italian-plant-113209782.html"
             },
             {
                 "headline": "Hosted by automotive enthusiast and gearhead Garrett Reed, the new, interactive, mobile Dodge Charger Virtual Experience showcases the all-new Dodge Charger and lets customers create their dream ride right on their phone",
@@ -1137,14 +1137,14 @@
                 "url": "https://finance.yahoo.com/news/dodge-brand-debuts-interactive-mobile-150000002.html"
             }
         ],
-        "avgScore": 0.1676333333333333
+        "avgScore": 0.25144999999999995
     },
-    "coef": 0.007518796992481202,
-    "avgCoef": -0.02860840604889737,
+    "coef": -0.03308270676691729,
+    "avgCoef": -0.042923421627562325,
     "similar": {
-        "PBR": 0.2421052631578947,
-        "SNAP": 0.20751879699248119,
-        "GRAB": 0.16541353383458643,
-        "TTD": 0.12481203007518797
+        "PBR": 0.3037593984962406,
+        "SNAP": 0.17593984962406017,
+        "GRAB": 0.1744360902255639,
+        "NU": 0.12330827067669171
     }
 }

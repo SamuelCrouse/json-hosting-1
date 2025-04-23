@@ -99,6 +99,31 @@
         ],
         "avgScore": 0.9516
     },
+    "3 21 2025": {
+        "importantArticles": [
+            {
+                "headline": "As Bitcoin gains adoption across all levels of society, from governments to institutions to individuals, it is fundamentally reshaping corporate crypto strategies, forcing a rethinking of how businesses engage with digital assets. Three U.S. companies, in particular, Strategy (MSTR), Marathon Digital Holdings (MARA), and Riot Platforms (RIOT), have emerged as high-profile pioneers in utilizing Bitcoin as a treasury asset. Each has taken a slightly different path, but all have doubled down on the",
+                "publication_date": "2025-03-21T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.3818",
+                "source": "TipRanks",
+                "ticker": "MARA",
+                "title": "MSTR, MARA, or RIOT: Which U.S. Crypto Stock is the Bitcoin Maestro?",
+                "url": "https://finance.yahoo.com/news/mstr-mara-riot-u-crypto-123236043.html"
+            },
+            {
+                "headline": "As Bitcoin gains adoption across all levels of society, from governments to institutions to individuals, it is fundamentally reshaping corporate crypto strategies, forcing a rethinking of how businesses engage with digital assets. Three U.S. companies, in particular, Strategy (MSTR), Marathon Digital Holdings (MARA), and Riot Platforms (RIOT), have emerged as high-profile pioneers in utilizing Bitcoin as a treasury asset. Each has taken a slightly different path, but all have doubled down on the",
+                "publication_date": "2025-03-21T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.3818",
+                "source": "TipRanks",
+                "ticker": "MARA",
+                "title": "MSTR, MARA, or RIOT: Which U.S. Crypto Stock is the Bitcoin Maestro?",
+                "url": "https://finance.yahoo.com/news/mstr-mara-riot-u-crypto-123236043.html"
+            }
+        ],
+        "avgScore": 0.3818
+    },
     "3 20 2025": {
         "importantArticles": [
             {
@@ -124,12 +149,12 @@
         ],
         "avgScore": 0.8979
     },
-    "coef": -0.6,
-    "avgCoef": -0.028762850127460018,
+    "coef": -0.48571428571428577,
+    "avgCoef": -0.046424356811242795,
     "similar": {
-        "INTC": 0.7999999999999999,
-        "T": 0.7999999999999999,
-        "MP": 0.7,
-        "IAG": 0.7
+        "INTC": 0.7714285714285715,
+        "T": 0.7714285714285715,
+        "RIVN": 0.7142857142857143,
+        "IAG": 0.6
     }
 }

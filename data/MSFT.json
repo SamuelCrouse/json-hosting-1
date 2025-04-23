@@ -12,6 +12,16 @@
                 "url": "https://finance.yahoo.com/news/microsoft-vs-oracle-cloud-stock-190000978.html"
             },
             {
+                "headline": "(Bloomberg) -- Just as Elon Musk launched his push to boost US government efficiency, Poland\u2019s prime minister turned to a local billionaire who revolutionized European logistics to lead his country\u2019s deregulation drive. Most Read from BloombergTrump Signs Executive Orders on Federal Purchasing, Office SpaceDOGE Places Entire Staff of Federal Homelessness Agency on LeaveHow Did This Suburb Figure Out Mass Transit?Why the Best Bike Lanes Always Get BlamedNashville\u2019s $3 Billion Transit Plan Brings",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.872",
+                "source": "Bloomberg",
+                "ticker": "MSFT",
+                "title": "Is This Poland\u2019s Elon Musk? Billionaire Declares War on Red Tape",
+                "url": "https://finance.yahoo.com/news/poland-elon-musk-billionaire-declares-122002004.html"
+            },
+            {
                 "headline": "With a better price performance and attractive valuation metrics, IBM is relatively better placed than MSFT at the moment.",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -20,16 +30,6 @@
                 "ticker": "MSFT",
                 "title": "IBM vs. Microsoft: Which Cloud Computing Stock is a Better Bet?",
                 "url": "https://finance.yahoo.com/news/ibm-vs-microsoft-cloud-computing-135400482.html"
-            },
-            {
-                "headline": "Fred Alger Management, an investment management company, released its \u201cAlger Spectra Fund\u201d first quarter 2025 investor letter. A copy of the letter can be downloaded here. In the first quarter, changing trade, monetary, and fiscal policies created increased volatility in U.S. stocks. The introduction of advanced artificial intelligence (AI) models from China was a further [\u2026]",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.802",
-                "source": "Insider Monkey",
-                "ticker": "MSFT",
-                "title": "Should You be Confident in Microsoft Corporation\u2019s (MSFT) Ability to Retain Leadership Position in AI?",
-                "url": "https://finance.yahoo.com/news/confident-microsoft-corporation-msft-ability-160007402.html"
             },
             {
                 "headline": "Microsoft Slashes Cloud Buildout Over Weak AI Demand",
@@ -62,7 +62,7 @@
                 "url": "https://finance.yahoo.com/video/definitely-buying-opportunities-tech-sell-145640214.html"
             }
         ],
-        "avgScore": 0.31976818181818184
+        "avgScore": 0.35294583333333335
     },
     "4 16 2025": {
         "importantArticles": [
@@ -87,14 +87,14 @@
                 "url": "https://finance.yahoo.com/news/microsoft-msft-best-machine-learning-215541345.html"
             },
             {
-                "headline": "TechInsights has released preliminary findings from its teardown analysis of NVIDIA's Blackwell HGX B200 platform, highlighting significant developments in cloud AI and high-performance computing. The report identifies SK hynix as the supplier of the high-bandwidth memory (HBM3E) used in the platform's GB100 GPU, which features an advanced packaging design by TSMC. This new architecture, which includes TSMC's CoWoS-L packaging, promises substantial performance improvements and represents...",
+                "headline": "Mag-7 stocks are in the deep correction zone now, and valuation is down to the pre-ChatGPT level. Although the group has fallen from grace, core strengths remain intact.",
                 "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.8176",
-                "source": "Simply Wall St.",
+                "sentimentScore": "0.5859",
+                "source": "Zacks",
                 "ticker": "MSFT",
-                "title": "Latest News In Cloud AI - NVIDIA Blackwell HGX B200 Platform Shaping AI's Future",
-                "url": "https://finance.yahoo.com/news/latest-news-cloud-ai-nvidia-123741326.html"
+                "title": "Should You Brace for Mag-7 ETFs Before It's Too Late?",
+                "url": "https://finance.yahoo.com/news/brace-mag-7-etfs-too-170000306.html"
             },
             {
                 "headline": "A Wall Street firm cut its price targets on Microsoft and 50 other software stocks on Tuesday, citing a weakening macroeconomic outlook.",
@@ -127,7 +127,7 @@
                 "url": "https://finance.yahoo.com/news/trump-promises-expedited-process-for-nvidias-us-supercomputer-plans-as-big-tech-pledges-top-16-trillion-173943856.html"
             }
         ],
-        "avgScore": 0.39143076923076925
+        "avgScore": 0.26916249999999997
     },
     "4 15 2025": {
         "importantArticles": [
@@ -142,6 +142,16 @@
                 "url": "https://finance.yahoo.com/news/microsoft-signs-large-carbon-removal-090352364.html"
             },
             {
+                "headline": "TechInsights has released preliminary findings from its teardown analysis of NVIDIA's Blackwell HGX B200 platform, highlighting significant developments in cloud AI and high-performance computing. The report identifies SK hynix as the supplier of the high-bandwidth memory (HBM3E) used in the platform's GB100 GPU, which features an advanced packaging design by TSMC. This new architecture, which includes TSMC's CoWoS-L packaging, promises substantial performance improvements and represents...",
+                "publication_date": "2025-04-15T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8176",
+                "source": "Simply Wall St.",
+                "ticker": "MSFT",
+                "title": "Latest News In Cloud AI - NVIDIA Blackwell HGX B200 Platform Shaping AI's Future",
+                "url": "https://finance.yahoo.com/news/latest-news-cloud-ai-nvidia-123741326.html"
+            },
+            {
                 "headline": "We recently published a list of the 13 Best Technology Dividend Stocks to Invest in. In this article, we are going to take a look at where Microsoft Corporation (NASDAQ:MSFT) stands against other best technology dividend stocks. There was a time when tech stocks drew investor interest purely for their growth potential. But more recently, [\u2026]",
                 "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -150,16 +160,6 @@
                 "ticker": "MSFT",
                 "title": "Is Microsoft Corporation (MSFT) the Best Technology Dividend Stock to Invest in?",
                 "url": "https://finance.yahoo.com/news/microsoft-corporation-msft-best-technology-131533889.html"
-            },
-            {
-                "headline": "Microsoft (NASDAQ:MSFT) CEO Satya Nadella isn't just celebrating the company's 50th birthday\u2014he's laying the groundwork for its next 50 years. And it starts with artificial intelligence taking center stage. Nadella believes the company is about to launch something as revolutionary as Excel or PowerPoint once were: its AI assistant, Copilot. The Inbox of the Future Might Not Look Like an Inbox at All Nadella recently sat down with GeekWire to reflect on the company\u2019s evolution. He traced Microsof",
-                "publication_date": "2025-04-15T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.2481",
-                "source": "Benzinga",
-                "ticker": "MSFT",
-                "title": "Satya Nadella Says AI Needs A 'New Type Of Inbox'\u2014And Believes Microsoft's Copilot Will Be As Big As Excel And PowerPoint",
-                "url": "https://finance.yahoo.com/news/satya-nadella-says-ai-needs-140107193.html"
             },
             {
                 "headline": "The S&P 500 (SNPINDEX: ^GSPC) is made up of 500 companies from 11 different economic sectors.  The information technology sector is the largest by a wide margin, representing 29.9% of the entire value of the index.  The S&P 500 recently suffered a peak-to-trough decline of 19%, falling just shy of the bear-market threshold of 20%.",
@@ -172,27 +172,27 @@
                 "url": "https://finance.yahoo.com/news/1-spectacular-vanguard-etf-buy-093400403.html"
             },
             {
-                "headline": "Big Tech thinks quantum computing will supercharge AI. First, it has to solve its biggest problem: scaling qubits.",
+                "headline": "Nvidia on Monday said it will soon design and build factories to produce Nvidia AI supercomputers \"entirely in the US.\"",
                 "publication_date": "2025-04-15T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.2263",
-                "source": "FastCompany",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Yahoo Finance",
                 "ticker": "MSFT",
-                "title": "Quantum computing could change science forever\u2014if it works",
-                "url": "https://finance.yahoo.com/news/quantum-computing-could-change-science-100000022.html"
+                "title": "Nvidia commits $500 billion to AI infrastructure buildout in US, will bring supercomputer production to Texas",
+                "url": "https://finance.yahoo.com/news/nvidia-commits-500-billion-to-ai-infrastructure-buildout-in-us-will-bring-supercomputer-production-to-texas-143540782.html"
             },
             {
-                "headline": "Microsoft (MSFT) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
+                "headline": "Microsoft (MSFT) concluded the recent trading session at $387.81, signifying a -0.16% move from its prior day's close.",
                 "publication_date": "2025-04-15T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.1621",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
                 "source": "Zacks",
                 "ticker": "MSFT",
-                "title": "Is Trending Stock Microsoft Corporation (MSFT) a Buy Now?",
-                "url": "https://finance.yahoo.com/news/trending-stock-microsoft-corporation-msft-130014724.html"
+                "title": "Microsoft (MSFT) Stock Slides as Market Rises: Facts to Know Before You Trade",
+                "url": "https://finance.yahoo.com/news/microsoft-msft-stock-slides-market-214515597.html"
             }
         ],
-        "avgScore": 0.12042727272727274
+        "avgScore": 0.37880833333333325
     },
     "4 14 2025": {
         "importantArticles": [
@@ -217,14 +217,14 @@
                 "url": "https://finance.yahoo.com/news/amazon-alphabet-bet-big-ai-224500163.html"
             },
             {
-                "headline": "Various comments from the Trump administration over the weekend regarding tariffs on consumer electronics hint at another chaotic week on Wall Street and in Washington.",
+                "headline": "Meta is preparing for the start of a courtroom battle Monday with the US government in an antitrust case that could force Mark Zuckerberg to break up his $1.3 trillion empire and sell one of its crown jewels: Instagram.",
                 "publication_date": "2025-04-14T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.4939",
-                "source": "The Wall Street Journal",
+                "sentiment": "Positive",
+                "sentimentScore": "0.1027",
+                "source": "Yahoo Finance",
                 "ticker": "MSFT",
-                "title": "Shifting Signals on Tech Tariffs Fuel Fresh Trade Uncertainty",
-                "url": "https://finance.yahoo.com/m/9544818b-4439-3c51-8cfe-b663dbdbf9f8/shifting-signals-on-tech.html"
+                "title": "Mark Zuckerberg's empire at stake as Meta prepares to battle Trump's antitrust cops in court",
+                "url": "https://finance.yahoo.com/news/mark-zuckerbergs-empire-at-stake-as-meta-prepares-to-battle-trumps-antitrust-cops-in-court-140019335.html"
             },
             {
                 "headline": "Kaspersky has recently found crypto-stealing malware disguised as a Microsoft Office package on SourceForge. While the malware primarily tricks users into sending crypto to bad actors, Kaspersky warns that the threat extends far beyond that. Thousands of users have encountered this scheme in the past three months. As crypto adoption grows, so too does interest from bad actors. In likely evidence of this trend, warnings of security threats have ramped up in recent weeks, from Threat Fabric\u2019s Croc",
@@ -247,17 +247,17 @@
                 "url": "https://finance.yahoo.com/m/9544818b-4439-3c51-8cfe-b663dbdbf9f8/shifting-signals-on-tech.html"
             },
             {
-                "headline": "While Microsoft has backed off some leases recently with its data center buildout, both Amazon (NASDAQ: AMZN) and Alphabet (NASDAQ: GOOGL) (NASDAQ: GOOG) look prepared to go full steam ahead.  Microsoft still plans to spend around $80 billion on infrastructure capital expenditures (capex) for artificial intelligence (AI) this fiscal year, but its fiscal year ends in June, only a couple of months from now.  For its part, OpenAI is looking to build out its own capacity; it's part of Project Stargate, which plans to spend $500 billion on AI data centers over the next few years.",
+                "headline": "Big Tech thinks quantum computing will supercharge AI. First, it has to solve its biggest problem: scaling qubits.",
                 "publication_date": "2025-04-14T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4404",
-                "source": "Motley Fool",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.2263",
+                "source": "FastCompany",
                 "ticker": "MSFT",
-                "title": "Amazon and Alphabet Bet Big on AI. Why History Says It's Time to Buy Both Stocks",
-                "url": "https://finance.yahoo.com/news/amazon-alphabet-bet-big-ai-224500163.html"
+                "title": "Quantum computing could change science forever\u2014if it works",
+                "url": "https://finance.yahoo.com/news/quantum-computing-could-change-science-100000022.html"
             }
         ],
-        "avgScore": -0.01319999999999999
+        "avgScore": -0.042312499999999975
     },
     "4 11 2025": {
         "importantArticles": [
@@ -272,6 +272,16 @@
                 "url": "https://finance.yahoo.com/video/diversified-mag-7-no-longer-153000531.html"
             },
             {
+                "headline": "We recently published a list of Long-Term Stock Portfolio: 15 Best Stocks for 15 Years. In this article, we are going to take a look at where Microsoft Corporation (NASDAQ:MSFT) stands against other best stocks for 15 years. Russell Investments believes that 3 features are defining the market outlook for 2025. These include the elevated [\u2026]",
+                "publication_date": "2025-04-11T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8555",
+                "source": "Insider Monkey",
+                "ticker": "MSFT",
+                "title": "Microsoft Corporation (MSFT) Is A Good Pick for A Long-Term Stock Portfolio",
+                "url": "https://finance.yahoo.com/news/microsoft-corporation-msft-good-pick-123146309.html"
+            },
+            {
                 "headline": "As markets celebrate Trump's 90-day pause on reciprocal tariffs, are Tesla, Amazon, NVIDIA, Alphabet, Amazon, Apple and Meta Platforms stocks worth buying now?",
                 "publication_date": "2025-04-11T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -280,16 +290,6 @@
                 "ticker": "MSFT",
                 "title": "Trump's Tariff Pause Triggers Epic Rally: How to Play Mag 7 Now",
                 "url": "https://finance.yahoo.com/news/trumps-tariff-pause-triggers-epic-134600633.html"
-            },
-            {
-                "headline": "AI models from OpenAI, Anthropic, and other top AI labs are increasingly being used to assist with programming tasks. Google CEO Sundar Pichai said in October that 25% of new code at the company is generated by AI, and Meta CEO Mark Zuckerberg has expressed ambitions to widely deploy AI coding models within the social media giant. Yet even some of the best models today struggle to resolve software bugs that wouldn't trip up experienced devs. A new study from Microsoft Research, Microsoft's R&D d",
-                "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.743",
-                "source": "TechCrunch",
-                "ticker": "MSFT",
-                "title": "AI models still struggle to debug software, Microsoft study shows",
-                "url": "https://finance.yahoo.com/news/ai-models-still-struggle-debug-191050638.html"
             },
             {
                 "headline": "Here's what could go wrong with Nvidia stock over the next five years and what might go right.  It's worth noting that Trump has backed off some tariff threats in the past, including a big concession on Wednesday.  For its part, Nvidia doesn't manufacture its processors in-house and instead relies mostly on Taiwan Semiconductor Manufacturing for that.",
@@ -322,7 +322,7 @@
                 "url": "https://finance.yahoo.com/news/microsoft-hit-capex-warnings-wedbush-183916625.html"
             }
         ],
-        "avgScore": 0.2557217391304348
+        "avgScore": 0.2611208333333333
     },
     "4 10 2025": {
         "importantArticles": [
@@ -367,16 +367,6 @@
                 "url": "https://finance.yahoo.com/m/24eb806e-1e5d-3b58-917b-390720595b5d/tariffs-are-still-coming-for.html"
             },
             {
-                "headline": "A threat actor tracked as Storm-2460 has used PipeMagic malware to facilitate the attacks.",
-                "publication_date": "2025-04-10T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.743",
-                "source": "Cybersecurity Dive",
-                "ticker": "MSFT",
-                "title": "Windows CLFS zero-day exploited in ransomware attacks",
-                "url": "https://finance.yahoo.com/news/windows-clfs-zero-day-exploited-120900255.html"
-            },
-            {
                 "headline": "(Bloomberg) -- Supply Lines is a daily newsletter that tracks global trade. Sign up here.US President Donald Trump may have announced a delay in some of his tariff plans, but the first signs of an economically-damaging slowdown in global trade are already emerging as companies around the world hit their own pause button on orders and he continues to escalate his trade war with China. Trump announced Wednesday that he would increase import duties on Chinese goods to 125% while also announcing a 9",
                 "publication_date": "2025-04-10T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -385,22 +375,22 @@
                 "ticker": "MSFT",
                 "title": "Trump is already slowing global trade as companies pause orders",
                 "url": "https://finance.yahoo.com/news/trump-already-slowing-global-trade-090000989.html"
+            },
+            {
+                "headline": "We recently published a list of 9 AI Stocks In Focus: Tariffs and Key Updates. In this article, we are going to take a look at where Microsoft Corporation (NASDAQ:MSFT)C stands against other AI stocks in focus. President Donald Trump\u2019s new tariff regimes have been introduced under the International Emergency Economic Powers Act. A 10% [\u2026]",
+                "publication_date": "2025-04-10T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.3818",
+                "source": "Insider Monkey",
+                "ticker": "MSFT",
+                "title": "Microsoft (MSFT) Remains a Safe AI Haven Despite Macroeconomic Downgrade",
+                "url": "https://finance.yahoo.com/news/microsoft-msft-remains-safe-ai-184122987.html"
             }
         ],
-        "avgScore": 0.10432400000000003
+        "avgScore": 0.18989090909090917
     },
     "4 9 2025": {
         "importantArticles": [
-            {
-                "headline": "Today, Microsoft shared the results of a new survey that shows that 56% of Latina moms who currently use AI agree that it is the \"member of their parental support village that they never thought they needed.\" For generations, many Latina moms have leaned on the wisdom and guidance passed down from their mothers and abuelas. But in today's geographically dispersed, tech-forward world, AI has emerged as a new member of that village, pairing the traditional wisdom of abuelas with the efficiency of",
-                "publication_date": "2025-04-09T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.9239",
-                "source": "PR Newswire",
-                "ticker": "MSFT",
-                "title": "Microsoft survey among Latina mothers explores the intersection of AI technology and modern-day motherhood",
-                "url": "https://finance.yahoo.com/news/microsoft-survey-among-latina-mothers-130000610.html"
-            },
             {
                 "headline": "We recently published a list of 10 Best Stocks to Buy According to Billionaire Steve Cohen. In this article, we are going to take a look at where Microsoft Corporation (NASDAQ:MSFT) stands against other best stocks to buy according to billionaire Steve Cohen. Steve Cohen, a prominent figure in the world of hedge funds, is [\u2026]",
                 "publication_date": "2025-04-09T00:00:00.000Z",
@@ -422,6 +412,16 @@
                 "url": "https://finance.yahoo.com/news/prediction-relentless-vanguard-etf-beat-081900346.html"
             },
             {
+                "headline": "The market is wobbling again, and the Magnificent Seven tech stocks are being swept along.    In recent trading, the stocks varied from a 1.3% loss for Apple to a near-2% gain for Nvidia.   The septet had added nearly $500 billion in market cap, according to Dow Jones Market Data, only for a large chunk of those gains to evaporate.",
+                "publication_date": "2025-04-09T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8126",
+                "source": "The Wall Street Journal",
+                "ticker": "MSFT",
+                "title": "Magnificent Seven Stocks Waver",
+                "url": "https://finance.yahoo.com/m/1b570e8c-73b5-3834-8543-ae33296257a2/magnificent-seven-stocks-waver.html"
+            },
+            {
                 "headline": "Microsoft Corp. (NASDAQ:MSFT) has reportedly fired two employees who disrupted the tech giant's 50th-anniversary event on Friday after protesting the company's contracts with Israel and accusing its AI CEO of war profiteering. What Happened: Ibtihal Aboussad and Vaniya Agrawal, both Microsoft employees, staged protests during the company's high-profile 50th-anniversary event in Redmond, Washington. Don\u2019t Miss: Inspired by Uber and Airbnb \u2013 Deloitte's fastest-growing software company is transform",
                 "publication_date": "2025-04-09T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -432,6 +432,16 @@
                 "url": "https://finance.yahoo.com/news/microsoft-fires-employee-protestors-disrupted-003042061.html"
             },
             {
+                "headline": "A threat actor tracked as Storm-2460 has used PipeMagic malware to facilitate the attacks.",
+                "publication_date": "2025-04-09T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.743",
+                "source": "Cybersecurity Dive",
+                "ticker": "MSFT",
+                "title": "Windows CLFS zero-day exploited in ransomware attacks",
+                "url": "https://finance.yahoo.com/news/windows-clfs-zero-day-exploited-120900255.html"
+            },
+            {
                 "headline": "Trump's tariffs have sent shockwaves through markets amid one of the largest three-day crashes since World War II.",
                 "publication_date": "2025-04-09T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -440,31 +450,21 @@
                 "ticker": "MSFT",
                 "title": "8 charts show the dramatic fallout from Trump\u2019s 'Liberation Day' announcement",
                 "url": "https://finance.yahoo.com/news/8-charts-show-the-dramatic-fallout-from-trumps-liberation-day-announcement-080053892.html"
-            },
-            {
-                "headline": "Lawmakers question whether cloud giants' deals with AI startups could hurt competition and lead to higher prices",
-                "publication_date": "2025-04-09T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.5267",
-                "source": "GuruFocus.com",
-                "ticker": "MSFT",
-                "title": "Microsoft, Google AI Ties Spark Antitrust Questions From Lawmakers",
-                "url": "https://finance.yahoo.com/news/microsoft-google-ai-ties-spark-200340245.html"
             }
         ],
-        "avgScore": 0.1790434782608695
+        "avgScore": 0.06775833333333327
     },
     "4 8 2025": {
         "importantArticles": [
             {
-                "headline": "Growth-driven exchange-traded funds (ETFs) -- like the Vanguard Growth ETF (NYSEMKT: VUG) -- have significantly outperformed the S&P 500.  With just a 0.04% expense ratio, the Vanguard Growth ETF is a great way to achieve exposure without racking up high fees.  The Vanguard Growth ETF made an all-time high in December and nearly broke through to a new high in February.",
+                "headline": "Today, Microsoft shared the results of a new survey that shows that 56% of Latina moms who currently use AI agree that it is the \"member of their parental support village that they never thought they needed.\" For generations, many Latina moms have leaned on the wisdom and guidance passed down from their mothers and abuelas. But in today's geographically dispersed, tech-forward world, AI has emerged as a new member of that village, pairing the traditional wisdom of abuelas with the efficiency of",
                 "publication_date": "2025-04-08T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.891",
-                "source": "Motley Fool",
+                "sentimentScore": "0.9239",
+                "source": "PR Newswire",
                 "ticker": "MSFT",
-                "title": "When Will the Ultra-Low-Cost Vanguard Growth ETF Return to Its Previous Highs?",
-                "url": "https://finance.yahoo.com/news/ultra-low-cost-vanguard-growth-123000845.html"
+                "title": "Microsoft survey among Latina mothers explores the intersection of AI technology and modern-day motherhood",
+                "url": "https://finance.yahoo.com/news/microsoft-survey-among-latina-mothers-130000610.html"
             },
             {
                 "headline": "We recently published a list of 10 Best Fundamental Stocks to Buy According to Billionaires. In this article, we are going to take a look at whereMicrosoft Corporation (NASDAQ: MSFT) stands against other best fundamental stocks to buy according to billionaires. As per Fitch Ratings, the US tariffs are now at levels that continue to [\u2026]",
@@ -517,10 +517,20 @@
                 "url": "https://finance.yahoo.com/news/europe-considers-tariffs-could-punish-193000321.html"
             }
         ],
-        "avgScore": 0.30976666666666675
+        "avgScore": 0.32625000000000004
     },
     "4 7 2025": {
         "importantArticles": [
+            {
+                "headline": "Growth-driven exchange-traded funds (ETFs) -- like the Vanguard Growth ETF (NYSEMKT: VUG) -- have significantly outperformed the S&P 500.  With just a 0.04% expense ratio, the Vanguard Growth ETF is a great way to achieve exposure without racking up high fees.  The Vanguard Growth ETF made an all-time high in December and nearly broke through to a new high in February.",
+                "publication_date": "2025-04-07T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.891",
+                "source": "Motley Fool",
+                "ticker": "MSFT",
+                "title": "When Will the Ultra-Low-Cost Vanguard Growth ETF Return to Its Previous Highs?",
+                "url": "https://finance.yahoo.com/news/ultra-low-cost-vanguard-growth-123000845.html"
+            },
             {
                 "headline": "Although recent\u00a0stock market volatility has pushed down prices for many stocks, the artificial intelligence (AI) sector remains a compelling investment, with the tremendous transformative potential it brings to many industries.  A newcomer to the AI space is the recent initial public offering (IPO)\u00a0CoreWeave (NASDAQ: CRWV).  The company went public on March 28, and AI semiconductor powerhouse Nvidia was among those that bought shares.",
                 "publication_date": "2025-04-07T00:00:00.000Z",
@@ -542,26 +552,6 @@
                 "url": "https://finance.yahoo.com/news/microsoft-corporation-msft-best-beginner-204202801.html"
             },
             {
-                "headline": "Microsoft (NASDAQ: MSFT), Apple, and Nvidia.  It has crushed the S&P 500 over the long term, gaining 342% over the last decade compared to 145% for the index.  The technology sector has grown in value by so much that it now makes up 29.6% of the S&P 500.",
-                "publication_date": "2025-04-07T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.34",
-                "source": "Motley Fool",
-                "ticker": "MSFT",
-                "title": "3 Beaten-Down Tech Stocks to Buy That Have Raised Their Dividends for 15 Years in a Row",
-                "url": "https://finance.yahoo.com/news/3-beaten-down-tech-stocks-110000427.html"
-            },
-            {
-                "headline": "The mostly forgotten former technology titan may quietly be sitting on the next big thing in AI's ongoing evolution.",
-                "publication_date": "2025-04-07T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.2263",
-                "source": "Motley Fool",
-                "ticker": "MSFT",
-                "title": "Pay Close Attention to This Crucial Revenue Source for Artificial Intelligence (AI) Giant IBM",
-                "url": "https://finance.yahoo.com/news/pay-close-attention-crucial-revenue-130000453.html"
-            },
-            {
                 "headline": "Microsoft's joint venture Wicresoft will cease its China operations from Tuesday, a move that will lead to the layoff of about 2,000 staff, Chinese media outlet Caijing reported on Monday, citing sources.  The move is in line with Microsoft's decision to stop outsourcing after-sales support in China to Wicresoft, according to Caijing, raising questions about how the U.S. tech firm will service China-based users of its Windows and Office products.  The report said the closure would lead to layoffs mainly in the 2,000-strong Microsoft outsourcing team in China.",
                 "publication_date": "2025-04-07T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -580,16 +570,51 @@
                 "ticker": "MSFT",
                 "title": "Microsoft releases AI-generated Quake II demo, but admits \u2018limitations\u2019",
                 "url": "https://finance.yahoo.com/news/microsoft-releases-ai-generated-quake-161024764.html"
+            },
+            {
+                "headline": "We recently published a list of Starter Stock Portfolio 12 Safe Stocks to Buy. In this article, we are going to take a look at where Microsoft Corporation (NASDAQ:MSFT) stands against other best beginner stocks. The US stock market has experienced a turbulent first quarter of 2025, marked by increased volatility and negative returns across [\u2026]",
+                "publication_date": "2025-04-07T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6705",
+                "source": "Insider Monkey",
+                "ticker": "MSFT",
+                "title": "Is Microsoft Corporation (MSFT) the Best Beginner Stock?",
+                "url": "https://finance.yahoo.com/news/microsoft-corporation-msft-best-beginner-204202801.html"
             }
         ],
-        "avgScore": 0.30826666666666663
+        "avgScore": 0.5253800000000001
     },
-    "coef": -0.06666666666666667,
-    "avgCoef": -0.02832177495067044,
+    "3 20 2025": {
+        "importantArticles": [
+            {
+                "headline": "Operant AI has unveiled its new product, AI Gatekeeper\u2122, which aims to enhance runtime protection for AI applications and agents across various deployment platforms, including Kubernetes and hybrid and private clouds. This innovative solution addresses emerging security challenges linked to the rapid deployment of AI models and the expanding use of non-traditional platforms such as Databricks and Snowflake. AI Gatekeeper focuses on securing AI systems against threats like rogue agents and...",
+                "publication_date": "2025-03-20T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.836",
+                "source": "Simply Wall St.",
+                "ticker": "MSFT",
+                "title": "Cloud AI Update - AI Security Innovation: Operant AI Unveils AI Gatekeeper",
+                "url": "https://finance.yahoo.com/news/cloud-ai-ai-security-innovation-123739130.html"
+            },
+            {
+                "headline": "Operant AI has unveiled its new product, AI Gatekeeper\u2122, which aims to enhance runtime protection for AI applications and agents across various deployment platforms, including Kubernetes and hybrid and private clouds. This innovative solution addresses emerging security challenges linked to the rapid deployment of AI models and the expanding use of non-traditional platforms such as Databricks and Snowflake. AI Gatekeeper focuses on securing AI systems against threats like rogue agents and...",
+                "publication_date": "2025-03-20T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.836",
+                "source": "Simply Wall St.",
+                "ticker": "MSFT",
+                "title": "Cloud AI Update - AI Security Innovation: Operant AI Unveils AI Gatekeeper",
+                "url": "https://finance.yahoo.com/news/cloud-ai-ai-security-innovation-123739130.html"
+            }
+        ],
+        "avgScore": 0.836
+    },
+    "coef": -0.04242424242424241,
+    "avgCoef": -0.05373651792088264,
     "similar": {
-        "KO": 0.8166666666666667,
-        "LCID": 0.6610936529170212,
-        "CSX": 0.6166666666666666,
-        "NKE": 0.5833333333333334
+        "HTZ": 0.43030303030303024,
+        "ACHR": 0.32121212121212117,
+        "UNH": 0.24848484848484845,
+        "ABEV": 0.19999999999999998
     }
 }

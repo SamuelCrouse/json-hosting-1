@@ -1,9 +1,9 @@
 {
-    "4 15 2025": {
+    "4 14 2025": {
         "importantArticles": [
             {
                 "headline": "Over the last 7 days, the United States market has risen by 5.8%, contributing to a 4.8% climb over the past year, with earnings forecasted to grow by 14% annually. In this dynamic environment, identifying strong dividend stocks like A-Mark Precious Metals can be a prudent strategy for investors seeking reliable income and potential growth opportunities.",
-                "publication_date": "2025-04-15T00:00:00.000Z",
+                "publication_date": "2025-04-14T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.9612",
                 "source": "Simply Wall St.",
@@ -13,7 +13,7 @@
             },
             {
                 "headline": "Over the last 7 days, the United States market has risen by 5.8%, contributing to a 4.8% climb over the past year, with earnings forecasted to grow by 14% annually. In this dynamic environment, identifying strong dividend stocks like A-Mark Precious Metals can be a prudent strategy for investors seeking reliable income and potential growth opportunities.",
-                "publication_date": "2025-04-15T00:00:00.000Z",
+                "publication_date": "2025-04-14T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.9612",
                 "source": "Simply Wall St.",
@@ -124,12 +124,12 @@
         ],
         "avgScore": 0.8555
     },
-    "coef": -0.6,
-    "avgCoef": -0.02186151136401141,
+    "coef": -0.3,
+    "avgCoef": -0.03985940439677205,
     "similar": {
-        "HTZ": 0.9999999999999999,
-        "ABEV": 0.7999999999999999,
-        "MP": 0.7,
-        "IAG": 0.49999999999999994
+        "TSLA": 0.8999999999999998,
+        "WBD": 0.7999999999999999,
+        "UAA": 0.7999999999999999,
+        "AUR": 0.7999999999999999
     }
 }

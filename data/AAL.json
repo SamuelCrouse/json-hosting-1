@@ -67,26 +67,6 @@
     "4 16 2025": {
         "importantArticles": [
             {
-                "headline": "American Airlines said on Tuesday it will provide free high-speed in-flight internet services beginning in January 2026 in partnership with AT&T.  Free onboard internet access has become a key battleground for airlines as they chase high-value loyal customers.  Two years ago, Delta Air Lines began offering free wireless internet to members of its frequent-flyer program.",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8834",
-                "source": "Reuters",
-                "ticker": "AAL",
-                "title": "American Airlines to start offering free in-flight Wi-Fi next year",
-                "url": "https://finance.yahoo.com/news/american-airlines-start-offering-free-101836164.html"
-            },
-            {
-                "headline": "Free high-speed Wi-Fi available exclusively to AAdvantage members beginning in January 2026 on more planes than any other domestic carrierDALLAS and FORT WORTH, Texas, April 15, 2025 (GLOBE NEWSWIRE) -- American Airlines and AT&T \u2014 two iconic American brands built on a legacy of connecting customers to the people and places that matter most \u2014 will take those connections to new heights, offering complimentary inflight Wi-Fi\u00b9 across more than 2 million American flights a year, beginning in January",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8374",
-                "source": "GlobeNewswire",
-                "ticker": "AAL",
-                "title": "Connecting the world: American Airlines to provide complimentary inflight Wi-Fi, sponsored by AT&T",
-                "url": "https://finance.yahoo.com/news/connecting-world-american-airlines-complimentary-100000869.html"
-            },
-            {
                 "headline": "Market Domination host Josh Lipton and ProShares global investment strategist Simeon Hyman take a closer look at some of today's trending tickers. Netflix (NFLX) stock is gaining after the Wall Street Journal reported the streaming giant is aiming for a $1 trillion market cap and to double revenue by 2030. Rocket Lab (RKLB) stock rises after announcing hypersonic business deals in the US and the UK. American Airlines (AAL) is partnering with AT&T (T) to bring free Wi-Fi to flights for rewards members. To watch more expert insights and analysis on the latest market action, check out more Market Domination here.",
                 "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -95,6 +75,26 @@
                 "ticker": "AAL",
                 "title": "Netflix, Rocket Lab, American Airlines: Trending Tickers",
                 "url": "https://finance.yahoo.com/video/netflix-rocket-lab-american-airlines-201941825.html"
+            },
+            {
+                "headline": "The airline will offer free Wi-Fi exclusively to AAdvantage loyalty program members on about 90% of its fleet by 2026.",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7783",
+                "source": "CX Dive",
+                "ticker": "AAL",
+                "title": "American Airlines looks to enhance in-flight experience with complimentary Wi-Fi",
+                "url": "https://finance.yahoo.com/news/american-airlines-looks-enhance-flight-070000651.html"
+            },
+            {
+                "headline": "The deal with AT will provide free in-flight internet to loyalty program members, beginning in January.",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7783",
+                "source": "The Wall Street Journal",
+                "ticker": "AAL",
+                "title": "American Airlines to Provide Free Wi-Fi, Joining Race to Court Connected Travelers",
+                "url": "https://finance.yahoo.com/news/american-airlines-free-wi-fi-113100633.html"
             },
             {
                 "headline": "American Airlines will soon offer free Wi-Fi on most of its flights, becoming the latest major carrier to add the perk.",
@@ -127,7 +127,52 @@
                 "url": "https://finance.yahoo.com/news/american-airlines-launch-free-wi-150639765.html"
             }
         ],
-        "avgScore": 0.7576250000000001
+        "avgScore": 0.7233666666666667
+    },
+    "4 15 2025": {
+        "importantArticles": [
+            {
+                "headline": "American Airlines said on Tuesday it will provide free high-speed in-flight internet services beginning in January 2026 in partnership with AT&T.  Free onboard internet access has become a key battleground for airlines as they chase high-value loyal customers.  Two years ago, Delta Air Lines began offering free wireless internet to members of its frequent-flyer program.",
+                "publication_date": "2025-04-15T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8834",
+                "source": "Reuters",
+                "ticker": "AAL",
+                "title": "American Airlines to start offering free in-flight Wi-Fi next year",
+                "url": "https://finance.yahoo.com/news/american-airlines-start-offering-free-101836164.html"
+            },
+            {
+                "headline": "Free high-speed Wi-Fi available exclusively to AAdvantage members beginning in January 2026 on more planes than any other domestic carrierDALLAS and FORT WORTH, Texas, April 15, 2025 (GLOBE NEWSWIRE) -- American Airlines and AT&T \u2014 two iconic American brands built on a legacy of connecting customers to the people and places that matter most \u2014 will take those connections to new heights, offering complimentary inflight Wi-Fi\u00b9 across more than 2 million American flights a year, beginning in January",
+                "publication_date": "2025-04-15T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8374",
+                "source": "GlobeNewswire",
+                "ticker": "AAL",
+                "title": "Connecting the world: American Airlines to provide complimentary inflight Wi-Fi, sponsored by AT&T",
+                "url": "https://finance.yahoo.com/news/connecting-world-american-airlines-complimentary-100000869.html"
+            },
+            {
+                "headline": "Free high-speed Wi-Fi available exclusively to AAdvantage members beginning in January 2026 on more planes than any other domestic carrierDALLAS and FORT WORTH, Texas, April 15, 2025 (GLOBE NEWSWIRE) -- American Airlines and AT&T \u2014 two iconic American brands built on a legacy of connecting customers to the people and places that matter most \u2014 will take those connections to new heights, offering complimentary inflight Wi-Fi\u00b9 across more than 2 million American flights a year, beginning in January",
+                "publication_date": "2025-04-15T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8374",
+                "source": "GlobeNewswire",
+                "ticker": "AAL",
+                "title": "Connecting the world: American Airlines to provide complimentary inflight Wi-Fi, sponsored by AT&T",
+                "url": "https://finance.yahoo.com/news/connecting-world-american-airlines-complimentary-100000869.html"
+            },
+            {
+                "headline": "American Airlines said on Tuesday it will provide free high-speed in-flight internet services beginning in January 2026 in partnership with AT&T.  Free onboard internet access has become a key battleground for airlines as they chase high-value loyal customers.  Two years ago, Delta Air Lines began offering free wireless internet to members of its frequent-flyer program.",
+                "publication_date": "2025-04-15T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8834",
+                "source": "Reuters",
+                "ticker": "AAL",
+                "title": "American Airlines to start offering free in-flight Wi-Fi next year",
+                "url": "https://finance.yahoo.com/news/american-airlines-start-offering-free-101836164.html"
+            }
+        ],
+        "avgScore": 0.8604
     },
     "4 14 2025": {
         "importantArticles": [
@@ -177,6 +222,26 @@
                 "url": "https://finance.yahoo.com/news/american-airlines-group-announces-webcast-140000811.html"
             },
             {
+                "headline": "We recently published a list of Traders Heavily Sold Down These 10 Stocks on Thursday. In this article, we are going to take a look at where American Airlines Group Inc. (NASDAQ:AAL) stands against other stocks that traders heavily sold down on Thursday. The stock market wiped away earlier gains, ending Thursday\u2019s trading in another [\u2026]",
+                "publication_date": "2025-04-11T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.34",
+                "source": "Insider Monkey",
+                "ticker": "AAL",
+                "title": "Why American Airlines Group Inc. (AAL) Went Down On Thursday?",
+                "url": "https://finance.yahoo.com/news/why-american-airlines-group-inc-094642974.html"
+            },
+            {
+                "headline": "We recently published a list of Traders Heavily Sold Down These 10 Stocks on Thursday. In this article, we are going to take a look at where American Airlines Group Inc. (NASDAQ:AAL) stands against other stocks that traders heavily sold down on Thursday. The stock market wiped away earlier gains, ending Thursday\u2019s trading in another [\u2026]",
+                "publication_date": "2025-04-11T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.34",
+                "source": "Insider Monkey",
+                "ticker": "AAL",
+                "title": "Why American Airlines Group Inc. (AAL) Went Down On Thursday?",
+                "url": "https://finance.yahoo.com/news/why-american-airlines-group-inc-094642974.html"
+            },
+            {
                 "headline": "FORT WORTH, Texas, April 10, 2025 (GLOBE NEWSWIRE) -- American Airlines Group (NASDAQ: AAL) will webcast a live audio feed of its first-quarter 2025 financial results conference call with financial analysts and journalists Thursday, April 24, at 7:30 a.m. CT. The webcast will be available to the public on a listen-only basis at aa.com/investorrelations. An archive of the call will be available on the website through May 24. About American Airlines GroupAs a leading global airline, American Airli",
                 "publication_date": "2025-04-11T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -197,7 +262,7 @@
                 "url": "https://finance.yahoo.com/news/strength-seen-american-airlines-aal-150000605.html"
             }
         ],
-        "avgScore": 0.46540000000000004
+        "avgScore": 0.42360000000000003
     },
     "4 10 2025": {
         "importantArticles": [
@@ -232,16 +297,6 @@
                 "url": "https://finance.yahoo.com/news/american-airlines-group-nasdaqgs-aal-181039792.html"
             },
             {
-                "headline": "Delta Air Lines delivered a beat on earnings per share while revenues missed analyst expectations as elements from a \"slower-growth\" Q1 clouded the airline's full-year guidance.",
-                "publication_date": "2025-04-10T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.0516",
-                "source": "Yahoo Finance",
-                "ticker": "AAL",
-                "title": "Delta stock pops after earnings beat, 'murky' outlook amid tariff uncertainty",
-                "url": "https://finance.yahoo.com/news/delta-stock-pops-after-earnings-beat-murky-outlook-amid-tariff-uncertainty-103227551.html"
-            },
-            {
                 "headline": "The most talked about and market moving research calls around Wall Street are now in one place. Here are today\u2019s research calls that investors need to know, as compiled by The Fly. Top 5 Upgrades: Melius Research upgraded Dollar General (DG) to Buy from Hold with a $110 price target. While the company had its own \u201cself-inflicted\u201d challenges and competitive challenges over the last 12 months, the firm believes it likely will benefit from a worsening macro environment and a lack of tariff exposure",
                 "publication_date": "2025-04-10T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -260,13 +315,33 @@
                 "ticker": "AAL",
                 "title": "Veteran trader focuses on American Airlines on analyst activity",
                 "url": "https://finance.yahoo.com/news/veteran-trader-focuses-american-airlines-233300267.html"
+            },
+            {
+                "headline": "American Airlines Group (NasdaqGS:AAL) has recently appointed Tony Richmond as Executive Vice President. While this leadership enhancement signifies the company's robust focus on legal and corporate governance, American Airlines stock fell 11.94% over the past week. This decline aligns with a broader market trend marked by heightened volatility and fears of economic slowdown due to new tariffs. The airline sector, although benefiting from Delta\u2019s favorable earnings report, faces headwinds...",
+                "publication_date": "2025-04-10T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4939",
+                "source": "Simply Wall St.",
+                "ticker": "AAL",
+                "title": "American Airlines Group (NasdaqGS:AAL) Sees 12% Price Drop Over Last Week",
+                "url": "https://finance.yahoo.com/news/american-airlines-group-nasdaqgs-aal-181039792.html"
             }
         ],
-        "avgScore": 0.34801666666666664
+        "avgScore": 0.42794
     },
     "4 9 2025": {
         "importantArticles": [
             {
+                "headline": "Delta Air Lines delivered a beat on earnings per share while revenues missed analyst expectations as elements from a \"slower-growth\" Q1 clouded the airline's full-year guidance.",
+                "publication_date": "2025-04-09T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.0516",
+                "source": "Yahoo Finance",
+                "ticker": "AAL",
+                "title": "Delta stock pops after earnings beat, 'murky' outlook amid tariff uncertainty",
+                "url": "https://finance.yahoo.com/news/delta-stock-pops-after-earnings-beat-murky-outlook-amid-tariff-uncertainty-103227551.html"
+            },
+            {
                 "headline": "Investing.com -- Goldman Sachs has taken a cautious outlook for U.S. airlines, warning that softening demand and rising economic uncertainty will weigh on the sector through 2025, and downgraded American Airlines (NASDAQ:AAL) to Sell from Neutral. Meanwhile, the brokerage upgraded SkyWest (NASDAQ:SKYW) to Buy, citing its relative insulation from the broader downturn.",
                 "publication_date": "2025-04-09T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -305,9 +380,19 @@
                 "ticker": "AAL",
                 "title": "Goldman downgrades American Airlines to Sell, upgrades SkyWest to Buy",
                 "url": "https://finance.yahoo.com/news/goldman-downgrades-american-airlines-sell-140820948.html"
+            },
+            {
+                "headline": "Delta Air Lines delivered a beat on earnings per share while revenues missed analyst expectations as elements from a \"slower-growth\" Q1 clouded the airline's full-year guidance.",
+                "publication_date": "2025-04-09T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.0516",
+                "source": "Yahoo Finance",
+                "ticker": "AAL",
+                "title": "Delta stock pops after earnings beat, 'murky' outlook amid tariff uncertainty",
+                "url": "https://finance.yahoo.com/news/delta-stock-pops-after-earnings-beat-murky-outlook-amid-tariff-uncertainty-103227551.html"
             }
         ],
-        "avgScore": -0.7207
+        "avgScore": -0.49766666666666665
     },
     "4 8 2025": {
         "importantArticles": [
@@ -353,31 +438,6 @@
             }
         ],
         "avgScore": 0.4728
-    },
-    "4 7 2025": {
-        "importantArticles": [
-            {
-                "headline": "Amid macroeconomic concerns, Delta Air Lines seems to be a more solid bet compared to its peer American Airlines for three fundamental reasons.",
-                "publication_date": "2025-04-07T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.2247",
-                "source": "GuruFocus.com",
-                "ticker": "AAL",
-                "title": "Delta Air Lines Vs. American Airlines: The Clear Winner For Turbulent Times",
-                "url": "https://finance.yahoo.com/news/delta-air-lines-vs-american-105619533.html"
-            },
-            {
-                "headline": "Amid macroeconomic concerns, Delta Air Lines seems to be a more solid bet compared to its peer American Airlines for three fundamental reasons.",
-                "publication_date": "2025-04-07T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.2247",
-                "source": "GuruFocus.com",
-                "ticker": "AAL",
-                "title": "Delta Air Lines Vs. American Airlines: The Clear Winner For Turbulent Times",
-                "url": "https://finance.yahoo.com/news/delta-air-lines-vs-american-105619533.html"
-            }
-        ],
-        "avgScore": 0.2247
     },
     "4 4 2025": {
         "importantArticles": [
@@ -494,6 +554,31 @@
         ],
         "avgScore": 0.5267
     },
+    "3 28 2025": {
+        "importantArticles": [
+            {
+                "headline": "As the Q4 earnings season wraps, let\u2019s dig into this quarter\u2019s best and worst performers in the travel and vacation providers industry, including Delta Air Lines (NYSE:DAL) and its peers.",
+                "publication_date": "2025-03-28T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0258",
+                "source": "StockStory",
+                "ticker": "AAL",
+                "title": "Travel and Vacation Providers Stocks Q4 Teardown: Delta Air Lines (NYSE:DAL) Vs The Rest",
+                "url": "https://finance.yahoo.com/news/travel-vacation-providers-stocks-q4-090723069.html"
+            },
+            {
+                "headline": "As the Q4 earnings season wraps, let\u2019s dig into this quarter\u2019s best and worst performers in the travel and vacation providers industry, including Delta Air Lines (NYSE:DAL) and its peers.",
+                "publication_date": "2025-03-28T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0258",
+                "source": "StockStory",
+                "ticker": "AAL",
+                "title": "Travel and Vacation Providers Stocks Q4 Teardown: Delta Air Lines (NYSE:DAL) Vs The Rest",
+                "url": "https://finance.yahoo.com/news/travel-vacation-providers-stocks-q4-090723069.html"
+            }
+        ],
+        "avgScore": 0.0258
+    },
     "3 27 2025": {
         "importantArticles": [
             {
@@ -522,16 +607,6 @@
     "3 21 2025": {
         "importantArticles": [
             {
-                "headline": "The end of the earnings season is always a good time to take a step back and see who shined (and who not so much). Let\u2019s take a look at how travel and vacation providers stocks fared in Q4, starting with Royal Caribbean (NYSE:RCL).",
-                "publication_date": "2025-03-21T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4404",
-                "source": "StockStory",
-                "ticker": "AAL",
-                "title": "Q4 Earnings Outperformers: Royal Caribbean (NYSE:RCL) And The Rest Of The Travel and Vacation Providers Stocks",
-                "url": "https://finance.yahoo.com/news/q4-earnings-outperformers-royal-caribbean-090550392.html"
-            },
-            {
                 "headline": "American Airlines (AAL) reachead $11.26 at the closing of the latest trading day, reflecting a -1.92% change compared to its last close.",
                 "publication_date": "2025-03-21T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -550,6 +625,16 @@
                 "ticker": "AAL",
                 "title": "American Airlines Stock Down 24.6% in a month: More Pain Ahead?",
                 "url": "https://finance.yahoo.com/news/american-airlines-stock-down-24-135700116.html"
+            },
+            {
+                "headline": "We recently published a list of the 15 NASDAQ Stocks with the Lowest P/E Ratios. In this article, we are going to take a look at where American Airlines Group Inc. (NASDAQ:AAL) stands against the other NASDAQ stocks. A Revised U.S. Economic Outlook At the start of the year, strategists and economists projected the U.S. [\u2026]",
+                "publication_date": "2025-03-21T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.3818",
+                "source": "Insider Monkey",
+                "ticker": "AAL",
+                "title": "American Airlines Group Inc. (NASDAQ:AAL): Among the Best NASDAQ Stocks with the Lowest P/E Ratios",
+                "url": "https://finance.yahoo.com/news/american-airlines-group-inc-nasdaq-154335607.html"
             },
             {
                 "headline": "We recently published a list of the 15 NASDAQ Stocks with the Lowest P/E Ratios. In this article, we are going to take a look at where American Airlines Group Inc. (NASDAQ:AAL) stands against the other NASDAQ stocks. A Revised U.S. Economic Outlook At the start of the year, strategists and economists projected the U.S. [\u2026]",
@@ -582,19 +667,19 @@
                 "url": "https://finance.yahoo.com/news/american-airlines-aal-dips-more-221514309.html"
             }
         ],
-        "avgScore": -0.07035
+        "avgScore": -0.2406
     },
     "3 20 2025": {
         "importantArticles": [
             {
-                "headline": "The end of an earnings season can be a great time to discover new stocks and assess how companies are handling the current business environment. Let\u2019s take a look at how American Airlines (NASDAQ:AAL) and the rest of the travel and vacation providers stocks fared in Q4.",
+                "headline": "The end of the earnings season is always a good time to take a step back and see who shined (and who not so much). Let\u2019s take a look at how travel and vacation providers stocks fared in Q4, starting with Royal Caribbean (NYSE:RCL).",
                 "publication_date": "2025-03-20T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.6249",
+                "sentimentScore": "0.4404",
                 "source": "StockStory",
                 "ticker": "AAL",
-                "title": "Travel and Vacation Providers Stocks Q4 Results: Benchmarking American Airlines (NASDAQ:AAL)",
-                "url": "https://finance.yahoo.com/news/travel-vacation-providers-stocks-q4-090239333.html"
+                "title": "Q4 Earnings Outperformers: Royal Caribbean (NYSE:RCL) And The Rest Of The Travel and Vacation Providers Stocks",
+                "url": "https://finance.yahoo.com/news/q4-earnings-outperformers-royal-caribbean-090550392.html"
             },
             {
                 "headline": "American Airlines (AAL) has taken a 35% beating so far in 2025, falling to record lows last seen 18 months ago. While lackluster guidance, looming tariffs, and pilot shortages weigh on investor sentiment, AAL\u2019s potential for record free cash flow this year and aggressive debt reduction tell a rather bullish story. With increasing travel demand, today\u2019s steep discount makes the stock a steal for patient investors who can withstand the ongoing turbulence to reach clearer skies later this year. I m",
@@ -617,17 +702,17 @@
                 "url": "https://finance.yahoo.com/news/down-35-2025-american-airlines-125726630.html"
             },
             {
-                "headline": "The end of an earnings season can be a great time to discover new stocks and assess how companies are handling the current business environment. Let\u2019s take a look at how American Airlines (NASDAQ:AAL) and the rest of the travel and vacation providers stocks fared in Q4.",
+                "headline": "The end of the earnings season is always a good time to take a step back and see who shined (and who not so much). Let\u2019s take a look at how travel and vacation providers stocks fared in Q4, starting with Royal Caribbean (NYSE:RCL).",
                 "publication_date": "2025-03-20T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.6249",
+                "sentimentScore": "0.4404",
                 "source": "StockStory",
                 "ticker": "AAL",
-                "title": "Travel and Vacation Providers Stocks Q4 Results: Benchmarking American Airlines (NASDAQ:AAL)",
-                "url": "https://finance.yahoo.com/news/travel-vacation-providers-stocks-q4-090239333.html"
+                "title": "Q4 Earnings Outperformers: Royal Caribbean (NYSE:RCL) And The Rest Of The Travel and Vacation Providers Stocks",
+                "url": "https://finance.yahoo.com/news/q4-earnings-outperformers-royal-caribbean-090550392.html"
             }
         ],
-        "avgScore": -0.12355
+        "avgScore": -0.2158
     },
     "3 19 2025": {
         "importantArticles": [
@@ -642,14 +727,14 @@
                 "url": "https://finance.yahoo.com/news/uatp-announces-launch-latest-issuer-120000579.html"
             },
             {
-                "headline": "American Airlines currently trades at $11.36 per share and has shown little upside over the past six months, posting a middling return of 3%.",
+                "headline": "The end of an earnings season can be a great time to discover new stocks and assess how companies are handling the current business environment. Let\u2019s take a look at how American Airlines (NASDAQ:AAL) and the rest of the travel and vacation providers stocks fared in Q4.",
                 "publication_date": "2025-03-19T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.296",
+                "sentimentScore": "0.6249",
                 "source": "StockStory",
                 "ticker": "AAL",
-                "title": "3 Reasons to Sell AAL and 1 Stock to Buy Instead",
-                "url": "https://finance.yahoo.com/news/3-reasons-sell-aal-1-091218113.html"
+                "title": "Travel and Vacation Providers Stocks Q4 Results: Benchmarking American Airlines (NASDAQ:AAL)",
+                "url": "https://finance.yahoo.com/news/travel-vacation-providers-stocks-q4-090239333.html"
             },
             {
                 "headline": "Citi's analyst takes a hard look at three major air carriers.",
@@ -682,24 +767,24 @@
                 "url": "https://finance.yahoo.com/news/analyst-reboots-delta-american-alaska-003300156.html"
             },
             {
-                "headline": "American Airlines currently trades at $11.36 per share and has shown little upside over the past six months, posting a middling return of 3%.",
+                "headline": "The end of an earnings season can be a great time to discover new stocks and assess how companies are handling the current business environment. Let\u2019s take a look at how American Airlines (NASDAQ:AAL) and the rest of the travel and vacation providers stocks fared in Q4.",
                 "publication_date": "2025-03-19T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.296",
+                "sentimentScore": "0.6249",
                 "source": "StockStory",
                 "ticker": "AAL",
-                "title": "3 Reasons to Sell AAL and 1 Stock to Buy Instead",
-                "url": "https://finance.yahoo.com/news/3-reasons-sell-aal-1-091218113.html"
+                "title": "Travel and Vacation Providers Stocks Q4 Results: Benchmarking American Airlines (NASDAQ:AAL)",
+                "url": "https://finance.yahoo.com/news/travel-vacation-providers-stocks-q4-090239333.html"
             }
         ],
-        "avgScore": 0.037774999999999975
+        "avgScore": 0.11999999999999997
     },
-    "coef": 0.3967830002623781,
-    "avgCoef": 0.010603344793549243,
+    "coef": 0.24576901429194614,
+    "avgCoef": -0.01987030458332556,
     "similar": {
-        "NU": 0.6380699598813919,
-        "UAA": 0.6162790697674417,
-        "BCS": 0.6112602977015015,
-        "NKE": 0.6005364328295454
+        "AA": 0.5621782243085235,
+        "PTEN": 0.5518765290986815,
+        "NU": 0.5459898461216289,
+        "VRN": 0.5106697482593132
     }
 }

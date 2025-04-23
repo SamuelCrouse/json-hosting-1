@@ -2,24 +2,14 @@
     "4 17 2025": {
         "importantArticles": [
             {
-                "headline": "HAL and Nabors' collaboration in Oman delivers first automated drilling solutions, improving operational efficiency, penetration rates and reducing non-productive time.",
+                "headline": "(Bloomberg) -- Shale fracker Liberty Energy Inc. posted its worst earnings in three years amid plunging oil prices and mounting concerns about energy demand.Most Read from BloombergTrump Signs Executive Orders on Federal Purchasing, Office SpaceDOGE Places Entire Staff of Federal Homelessness Agency on LeaveHow Did This Suburb Figure Out Mass Transit?Why the Best Bike Lanes Always Get BlamedNashville\u2019s $3 Billion Transit Plan Brings a Call for Zoning ReformAdjusted first-quarter profit fell to 4",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.7184",
-                "source": "Zacks",
-                "ticker": "HAL",
-                "title": "Halliburton & Nabors Unveil First Automated Drilling in Oman",
-                "url": "https://finance.yahoo.com/news/halliburton-nabors-unveil-first-automated-110200709.html"
-            },
-            {
-                "headline": "(Bloomberg) -- Energy Secretary Chris Wright says Donald Trump\u2019s administration is giving the \u201cgreen light\u201d to more US oil production, but the signal from the fracking company he used to run is flashing bright red.Most Read from BloombergHow Did This Suburb Figure Out Mass Transit?Trump Signs Executive Orders on Federal Purchasing, Office SpaceLA County Floats Leaner Budget Burdened by Fire and Legal CostsLiberty Energy Inc., which Wright led until his appointment to Trump\u2019s cabinet, has tumbled",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.431",
+                "sentimentScore": "0.8625",
                 "source": "Bloomberg",
                 "ticker": "HAL",
-                "title": "Trump energy boss\u2019s company plunging 40% is a warning for US oil production",
-                "url": "https://finance.yahoo.com/news/trump-energy-boss-company-plunging-100000589.html"
+                "title": "Fracker Liberty\u2019s Profit Falls to 3-Year Low as Oil Slumps",
+                "url": "https://finance.yahoo.com/news/fracker-liberty-profit-falls-3-224125279.html"
             },
             {
                 "headline": "Oceaneering International (OII) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
@@ -42,6 +32,16 @@
                 "url": "https://finance.yahoo.com/news/t-encourage-jim-cramer-refrains-020123506.html"
             },
             {
+                "headline": "We recently published a list of Jim Cramer Discussed These 12 Stocks Recently. In this article, we are going to take a look at where Halliburton Company (NYSE:HAL) stands against other stocks that Jim Cramer discussed recently. On Friday, Mad Money host Jim Cramer addressed growing concerns in the market as tensions between the United [\u2026]",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.34",
+                "source": "Insider Monkey",
+                "ticker": "HAL",
+                "title": "\u201cI Can\u2019t Encourage You There\u201d: Jim Cramer Refrains from Backing Halliburton (HAL) Amid Oil Pressure",
+                "url": "https://finance.yahoo.com/news/t-encourage-jim-cramer-refrains-020123506.html"
+            },
+            {
                 "headline": "Oceaneering International (OII) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -52,29 +52,39 @@
                 "url": "https://finance.yahoo.com/news/oceaneering-international-oii-earnings-expected-140055541.html"
             },
             {
-                "headline": "(Bloomberg) -- Energy Secretary Chris Wright says Donald Trump\u2019s administration is giving the \u201cgreen light\u201d to more US oil production, but the signal from the fracking company he used to run is flashing bright red.Most Read from BloombergHow Did This Suburb Figure Out Mass Transit?Trump Signs Executive Orders on Federal Purchasing, Office SpaceLA County Floats Leaner Budget Burdened by Fire and Legal CostsLiberty Energy Inc., which Wright led until his appointment to Trump\u2019s cabinet, has tumbled",
+                "headline": "(Bloomberg) -- Shale fracker Liberty Energy Inc. posted its worst earnings in three years amid plunging oil prices and mounting concerns about energy demand.Most Read from BloombergTrump Signs Executive Orders on Federal Purchasing, Office SpaceDOGE Places Entire Staff of Federal Homelessness Agency on LeaveHow Did This Suburb Figure Out Mass Transit?Why the Best Bike Lanes Always Get BlamedNashville\u2019s $3 Billion Transit Plan Brings a Call for Zoning ReformAdjusted first-quarter profit fell to 4",
                 "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8625",
+                "source": "Bloomberg",
+                "ticker": "HAL",
+                "title": "Fracker Liberty\u2019s Profit Falls to 3-Year Low as Oil Slumps",
+                "url": "https://finance.yahoo.com/news/fracker-liberty-profit-falls-3-224125279.html"
+            }
+        ],
+        "avgScore": 0.24959999999999996
+    },
+    "4 16 2025": {
+        "importantArticles": [
+            {
+                "headline": "HAL and Nabors' collaboration in Oman delivers first automated drilling solutions, improving operational efficiency, penetration rates and reducing non-productive time.",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7184",
+                "source": "Zacks",
+                "ticker": "HAL",
+                "title": "Halliburton & Nabors Unveil First Automated Drilling in Oman",
+                "url": "https://finance.yahoo.com/news/halliburton-nabors-unveil-first-automated-110200709.html"
+            },
+            {
+                "headline": "(Bloomberg) -- Energy Secretary Chris Wright says Donald Trump\u2019s administration is giving the \u201cgreen light\u201d to more US oil production, but the signal from the fracking company he used to run is flashing bright red.Most Read from BloombergHow Did This Suburb Figure Out Mass Transit?Trump Signs Executive Orders on Federal Purchasing, Office SpaceLA County Floats Leaner Budget Burdened by Fire and Legal CostsLiberty Energy Inc., which Wright led until his appointment to Trump\u2019s cabinet, has tumbled",
+                "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.431",
                 "source": "Bloomberg",
                 "ticker": "HAL",
                 "title": "Trump energy boss\u2019s company plunging 40% is a warning for US oil production",
                 "url": "https://finance.yahoo.com/news/trump-energy-boss-company-plunging-100000589.html"
-            }
-        ],
-        "avgScore": 0.25892499999999996
-    },
-    "4 16 2025": {
-        "importantArticles": [
-            {
-                "headline": "HOUSTON, April 15, 2025--Halliburton (NYSE: HAL) and Nabors Industries (NYSE: NBR) achieved the first fully automated surface and subsurface execution of rotary and slide drilling operations in Oman. The integration of the companies\u2019 digital solutions delivered land-based, closed-loop drilling solutions to improve operational efficiency, consistency, and real-time decision-making capabilities.",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7783",
-                "source": "Business Wire",
-                "ticker": "HAL",
-                "title": "Halliburton and Nabors Bring Drilling Automation to the Forefront in the Middle East",
-                "url": "https://finance.yahoo.com/news/halliburton-nabors-bring-drilling-automation-123000539.html"
             },
             {
                 "headline": "Halliburton (HAL) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
@@ -97,21 +107,41 @@
                 "url": "https://finance.yahoo.com/news/analysts-estimate-halliburton-hal-report-140040526.html"
             },
             {
-                "headline": "HOUSTON, April 15, 2025--Halliburton (NYSE: HAL) and Nabors Industries (NYSE: NBR) achieved the first fully automated surface and subsurface execution of rotary and slide drilling operations in Oman. The integration of the companies\u2019 digital solutions delivered land-based, closed-loop drilling solutions to improve operational efficiency, consistency, and real-time decision-making capabilities.",
+                "headline": "(Bloomberg) -- Energy Secretary Chris Wright says Donald Trump\u2019s administration is giving the \u201cgreen light\u201d to more US oil production, but the signal from the fracking company he used to run is flashing bright red.Most Read from BloombergHow Did This Suburb Figure Out Mass Transit?Trump Signs Executive Orders on Federal Purchasing, Office SpaceLA County Floats Leaner Budget Burdened by Fire and Legal CostsLiberty Energy Inc., which Wright led until his appointment to Trump\u2019s cabinet, has tumbled",
                 "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.7783",
-                "source": "Business Wire",
+                "sentimentScore": "0.431",
+                "source": "Bloomberg",
                 "ticker": "HAL",
-                "title": "Halliburton and Nabors Bring Drilling Automation to the Forefront in the Middle East",
-                "url": "https://finance.yahoo.com/news/halliburton-nabors-bring-drilling-automation-123000539.html"
+                "title": "Trump energy boss\u2019s company plunging 40% is a warning for US oil production",
+                "url": "https://finance.yahoo.com/news/trump-energy-boss-company-plunging-100000589.html"
+            },
+            {
+                "headline": "HAL and Nabors' collaboration in Oman delivers first automated drilling solutions, improving operational efficiency, penetration rates and reducing non-productive time.",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7184",
+                "source": "Zacks",
+                "ticker": "HAL",
+                "title": "Halliburton & Nabors Unveil First Automated Drilling in Oman",
+                "url": "https://finance.yahoo.com/news/halliburton-nabors-unveil-first-automated-110200709.html"
             }
         ],
-        "avgScore": 0.5023
+        "avgScore": 0.4585666666666666
     },
     "4 15 2025": {
         "importantArticles": [
             {
+                "headline": "HOUSTON, April 15, 2025--Halliburton (NYSE: HAL) and Nabors Industries (NYSE: NBR) achieved the first fully automated surface and subsurface execution of rotary and slide drilling operations in Oman. The integration of the companies\u2019 digital solutions delivered land-based, closed-loop drilling solutions to improve operational efficiency, consistency, and real-time decision-making capabilities.",
+                "publication_date": "2025-04-15T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7783",
+                "source": "Business Wire",
+                "ticker": "HAL",
+                "title": "Halliburton and Nabors Bring Drilling Automation to the Forefront in the Middle East",
+                "url": "https://finance.yahoo.com/news/halliburton-nabors-bring-drilling-automation-123000539.html"
+            },
+            {
                 "headline": "Halliburton\u2019s Neil Modeland, senior business technology development manager, shares insight into the company\u2019s electrification services and efforts to minimize associated completions costs in the \u00a0Haynesville Shale, in this Hart Energy Exclusive interview.",
                 "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -150,9 +180,19 @@
                 "ticker": "HAL",
                 "title": "Exclusive: Halliburton's E-Fleets Lower Haynesville Completions Costs",
                 "url": "https://finance.yahoo.com/news/exclusive-halliburtons-e-fleets-lower-180000207.html"
+            },
+            {
+                "headline": "HOUSTON, April 15, 2025--Halliburton (NYSE: HAL) and Nabors Industries (NYSE: NBR) achieved the first fully automated surface and subsurface execution of rotary and slide drilling operations in Oman. The integration of the companies\u2019 digital solutions delivered land-based, closed-loop drilling solutions to improve operational efficiency, consistency, and real-time decision-making capabilities.",
+                "publication_date": "2025-04-15T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7783",
+                "source": "Business Wire",
+                "ticker": "HAL",
+                "title": "Halliburton and Nabors Bring Drilling Automation to the Forefront in the Middle East",
+                "url": "https://finance.yahoo.com/news/halliburton-nabors-bring-drilling-automation-123000539.html"
             }
         ],
-        "avgScore": 0.54825
+        "avgScore": 0.6249333333333333
     },
     "4 11 2025": {
         "importantArticles": [
@@ -370,7 +410,7 @@
         "avgScore": 0.0
     },
     "coef": 0.13373921960961418,
-    "avgCoef": -0.028751621229706537,
+    "avgCoef": -0.04324565578438295,
     "similar": {
         "GRAB": 0.7416447632896789,
         "HLN": 0.6951219512195123,

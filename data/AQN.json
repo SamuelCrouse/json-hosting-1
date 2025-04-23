@@ -24,11 +24,11 @@
         ],
         "avgScore": 0.3182
     },
-    "4 8 2025": {
+    "4 7 2025": {
         "importantArticles": [
             {
                 "headline": "OAKVILLE, Ontario, April 07, 2025--Algonquin Power & Utilities Corp. (TSX/NYSE: AQN) (\"AQN\") today announced plans to release its first quarter 2025 financial results on Friday, May 9, 2025, before market open. AQN will hold an earnings conference call at 8:30 a.m. eastern time on Friday, May 9, 2025, hosted by Chief Executive Officer, Rod West, and Interim Chief Financial Officer and Vice President of Investor Relations, Brian Chin.",
-                "publication_date": "2025-04-08T00:00:00.000Z",
+                "publication_date": "2025-04-07T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
                 "source": "Business Wire",
@@ -38,7 +38,7 @@
             },
             {
                 "headline": "OAKVILLE, Ontario, April 07, 2025--Algonquin Power & Utilities Corp. (TSX/NYSE: AQN) (\"AQN\") today announced plans to release its first quarter 2025 financial results on Friday, May 9, 2025, before market open. AQN will hold an earnings conference call at 8:30 a.m. eastern time on Friday, May 9, 2025, hosted by Chief Executive Officer, Rod West, and Interim Chief Financial Officer and Vice President of Investor Relations, Brian Chin.",
-                "publication_date": "2025-04-08T00:00:00.000Z",
+                "publication_date": "2025-04-07T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
                 "source": "Business Wire",
@@ -49,12 +49,12 @@
         ],
         "avgScore": 0.0
     },
-    "coef": -0.9999999999999999,
-    "avgCoef": -0.028822068555271748,
+    "coef": 0.9999999999999999,
+    "avgCoef": -0.04727978902898772,
     "similar": {
-        "NVO": 0.9999999999999999,
-        "NIO": 0.9999999999999999,
-        "T": 0.9999999999999999,
-        "HLN": 0.9999999999999999
+        "SPY": 0.9999999999999999,
+        "NVDA": 0.9999999999999999,
+        "HTZ": 0.9999999999999999,
+        "F": 0.9999999999999999
     }
 }

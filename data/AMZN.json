@@ -2,16 +2,6 @@
     "4 17 2025": {
         "importantArticles": [
             {
-                "headline": "Discover the best credit cards to save money, earn rewards and travel smarter.",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.9442",
-                "source": "Yahoo Finance UK",
-                "ticker": "AMZN",
-                "title": "Best credit card deals of the week, 16 April",
-                "url": "https://finance.yahoo.com/news/best-credit-card-deals-093401129.html"
-            },
-            {
                 "headline": "Amazon.com (NasdaqGS:AMZN) experienced a price move of 5% over the last week, occurring amid significant collaboration announcements involving its subsidiary Amazon Web Services (AWS). A multi-year agreement with Clario on April 16 aims to enhance Clario's generative AI platform utilizing AWS technology, which may have supported positive sentiment. Additionally, JWP Connatix launched video solutions in the AWS Marketplace, highlighting AWS's expanding influence. Despite these advances, the...",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -32,14 +22,14 @@
                 "url": "https://finance.yahoo.com/news/amazon-com-inc-nasdaq-amzn-190119435.html"
             },
             {
-                "headline": "Trump's sweeping new tariffs have reignited recession fears, with analysts warning that a resulting pullback in ad spending could wipe out $45 billion from the US market \u2014 and potentially accelerate the decline of traditional TV.",
+                "headline": "CIBC lowered the firm\u2019s price target on Celestica (CLS) to $120 from $150 and keeps an Outperformer rating on the shares following quarterly results. The firm says that while it is encouraged by Google (GOOGL) and Amazon\u2019s (AMZN) 2025 Gen-AI related capex plans for datacenter buildouts that should benefit hardware suppliers including Celestica, what is less clear is the impact from U.S. export tariffs of 36% on Thailand, which is home to Celestica\u2019s second-largest manufacturing location. This is",
                 "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.7906",
-                "source": "Yahoo Finance",
+                "sentiment": "Positive",
+                "sentimentScore": "0.818",
+                "source": "TipRanks",
                 "ticker": "AMZN",
-                "title": "Television could go the way of newspapers if the US economy tips into recession, analyst warns",
-                "url": "https://finance.yahoo.com/news/television-could-go-the-way-of-newspapers-if-the-us-economy-tips-into-recession-analyst-warns-091448700.html"
+                "title": "Celestica price target lowered to $120 from $150 at CIBC",
+                "url": "https://finance.yahoo.com/news/celestica-price-target-lowered-120-150545221.html"
             },
             {
                 "headline": "We recently published a list of 10 Dirt Cheap Stocks To Invest In Now. In this article, we are going to take a look at where PDD Holdings Inc. (NASDAQ:PDD) stands against other dirt cheap stocks to invest in now. Investor\u2019s Guide to Navigating the Volatilitc The stock market has been experiencing volatility and has [\u2026]",
@@ -60,9 +50,19 @@
                 "ticker": "AMZN",
                 "title": "Nvidia's $5.5B charge: 'Nobody' should be 'surprised'",
                 "url": "https://finance.yahoo.com/video/nvidias-5-5b-charge-nobody-202431372.html"
+            },
+            {
+                "headline": "Within the largest companies in the sector, the players least affected by China risk are Alphabet and Meta Platforms.",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.167",
+                "source": "Barrons.com",
+                "ticker": "AMZN",
+                "title": "Big Tech\u2019s China Risks Go Far Beyond Nvidia",
+                "url": "https://finance.yahoo.com/m/2692b5d6-c2b2-3433-a74f-4e243c1ab630/big-tech%E2%80%99s-china-risks-go-far.html"
             }
         ],
-        "avgScore": 0.42361176470588235
+        "avgScore": 0.4608714285714286
     },
     "4 16 2025": {
         "importantArticles": [
@@ -77,24 +77,34 @@
                 "url": "https://finance.yahoo.com/news/every-purchase-matters-fair-trade-142200960.html"
             },
             {
-                "headline": "The market may feel like a roller coaster right now. These stocks are poised to weather the storm and make you wealthy for years beyond it.",
+                "headline": "Discover the best credit cards to save money, earn rewards and travel smarter.",
                 "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.7184",
-                "source": "Motley Fool",
+                "sentimentScore": "0.9442",
+                "source": "Yahoo Finance UK",
                 "ticker": "AMZN",
-                "title": "3 Stocks That Could Be Easy Wealth Builders",
-                "url": "https://finance.yahoo.com/news/3-stocks-could-easy-wealth-100500004.html"
+                "title": "Best credit card deals of the week, 16 April",
+                "url": "https://finance.yahoo.com/news/best-credit-card-deals-093401129.html"
             },
             {
-                "headline": "On one hand, it's understandable that Amazon's (NASDAQ: AMZN) share price fell as much as 29% below its previous high during the recent market sell-off.  After all, the company's e-commerce revenue could be at risk if tariffs lead to an economic decline that causes consumer spending to sink.  On the other hand, I'd argue that Amazon is more insulated from a faltering economy than meets the eye.",
+                "headline": "The stock market doesn't go up all the time.  With the S&P 500 index down by 8% year to date, President Donald Trump's tariff crisis could be an opportunity to buy quality stocks for cheap.  Let's explore why Amazon (NASDAQ: AMZN) and Super Micro (NASDAQ: SMCI) could make great bets.",
                 "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.7003",
+                "sentimentScore": "0.8126",
                 "source": "Motley Fool",
                 "ticker": "AMZN",
-                "title": "Stock Market Whiplash: 3 Growth Stocks That Are No-Brainer Buys on the Bounce",
-                "url": "https://finance.yahoo.com/news/stock-market-whiplash-3-growth-084500504.html"
+                "title": "2 Growth Stocks Down 20% or More to Buy Right Now",
+                "url": "https://finance.yahoo.com/news/2-growth-stocks-down-20-103000049.html"
+            },
+            {
+                "headline": "Trump's sweeping new tariffs have reignited recession fears, with analysts warning that a resulting pullback in ad spending could wipe out $45 billion from the US market \u2014 and potentially accelerate the decline of traditional TV.",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.7906",
+                "source": "Yahoo Finance",
+                "ticker": "AMZN",
+                "title": "Television could go the way of newspapers if the US economy tips into recession, analyst warns",
+                "url": "https://finance.yahoo.com/news/television-could-go-the-way-of-newspapers-if-the-us-economy-tips-into-recession-analyst-warns-091448700.html"
             },
             {
                 "headline": "We recently published a list of Jim Cramer\u2019s Game Plan: 15 Stocks to Watch. In this article, we are going to take a look at where Amazon.com, Inc. (NASDAQ:AMZN) stands against other stocks that Jim Cramer discusses. On Friday, Mad Money host Jim Cramer outlined what investors should focus on in the week, especially pointing [\u2026]",
@@ -115,19 +125,9 @@
                 "ticker": "AMZN",
                 "title": "Trump Ally Marjorie Taylor Greene\u00a0Bought Tesla, Amazon, Blackstone Before\u00a0Rally",
                 "url": "https://finance.yahoo.com/news/trump-ally-marjorie-taylor-greene-184112118.html"
-            },
-            {
-                "headline": "We recently published a list of 10 AI Stocks to Watch Amid Market Volatility. In this article, we are going to take a look at where Amazon.com Inc (NASDAQ:AMZN) stands against other AI stocks to watch amid market volatility. The uncertain macroeconomic environment is diminishing investors\u2019 readiness to pay high prices for stocks related to [\u2026]",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.1531",
-                "source": "Insider Monkey",
-                "ticker": "AMZN",
-                "title": "Amazon.com, Inc. (AMZN): Hit by Macro Fears, Still a Top Buy",
-                "url": "https://finance.yahoo.com/news/amazon-com-inc-amzn-hit-171748458.html"
             }
         ],
-        "avgScore": 0.26704999999999995
+        "avgScore": 0.22982499999999997
     },
     "4 15 2025": {
         "importantArticles": [
@@ -152,14 +152,14 @@
                 "url": "https://finance.yahoo.com/news/bullish-notes-issued-amazon-amzn-182741554.html"
             },
             {
-                "headline": "The space race is heating up, with Blue Origin, SpaceX (SPAX.PVT), Rocketlab, and Amazon (AMZN) Project Kuiper each making significant strides. Andrew Chanin, co-founder and CEO of ProcureAM, joins Catalysts to discuss new developments, competition, and diversification in the launch industry, as well as space race satellite companies to keep an eye on. To watch more expert insights and analysis on the latest market action, check out more Catalysts&nbsp;here.",
+                "headline": "The market may feel like a roller coaster right now. These stocks are poised to weather the storm and make you wealthy for years beyond it.",
                 "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.5574",
-                "source": "Yahoo Finance Video",
+                "sentimentScore": "0.7184",
+                "source": "Motley Fool",
                 "ticker": "AMZN",
-                "title": "Space race investing: What to know about the growing sector",
-                "url": "https://finance.yahoo.com/video/space-race-investing-know-growing-201109117.html"
+                "title": "3 Stocks That Could Be Easy Wealth Builders",
+                "url": "https://finance.yahoo.com/news/3-stocks-could-easy-wealth-100500004.html"
             },
             {
                 "headline": "Investing.com -- Citi has trimmed target prices (TPs) and earnings projections for several U.S. internet stocks amid the negative effects of recently imposed tariffs, more limited macro visibility, and a weakening outlook for online advertising.",
@@ -192,20 +192,10 @@
                 "url": "https://finance.yahoo.com/news/amazon-amzn-stock-sinks-market-214517709.html"
             }
         ],
-        "avgScore": 0.3468555555555556
+        "avgScore": 0.41960909090909093
     },
     "4 14 2025": {
         "importantArticles": [
-            {
-                "headline": "With the stock market whipsawing amid to on-again, off-again tariffs, now is a great time scoop up some great stocks at discounted prices.  Nvidia's (NASDAQ: NVDA) graphics processing units (GPUs) have become the backbone of AI infrastructure due to their superior processing capabilities that are ideal for running AI workloads.  Meanwhile, the company's CUDA software platform has created a wide moat for the company in the GPU space due to how easily it allows developers to program its chips for various AI tasks.",
-                "publication_date": "2025-04-14T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.9652",
-                "source": "Motley Fool",
-                "ticker": "AMZN",
-                "title": "4 Monster Stocks to Hold for the Next 10 Years",
-                "url": "https://finance.yahoo.com/news/4-monster-stocks-hold-next-083500913.html"
-            },
             {
                 "headline": "We recently published a list of 30 Best AI Stocks to Buy According to Billionaires. In this article, we are going to take a look at where Amazon.com, Inc. (NASDAQ:AMZN) stands against other best AI stocks to buy according to billionaires. The optimism around the United States economy over the past few months, largely due [\u2026]",
                 "publication_date": "2025-04-14T00:00:00.000Z",
@@ -215,6 +205,16 @@
                 "ticker": "AMZN",
                 "title": "Amazon.com (AMZN) Bets $8B on Anthropic, Expands AI in AWS & Shopping",
                 "url": "https://finance.yahoo.com/news/amazon-com-amzn-bets-8b-175759088.html"
+            },
+            {
+                "headline": "Google parent Alphabet (NASDAQ: GOOG) (NASDAQ: GOOGL) appears to be in a strong position to weather the current storm.  Its cash position is nearly $96.7 billion.  Alphabet makes most of its money from advertising on Google Search and other apps.",
+                "publication_date": "2025-04-14T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5106",
+                "source": "Motley Fool",
+                "ticker": "AMZN",
+                "title": "3 Beaten-Down \"Magnificent Seven\" Stocks to Buy and Hold",
+                "url": "https://finance.yahoo.com/news/3-beaten-down-magnificent-seven-085100691.html"
             },
             {
                 "headline": "While Microsoft has backed off some leases recently with its data center buildout, both Amazon (NASDAQ: AMZN) and Alphabet (NASDAQ: GOOGL) (NASDAQ: GOOG) look prepared to go full steam ahead.  Microsoft still plans to spend around $80 billion on infrastructure capital expenditures (capex) for artificial intelligence (AI) this fiscal year, but its fiscal year ends in June, only a couple of months from now.  For its part, OpenAI is looking to build out its own capacity; it's part of Project Stargate, which plans to spend $500 billion on AI data centers over the next few years.",
@@ -257,7 +257,7 @@
                 "url": "https://finance.yahoo.com/news/amazon-alphabet-bet-big-ai-224500163.html"
             }
         ],
-        "avgScore": 0.39093999999999995
+        "avgScore": 0.30002000000000006
     },
     "4 11 2025": {
         "importantArticles": [
@@ -272,24 +272,34 @@
                 "url": "https://finance.yahoo.com/news/amazon-ceo-andy-jassy-urges-160136603.html"
             },
             {
-                "headline": "Amazon chief executive Andy Jassy on Thursday justified the company's billions of dollars in outlays for artificial intelligence development, saying the investment was necessary to remain competitive.  \"If your mission is to make customers' lives better and easier every day, and you believe every customer experience will be reinvented by AI, you're going to invest deeply and broadly in AI,\" Jassy wrote in his letter to shareholders, an annual rite of passage for the top boss at the Seattle retailer.  He said substantial capital investment is necessary to obtain AI chips and build data centers.",
+                "headline": "The \"Magnificent Seven\" has long since dominated markets (^GSPC,&nbsp;^IXIC,&nbsp;^DJI) and investor focus, but that dominance may not last forever. Northwestern Mutual Wealth Management Company chief investment officer Brent Schutte joins Morning Brief to discuss the importance of diversifying investments and the likelihood that new leaders will emerge in the market in the coming years. To watch more expert insights and analysis on the latest market action, check out more Morning Brief&nbsp;here.",
                 "publication_date": "2025-04-11T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.9382",
-                "source": "Reuters",
+                "sentimentScore": "0.9042",
+                "source": "Yahoo Finance Video",
                 "ticker": "AMZN",
-                "title": "Amazon CEO sets out AI investment mission in annual shareholder letter",
-                "url": "https://finance.yahoo.com/news/amazon-ceo-sets-ai-investment-110953466.html"
+                "title": "Get diversified: 'Mag 7 will no longer be the Mag 7' in 5 years",
+                "url": "https://finance.yahoo.com/video/diversified-mag-7-no-longer-153000531.html"
             },
             {
-                "headline": "It can be discouraging to see your stocks suddenly drop in value, but stock prices don't always match up with a company's long-term value.  Warren Buffett made his fortune by investing in companies when they were selling at discounted prices to what they were ultimately worth.  History has shown repeatedly that investors get their best returns buying shares of quality companies during bear markets.",
+                "headline": "Artificial intelligence (AI) stocks, in particular, have been slammed as investors move their money from risky stocks to more conservative investments.  The two stocks I'm confident will be worth far more five years from now are Amazon (NASDAQ: AMZN) and Alphabet (NASDAQ: GOOG) (NASDAQ: GOOGL).  Amazon is the leader in e-commerce and sources a substantial amount of goods from China, which was a major tariff target.",
                 "publication_date": "2025-04-11T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.9267",
+                "sentimentScore": "0.8625",
                 "source": "Motley Fool",
                 "ticker": "AMZN",
-                "title": "2 Growth Stocks to Buy and Hold Forever",
-                "url": "https://finance.yahoo.com/news/2-growth-stocks-buy-hold-104500149.html"
+                "title": "2 Artificial Intelligence (AI) Stocks Poised for Big Gains in the Next 5 Years",
+                "url": "https://finance.yahoo.com/news/2-artificial-intelligence-ai-stocks-111500007.html"
+            },
+            {
+                "headline": "At the same time, investors might want to be a little cautious given the uncertainty over the effects that the Trump administration's on-again, off-again tariffs might have on the global economy.  As the leading e-commerce retailer in the world, Amazon (NASDAQ: AMZN) will no doubt be affected by tariffs.  In May, the Trump Administration will also close the \"de minimus\" loophole that these companies have used to avoid duties.",
+                "publication_date": "2025-04-11T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.791",
+                "source": "Motley Fool",
+                "ticker": "AMZN",
+                "title": "My 2 Favorite Stocks to Buy Right Now",
+                "url": "https://finance.yahoo.com/news/2-favorite-stocks-buy-now-082000221.html"
             },
             {
                 "headline": "(Bloomberg) -- International Business Machines Corp. spent months revising its diversity initiatives as conservative attacks and souring attitudes toward DEI shifted into a full-blown assault from President Donald Trump.Most Read from BloombergMidtown Office Building Evacuated on Concerns of Wall CollapseIn Chicago, a Former Steel Mill Looks to Make a Quantum LeapThe Secret Formula for Faster TrainsHelicopter Crashes Into Hudson River With Multiple FatalitiesInside the Quiet, Extravagant Expansi",
@@ -310,41 +320,31 @@
                 "ticker": "AMZN",
                 "title": "Amazon CEO Sidesteps TikTok Bid Question, Cites Policy Against M&A Comments",
                 "url": "https://finance.yahoo.com/news/amazon-ceo-denies-company-made-191854446.html"
-            },
-            {
-                "headline": "(Bloomberg) -- Supply Lines is a daily newsletter that tracks global trade. Sign up here.US President Donald Trump may have announced a delay in some of his tariff plans, but the first signs of an economically-damaging slowdown in global trade are already emerging as companies around the world hit their own pause button on orders and he continues to escalate his trade war with China. Trump announced Wednesday that he would increase import duties on Chinese goods to 125% while also announcing a 9",
-                "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.6187",
-                "source": "Bloomberg",
-                "ticker": "AMZN",
-                "title": "Trump is already slowing global trade as companies pause orders",
-                "url": "https://finance.yahoo.com/news/trump-already-slowing-global-trade-090000989.html"
             }
         ],
-        "avgScore": 0.2544365384615386
+        "avgScore": 0.19608653846153853
     },
     "4 10 2025": {
         "importantArticles": [
             {
-                "headline": "Discover the best credit cards to save money, earn rewards and travel smarter.",
+                "headline": "Amazon chief executive Andy Jassy on Thursday justified the company's billions of dollars in outlays for artificial intelligence development, saying the investment was necessary to remain competitive.  \"If your mission is to make customers' lives better and easier every day, and you believe every customer experience will be reinvented by AI, you're going to invest deeply and broadly in AI,\" Jassy wrote in his letter to shareholders, an annual rite of passage for the top boss at the Seattle retailer.  He said substantial capital investment is necessary to obtain AI chips and build data centers.",
                 "publication_date": "2025-04-10T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.9442",
-                "source": "Yahoo Finance UK",
+                "sentimentScore": "0.9382",
+                "source": "Reuters",
                 "ticker": "AMZN",
-                "title": "Best credit card deals of the week, 9 April",
-                "url": "https://finance.yahoo.com/news/best-credit-card-deals-101428083.html"
+                "title": "Amazon CEO sets out AI investment mission in annual shareholder letter",
+                "url": "https://finance.yahoo.com/news/amazon-ceo-sets-ai-investment-110953905.html"
             },
             {
-                "headline": "Retail investors have a great opportunity to join the smart money right now.",
+                "headline": "It can be discouraging to see your stocks suddenly drop in value, but stock prices don't always match up with a company's long-term value.  Warren Buffett made his fortune by investing in companies when they were selling at discounted prices to what they were ultimately worth.  History has shown repeatedly that investors get their best returns buying shares of quality companies during bear markets.",
                 "publication_date": "2025-04-10T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.8957",
+                "sentimentScore": "0.9267",
                 "source": "Motley Fool",
                 "ticker": "AMZN",
-                "title": "Warren Buffett and 8 Other Billionaires Have $8.5 Billion Invested in This Incredible Stock",
-                "url": "https://finance.yahoo.com/news/warren-buffett-8-other-billionaires-083000988.html"
+                "title": "2 Growth Stocks to Buy and Hold Forever",
+                "url": "https://finance.yahoo.com/news/2-growth-stocks-buy-hold-104500149.html"
             },
             {
                 "headline": "The recent sell-off has left few stocks unscathed, including \"Magnificent Seven\" stocks such as Amazon (NASDAQ: AMZN).  Let's take a closer look at Amazon's businesses and financials to see if the stock could still be a winner this year.  It may surprise some investors to learn that the online sales enterprise is likely not a compelling reason to buy Amazon stock.",
@@ -357,6 +357,16 @@
                 "url": "https://finance.yahoo.com/news/amazon-stock-buy-sell-hold-224100015.html"
             },
             {
+                "headline": "(Bloomberg) -- Supply Lines is a daily newsletter that tracks global trade. Sign up here.US President Donald Trump may have announced a delay in some of his tariff plans, but the first signs of an economically-damaging slowdown in global trade are already emerging as companies around the world hit their own pause button on orders and he continues to escalate his trade war with China. Trump announced Wednesday that he would increase import duties on Chinese goods to 125% while also announcing a 9",
+                "publication_date": "2025-04-10T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.6187",
+                "source": "Bloomberg",
+                "ticker": "AMZN",
+                "title": "Trump is already slowing global trade as companies pause orders",
+                "url": "https://finance.yahoo.com/news/trump-already-slowing-global-trade-090000989.html"
+            },
+            {
                 "headline": "According to Bloomberg, the vendors received no warning of the cancellations, which occurred after President Trump's \"Liberation Day\" announcement.",
                 "publication_date": "2025-04-10T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -365,16 +375,6 @@
                 "ticker": "AMZN",
                 "title": "Amazon Pulls Plug on Some China Orders, Footing Vendors with Tariff\u00a0Bill",
                 "url": "https://finance.yahoo.com/news/amazon-pulls-plug-china-orders-204803144.html"
-            },
-            {
-                "headline": "Now is not the time to panic. Now is the time to make rational decisions for your stock portfolio.",
-                "publication_date": "2025-04-10T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.5106",
-                "source": "Motley Fool",
-                "ticker": "AMZN",
-                "title": "Stock Market Sell-Off: The 3 Best Stocks to Buy Right Now",
-                "url": "https://finance.yahoo.com/news/stock-market-sell-off-3-094000313.html"
             },
             {
                 "headline": "Amazon (AMZN) is canceling some wholesale orders from Asia that it directly imports and ships to its warehouses as it begins to respond to President Donald Trump\u2019s trade war, according to a new report.",
@@ -387,10 +387,30 @@
                 "url": "https://finance.yahoo.com/news/amazon-already-appears-cutting-back-171100250.html"
             }
         ],
-        "avgScore": 0.15964864864864864
+        "avgScore": 0.17256000000000005
     },
     "4 9 2025": {
         "importantArticles": [
+            {
+                "headline": "Discover the best credit cards to save money, earn rewards and travel smarter.",
+                "publication_date": "2025-04-09T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9442",
+                "source": "Yahoo Finance UK",
+                "ticker": "AMZN",
+                "title": "Best credit card deals of the week, 9 April",
+                "url": "https://finance.yahoo.com/news/best-credit-card-deals-101428083.html"
+            },
+            {
+                "headline": "Retail investors have a great opportunity to join the smart money right now.",
+                "publication_date": "2025-04-09T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8957",
+                "source": "Motley Fool",
+                "ticker": "AMZN",
+                "title": "Warren Buffett and 8 Other Billionaires Have $8.5 Billion Invested in This Incredible Stock",
+                "url": "https://finance.yahoo.com/news/warren-buffett-8-other-billionaires-083000988.html"
+            },
             {
                 "headline": "We recently published a list of 10 Best Stocks to Buy According to Billionaire Steve Cohen. In this article, we are going to take a look at where Amazon.com, Inc. (NASDAQ:AMZN) stands against other best stocks to buy according to billionaire Steve Cohen. Steve Cohen, a prominent figure in the world of hedge funds, is [\u2026]",
                 "publication_date": "2025-04-09T00:00:00.000Z",
@@ -400,26 +420,6 @@
                 "ticker": "AMZN",
                 "title": "Is Amazon.com, Inc. (AMZN) the Best Stock to Buy According to Billionaire Steve Cohen?",
                 "url": "https://finance.yahoo.com/news/amazon-com-inc-amzn-best-221146630.html"
-            },
-            {
-                "headline": "We recently published a list of 13 Best Big Data Stocks to Buy According to Analysts. In this article, we are going to take a look at where Amazon.com, Inc. (NASDAQ:AMZN) stands against other best big data stocks to buy according to analysts. The big data companies focus on collecting, storing, and analyzing huge amounts [\u2026]",
-                "publication_date": "2025-04-09T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8934",
-                "source": "Insider Monkey",
-                "ticker": "AMZN",
-                "title": "Is Amazon.com, Inc. (AMZN) the Best Big Data Stock to Buy According to Analysts?",
-                "url": "https://finance.yahoo.com/news/amazon-com-inc-amzn-best-180552690.html"
-            },
-            {
-                "headline": "The market is wobbling again, and the Magnificent Seven tech stocks are being swept along.    In recent trading, the stocks varied from a 1.3% loss for Apple to a near-2% gain for Nvidia.   The septet had added nearly $500 billion in market cap, according to Dow Jones Market Data, only for a large chunk of those gains to evaporate.",
-                "publication_date": "2025-04-09T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8126",
-                "source": "The Wall Street Journal",
-                "ticker": "AMZN",
-                "title": "Magnificent Seven Stocks Waver",
-                "url": "https://finance.yahoo.com/m/1b570e8c-73b5-3834-8543-ae33296257a2/magnificent-seven-stocks-waver.html"
             },
             {
                 "headline": "Tariffs are once again flooding the headlines. They're in your newsfeed, your inbox, and probably your group chat. The Trump administration's sweeping new import taxes\u2014set to hit everything from electronics to apparel\u2014are back in the spotlight, and of course, billionaire entrepreneur Mark Cuban has thoughts. Spoiler: he's not shy about sharing them. \"If these tariffs stick, it's going to be ugly for Amazon, but incredible for all the American sellers,\" Cuban posted on Bluesky. That post lit a fu",
@@ -442,24 +442,24 @@
                 "url": "https://finance.yahoo.com/m/0d170e44-211e-3574-9ade-21270262e2bd/meta-amazon-stock-price.html"
             },
             {
-                "headline": "JPMorgan slashed its price targets on 25 companies in the internet space, citing macroeconomic issues, Schwab Network recently reported. Among the most prominent names whose price targets were slashed by the bank are Meta (META), Amazon (AMZN), Alphabet (GOOG), and Netflix (NFLX). Some of the Highest-Profile Target Cuts The bank reduced its price target on [\u2026]",
+                "headline": "Now is not the time to panic. Now is the time to make rational decisions for your stock portfolio.",
                 "publication_date": "2025-04-09T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.1796",
-                "source": "Insider Monkey",
+                "sentimentScore": "-0.5106",
+                "source": "Motley Fool",
                 "ticker": "AMZN",
-                "title": "JPMorgan Cuts Its Price Targets on Many Internet Names, Including META and AMZN",
-                "url": "https://finance.yahoo.com/news/jpmorgan-cuts-price-targets-many-163010128.html"
+                "title": "Stock Market Sell-Off: The 3 Best Stocks to Buy Right Now",
+                "url": "https://finance.yahoo.com/news/stock-market-sell-off-3-094000313.html"
             }
         ],
-        "avgScore": 0.32567333333333337
+        "avgScore": 0.3185304347826087
     },
-    "coef": -0.5,
-    "avgCoef": 0.02037845291783645,
+    "coef": -0.7500000000000002,
+    "avgCoef": -0.021802468014816424,
     "similar": {
+        "HTZ": 0.42857142857142866,
         "ABEV": 0.42857142857142866,
-        "TTD": 0.42857142857142866,
-        "UAA": 0.36037498507822363,
-        "HIMS": 0.3571428571428572
+        "TTD": 0.21428571428571433,
+        "AUR": 0.1785714285714286
     }
 }

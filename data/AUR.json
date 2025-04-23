@@ -24,11 +24,11 @@
         ],
         "avgScore": 0.3818
     },
-    "3 25 2025": {
+    "3 26 2025": {
         "importantArticles": [
             {
                 "headline": "PITTSBURGH, March 25, 2025--Aurora Innovation (NASDAQ: AUR), the leader in autonomous trucking, released a thorough Driverless Safety Report that includes details on the company\u2019s approach to safety engineering, cybersecurity, risk management, and more. Aurora is now in final preparations to launch its commercial self-driving trucking service in Texas.",
-                "publication_date": "2025-03-25T00:00:00.000Z",
+                "publication_date": "2025-03-26T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.7269",
                 "source": "Business Wire",
@@ -38,7 +38,7 @@
             },
             {
                 "headline": "PITTSBURGH, March 25, 2025--Aurora Innovation (NASDAQ: AUR), the leader in autonomous trucking, released a thorough Driverless Safety Report that includes details on the company\u2019s approach to safety engineering, cybersecurity, risk management, and more. Aurora is now in final preparations to launch its commercial self-driving trucking service in Texas.",
-                "publication_date": "2025-03-25T00:00:00.000Z",
+                "publication_date": "2025-03-26T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.7269",
                 "source": "Business Wire",
@@ -49,12 +49,12 @@
         ],
         "avgScore": 0.7269
     },
-    "coef": -0.9999999999999999,
-    "avgCoef": 0.01937899658507444,
+    "coef": 0.9999999999999999,
+    "avgCoef": -0.03447630546333767,
     "similar": {
-        "AMCR": 0.9999999999999999,
-        "UNH": 0.9999999999999999,
-        "NGD": 0.9999999999999999,
-        "MU": 0.9999999999999999
+        "NVDA": 0.9999999999999999,
+        "HTZ": 0.9999999999999999,
+        "TSLA": 0.9999999999999999,
+        "INTC": 0.9999999999999999
     }
 }

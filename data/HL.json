@@ -1,32 +1,17 @@
 {
-    "4 11 2025": {
-        "importantArticles": [
-            {
-                "headline": "Hecla Mining (HL) witnessed a jump in share price last session on above-average trading volume. The latest trend in earnings estimate revisions for the stock doesn't suggest further strength down the road.",
-                "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.1098",
-                "source": "Zacks",
-                "ticker": "HL",
-                "title": "Hecla Mining (HL) Surges 12.1%: Is This an Indication of Further Gains?",
-                "url": "https://finance.yahoo.com/news/hecla-mining-hl-surges-12-130900848.html"
-            },
-            {
-                "headline": "Hecla Mining (HL) witnessed a jump in share price last session on above-average trading volume. The latest trend in earnings estimate revisions for the stock doesn't suggest further strength down the road.",
-                "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.1098",
-                "source": "Zacks",
-                "ticker": "HL",
-                "title": "Hecla Mining (HL) Surges 12.1%: Is This an Indication of Further Gains?",
-                "url": "https://finance.yahoo.com/news/hecla-mining-hl-surges-12-130900848.html"
-            }
-        ],
-        "avgScore": -0.1098
-    },
     "4 10 2025": {
         "importantArticles": [
             {
+                "headline": "Hecla Mining (HL) witnessed a jump in share price last session on above-average trading volume. The latest trend in earnings estimate revisions for the stock doesn't suggest further strength down the road.",
+                "publication_date": "2025-04-10T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.1098",
+                "source": "Zacks",
+                "ticker": "HL",
+                "title": "Hecla Mining (HL) Surges 12.1%: Is This an Indication of Further Gains?",
+                "url": "https://finance.yahoo.com/news/hecla-mining-hl-surges-12-130900848.html"
+            },
+            {
                 "headline": "Key Insights Given the large stake in the stock by institutions, Hecla Mining's stock price might be vulnerable to...",
                 "publication_date": "2025-04-10T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -45,15 +30,25 @@
                 "ticker": "HL",
                 "title": "Hecla Mining Company's (NYSE:HL) recent 14% pullback adds to one-year year losses, institutional owners may take drastic measures",
                 "url": "https://finance.yahoo.com/news/hecla-mining-companys-nyse-hl-175148954.html"
+            },
+            {
+                "headline": "Hecla Mining (HL) witnessed a jump in share price last session on above-average trading volume. The latest trend in earnings estimate revisions for the stock doesn't suggest further strength down the road.",
+                "publication_date": "2025-04-10T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.1098",
+                "source": "Zacks",
+                "ticker": "HL",
+                "title": "Hecla Mining (HL) Surges 12.1%: Is This an Indication of Further Gains?",
+                "url": "https://finance.yahoo.com/news/hecla-mining-hl-surges-12-130900848.html"
             }
         ],
-        "avgScore": -0.2263
+        "avgScore": -0.16805
     },
-    "3 25 2025": {
+    "3 24 2025": {
         "importantArticles": [
             {
                 "headline": "Hecla Mining (NYSE:HL) has had a great run on the share market with its stock up by a significant 14% over the last...",
-                "publication_date": "2025-03-25T00:00:00.000Z",
+                "publication_date": "2025-03-24T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.7964",
                 "source": "Simply Wall St.",
@@ -63,7 +58,7 @@
             },
             {
                 "headline": "Hecla Mining (NYSE:HL) has had a great run on the share market with its stock up by a significant 14% over the last...",
-                "publication_date": "2025-03-25T00:00:00.000Z",
+                "publication_date": "2025-03-24T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.7964",
                 "source": "Simply Wall St.",
@@ -99,12 +94,12 @@
         ],
         "avgScore": 0.8934
     },
-    "coef": -0.7999999999999999,
-    "avgCoef": -0.028516398084226895,
+    "coef": -0.5,
+    "avgCoef": -0.034287914945565025,
     "similar": {
-        "UNH": 0.7999999999999999,
-        "CVS": 0.6000000000000001,
-        "TSLA": 0.39999999999999997,
-        "MP": 0.39999999999999997
+        "BAC": 1.0,
+        "KEY": 1.0,
+        "TFC": 1.0,
+        "CMCSA": 1.0
     }
 }

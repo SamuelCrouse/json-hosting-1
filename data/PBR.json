@@ -12,26 +12,6 @@
                 "url": "https://finance.yahoo.com/news/petrobras-pbr-stock-moves-0-215015672.html"
             },
             {
-                "headline": "PBR's long-dragged environmental hurdle compels the Brazilian oil regulator to open 172 oil blocks for bidding.",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.2263",
-                "source": "Zacks",
-                "ticker": "PBR",
-                "title": "Petrobras' Environmental Hurdles Lead to Oil Blocks Auction in Brazil",
-                "url": "https://finance.yahoo.com/news/petrobras-environmental-hurdles-lead-oil-104400391.html"
-            },
-            {
-                "headline": "PBR's long-dragged environmental hurdle compels the Brazilian oil regulator to open 172 oil blocks for bidding.",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.2263",
-                "source": "Zacks",
-                "ticker": "PBR",
-                "title": "Petrobras' Environmental Hurdles Lead to Oil Blocks Auction in Brazil",
-                "url": "https://finance.yahoo.com/news/petrobras-environmental-hurdles-lead-oil-104400391.html"
-            },
-            {
                 "headline": "In the most recent trading session, Petrobras (PBR) closed at $11.22, indicating a -0.44% shift from the previous trading day.",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -42,13 +22,38 @@
                 "url": "https://finance.yahoo.com/news/petrobras-pbr-stock-moves-0-215015672.html"
             }
         ],
-        "avgScore": -0.11315
+        "avgScore": 0.0
     },
-    "4 15 2025": {
+    "4 16 2025": {
+        "importantArticles": [
+            {
+                "headline": "PBR's long-dragged environmental hurdle compels the Brazilian oil regulator to open 172 oil blocks for bidding.",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.2263",
+                "source": "Zacks",
+                "ticker": "PBR",
+                "title": "Petrobras' Environmental Hurdles Lead to Oil Blocks Auction in Brazil",
+                "url": "https://finance.yahoo.com/news/petrobras-environmental-hurdles-lead-oil-104400391.html"
+            },
+            {
+                "headline": "PBR's long-dragged environmental hurdle compels the Brazilian oil regulator to open 172 oil blocks for bidding.",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.2263",
+                "source": "Zacks",
+                "ticker": "PBR",
+                "title": "Petrobras' Environmental Hurdles Lead to Oil Blocks Auction in Brazil",
+                "url": "https://finance.yahoo.com/news/petrobras-environmental-hurdles-lead-oil-104400391.html"
+            }
+        ],
+        "avgScore": -0.2263
+    },
+    "4 14 2025": {
         "importantArticles": [
             {
                 "headline": "PBR extends its partnership with Noble, securing the Noble Discoverer rig for offshore drilling in Colombia until 2026, supporting deepwater exploration.",
-                "publication_date": "2025-04-15T00:00:00.000Z",
+                "publication_date": "2025-04-14T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.9022",
                 "source": "Zacks",
@@ -58,7 +63,7 @@
             },
             {
                 "headline": "PBR extends its partnership with Noble, securing the Noble Discoverer rig for offshore drilling in Colombia until 2026, supporting deepwater exploration.",
-                "publication_date": "2025-04-15T00:00:00.000Z",
+                "publication_date": "2025-04-14T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.9022",
                 "source": "Zacks",
@@ -72,6 +77,16 @@
     "4 11 2025": {
         "importantArticles": [
             {
+                "headline": "PBR explores offshore auction opportunities in India, balancing long-term exploration goals with short-term price volatility and the impact of global trade disruptions.",
+                "publication_date": "2025-04-11T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.2732",
+                "source": "Zacks",
+                "ticker": "PBR",
+                "title": "Petrobras Explores New Oil Exploration Opportunities in India",
+                "url": "https://finance.yahoo.com/news/petrobras-explores-oil-exploration-opportunities-104000863.html"
+            },
+            {
                 "headline": "Chevron (CVX) was a big mover last session on higher-than-average trading volume. The latest trend in earnings estimate revisions might not help the stock continue moving higher in the near term.",
                 "publication_date": "2025-04-11T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -110,9 +125,19 @@
                 "ticker": "PBR",
                 "title": "Strength Seen in Chevron (CVX): Can Its 6.7% Jump Turn into More Strength?",
                 "url": "https://finance.yahoo.com/news/strength-seen-chevron-cvx-6-115400605.html"
+            },
+            {
+                "headline": "PBR explores offshore auction opportunities in India, balancing long-term exploration goals with short-term price volatility and the impact of global trade disruptions.",
+                "publication_date": "2025-04-11T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.2732",
+                "source": "Zacks",
+                "ticker": "PBR",
+                "title": "Petrobras Explores New Oil Exploration Opportunities in India",
+                "url": "https://finance.yahoo.com/news/petrobras-explores-oil-exploration-opportunities-104000863.html"
             }
         ],
-        "avgScore": -0.33505
+        "avgScore": -0.1323
     },
     "4 9 2025": {
         "importantArticles": [
@@ -162,8 +187,33 @@
     "4 8 2025": {
         "importantArticles": [
             {
-                "headline": "PBR constructs an animal care center in the Amazon region to meet key environmental demands by Brazil's Ibama agency to secure an offshore drilling license.",
+                "headline": "Brazil's state-run oil firm Petrobras is unlikely to lower diesel prices while the economic scenario abroad remains uncertain, Chief Executive Magda Chambriard told Reuters after a request from the government to do so became public on Monday.  Petrobras will not bring jitters from abroad to the Brazilian market, said Chambriard, after reports that Brazil's Mines and Energy Minister Alexandre Silveira asked her to consider a new cut in the average price of diesel sold to distributors in Brazil.",
                 "publication_date": "2025-04-08T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5267",
+                "source": "Reuters",
+                "ticker": "PBR",
+                "title": "Brazil's Petrobras unlikely to change diesel prices despite energy minister request",
+                "url": "https://finance.yahoo.com/news/brazils-energy-minister-asks-petrobras-201522428.html"
+            },
+            {
+                "headline": "Brazil's state-run oil firm Petrobras is unlikely to lower diesel prices while the economic scenario abroad remains uncertain, Chief Executive Magda Chambriard told Reuters after a request from the government to do so became public on Monday.  Petrobras will not bring jitters from abroad to the Brazilian market, said Chambriard, after reports that Brazil's Mines and Energy Minister Alexandre Silveira asked her to consider a new cut in the average price of diesel sold to distributors in Brazil.",
+                "publication_date": "2025-04-08T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5267",
+                "source": "Reuters",
+                "ticker": "PBR",
+                "title": "Brazil's Petrobras unlikely to change diesel prices despite energy minister request",
+                "url": "https://finance.yahoo.com/news/brazils-energy-minister-asks-petrobras-201522428.html"
+            }
+        ],
+        "avgScore": -0.5267
+    },
+    "4 7 2025": {
+        "importantArticles": [
+            {
+                "headline": "PBR constructs an animal care center in the Amazon region to meet key environmental demands by Brazil's Ibama agency to secure an offshore drilling license.",
+                "publication_date": "2025-04-07T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.743",
                 "source": "Zacks",
@@ -172,28 +222,8 @@
                 "url": "https://finance.yahoo.com/news/petrobras-builds-wildlife-center-amazon-093000783.html"
             },
             {
-                "headline": "Brazil's state-run oil firm Petrobras is unlikely to lower diesel prices while the economic scenario abroad remains uncertain, Chief Executive Magda Chambriard told Reuters after a request from the government to do so became public on Monday.  Petrobras will not bring jitters from abroad to the Brazilian market, said Chambriard, after reports that Brazil's Mines and Energy Minister Alexandre Silveira asked her to consider a new cut in the average price of diesel sold to distributors in Brazil.",
-                "publication_date": "2025-04-08T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.5267",
-                "source": "Reuters",
-                "ticker": "PBR",
-                "title": "Brazil's Petrobras unlikely to change diesel prices despite energy minister request",
-                "url": "https://finance.yahoo.com/news/brazils-energy-minister-asks-petrobras-201522428.html"
-            },
-            {
-                "headline": "Brazil's state-run oil firm Petrobras is unlikely to lower diesel prices while the economic scenario abroad remains uncertain, Chief Executive Magda Chambriard told Reuters after a request from the government to do so became public on Monday.  Petrobras will not bring jitters from abroad to the Brazilian market, said Chambriard, after reports that Brazil's Mines and Energy Minister Alexandre Silveira asked her to consider a new cut in the average price of diesel sold to distributors in Brazil.",
-                "publication_date": "2025-04-08T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.5267",
-                "source": "Reuters",
-                "ticker": "PBR",
-                "title": "Brazil's Petrobras unlikely to change diesel prices despite energy minister request",
-                "url": "https://finance.yahoo.com/news/brazils-energy-minister-asks-petrobras-201522428.html"
-            },
-            {
                 "headline": "PBR constructs an animal care center in the Amazon region to meet key environmental demands by Brazil's Ibama agency to secure an offshore drilling license.",
-                "publication_date": "2025-04-08T00:00:00.000Z",
+                "publication_date": "2025-04-07T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.743",
                 "source": "Zacks",
@@ -202,7 +232,7 @@
                 "url": "https://finance.yahoo.com/news/petrobras-builds-wildlife-center-amazon-093000783.html"
             }
         ],
-        "avgScore": 0.10815000000000002
+        "avgScore": 0.743
     },
     "4 4 2025": {
         "importantArticles": [
@@ -252,8 +282,33 @@
     "4 3 2025": {
         "importantArticles": [
             {
-                "headline": "PBR signs a contract with Constellation for a shallow-water well P&A project offshore Brazil, marking a key milestone in decommissioning efforts.",
+                "headline": "Discoveries made by Brazilian state-run oil firm Petrobras discoveries this year in the Campos and Santos basins and in the Buzios field are \"significant,\" exploration and production head Sylvia dos Anjos said on Wednesday.  Petrobras announced hydrocarbon discoveries in February and March at the Aram block, located in the Santos basin, and at the Norte de Brava block in Campos basin, as well as in a well located in the western region of the Buzios field.  \"They are great,\" said Anjos, adding she could not discuss volumes because Petrobras was still running final tests, but stressing that the new discoveries could push the firm's planned peak production forward by a year.",
                 "publication_date": "2025-04-03T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5574",
+                "source": "Reuters",
+                "ticker": "PBR",
+                "title": "Petrobras' new discoveries are 'significant', executive says",
+                "url": "https://finance.yahoo.com/news/petrobras-discoveries-significant-executive-says-141344776.html"
+            },
+            {
+                "headline": "Discoveries made by Brazilian state-run oil firm Petrobras discoveries this year in the Campos and Santos basins and in the Buzios field are \"significant,\" exploration and production head Sylvia dos Anjos said on Wednesday.  Petrobras announced hydrocarbon discoveries in February and March at the Aram block, located in the Santos basin, and at the Norte de Brava block in Campos basin, as well as in a well located in the western region of the Buzios field.  \"They are great,\" said Anjos, adding she could not discuss volumes because Petrobras was still running final tests, but stressing that the new discoveries could push the firm's planned peak production forward by a year.",
+                "publication_date": "2025-04-03T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5574",
+                "source": "Reuters",
+                "ticker": "PBR",
+                "title": "Petrobras' new discoveries are 'significant', executive says",
+                "url": "https://finance.yahoo.com/news/petrobras-discoveries-significant-executive-says-141344776.html"
+            }
+        ],
+        "avgScore": -0.5574
+    },
+    "4 2 2025": {
+        "importantArticles": [
+            {
+                "headline": "PBR signs a contract with Constellation for a shallow-water well P&A project offshore Brazil, marking a key milestone in decommissioning efforts.",
+                "publication_date": "2025-04-02T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.2732",
                 "source": "Zacks",
@@ -262,28 +317,8 @@
                 "url": "https://finance.yahoo.com/news/petrobras-partners-constellation-major-well-094800911.html"
             },
             {
-                "headline": "Discoveries made by Brazilian state-run oil firm Petrobras discoveries this year in the Campos and Santos basins and in the Buzios field are \"significant,\" exploration and production head Sylvia dos Anjos said on Wednesday.  Petrobras announced hydrocarbon discoveries in February and March at the Aram block, located in the Santos basin, and at the Norte de Brava block in Campos basin, as well as in a well located in the western region of the Buzios field.  \"They are great,\" said Anjos, adding she could not discuss volumes because Petrobras was still running final tests, but stressing that the new discoveries could push the firm's planned peak production forward by a year.",
-                "publication_date": "2025-04-03T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.5574",
-                "source": "Reuters",
-                "ticker": "PBR",
-                "title": "Petrobras' new discoveries are 'significant', executive says",
-                "url": "https://finance.yahoo.com/news/petrobras-discoveries-significant-executive-says-141344776.html"
-            },
-            {
-                "headline": "Discoveries made by Brazilian state-run oil firm Petrobras discoveries this year in the Campos and Santos basins and in the Buzios field are \"significant,\" exploration and production head Sylvia dos Anjos said on Wednesday.  Petrobras announced hydrocarbon discoveries in February and March at the Aram block, located in the Santos basin, and at the Norte de Brava block in Campos basin, as well as in a well located in the western region of the Buzios field.  \"They are great,\" said Anjos, adding she could not discuss volumes because Petrobras was still running final tests, but stressing that the new discoveries could push the firm's planned peak production forward by a year.",
-                "publication_date": "2025-04-03T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.5574",
-                "source": "Reuters",
-                "ticker": "PBR",
-                "title": "Petrobras' new discoveries are 'significant', executive says",
-                "url": "https://finance.yahoo.com/news/petrobras-discoveries-significant-executive-says-141344776.html"
-            },
-            {
                 "headline": "PBR signs a contract with Constellation for a shallow-water well P&A project offshore Brazil, marking a key milestone in decommissioning efforts.",
-                "publication_date": "2025-04-03T00:00:00.000Z",
+                "publication_date": "2025-04-02T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.2732",
                 "source": "Zacks",
@@ -292,11 +327,21 @@
                 "url": "https://finance.yahoo.com/news/petrobras-partners-constellation-major-well-094800911.html"
             }
         ],
-        "avgScore": -0.1421
+        "avgScore": 0.2732
     },
     "3 28 2025": {
         "importantArticles": [
             {
+                "headline": "Brazil's oil giant PBR needs Ibama's approval by April for Foz do Amazonas drilling, as its costly vessel contract ends in October.",
+                "publication_date": "2025-03-28T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4019",
+                "source": "Zacks",
+                "ticker": "PBR",
+                "title": "Petrobras Faces Tight Deadline for Foz do Amazonas Vessel Use",
+                "url": "https://finance.yahoo.com/news/petrobras-faces-tight-deadline-foz-104400744.html"
+            },
+            {
                 "headline": "NOV mentions that the new technology will help combat SCC, which affects oil and gas subsea infrastructure. It also aims to retain the core features of standard flexible pipes.",
                 "publication_date": "2025-03-28T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -315,38 +360,33 @@
                 "ticker": "PBR",
                 "title": "NOV & Petrobras Collaborate to Develop CO2-Resistant Flexible Pipes",
                 "url": "https://finance.yahoo.com/news/nov-petrobras-collaborate-develop-co2-163600803.html"
-            }
-        ],
-        "avgScore": 0.296
-    },
-    "3 27 2025": {
-        "importantArticles": [
-            {
-                "headline": "PBR discovers hydrocarbons in the Campos Basin, advancing its deepwater exploration efforts and highlighting its focus on pre-salt assets.",
-                "publication_date": "2025-03-27T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.3818",
-                "source": "Zacks",
-                "ticker": "PBR",
-                "title": "Petrobras Strikes Hydrocarbons in the Campos Basin's Pre-Salt Layer",
-                "url": "https://finance.yahoo.com/news/petrobras-strikes-hydrocarbons-campos-basins-102500776.html"
             },
             {
-                "headline": "PBR discovers hydrocarbons in the Campos Basin, advancing its deepwater exploration efforts and highlighting its focus on pre-salt assets.",
-                "publication_date": "2025-03-27T00:00:00.000Z",
+                "headline": "Brazil's oil giant PBR needs Ibama's approval by April for Foz do Amazonas drilling, as its costly vessel contract ends in October.",
+                "publication_date": "2025-03-28T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.3818",
+                "sentimentScore": "0.4019",
                 "source": "Zacks",
                 "ticker": "PBR",
-                "title": "Petrobras Strikes Hydrocarbons in the Campos Basin's Pre-Salt Layer",
-                "url": "https://finance.yahoo.com/news/petrobras-strikes-hydrocarbons-campos-basins-102500776.html"
+                "title": "Petrobras Faces Tight Deadline for Foz do Amazonas Vessel Use",
+                "url": "https://finance.yahoo.com/news/petrobras-faces-tight-deadline-foz-104400744.html"
             }
         ],
-        "avgScore": 0.3818
+        "avgScore": 0.34895
     },
     "3 26 2025": {
         "importantArticles": [
             {
+                "headline": "PBR discovers hydrocarbons in the Campos Basin, advancing its deepwater exploration efforts and highlighting its focus on pre-salt assets.",
+                "publication_date": "2025-03-26T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.3818",
+                "source": "Zacks",
+                "ticker": "PBR",
+                "title": "Petrobras Strikes Hydrocarbons in the Campos Basin's Pre-Salt Layer",
+                "url": "https://finance.yahoo.com/news/petrobras-strikes-hydrocarbons-campos-basins-102500776.html"
+            },
+            {
                 "headline": "The presence of hydrocarbons was identified in exploratory well 1-BRSA-1394-RJS, 105km off Rio de Janeiro's coast.",
                 "publication_date": "2025-03-26T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -385,9 +425,19 @@
                 "ticker": "PBR",
                 "title": "Petrobras identifies hydrocarbons in exploratory well of Campos Basin\u2019s pre-salt layer",
                 "url": "https://finance.yahoo.com/news/petrobras-identifies-hydrocarbons-exploratory-well-170233952.html"
+            },
+            {
+                "headline": "PBR discovers hydrocarbons in the Campos Basin, advancing its deepwater exploration efforts and highlighting its focus on pre-salt assets.",
+                "publication_date": "2025-03-26T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.3818",
+                "source": "Zacks",
+                "ticker": "PBR",
+                "title": "Petrobras Strikes Hydrocarbons in the Campos Basin's Pre-Salt Layer",
+                "url": "https://finance.yahoo.com/news/petrobras-strikes-hydrocarbons-campos-basins-102500776.html"
             }
         ],
-        "avgScore": 0.1366
+        "avgScore": 0.21833333333333335
     },
     "3 25 2025": {
         "importantArticles": [
@@ -464,12 +514,12 @@
         ],
         "avgScore": 0.0
     },
-    "coef": -0.16253505200525303,
-    "avgCoef": 0.006483849425352042,
+    "coef": -0.3082457075750412,
+    "avgCoef": -0.02099190650369926,
     "similar": {
-        "AVGO": 0.5371921210343109,
-        "SMCI": 0.3911860573685751,
-        "HTZ": 0.3636377434693797,
-        "UMC": 0.3085411156709888
+        "AVGO": 0.3978520179166229,
+        "NU": 0.33333547447068407,
+        "NVDA": 0.3225827172296943,
+        "GPN": 0.27598743585207175
     }
 }

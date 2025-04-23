@@ -1,9 +1,35 @@
 {
-    "4 22 2025": {
+    "4 23 2025": {
+        "importantArticles": [
+            {
+                "headline": "Nokia CorporationStock Exchange Release 23 April 2025 at 16:00 EESTNokia cancels repurchased shares Nokia Corporation has today cancelled 150 000 000 Nokia shares held by the company in line with the decision by the Board of Directors. The shares were repurchased during the period between 25 November 2024 and 2 April 2025 under the share buyback program announced in November 2024. The cancellation of the treasury shares was registered with the Finnish Trade Register on 23 April 2025. The cancell",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7845",
+                "source": "GlobeNewswire",
+                "ticker": "NOK",
+                "title": "Nokia cancels repurchased shares",
+                "url": "https://finance.yahoo.com/news/nokia-cancels-repurchased-shares-130000844.html"
+            },
+            {
+                "headline": "Nokia CorporationStock Exchange Release 23 April 2025 at 16:00 EESTNokia cancels repurchased shares Nokia Corporation has today cancelled 150 000 000 Nokia shares held by the company in line with the decision by the Board of Directors. The shares were repurchased during the period between 25 November 2024 and 2 April 2025 under the share buyback program announced in November 2024. The cancellation of the treasury shares was registered with the Finnish Trade Register on 23 April 2025. The cancell",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7845",
+                "source": "GlobeNewswire",
+                "ticker": "NOK",
+                "title": "Nokia cancels repurchased shares",
+                "url": "https://finance.yahoo.com/news/nokia-cancels-repurchased-shares-130000844.html"
+            }
+        ],
+        "avgScore": 0.7845,
+        "pctChange": 0.00472591598255407
+    },
+    "4 21 2025": {
         "importantArticles": [
             {
                 "headline": "NOK is expected to report a top-line contraction year over year in the first quarter of 2025 due to fierce competition and macroeconomic headwinds.",
-                "publication_date": "2025-04-22T00:00:00.000Z",
+                "publication_date": "2025-04-21T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
                 "source": "Zacks",
@@ -13,7 +39,7 @@
             },
             {
                 "headline": "NOK is expected to report a top-line contraction year over year in the first quarter of 2025 due to fierce competition and macroeconomic headwinds.",
-                "publication_date": "2025-04-22T00:00:00.000Z",
+                "publication_date": "2025-04-21T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
                 "source": "Zacks",
@@ -23,7 +49,7 @@
             }
         ],
         "avgScore": 0.0,
-        "pctChange": 0.007633671839197399
+        "pctChange": 0.041420124464839655
     },
     "4 17 2025": {
         "importantArticles": [
@@ -51,11 +77,11 @@
         "avgScore": 0.7506,
         "pctChange": -0.00782778098002071
     },
-    "4 16 2025": {
+    "4 15 2025": {
         "importantArticles": [
             {
                 "headline": "We recently published a list of 11 Top Performing European Stocks So Far In 2025. In this article, we are going to take a look at where Nokia Oyj (NYSE:NOK) stands against other best performing European stocks to invest in. The world economy is hanging by a thread, as the macroeconomic environment consists of trade [\u2026]",
-                "publication_date": "2025-04-16T00:00:00.000Z",
+                "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.7184",
                 "source": "Insider Monkey",
@@ -65,7 +91,7 @@
             },
             {
                 "headline": "We recently published a list of 11 Top Performing European Stocks So Far In 2025. In this article, we are going to take a look at where Nokia Oyj (NYSE:NOK) stands against other best performing European stocks to invest in. The world economy is hanging by a thread, as the macroeconomic environment consists of trade [\u2026]",
-                "publication_date": "2025-04-16T00:00:00.000Z",
+                "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.7184",
                 "source": "Insider Monkey",
@@ -75,32 +101,6 @@
             }
         ],
         "avgScore": 0.7184,
-        "pctChange": 0.005905553200572355
-    },
-    "4 15 2025": {
-        "importantArticles": [
-            {
-                "headline": "Nokia's partnership with ResetData aims to accelerate the deployment of superior AI infrastructure at lower operational costs.",
-                "publication_date": "2025-04-15T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.3182",
-                "source": "Zacks",
-                "ticker": "NOK",
-                "title": "Nokia Networking Solutions to Power Australia's AI Infrastructure",
-                "url": "https://finance.yahoo.com/news/nokia-networking-solutions-power-australias-123600236.html"
-            },
-            {
-                "headline": "Nokia's partnership with ResetData aims to accelerate the deployment of superior AI infrastructure at lower operational costs.",
-                "publication_date": "2025-04-15T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.3182",
-                "source": "Zacks",
-                "ticker": "NOK",
-                "title": "Nokia Networking Solutions to Power Australia's AI Infrastructure",
-                "url": "https://finance.yahoo.com/news/nokia-networking-solutions-power-australias-123600236.html"
-            }
-        ],
-        "avgScore": 0.3182,
         "pctChange": -0.011673140921804177
     },
     "4 14 2025": {
@@ -116,6 +116,26 @@
                 "url": "https://finance.yahoo.com/news/nokia-networking-backbone-connect-resetdata-070400765.html"
             },
             {
+                "headline": "Nokia's partnership with ResetData aims to accelerate the deployment of superior AI infrastructure at lower operational costs.",
+                "publication_date": "2025-04-14T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.3182",
+                "source": "Zacks",
+                "ticker": "NOK",
+                "title": "Nokia Networking Solutions to Power Australia's AI Infrastructure",
+                "url": "https://finance.yahoo.com/news/nokia-networking-solutions-power-australias-123600236.html"
+            },
+            {
+                "headline": "Nokia's partnership with ResetData aims to accelerate the deployment of superior AI infrastructure at lower operational costs.",
+                "publication_date": "2025-04-14T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.3182",
+                "source": "Zacks",
+                "ticker": "NOK",
+                "title": "Nokia Networking Solutions to Power Australia's AI Infrastructure",
+                "url": "https://finance.yahoo.com/news/nokia-networking-solutions-power-australias-123600236.html"
+            },
+            {
                 "headline": "Press ReleaseNokia networking backbone to connect ResetData\u2019s \u2018AI Factory\u2019 data centers across Australia Nokia deployment to support immediate roll-out of Australia\u2019s first sovereign and sustainable liquid immersion-cooled AI Factory data centers. ResetData\u2019s AI factories up to 10 times as efficient as legacy designs, can cut emissions by 45% to deliver more sustainable AI cloud operations.Nokia FP5 routing silicon provides 75% reduction in energy consumption over previous generations. 14 April",
                 "publication_date": "2025-04-14T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -126,21 +146,11 @@
                 "url": "https://finance.yahoo.com/news/nokia-networking-backbone-connect-resetdata-070400765.html"
             }
         ],
-        "avgScore": 0.6705,
+        "avgScore": 0.49434999999999996,
         "pctChange": 0.03212848329303357
     },
     "4 10 2025": {
         "importantArticles": [
-            {
-                "headline": "Nokia Corporation (NYSE:NOK), Telia, and the Finnish Defense Forces completed the world's first successful 5G standalone slice handover across multiple countries on a live network on Wednesday. The trial was made possible by Nokia's advanced 5G Core Software as a Service (SaaS) and AirScale 5G base stations, powered by ReefShark System-on-Chip technology, integrated with Telia's commercial network. Conducted in Finland in March during a Nordic defense exercise, the trial marks a major advancemen",
-                "publication_date": "2025-04-10T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7783",
-                "source": "Benzinga",
-                "ticker": "NOK",
-                "title": "Nokia, Telia Break Ground With Live 5G Slice Trial Across Three Nations For Defense Operations",
-                "url": "https://finance.yahoo.com/news/nokia-telia-break-ground-live-142054557.html"
-            },
             {
                 "headline": "Press ReleaseNokia, Digita and CoreGo collaborate to enhance the customer experience at large events Nokia Digital Automation Cloud (DAC) private wireless ensures fast and reliable payment transactions and seamless network connections.Quick verification and seamless payment solution enable customers to enjoy events without delays. 10 April 2025 Espoo, Finland \u2013 Nokia and Digita today announced that they are expanding their partnership with CoreGo, a company specializing in payment and access con",
                 "publication_date": "2025-04-10T00:00:00.000Z",
@@ -172,14 +182,14 @@
                 "url": "https://finance.yahoo.com/news/nok-enhances-fibrus-network-security-174700467.html"
             },
             {
-                "headline": "The FCC has approved a request by T-Mobile (TMUS) to test \u201cexperimental prototype wireless equipment\u201d from Nokia (NOK) in and around T-Mobile\u2019s headquarters in Bellevue, Washington. The Nokia equipment runs in the 7125-7525 MHz band, the same band that Nokia is using to test its 6G equipment at its Dallas headquarters, and T-Mobile says the tests will \u201csupport the advancement of potential future wireless technologies.\u201d Published first on TheFly \u2013 the ultimate source for real-time, market-moving",
+                "headline": "Fibrus deploys Nokia's Deepfield DDoS solution to protect its network from cyber threats and manage the increasing demand for high-quality broadband services.",
                 "publication_date": "2025-04-10T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.4215",
-                "source": "TipRanks",
+                "sentimentScore": "0.1531",
+                "source": "Zacks",
                 "ticker": "NOK",
-                "title": "T-Mobile approved to test Nokia wireless equipment by FCC",
-                "url": "https://finance.yahoo.com/news/t-mobile-approved-test-nokia-141512677.html"
+                "title": "NOK Enhances Fibrus' Network Security With Deepfield DDoS Solution",
+                "url": "https://finance.yahoo.com/news/nok-enhances-fibrus-network-security-174700467.html"
             },
             {
                 "headline": "Strategic Collaboration Boosts Value for Participating Utilities in Transforming the Power GridWOODLAND PARK, N.J., April 10, 2025 (GLOBE NEWSWIRE) -- Anterix (NASDAQ: ATEX), the leading provider of private wireless broadband spectrum for utilities, announced today that a group of world-class companies driving the nationwide deployment of 900 MHz networks \u2013 including Ericsson (NASDAQ: ERIC), GE Vernova (NYSE: GEV), and Nokia (NYSE: NOK) \u2013 are expanding their collaboration within the AnterixAccel",
@@ -190,14 +200,44 @@
                 "ticker": "NOK",
                 "title": "Ericsson, GE Vernova, and Nokia Offering High-Value Incentives to Utilities via AnterixAccelerator\u2122 to Enhance 900 MHz Spectrum Offering",
                 "url": "https://finance.yahoo.com/news/ericsson-ge-vernova-nokia-offering-110000542.html"
+            },
+            {
+                "headline": "Press ReleaseNokia, Digita and CoreGo collaborate to enhance the customer experience at large events Nokia Digital Automation Cloud (DAC) private wireless ensures fast and reliable payment transactions and seamless network connections.Quick verification and seamless payment solution enable customers to enjoy events without delays. 10 April 2025 Espoo, Finland \u2013 Nokia and Digita today announced that they are expanding their partnership with CoreGo, a company specializing in payment and access con",
+                "publication_date": "2025-04-10T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6705",
+                "source": "GlobeNewswire",
+                "ticker": "NOK",
+                "title": "Nokia, Digita and CoreGo collaborate to enhance the customer experience at large events",
+                "url": "https://finance.yahoo.com/news/nokia-digita-corego-collaborate-enhance-070000967.html"
             }
         ],
-        "avgScore": 0.51906,
+        "avgScore": 0.4651666666666667,
         "pctChange": 0.029045614419001147
     },
     "4 9 2025": {
         "importantArticles": [
             {
+                "headline": "Nokia Corporation (NYSE:NOK), Telia, and the Finnish Defense Forces completed the world's first successful 5G standalone slice handover across multiple countries on a live network on Wednesday. The trial was made possible by Nokia's advanced 5G Core Software as a Service (SaaS) and AirScale 5G base stations, powered by ReefShark System-on-Chip technology, integrated with Telia's commercial network. Conducted in Finland in March during a Nordic defense exercise, the trial marks a major advancemen",
+                "publication_date": "2025-04-09T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7783",
+                "source": "Benzinga",
+                "ticker": "NOK",
+                "title": "Nokia, Telia Break Ground With Live 5G Slice Trial Across Three Nations For Defense Operations",
+                "url": "https://finance.yahoo.com/news/nokia-telia-break-ground-live-142054557.html"
+            },
+            {
+                "headline": "The FCC has approved a request by T-Mobile (TMUS) to test \u201cexperimental prototype wireless equipment\u201d from Nokia (NOK) in and around T-Mobile\u2019s headquarters in Bellevue, Washington. The Nokia equipment runs in the 7125-7525 MHz band, the same band that Nokia is using to test its 6G equipment at its Dallas headquarters, and T-Mobile says the tests will \u201csupport the advancement of potential future wireless technologies.\u201d Published first on TheFly \u2013 the ultimate source for real-time, market-moving",
+                "publication_date": "2025-04-09T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4215",
+                "source": "TipRanks",
+                "ticker": "NOK",
+                "title": "T-Mobile approved to test Nokia wireless equipment by FCC",
+                "url": "https://finance.yahoo.com/news/t-mobile-approved-test-nokia-141512677.html"
+            },
+            {
                 "headline": "Press ReleaseNokia, Telia and Finnish Defense Forces achieve world\u2019s first 5G standalone slice handover across borders Companies showcase the potential of 5G technology in enhancing critical communications for defense units operating within coalition environments.Leverage Telia\u2019s network infrastructure powered by Nokia\u2019s 5G Standalone Core and, AirScale radio equipment, to ensure seamless experience, even when crossing country borders. 9 April 2025Espoo, Finland \u2013 Nokia, Telia and the Finnish De",
                 "publication_date": "2025-04-09T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -218,16 +258,6 @@
                 "url": "https://finance.yahoo.com/news/t-mobile-testing-nokia-gear-201300930.html"
             },
             {
-                "headline": "T-Mobile begins FCC-approved tests of Nokia equipment, marking early exploration into 6G spectrum and tech",
-                "publication_date": "2025-04-09T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.2263",
-                "source": "GuruFocus.com",
-                "ticker": "NOK",
-                "title": "T-Mobile Testing Nokia Gear in 7 GHz Band, Hinting at Early 6G Moves",
-                "url": "https://finance.yahoo.com/news/t-mobile-testing-nokia-gear-201300930.html"
-            },
-            {
                 "headline": "Press ReleaseNokia, Telia and Finnish Defense Forces achieve world\u2019s first 5G standalone slice handover across borders Companies showcase the potential of 5G technology in enhancing critical communications for defense units operating within coalition environments.Leverage Telia\u2019s network infrastructure powered by Nokia\u2019s 5G Standalone Core and, AirScale radio equipment, to ensure seamless experience, even when crossing country borders. 9 April 2025Espoo, Finland \u2013 Nokia, Telia and the Finnish De",
                 "publication_date": "2025-04-09T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -236,9 +266,19 @@
                 "ticker": "NOK",
                 "title": "Nokia, Telia and Finnish Defense Forces achieve world\u2019s first 5G standalone slice handover across borders",
                 "url": "https://finance.yahoo.com/news/nokia-telia-finnish-defense-forces-070000536.html"
+            },
+            {
+                "headline": "The FCC has approved a request by T-Mobile (TMUS) to test \u201cexperimental prototype wireless equipment\u201d from Nokia (NOK) in and around T-Mobile\u2019s headquarters in Bellevue, Washington. The Nokia equipment runs in the 7125-7525 MHz band, the same band that Nokia is using to test its 6G equipment at its Dallas headquarters, and T-Mobile says the tests will \u201csupport the advancement of potential future wireless technologies.\u201d Published first on TheFly \u2013 the ultimate source for real-time, market-moving",
+                "publication_date": "2025-04-09T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4215",
+                "source": "TipRanks",
+                "ticker": "NOK",
+                "title": "T-Mobile approved to test Nokia wireless equipment by FCC",
+                "url": "https://finance.yahoo.com/news/t-mobile-approved-test-nokia-141512677.html"
             }
         ],
-        "avgScore": 0.27225,
+        "avgScore": 0.436075,
         "pctChange": -0.022312304362557198
     },
     "4 8 2025": {
@@ -293,55 +333,19 @@
         "avgScore": 0.836,
         "pctChange": -0.006410199587943396
     },
-    "4 4 2025": {
-        "importantArticles": [
-            {
-                "headline": "Press Release Nokia recognized as a Visionary in 2025 Gartner\u00d2 Magic Quadrant\u2122 for Data Center Switching Nokia solution recognized for Completeness of Vision and Ability to Execute in new research published by GartnerNokia data center switching solutions are designed to deliver the superior reliability, ease-of-use and adaptability required for modern data center operations 3 April 2025Espoo, Finland \u2013 Nokia today announced it has been named by Gartner as a Visionary in the 2025 Magic Quadrant f",
-                "publication_date": "2025-04-04T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.9485",
-                "source": "GlobeNewswire",
-                "ticker": "NOK",
-                "title": "Nokia recognized as a Visionary in 2025 Gartner\u00d2 Magic Quadrant\u2122 for Data Center Switching",
-                "url": "https://finance.yahoo.com/news/nokia-recognized-visionary-2025-gartner-150500378.html"
-            },
-            {
-                "headline": "NOK expands collaboration with Bharti Airtel to expedite 5G service delivery in key regions of India.",
-                "publication_date": "2025-04-04T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.1027",
-                "source": "Zacks",
-                "ticker": "NOK",
-                "title": "Will the Expanded Collaboration With Bharti Airtel Benefit Nokia?",
-                "url": "https://finance.yahoo.com/news/expanded-collaboration-bharti-airtel-benefit-170500379.html"
-            },
-            {
-                "headline": "NOK expands collaboration with Bharti Airtel to expedite 5G service delivery in key regions of India.",
-                "publication_date": "2025-04-04T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.1027",
-                "source": "Zacks",
-                "ticker": "NOK",
-                "title": "Will the Expanded Collaboration With Bharti Airtel Benefit Nokia?",
-                "url": "https://finance.yahoo.com/news/expanded-collaboration-bharti-airtel-benefit-170500379.html"
-            },
-            {
-                "headline": "Press Release Nokia recognized as a Visionary in 2025 Gartner\u00d2 Magic Quadrant\u2122 for Data Center Switching Nokia solution recognized for Completeness of Vision and Ability to Execute in new research published by GartnerNokia data center switching solutions are designed to deliver the superior reliability, ease-of-use and adaptability required for modern data center operations 3 April 2025Espoo, Finland \u2013 Nokia today announced it has been named by Gartner as a Visionary in the 2025 Magic Quadrant f",
-                "publication_date": "2025-04-04T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.9485",
-                "source": "GlobeNewswire",
-                "ticker": "NOK",
-                "title": "Nokia recognized as a Visionary in 2025 Gartner\u00d2 Magic Quadrant\u2122 for Data Center Switching",
-                "url": "https://finance.yahoo.com/news/nokia-recognized-visionary-2025-gartner-150500378.html"
-            }
-        ],
-        "avgScore": 0.5256,
-        "pctChange": -0.020920580979166107
-    },
     "4 3 2025": {
         "importantArticles": [
             {
+                "headline": "Press Release Nokia recognized as a Visionary in 2025 Gartner\u00d2 Magic Quadrant\u2122 for Data Center Switching Nokia solution recognized for Completeness of Vision and Ability to Execute in new research published by GartnerNokia data center switching solutions are designed to deliver the superior reliability, ease-of-use and adaptability required for modern data center operations 3 April 2025Espoo, Finland \u2013 Nokia today announced it has been named by Gartner as a Visionary in the 2025 Magic Quadrant f",
+                "publication_date": "2025-04-03T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9485",
+                "source": "GlobeNewswire",
+                "ticker": "NOK",
+                "title": "Nokia recognized as a Visionary in 2025 Gartner\u00d2 Magic Quadrant\u2122 for Data Center Switching",
+                "url": "https://finance.yahoo.com/news/nokia-recognized-visionary-2025-gartner-150500378.html"
+            },
+            {
                 "headline": "Nokia CorporationStock Exchange Release2 April 2025 at 22:45 EESTNokia completes the share buyback program launched in November 2024Espoo, Finland \u2013 Nokia Corporation (\"Nokia\" or the \"Company\") has now completed the share buyback program announced on 22 November 2024 the purpose of which was to offset the dilutive effect of the Infinera acquisition. Between 25 November 2024 and 2 April 2025, Nokia repurchased 150,000,000 of its own shares (FI0009000681) at an average price per share of approxima",
                 "publication_date": "2025-04-03T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -360,6 +364,16 @@
                 "ticker": "NOK",
                 "title": "Nokia Corporation: Repurchase of own shares on 02.04.2025",
                 "url": "https://finance.yahoo.com/news/nokia-corporation-repurchase-own-shares-193000115.html"
+            },
+            {
+                "headline": "NOK expands collaboration with Bharti Airtel to expedite 5G service delivery in key regions of India.",
+                "publication_date": "2025-04-03T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.1027",
+                "source": "Zacks",
+                "ticker": "NOK",
+                "title": "Will the Expanded Collaboration With Bharti Airtel Benefit Nokia?",
+                "url": "https://finance.yahoo.com/news/expanded-collaboration-bharti-airtel-benefit-170500379.html"
             },
             {
                 "headline": "Nokia CorporationStock Exchange Release2 April 2025 at 22:30 EEST Nokia Corporation: Repurchase of own shares on 02.04.2025 Espoo, Finland \u2013 On 2 April 2025 Nokia Corporation (LEI: 549300A0JPRWG1KI7U06) has acquired its own shares (ISIN FI0009000681) as follows: Trading venue (MIC Code)Number of sharesWeighted average price / share, EUR*XHEL1,729,2564.94CEUX1,007,4084.93BATE--AQEU140,8534.93TQEX129,1034.93Total3,006,6204.93 * Rounded to two decimals On 22 November 2024, Nokia announced that its",
@@ -382,7 +396,7 @@
                 "url": "https://finance.yahoo.com/news/nokia-completes-share-buyback-program-194500103.html"
             }
         ],
-        "avgScore": 0.7441,
+        "avgScore": 0.63485,
         "pctChange": -0.040160604116291965
     },
     "4 2 2025": {
@@ -408,26 +422,6 @@
                 "url": "https://finance.yahoo.com/news/nokia-corporation-repurchase-own-shares-193000556.html"
             },
             {
-                "headline": "Amazon is set to leverage NOK's video technologies to enhance its streaming services and devices.",
-                "publication_date": "2025-04-02T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.1779",
-                "source": "Zacks",
-                "ticker": "NOK",
-                "title": "Nokia Inks Patent License Agreement with Amazon: Stock to Gain?",
-                "url": "https://finance.yahoo.com/news/nokia-inks-patent-license-agreement-144800555.html"
-            },
-            {
-                "headline": "Amazon is set to leverage NOK's video technologies to enhance its streaming services and devices.",
-                "publication_date": "2025-04-02T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.1779",
-                "source": "Zacks",
-                "ticker": "NOK",
-                "title": "Nokia Inks Patent License Agreement with Amazon: Stock to Gain?",
-                "url": "https://finance.yahoo.com/news/nokia-inks-patent-license-agreement-144800555.html"
-            },
-            {
                 "headline": "Nokia CorporationStock Exchange Release1 April 2025 at 22:30 EEST Nokia Corporation: Repurchase of own shares on 01.04.2025 Espoo, Finland \u2013 On 1 April 2025 Nokia Corporation (LEI: 549300A0JPRWG1KI7U06) has acquired its own shares (ISIN FI0009000681) as follows: Trading venue (MIC Code)Number of sharesWeighted average price / share, EUR*XHEL2,069,5014.99CEUX1,600,0004.99BATE--AQEU146,7204.99TQEX126,0064.99Total3,942,2274.99 * Rounded to two decimals On 22 November 2024, Nokia announced that its",
                 "publication_date": "2025-04-02T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -448,7 +442,7 @@
                 "url": "https://finance.yahoo.com/news/bharti-airtel-nokia-expand-core-060000821.html"
             }
         ],
-        "avgScore": 0.5832333333333334,
+        "avgScore": 0.7859,
         "pctChange": -0.06915885834665135
     },
     "4 1 2025": {
@@ -464,6 +458,16 @@
                 "url": "https://finance.yahoo.com/news/nokia-corporation-repurchase-own-shares-193000011.html"
             },
             {
+                "headline": "Amazon is set to leverage NOK's video technologies to enhance its streaming services and devices.",
+                "publication_date": "2025-04-01T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.1779",
+                "source": "Zacks",
+                "ticker": "NOK",
+                "title": "Nokia Inks Patent License Agreement with Amazon: Stock to Gain?",
+                "url": "https://finance.yahoo.com/news/nokia-inks-patent-license-agreement-144800555.html"
+            },
+            {
                 "headline": "We recently compiled a list of the 10 Best Stocks Under $10 to Buy Now. In this article, we are going to take a look at where Nokia Oyj (NYSE:NOK) stands against the other stocks under $10. On March 28, Friday, US stocks declined as Wall Street continued to struggle with President Trump\u2019s trade war [\u2026]",
                 "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -482,6 +486,16 @@
                 "ticker": "NOK",
                 "title": "Is Nokia Oyj (NOK) The Best Stock Under $10 to Buy Now?",
                 "url": "https://finance.yahoo.com/news/nokia-oyj-nok-best-stock-211828438.html"
+            },
+            {
+                "headline": "Amazon is set to leverage NOK's video technologies to enhance its streaming services and devices.",
+                "publication_date": "2025-04-01T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.1779",
+                "source": "Zacks",
+                "ticker": "NOK",
+                "title": "Nokia Inks Patent License Agreement with Amazon: Stock to Gain?",
+                "url": "https://finance.yahoo.com/news/nokia-inks-patent-license-agreement-144800555.html"
             },
             {
                 "headline": "Nokia CorporationStock Exchange Release31 March 2025 at 22:30 EEST Nokia Corporation: Repurchase of own shares on 31.03.2025 Espoo, Finland \u2013 On 31 March 2025 Nokia Corporation (LEI: 549300A0JPRWG1KI7U06) has acquired its own shares (ISIN FI0009000681) as follows: Trading venue (MIC Code) Number of shares Weighted average price / share, EUR* XHEL 2,328,727 4.82 CEUX 1,600,000 4.82 BATE - - AQEU 100,000 4.81 TQEX 146,020 4.83 Total 4,174,747 4.82 * Rounded to two decimals On 22 November 2024, Nok",
@@ -494,7 +508,7 @@
                 "url": "https://finance.yahoo.com/news/nokia-corporation-repurchase-own-shares-193000011.html"
             }
         ],
-        "avgScore": 0.2732,
+        "avgScore": 0.2414333333333333,
         "pctChange": 0.0018726126889400214
     },
     "3 31 2025": {
@@ -576,26 +590,6 @@
                 "url": "https://finance.yahoo.com/news/nokia-corporation-repurchase-own-shares-203000743.html"
             },
             {
-                "headline": "Deutsches Forschungsnetz selects NOK to modernize and expand its IP core network across Germany.",
-                "publication_date": "2025-03-28T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.3182",
-                "source": "Zacks",
-                "ticker": "NOK",
-                "title": "Nokia Chosen by DFN to Boost Scientific Research With Green IP Network",
-                "url": "https://finance.yahoo.com/news/nokia-chosen-dfn-boost-scientific-130900654.html"
-            },
-            {
-                "headline": "Deutsches Forschungsnetz selects NOK to modernize and expand its IP core network across Germany.",
-                "publication_date": "2025-03-28T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.3182",
-                "source": "Zacks",
-                "ticker": "NOK",
-                "title": "Nokia Chosen by DFN to Boost Scientific Research With Green IP Network",
-                "url": "https://finance.yahoo.com/news/nokia-chosen-dfn-boost-scientific-130900654.html"
-            },
-            {
                 "headline": "Nokia CorporationStock Exchange Release27 March 2025 at 22:30 EET Nokia Corporation: Repurchase of own shares on 27.03.2025 Espoo, Finland \u2013 On 27 March 2025 Nokia Corporation (LEI: 549300A0JPRWG1KI7U06) has acquired its own shares (ISIN FI0009000681) as follows: Trading venue (MIC Code)Number of sharesWeighted average price / share, EUR*XHEL2,797,1744.87CEUX1,500,0004.88BATE--AQEU179,2564.87TQEX195,9964.87Total4,672,4264.88 * Rounded to two decimals On 22 November 2024, Nokia announced that its",
                 "publication_date": "2025-03-28T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -606,7 +600,7 @@
                 "url": "https://finance.yahoo.com/news/nokia-corporation-repurchase-own-shares-203000743.html"
             }
         ],
-        "avgScore": 0.49949999999999994,
+        "avgScore": 0.6808,
         "pctChange": 0.011516303712136064
     },
     "3 27 2025": {
@@ -642,6 +636,16 @@
                 "url": "https://finance.yahoo.com/news/nokia-launches-nokia-dac-marketplace-080000403.html"
             },
             {
+                "headline": "Deutsches Forschungsnetz selects NOK to modernize and expand its IP core network across Germany.",
+                "publication_date": "2025-03-27T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.3182",
+                "source": "Zacks",
+                "ticker": "NOK",
+                "title": "Nokia Chosen by DFN to Boost Scientific Research With Green IP Network",
+                "url": "https://finance.yahoo.com/news/nokia-chosen-dfn-boost-scientific-130900654.html"
+            },
+            {
                 "headline": "Press ReleaseNokia launches Nokia DAC Marketplace to empower industrial enterprises to harness digital transformation DAC Marketplace brings together a wide selection of industrial solutions, including Nokia and third-party devices, applications, and services available worldwide. Customers and partners can easily find and deploy industrial products for their private wireless infrastructures. Marketplace merchants have increased visibility among Nokia customers and partners, driving additional op",
                 "publication_date": "2025-03-27T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -660,43 +664,13 @@
                 "ticker": "NOK",
                 "title": "Nokia Corporation: Repurchase of own shares on 26.03.2025",
                 "url": "https://finance.yahoo.com/news/nokia-corporation-repurchase-own-shares-203000815.html"
-            },
-            {
-                "headline": "Press ReleaseNokia strengthens industrial digitalization with new edge applications Expansion of on-prem edge industrial application portfolio enhances industry automation, efficiency, safety, security, and sustainability of industrial enterprises.Underscores Nokia\u2019s commitment to fostering an open and interoperable industrial edge ecosystem. 27 March 2025 Espoo, Finland \u2013 Nokia today announced the expansion of its industrial application ecosystem with the launch of six new Industry 4.0 applicat",
-                "publication_date": "2025-03-27T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.9062",
-                "source": "GlobeNewswire",
-                "ticker": "NOK",
-                "title": "Nokia strengthens industrial digitalization with new edge applications",
-                "url": "https://finance.yahoo.com/news/nokia-strengthens-industrial-digitalization-edge-080000026.html"
             }
         ],
-        "avgScore": 0.7413,
+        "avgScore": 0.635525,
         "pctChange": 0.0019231210093542616
     },
     "3 26 2025": {
         "importantArticles": [
-            {
-                "headline": "Press ReleaseNokia to showcase latest optical innovations to network the cloud for the AI era at OFC50 New optical networking powerhouse to demonstrate bolstered product portfolio and pioneering innovations.Nokia offers solutions and industry firsts to help network operators more efficiently address capacity demands driven by rapid growth in data center builds and AI workloads.Nokia to hold executive briefing at OFC50 to provide optical insights in the era of AI. 25 March 2025Espoo, Finland \u2013 No",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7778",
-                "source": "GlobeNewswire",
-                "ticker": "NOK",
-                "title": "Nokia to showcase latest optical innovations to network the cloud for the AI era at OFC50",
-                "url": "https://finance.yahoo.com/news/nokia-showcase-latest-optical-innovations-130000722.html"
-            },
-            {
-                "headline": "Nokia introduces Broadband Easy to automate fiber installation. It is also advancing the development of quantum safe networks.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7003",
-                "source": "Zacks",
-                "ticker": "NOK",
-                "title": "Will Strong Emphasis on Innovation Propel NOK's Stock Price?",
-                "url": "https://finance.yahoo.com/news/strong-emphasis-innovation-propel-noks-154000191.html"
-            },
             {
                 "headline": "Nokia CorporationStock Exchange Release25 March 2025 at 22:30 EET Nokia Corporation: Repurchase of own shares on 25.03.2025 Espoo, Finland \u2013 On 25 March 2025 Nokia Corporation (LEI: 549300A0JPRWG1KI7U06) has acquired its own shares (ISIN FI0009000681) as follows: Trading venue (MIC Code)Number of sharesWeighted average price / share, EUR*XHEL1,803,1184.96CEUX1,137,1654.96BATE--AQEU--TQEX165,0124.96Total3,105,2954.96 * Rounded to two decimals On 22 November 2024, Nokia announced that its Board of",
                 "publication_date": "2025-03-26T00:00:00.000Z",
@@ -706,6 +680,26 @@
                 "ticker": "NOK",
                 "title": "Nokia Corporation: Repurchase of own shares on 25.03.2025",
                 "url": "https://finance.yahoo.com/news/nokia-corporation-repurchase-own-shares-203000450.html"
+            },
+            {
+                "headline": "Press Release Deutsches Forschungsnetz selects Nokia to accelerate scientific research with a high-capacity green IP network IP network upgrade allows Deutsches Forschungsnetz e.V. (DFN) to provide seamless access to critical resources and facilitate faster and more efficient collaboration.Expansion delivers interface speeds up to 800 Gigabits per second to meet future capacity growthModernized IP core network offers higher bandwidth, increased capacity and up to 75% reduced power consumption 26",
+                "publication_date": "2025-03-26T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4391",
+                "source": "GlobeNewswire",
+                "ticker": "NOK",
+                "title": "Deutsches Forschungsnetz selects Nokia to accelerate scientific research with a high-capacity green IP network",
+                "url": "https://finance.yahoo.com/news/deutsches-forschungsnetz-selects-nokia-accelerate-080000977.html"
+            },
+            {
+                "headline": "Press release Nokia expands collection of broadband applications for Service Providers to monetize the connected home Nokia Corteca Marketplace provides Communication Service Providers (CSPs) with access to the largest collection of value-added applications for broadband devices.CSPs can easily manage applications with Corteca via prpl lifecycle management (LCM) and TR-369 standard-based protocols. Developers and CSPs can use Nokia\u2019s open-source Corteca Developer Toolkit to quickly develop new a",
+                "publication_date": "2025-03-26T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4215",
+                "source": "GlobeNewswire",
+                "ticker": "NOK",
+                "title": "Nokia expands collection of broadband applications for Service Providers to monetize the connected home",
+                "url": "https://finance.yahoo.com/news/nokia-expands-collection-broadband-applications-070000590.html"
             },
             {
                 "headline": "Press release Nokia expands collection of broadband applications for Service Providers to monetize the connected home Nokia Corteca Marketplace provides Communication Service Providers (CSPs) with access to the largest collection of value-added applications for broadband devices.CSPs can easily manage applications with Corteca via prpl lifecycle management (LCM) and TR-369 standard-based protocols. Developers and CSPs can use Nokia\u2019s open-source Corteca Developer Toolkit to quickly develop new a",
@@ -738,21 +732,11 @@
                 "url": "https://finance.yahoo.com/news/nokia-corporation-repurchase-own-shares-203000450.html"
             }
         ],
-        "avgScore": 0.6039,
+        "avgScore": 0.5137999999999999,
         "pctChange": -0.0114069233851448
     },
     "3 25 2025": {
         "importantArticles": [
-            {
-                "headline": "Press ReleaseNokia and Honeywell Aerospace Technologies partner with Numana to advance quantum-safe networks Collaboration to drive innovation and enable a global post-quantum security economy for enterprises and service providers.Quantum-safe communications poised to safeguard digital infrastructure.The partnership benefits from Numana\u2019s Kirq quantum communication testbed, Honeywell Aerospace Technologies\u2019 quantum key distribution, and Nokia\u2019s advanced cryptographic network technologies. 24 Mar",
-                "publication_date": "2025-03-25T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.9042",
-                "source": "GlobeNewswire",
-                "ticker": "NOK",
-                "title": "Nokia and Honeywell Aerospace Technologies partner with Numana to advance quantum-safe networks",
-                "url": "https://finance.yahoo.com/news/nokia-honeywell-aerospace-technologies-partner-130000196.html"
-            },
             {
                 "headline": "Nokia CorporationStock Exchange Release24 March 2025 at 22:30 EET Nokia Corporation: Repurchase of own shares on 24.03.2025 Espoo, Finland \u2013 On 24 March 2025 Nokia Corporation (LEI: 549300A0JPRWG1KI7U06) has acquired its own shares (ISIN FI0009000681) as follows: Trading venue (MIC Code) Number of shares Weighted average price / share, EUR* XHEL 2,408,132 4.93 CEUX 1,220,634 4.93 BATE - - AQEU - - TQEX 166,276 4.93 Total 3,795,042 4.93 * Rounded to two decimals On 22 November 2024, Nokia announc",
                 "publication_date": "2025-03-25T00:00:00.000Z",
@@ -764,14 +748,24 @@
                 "url": "https://finance.yahoo.com/news/nokia-corporation-repurchase-own-shares-203000957.html"
             },
             {
-                "headline": "Press ReleasePOST Luxembourg becomes first European operator to migrate to an autonomous, AI-ready fiber network POST Luxembourg (POST) uses Nokia\u2019s Lightspan access nodes and Altiplano automation platform to establish Europe\u2019s first nation-wide autonomous fiber network.Nokia Altiplano Access Controller readies POST for the autonomous network era, helping to improve and streamline network operations, lower costs and enhance service delivery.Nokia Lightspan is a high-capacity fiber platform desig",
+                "headline": "Press ReleaseNokia to showcase latest optical innovations to network the cloud for the AI era at OFC50 New optical networking powerhouse to demonstrate bolstered product portfolio and pioneering innovations.Nokia offers solutions and industry firsts to help network operators more efficiently address capacity demands driven by rapid growth in data center builds and AI workloads.Nokia to hold executive briefing at OFC50 to provide optical insights in the era of AI. 25 March 2025Espoo, Finland \u2013 No",
                 "publication_date": "2025-03-25T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.4404",
+                "sentimentScore": "0.7778",
                 "source": "GlobeNewswire",
                 "ticker": "NOK",
-                "title": "POST Luxembourg becomes first European operator to migrate to an autonomous, AI-ready fiber network",
-                "url": "https://finance.yahoo.com/news/post-luxembourg-becomes-first-european-080000882.html"
+                "title": "Nokia to showcase latest optical innovations to network the cloud for the AI era at OFC50",
+                "url": "https://finance.yahoo.com/news/nokia-showcase-latest-optical-innovations-130000722.html"
+            },
+            {
+                "headline": "Nokia introduces Broadband Easy to automate fiber installation. It is also advancing the development of quantum safe networks.",
+                "publication_date": "2025-03-25T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7003",
+                "source": "Zacks",
+                "ticker": "NOK",
+                "title": "Will Strong Emphasis on Innovation Propel NOK's Stock Price?",
+                "url": "https://finance.yahoo.com/news/strong-emphasis-innovation-propel-noks-154000191.html"
             },
             {
                 "headline": "NOK expands FWA portfolio with the launch of FastMile compact 5G indoor gateway.",
@@ -794,21 +788,31 @@
                 "url": "https://finance.yahoo.com/news/post-luxembourg-becomes-first-european-080000882.html"
             },
             {
-                "headline": "Nokia CorporationStock Exchange Release24 March 2025 at 22:30 EET Nokia Corporation: Repurchase of own shares on 24.03.2025 Espoo, Finland \u2013 On 24 March 2025 Nokia Corporation (LEI: 549300A0JPRWG1KI7U06) has acquired its own shares (ISIN FI0009000681) as follows: Trading venue (MIC Code) Number of shares Weighted average price / share, EUR* XHEL 2,408,132 4.93 CEUX 1,220,634 4.93 BATE - - AQEU - - TQEX 166,276 4.93 Total 3,795,042 4.93 * Rounded to two decimals On 22 November 2024, Nokia announc",
+                "headline": "Nokia introduces Broadband Easy to automate fiber installation. It is also advancing the development of quantum safe networks.",
                 "publication_date": "2025-03-25T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.7964",
-                "source": "GlobeNewswire",
+                "sentimentScore": "0.7003",
+                "source": "Zacks",
                 "ticker": "NOK",
-                "title": "Nokia Corporation: Repurchase of own shares on 24.03.2025",
-                "url": "https://finance.yahoo.com/news/nokia-corporation-repurchase-own-shares-203000957.html"
+                "title": "Will Strong Emphasis on Innovation Propel NOK's Stock Price?",
+                "url": "https://finance.yahoo.com/news/strong-emphasis-innovation-propel-noks-154000191.html"
             }
         ],
-        "avgScore": 0.560925,
+        "avgScore": 0.56352,
         "pctChange": -0.013133151186904066
     },
     "3 24 2025": {
         "importantArticles": [
+            {
+                "headline": "Press ReleaseNokia and Honeywell Aerospace Technologies partner with Numana to advance quantum-safe networks Collaboration to drive innovation and enable a global post-quantum security economy for enterprises and service providers.Quantum-safe communications poised to safeguard digital infrastructure.The partnership benefits from Numana\u2019s Kirq quantum communication testbed, Honeywell Aerospace Technologies\u2019 quantum key distribution, and Nokia\u2019s advanced cryptographic network technologies. 24 Mar",
+                "publication_date": "2025-03-24T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9042",
+                "source": "GlobeNewswire",
+                "ticker": "NOK",
+                "title": "Nokia and Honeywell Aerospace Technologies partner with Numana to advance quantum-safe networks",
+                "url": "https://finance.yahoo.com/news/nokia-honeywell-aerospace-technologies-partner-130000196.html"
+            },
             {
                 "headline": "Press ReleaseBringing fiber to the next billion homes: Nokia automates fiber deployments with Broadband Easy Nokia Broadband Easy digital platform and services accelerate fiber rollouts by 20%. Advanced automation and AI models make fiber buildouts better and more efficient. Lower total cost of ownership (TCO) of fiber deployments enables broadband providers to extend coverage to unconnected and underserved communities. 24 March 2025Amsterdam, Netherlands \u2013 Nokia today announced the launch of Br",
                 "publication_date": "2025-03-24T00:00:00.000Z",
@@ -828,17 +832,27 @@
                 "ticker": "NOK",
                 "title": "Bringing fiber to the next billion homes: Nokia automates fiber deployments with Broadband Easy",
                 "url": "https://finance.yahoo.com/news/bringing-fiber-next-billion-homes-080000103.html"
+            },
+            {
+                "headline": "Press ReleaseNokia and Honeywell Aerospace Technologies partner with Numana to advance quantum-safe networks Collaboration to drive innovation and enable a global post-quantum security economy for enterprises and service providers.Quantum-safe communications poised to safeguard digital infrastructure.The partnership benefits from Numana\u2019s Kirq quantum communication testbed, Honeywell Aerospace Technologies\u2019 quantum key distribution, and Nokia\u2019s advanced cryptographic network technologies. 24 Mar",
+                "publication_date": "2025-03-24T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9042",
+                "source": "GlobeNewswire",
+                "ticker": "NOK",
+                "title": "Nokia and Honeywell Aerospace Technologies partner with Numana to advance quantum-safe networks",
+                "url": "https://finance.yahoo.com/news/nokia-honeywell-aerospace-technologies-partner-130000196.html"
             }
         ],
-        "avgScore": 0.9004,
+        "avgScore": 0.9023,
         "pctChange": 0.0
     },
-    "coef": 0.1754385964912281,
-    "avgCoef": -0.02783269379690089,
+    "coef": -0.029927760577915376,
+    "avgCoef": -0.030334909239216605,
     "similar": {
-        "RIVN": 0.21929824561403505,
-        "NKE": 0.20526315789473687,
-        "PBR": 0.20175438596491227,
-        "SNAP": 0.19824561403508772
+        "PDCO": 0.5282571227653653,
+        "ABEV": 0.35123985684462217,
+        "GOLD": 0.3023735810113519,
+        "BBD": 0.2714138286893705
     }
 }

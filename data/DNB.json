@@ -25,32 +25,6 @@
         "avgScore": 0.7269,
         "pctChange": -0.005714307512555803
     },
-    "4 11 2025": {
-        "importantArticles": [
-            {
-                "headline": "Verisk (VRSK) witnessed a jump in share price last session on above-average trading volume. The latest trend in earnings estimate revisions for the stock doesn't suggest further strength down the road.",
-                "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.1098",
-                "source": "Zacks",
-                "ticker": "DNB",
-                "title": "Verisk (VRSK) Soars 4.4%: Is Further Upside Left in the Stock?",
-                "url": "https://finance.yahoo.com/news/verisk-vrsk-soars-4-4-143900666.html"
-            },
-            {
-                "headline": "Verisk (VRSK) witnessed a jump in share price last session on above-average trading volume. The latest trend in earnings estimate revisions for the stock doesn't suggest further strength down the road.",
-                "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.1098",
-                "source": "Zacks",
-                "ticker": "DNB",
-                "title": "Verisk (VRSK) Soars 4.4%: Is Further Upside Left in the Stock?",
-                "url": "https://finance.yahoo.com/news/verisk-vrsk-soars-4-4-143900666.html"
-            }
-        ],
-        "avgScore": -0.1098,
-        "pctChange": 0.011587419057860404
-    },
     "4 10 2025": {
         "importantArticles": [
             {
@@ -74,6 +48,26 @@
                 "url": "https://finance.yahoo.com/news/unpacking-q4-earnings-broadridge-nyse-091532055.html"
             },
             {
+                "headline": "Verisk (VRSK) witnessed a jump in share price last session on above-average trading volume. The latest trend in earnings estimate revisions for the stock doesn't suggest further strength down the road.",
+                "publication_date": "2025-04-10T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.1098",
+                "source": "Zacks",
+                "ticker": "DNB",
+                "title": "Verisk (VRSK) Soars 4.4%: Is Further Upside Left in the Stock?",
+                "url": "https://finance.yahoo.com/news/verisk-vrsk-soars-4-4-143900666.html"
+            },
+            {
+                "headline": "Verisk (VRSK) witnessed a jump in share price last session on above-average trading volume. The latest trend in earnings estimate revisions for the stock doesn't suggest further strength down the road.",
+                "publication_date": "2025-04-10T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.1098",
+                "source": "Zacks",
+                "ticker": "DNB",
+                "title": "Verisk (VRSK) Soars 4.4%: Is Further Upside Left in the Stock?",
+                "url": "https://finance.yahoo.com/news/verisk-vrsk-soars-4-4-143900666.html"
+            },
+            {
                 "headline": "As the Q4 earnings season comes to a close, it\u2019s time to take stock of this quarter\u2019s best and worst performers in the data & business process services industry, including Broadridge (NYSE:BR) and its peers.",
                 "publication_date": "2025-04-10T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -94,7 +88,7 @@
                 "url": "https://finance.yahoo.com/news/global-business-optimism-continues-decline-070000057.html"
             }
         ],
-        "avgScore": 0.28405,
+        "avgScore": 0.1527666666666667,
         "pctChange": 0.005827528109495151
     },
     "4 8 2025": {
@@ -316,16 +310,6 @@
                 "url": "https://finance.yahoo.com/news/morgan-stanley-leads-6-billion-170925702.html"
             },
             {
-                "headline": "All three major US stock indexes were up over 1% in late-morning trading on Monday as Wall Street re",
-                "publication_date": "2025-03-25T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "MT Newswires",
-                "ticker": "DNB",
-                "title": "Top Midday Stories: Dun & Bradstreet to Be Acquired by Clearlake in $7.7 Billion Deal; 23andMe Files for Chapter 11, CEO Resigns",
-                "url": "https://finance.yahoo.com/news/top-midday-stories-dun-bradstreet-154428115.html"
-            },
-            {
                 "headline": "Morgan Stanley (MS) is leading the financing of Clearlake Capital Group's multi-billion dollar deal",
                 "publication_date": "2025-03-25T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -334,9 +318,19 @@
                 "ticker": "DNB",
                 "title": "Market Chatter: Morgan Stanley Leads Financing of Clearlake's Bid to Take Dun & Bradstreet Private",
                 "url": "https://finance.yahoo.com/news/market-chatter-morgan-stanley-leads-183747635.html"
+            },
+            {
+                "headline": "(Bloomberg) -- Clearlake Capital Group has agreed to acquire Dun & Bradstreet Holdings Inc. in a deal that values one of Wall Street\u2019s oldest data and analytics providers at $4.1 billion.Most Read from BloombergThey Built a Secret Apartment in a Mall. Now the Mall Is Dying.Why Did the Government Declare War on My Adorable Tiny Truck?Chicago Transit Faces \u2018Doomsday Scenario,\u2019 Regional Agency SaysLA Faces $1 Billion Budget Hole, Warns of Thousands of LayoffsLibraries Warn They Could Be \u2018Cut off at",
+                "publication_date": "2025-03-25T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.3182",
+                "source": "Bloomberg",
+                "ticker": "DNB",
+                "title": "Clearlake Agrees to Buy Dun & Bradstreet for $4.1 Billion",
+                "url": "https://finance.yahoo.com/news/clearlake-agrees-deal-buy-dun-114929721.html"
             }
         ],
-        "avgScore": 0.29278750000000003,
+        "avgScore": 0.34485000000000005,
         "pctChange": -0.0011173440329555753
     },
     "3 24 2025": {
@@ -372,6 +366,26 @@
                 "url": "https://finance.yahoo.com/m/7f961f78-71cd-3fde-8f3c-56016fb8eea2/clearlake-capital-group-to.html"
             },
             {
+                "headline": "All three major US stock indexes were up over 1% in late-morning trading on Monday as Wall Street re",
+                "publication_date": "2025-03-24T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "MT Newswires",
+                "ticker": "DNB",
+                "title": "Top Midday Stories: Dun & Bradstreet to Be Acquired by Clearlake in $7.7 Billion Deal; 23andMe Files for Chapter 11, CEO Resigns",
+                "url": "https://finance.yahoo.com/news/top-midday-stories-dun-bradstreet-154428115.html"
+            },
+            {
+                "headline": "Dun & Bradstreet (DNB) agreed to be acquired by Clearlake Capital Group in a deal with a $7.7 billio",
+                "publication_date": "2025-03-24T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.2732",
+                "source": "MT Newswires",
+                "ticker": "DNB",
+                "title": "Dun & Bradstreet to Be Taken Private by Clearlake Capital in $7.7 Billion Deal",
+                "url": "https://finance.yahoo.com/news/dun-bradstreet-taken-private-clearlake-142437993.html"
+            },
+            {
                 "headline": "Dun & Bradstreet Holdings agreed to be acquired by private equity firm Clearlake Capital Group in a transaction valued at $7.7 billion, including outstanding debt.",
                 "publication_date": "2025-03-24T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -380,37 +394,17 @@
                 "ticker": "DNB",
                 "title": "Clearlake Capital Group to Acquire Dun & Bradstreet in $7.7 Billion Deal",
                 "url": "https://finance.yahoo.com/m/7f961f78-71cd-3fde-8f3c-56016fb8eea2/clearlake-capital-group-to.html"
-            },
-            {
-                "headline": "SANTA MONICA, Calif. & JACKSONVILLE, Fla., March 24, 2025--Clearlake Capital Group, L.P., (together with certain of its affiliates, \"Clearlake\"), today announced that it has entered into a definitive agreement to acquire Dun & Bradstreet Holdings, Inc. (\"Dun & Bradstreet\") (NYSE: DNB), a leading global provider of business decisioning data and analytics, in a transaction valued at $7.7 billion, including outstanding debt / with an equity value of $4.1 billion.",
-                "publication_date": "2025-03-24T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.9022",
-                "source": "Business Wire",
-                "ticker": "DNB",
-                "title": "Dun & Bradstreet Enters Into a Definitive Agreement To Be Acquired by Clearlake Capital Group",
-                "url": "https://finance.yahoo.com/news/dun-bradstreet-enters-definitive-agreement-113000569.html"
-            },
-            {
-                "headline": "Dun & Bradstreet has agreed to be acquired by private-equity firm Clearlake Capital for $4.1 billion, the data and analytics provider said on Monday, putting an end to its second stint as a public company after its stock-market listing more than four years ago.  Its shares are down nearly 30% this year and about 60% since going public in 2020, making it an attractive target for Clearlake.  Analysts have also pointed to its healthy free cash flow and potential for growth in revenue and margins as some of the factors that made it ripe for a takeover.",
-                "publication_date": "2025-03-24T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.93",
-                "source": "Reuters",
-                "ticker": "DNB",
-                "title": "PE firm Clearlake to buy Dun & Bradstreet for $4.1 billion in cash",
-                "url": "https://finance.yahoo.com/news/pe-firm-clearlake-buy-dun-114309190.html"
             }
         ],
-        "avgScore": 0.8633666666666667,
+        "avgScore": 0.5726600000000001,
         "pctChange": -0.0044493840791335415
     },
-    "coef": -0.3516018390324618,
-    "avgCoef": -0.030585260760967486,
+    "coef": -0.2378092989944506,
+    "avgCoef": -0.026468706330972612,
     "similar": {
-        "GOLD": 0.5753484638713012,
-        "PBR": 0.2465779130877005,
-        "CSCO": 0.1872165636406615,
-        "LCID": 0.15068650244248363
+        "PDD": 0.45122790065613705,
+        "GOLD": 0.37805580865784455,
+        "NGD": 0.3597627856582714,
+        "LCID": 0.3475674369918894
     }
 }

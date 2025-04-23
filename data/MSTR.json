@@ -1,55 +1,81 @@
 {
+    "4 23 2025": {
+        "importantArticles": [
+            {
+                "headline": "Brad Smith and Madison Mills take a closer look at some of the trending tickers of today's trading session on Wealth. GE Vernova (GEV) maintains its full-year outlook despite a $300\u2013$400 million impact from tariffs. AT&T (T) also reaffirmed its guidance as subscriber numbers grew, supporting the company's assertion that it is well-positioned amid economic uncertainty. Bitcoin (BTC-USD) is trading above $90,000, lifting other crypto-related stocks like Coinbase (COIN), Strategy (MSTR), MARA (MARA), and Robinhood (HOOD). To watch more expert insights and analysis on the latest market action, check out more Wealth here.",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8555",
+                "source": "Yahoo Finance Video",
+                "ticker": "MSTR",
+                "title": "GE Vernova & AT&T outlook, bitcoin & crypto gains: Trending Tickers",
+                "url": "https://finance.yahoo.com/video/ge-vernova-t-outlook-bitcoin-152907412.html"
+            },
+            {
+                "headline": "Investor relief about a possible easing of U.S.-China trade tensions is extending to cryptocurrencies.  Bitcoin recently traded above $94,000, its highest level since early March, after climbing back above $90,000 Tuesday.",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.34",
+                "source": "The Wall Street Journal",
+                "ticker": "MSTR",
+                "title": "Bitcoin Price Rises Above $94,000",
+                "url": "https://finance.yahoo.com/m/27eecd90-f701-337c-b3f4-123efa673c1e/bitcoin-price-rises-above.html"
+            },
+            {
+                "headline": "SPY, QQQ, MicroStrategy, GameStop and Semler Scientific are part of the Zacks Investment Ideas article.",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "MSTR",
+                "title": "Zacks Investment Ideas feature highlights: SPY, QQQ, MicroStrategy, GameStop and Semler Scientific",
+                "url": "https://finance.yahoo.com/news/zacks-investment-ideas-feature-highlights-124400291.html"
+            },
+            {
+                "headline": "SPY, QQQ, MicroStrategy, GameStop and Semler Scientific are part of the Zacks Investment Ideas article.",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "MSTR",
+                "title": "Zacks Investment Ideas feature highlights: SPY, QQQ, MicroStrategy, GameStop and Semler Scientific",
+                "url": "https://finance.yahoo.com/news/zacks-investment-ideas-feature-highlights-124400291.html"
+            },
+            {
+                "headline": "Investor relief about a possible easing of U.S.-China trade tensions is extending to cryptocurrencies.  Bitcoin recently traded above $94,000, its highest level since early March, after climbing back above $90,000 Tuesday.",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.34",
+                "source": "The Wall Street Journal",
+                "ticker": "MSTR",
+                "title": "Bitcoin Price Rises Above $94,000",
+                "url": "https://finance.yahoo.com/m/27eecd90-f701-337c-b3f4-123efa673c1e/bitcoin-price-rises-above.html"
+            },
+            {
+                "headline": "Brad Smith and Madison Mills take a closer look at some of the trending tickers of today's trading session on Wealth. GE Vernova (GEV) maintains its full-year outlook despite a $300\u2013$400 million impact from tariffs. AT&T (T) also reaffirmed its guidance as subscriber numbers grew, supporting the company's assertion that it is well-positioned amid economic uncertainty. Bitcoin (BTC-USD) is trading above $90,000, lifting other crypto-related stocks like Coinbase (COIN), Strategy (MSTR), MARA (MARA), and Robinhood (HOOD). To watch more expert insights and analysis on the latest market action, check out more Wealth here.",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8555",
+                "source": "Yahoo Finance Video",
+                "ticker": "MSTR",
+                "title": "GE Vernova & AT&T outlook, bitcoin & crypto gains: Trending Tickers",
+                "url": "https://finance.yahoo.com/video/ge-vernova-t-outlook-bitcoin-152907412.html"
+            }
+        ],
+        "avgScore": 0.3985,
+        "pctChange": -0.007357027219065217
+    },
     "4 22 2025": {
         "importantArticles": [
             {
-                "headline": "Catalysts host Madison Mills and Threadneedle Ventures founder Ann Berry go over some of Monday's top trending tickers. Nvidia (NVDA) is in focus as its CEO, Jensen Huang, met with Japan's prime minister to discuss energy needs for artificial intelligence (AI). Bill Ackman's Pershing Square Capital Management took a 20% stake in Hertz (HTZ), citing optimism in the company's turnaround strategy. Strategy (MSTR) received a Buy rating from CTBC Securities due to its (BTC-USD) bitcoin acquisition strategy, purchasing $555 million in bitcoin in the past week. To watch more expert insights and analysis on the latest market action, check out more Catalysts&nbsp;here.",
-                "publication_date": "2025-04-22T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8934",
-                "source": "Yahoo Finance Video",
-                "ticker": "MSTR",
-                "title": "Nvidia & Japan, Hertz, Strategy & bitcoin: Trending Tickers",
-                "url": "https://finance.yahoo.com/video/nvidia-japan-hertz-strategy-bitcoin-150730103.html"
-            },
-            {
-                "headline": "Bitcoin (CRYPTO: BTC) jumped 3.52% on Monday to $87,348.17, extending its rebound above key resistance as institutional buying and macroeconomic tailwinds boosted sentiment across crypto markets. The coin is now up 3.9% over the last seven days and ...",
-                "publication_date": "2025-04-22T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.3612",
-                "source": "Benzinga",
-                "ticker": "MSTR",
-                "title": "Bitcoin Surges Past $87K As Strategy Expands Holdings And Dollar Weakness Fuels Hedge Appeal",
-                "url": "https://finance.yahoo.com/news/bitcoin-surges-past-87k-strategy-151823711.html"
-            },
-            {
-                "headline": "Strategy ramps up Bitcoin buys with fresh equity as BTC hovers near all-time highs",
-                "publication_date": "2025-04-22T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.3182",
-                "source": "GuruFocus.com",
-                "ticker": "MSTR",
-                "title": "Michael Saylor Just Dropped $555M on Bitcoin--Is He Betting on $100K BTC Next?",
-                "url": "https://finance.yahoo.com/news/michael-saylor-just-dropped-555m-154645572.html"
-            },
-            {
-                "headline": "The U.S. dollar index tumbled to a three-year low early Monday, while the S&P 500 fell sharply.  The 10-year Treasury yield climbed, as government bond investors demand a higher return.  Meanwhile, gold and bitcoin are shining as investors shun U.S. financial assets.",
-                "publication_date": "2025-04-22T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "-0.0258",
-                "source": "Investor's Business Daily",
-                "ticker": "MSTR",
-                "title": "Dollar And S&P 500 Tumble, Gold And Bitcoin Rise As Cash Exits U.S. In Threat To Trump Agenda",
-                "url": "https://finance.yahoo.com/m/c709b78d-204f-3691-9189-dee61eae9249/dollar-and-s-p-500-tumble-.html"
-            },
-            {
-                "headline": "MicroStrategy, the world\u2019s largest corporate holder of Bitcoin, snaps up 6,556 units of the digital currency.",
+                "headline": "Crypto stocks rose 10% or more as Bitcoin's price exceeded the $91,000 mark. Michael Saylor remarked, \u201cBitcoin is Climbing.\u201d",
                 "publication_date": "2025-04-22T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
-                "source": "Barrons.com",
+                "source": "TheStreet",
                 "ticker": "MSTR",
-                "title": "MicroStrategy Stock Rises. Why Its Bitcoin Purchases Have Little Effect on the Crypto\u2019s Price.",
-                "url": "https://finance.yahoo.com/m/d339149d-33c1-3d35-beb7-887e0c29fa8e/microstrategy-stock-rises-.html"
+                "title": "Another tariff news sends Microstrategy stock reeling",
+                "url": "https://finance.yahoo.com/news/another-tariff-news-sends-microstrategy-173331761.html"
             },
             {
                 "headline": "EZCORP, West Japan Railway and MicroStrategy are part of the Zacks Investment Ideas article.",
@@ -60,22 +86,42 @@
                 "ticker": "MSTR",
                 "title": "Zacks Investment Ideas feature highlights: EZCORP, West Japan Railway and MicroStrategy",
                 "url": "https://finance.yahoo.com/news/zacks-investment-ideas-feature-highlights-115800084.html"
+            },
+            {
+                "headline": "EZCORP, West Japan Railway and MicroStrategy are part of the Zacks Investment Ideas article.",
+                "publication_date": "2025-04-22T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "MSTR",
+                "title": "Zacks Investment Ideas feature highlights: EZCORP, West Japan Railway and MicroStrategy",
+                "url": "https://finance.yahoo.com/news/zacks-investment-ideas-feature-highlights-115800084.html"
+            },
+            {
+                "headline": "Crypto stocks rose 10% or more as Bitcoin's price exceeded the $91,000 mark. Michael Saylor remarked, \u201cBitcoin is Climbing.\u201d",
+                "publication_date": "2025-04-22T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "TheStreet",
+                "ticker": "MSTR",
+                "title": "Another tariff news sends Microstrategy stock reeling",
+                "url": "https://finance.yahoo.com/news/another-tariff-news-sends-microstrategy-173331761.html"
             }
         ],
-        "avgScore": 0.23435714285714285,
-        "pctChange": 0.043564259366833814
+        "avgScore": 0.0,
+        "pctChange": 0.026601172003825127
     },
     "4 21 2025": {
         "importantArticles": [
             {
-                "headline": "Wall Street delivered mixed-to-downbeat performance last week thanks to Powell's warning of stagflation, rise of auto stocks on policy hopes, NVIDIA's $5.5B hit on export curb and upbeat retail sales.",
+                "headline": "Catalysts host Madison Mills and Threadneedle Ventures founder Ann Berry go over some of Monday's top trending tickers. Nvidia (NVDA) is in focus as its CEO, Jensen Huang, met with Japan's prime minister to discuss energy needs for artificial intelligence (AI). Bill Ackman's Pershing Square Capital Management took a 20% stake in Hertz (HTZ), citing optimism in the company's turnaround strategy. Strategy (MSTR) received a Buy rating from CTBC Securities due to its (BTC-USD) bitcoin acquisition strategy, purchasing $555 million in bitcoin in the past week. To watch more expert insights and analysis on the latest market action, check out more Catalysts&nbsp;here.",
                 "publication_date": "2025-04-21T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.5106",
-                "source": "Zacks",
+                "sentimentScore": "0.8934",
+                "source": "Yahoo Finance Video",
                 "ticker": "MSTR",
-                "title": "6 Best-Performing ETFs of Last Week",
-                "url": "https://finance.yahoo.com/news/6-best-performing-etfs-last-120000089.html"
+                "title": "Nvidia & Japan, Hertz, Strategy & bitcoin: Trending Tickers",
+                "url": "https://finance.yahoo.com/video/nvidia-japan-hertz-strategy-bitcoin-150730103.html"
             },
             {
                 "headline": "Wall Street delivered mixed-to-downbeat performance last week thanks to Powell's warning of stagflation, rise of auto stocks on policy hopes, NVIDIA's $5.5B hit on export curb and upbeat retail sales.",
@@ -86,68 +132,72 @@
                 "ticker": "MSTR",
                 "title": "6 Best-Performing ETFs of Last Week",
                 "url": "https://finance.yahoo.com/news/6-best-performing-etfs-last-120000089.html"
+            },
+            {
+                "headline": "Bitcoin (CRYPTO: BTC) jumped 3.52% on Monday to $87,348.17, extending its rebound above key resistance as institutional buying and macroeconomic tailwinds boosted sentiment across crypto markets. The coin is now up 3.9% over the last seven days and ...",
+                "publication_date": "2025-04-21T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.3612",
+                "source": "Benzinga",
+                "ticker": "MSTR",
+                "title": "Bitcoin Surges Past $87K As Strategy Expands Holdings And Dollar Weakness Fuels Hedge Appeal",
+                "url": "https://finance.yahoo.com/news/bitcoin-surges-past-87k-strategy-151823711.html"
+            },
+            {
+                "headline": "The U.S. dollar index tumbled to a three-year low early Monday, while the S&P 500 fell sharply.  The 10-year Treasury yield climbed, as government bond investors demand a higher return.  Meanwhile, gold and bitcoin are shining as investors shun U.S. financial assets.",
+                "publication_date": "2025-04-21T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "-0.0258",
+                "source": "Investor's Business Daily",
+                "ticker": "MSTR",
+                "title": "Dollar And S&P 500 Tumble, Gold And Bitcoin Rise As Cash Exits U.S. In Threat To Trump Agenda",
+                "url": "https://finance.yahoo.com/m/c709b78d-204f-3691-9189-dee61eae9249/dollar-and-s-p-500-tumble-.html"
+            },
+            {
+                "headline": "MicroStrategy, the world\u2019s largest corporate holder of Bitcoin, snaps up 6,556 units of the digital currency.",
+                "publication_date": "2025-04-21T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Barrons.com",
+                "ticker": "MSTR",
+                "title": "MicroStrategy Stock Rises. Why Its Bitcoin Purchases Have Little Effect on the Crypto\u2019s Price.",
+                "url": "https://finance.yahoo.com/m/d339149d-33c1-3d35-beb7-887e0c29fa8e/microstrategy-stock-rises-.html"
+            },
+            {
+                "headline": "MicroStrategy i.e now Strategy has just bought 6,556 more Bitcoins, holdings reach 538,200 in total.",
+                "publication_date": "2025-04-21T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.0935",
+                "source": "TheStreet",
+                "ticker": "MSTR",
+                "title": "Surprising $556M Bitcoin buy pushes Strategy\u2019s holdings past 538,000 BTC",
+                "url": "https://finance.yahoo.com/news/surprising-556m-bitcoin-buy-pushes-121726544.html"
             }
         ],
-        "avgScore": 0.5106,
+        "avgScore": 0.3073,
         "pctChange": 0.0795253909776458
-    },
-    "4 17 2025": {
-        "importantArticles": [
-            {
-                "headline": "Michael Saylor says Bitcoin is \u201cstrategy\u201d as MicroStrategy\u2019s 133% gain beats Tesla, Nvidia, and the Magnificent 7.",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8074",
-                "source": "TheStreet",
-                "ticker": "MSTR",
-                "title": "Michael Saylor has one word for Bitcoin holders \u2014 and it\u2019s not 'sell'",
-                "url": "https://finance.yahoo.com/news/michael-saylor-one-word-bitcoin-132317295.html"
-            },
-            {
-                "headline": "We recently published a list of the 12 Reddit Stocks with High Potential. In this article, we are going to take a look at where Strategy Incorporated (NASDAQ:MSTR) stands against other Reddit stocks with high potential. On April 15, Monica Guerra, Morgan Stanley Wealth Management Head of US Policy, joined \u2018Closing Bell Overtime\u2019 on CNBC [\u2026]",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4939",
-                "source": "Insider Monkey",
-                "ticker": "MSTR",
-                "title": "Is Strategy Incorporated (NASDAQ:MSTR) a Reddit Stock with High Potential?",
-                "url": "https://finance.yahoo.com/news/strategy-incorporated-nasdaq-mstr-reddit-133435465.html"
-            },
-            {
-                "headline": "We recently published a list of the 12 Reddit Stocks with High Potential. In this article, we are going to take a look at where Strategy Incorporated (NASDAQ:MSTR) stands against other Reddit stocks with high potential. On April 15, Monica Guerra, Morgan Stanley Wealth Management Head of US Policy, joined \u2018Closing Bell Overtime\u2019 on CNBC [\u2026]",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4939",
-                "source": "Insider Monkey",
-                "ticker": "MSTR",
-                "title": "Is Strategy Incorporated (NASDAQ:MSTR) a Reddit Stock with High Potential?",
-                "url": "https://finance.yahoo.com/news/strategy-incorporated-nasdaq-mstr-reddit-133435465.html"
-            },
-            {
-                "headline": "Michael Saylor says Bitcoin is \u201cstrategy\u201d as MicroStrategy\u2019s 133% gain beats Tesla, Nvidia, and the Magnificent 7.",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8074",
-                "source": "TheStreet",
-                "ticker": "MSTR",
-                "title": "Michael Saylor has one word for Bitcoin holders \u2014 and it\u2019s not 'sell'",
-                "url": "https://finance.yahoo.com/news/michael-saylor-one-word-bitcoin-132317295.html"
-            }
-        ],
-        "avgScore": 0.65065,
-        "pctChange": 0.0017654399024053277
     },
     "4 16 2025": {
         "importantArticles": [
             {
-                "headline": "Palantir Technologies, TakeTwo Interactive Software and MicroStrategy represent three of the most compelling opportunities in the market today",
+                "headline": "Michael Saylor says Bitcoin is \u201cstrategy\u201d as MicroStrategy\u2019s 133% gain beats Tesla, Nvidia, and the Magnificent 7.",
                 "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.6214",
-                "source": "Zacks",
+                "sentimentScore": "0.8074",
+                "source": "TheStreet",
                 "ticker": "MSTR",
-                "title": "AI, Bitcoin & Gaming: 2025 Major Opportunities (PLTR, MSTR, TTWO)",
-                "url": "https://finance.yahoo.com/news/ai-bitcoin-gaming-2025-major-172600875.html"
+                "title": "Michael Saylor has one word for Bitcoin holders \u2014 and it\u2019s not 'sell'",
+                "url": "https://finance.yahoo.com/news/michael-saylor-one-word-bitcoin-132317295.html"
+            },
+            {
+                "headline": "We recently published a list of the 12 Reddit Stocks with High Potential. In this article, we are going to take a look at where Strategy Incorporated (NASDAQ:MSTR) stands against other Reddit stocks with high potential. On April 15, Monica Guerra, Morgan Stanley Wealth Management Head of US Policy, joined \u2018Closing Bell Overtime\u2019 on CNBC [\u2026]",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4939",
+                "source": "Insider Monkey",
+                "ticker": "MSTR",
+                "title": "Is Strategy Incorporated (NASDAQ:MSTR) a Reddit Stock with High Potential?",
+                "url": "https://finance.yahoo.com/news/strategy-incorporated-nasdaq-mstr-reddit-133435465.html"
             },
             {
                 "headline": "The Palantir, MicroStrategy and Take-Two Interactive have been highlighted in this Investment Ideas article.",
@@ -160,26 +210,6 @@
                 "url": "https://finance.yahoo.com/news/zacks-investment-ideas-feature-highlights-102300742.html"
             },
             {
-                "headline": "Bitcoin is \u201cshockingly strong\u201d at the $85,000 mark after what the market has been through, senior ETF analyst Eric Balchunas said.",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "TheStreet",
-                "ticker": "MSTR",
-                "title": "Top ETF analyst sends hard-nosed response to MicroStrategy stock surge",
-                "url": "https://finance.yahoo.com/news/top-etf-analyst-sends-hard-173632194.html"
-            },
-            {
-                "headline": "Bitcoin is \u201cshockingly strong\u201d at the $85,000 mark after what the market has been through, senior ETF analyst Eric Balchunas said.",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "TheStreet",
-                "ticker": "MSTR",
-                "title": "Top ETF analyst sends hard-nosed response to MicroStrategy stock surge",
-                "url": "https://finance.yahoo.com/news/top-etf-analyst-sends-hard-173632194.html"
-            },
-            {
                 "headline": "The Palantir, MicroStrategy and Take-Two Interactive have been highlighted in this Investment Ideas article.",
                 "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -190,50 +220,60 @@
                 "url": "https://finance.yahoo.com/news/zacks-investment-ideas-feature-highlights-102300742.html"
             },
             {
-                "headline": "Palantir Technologies, TakeTwo Interactive Software and MicroStrategy represent three of the most compelling opportunities in the market today",
+                "headline": "We recently published a list of the 12 Reddit Stocks with High Potential. In this article, we are going to take a look at where Strategy Incorporated (NASDAQ:MSTR) stands against other Reddit stocks with high potential. On April 15, Monica Guerra, Morgan Stanley Wealth Management Head of US Policy, joined \u2018Closing Bell Overtime\u2019 on CNBC [\u2026]",
                 "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.6214",
-                "source": "Zacks",
+                "sentimentScore": "0.4939",
+                "source": "Insider Monkey",
                 "ticker": "MSTR",
-                "title": "AI, Bitcoin & Gaming: 2025 Major Opportunities (PLTR, MSTR, TTWO)",
-                "url": "https://finance.yahoo.com/news/ai-bitcoin-gaming-2025-major-172600875.html"
+                "title": "Is Strategy Incorporated (NASDAQ:MSTR) a Reddit Stock with High Potential?",
+                "url": "https://finance.yahoo.com/news/strategy-incorporated-nasdaq-mstr-reddit-133435465.html"
+            },
+            {
+                "headline": "Michael Saylor says Bitcoin is \u201cstrategy\u201d as MicroStrategy\u2019s 133% gain beats Tesla, Nvidia, and the Magnificent 7.",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8074",
+                "source": "TheStreet",
+                "ticker": "MSTR",
+                "title": "Michael Saylor has one word for Bitcoin holders \u2014 and it\u2019s not 'sell'",
+                "url": "https://finance.yahoo.com/news/michael-saylor-one-word-bitcoin-132317295.html"
             }
         ],
-        "avgScore": 0.2071333333333333,
+        "avgScore": 0.43376666666666663,
         "pctChange": 0.01777580850871116
     },
     "4 15 2025": {
         "importantArticles": [
             {
-                "headline": "Wealth host Brad Smith examines some of today's top trending tickers. Strategy (MSTR), formerly MicroStrategy, buys more than $285 million in bitcoin (BTC-USD), adding to its crypto holdings. Keybanc analysts upgraded DuPont (DD) stock to Overweight from Sector Weight, saying its strong balance sheet could support the company during an economic downturn. Deutsche Bank upgraded Peloton (PTON) to Buy from Hold based on expectations of strong earnings over the next year. To watch more expert insights and analysis on the latest market action, check out more Wealth here.",
+                "headline": "Palantir Technologies, TakeTwo Interactive Software and MicroStrategy represent three of the most compelling opportunities in the market today",
                 "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.9325",
-                "source": "Yahoo Finance Video",
+                "sentimentScore": "0.6214",
+                "source": "Zacks",
                 "ticker": "MSTR",
-                "title": "Strategy buys bitcoin, DuPont & Peloton upgrade: Trending Tickers",
-                "url": "https://finance.yahoo.com/video/strategy-buys-bitcoin-dupont-peloton-154450675.html"
+                "title": "AI, Bitcoin & Gaming: 2025 Major Opportunities (PLTR, MSTR, TTWO)",
+                "url": "https://finance.yahoo.com/news/ai-bitcoin-gaming-2025-major-172600875.html"
             },
             {
-                "headline": "MicroStrategy (NasdaqGS:MSTR) recently announced significant updates to its $722 million Fixed-Income Offering by introducing new co-lead underwriters. This strategic shift in its underwriting team reflects the company's effort to bolster its funding strategies. Over the past week, MicroStrategy's stock saw an 12% increase, which aligns with the broader market's upward trend of 6% as major indexes rebounded amid news of tariff exemptions. While the company's specific developments may have...",
+                "headline": "Bitcoin is \u201cshockingly strong\u201d at the $85,000 mark after what the market has been through, senior ETF analyst Eric Balchunas said.",
                 "publication_date": "2025-04-15T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4767",
-                "source": "Simply Wall St.",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "TheStreet",
                 "ticker": "MSTR",
-                "title": "MicroStrategy (NasdaqGS:MSTR) Updates $722M Fixed-Income Offering",
-                "url": "https://finance.yahoo.com/news/microstrategy-nasdaqgs-mstr-updates-722m-172932613.html"
+                "title": "Top ETF analyst sends hard-nosed response to MicroStrategy stock surge",
+                "url": "https://finance.yahoo.com/news/top-etf-analyst-sends-hard-173632194.html"
             },
             {
-                "headline": "(Bloomberg) -- Michael Saylor\u2019s Strategy took advantage of the large price swings in the company\u2019s common shares last week to purchase $285.8 million more of Bitcoin. Most Read from BloombergThe Secret Formula for Faster TrainsNYC Tourist Helicopter Crashes in Hudson River, Killing SixEven Oslo Has an Air Quality ProblemHow Did This Suburb Figure Out Mass Transit?Lisbon Mayor Wants Companies to Help Fix City\u2019s Housing ShortageWhile the stock fluctuated from losses of as much as 11% to gains of a",
+                "headline": "MicroStrategy  stock rose Monday after the world\u2019s largest corporate holder of  said it had snapped up even more of the digital currency.  The company, which does business as Strategy, revealed in a Form 8-K that it had acquired 3,459 Bitcoins for roughly $285.8 million, or around $82,618 per Bitcoin, between April 7 and Monday.  The latest purchase brought MicroStrategy\u2019s total holdings to 531,664 units of the digital currency, with an aggregate purchase price of $35.92 billion.",
                 "publication_date": "2025-04-15T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.0516",
-                "source": "Bloomberg",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Barrons.com",
                 "ticker": "MSTR",
-                "title": "Strategy Bought More Bitcoin During Volatile Week on Wall Street",
-                "url": "https://finance.yahoo.com/news/strategy-bought-more-bitcoin-during-121903637.html"
+                "title": "MicroStrategy Stock Rises. It Bought Millions More in Bitcoin.",
+                "url": "https://finance.yahoo.com/m/5b5f8659-5c61-3faf-81d2-9b86265aee80/microstrategy-stock-rises-it.html"
             },
             {
                 "headline": "MicroStrategy stock is bouncing back as Bitcoin holdings exceed 531K but is running into selling pressure. Even in the volatility, analysts see major upside.",
@@ -246,16 +286,6 @@
                 "url": "https://finance.yahoo.com/news/microstrategy-stock-bounces-amid-bullish-201334544.html"
             },
             {
-                "headline": "Strategy boosts Bitcoin stash amid trade tensions, hitting 531K BTC milestone.",
-                "publication_date": "2025-04-15T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.1027",
-                "source": "TheStreet",
-                "ticker": "MSTR",
-                "title": "MicroStrategy tops 531,000 BTC amid U.S.\u2013China trade tensions",
-                "url": "https://finance.yahoo.com/news/microstrategy-tops-531-000-btc-122313035.html"
-            },
-            {
                 "headline": "MicroStrategy  stock rose Monday after the world\u2019s largest corporate holder of  said it had snapped up even more of the digital currency.  The company, which does business as Strategy, revealed in a Form 8-K that it had acquired 3,459 Bitcoins for roughly $285.8 million, or around $82,618 per Bitcoin, between April 7 and Monday.  The latest purchase brought MicroStrategy\u2019s total holdings to 531,664 units of the digital currency, with an aggregate purchase price of $35.92 billion.",
                 "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -264,22 +294,62 @@
                 "ticker": "MSTR",
                 "title": "MicroStrategy Stock Rises. It Bought Millions More in Bitcoin.",
                 "url": "https://finance.yahoo.com/m/5b5f8659-5c61-3faf-81d2-9b86265aee80/microstrategy-stock-rises-it.html"
+            },
+            {
+                "headline": "Bitcoin is \u201cshockingly strong\u201d at the $85,000 mark after what the market has been through, senior ETF analyst Eric Balchunas said.",
+                "publication_date": "2025-04-15T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "TheStreet",
+                "ticker": "MSTR",
+                "title": "Top ETF analyst sends hard-nosed response to MicroStrategy stock surge",
+                "url": "https://finance.yahoo.com/news/top-etf-analyst-sends-hard-173632194.html"
             }
         ],
-        "avgScore": 0.15610000000000002,
+        "avgScore": 0.04997499999999999,
         "pctChange": 0.003025239565246301
     },
     "4 14 2025": {
         "importantArticles": [
             {
-                "headline": "GameStop, MicroStrategy and Applied Materials have been highlighted in this Screen of The Week article.",
+                "headline": "Wealth host Brad Smith examines some of today's top trending tickers. Strategy (MSTR), formerly MicroStrategy, buys more than $285 million in bitcoin (BTC-USD), adding to its crypto holdings. Keybanc analysts upgraded DuPont (DD) stock to Overweight from Sector Weight, saying its strong balance sheet could support the company during an economic downturn. Deutsche Bank upgraded Peloton (PTON) to Buy from Hold based on expectations of strong earnings over the next year. To watch more expert insights and analysis on the latest market action, check out more Wealth here.",
                 "publication_date": "2025-04-14T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9325",
+                "source": "Yahoo Finance Video",
                 "ticker": "MSTR",
-                "title": "Zacks.com featured highlights include GameStop, MicroStrategy and Applied Materials",
-                "url": "https://finance.yahoo.com/news/zacks-com-featured-highlights-gamestop-065900150.html"
+                "title": "Strategy buys bitcoin, DuPont & Peloton upgrade: Trending Tickers",
+                "url": "https://finance.yahoo.com/video/strategy-buys-bitcoin-dupont-peloton-154450675.html"
+            },
+            {
+                "headline": "MicroStrategy (NasdaqGS:MSTR) recently announced significant updates to its $722 million Fixed-Income Offering by introducing new co-lead underwriters. This strategic shift in its underwriting team reflects the company's effort to bolster its funding strategies. Over the past week, MicroStrategy's stock saw an 12% increase, which aligns with the broader market's upward trend of 6% as major indexes rebounded amid news of tariff exemptions. While the company's specific developments may have...",
+                "publication_date": "2025-04-14T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4767",
+                "source": "Simply Wall St.",
+                "ticker": "MSTR",
+                "title": "MicroStrategy (NasdaqGS:MSTR) Updates $722M Fixed-Income Offering",
+                "url": "https://finance.yahoo.com/news/microstrategy-nasdaqgs-mstr-updates-722m-172932613.html"
+            },
+            {
+                "headline": "(Bloomberg) -- Michael Saylor\u2019s Strategy took advantage of the large price swings in the company\u2019s common shares last week to purchase $285.8 million more of Bitcoin. Most Read from BloombergThe Secret Formula for Faster TrainsNYC Tourist Helicopter Crashes in Hudson River, Killing SixEven Oslo Has an Air Quality ProblemHow Did This Suburb Figure Out Mass Transit?Lisbon Mayor Wants Companies to Help Fix City\u2019s Housing ShortageWhile the stock fluctuated from losses of as much as 11% to gains of a",
+                "publication_date": "2025-04-14T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.0516",
+                "source": "Bloomberg",
+                "ticker": "MSTR",
+                "title": "Strategy Bought More Bitcoin During Volatile Week on Wall Street",
+                "url": "https://finance.yahoo.com/news/strategy-bought-more-bitcoin-during-121903637.html"
+            },
+            {
+                "headline": "Strategy boosts Bitcoin stash amid trade tensions, hitting 531K BTC milestone.",
+                "publication_date": "2025-04-14T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.1027",
+                "source": "TheStreet",
+                "ticker": "MSTR",
+                "title": "MicroStrategy tops 531,000 BTC amid U.S.\u2013China trade tensions",
+                "url": "https://finance.yahoo.com/news/microstrategy-tops-531-000-btc-122313035.html"
             },
             {
                 "headline": "GameStop, MicroStrategy and Applied Materials have been highlighted in this Screen of The Week article.",
@@ -290,42 +360,52 @@
                 "ticker": "MSTR",
                 "title": "Zacks.com featured highlights include GameStop, MicroStrategy and Applied Materials",
                 "url": "https://finance.yahoo.com/news/zacks-com-featured-highlights-gamestop-065900150.html"
+            },
+            {
+                "headline": "(Bloomberg) -- Michael Saylor\u2019s Strategy took advantage of the large price swings in the company\u2019s common shares last week to purchase $285.8 million more of Bitcoin. Most Read from BloombergThe Secret Formula for Faster TrainsNYC Tourist Helicopter Crashes in Hudson River, Killing SixEven Oslo Has an Air Quality ProblemHow Did This Suburb Figure Out Mass Transit?Lisbon Mayor Wants Companies to Help Fix City\u2019s Housing ShortageWhile the stock fluctuated from losses of as much as 11% to gains of a",
+                "publication_date": "2025-04-14T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.0516",
+                "source": "Bloomberg",
+                "ticker": "MSTR",
+                "title": "Strategy Bought More Bitcoin During Volatile Week on Wall Street",
+                "url": "https://finance.yahoo.com/news/strategy-bought-more-bitcoin-during-121903637.html"
             }
         ],
-        "avgScore": 0.0,
+        "avgScore": 0.27162000000000003,
         "pctChange": -0.0023439106043215124
     },
     "4 11 2025": {
         "importantArticles": [
             {
-                "headline": "Polymarket traders give MicroStrategy just a 2% chance of bankruptcy by May 31, signaling continued investor confidence.",
+                "headline": "\ud83d\udd0e JP Morgan (JPM): Shares in the bank rallied Friday morning after it posted better-than-expected quarterly earnings. Chief Executive Jamie Dimon said the \"economy is facing considerable turbulence.\" Wells Fargo (WFC) also posted above-forecast net income, but shares fell.",
                 "publication_date": "2025-04-11T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.6486",
+                "sentimentScore": "0.6875",
+                "source": "The Wall Street Journal",
+                "ticker": "MSTR",
+                "title": "Stocks to Watch Friday: JPMorgan, Wells Fargo, BlackRock, Novartis",
+                "url": "https://finance.yahoo.com/m/f55e4098-d52e-3a3b-86cd-f17b406c18b6/stocks-to-watch-friday-.html"
+            },
+            {
+                "headline": "Pierre Rochard urges transparency and Bitcoin accumulation to strengthen U.S. reserves.",
+                "publication_date": "2025-04-11T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.3182",
                 "source": "TheStreet",
                 "ticker": "MSTR",
-                "title": "MicroStrategy has just 2% chance of bankruptcy",
-                "url": "https://finance.yahoo.com/news/microstrategy-just-2-chance-bankruptcy-170000956.html"
+                "title": "U.S. needs to audit its Bitcoin and start buying more, says Bitcoin Bond CEO",
+                "url": "https://finance.yahoo.com/news/u-needs-audit-bitcoin-start-115500294.html"
             },
             {
-                "headline": "We recently published a list of 10 Stocks Bolstered by Broader Market Cheer. In this article, we are going to take a look at where Strategy Inc. (NASDAQ:MSTR) stands against other stocks that bolstered by broader market cheer. The stock market bounced back from hefty losses on Wednesday, with all Wall Street indices finishing in [\u2026]",
+                "headline": "Many investors closely monitor insider buys, looking to receive insights into the longer-term picture. It's important to remember that insiders' holding periods are longer than most, and many strict rules apply.",
                 "publication_date": "2025-04-11T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.5994",
-                "source": "Insider Monkey",
-                "ticker": "MSTR",
-                "title": "Why Strategy Inc. (MSTR) Went Up On Wednesday?",
-                "url": "https://finance.yahoo.com/news/why-strategy-inc-mstr-went-123151436.html"
-            },
-            {
-                "headline": "Derivative-based ETFs are the biggest beneficiaries of the historic stock market rally.",
-                "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4215",
+                "sentimentScore": "0.2023",
                 "source": "Zacks",
                 "ticker": "MSTR",
-                "title": "Derivative-Based ETFs at the Heart of the Historic Market Run",
-                "url": "https://finance.yahoo.com/news/derivative-based-etfs-heart-historic-150000798.html"
+                "title": "Insider Trading: 3 CEOs Recently Buying Shares",
+                "url": "https://finance.yahoo.com/news/insider-trading-3-ceos-recently-151500880.html"
             },
             {
                 "headline": "April 2: that\u2019s when President Trump began the global tariff war, dubbing the date \u201cLiberation Day.\u201d The escalating tariffs sent the markets into jitters\u2026 until it turned out it was all about China. Well, the month has been confusing so far\u2026 but, fret not. We\u2019ve compiled exactly what happened during the tariff war below:",
@@ -338,8 +418,74 @@
                 "url": "https://finance.yahoo.com/news/trump-tariff-live-updates-u-213220514.html"
             },
             {
-                "headline": "Crypto stocks rallied immediately after President Donald Trump paused tariffs on most countries except China, with Michael Saylor's Strategy up 19%.",
+                "headline": "The Producer Price Index (PPI) in March came lower than expected. MicroStrategy and most other crypto stocks lied in the green zone in pre-market hours.",
                 "publication_date": "2025-04-11T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5859",
+                "source": "TheStreet",
+                "ticker": "MSTR",
+                "title": "Surprising new inflation data sends MicroStrategy, Coinbase stock soaring",
+                "url": "https://finance.yahoo.com/news/surprising-inflation-data-sends-microstrategy-133838090.html"
+            },
+            {
+                "headline": "Many investors closely monitor insider buys, looking to receive insights into the longer-term picture. It's important to remember that insiders' holding periods are longer than most, and many strict rules apply.",
+                "publication_date": "2025-04-11T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.2023",
+                "source": "Zacks",
+                "ticker": "MSTR",
+                "title": "Insider Trading: 3 CEOs Recently Buying Shares",
+                "url": "https://finance.yahoo.com/news/insider-trading-3-ceos-recently-151500880.html"
+            }
+        ],
+        "avgScore": -0.040999999999999995,
+        "pctChange": 0.038235885061107894
+    },
+    "4 10 2025": {
+        "importantArticles": [
+            {
+                "headline": "Polymarket traders give MicroStrategy just a 2% chance of bankruptcy by May 31, signaling continued investor confidence.",
+                "publication_date": "2025-04-10T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6486",
+                "source": "TheStreet",
+                "ticker": "MSTR",
+                "title": "MicroStrategy has just 2% chance of bankruptcy",
+                "url": "https://finance.yahoo.com/news/microstrategy-just-2-chance-bankruptcy-170000956.html"
+            },
+            {
+                "headline": "We recently published a list of 10 Stocks Bolstered by Broader Market Cheer. In this article, we are going to take a look at where Strategy Inc. (NASDAQ:MSTR) stands against other stocks that bolstered by broader market cheer. The stock market bounced back from hefty losses on Wednesday, with all Wall Street indices finishing in [\u2026]",
+                "publication_date": "2025-04-10T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5994",
+                "source": "Insider Monkey",
+                "ticker": "MSTR",
+                "title": "Why Strategy Inc. (MSTR) Went Up On Wednesday?",
+                "url": "https://finance.yahoo.com/news/why-strategy-inc-mstr-went-123151436.html"
+            },
+            {
+                "headline": "Derivative-based ETFs are the biggest beneficiaries of the historic stock market rally.",
+                "publication_date": "2025-04-10T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4215",
+                "source": "Zacks",
+                "ticker": "MSTR",
+                "title": "Derivative-Based ETFs at the Heart of the Historic Market Run",
+                "url": "https://finance.yahoo.com/news/derivative-based-etfs-heart-historic-150000798.html"
+            },
+            {
+                "headline": "Crypto-related stocks fell in premarket trading after an epic rally Wednesday following Trump\u2019s 90-day pause on some of the reciprocal tariffs. MicroStrategy, the largest corporate holder of Bitcoin, fell 4.",
+                "publication_date": "2025-04-10T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Barrons.com",
+                "ticker": "MSTR",
+                "title": "MicroStrategy, Other Crypto Stocks Fall as Rally Cools",
+                "url": "https://finance.yahoo.com/m/820b262c-1a6c-3ea6-b643-074bab128a59/microstrategy-other-crypto.html"
+            },
+            {
+                "headline": "Crypto stocks rallied immediately after President Donald Trump paused tariffs on most countries except China, with Michael Saylor's Strategy up 19%.",
+                "publication_date": "2025-04-10T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
                 "source": "TheStreet",
@@ -348,126 +494,40 @@
                 "url": "https://finance.yahoo.com/news/surprising-china-news-sends-microstrategy-141125599.html"
             },
             {
-                "headline": "Pierre Rochard urges transparency and Bitcoin accumulation to strengthen U.S. reserves.",
-                "publication_date": "2025-04-11T00:00:00.000Z",
+                "headline": "Derivative-based ETFs are the biggest beneficiaries of the historic stock market rally.",
+                "publication_date": "2025-04-10T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.3182",
-                "source": "TheStreet",
+                "sentimentScore": "0.4215",
+                "source": "Zacks",
                 "ticker": "MSTR",
-                "title": "U.S. needs to audit its Bitcoin and start buying more, says Bitcoin Bond CEO",
-                "url": "https://finance.yahoo.com/news/u-needs-audit-bitcoin-start-115500294.html"
+                "title": "Derivative-Based ETFs at the Heart of the Historic Market Run",
+                "url": "https://finance.yahoo.com/news/derivative-based-etfs-heart-historic-150000798.html"
             }
         ],
-        "avgScore": 0.19343333333333335,
-        "pctChange": 0.038235885061107894
-    },
-    "4 10 2025": {
-        "importantArticles": [
-            {
-                "headline": "Monness Crespi lowered the firm\u2019s price target on Strategy (MSTR) to $175 from $220 and keeps a Sell rating on the shares. The stock\u2019s \u201clowered premium to HODL\u201d reflects a closing window for the equity and fixed income capital raise plan, says the analyst, who believes it is \u201cappropriate to lean into this bet\u201d as the window for capital raises is seemingly closing on the fixed income side, in particular, creating a need to rely upon equity dilution at an \u201cincreasingly disproportionate clip.\u201d Publ",
-                "publication_date": "2025-04-10T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4404",
-                "source": "TipRanks",
-                "ticker": "MSTR",
-                "title": "Strategy price target lowered to $175 from $220 at Monness Crespi",
-                "url": "https://finance.yahoo.com/news/strategy-price-target-lowered-175-135604879.html"
-            },
-            {
-                "headline": "Crypto-related stocks fell in premarket trading after an epic rally Wednesday following Trump\u2019s 90-day pause on some of the reciprocal tariffs. MicroStrategy, the largest corporate holder of Bitcoin, fell 4.",
-                "publication_date": "2025-04-10T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Barrons.com",
-                "ticker": "MSTR",
-                "title": "MicroStrategy, Other Crypto Stocks Fall as Rally Cools",
-                "url": "https://finance.yahoo.com/m/820b262c-1a6c-3ea6-b643-074bab128a59/microstrategy-other-crypto.html"
-            },
-            {
-                "headline": "Bitcoin jumped above $82,000, mirroring a broad-based stock-market rally after President Trump announced a 90-day pause on reciprocal tariffs. The largest cryptocurrency recently traded just below $82,000, after hitting its lowest levels since just after President Trump's election victory.",
-                "publication_date": "2025-04-10T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.3818",
-                "source": "The Wall Street Journal",
-                "ticker": "MSTR",
-                "title": "Bitcoin Jumps Above $82,000 After Trump Announcement",
-                "url": "https://finance.yahoo.com/m/25fc6ef7-adec-3519-8663-7dbc5669fe7c/bitcoin-jumps-above-82-000.html"
-            },
-            {
-                "headline": "Bitcoin jumped above $82,000, mirroring a broad-based stock-market rally after President Trump announced a 90-day pause on reciprocal tariffs. The largest cryptocurrency recently traded just below $82,000, after hitting its lowest levels since just after President Trump's election victory.",
-                "publication_date": "2025-04-10T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.3818",
-                "source": "The Wall Street Journal",
-                "ticker": "MSTR",
-                "title": "Bitcoin Jumps Above $82,000 After Trump Announcement",
-                "url": "https://finance.yahoo.com/m/25fc6ef7-adec-3519-8663-7dbc5669fe7c/bitcoin-jumps-above-82-000.html"
-            },
-            {
-                "headline": "Crypto-related stocks fell in premarket trading after an epic rally Wednesday following Trump\u2019s 90-day pause on some of the reciprocal tariffs. MicroStrategy, the largest corporate holder of Bitcoin, fell 4.",
-                "publication_date": "2025-04-10T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Barrons.com",
-                "ticker": "MSTR",
-                "title": "MicroStrategy, Other Crypto Stocks Fall as Rally Cools",
-                "url": "https://finance.yahoo.com/m/820b262c-1a6c-3ea6-b643-074bab128a59/microstrategy-other-crypto.html"
-            },
-            {
-                "headline": "Monness Crespi lowered the firm\u2019s price target on Strategy (MSTR) to $175 from $220 and keeps a Sell rating on the shares. The stock\u2019s \u201clowered premium to HODL\u201d reflects a closing window for the equity and fixed income capital raise plan, says the analyst, who believes it is \u201cappropriate to lean into this bet\u201d as the window for capital raises is seemingly closing on the fixed income side, in particular, creating a need to rely upon equity dilution at an \u201cincreasingly disproportionate clip.\u201d Publ",
-                "publication_date": "2025-04-10T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4404",
-                "source": "TipRanks",
-                "ticker": "MSTR",
-                "title": "Strategy price target lowered to $175 from $220 at Monness Crespi",
-                "url": "https://finance.yahoo.com/news/strategy-price-target-lowered-175-135604879.html"
-            }
-        ],
-        "avgScore": 0.019533333333333347,
+        "avgScore": 0.3339,
         "pctChange": 0.10149083873139478
     },
     "4 9 2025": {
         "importantArticles": [
             {
-                "headline": "We recently published a list of 13 Best Big Data Stocks to Buy According to Analysts. In this article, we are going to take a look at where Strategy Incorporated (NASDAQ:MSTR) stands against other best big data stocks to buy according to analysts. The big data companies focus on collecting, storing, and analyzing huge amounts [\u2026]",
+                "headline": "Monness Crespi lowered the firm\u2019s price target on Strategy (MSTR) to $175 from $220 and keeps a Sell rating on the shares. The stock\u2019s \u201clowered premium to HODL\u201d reflects a closing window for the equity and fixed income capital raise plan, says the analyst, who believes it is \u201cappropriate to lean into this bet\u201d as the window for capital raises is seemingly closing on the fixed income side, in particular, creating a need to rely upon equity dilution at an \u201cincreasingly disproportionate clip.\u201d Publ",
                 "publication_date": "2025-04-09T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.8934",
-                "source": "Insider Monkey",
+                "sentimentScore": "0.4404",
+                "source": "TipRanks",
                 "ticker": "MSTR",
-                "title": "Is Strategy Incorporated (MSTR) the Best Big Data Stock to Buy According to Analysts?",
-                "url": "https://finance.yahoo.com/news/strategy-incorporated-mstr-best-big-180837877.html"
+                "title": "Strategy price target lowered to $175 from $220 at Monness Crespi",
+                "url": "https://finance.yahoo.com/news/strategy-price-target-lowered-175-135604879.html"
             },
             {
-                "headline": "The Tysons Corner, Virginia-based company\u2019s report comes on the heels of a bitcoin slump and newly effective crypto accounting rules from FASB.",
-                "publication_date": "2025-04-09T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4767",
-                "source": "CFO Dive",
-                "ticker": "MSTR",
-                "title": "Strategy reports unrealized $5.91B loss on digital assets",
-                "url": "https://finance.yahoo.com/news/strategy-reports-unrealized-5-91b-153108968.html"
-            },
-            {
-                "headline": "Key Insights The considerable ownership by individual investors in MicroStrategy indicates that they collectively have...",
-                "publication_date": "2025-04-09T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Simply Wall St.",
-                "ticker": "MSTR",
-                "title": "MicroStrategy Incorporated's (NASDAQ:MSTR) market cap dropped US$5.2b last week; individual investors who hold 51% were hit as were institutions",
-                "url": "https://finance.yahoo.com/news/microstrategy-incorporateds-nasdaq-mstr-market-130015001.html"
-            },
-            {
-                "headline": "We recently published a list of Chinese Stocks Dominate Monday\u2019s 10 Worst Performers. In this article, we are going to take a look at where Strategy Inc. (NASDAQ:MSTR) stands against other Chinese stocks that performed worst on Monday. Wall Street\u2019s main indices finished mixed on Monday as investors remained cautious amid the escalating trade tensions [\u2026]",
+                "headline": "Bitcoin jumped above $82,000, mirroring a broad-based stock-market rally after President Trump announced a 90-day pause on reciprocal tariffs. The largest cryptocurrency recently traded just below $82,000, after hitting its lowest levels since just after President Trump's election victory.",
                 "publication_date": "2025-04-09T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.9153",
-                "source": "Insider Monkey",
+                "sentimentScore": "-0.3818",
+                "source": "The Wall Street Journal",
                 "ticker": "MSTR",
-                "title": "Why Strategy Inc. (MSTR) Went Down On Monday?",
-                "url": "https://finance.yahoo.com/news/why-strategy-inc-mstr-went-132415011.html"
+                "title": "Bitcoin Jumps Above $82,000 After Trump Announcement",
+                "url": "https://finance.yahoo.com/m/25fc6ef7-adec-3519-8663-7dbc5669fe7c/bitcoin-jumps-above-82-000.html"
             },
             {
                 "headline": "We recently published a list of Tuesday\u2019s 10 Worst-Performing Stocks. In this article, we are going to take a look at where Strategy Inc. (NASDAQ:MSTR) stands against other Tuesday\u2019s worst-performing stocks. Wall Street\u2019s main indices suffered a bloodbath on Tuesday, recording steep losses amid the looming deadline for President Donald Trump\u2019s new round of tariffs [\u2026]",
@@ -480,50 +540,80 @@
                 "url": "https://finance.yahoo.com/news/why-strategy-inc-mstr-went-101550107.html"
             },
             {
-                "headline": "$5.9B in Unrealized Bitcoin Losses Dents Strategy's Outlook",
+                "headline": "We recently published a list of Tuesday\u2019s 10 Worst-Performing Stocks. In this article, we are going to take a look at where Strategy Inc. (NASDAQ:MSTR) stands against other Tuesday\u2019s worst-performing stocks. Wall Street\u2019s main indices suffered a bloodbath on Tuesday, recording steep losses amid the looming deadline for President Donald Trump\u2019s new round of tariffs [\u2026]",
                 "publication_date": "2025-04-09T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.4019",
-                "source": "GuruFocus.com",
+                "sentimentScore": "-0.7506",
+                "source": "Insider Monkey",
                 "ticker": "MSTR",
-                "title": "Strategy (MSTR) Shares Sink as Bitcoin Slump Wipes Billions in Value",
-                "url": "https://finance.yahoo.com/news/strategy-mstr-shares-sink-bitcoin-171226818.html"
+                "title": "Why Strategy Inc. (MSTR) Went Down On Tuesday?",
+                "url": "https://finance.yahoo.com/news/why-strategy-inc-mstr-went-101550107.html"
+            },
+            {
+                "headline": "Bitcoin jumped above $82,000, mirroring a broad-based stock-market rally after President Trump announced a 90-day pause on reciprocal tariffs. The largest cryptocurrency recently traded just below $82,000, after hitting its lowest levels since just after President Trump's election victory.",
+                "publication_date": "2025-04-09T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.3818",
+                "source": "The Wall Street Journal",
+                "ticker": "MSTR",
+                "title": "Bitcoin Jumps Above $82,000 After Trump Announcement",
+                "url": "https://finance.yahoo.com/m/25fc6ef7-adec-3519-8663-7dbc5669fe7c/bitcoin-jumps-above-82-000.html"
+            },
+            {
+                "headline": "Monness Crespi lowered the firm\u2019s price target on Strategy (MSTR) to $175 from $220 and keeps a Sell rating on the shares. The stock\u2019s \u201clowered premium to HODL\u201d reflects a closing window for the equity and fixed income capital raise plan, says the analyst, who believes it is \u201cappropriate to lean into this bet\u201d as the window for capital raises is seemingly closing on the fixed income side, in particular, creating a need to rely upon equity dilution at an \u201cincreasingly disproportionate clip.\u201d Publ",
+                "publication_date": "2025-04-09T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4404",
+                "source": "TipRanks",
+                "ticker": "MSTR",
+                "title": "Strategy price target lowered to $175 from $220 at Monness Crespi",
+                "url": "https://finance.yahoo.com/news/strategy-price-target-lowered-175-135604879.html"
             }
         ],
-        "avgScore": -0.11628333333333335,
+        "avgScore": -0.23066666666666666,
         "pctChange": -0.08259782464326938
     },
     "4 8 2025": {
         "importantArticles": [
             {
-                "headline": "March was another month marked by volatility, as US president Donald Trump pressed ahead with his tariff agenda.",
+                "headline": "We recently published a list of 13 Best Big Data Stocks to Buy According to Analysts. In this article, we are going to take a look at where Strategy Incorporated (NASDAQ:MSTR) stands against other best big data stocks to buy according to analysts. The big data companies focus on collecting, storing, and analyzing huge amounts [\u2026]",
+                "publication_date": "2025-04-08T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8934",
+                "source": "Insider Monkey",
+                "ticker": "MSTR",
+                "title": "Is Strategy Incorporated (MSTR) the Best Big Data Stock to Buy According to Analysts?",
+                "url": "https://finance.yahoo.com/news/strategy-incorporated-mstr-best-big-180837877.html"
+            },
+            {
+                "headline": "The Tysons Corner, Virginia-based company\u2019s report comes on the heels of a bitcoin slump and newly effective crypto accounting rules from FASB.",
+                "publication_date": "2025-04-08T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4767",
+                "source": "CFO Dive",
+                "ticker": "MSTR",
+                "title": "Strategy reports unrealized $5.91B loss on digital assets",
+                "url": "https://finance.yahoo.com/news/strategy-reports-unrealized-5-91b-153108968.html"
+            },
+            {
+                "headline": "Key Insights The considerable ownership by individual investors in MicroStrategy indicates that they collectively have...",
                 "publication_date": "2025-04-08T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
-                "source": "Yahoo Finance UK",
+                "source": "Simply Wall St.",
                 "ticker": "MSTR",
-                "title": "The most bought stocks and funds for investors in March",
-                "url": "https://finance.yahoo.com/news/most-bought-stocks-funds-march-050009481.html"
+                "title": "MicroStrategy Incorporated's (NASDAQ:MSTR) market cap dropped US$5.2b last week; individual investors who hold 51% were hit as were institutions",
+                "url": "https://finance.yahoo.com/news/microstrategy-incorporateds-nasdaq-mstr-market-130015001.html"
             },
             {
-                "headline": "Crypto-related stocks fell sharply after the price of Bitcoin nosedived over the weekend, seemingly no longer resilient to the escalating trade tensions that have battered the stock market over the past week.  Shares of MicroStrategy, the largest corporate holder of Bitcoin, plunged 10% to $267.10 in premarket trading Monday.  The falling price of the world\u2019s largest digital coin significantly dents the paper value of the company\u2019s 528,185 Bitcoins.",
+                "headline": "We recently published a list of Chinese Stocks Dominate Monday\u2019s 10 Worst Performers. In this article, we are going to take a look at where Strategy Inc. (NASDAQ:MSTR) stands against other Chinese stocks that performed worst on Monday. Wall Street\u2019s main indices finished mixed on Monday as investors remained cautious amid the escalating trade tensions [\u2026]",
                 "publication_date": "2025-04-08T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.2263",
-                "source": "Barrons.com",
+                "sentimentScore": "-0.9153",
+                "source": "Insider Monkey",
                 "ticker": "MSTR",
-                "title": "MicroStrategy, Robinhood Stocks Drop After Bitcoin Plunge",
-                "url": "https://finance.yahoo.com/m/058d3eaf-1664-3f95-a76c-c08c9b0120d2/microstrategy-robinhood.html"
-            },
-            {
-                "headline": "The software company said it notched $5.91 billion in unrealized losses on its digital assets for the quarter ended March 31.",
-                "publication_date": "2025-04-08T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.25",
-                "source": "The Wall Street Journal",
-                "ticker": "MSTR",
-                "title": "MicroStrategy Expects to Post Loss After Bitcoin Price Slumps",
-                "url": "https://finance.yahoo.com/m/91704243-4c83-370e-80e2-918a5b6698bc/microstrategy-expects-to-post.html"
+                "title": "Why Strategy Inc. (MSTR) Went Down On Monday?",
+                "url": "https://finance.yahoo.com/news/why-strategy-inc-mstr-went-132415011.html"
             },
             {
                 "headline": "WHATS NEWS BUSINESS FINANCE Historic turmoil in financial markets left investors with few places to hide as Trump\u2019s challenge to world trade intensified stock losses from Hong Kong to France. U.S. indexes ended mixed, with the S&P 500 and Dow falling 0.",
@@ -536,27 +626,17 @@
                 "url": "https://finance.yahoo.com/m/b08402e2-e89e-3507-a72d-2b17d60c6d9e/what%E2%80%99s-news-business-.html"
             },
             {
-                "headline": "After adopting fair-value accounting, Michael Saylor's Bitcoin-heavy firm braces for a $5.9B loss, marking a volatile shift in corporate crypto holdings' reporting.",
+                "headline": "$5.9B in Unrealized Bitcoin Losses Dents Strategy's Outlook",
                 "publication_date": "2025-04-08T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.3182",
-                "source": "TheStreet",
+                "sentimentScore": "-0.4019",
+                "source": "GuruFocus.com",
                 "ticker": "MSTR",
-                "title": "Michael Saylor\u2019s Strategy faces $5.9B Bitcoin loss \u2014 but still isn\u2019t selling",
-                "url": "https://finance.yahoo.com/news/michael-saylor-strategy-faces-5-155818820.html"
-            },
-            {
-                "headline": "Nippon Steel\u2019s deal for U.S. Steel could be revived, MicroStrategy has an unrealized Bitcoin loss, and more news to start your day.",
-                "publication_date": "2025-04-08T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.3182",
-                "source": "Barrons.com",
-                "ticker": "MSTR",
-                "title": "Trump Tariff Talks Give Stock Market Hope. What It Needs to Bounce Back and 4 Other Things to Know Today.",
-                "url": "https://finance.yahoo.com/m/f341e69f-f054-3a0c-878b-b111ffae3426/trump-tariff-talks-give-stock.html"
+                "title": "Strategy (MSTR) Shares Sink as Bitcoin Slump Wipes Billions in Value",
+                "url": "https://finance.yahoo.com/news/strategy-mstr-shares-sink-bitcoin-171226818.html"
             }
         ],
-        "avgScore": -0.299275,
+        "avgScore": -0.14151111111111114,
         "pctChange": 0.2475729739813115
     },
     "4 7 2025": {
@@ -572,30 +652,80 @@
                 "url": "https://finance.yahoo.com/news/peter-schiff-blunt-message-saylor-214427563.html"
             },
             {
-                "headline": "Peter Schiff trolls Michael Saylor as Bitcoin sinks below $80K, questioning its \u201csafe haven\u201d status amid Trump\u2019s tariff-fueled market meltdown.",
+                "headline": "Crypto-related stocks fell sharply after the price of Bitcoin nosedived over the weekend, seemingly no longer resilient to the escalating trade tensions that have battered the stock market over the past week.  Shares of MicroStrategy, the largest corporate holder of Bitcoin, plunged 10% to $267.10 in premarket trading Monday.  The falling price of the world\u2019s largest digital coin significantly dents the paper value of the company\u2019s 528,185 Bitcoins.",
                 "publication_date": "2025-04-07T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.1027",
+                "sentimentScore": "-0.2263",
+                "source": "Barrons.com",
+                "ticker": "MSTR",
+                "title": "MicroStrategy, Robinhood Stocks Drop After Bitcoin Plunge",
+                "url": "https://finance.yahoo.com/m/058d3eaf-1664-3f95-a76c-c08c9b0120d2/microstrategy-robinhood.html"
+            },
+            {
+                "headline": "The software company said it notched $5.91 billion in unrealized losses on its digital assets for the quarter ended March 31.",
+                "publication_date": "2025-04-07T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.25",
+                "source": "The Wall Street Journal",
+                "ticker": "MSTR",
+                "title": "MicroStrategy Expects to Post Loss After Bitcoin Price Slumps",
+                "url": "https://finance.yahoo.com/m/91704243-4c83-370e-80e2-918a5b6698bc/microstrategy-expects-to-post.html"
+            },
+            {
+                "headline": "After adopting fair-value accounting, Michael Saylor's Bitcoin-heavy firm braces for a $5.9B loss, marking a volatile shift in corporate crypto holdings' reporting.",
+                "publication_date": "2025-04-07T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.3182",
                 "source": "TheStreet",
                 "ticker": "MSTR",
-                "title": "Peter Schiff has blunt message for Saylor as Bitcoin crashes below $80K",
-                "url": "https://finance.yahoo.com/news/peter-schiff-blunt-message-saylor-214427563.html"
+                "title": "Michael Saylor\u2019s Strategy faces $5.9B Bitcoin loss \u2014 but still isn\u2019t selling",
+                "url": "https://finance.yahoo.com/news/michael-saylor-strategy-faces-5-155818820.html"
+            },
+            {
+                "headline": "Madison Mills takes a closer look at the top stories as part of today's Market Minute. Big bank stocks, including JPMorgan (JPM) and Wells Fargo (WFC), are moving higher after an initial fall as analysts recalibrate their outlooks to account for mounting recession fears. Bitcoin (BTC-USD) is selling off as other crypto-related names, including Robinhood (HOOD), Strategy (MSTR), and Coinbase (COIN), are mixed today. Spirit Airlines (SAVEQ) stock is in focus after CEO Ted Christie stepped down. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
+                "publication_date": "2025-04-07T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.2732",
+                "source": "Yahoo Finance Video",
+                "ticker": "MSTR",
+                "title": "Bank stocks, bitcoin falls, Spirit CEO steps down: Market Minute",
+                "url": "https://finance.yahoo.com/video/bank-stocks-bitcoin-falls-spirit-152235178.html"
+            },
+            {
+                "headline": "The software company said it notched $5.91 billion in unrealized losses on its digital assets for the quarter ended March 31.",
+                "publication_date": "2025-04-07T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.25",
+                "source": "The Wall Street Journal",
+                "ticker": "MSTR",
+                "title": "MicroStrategy Expects to Post Loss After Bitcoin Price Slumps",
+                "url": "https://finance.yahoo.com/m/91704243-4c83-370e-80e2-918a5b6698bc/microstrategy-expects-to-post.html"
             }
         ],
-        "avgScore": -0.1027,
+        "avgScore": -0.23407999999999998,
         "pctChange": -0.11259049769120774
     },
     "4 4 2025": {
         "importantArticles": [
             {
-                "headline": "Michael Saylor drops one-word zinger as Trump hits global trade with tariffs.",
+                "headline": "MicroStrategy (NasdaqGS:MSTR) recently announced an important underwriter change for its fixed-income offering, adding firms like Mizuho Securities and Cantor Fitzgerald, which could indicate increased confidence in the company's initiatives. This move coincided with a 2.6% rise in its share price over the past month. Despite the broader market declining due to global tariff concerns that pushed the Nasdaq Composite into bear market territory, MicroStrategy's strategic actions may have...",
+                "publication_date": "2025-04-04T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9022",
+                "source": "Simply Wall St.",
+                "ticker": "MSTR",
+                "title": "MicroStrategy (NasdaqGS:MSTR) Adds Mizuho Securities to Bond Offering as Stock Rises 3% in Past Month",
+                "url": "https://finance.yahoo.com/news/microstrategy-nasdaqgs-mstr-adds-mizuho-181130631.html"
+            },
+            {
+                "headline": "MicroStrategy has held every Bitcoin it has ever bought, including during major market crashes and a recent price dip to $83,000. On-chain data reveals zero sales since 2020.",
                 "publication_date": "2025-04-04T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
                 "source": "TheStreet",
                 "ticker": "MSTR",
-                "title": "Michael Saylor has one-word blunt response to Trump\u2019s tariffs",
-                "url": "https://finance.yahoo.com/news/michael-saylor-one-word-blunt-130326148.html"
+                "title": "MicroStrategy never sold a single Bitcoin \u2014 even during market crashes",
+                "url": "https://finance.yahoo.com/news/microstrategy-never-sold-single-bitcoin-160500495.html"
             },
             {
                 "headline": "Shares of Strategy (NASDAQ: MSTR), formerly known as MicroStrategy, fell on Thursday.  The company's stock lost 8.8% as of market close and was down as much as 12.7% earlier in the day.  President Trump's sweeping tariff announcement has sent shock waves through the market, especially affecting riskier assets like Strategy.",
@@ -608,26 +738,6 @@
                 "url": "https://finance.yahoo.com/news/why-microstrategy-stock-plummeted-today-202811737.html"
             },
             {
-                "headline": "Bitcoin sank Thursday as investors continued to flee riskier assets after President Trump ratcheted up the trade war.  The largest cryptocurrency recently traded around $82,000, down more than 4% from 24 hours ago, according to CoinDesk.",
-                "publication_date": "2025-04-04T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.6808",
-                "source": "The Wall Street Journal",
-                "ticker": "MSTR",
-                "title": "Bitcoin Price Falls Below $82,000, Crypto Stocks Slide After Tariff Plans",
-                "url": "https://finance.yahoo.com/m/ae2610c6-59c0-3a55-80f2-8e23e9f9c524/bitcoin-price-falls-below.html"
-            },
-            {
-                "headline": "Bitcoin sank Thursday as investors continued to flee riskier assets after President Trump ratcheted up the trade war.  The largest cryptocurrency recently traded around $82,000, down more than 4% from 24 hours ago, according to CoinDesk.",
-                "publication_date": "2025-04-04T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.6808",
-                "source": "The Wall Street Journal",
-                "ticker": "MSTR",
-                "title": "Bitcoin Price Falls Below $82,000, Crypto Stocks Slide After Tariff Plans",
-                "url": "https://finance.yahoo.com/m/ae2610c6-59c0-3a55-80f2-8e23e9f9c524/bitcoin-price-falls-below.html"
-            },
-            {
                 "headline": "Shares of Strategy (NASDAQ: MSTR), formerly known as MicroStrategy, fell on Thursday.  The company's stock lost 8.8% as of market close and was down as much as 12.7% earlier in the day.  President Trump's sweeping tariff announcement has sent shock waves through the market, especially affecting riskier assets like Strategy.",
                 "publication_date": "2025-04-04T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -638,76 +748,86 @@
                 "url": "https://finance.yahoo.com/news/why-microstrategy-stock-plummeted-today-202811737.html"
             },
             {
-                "headline": "Michael Saylor drops one-word zinger as Trump hits global trade with tariffs.",
+                "headline": "MicroStrategy has held every Bitcoin it has ever bought, including during major market crashes and a recent price dip to $83,000. On-chain data reveals zero sales since 2020.",
                 "publication_date": "2025-04-04T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
                 "source": "TheStreet",
                 "ticker": "MSTR",
-                "title": "Michael Saylor has one-word blunt response to Trump\u2019s tariffs",
-                "url": "https://finance.yahoo.com/news/michael-saylor-one-word-blunt-130326148.html"
+                "title": "MicroStrategy never sold a single Bitcoin \u2014 even during market crashes",
+                "url": "https://finance.yahoo.com/news/microstrategy-never-sold-single-bitcoin-160500495.html"
+            },
+            {
+                "headline": "MicroStrategy (NasdaqGS:MSTR) recently announced an important underwriter change for its fixed-income offering, adding firms like Mizuho Securities and Cantor Fitzgerald, which could indicate increased confidence in the company's initiatives. This move coincided with a 2.6% rise in its share price over the past month. Despite the broader market declining due to global tariff concerns that pushed the Nasdaq Composite into bear market territory, MicroStrategy's strategic actions may have...",
+                "publication_date": "2025-04-04T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9022",
+                "source": "Simply Wall St.",
+                "ticker": "MSTR",
+                "title": "MicroStrategy (NasdaqGS:MSTR) Adds Mizuho Securities to Bond Offering as Stock Rises 3% in Past Month",
+                "url": "https://finance.yahoo.com/news/microstrategy-nasdaqgs-mstr-adds-mizuho-181130631.html"
             }
         ],
-        "avgScore": -0.3035333333333333,
+        "avgScore": 0.22413333333333332,
         "pctChange": -0.08674763112238089
     },
     "4 3 2025": {
         "importantArticles": [
             {
-                "headline": "Investing.com -- Clear Street initiated coverage on Strategy, formerly MicroStrategy with a \u201cBuy\u201d rating and a $422 price target given company\u2019s unique leveraged approach to Bitcoin exposure and its ability to grow Bitcoin per share despite dilution.",
+                "headline": "Michael Saylor drops one-word zinger as Trump hits global trade with tariffs.",
                 "publication_date": "2025-04-03T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7269",
-                "source": "Investing.com",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "TheStreet",
                 "ticker": "MSTR",
-                "title": "Clear Street starts on Strategy with \u2018buy\u2019 on leveraged Bitcoin upside",
-                "url": "https://finance.yahoo.com/news/clear-street-starts-strategy-buy-153228002.html"
+                "title": "Michael Saylor has one-word blunt response to Trump\u2019s tariffs",
+                "url": "https://finance.yahoo.com/news/michael-saylor-one-word-blunt-130326148.html"
             },
             {
-                "headline": "Investing.com -- Clear Street initiated coverage on Strategy, formerly MicroStrategy with a \u201cBuy\u201d rating and a $422 price target given company\u2019s unique leveraged approach to Bitcoin exposure and its ability to grow Bitcoin per share despite dilution.",
+                "headline": "Bitcoin sank Thursday as investors continued to flee riskier assets after President Trump ratcheted up the trade war.  The largest cryptocurrency recently traded around $82,000, down more than 4% from 24 hours ago, according to CoinDesk.",
                 "publication_date": "2025-04-03T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7269",
-                "source": "Investing.com",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.6808",
+                "source": "The Wall Street Journal",
                 "ticker": "MSTR",
-                "title": "Clear Street starts on Strategy with \u2018buy\u2019 on leveraged Bitcoin upside",
-                "url": "https://finance.yahoo.com/news/clear-street-starts-strategy-buy-153228002.html"
+                "title": "Bitcoin Price Falls Below $82,000, Crypto Stocks Slide After Tariff Plans",
+                "url": "https://finance.yahoo.com/m/ae2610c6-59c0-3a55-80f2-8e23e9f9c524/bitcoin-price-falls-below.html"
+            },
+            {
+                "headline": "Bitcoin sank Thursday as investors continued to flee riskier assets after President Trump ratcheted up the trade war.  The largest cryptocurrency recently traded around $82,000, down more than 4% from 24 hours ago, according to CoinDesk.",
+                "publication_date": "2025-04-03T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.6808",
+                "source": "The Wall Street Journal",
+                "ticker": "MSTR",
+                "title": "Bitcoin Price Falls Below $82,000, Crypto Stocks Slide After Tariff Plans",
+                "url": "https://finance.yahoo.com/m/ae2610c6-59c0-3a55-80f2-8e23e9f9c524/bitcoin-price-falls-below.html"
+            },
+            {
+                "headline": "Michael Saylor drops one-word zinger as Trump hits global trade with tariffs.",
+                "publication_date": "2025-04-03T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "TheStreet",
+                "ticker": "MSTR",
+                "title": "Michael Saylor has one-word blunt response to Trump\u2019s tariffs",
+                "url": "https://finance.yahoo.com/news/michael-saylor-one-word-blunt-130326148.html"
             }
         ],
-        "avgScore": 0.7269,
+        "avgScore": -0.3404,
         "pctChange": 0.04013740477986921
     },
     "4 2 2025": {
         "importantArticles": [
             {
-                "headline": "We recently published a list of 10 Firms Outperform Broader Market on Tuesday. In this article, we are going to take a look at where Strategy Inc. (NASDAQ:MSTR) stands against other firms that outperform broader market on Tuesday. The stock market finished mixed on Tuesday, with the Dow Jones the sole loser with a marginal [\u2026]",
+                "headline": "Investing.com -- Clear Street initiated coverage on Strategy, formerly MicroStrategy with a \u201cBuy\u201d rating and a $422 price target given company\u2019s unique leveraged approach to Bitcoin exposure and its ability to grow Bitcoin per share despite dilution.",
                 "publication_date": "2025-04-02T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.5267",
-                "source": "Insider Monkey",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7269",
+                "source": "Investing.com",
                 "ticker": "MSTR",
-                "title": "Why Strategy Inc. (MSTR) Went Up On Tuesday?",
-                "url": "https://finance.yahoo.com/news/why-strategy-inc-mstr-went-112951404.html"
-            },
-            {
-                "headline": "The company is the largest corporate holder of Bitcoin, but its aspirations have limits, one analyst argues.",
-                "publication_date": "2025-04-02T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.5267",
-                "source": "Barrons.com",
-                "ticker": "MSTR",
-                "title": "MicroStrategy Stock Gets  Downgraded to Sell. The Stock Is Rising.",
-                "url": "https://finance.yahoo.com/m/69e7c666-7751-39ec-b3f0-fdd111e2f6e9/microstrategy-stock-gets-.html"
-            },
-            {
-                "headline": "The company is the largest corporate holder of Bitcoin, but its aspirations have limits, one analyst argues.",
-                "publication_date": "2025-04-02T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.5267",
-                "source": "Barrons.com",
-                "ticker": "MSTR",
-                "title": "MicroStrategy Stock Gets  Downgraded to Sell. The Stock Is Rising.",
-                "url": "https://finance.yahoo.com/m/69e7c666-7751-39ec-b3f0-fdd111e2f6e9/microstrategy-stock-gets-.html"
+                "title": "Clear Street starts on Strategy with \u2018buy\u2019 on leveraged Bitcoin upside",
+                "url": "https://finance.yahoo.com/news/clear-street-starts-strategy-buy-153228002.html"
             },
             {
                 "headline": "We recently published a list of 10 Firms Outperform Broader Market on Tuesday. In this article, we are going to take a look at where Strategy Inc. (NASDAQ:MSTR) stands against other firms that outperform broader market on Tuesday. The stock market finished mixed on Tuesday, with the Dow Jones the sole loser with a marginal [\u2026]",
@@ -718,16 +838,82 @@
                 "ticker": "MSTR",
                 "title": "Why Strategy Inc. (MSTR) Went Up On Tuesday?",
                 "url": "https://finance.yahoo.com/news/why-strategy-inc-mstr-went-112951404.html"
+            },
+            {
+                "headline": "We recently published a list of 10 Firms Outperform Broader Market on Tuesday. In this article, we are going to take a look at where Strategy Inc. (NASDAQ:MSTR) stands against other firms that outperform broader market on Tuesday. The stock market finished mixed on Tuesday, with the Dow Jones the sole loser with a marginal [\u2026]",
+                "publication_date": "2025-04-02T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5267",
+                "source": "Insider Monkey",
+                "ticker": "MSTR",
+                "title": "Why Strategy Inc. (MSTR) Went Up On Tuesday?",
+                "url": "https://finance.yahoo.com/news/why-strategy-inc-mstr-went-112951404.html"
+            },
+            {
+                "headline": "Investing.com -- Clear Street initiated coverage on Strategy, formerly MicroStrategy with a \u201cBuy\u201d rating and a $422 price target given company\u2019s unique leveraged approach to Bitcoin exposure and its ability to grow Bitcoin per share despite dilution.",
+                "publication_date": "2025-04-02T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7269",
+                "source": "Investing.com",
+                "ticker": "MSTR",
+                "title": "Clear Street starts on Strategy with \u2018buy\u2019 on leveraged Bitcoin upside",
+                "url": "https://finance.yahoo.com/news/clear-street-starts-strategy-buy-153228002.html"
             }
         ],
-        "avgScore": -0.5267,
+        "avgScore": 0.10010000000000002,
         "pctChange": -0.09681963568921986
     },
     "4 1 2025": {
         "importantArticles": [
             {
-                "headline": "Michael Saylor's Strategy now holds 528,185 Bitcoin worth around $35.63 billion. The company is the world's largest corporate holder of Bitcoin.",
+                "headline": "Two titans--Strategy and MARA--just went all-in on Bitcoin. Is this the start of the next crypto bull wave?",
                 "publication_date": "2025-04-01T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "GuruFocus.com",
+                "ticker": "MSTR",
+                "title": "The $3.9 Billion Bitcoin Power Play That's Redefining Corporate Strategy",
+                "url": "https://finance.yahoo.com/news/3-9-billion-bitcoin-power-191523195.html"
+            },
+            {
+                "headline": "The company is the largest corporate holder of Bitcoin, but its aspirations have limits, one analyst argues.",
+                "publication_date": "2025-04-01T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5267",
+                "source": "Barrons.com",
+                "ticker": "MSTR",
+                "title": "MicroStrategy Stock Gets  Downgraded to Sell. The Stock Is Rising.",
+                "url": "https://finance.yahoo.com/m/69e7c666-7751-39ec-b3f0-fdd111e2f6e9/microstrategy-stock-gets-.html"
+            },
+            {
+                "headline": "The company is the largest corporate holder of Bitcoin, but its aspirations have limits, one analyst argues.",
+                "publication_date": "2025-04-01T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5267",
+                "source": "Barrons.com",
+                "ticker": "MSTR",
+                "title": "MicroStrategy Stock Gets  Downgraded to Sell. The Stock Is Rising.",
+                "url": "https://finance.yahoo.com/m/69e7c666-7751-39ec-b3f0-fdd111e2f6e9/microstrategy-stock-gets-.html"
+            },
+            {
+                "headline": "Two titans--Strategy and MARA--just went all-in on Bitcoin. Is this the start of the next crypto bull wave?",
+                "publication_date": "2025-04-01T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "GuruFocus.com",
+                "ticker": "MSTR",
+                "title": "The $3.9 Billion Bitcoin Power Play That's Redefining Corporate Strategy",
+                "url": "https://finance.yahoo.com/news/3-9-billion-bitcoin-power-191523195.html"
+            }
+        ],
+        "avgScore": -0.26335,
+        "pctChange": 0.02130586159506956
+    },
+    "3 31 2025": {
+        "importantArticles": [
+            {
+                "headline": "Michael Saylor's Strategy now holds 528,185 Bitcoin worth around $35.63 billion. The company is the world's largest corporate holder of Bitcoin.",
+                "publication_date": "2025-03-31T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.2263",
                 "source": "TheStreet",
@@ -737,7 +923,7 @@
             },
             {
                 "headline": "MicroStrategy (NasdaqGS:MSTR) recently declared a preferred dividend of $1.24 per share and appointed new co-lead underwriters for its $722 million fixed-income offering. Despite the broader market experiencing declines, including the S&P 500 and Nasdaq index posting their worst month since 2022, MicroStrategy's shares rose by 13% last month. This contrasts the broader tech sector that saw declines amid economic concerns and new tariff announcements. The company\u2019s share performance may be...",
-                "publication_date": "2025-04-01T00:00:00.000Z",
+                "publication_date": "2025-03-31T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.128",
                 "source": "Simply Wall St.",
@@ -746,18 +932,8 @@
                 "url": "https://finance.yahoo.com/news/microstrategy-nasdaqgs-mstr-gains-13-173519598.html"
             },
             {
-                "headline": "Two titans--Strategy and MARA--just went all-in on Bitcoin. Is this the start of the next crypto bull wave?",
-                "publication_date": "2025-04-01T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "GuruFocus.com",
-                "ticker": "MSTR",
-                "title": "The $3.9 Billion Bitcoin Power Play That's Redefining Corporate Strategy",
-                "url": "https://finance.yahoo.com/news/3-9-billion-bitcoin-power-191523195.html"
-            },
-            {
                 "headline": "MicroStrategy  more than tripled its purchases of Bitcoin in the latest week, buying $1.9 billion of cryptocurrency financed with equity sales and a new issue of preferred stock after snapping up less than $600 million worth in the prior week.  The company, which does business as Strategy, is the largest corporate Bitcoin holder.  MicroStrategy, whose strategy has been to issue equity, debt and preferred stock to acquire the currency, has been on a buying spree since October.",
-                "publication_date": "2025-04-01T00:00:00.000Z",
+                "publication_date": "2025-03-31T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.1531",
                 "source": "Barrons.com",
@@ -766,32 +942,52 @@
                 "url": "https://finance.yahoo.com/m/10e6d165-b07e-3b30-baef-945345d68056/microstrategy-buys-1-9.html"
             },
             {
-                "headline": "Two titans--Strategy and MARA--just went all-in on Bitcoin. Is this the start of the next crypto bull wave?",
-                "publication_date": "2025-04-01T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "GuruFocus.com",
+                "headline": "MicroStrategy  more than tripled its purchases of Bitcoin in the latest week, buying $1.9 billion of cryptocurrency financed with equity sales and a new issue of preferred stock after snapping up less than $600 million worth in the prior week.  The company, which does business as Strategy, is the largest corporate Bitcoin holder.  MicroStrategy, whose strategy has been to issue equity, debt and preferred stock to acquire the currency, has been on a buying spree since October.",
+                "publication_date": "2025-03-31T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.1531",
+                "source": "Barrons.com",
                 "ticker": "MSTR",
-                "title": "The $3.9 Billion Bitcoin Power Play That's Redefining Corporate Strategy",
-                "url": "https://finance.yahoo.com/news/3-9-billion-bitcoin-power-191523195.html"
+                "title": "MicroStrategy Buys $1.9 Billion of Bitcoin as Paper Profits Erode",
+                "url": "https://finance.yahoo.com/m/10e6d165-b07e-3b30-baef-945345d68056/microstrategy-buys-1-9.html"
             },
             {
                 "headline": "MicroStrategy (NasdaqGS:MSTR) recently declared a preferred dividend of $1.24 per share and appointed new co-lead underwriters for its $722 million fixed-income offering. Despite the broader market experiencing declines, including the S&P 500 and Nasdaq index posting their worst month since 2022, MicroStrategy's shares rose by 13% last month. This contrasts the broader tech sector that saw declines amid economic concerns and new tariff announcements. The company\u2019s share performance may be...",
-                "publication_date": "2025-04-01T00:00:00.000Z",
+                "publication_date": "2025-03-31T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.128",
                 "source": "Simply Wall St.",
                 "ticker": "MSTR",
                 "title": "MicroStrategy (NasdaqGS:MSTR) Gains 13% Over Last Month With New US$722M Offering",
                 "url": "https://finance.yahoo.com/news/microstrategy-nasdaqgs-mstr-gains-13-173519598.html"
+            },
+            {
+                "headline": "Michael Saylor's Strategy now holds 528,185 Bitcoin worth around $35.63 billion. The company is the world's largest corporate holder of Bitcoin.",
+                "publication_date": "2025-03-31T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.2263",
+                "source": "TheStreet",
+                "ticker": "MSTR",
+                "title": "Michael Saylor's Strategy buys Bitcoin worth $1.92 billion",
+                "url": "https://finance.yahoo.com/news/michael-saylors-strategy-buys-bitcoin-122900446.html"
             }
         ],
-        "avgScore": 0.0503,
-        "pctChange": 0.02130586159506956
+        "avgScore": 0.06706666666666666,
+        "pctChange": 0.061574220961163474
     },
     "3 28 2025": {
         "importantArticles": [
             {
+                "headline": "The strategy is certainly unorthodox, particularly since MicroStrategy has no traditional earnings. But it offers a high dividend yield, a lot of asset coverage, and a better risk/reward than common stock.",
+                "publication_date": "2025-03-28T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.802",
+                "source": "Barrons.com",
+                "ticker": "MSTR",
+                "title": "MicroStrategy Sells Preferred Stock to Buy Bitcoin. Why It Deserves a Look.",
+                "url": "https://finance.yahoo.com/m/a4cbefe4-442e-337c-b419-782306b02cc8/microstrategy-sells-preferred.html"
+            },
+            {
                 "headline": "Struggling video game retailer GameStop announced plans to add bitcoin as a Treasury reserve asset after the bell on Tuesday.",
                 "publication_date": "2025-03-28T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -800,6 +996,36 @@
                 "ticker": "MSTR",
                 "title": "GameStop stock tumbles after company announces plans to raise $1.3 billion to buy bitcoin",
                 "url": "https://finance.yahoo.com/news/gamestop-stock-tumbles-after-company-announces-plans-to-raise-13-billion-to-buy-bitcoin-205250545.html"
+            },
+            {
+                "headline": "Though Strategy has been buying bitcoin for nearly five years, the recent aggressive pace of purchases means another moderate leg lower in prices would put the company in the red on its BTC stack.",
+                "publication_date": "2025-03-28T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.4215",
+                "source": "CoinDesk",
+                "ticker": "MSTR",
+                "title": "Strategy Holders Might be at Risk From Michael Saylor's Financial Wizardry",
+                "url": "https://finance.yahoo.com/news/strategy-holders-might-risk-michael-143203617.html"
+            },
+            {
+                "headline": "No surprise here, GameStop (GME) produced another dreadful year of results in 2024. The gaming retailer reported sales last year crashed 27%. Adjusted operating profits tanked 94%. Sales fell by double-digits in every region GameStop operates, most importantly its largest market the US \u2013 sales declined 24.9%. The culprit? Persistent weakness in the gaming software industry as people are back in offices working and games can run more than $60 a pop. But the awful year for GameStop isn\u2019t the headline maker for the company\u2019s latest earnings release day. Nope, it\u2019s the company saying it will now have an investment committee led by controversial chairman and CEO Ryan Cohen that will aim to invest in bitcoin (BTC-USD). The company has $4.775 billion in cash and thousands of store leases coming up for renewal, so it has the funds to dabble in such a bitcoin pivot. The question is this: should GameStop be considered a struggling retailer anymore? Or something else in the mold of Michael Saylor\u2019s bitcoin buying former software play MicroStrategy (MSTR), now known as Strategy? Will Cohen turn it into a crypto trading platform like Robinhood (HOOD) and Coinbase (COIN)? Is he trying to follow Warren Buffett at Berkshire Hathaway (BRK-B) by taking a failed operation and building around it a highly lucrative investment portfolio? Who knows! But no doubt the perception of GameStop has just changed. For full episodes of Opening Bid, listen on your favorite podcast platform or watch on our website. Yahoo Finance's Opening Bid is produced by Langston Sessoms",
+                "publication_date": "2025-03-28T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.9092",
+                "source": "Yahoo Finance Video",
+                "ticker": "MSTR",
+                "title": "Is GameStop the next Forever 21? Or MicroStrategy? Or Robinhood?",
+                "url": "https://finance.yahoo.com/video/gamestop-next-forever-21-microstrategy-140705278.html"
+            },
+            {
+                "headline": "Though Strategy has been buying bitcoin for nearly five years, the recent aggressive pace of purchases means another moderate leg lower in prices would put the company in the red on its BTC stack.",
+                "publication_date": "2025-03-28T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.4215",
+                "source": "CoinDesk",
+                "ticker": "MSTR",
+                "title": "Strategy Holders Might be at Risk From Michael Saylor's Financial Wizardry",
+                "url": "https://finance.yahoo.com/news/strategy-holders-might-risk-michael-143203617.html"
             },
             {
                 "headline": "Struggling video game retailer GameStop announced plans to add bitcoin as a Treasury reserve asset after the bell on Tuesday.",
@@ -812,31 +1038,11 @@
                 "url": "https://finance.yahoo.com/news/gamestop-stock-tumbles-after-company-announces-plans-to-raise-13-billion-to-buy-bitcoin-205250545.html"
             }
         ],
-        "avgScore": 0.128,
+        "avgScore": -0.10017499999999999,
         "pctChange": -0.003939098973816
     },
     "3 27 2025": {
         "importantArticles": [
-            {
-                "headline": "GameStop (GME) approved a plan to purchase bitcoin (BTC-USD) with its cash holdings, following the strategy of Strategy (MSTR), which has invested billions into bitcoin. Morning Brief hosts Brad Smith and Madison Mills discuss the company's shift in strategy, highlighting how GameStop's move into cryptocurrency may appeal to gamers and investors alike. To watch more expert insights and analysis on the latest market action, check out more Morning Brief&nbsp;here.",
-                "publication_date": "2025-03-27T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4215",
-                "source": "Yahoo Finance Video",
-                "ticker": "MSTR",
-                "title": "GameStop shifts focus to bitcoin in bid to reengage investors",
-                "url": "https://finance.yahoo.com/video/gamestop-shifts-focus-bitcoin-bid-134546967.html"
-            },
-            {
-                "headline": "It turns out that insiders at the company made a smart move in buying the company\u2019s cheaply priced new preferred issue last week.",
-                "publication_date": "2025-03-27T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4019",
-                "source": "Barrons.com",
-                "ticker": "MSTR",
-                "title": "MicroStrategy Preferred Stock Jumps in Initial Trades. It Yields 10.75%.",
-                "url": "https://finance.yahoo.com/m/65fdaf96-200d-3da8-93c0-501a816c6e1d/microstrategy-preferred-stock.html"
-            },
             {
                 "headline": "GameStop announces a $1.3 billion convertible notes offering with plans to potentially buy Bitcoin \u2014 mirroring MicroStrategy\u2019s treasury strategy.",
                 "publication_date": "2025-03-27T00:00:00.000Z",
@@ -848,24 +1054,14 @@
                 "url": "https://finance.yahoo.com/news/gamestop-takes-page-microstrategy-playbook-202332991.html"
             },
             {
-                "headline": "In a more bullish scenario, Bernstein estimates that Strategy could hold more than 1 million BTC by 2033 as Bitcoin hits $1 million and debt jumps to $100 billion.",
-                "publication_date": "2025-03-27T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.3612",
-                "source": "TheStreet",
-                "ticker": "MSTR",
-                "title": "Bernstein sees MicroStrategy holding millions in  Bitcoin by 2033",
-                "url": "https://finance.yahoo.com/news/bernstein-sees-microstrategy-holding-millions-163237459.html"
-            },
-            {
-                "headline": "Bitcoin maximalist Michael Saylor said he may burn his own private Bitcoin keys as an \u201cethically proper, ethically sound form of charity.\u201d",
+                "headline": "GameStop cautioned the strategy is untested and bitcoin is highly volatile.",
                 "publication_date": "2025-03-27T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
-                "source": "TheStreet",
+                "source": "GuruFocus.com",
                 "ticker": "MSTR",
-                "title": "Michael Saylor may burn his Bitcoin before death for \u201ceconomic immortality\u201d",
-                "url": "https://finance.yahoo.com/news/michael-saylor-may-burn-bitcoin-142500370.html"
+                "title": "GameStop Approves Bitcoin Investment Strategy, Reports Strong Quarterly Profit",
+                "url": "https://finance.yahoo.com/news/gamestop-approves-bitcoin-investment-strategy-183649806.html"
             },
             {
                 "headline": "GameStop cautioned the strategy is untested and bitcoin is highly volatile.",
@@ -876,22 +1072,42 @@
                 "ticker": "MSTR",
                 "title": "GameStop Approves Bitcoin Investment Strategy, Reports Strong Quarterly Profit",
                 "url": "https://finance.yahoo.com/news/gamestop-approves-bitcoin-investment-strategy-183649806.html"
+            },
+            {
+                "headline": "GameStop announces a $1.3 billion convertible notes offering with plans to potentially buy Bitcoin \u2014 mirroring MicroStrategy\u2019s treasury strategy.",
+                "publication_date": "2025-03-27T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.2023",
+                "source": "TheStreet",
+                "ticker": "MSTR",
+                "title": "GameStop takes a page from MicroStrategy\u2019s playbook with $1.3B convertible notes offering",
+                "url": "https://finance.yahoo.com/news/gamestop-takes-page-microstrategy-playbook-202332991.html"
             }
         ],
-        "avgScore": 0.11074999999999997,
+        "avgScore": 0.10115,
         "pctChange": -0.10838286167993821
     },
     "3 26 2025": {
         "importantArticles": [
             {
-                "headline": "MicroStrategy (NasdaqGS:MSTR) experienced a 14% price increase over the last week, influenced by recent corporate actions and broader market trends. The company's announcement on March 20 about adding several prestigious co-lead underwriters for its $722.5 million Fixed-Income Offering likely contributed to investor optimism, indicating an enhanced financial strategy. Additionally, the board's dividend declaration on March 3 for series A perpetual preferred stock could have bolstered investor...",
+                "headline": "GameStop (GME) approved a plan to purchase bitcoin (BTC-USD) with its cash holdings, following the strategy of Strategy (MSTR), which has invested billions into bitcoin. Morning Brief hosts Brad Smith and Madison Mills discuss the company's shift in strategy, highlighting how GameStop's move into cryptocurrency may appeal to gamers and investors alike. To watch more expert insights and analysis on the latest market action, check out more Morning Brief&nbsp;here.",
                 "publication_date": "2025-03-26T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.7003",
-                "source": "Simply Wall St.",
+                "sentimentScore": "0.4215",
+                "source": "Yahoo Finance Video",
                 "ticker": "MSTR",
-                "title": "MicroStrategy (NasdaqGS:MSTR) Soars 14% As $722.5M Fixed-Income Offering Gains Traction",
-                "url": "https://finance.yahoo.com/news/microstrategy-nasdaqgs-mstr-soars-14-173643204.html"
+                "title": "GameStop shifts focus to bitcoin in bid to reengage investors",
+                "url": "https://finance.yahoo.com/video/gamestop-shifts-focus-bitcoin-bid-134546967.html"
+            },
+            {
+                "headline": "It turns out that insiders at the company made a smart move in buying the company\u2019s cheaply priced new preferred issue last week.",
+                "publication_date": "2025-03-26T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4019",
+                "source": "Barrons.com",
+                "ticker": "MSTR",
+                "title": "MicroStrategy Preferred Stock Jumps in Initial Trades. It Yields 10.75%.",
+                "url": "https://finance.yahoo.com/m/65fdaf96-200d-3da8-93c0-501a816c6e1d/microstrategy-preferred-stock.html"
             },
             {
                 "headline": "Bitcoin treasury giant Strategy (NASDAQ:MSTR), formerly MicroStrategy, has officially crossed a key milestone by amassing over half a million (CRYPTO: BTC) as part of its ongoing accumulation strategy. What Happened: In a regulatory filing on Monday, the firm revealed it had added 6,911 BTC to its reserves between March 17 and March 23. The purchase, totaling $584.1 million, was executed at an average price of $84,529 per Bitcoin. Don't Miss: \u2018Scrolling To UBI' \u2014 Deloitte's #1 fastest-growing so",
@@ -904,14 +1120,14 @@
                 "url": "https://finance.yahoo.com/news/bitcoin-treasury-firm-strategy-breaks-183716478.html"
             },
             {
-                "headline": "Strategy Executive Chair Michael Saylor discusses a U.S. Bitcoin strategic reserve, why securities holders keep him sleepless, and his own economic immortality.",
+                "headline": "In a more bullish scenario, Bernstein estimates that Strategy could hold more than 1 million BTC by 2033 as Bitcoin hits $1 million and debt jumps to $100 billion.",
                 "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.296",
-                "source": "CoinDesk",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.3612",
+                "source": "TheStreet",
                 "ticker": "MSTR",
-                "title": "Michael Saylor\u2019s $200 Trillion Bitcoin Strategy: U.S. BTC Domination and Immortality",
-                "url": "https://finance.yahoo.com/news/michael-saylor-200-trillion-bitcoin-145640692.html"
+                "title": "Bernstein sees MicroStrategy holding millions in  Bitcoin by 2033",
+                "url": "https://finance.yahoo.com/news/bernstein-sees-microstrategy-holding-millions-163237459.html"
             },
             {
                 "headline": "The new deal offered a sizable yield premium above MicroStrategy\u2019s existing convertible preferred stock.",
@@ -932,33 +1148,13 @@
                 "ticker": "MSTR",
                 "title": "MicroStrategy accounts for 16% of all 2024 equity raised \u2014 mostly to buy Bitcoin",
                 "url": "https://finance.yahoo.com/news/microstrategy-accounts-16-2024-equity-193000980.html"
-            },
-            {
-                "headline": "Could the Bitcoin-hoarding software company split its volatile stock again?",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Motley Fool",
-                "ticker": "MSTR",
-                "title": "Stock-Split Watch: Is Strategy Next?",
-                "url": "https://finance.yahoo.com/news/stock-split-watch-strategy-next-101700891.html"
             }
         ],
-        "avgScore": 0.21701666666666666,
+        "avgScore": 0.096,
         "pctChange": -0.014333003114681633
     },
     "3 25 2025": {
         "importantArticles": [
-            {
-                "headline": "Stocks extended gains as an economic indicator \u2014 the March flash Purchasing Mangers Index (PMI) \u2014 improved by more than expected. The S&P 500, the Nasdaq 100, and the Dow Jones Industrial Average had all gained at the open following reports that the Trump administration may take a more-targeted approach than initially planned on tariffs it\u2019s set to roll out on April 2.",
-                "publication_date": "2025-03-25T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7964",
-                "source": "Quartz",
-                "ticker": "MSTR",
-                "title": "Nvidia, Palantir, Tesla, MicroStrategy, Bayer, James Hardie, AZEK: Stocks to watch today",
-                "url": "https://finance.yahoo.com/news/nvidia-palantir-tesla-microstrategy-bayer-123631063.html"
-            },
             {
                 "headline": "\u2197\ufe0f Tesla (TSLA): Shares rose 12%, their biggest-one day gain since November. Monday's move built on gains made Friday, after Elon Musk urged employees not to sell shares in the EV maker at a meeting broadcast on his social-media platform, X.",
                 "publication_date": "2025-03-25T00:00:00.000Z",
@@ -970,8 +1166,74 @@
                 "url": "https://finance.yahoo.com/m/ae259899-694e-3dae-bcc3-4951b0890261/stocks-to-watch-recap-tesla-.html"
             },
             {
-                "headline": "Yahoo Finance anchor Madison Mills examines the top stories kicking off Monday's trading day as part of today's Market Minute. Tech stocks, including Nvidia (NVDA), Advanced Micro Devices (AMD), and Meta Platforms (META), are rising amid the broader market rally on expectations that President Trump may soften his approach to anticipated tariffs. Crypto stocks, such as Coinbase (COIN), Strategy (MSTR), and Robinhood (HOOD), are seeing gains from bitcoin's (BTC=F) climb to the upside. Super Micro Computer (SMCI) is under pressure after Goldman Sachs (GS) downgraded the stock to Sell from Neutral and cut its price target to $32 from $40. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
+                "headline": "MicroStrategy (NasdaqGS:MSTR) experienced a 14% price increase over the last week, influenced by recent corporate actions and broader market trends. The company's announcement on March 20 about adding several prestigious co-lead underwriters for its $722.5 million Fixed-Income Offering likely contributed to investor optimism, indicating an enhanced financial strategy. Additionally, the board's dividend declaration on March 3 for series A perpetual preferred stock could have bolstered investor...",
                 "publication_date": "2025-03-25T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7003",
+                "source": "Simply Wall St.",
+                "ticker": "MSTR",
+                "title": "MicroStrategy (NasdaqGS:MSTR) Soars 14% As $722.5M Fixed-Income Offering Gains Traction",
+                "url": "https://finance.yahoo.com/news/microstrategy-nasdaqgs-mstr-soars-14-173643204.html"
+            },
+            {
+                "headline": "Tesla stock surges as shares of the electric-vehicle maker come off their ninth-straight weekly loss, Nvidia rises, Lockheed Martin extends losses, and Super Micro\u2019s stock is downgraded.",
+                "publication_date": "2025-03-25T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.3818",
+                "source": "Barrons.com",
+                "ticker": "MSTR",
+                "title": "These Stocks Moved the Most Today: Tesla, Nvidia, Lockheed, MicroStrategy, Super Micro, Intuitive Machines, and More",
+                "url": "https://finance.yahoo.com/m/88d5b9b4-d295-303c-b556-260c972e7bad/these-stocks-moved-the-most.html"
+            },
+            {
+                "headline": "MicroStrategy exceeds 500,000 Bitcoin in holdings with a $584M acquisition today, yet the whale activity of Bitcoin have cooled drastically, indicating more market caution.",
+                "publication_date": "2025-03-25T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "TheStreet",
+                "ticker": "MSTR",
+                "title": "MicroStrategy hits 500K Bitcoin, but big buyers hold back",
+                "url": "https://finance.yahoo.com/news/microstrategy-hits-500k-bitcoin-big-183201164.html"
+            },
+            {
+                "headline": "MicroStrategy shares jumped more than 10% on Monday after a regulatory filing revealed that the software firm, the world's largest corporate holder of bitcoin, had purchased more of the digital currency. Monitor these major chart levels.",
+                "publication_date": "2025-03-25T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.296",
+                "source": "Investopedia",
+                "ticker": "MSTR",
+                "title": "Watch These MicroStrategy Price Levels as Stock Jumps After Latest Bitcoin Purchase",
+                "url": "https://finance.yahoo.com/news/watch-microstrategy-price-levels-stock-034857741.html"
+            },
+            {
+                "headline": "Strategy Executive Chair Michael Saylor discusses a U.S. Bitcoin strategic reserve, why securities holders keep him sleepless, and his own economic immortality.",
+                "publication_date": "2025-03-25T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.296",
+                "source": "CoinDesk",
+                "ticker": "MSTR",
+                "title": "Michael Saylor\u2019s $200 Trillion Bitcoin Strategy: U.S. BTC Domination and Immortality",
+                "url": "https://finance.yahoo.com/news/michael-saylor-200-trillion-bitcoin-145640692.html"
+            }
+        ],
+        "avgScore": 0.38774999999999993,
+        "pctChange": -0.036570024543700556
+    },
+    "3 24 2025": {
+        "importantArticles": [
+            {
+                "headline": "Stocks extended gains as an economic indicator \u2014 the March flash Purchasing Mangers Index (PMI) \u2014 improved by more than expected. The S&P 500, the Nasdaq 100, and the Dow Jones Industrial Average had all gained at the open following reports that the Trump administration may take a more-targeted approach than initially planned on tariffs it\u2019s set to roll out on April 2.",
+                "publication_date": "2025-03-24T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7964",
+                "source": "Quartz",
+                "ticker": "MSTR",
+                "title": "Nvidia, Palantir, Tesla, MicroStrategy, Bayer, James Hardie, AZEK: Stocks to watch today",
+                "url": "https://finance.yahoo.com/news/nvidia-palantir-tesla-microstrategy-bayer-123631063.html"
+            },
+            {
+                "headline": "Yahoo Finance anchor Madison Mills examines the top stories kicking off Monday's trading day as part of today's Market Minute. Tech stocks, including Nvidia (NVDA), Advanced Micro Devices (AMD), and Meta Platforms (META), are rising amid the broader market rally on expectations that President Trump may soften his approach to anticipated tariffs. Crypto stocks, such as Coinbase (COIN), Strategy (MSTR), and Robinhood (HOOD), are seeing gains from bitcoin's (BTC=F) climb to the upside. Super Micro Computer (SMCI) is under pressure after Goldman Sachs (GS) downgraded the stock to Sell from Neutral and cut its price target to $32 from $40. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
+                "publication_date": "2025-03-24T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.7003",
                 "source": "Yahoo Finance Video",
@@ -980,8 +1242,18 @@
                 "url": "https://finance.yahoo.com/video/tech-stocks-crypto-stocks-super-151346214.html"
             },
             {
+                "headline": "MicroStrategy  has purchased more Bitcoin, bringing its total holdings to more than 500,000 units of the digital currency.  The company, which does business under the name Strategy, said in a regulatory filing with the Securities and Exchange Commission that it had acquired 6,911 Bitcoins for roughly $584.1 million in cash from March 17-23.  MicroStrategy now holds 506,137 Bitcoins that it bought roughly $33.7 billion, or $66,608 a digital token.",
+                "publication_date": "2025-03-24T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.296",
+                "source": "Barrons.com",
+                "ticker": "MSTR",
+                "title": "MicroStrategy Stock Jumps as Company Crosses the 500,000 Bitcoin Mark",
+                "url": "https://finance.yahoo.com/m/6f9236b6-fa66-3105-a949-b614d4fcd59e/microstrategy-stock-jumps-as.html"
+            },
+            {
                 "headline": "Odds on prediction market platform Polymarket point to bitcoin's price heading lower still.",
-                "publication_date": "2025-03-25T00:00:00.000Z",
+                "publication_date": "2025-03-24T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.296",
                 "source": "Yahoo Finance UK",
@@ -991,7 +1263,7 @@
             },
             {
                 "headline": "We recently published a list of 10 Stocks with Potential to Explode in 2025. In this article, we are going to take a look at where MicroStrategy Incorporated (NASDAQ:MSTR) stands against other stocks with potential to explode in 2025. The recent pullback in US equities can be a sign of an aging bull market and a [\u2026]",
-                "publication_date": "2025-03-25T00:00:00.000Z",
+                "publication_date": "2025-03-24T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
                 "source": "Insider Monkey",
@@ -1001,7 +1273,7 @@
             },
             {
                 "headline": "Strategy, formerly known as MicroStrategy, has announced the purchase of an additional 6,911 BTC, bringing its total holdings to 506,137 BTC.",
-                "publication_date": "2025-03-25T00:00:00.000Z",
+                "publication_date": "2025-03-24T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
                 "source": "CoinMarketCap",
@@ -1010,15 +1282,15 @@
                 "url": "https://finance.yahoo.com/news/michael-saylors-firm-hits-500-173654633.html"
             }
         ],
-        "avgScore": 0.2879285714285714,
-        "pctChange": -0.036570024543700556
+        "avgScore": 0.24066250000000003,
+        "pctChange": 0.018140105789785956
     },
-    "coef": 0.3649122807017544,
-    "avgCoef": -0.027055439196100387,
+    "coef": -0.05714285714285714,
+    "avgCoef": 0.0008638896547071839,
     "similar": {
-        "NKE": 0.543859649122807,
-        "MSTR": 0.3649122807017544,
-        "SNAP": 0.3543859649122807,
-        "F": 0.28070175438596495
+        "T": 0.5987012987012986,
+        "VOD": 0.48441558441558447,
+        "BBD": 0.4546931061506304,
+        "ERIC": 0.42337662337662335
     }
 }

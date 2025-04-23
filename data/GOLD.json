@@ -1,4 +1,70 @@
 {
+    "4 23 2025": {
+        "importantArticles": [
+            {
+                "headline": "Boeing announced it will sell assets to Thoma Bravo for nearly $11 billion in cash. Nomura agreed to buy an asset management business in its most significant overseas acquisition since Lehman Brothers in 2008, while Barrick exits a mining business, in part to John Paulson. Does this signal more dealmaking? Bloomberg's Liana Baker joined Wall Street Beat on Open Interest with some insight.",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8553",
+                "source": "Bloomberg",
+                "ticker": "GOLD",
+                "title": "Takeover Tuesday Takes Shape from Boeing to Barrick",
+                "url": "https://finance.yahoo.com/video/takeover-tuesday-takes-shape-boeing-151230454.html"
+            },
+            {
+                "headline": "The Toronto Stock Exchange made it five win days over the last six on Tuesday, boosted by hopes for",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8442",
+                "source": "MT Newswires",
+                "ticker": "GOLD",
+                "title": "TSX Closer: A Possible Trade War De-Escalation Pushes the Index Higher",
+                "url": "https://finance.yahoo.com/news/tsx-closer-possible-trade-war-201748051.html"
+            },
+            {
+                "headline": "As gold prices keep hitting record highs, Jefferies analysts said shares of companies that mine the precious metal could still have room to rise.",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7096",
+                "source": "Investopedia",
+                "ticker": "GOLD",
+                "title": "Mining Stocks Still Have Room To Rise as Gold Hits Record High, Jefferies Says",
+                "url": "https://finance.yahoo.com/news/mining-stocks-still-room-rise-200500808.html"
+            },
+            {
+                "headline": "Barrick Gold Corp. is looking to sell its last mine in Canada in a push to capitalize on record gold",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "MT Newswires",
+                "ticker": "GOLD",
+                "title": "Market Chatter: Barrick Gold Seeks Buyers For Its Last Mine In Canada",
+                "url": "https://finance.yahoo.com/news/market-chatter-barrick-gold-seeks-185022203.html"
+            },
+            {
+                "headline": "Completion of the sale is expected between Q2 and Q3 2025.",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Mining Technology",
+                "ticker": "GOLD",
+                "title": "Barrick to divest Donlin Gold project to NOVAGOLD, Paulson for $1bn",
+                "url": "https://finance.yahoo.com/news/barrick-divest-donlin-gold-project-085545996.html"
+            },
+            {
+                "headline": "Earlier on Tuesday, the gold miner said it will exit the Donlin gold Project in Alaska by selling its 50% stake to billionaire John Paulson and NovaGold Resources for up to $1.1 billion.  Barrick began a process in April to sell its Hemlo gold mine in Ontario, Canada, and retained Canadian Imperial Bank of Commerce to find buyers and solicit bids, the report said.  Barrick Gold and Canadian Imperial Bank of Commerce did not immediately respond to Reuters' requests for comment.",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0258",
+                "source": "Reuters",
+                "ticker": "GOLD",
+                "title": "Barrick Gold said to seek buyers for its last mine in Canada, Bloomberg News reports",
+                "url": "https://finance.yahoo.com/news/barrick-gold-said-seek-buyers-181602640.html"
+            }
+        ],
+        "avgScore": 0.3868714285714286,
+        "pctChange": 0.004071552161369117
+    },
     "4 22 2025": {
         "importantArticles": [
             {
@@ -12,34 +78,24 @@
                 "url": "https://finance.yahoo.com/news/barrick-announces-sale-stake-donlin-110000293.html"
             },
             {
-                "headline": "Barrick Gold Corporation (NYSE:GOLD and TSX:ABX) was at last look up 2% in US premarket as it announ",
+                "headline": "Investing.com -- Shares of Barrick Gold (NYSE:GOLD) Corp (TSX:ABX) edged up 1.2% while NovaGold Resources Inc (TSX:NG) soared 9.7% after Barrick announced the sale of its 50% interest in the Donlin Gold Project in Alaska. The stake held by Barrick\u2019s subsidiary, Barrick Gold U.S. Inc., was sold to affiliates of Paulson Advisers LLC and NovaGold Resources Inc. for $1 billion in cash.",
                 "publication_date": "2025-04-22T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "MT Newswires",
-                "ticker": "GOLD",
-                "title": "Barrick Gold Up 2% In US Premarket As Sells Stake in Donlin Gold Project for Up To US$1.1 Billion",
-                "url": "https://finance.yahoo.com/news/barrick-gold-2-us-premarket-112858258.html"
-            },
-            {
-                "headline": "Canada's Barrick Gold said on Tuesday it will exit the Donlin gold Project in Alaska by selling its 50% stake to billionaire John Paulson and NovaGold Resources for up to $1.1 billion. The Donlin Gold project is a proposed mine which holds roughly 39 million ounces of gold. It was jointly owned by Barrick Gold and NovaGold, holding a 50% stake each.",
-                "publication_date": "2025-04-22T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Reuters",
-                "ticker": "GOLD",
-                "title": "Barrick Gold sells Alaska mine stake to John Paulson, NovaGold for up to $1.1 billion",
-                "url": "https://finance.yahoo.com/news/barrick-gold-sell-alaska-mine-110650522.html"
-            },
-            {
-                "headline": "Investing.com -- Shares of major gold mining companies, including Newmont (NYSE: NEM), Barrick Gold (NYSE: NYSE:GOLD), Agnico Eagle Mines (NYSE: NYSE:AEM), Kinross Gold (NYSE: NYSE:KGC), AngloGold Ashanti (NYSE: AU) climbed 3% following a surge in gold prices to a record high, driven by a combination of US dollar weakness, criticism of the Federal Reserve, and ongoing trade war concerns.",
-                "publication_date": "2025-04-22T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.8126",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6369",
                 "source": "Investing.com",
                 "ticker": "GOLD",
-                "title": "Gold miners shares rise as bullion hits record high",
-                "url": "https://finance.yahoo.com/news/gold-miners-shares-rise-bullion-122438420.html"
+                "title": "Barrick Gold, NovaGold shares rise following sale of Donlin Gold stake",
+                "url": "https://finance.yahoo.com/news/barrick-gold-novagold-shares-rise-133410769.html"
+            },
+            {
+                "headline": "Barrick Gold entered a deal to sell its stake in an Alaskan gold project for as much as $1.1 billion to affiliates of billionaire John Paulson\u2019s Paulson Advisers and Novagold Resources,.",
+                "publication_date": "2025-04-22T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "The Wall Street Journal",
+                "ticker": "GOLD",
+                "title": "Barrick Selling Its Stake in Alaska Gold Project for Up to $1.1 Billion",
+                "url": "https://finance.yahoo.com/m/596fc296-18d4-34c0-a274-9f25561faad3/barrick-selling-its-stake-in.html"
             },
             {
                 "headline": "Gold is on a historic run, fueled by uncertainty and buying by central banks and individuals. How it fits in a portfolio.",
@@ -60,10 +116,46 @@
                 "ticker": "GOLD",
                 "title": "Why the Market Dipped But Barrick Gold (GOLD) Gained Today",
                 "url": "https://finance.yahoo.com/news/why-market-dipped-barrick-gold-215033358.html"
+            },
+            {
+                "headline": "Canada's Barrick Gold said on Tuesday it will exit the Donlin gold Project in Alaska by selling its 50% stake to billionaire John Paulson and NovaGold Resources for up to $1.1 billion. The Donlin Gold project is a proposed mine which holds roughly 39 million ounces of gold. It was jointly owned by Barrick Gold and NovaGold, holding a 50% stake each.",
+                "publication_date": "2025-04-22T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Reuters",
+                "ticker": "GOLD",
+                "title": "Barrick Gold sells Alaska mine stake to John Paulson, NovaGold for up to $1.1 billion",
+                "url": "https://finance.yahoo.com/news/barrick-gold-sell-alaska-mine-110650522.html"
             }
         ],
-        "avgScore": -0.055016666666666665,
-        "pctChange": -0.03805399358465683
+        "avgScore": 0.1599142857142857,
+        "pctChange": -0.04419623972460063
+    },
+    "4 21 2025": {
+        "importantArticles": [
+            {
+                "headline": "Investing.com -- Shares of major gold mining companies, including Newmont (NYSE: NEM), Barrick Gold (NYSE: NYSE:GOLD), Agnico Eagle Mines (NYSE: NYSE:AEM), Kinross Gold (NYSE: NYSE:KGC), AngloGold Ashanti (NYSE: AU) climbed 3% following a surge in gold prices to a record high, driven by a combination of US dollar weakness, criticism of the Federal Reserve, and ongoing trade war concerns.",
+                "publication_date": "2025-04-21T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.8126",
+                "source": "Investing.com",
+                "ticker": "GOLD",
+                "title": "Gold miners shares rise as bullion hits record high",
+                "url": "https://finance.yahoo.com/news/gold-miners-shares-rise-bullion-122438420.html"
+            },
+            {
+                "headline": "Investing.com -- Shares of major gold mining companies, including Newmont (NYSE: NEM), Barrick Gold (NYSE: NYSE:GOLD), Agnico Eagle Mines (NYSE: NYSE:AEM), Kinross Gold (NYSE: NYSE:KGC), AngloGold Ashanti (NYSE: AU) climbed 3% following a surge in gold prices to a record high, driven by a combination of US dollar weakness, criticism of the Federal Reserve, and ongoing trade war concerns.",
+                "publication_date": "2025-04-21T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.8126",
+                "source": "Investing.com",
+                "ticker": "GOLD",
+                "title": "Gold miners shares rise as bullion hits record high",
+                "url": "https://finance.yahoo.com/news/gold-miners-shares-rise-bullion-122438420.html"
+            }
+        ],
+        "avgScore": -0.8126,
+        "pctChange": -0.023471952649255855
     },
     "4 17 2025": {
         "importantArticles": [
@@ -206,24 +298,34 @@
     "4 11 2025": {
         "importantArticles": [
             {
-                "headline": "The Zacks Style Scores offers investors a way to easily find top-rated stocks based on their investing style. Here's why you should take advantage.",
+                "headline": "While AEM is well-placed on a strong pipeline of growth projects, solid financial health and surging gold prices, its high costs warrant caution.",
                 "publication_date": "2025-04-11T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.5267",
+                "sentimentScore": "0.7579",
                 "source": "Zacks",
                 "ticker": "GOLD",
-                "title": "Here's Why Barrick Gold (GOLD) is a Strong Growth Stock",
-                "url": "https://finance.yahoo.com/news/heres-why-barrick-gold-gold-134504749.html"
+                "title": "Agnico Eagle Stock Rallies 35% in 3 Months: What Should Investors Do?",
+                "url": "https://finance.yahoo.com/news/agnico-eagle-stock-rallies-35-121300895.html"
             },
             {
-                "headline": "TORONTO, April 11, 2025 (GLOBE NEWSWIRE) -- Barrick Gold Corporation (NYSE:GOLD)(TSX:ABX) will release its Q1 2025 results on Wednesday, May 7, 2025. President and CEO Mark Bristow will host a live presentation of the results that day at 11:00 EDT, with an interactive webinar linked to a conference call. Participants will be able to ask questions. Q1 RESULTS ANNOUNCEMENT Q1 Results releaseMay 7, 6:00 EDT / 10:00 UTCQ1 Results live presentation and webinarMay 7, 11:00 EDT / 15:00 UTCGo to the web",
+                "headline": "\ud83d\udd0e JP Morgan (JPM): Shares in the bank rallied Friday morning after it posted better-than-expected quarterly earnings. Chief Executive Jamie Dimon said the \"economy is facing considerable turbulence.\" Wells Fargo (WFC) also posted above-forecast net income, but shares fell.",
                 "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "GlobeNewswire",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6875",
+                "source": "The Wall Street Journal",
                 "ticker": "GOLD",
-                "title": "Barrick to Report First Quarter 2025 Results on May 7, 2025",
-                "url": "https://finance.yahoo.com/news/barrick-report-first-quarter-2025-110000453.html"
+                "title": "Stocks to Watch Friday: JPMorgan, Wells Fargo, BlackRock, Novartis",
+                "url": "https://finance.yahoo.com/m/f55e4098-d52e-3a3b-86cd-f17b406c18b6/stocks-to-watch-friday-.html"
+            },
+            {
+                "headline": "Wondering how to pick strong, market-beating stocks for your investment portfolio? Look no further than the Zacks Style Scores.",
+                "publication_date": "2025-04-11T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.2732",
+                "source": "Zacks",
+                "ticker": "GOLD",
+                "title": "Here's Why Barrick Gold (GOLD) is a Strong Momentum Stock",
+                "url": "https://finance.yahoo.com/news/heres-why-barrick-gold-gold-135005131.html"
             },
             {
                 "headline": "Reko Diq is expected to become one of the world\u2019s largest and lowest-cost copper-gold operations.",
@@ -236,16 +338,6 @@
                 "url": "https://finance.yahoo.com/news/reko-diq-breaking-down-barriers-103936536.html"
             },
             {
-                "headline": "Reko Diq is expected to become one of the world\u2019s largest and lowest-cost copper-gold operations.",
-                "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Mining Technology",
-                "ticker": "GOLD",
-                "title": "Reko Diq \u2018breaking down barriers\u2019 in Pakistan\u2019s mining industry, says project manager",
-                "url": "https://finance.yahoo.com/news/reko-diq-breaking-down-barriers-103936536.html"
-            },
-            {
                 "headline": "TORONTO, April 11, 2025 (GLOBE NEWSWIRE) -- Barrick Gold Corporation (NYSE:GOLD)(TSX:ABX) will release its Q1 2025 results on Wednesday, May 7, 2025. President and CEO Mark Bristow will host a live presentation of the results that day at 11:00 EDT, with an interactive webinar linked to a conference call. Participants will be able to ask questions. Q1 RESULTS ANNOUNCEMENT Q1 Results releaseMay 7, 6:00 EDT / 10:00 UTCQ1 Results live presentation and webinarMay 7, 11:00 EDT / 15:00 UTCGo to the web",
                 "publication_date": "2025-04-11T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -256,17 +348,17 @@
                 "url": "https://finance.yahoo.com/news/barrick-report-first-quarter-2025-110000453.html"
             },
             {
-                "headline": "The Zacks Style Scores offers investors a way to easily find top-rated stocks based on their investing style. Here's why you should take advantage.",
+                "headline": "Wondering how to pick strong, market-beating stocks for your investment portfolio? Look no further than the Zacks Style Scores.",
                 "publication_date": "2025-04-11T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.5267",
+                "sentimentScore": "0.2732",
                 "source": "Zacks",
                 "ticker": "GOLD",
-                "title": "Here's Why Barrick Gold (GOLD) is a Strong Growth Stock",
-                "url": "https://finance.yahoo.com/news/heres-why-barrick-gold-gold-134504749.html"
+                "title": "Here's Why Barrick Gold (GOLD) is a Strong Momentum Stock",
+                "url": "https://finance.yahoo.com/news/heres-why-barrick-gold-gold-135005131.html"
             }
         ],
-        "avgScore": 0.17556666666666665,
+        "avgScore": 0.34371999999999997,
         "pctChange": -0.008742122576097097
     },
     "4 10 2025": {
@@ -282,14 +374,14 @@
                 "url": "https://finance.yahoo.com/m/b7666a28-b67a-3129-82f5-e6c713960bbe/gold-stocks-are-going.html"
             },
             {
-                "headline": "Wondering how to pick strong, market-beating stocks for your investment portfolio? Look no further than the Zacks Style Scores.",
+                "headline": "The Zacks Style Scores offers investors a way to easily find top-rated stocks based on their investing style. Here's why you should take advantage.",
                 "publication_date": "2025-04-10T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.2732",
+                "sentimentScore": "0.5267",
                 "source": "Zacks",
                 "ticker": "GOLD",
-                "title": "Here's Why Barrick Gold (GOLD) is a Strong Value Stock",
-                "url": "https://finance.yahoo.com/news/heres-why-barrick-gold-gold-134008911.html"
+                "title": "Here's Why Barrick Gold (GOLD) is a Strong Growth Stock",
+                "url": "https://finance.yahoo.com/news/heres-why-barrick-gold-gold-134504749.html"
             },
             {
                 "headline": "Contrary to what you might read on social media, Warren Buffett isn't a fan of tariffs.  Berkshire Hathaway even recently took the unusual step of issuing a press release refuting social media claims that Buffett applauded President Trump's economic policies.  In an interview with CBS News in March, Buffett called tariffs an \"act of war.\"",
@@ -312,14 +404,14 @@
                 "url": "https://finance.yahoo.com/news/were-answer-warren-buffetts-pointed-075200819.html"
             },
             {
-                "headline": "Wondering how to pick strong, market-beating stocks for your investment portfolio? Look no further than the Zacks Style Scores.",
+                "headline": "The Zacks Style Scores offers investors a way to easily find top-rated stocks based on their investing style. Here's why you should take advantage.",
                 "publication_date": "2025-04-10T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.2732",
+                "sentimentScore": "0.5267",
                 "source": "Zacks",
                 "ticker": "GOLD",
-                "title": "Here's Why Barrick Gold (GOLD) is a Strong Value Stock",
-                "url": "https://finance.yahoo.com/news/heres-why-barrick-gold-gold-134008911.html"
+                "title": "Here's Why Barrick Gold (GOLD) is a Strong Growth Stock",
+                "url": "https://finance.yahoo.com/news/heres-why-barrick-gold-gold-134504749.html"
             },
             {
                 "headline": "Gold miners such as Newmont and Barrick Gold must win back investor confidence after years of missing targets.",
@@ -332,11 +424,21 @@
                 "url": "https://finance.yahoo.com/m/b7666a28-b67a-3129-82f5-e6c713960bbe/gold-stocks-are-going.html"
             }
         ],
-        "avgScore": 0.37346666666666667,
+        "avgScore": 0.45796666666666663,
         "pctChange": 0.07016634082793802
     },
     "4 9 2025": {
         "importantArticles": [
+            {
+                "headline": "Wondering how to pick strong, market-beating stocks for your investment portfolio? Look no further than the Zacks Style Scores.",
+                "publication_date": "2025-04-09T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.2732",
+                "source": "Zacks",
+                "ticker": "GOLD",
+                "title": "Here's Why Barrick Gold (GOLD) is a Strong Value Stock",
+                "url": "https://finance.yahoo.com/news/heres-why-barrick-gold-gold-134008911.html"
+            },
             {
                 "headline": "The Reko Diq project, located in Balochistan, Pakistan, is being operated by GOLD.",
                 "publication_date": "2025-04-09T00:00:00.000Z",
@@ -356,16 +458,6 @@
                 "ticker": "GOLD",
                 "title": "Reko Diq JV approves updated feasibility study and appoints Fluor for EPCM",
                 "url": "https://finance.yahoo.com/news/reko-diq-jv-approves-updated-090908247.html"
-            },
-            {
-                "headline": "To find a multi-bagger stock, what are the underlying trends we should look for in a business? Amongst other things...",
-                "publication_date": "2025-04-09T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Simply Wall St.",
-                "ticker": "GOLD",
-                "title": "Barrick Gold's (TSE:ABX) Returns On Capital Are Heading Higher",
-                "url": "https://finance.yahoo.com/news/barrick-golds-tse-abx-returns-132333022.html"
             },
             {
                 "headline": "We recently published a list of Jim Cramer Nailed These 11 Stock Picks. In this article, we are going to take a look at where Barrick Gold Corporation (NYSE:GOLD) stands against other stocks that Jim Cramer discusses. On Thursday, April 3rd, the host of Mad Money opened the most recent show by addressing the growing concerns [\u2026]",
@@ -388,31 +480,21 @@
                 "url": "https://finance.yahoo.com/news/jim-cramer-says-barrick-gold-145114657.html"
             },
             {
-                "headline": "To find a multi-bagger stock, what are the underlying trends we should look for in a business? Amongst other things...",
+                "headline": "The project remains on track for first production by the end of 2028.",
                 "publication_date": "2025-04-09T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
-                "source": "Simply Wall St.",
+                "source": "Mining Technology",
                 "ticker": "GOLD",
-                "title": "Barrick Gold's (TSE:ABX) Returns On Capital Are Heading Higher",
-                "url": "https://finance.yahoo.com/news/barrick-golds-tse-abx-returns-132333022.html"
+                "title": "Reko Diq JV approves updated feasibility study and appoints Fluor for EPCM",
+                "url": "https://finance.yahoo.com/news/reko-diq-jv-approves-updated-090908247.html"
             }
         ],
-        "avgScore": -0.14024,
+        "avgScore": -0.08560000000000001,
         "pctChange": 0.023404284676259008
     },
     "4 8 2025": {
         "importantArticles": [
-            {
-                "headline": "GOLD is strategically enhancing its portfolio to drive sustainable production and profitable growth.",
-                "publication_date": "2025-04-08T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6705",
-                "source": "Zacks",
-                "ticker": "GOLD",
-                "title": "Barrick Gold Sets Target for 30% Production Growth by 2030",
-                "url": "https://finance.yahoo.com/news/barrick-gold-sets-target-30-113900471.html"
-            },
             {
                 "headline": "All amounts expressed in US dollars ISLAMABAD, April 08, 2025 (GLOBE NEWSWIRE) -- Barrick Gold Corporation (NYSE:GOLD)(TSX:ABX) \u2013 The Reko Diq Joint Venture shareholders have approved the project\u2019s updated Feasibility Study and conditionally approved the associated Phase 1 development capital subject to the closing of up to $3 billion limited recourse project financing, allowing the project to advance with major works in 2025, while maintaining the target for first production by the end of 2028.",
                 "publication_date": "2025-04-08T00:00:00.000Z",
@@ -434,14 +516,14 @@
                 "url": "https://finance.yahoo.com/news/barrick-gold-corporation-gold-undervalued-224319737.html"
             },
             {
-                "headline": "Investors looking for ways to find stocks that are set to beat quarterly earnings estimates should check out the Zacks Earnings ESP.",
+                "headline": "To find a multi-bagger stock, what are the underlying trends we should look for in a business? Amongst other things...",
                 "publication_date": "2025-04-08T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
-                "source": "Zacks",
+                "source": "Simply Wall St.",
                 "ticker": "GOLD",
-                "title": "How to Find Strong Basic Materials Stocks Slated for Positive Earnings Surprises",
-                "url": "https://finance.yahoo.com/news/strong-basic-materials-stocks-slated-130012178.html"
+                "title": "Barrick Gold's (TSE:ABX) Returns On Capital Are Heading Higher",
+                "url": "https://finance.yahoo.com/news/barrick-golds-tse-abx-returns-132333022.html"
             },
             {
                 "headline": "Barrick Gold's Reko Diq copper and gold project in Pakistan intends to lock in upwards of $2 billion in financing from international lenders, with term sheets signed by early Q3, its project director for the mine told Reuters on Tuesday.  Barrick Gold and the governments of Pakistan and Balochistan own the project jointly.  The financing for phase one of the project, which is expected to start production in 2028, is being discussed with multiple lenders.",
@@ -454,8 +536,84 @@
                 "url": "https://finance.yahoo.com/news/barricks-reko-diq-project-pakistan-103333670.html"
             },
             {
-                "headline": "With bullion prices soaring, driven by trade tensions, which gold giant - Newmont or Barrick - is a better pick now?",
+                "headline": "To find a multi-bagger stock, what are the underlying trends we should look for in a business? Amongst other things...",
                 "publication_date": "2025-04-08T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Simply Wall St.",
+                "ticker": "GOLD",
+                "title": "Barrick Gold's (TSE:ABX) Returns On Capital Are Heading Higher",
+                "url": "https://finance.yahoo.com/news/barrick-golds-tse-abx-returns-132333022.html"
+            },
+            {
+                "headline": "We recently published a list of 10 Undervalued Canadian Stocks to Buy Now. In this article, we are going to take a look at where Barrick Gold Corporation (NYSE:GOLD) stands against other undervalued Canadian stocks to buy now. Q1 2025 saw some challenges to the financial markets, primarily because of trade issues, says Sun Life (a [\u2026]",
+                "publication_date": "2025-04-08T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.0772",
+                "source": "Insider Monkey",
+                "ticker": "GOLD",
+                "title": "Is Barrick Gold Corporation\u00a0(GOLD) the Undervalued Canadian Stock to Buy Now?",
+                "url": "https://finance.yahoo.com/news/barrick-gold-corporation-gold-undervalued-224319737.html"
+            }
+        ],
+        "avgScore": 0.162275,
+        "pctChange": 0.07305928914685997
+    },
+    "4 7 2025": {
+        "importantArticles": [
+            {
+                "headline": "GOLD is strategically enhancing its portfolio to drive sustainable production and profitable growth.",
+                "publication_date": "2025-04-07T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6705",
+                "source": "Zacks",
+                "ticker": "GOLD",
+                "title": "Barrick Gold Sets Target for 30% Production Growth by 2030",
+                "url": "https://finance.yahoo.com/news/barrick-gold-sets-target-30-113900471.html"
+            },
+            {
+                "headline": "Barrick Gold (ABX.TO, GOLD) late on Friday said it is aiming for 30% growth in gold equivalent ounce",
+                "publication_date": "2025-04-07T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.3818",
+                "source": "MT Newswires",
+                "ticker": "GOLD",
+                "title": "Barrick Targets 30% Production Growth by 2030, to Change Name",
+                "url": "https://finance.yahoo.com/news/barrick-targets-30-production-growth-094346715.html"
+            },
+            {
+                "headline": "With bullion prices soaring, driven by trade tensions, which gold giant - Newmont or Barrick - is a better pick now?",
+                "publication_date": "2025-04-07T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.0516",
+                "source": "Zacks",
+                "ticker": "GOLD",
+                "title": "Newmont vs. Barrick Gold: Which Mining Giant Is the Better Bet Now?",
+                "url": "https://finance.yahoo.com/news/newmont-vs-barrick-gold-mining-121300710.html"
+            },
+            {
+                "headline": "In the 2025 Information Circular, Barrick Gold chairman John Thornton said this move is aimed at reflecting its \u201cchanging production profile\u201d.",
+                "publication_date": "2025-04-07T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Mining Technology",
+                "ticker": "GOLD",
+                "title": "Barrick Gold \u00a0proposes rebranding to reflect focus on copper",
+                "url": "https://finance.yahoo.com/news/barrick-gold-proposes-rebranding-reflect-105622105.html"
+            },
+            {
+                "headline": "Investors looking for ways to find stocks that are set to beat quarterly earnings estimates should check out the Zacks Earnings ESP.",
+                "publication_date": "2025-04-07T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "GOLD",
+                "title": "How to Find Strong Basic Materials Stocks Slated for Positive Earnings Surprises",
+                "url": "https://finance.yahoo.com/news/strong-basic-materials-stocks-slated-130012178.html"
+            },
+            {
+                "headline": "With bullion prices soaring, driven by trade tensions, which gold giant - Newmont or Barrick - is a better pick now?",
+                "publication_date": "2025-04-07T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.0516",
                 "source": "Zacks",
@@ -464,66 +622,20 @@
                 "url": "https://finance.yahoo.com/news/newmont-vs-barrick-gold-mining-121300710.html"
             }
         ],
-        "avgScore": 0.22853333333333334,
-        "pctChange": 0.07305928914685997
-    },
-    "4 7 2025": {
-        "importantArticles": [
-            {
-                "headline": "Barrick Gold (ABX.TO, GOLD) late on Friday said it is aiming for 30% growth in gold equivalent ounce",
-                "publication_date": "2025-04-07T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.3818",
-                "source": "MT Newswires",
-                "ticker": "GOLD",
-                "title": "Barrick Targets 30% Production Growth by 2030, to Change Name",
-                "url": "https://finance.yahoo.com/news/barrick-targets-30-production-growth-094346715.html"
-            },
-            {
-                "headline": "In the 2025 Information Circular, Barrick Gold chairman John Thornton said this move is aimed at reflecting its \u201cchanging production profile\u201d.",
-                "publication_date": "2025-04-07T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Mining Technology",
-                "ticker": "GOLD",
-                "title": "Barrick Gold \u00a0proposes rebranding to reflect focus on copper",
-                "url": "https://finance.yahoo.com/news/barrick-gold-proposes-rebranding-reflect-105622105.html"
-            },
-            {
-                "headline": "In the 2025 Information Circular, Barrick Gold chairman John Thornton said this move is aimed at reflecting its \u201cchanging production profile\u201d.",
-                "publication_date": "2025-04-07T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Mining Technology",
-                "ticker": "GOLD",
-                "title": "Barrick Gold \u00a0proposes rebranding to reflect focus on copper",
-                "url": "https://finance.yahoo.com/news/barrick-gold-proposes-rebranding-reflect-105622105.html"
-            },
-            {
-                "headline": "Barrick Gold (ABX.TO, GOLD) late on Friday said it is aiming for 30% growth in gold equivalent ounce",
-                "publication_date": "2025-04-07T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.3818",
-                "source": "MT Newswires",
-                "ticker": "GOLD",
-                "title": "Barrick Targets 30% Production Growth by 2030, to Change Name",
-                "url": "https://finance.yahoo.com/news/barrick-targets-30-production-growth-094346715.html"
-            }
-        ],
-        "avgScore": 0.1909,
+        "avgScore": 0.22078000000000003,
         "pctChange": -0.006802660773060105
     },
     "4 4 2025": {
         "importantArticles": [
             {
-                "headline": "In the closing of the recent trading day, Barrick Gold (GOLD) stood at $19.38, denoting a -0.15% change from the preceding trading day.",
+                "headline": "While GOLD's actions to advance key projects and solid financial health augur well, its high costs and downbeat production outlook warrant caution.",
                 "publication_date": "2025-04-04T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4019",
                 "source": "Zacks",
                 "ticker": "GOLD",
-                "title": "Barrick Gold (GOLD) Stock Moves -0.15%: What You Should Know",
-                "url": "https://finance.yahoo.com/news/barrick-gold-gold-stock-moves-214515506.html"
+                "title": "Should You Invest in Barrick Gold Stock After a 25% Rally in 3 Months?",
+                "url": "https://finance.yahoo.com/news/invest-barrick-gold-stock-25-115300962.html"
             },
             {
                 "headline": "In the closing of the recent trading day, Barrick Gold (GOLD) stood at $19.38, denoting a -0.15% change from the preceding trading day.",
@@ -534,9 +646,49 @@
                 "ticker": "GOLD",
                 "title": "Barrick Gold (GOLD) Stock Moves -0.15%: What You Should Know",
                 "url": "https://finance.yahoo.com/news/barrick-gold-gold-stock-moves-214515506.html"
+            },
+            {
+                "headline": "RPM's fiscal third-quarter results are likely to reflect seasonal weakness, negative impact from foreign exchange and weakness in the residential end-markets.",
+                "publication_date": "2025-04-04T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.8519",
+                "source": "Zacks",
+                "ticker": "GOLD",
+                "title": "RPM International to Report Q3 Earnings: What to Expect?",
+                "url": "https://finance.yahoo.com/news/rpm-international-report-q3-earnings-132100551.html"
+            },
+            {
+                "headline": "RPM's fiscal third-quarter results are likely to reflect seasonal weakness, negative impact from foreign exchange and weakness in the residential end-markets.",
+                "publication_date": "2025-04-04T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.8519",
+                "source": "Zacks",
+                "ticker": "GOLD",
+                "title": "RPM International to Report Q3 Earnings: What to Expect?",
+                "url": "https://finance.yahoo.com/news/rpm-international-report-q3-earnings-132100551.html"
+            },
+            {
+                "headline": "In the closing of the recent trading day, Barrick Gold (GOLD) stood at $19.38, denoting a -0.15% change from the preceding trading day.",
+                "publication_date": "2025-04-04T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "GOLD",
+                "title": "Barrick Gold (GOLD) Stock Moves -0.15%: What You Should Know",
+                "url": "https://finance.yahoo.com/news/barrick-gold-gold-stock-moves-214515506.html"
+            },
+            {
+                "headline": "While GOLD's actions to advance key projects and solid financial health augur well, its high costs and downbeat production outlook warrant caution.",
+                "publication_date": "2025-04-04T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4019",
+                "source": "Zacks",
+                "ticker": "GOLD",
+                "title": "Should You Invest in Barrick Gold Stock After a 25% Rally in 3 Months?",
+                "url": "https://finance.yahoo.com/news/invest-barrick-gold-stock-25-115300962.html"
             }
         ],
-        "avgScore": 0.0,
+        "avgScore": -0.15,
         "pctChange": -0.0016978317213340991
     },
     "4 3 2025": {
@@ -644,64 +796,90 @@
                 "url": "https://finance.yahoo.com/news/5-gold-stocks-likely-tide-162000287.html"
             },
             {
-                "headline": "GOLD released its fourth-quarter and full-year 2024 report on February 12, 2025.",
+                "headline": "Agnico Eagle Mines, Barrick Gold, Franco-Nevada, Kinross Gold and Alamos Gold are part of the Zacks Industry Outlook article.",
                 "publication_date": "2025-03-28T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
-                "source": "GuruFocus.com",
-                "ticker": "GOLD",
-                "title": "Barrick Gold Corp.: African Assets Are Hurting The Bottom Line.",
-                "url": "https://finance.yahoo.com/news/barrick-gold-corp-african-assets-210636870.html"
-            },
-            {
-                "headline": "Gold prices rally near record highs as President Trump ramps up trade war, tariffs. Canada gold mining stocks have soared this year.",
-                "publication_date": "2025-03-28T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.5994",
-                "source": "Investor's Business Daily",
-                "ticker": "GOLD",
-                "title": "Trade War Sends These Canada Stocks Soaring",
-                "url": "https://finance.yahoo.com/m/498e862c-c25b-3358-8508-8598b5ef23e3/trade-war-sends-these-canada.html"
-            },
-            {
-                "headline": "Gold prices rally near record highs as President Trump ramps up trade war, tariffs. Canada gold mining stocks have soared this year.",
-                "publication_date": "2025-03-28T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.5994",
-                "source": "Investor's Business Daily",
-                "ticker": "GOLD",
-                "title": "Trade War Sends These Canada Stocks Soaring",
-                "url": "https://finance.yahoo.com/m/498e862c-c25b-3358-8508-8598b5ef23e3/trade-war-sends-these-canada.html"
-            },
-            {
-                "headline": "GOLD released its fourth-quarter and full-year 2024 report on February 12, 2025.",
-                "publication_date": "2025-03-28T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "GuruFocus.com",
-                "ticker": "GOLD",
-                "title": "Barrick Gold Corp.: African Assets Are Hurting The Bottom Line.",
-                "url": "https://finance.yahoo.com/news/barrick-gold-corp-african-assets-210636870.html"
-            },
-            {
-                "headline": "Despite rising gold prices, cost pressures weigh on the Zacks Mining - Gold industry. We suggest keeping tabs on stocks like AEM, GOLD, FNV, KGC and AGI.",
-                "publication_date": "2025-03-28T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.0516",
                 "source": "Zacks",
                 "ticker": "GOLD",
-                "title": "5 Gold Stocks Likely to Tide Industry Headwinds",
-                "url": "https://finance.yahoo.com/news/5-gold-stocks-likely-tide-162000287.html"
+                "title": "Zacks Industry Outlook Highlights Agnico Eagle Mines, Barrick Gold, Franco-Nevada, Kinross Gold and Alamos Gold",
+                "url": "https://finance.yahoo.com/news/zacks-industry-outlook-highlights-agnico-135600172.html"
+            },
+            {
+                "headline": "GOLD released its fourth-quarter and full-year 2024 report on February 12, 2025.",
+                "publication_date": "2025-03-28T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "GuruFocus.com",
+                "ticker": "GOLD",
+                "title": "Barrick Gold Corp.: African Assets Are Hurting The Bottom Line.",
+                "url": "https://finance.yahoo.com/news/barrick-gold-corp-african-assets-210636870.html"
+            },
+            {
+                "headline": "Gold prices rally near record highs as President Trump ramps up trade war, tariffs. Canada gold mining stocks have soared this year.",
+                "publication_date": "2025-03-28T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5994",
+                "source": "Investor's Business Daily",
+                "ticker": "GOLD",
+                "title": "Trade War Sends These Canada Stocks Soaring",
+                "url": "https://finance.yahoo.com/m/498e862c-c25b-3358-8508-8598b5ef23e3/trade-war-sends-these-canada.html"
+            },
+            {
+                "headline": "GOLD released its fourth-quarter and full-year 2024 report on February 12, 2025.",
+                "publication_date": "2025-03-28T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "GuruFocus.com",
+                "ticker": "GOLD",
+                "title": "Barrick Gold Corp.: African Assets Are Hurting The Bottom Line.",
+                "url": "https://finance.yahoo.com/news/barrick-gold-corp-african-assets-210636870.html"
+            },
+            {
+                "headline": "Agnico Eagle Mines, Barrick Gold, Franco-Nevada, Kinross Gold and Alamos Gold are part of the Zacks Industry Outlook article.",
+                "publication_date": "2025-03-28T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "GOLD",
+                "title": "Zacks Industry Outlook Highlights Agnico Eagle Mines, Barrick Gold, Franco-Nevada, Kinross Gold and Alamos Gold",
+                "url": "https://finance.yahoo.com/news/zacks-industry-outlook-highlights-agnico-135600172.html"
             }
         ],
-        "avgScore": -0.1826,
+        "avgScore": -0.13695000000000002,
         "pctChange": 0.01567404148254208
     },
     "3 27 2025": {
         "importantArticles": [
             {
-                "headline": "Mali is forecasting a slight recovery in industrial gold output in 2025 on the assumption that mining giant Barrick Gold will resume operations after a months-long standoff with the government, a document seen by Reuters on Wednesday showed.  A major gold producer in Africa, Mali has around fifteen operating gold mines, mainly owned by international companies including Barrick Gold, B2GOLD, Resolute Mining, Endeavour Mining, and Hummingbird Resources.",
+                "headline": "The latest trading day saw Barrick Gold (GOLD) settling at $19.31, representing a -0.21% change from its previous close.",
                 "publication_date": "2025-03-27T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "GOLD",
+                "title": "Barrick Gold (GOLD) Stock Moves -0.21%: What You Should Know",
+                "url": "https://finance.yahoo.com/news/barrick-gold-gold-stock-moves-215015024.html"
+            },
+            {
+                "headline": "The latest trading day saw Barrick Gold (GOLD) settling at $19.31, representing a -0.21% change from its previous close.",
+                "publication_date": "2025-03-27T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "GOLD",
+                "title": "Barrick Gold (GOLD) Stock Moves -0.21%: What You Should Know",
+                "url": "https://finance.yahoo.com/news/barrick-gold-gold-stock-moves-215015024.html"
+            }
+        ],
+        "avgScore": 0.0,
+        "pctChange": -0.021472397124818125
+    },
+    "3 26 2025": {
+        "importantArticles": [
+            {
+                "headline": "Mali is forecasting a slight recovery in industrial gold output in 2025 on the assumption that mining giant Barrick Gold will resume operations after a months-long standoff with the government, a document seen by Reuters on Wednesday showed.  A major gold producer in Africa, Mali has around fifteen operating gold mines, mainly owned by international companies including Barrick Gold, B2GOLD, Resolute Mining, Endeavour Mining, and Hummingbird Resources.",
+                "publication_date": "2025-03-26T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.2732",
                 "source": "Reuters",
@@ -710,28 +888,8 @@
                 "url": "https://finance.yahoo.com/news/mali-expects-rise-gold-output-133034660.html"
             },
             {
-                "headline": "The latest trading day saw Barrick Gold (GOLD) settling at $19.31, representing a -0.21% change from its previous close.",
-                "publication_date": "2025-03-27T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "GOLD",
-                "title": "Barrick Gold (GOLD) Stock Moves -0.21%: What You Should Know",
-                "url": "https://finance.yahoo.com/news/barrick-gold-gold-stock-moves-215015024.html"
-            },
-            {
-                "headline": "The latest trading day saw Barrick Gold (GOLD) settling at $19.31, representing a -0.21% change from its previous close.",
-                "publication_date": "2025-03-27T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "GOLD",
-                "title": "Barrick Gold (GOLD) Stock Moves -0.21%: What You Should Know",
-                "url": "https://finance.yahoo.com/news/barrick-gold-gold-stock-moves-215015024.html"
-            },
-            {
                 "headline": "Mali is forecasting a slight recovery in industrial gold output in 2025 on the assumption that mining giant Barrick Gold will resume operations after a months-long standoff with the government, a document seen by Reuters on Wednesday showed.  A major gold producer in Africa, Mali has around fifteen operating gold mines, mainly owned by international companies including Barrick Gold, B2GOLD, Resolute Mining, Endeavour Mining, and Hummingbird Resources.",
-                "publication_date": "2025-03-27T00:00:00.000Z",
+                "publication_date": "2025-03-26T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.2732",
                 "source": "Reuters",
@@ -740,21 +898,11 @@
                 "url": "https://finance.yahoo.com/news/mali-expects-rise-gold-output-133034660.html"
             }
         ],
-        "avgScore": 0.1366,
-        "pctChange": -0.021472397124818125
+        "avgScore": 0.2732,
+        "pctChange": 0.012946660119847875
     },
     "3 25 2025": {
         "importantArticles": [
-            {
-                "headline": "(Reuters) -Funds that invest in gold miners are set to attract their largest net monthly inflows in more than a year in March, as record-high gold prices improve firms' profit outlooks and boost cash flow.  Although gold prices also rose last year, miners still struggled to offset inflation-driven spikes in labour and fuel costs while facing regulatory hurdles such as tax disputes in Mali and project delays in Canada.  As a result, investors mostly shunned equity funds focused on gold miners, opting instead for traditional gold funds that offered a safe haven during the Russia-Ukraine war and escalating trade tariff concerns after Donald Trump won the U.S. election in early November.",
-                "publication_date": "2025-03-25T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8957",
-                "source": "Reuters",
-                "ticker": "GOLD",
-                "title": "Gold rally attracts investors back to mining stocks after months of outflows",
-                "url": "https://finance.yahoo.com/news/gold-rally-attracts-investors-back-133103599.html"
-            },
             {
                 "headline": "ASX, ACHC and GOLD have been added to the Zacks Rank #5 (Strong Sell) List on March 25, 2025.",
                 "publication_date": "2025-03-25T00:00:00.000Z",
@@ -774,6 +922,16 @@
                 "ticker": "GOLD",
                 "title": "Gold Stocks Are Back: The $3,000 Catalyst Sparking a Billion-Dollar Comeback",
                 "url": "https://finance.yahoo.com/news/gold-stocks-back-3-000-152536861.html"
+            },
+            {
+                "headline": "Barron\u2019s annual list of unloved stocks ranges from tech giant Alibaba to miner Barrick to auto rental stalwart Hertz Global.",
+                "publication_date": "2025-03-25T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.4404",
+                "source": "Barrons.com",
+                "ticker": "GOLD",
+                "title": "Barron\u2019s 10 Favorite Stocks for 2024",
+                "url": "https://finance.yahoo.com/m/210ed46a-fedd-3adf-89fc-cb3019e76136/barron%E2%80%99s-10-favorite-stocks.html"
             },
             {
                 "headline": "Barron\u2019s annual list of unloved stocks ranges from tech giant Alibaba to miner Barrick to auto rental stalwart Hertz Global.",
@@ -806,15 +964,41 @@
                 "url": "https://finance.yahoo.com/news/strong-sell-stocks-march-25th-102200336.html"
             }
         ],
-        "avgScore": 0.11382500000000001,
+        "avgScore": -0.1468,
         "pctChange": -0.0020672307358531165
     },
-    "coef": -0.05734803861861231,
-    "avgCoef": -0.028038892597108022,
+    "3 24 2025": {
+        "importantArticles": [
+            {
+                "headline": "(Reuters) -Funds that invest in gold miners are set to attract their largest net monthly inflows in more than a year in March, as record-high gold prices improve firms' profit outlooks and boost cash flow.  Although gold prices also rose last year, miners still struggled to offset inflation-driven spikes in labour and fuel costs while facing regulatory hurdles such as tax disputes in Mali and project delays in Canada.  As a result, investors mostly shunned equity funds focused on gold miners, opting instead for traditional gold funds that offered a safe haven during the Russia-Ukraine war and escalating trade tariff concerns after Donald Trump won the U.S. election in early November.",
+                "publication_date": "2025-03-24T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8957",
+                "source": "Reuters",
+                "ticker": "GOLD",
+                "title": "Gold rally attracts investors back to mining stocks after months of outflows",
+                "url": "https://finance.yahoo.com/news/gold-rally-attracts-investors-back-133103599.html"
+            },
+            {
+                "headline": "(Reuters) -Funds that invest in gold miners are set to attract their largest net monthly inflows in more than a year in March, as record-high gold prices improve firms' profit outlooks and boost cash flow.  Although gold prices also rose last year, miners still struggled to offset inflation-driven spikes in labour and fuel costs while facing regulatory hurdles such as tax disputes in Mali and project delays in Canada.  As a result, investors mostly shunned equity funds focused on gold miners, opting instead for traditional gold funds that offered a safe haven during the Russia-Ukraine war and escalating trade tariff concerns after Donald Trump won the U.S. election in early November.",
+                "publication_date": "2025-03-24T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8957",
+                "source": "Reuters",
+                "ticker": "GOLD",
+                "title": "Gold rally attracts investors back to mining stocks after months of outflows",
+                "url": "https://finance.yahoo.com/news/gold-rally-attracts-investors-back-133103599.html"
+            }
+        ],
+        "avgScore": 0.8957,
+        "pctChange": 0.024351562026696822
+    },
+    "coef": 0.19859433130377757,
+    "avgCoef": -0.03250018901510587,
     "similar": {
-        "RXRX": 0.5770646385997865,
-        "ERIC": 0.5340536096358272,
-        "BABA": 0.4695370661898883,
-        "PBR": 0.45520005653523526
+        "PBR": 0.5008795081555453,
+        "AMD": 0.4305806298179249,
+        "ENPH": 0.37082658323094747,
+        "BABA": 0.32513231231149425
     }
 }

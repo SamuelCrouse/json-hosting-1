@@ -1,4 +1,30 @@
 {
+    "4 22 2025": {
+        "importantArticles": [
+            {
+                "headline": "COEUR D'ALENE, Idaho, April 22, 2025--Hecla Mining Company (NYSE:HL) wishes to congratulate Loralee Johnstone, Hecla\u2019s Director of Indigenous Affairs and Canadian Community Relations, on the tremendous honor of receiving the King Charles III Coronation Medal. This prestigious recognition celebrates Loralee\u2019s unwavering dedication to championing responsible and sustainable mining practices throughout the Yukon. The Coronation Medal commemorates the Coronation of His Majesty, King Charles III, as",
+                "publication_date": "2025-04-22T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9682",
+                "source": "Business Wire",
+                "ticker": "HL",
+                "title": "Hecla's Loralee Johnstone Honored with Prestigious King Charles III Coronation Medal in Yukon",
+                "url": "https://finance.yahoo.com/news/heclas-loralee-johnstone-honored-prestigious-120000982.html"
+            },
+            {
+                "headline": "COEUR D'ALENE, Idaho, April 22, 2025--Hecla Mining Company (NYSE:HL) wishes to congratulate Loralee Johnstone, Hecla\u2019s Director of Indigenous Affairs and Canadian Community Relations, on the tremendous honor of receiving the King Charles III Coronation Medal. This prestigious recognition celebrates Loralee\u2019s unwavering dedication to championing responsible and sustainable mining practices throughout the Yukon. The Coronation Medal commemorates the Coronation of His Majesty, King Charles III, as",
+                "publication_date": "2025-04-22T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9682",
+                "source": "Business Wire",
+                "ticker": "HL",
+                "title": "Hecla's Loralee Johnstone Honored with Prestigious King Charles III Coronation Medal in Yukon",
+                "url": "https://finance.yahoo.com/news/heclas-loralee-johnstone-honored-prestigious-120000982.html"
+            }
+        ],
+        "avgScore": 0.9682,
+        "pctChange": -0.05676121681842136
+    },
     "4 11 2025": {
         "importantArticles": [
             {
@@ -51,11 +77,11 @@
         "avgScore": -0.2263,
         "pctChange": 0.05667283939801355
     },
-    "3 25 2025": {
+    "3 24 2025": {
         "importantArticles": [
             {
                 "headline": "Hecla Mining (NYSE:HL) has had a great run on the share market with its stock up by a significant 14% over the last...",
-                "publication_date": "2025-03-25T00:00:00.000Z",
+                "publication_date": "2025-03-24T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.7964",
                 "source": "Simply Wall St.",
@@ -65,7 +91,7 @@
             },
             {
                 "headline": "Hecla Mining (NYSE:HL) has had a great run on the share market with its stock up by a significant 14% over the last...",
-                "publication_date": "2025-03-25T00:00:00.000Z",
+                "publication_date": "2025-03-24T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.7964",
                 "source": "Simply Wall St.",
@@ -75,14 +101,14 @@
             }
         ],
         "avgScore": 0.7964,
-        "pctChange": -0.012006808874831144
+        "pctChange": -0.006814303685325812
     },
     "coef": -1.0,
-    "avgCoef": 0.015251090420811266,
+    "avgCoef": -0.027553956328915916,
     "similar": {
-        "HTZ": 1.0,
-        "CSX": 1.0,
-        "KO": 1.0,
-        "CMG": 1.0
+        "RGTI": 1.0,
+        "CMG": 1.0,
+        "TSLA": 0.7999999999999999,
+        "HTZ": 0.7999999999999999
     }
 }

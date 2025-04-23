@@ -3,7 +3,7 @@
         "importantArticles": [
             {
                 "headline": "We recently compiled a list of the 10 Best Stocks Under $10 to Buy Now. In this article, we are going to take a look at where Ambev S.A. (NYSE:ABEV) stands against the other stocks under $10. On March 28, Friday, US stocks declined as Wall Street continued to struggle with President Trump\u2019s trade war [\u2026]",
-                "publication_date": "2025-03-31T19:43:40.000Z",
+                "publication_date": "2025-03-31T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.25",
                 "source": "Insider Monkey",
@@ -13,7 +13,7 @@
             },
             {
                 "headline": "We recently compiled a list of the 10 Best Stocks Under $10 to Buy Now. In this article, we are going to take a look at where Ambev S.A. (NYSE:ABEV) stands against the other stocks under $10. On March 28, Friday, US stocks declined as Wall Street continued to struggle with President Trump\u2019s trade war [\u2026]",
-                "publication_date": "2025-03-31T19:43:40.000Z",
+                "publication_date": "2025-03-31T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.25",
                 "source": "Insider Monkey",
@@ -22,7 +22,67 @@
                 "url": "https://finance.yahoo.com/news/ambev-abev-best-stock-under-194340049.html"
             }
         ],
-        "avgScore": -0.25
+        "avgScore": -0.25,
+        "pctChange": 0.0042918415410722575
     },
-    "coef": NaN
+    "3 28 2025": {
+        "importantArticles": [
+            {
+                "headline": "We recently published a list of Top 10 High Dividend Yielding Consumer Defensive Stocks To Buy. In this article, we are going to take a look at where Ambev S.A. (NYSE:ABEV) stands against other top high dividend yielding consumer defensive stocks to buy. Consumer defensive stocks tend to perform well in uncertain times because they [\u2026]",
+                "publication_date": "2025-03-28T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4215",
+                "source": "Insider Monkey",
+                "ticker": "ABEV",
+                "title": "Is Ambev (ABEV) The Top High Dividend Yielding Consumer Defensive Stock To Buy?",
+                "url": "https://finance.yahoo.com/news/ambev-abev-top-high-dividend-134635901.html"
+            },
+            {
+                "headline": "We recently published a list of Top 10 High Dividend Yielding Consumer Defensive Stocks To Buy. In this article, we are going to take a look at where Ambev S.A. (NYSE:ABEV) stands against other top high dividend yielding consumer defensive stocks to buy. Consumer defensive stocks tend to perform well in uncertain times because they [\u2026]",
+                "publication_date": "2025-03-28T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4215",
+                "source": "Insider Monkey",
+                "ticker": "ABEV",
+                "title": "Is Ambev (ABEV) The Top High Dividend Yielding Consumer Defensive Stock To Buy?",
+                "url": "https://finance.yahoo.com/news/ambev-abev-top-high-dividend-134635901.html"
+            }
+        ],
+        "avgScore": 0.4215,
+        "pctChange": 0.021929803922675833
+    },
+    "3 26 2025": {
+        "importantArticles": [
+            {
+                "headline": "We recently published a list of 10 Worst Affordable Stocks to Buy Under $10. In this article, we are going to take a look at where Ambev S.A. (NYSE:ABEV) stands against other worst affordable stocks to buy under $10. Will There Be a Small Cap Resurgence in 2025? On February 18, Chris Clark, Chief Executive [\u2026]",
+                "publication_date": "2025-03-26T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.8481",
+                "source": "Insider Monkey",
+                "ticker": "ABEV",
+                "title": "Is Ambev S.A. (NYSE:ABEV) the Worst Affordable Stocks to Buy Under $10?",
+                "url": "https://finance.yahoo.com/news/ambev-nyse-abev-worst-affordable-014155430.html"
+            },
+            {
+                "headline": "We recently published a list of 10 Worst Affordable Stocks to Buy Under $10. In this article, we are going to take a look at where Ambev S.A. (NYSE:ABEV) stands against other worst affordable stocks to buy under $10. Will There Be a Small Cap Resurgence in 2025? On February 18, Chris Clark, Chief Executive [\u2026]",
+                "publication_date": "2025-03-26T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.8481",
+                "source": "Insider Monkey",
+                "ticker": "ABEV",
+                "title": "Is Ambev S.A. (NYSE:ABEV) the Worst Affordable Stocks to Buy Under $10?",
+                "url": "https://finance.yahoo.com/news/ambev-nyse-abev-worst-affordable-014155430.html"
+            }
+        ],
+        "avgScore": -0.8481,
+        "pctChange": 0.0
+    },
+    "coef": 1.0,
+    "avgCoef": -0.03478716527906609,
+    "similar": {
+        "SPY": 1.0,
+        "F": 1.0,
+        "AAL": 1.0,
+        "ABEV": 1.0
+    }
 }

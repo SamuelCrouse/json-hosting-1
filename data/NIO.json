@@ -43,7 +43,7 @@
             }
         ],
         "avgScore": 0.37979999999999997,
-        "pctChange": 0.03263707636814917
+        "pctChange": 0.030026112748708554
     },
     "4 17 2025": {
         "importantArticles": [
@@ -390,14 +390,14 @@
                 "url": "https://finance.yahoo.com/news/zacks-analyst-blog-highlights-tesla-131300124.html"
             },
             {
-                "headline": "The EV stock hit a 52-week low and is dirt cheap right now, but you must pay attention to a few things.",
+                "headline": "Nio's global cost-cutting spree hits Europe, the U.S., and China as sales crumble and investors grow uneasy.",
                 "publication_date": "2025-04-04T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.431",
-                "source": "Motley Fool",
+                "sentimentScore": "-0.3818",
+                "source": "GuruFocus.com",
                 "ticker": "NIO",
-                "title": "Why Nio Stock Plunged 17.7% in March",
-                "url": "https://finance.yahoo.com/news/why-nio-stock-plunged-17-151111729.html"
+                "title": "EV Bloodbath: Nio Slashes Jobs, Misses Targets, and Plunges to 5-Year Low",
+                "url": "https://finance.yahoo.com/news/ev-bloodbath-nio-slashes-jobs-160657613.html"
             },
             {
                 "headline": "The EV stock hit a 52-week low and is dirt cheap right now, but you must pay attention to a few things.",
@@ -408,6 +408,16 @@
                 "ticker": "NIO",
                 "title": "Why Nio Stock Plunged 17.7% in March",
                 "url": "https://finance.yahoo.com/news/why-nio-stock-plunged-17-151111729.html"
+            },
+            {
+                "headline": "Nio's global cost-cutting spree hits Europe, the U.S., and China as sales crumble and investors grow uneasy.",
+                "publication_date": "2025-04-04T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.3818",
+                "source": "GuruFocus.com",
+                "ticker": "NIO",
+                "title": "EV Bloodbath: Nio Slashes Jobs, Misses Targets, and Plunges to 5-Year Low",
+                "url": "https://finance.yahoo.com/news/ev-bloodbath-nio-slashes-jobs-160657613.html"
             },
             {
                 "headline": "Tesla, Rivian Automotive, NIO, Li Auto and XPeng are part of the Zacks top Analyst Blog.",
@@ -418,19 +428,9 @@
                 "ticker": "NIO",
                 "title": "The Zacks Analyst Blog Highlights Tesla, Rivian Automotive, NIO, Li Auto and XPeng",
                 "url": "https://finance.yahoo.com/news/zacks-analyst-blog-highlights-tesla-131300124.html"
-            },
-            {
-                "headline": "The global EV fuse market is projected to grow significantly, reaching an anticipated value of US$ 5.6 billion by 2031, according to a report by Stratview Research. This growth accompanies an annual rate of 13.9% from 2024 to 2031, driven by the increasing adoption of electric vehicles (EVs) including battery electric vehicles (BEVs) and hybrid electric vehicles (HEVs). The market segmentation includes various types of fuses used across different applications, with low-voltage fuses...",
-                "publication_date": "2025-04-04T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7003",
-                "source": "Simply Wall St.",
-                "ticker": "NIO",
-                "title": "Electric Vehicles Today - Accelerating Growth In The Global EV Fuse Market",
-                "url": "https://finance.yahoo.com/news/electric-vehicles-today-accelerating-growth-100937547.html"
             }
         ],
-        "avgScore": 0.15720000000000003,
+        "avgScore": 0.02245000000000004,
         "pctChange": -0.028901775129662497
     },
     "4 3 2025": {
@@ -492,16 +492,6 @@
                 "url": "https://finance.yahoo.com/news/electric-vehicles-today-battery-leap-120711145.html"
             },
             {
-                "headline": "While Nio sees strong quarterly delivery growth, its stock continues to underperform broader market and peers.",
-                "publication_date": "2025-04-02T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7096",
-                "source": "GuruFocus.com",
-                "ticker": "NIO",
-                "title": "Nio's Q1 Deliveries Rise 40%, But Shares Lag Despite EV Growth",
-                "url": "https://finance.yahoo.com/news/nios-q1-deliveries-rise-40-165227001.html"
-            },
-            {
                 "headline": "NIO, XPEV and LI report a year-over-year increase in March and first-quarter 2025 deliveries.",
                 "publication_date": "2025-04-02T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -510,6 +500,16 @@
                 "ticker": "NIO",
                 "title": "NIO, XPeng & Li Auto Post Delivery Results for March & Q1",
                 "url": "https://finance.yahoo.com/news/nio-xpeng-li-auto-post-131800951.html"
+            },
+            {
+                "headline": "Stock index futures are experiencing early declines amid investor apprehension surrounding President Donald Trump\u2019s impending \u201cLiberation Day\u201d tariffs, set to be introduced tomorrow. In the commodities market, gold prices have surged to new record highs as investors seek safe-haven assets amid escalating trade tensions. Spot gold briefly surpassed $3,170 per ounce, highlighting the prevailing market anxiety. \u200bMeanwhile, oil prices have exhibited modest gains. Investors are closely monitoring dev",
+                "publication_date": "2025-04-02T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5267",
+                "source": "TipRanks",
+                "ticker": "NIO",
+                "title": "Morning Movers: Johnson & Johnson slips after rejection of Talc case settlement",
+                "url": "https://finance.yahoo.com/news/morning-movers-johnson-johnson-slips-125606830.html"
             },
             {
                 "headline": "Stock index futures are experiencing early declines amid investor apprehension surrounding President Donald Trump\u2019s impending \u201cLiberation Day\u201d tariffs, set to be introduced tomorrow. In the commodities market, gold prices have surged to new record highs as investors seek safe-haven assets amid escalating trade tensions. Spot gold briefly surpassed $3,170 per ounce, highlighting the prevailing market anxiety. \u200bMeanwhile, oil prices have exhibited modest gains. Investors are closely monitoring dev",
@@ -532,17 +532,17 @@
                 "url": "https://finance.yahoo.com/news/nio-xpeng-li-auto-post-131800951.html"
             },
             {
-                "headline": "While Nio sees strong quarterly delivery growth, its stock continues to underperform broader market and peers.",
+                "headline": "NEO Battery Materials Ltd. has entered a collaboration agreement with Elementium Materials Inc. to enhance NEO's silicon battery platform using advanced electrolyte technology. This partnership aims to improve battery stability and electrochemical performance, particularly in ultra-fast charging and discharging, by leveraging Elementium's advanced electrolytes. The collaboration is expected to benefit high-demand markets such as power tools, humanoid robots, drones, and aerospace systems,...",
                 "publication_date": "2025-04-02T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.7096",
-                "source": "GuruFocus.com",
+                "sentimentScore": "0.9022",
+                "source": "Simply Wall St.",
                 "ticker": "NIO",
-                "title": "Nio's Q1 Deliveries Rise 40%, But Shares Lag Despite EV Growth",
-                "url": "https://finance.yahoo.com/news/nios-q1-deliveries-rise-40-165227001.html"
+                "title": "Electric Vehicles Today - Battery Leap: NEO and Elementium's High-Performance Collaboration",
+                "url": "https://finance.yahoo.com/news/electric-vehicles-today-battery-leap-120711145.html"
             }
         ],
-        "avgScore": 0.35082500000000005,
+        "avgScore": 0.23123333333333332,
         "pctChange": -0.0157894588243266
     },
     "4 1 2025": {
@@ -558,6 +558,16 @@
                 "url": "https://finance.yahoo.com/news/chinas-xpeng-clocks-record-q1-112132970.html"
             },
             {
+                "headline": "While Nio sees strong quarterly delivery growth, its stock continues to underperform broader market and peers.",
+                "publication_date": "2025-04-01T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7096",
+                "source": "GuruFocus.com",
+                "ticker": "NIO",
+                "title": "Nio's Q1 Deliveries Rise 40%, But Shares Lag Despite EV Growth",
+                "url": "https://finance.yahoo.com/news/nios-q1-deliveries-rise-40-165227001.html"
+            },
+            {
                 "headline": "15,039 vehicles were delivered in March 2025, increasing by 26.7% year-over-year42,094 vehicles were delivered in the three months ended March 2025, increasing by 40.1% year-over-yearCumulative deliveries reached 713,658 as of March 31, 2025 SHANGHAI, April 01, 2025 (GLOBE NEWSWIRE) -- NIO Inc. (NYSE: NIO; HKEX: 9866; SGX: NIO) (\u201cNIO\u201d or the \u201cCompany\u201d), a pioneer and a leading company in the global smart electric vehicle market, today announced its March and first quarter 2025 delivery results.",
                 "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -578,16 +588,6 @@
                 "url": "https://finance.yahoo.com/news/nios-stock-cheapest-ever-1-120000086.html"
             },
             {
-                "headline": "Nio is a dirt cheap EV stock to buy now.",
-                "publication_date": "2025-04-01T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.34",
-                "source": "Motley Fool",
-                "ticker": "NIO",
-                "title": "Nio's Stock Is About the Cheapest It's Ever Been. 1 Thing to Know Before You Buy.",
-                "url": "https://finance.yahoo.com/news/nios-stock-cheapest-ever-1-120000086.html"
-            },
-            {
                 "headline": "15,039 vehicles were delivered in March 2025, increasing by 26.7% year-over-year42,094 vehicles were delivered in the three months ended March 2025, increasing by 40.1% year-over-yearCumulative deliveries reached 713,658 as of March 31, 2025 SHANGHAI, April 01, 2025 (GLOBE NEWSWIRE) -- NIO Inc. (NYSE: NIO; HKEX: 9866; SGX: NIO) (\u201cNIO\u201d or the \u201cCompany\u201d), a pioneer and a leading company in the global smart electric vehicle market, today announced its March and first quarter 2025 delivery results.",
                 "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -598,17 +598,17 @@
                 "url": "https://finance.yahoo.com/news/nio-inc-provides-march-first-093000552.html"
             },
             {
-                "headline": "On Monday, Chinese electric vehicle company XPeng Inc (NYSE:XPEV) announced its vehicle delivery results for March and the first quarter of 2025. In March, XPeng delivered 33,205 Smart EVs, implying a 268% growth, surpassing 30,000 units for the fifth consecutive month. For the first quarter of 2025, XPeng delivered 94,008 Smart EVs, a 331% increase over last year. Also Read: Alibaba, BMW Team Up To Bring AI-Powered Smart Assistant In Next-Gen China Cars On March 13, 2025, at its Spring 2025 Lau",
+                "headline": "While Nio sees strong quarterly delivery growth, its stock continues to underperform broader market and peers.",
                 "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.9001",
-                "source": "Benzinga",
+                "sentimentScore": "0.7096",
+                "source": "GuruFocus.com",
                 "ticker": "NIO",
-                "title": "China's XPeng Clocks Record Q1 EV Sales, Deliveries Surge 3.6X",
-                "url": "https://finance.yahoo.com/news/chinas-xpeng-clocks-record-q1-112132970.html"
+                "title": "Nio's Q1 Deliveries Rise 40%, But Shares Lag Despite EV Growth",
+                "url": "https://finance.yahoo.com/news/nios-q1-deliveries-rise-40-165227001.html"
             }
         ],
-        "avgScore": 0.34559999999999996,
+        "avgScore": 0.43660000000000004,
         "pctChange": -0.018087838582115427
     },
     "3 31 2025": {
@@ -650,16 +650,6 @@
                 "url": "https://finance.yahoo.com/news/nio-prices-136-8m-shares-132602244.html"
             },
             {
-                "headline": "The EV upstart stuns markets with a surprise share offering, deep Q1 cuts, and a sharp sell-off",
-                "publication_date": "2025-03-28T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.296",
-                "source": "GuruFocus.com",
-                "ticker": "NIO",
-                "title": "Nio's $500M Shock Drop: Massive Share Sale Triggers Panic on Wall Street",
-                "url": "https://finance.yahoo.com/news/nios-500m-shock-drop-massive-185001703.html"
-            },
-            {
                 "headline": "Which of these electric vehicle stocks deserves more attention from investors?",
                 "publication_date": "2025-03-28T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -678,16 +668,6 @@
                 "ticker": "NIO",
                 "title": "Better EV Stock: Nio vs. Rivian",
                 "url": "https://finance.yahoo.com/news/better-ev-stock-nio-vs-083000175.html"
-            },
-            {
-                "headline": "The EV upstart stuns markets with a surprise share offering, deep Q1 cuts, and a sharp sell-off",
-                "publication_date": "2025-03-28T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.296",
-                "source": "GuruFocus.com",
-                "ticker": "NIO",
-                "title": "Nio's $500M Shock Drop: Massive Share Sale Triggers Panic on Wall Street",
-                "url": "https://finance.yahoo.com/news/nios-500m-shock-drop-massive-185001703.html"
             },
             {
                 "headline": "NIO (NIO) announced the pricing of its upsized HK$4,030.13M offering of 136,800,000 class A ordinary shares of the Company at an offering price of HK$29.46 per Placement Share. The Placement Shares have been offered to non-U.S. persons in offshore transactions in reliance on Regulation S under the Securities Act of 1933, as amended. The Company expects to close the Equity Placement on or about April 7, 2025, subject to the satisfaction of customary closing conditions. Morgan Stanley Asia, UBS AG",
@@ -700,7 +680,7 @@
                 "url": "https://finance.yahoo.com/news/nio-prices-136-8m-shares-132602244.html"
             }
         ],
-        "avgScore": 0.38726666666666665,
+        "avgScore": 0.4329,
         "pctChange": 0.015999984741210938
     },
     "3 27 2025": {
@@ -766,7 +746,7 @@
                 "url": "https://finance.yahoo.com/news/why-teslas-chinese-rival-nio-115709237.html"
             }
         ],
-        "avgScore": 0.5163166666666666,
+        "avgScore": 0.4848428571428571,
         "pctChange": -0.05778894923900744
     },
     "3 26 2025": {
@@ -841,12 +821,12 @@
         "avgScore": 0.0,
         "pctChange": 0.0022830483523752477
     },
-    "coef": -0.18872549019607845,
-    "avgCoef": -0.019144214302317407,
+    "coef": -0.19117647058823534,
+    "avgCoef": -0.004286803863971519,
     "similar": {
-        "PHYS": 0.5980392156862745,
-        "HMY": 0.5759803921568628,
-        "VZ": 0.46323529411764713,
-        "GRAB": 0.4460784313725491
+        "IAG": 0.5269607843137256,
+        "GRAB": 0.465686274509804,
+        "VZ": 0.3823529411764707,
+        "JD": 0.36764705882352944
     }
 }

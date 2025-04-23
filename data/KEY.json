@@ -45,6 +45,52 @@
         "avgScore": 0.43895,
         "pctChange": 0.012142862592424666
     },
+    "4 17 2025": {
+        "importantArticles": [
+            {
+                "headline": "KeyCorp (NYSE: KEY) today announced net income from continuing operations attributable to Key common shareholders of $370 million, or $.33 per diluted common share for the first quarter of 2025. For the fourth quarter of 2024, KeyCorp reported a net loss from continuing operations attributable to Key common shareholders of $(279) million, or $(.28) per diluted common share, or adjusted net income of $378 million, or $.38 per diluted common share(a). Net income from continuing operations attribut",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.2732",
+                "source": "PR Newswire",
+                "ticker": "KEY",
+                "title": "KEYCORP REPORTS FIRST QUARTER 2025 NET INCOME OF $370 MILLION, OR $.33 PER DILUTED COMMON SHARE",
+                "url": "https://finance.yahoo.com/news/keycorp-reports-first-quarter-2025-103000318.html"
+            },
+            {
+                "headline": "KeyCorp (KEY) delivered earnings and revenue surprises of 3.13% and 0.48%, respectively, for the quarter ended March 2025. Do the numbers hold clues to what lies ahead for the stock?",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.128",
+                "source": "Zacks",
+                "ticker": "KEY",
+                "title": "KeyCorp (KEY) Q1 Earnings and Revenues Surpass Estimates",
+                "url": "https://finance.yahoo.com/news/keycorp-key-q1-earnings-revenues-114503587.html"
+            },
+            {
+                "headline": "KeyCorp (KEY) delivered earnings and revenue surprises of 3.13% and 0.48%, respectively, for the quarter ended March 2025. Do the numbers hold clues to what lies ahead for the stock?",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.128",
+                "source": "Zacks",
+                "ticker": "KEY",
+                "title": "KeyCorp (KEY) Q1 Earnings and Revenues Surpass Estimates",
+                "url": "https://finance.yahoo.com/news/keycorp-key-q1-earnings-revenues-114503587.html"
+            },
+            {
+                "headline": "KeyCorp (NYSE: KEY) today announced net income from continuing operations attributable to Key common shareholders of $370 million, or $.33 per diluted common share for the first quarter of 2025. For the fourth quarter of 2024, KeyCorp reported a net loss from continuing operations attributable to Key common shareholders of $(279) million, or $(.28) per diluted common share, or adjusted net income of $378 million, or $.38 per diluted common share(a). Net income from continuing operations attribut",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.2732",
+                "source": "PR Newswire",
+                "ticker": "KEY",
+                "title": "KEYCORP REPORTS FIRST QUARTER 2025 NET INCOME OF $370 MILLION, OR $.33 PER DILUTED COMMON SHARE",
+                "url": "https://finance.yahoo.com/news/keycorp-reports-first-quarter-2025-103000318.html"
+            }
+        ],
+        "avgScore": 0.2006,
+        "pctChange": -0.03363703437370933
+    },
     "4 16 2025": {
         "importantArticles": [
             {
@@ -150,6 +196,16 @@
                 "url": "https://finance.yahoo.com/news/keycorp-key-earnings-expected-grow-140014339.html"
             },
             {
+                "headline": "The Bank of New York Mellon (BK) delivered earnings and revenue surprises of 6.04% and 1.25%, respectively, for the quarter ended March 2025. Do the numbers hold clues to what lies ahead for the stock?",
+                "publication_date": "2025-04-11T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.128",
+                "source": "Zacks",
+                "ticker": "KEY",
+                "title": "The Bank of New York Mellon Corporation (BK) Surpasses Q1 Earnings and Revenue Estimates",
+                "url": "https://finance.yahoo.com/news/bank-york-mellon-corporation-bk-114502141.html"
+            },
+            {
                 "headline": "Funds provided by a contribution from the bank and through the KeyBank sponsored \"Text to Donate\" fan-based fundraising program BUFFALO, NY / ACCESS Newswire / April 10, 2025 / As longtime business and community partners, KeyBank and the Buffalo Sabres ...",
                 "publication_date": "2025-04-11T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -158,16 +214,6 @@
                 "ticker": "KEY",
                 "title": "KeyBank Teams With Buffalo Sabres Fans To Support the Rasmus Dahlin Foundation With a $31,031 Donation",
                 "url": "https://finance.yahoo.com/news/keybank-teams-buffalo-sabres-fans-133000496.html"
-            },
-            {
-                "headline": "The New York Stock Exchange (NYSE) provides a daily pre-market update directly from the NYSE Trading Floor. Access today's NYSE Pre-market update for market insights before trading begins.",
-                "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "CNW Group",
-                "ticker": "KEY",
-                "title": "NYSE Content Advisory: Pre-Market update + EU pauses U.S. tariffs for 90 days",
-                "url": "https://finance.yahoo.com/news/nyse-content-advisory-pre-market-125500424.html"
             },
             {
                 "headline": "BankUnited (BKU) was a big mover last session on higher-than-average trading volume. The latest trend in earnings estimate revisions might not help the stock continue moving higher in the near term.",
@@ -200,7 +246,7 @@
                 "url": "https://finance.yahoo.com/news/keybank-teams-buffalo-sabres-fans-133000496.html"
             }
         ],
-        "avgScore": -0.02065,
+        "avgScore": 0.00908,
         "pctChange": 0.024035024645501255
     },
     "4 10 2025": {
@@ -353,12 +399,12 @@
         "avgScore": 0.8957,
         "pctChange": -0.010259509923047633
     },
-    "coef": -0.09999999999999999,
-    "avgCoef": 0.010651302138193625,
+    "coef": 0.01818181818181818,
+    "avgCoef": -0.028669531567940432,
     "similar": {
-        "BBD": 0.42678197846541877,
-        "PBR": 0.39999999999999997,
-        "XOM": 0.39999999999999997,
-        "GRAB": 0.38333333333333336
+        "BBD": 0.5288778230016562,
+        "KO": 0.4666666666666666,
+        "GRAB": 0.4424242424242424,
+        "XOM": 0.4424242424242424
     }
 }

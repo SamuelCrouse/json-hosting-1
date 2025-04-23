@@ -32,16 +32,6 @@
                 "url": "https://finance.yahoo.com/m/f387c034-c0c2-3b9a-9424-f8540135729d/these-stocks-moved-the-most.html"
             },
             {
-                "headline": "Nvidia reversed higher on Tuesday after shares fell more than 4% on Monday amid fears the trade war may open the door for a Chinese rival to step into its market.  Reports that Amazon.com may be delaying several new data center leases also pressured the stock.  Does that mean Nvidia stock is a buy now?",
-                "publication_date": "2025-04-23T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.7506",
-                "source": "Investor's Business Daily",
-                "ticker": "NVDA",
-                "title": "Nvidia Rises On Amazon's 'Expansion Plans'; Is Nvidia A Buy Now?",
-                "url": "https://finance.yahoo.com/m/dc591aa5-8656-399f-a2b0-90fb4c8c329e/nvidia-rises-on-amazon-s.html"
-            },
-            {
                 "headline": "Investing.com -- Wedbush tech analyst Dan Ives highlighted the urgent need for trade deals to address the challenges facing the US technology sector amid ongoing tariff disputes. The analysts pointed out the significant uncertainty and potential damage to the US and global economies, particularly the US tech industry, which has been thrust into the eye of the storm.",
                 "publication_date": "2025-04-23T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -50,6 +40,16 @@
                 "ticker": "NVDA",
                 "title": "Trade deals are key to halting US tech decline, Wedbush\u2019s Ives says",
                 "url": "https://finance.yahoo.com/news/trade-deals-key-halting-us-170908149.html"
+            },
+            {
+                "headline": "It\u2019s as transformative as the internet itself. Here are the key players in the generative-AI battle, and where they stand right now.",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.3818",
+                "source": "The Wall Street Journal",
+                "ticker": "NVDA",
+                "title": "Here\u2019s How Big the AI Revolution Really Is, in Four Charts",
+                "url": "https://finance.yahoo.com/m/1a2cc459-7fb7-359d-b158-019b8e08ee86/here%E2%80%99s-how-big-the-ai.html"
             },
             {
                 "headline": "We recently published a list of 9 Stocks That Could 10X Over the Next 2 Years. In this article, we are going to take a look at where NVIDIA Corporation (NASDAQ:NVDA) stands against other stocks that could 10X over the next 2 years. US Tariffs and the Stock Market Turmoil While tariffs from the US [\u2026]",
@@ -62,8 +62,8 @@
                 "url": "https://finance.yahoo.com/news/nvidia-corporation-nvda-among-stocks-223043106.html"
             }
         ],
-        "avgScore": 0.311111111111111,
-        "pctChange": -0.010332895487437814
+        "avgScore": 0.3384162162162161,
+        "pctChange": -0.011194012691569746
     },
     "4 22 2025": {
         "importantArticles": [
@@ -98,16 +98,6 @@
                 "url": "https://finance.yahoo.com/news/tariff-buster-nvidia-announces-blackwell-115500502.html"
             },
             {
-                "headline": "Nvidia  stock fell again early Monday as the company remained in the crossfire of escalating U.S.-China trade tensions, even as CEO Jensen Huang did his part to try to mitigate the negative impacts of a trade war.  Nvidia stock has fallen 5.4% to $96.02 Monday while the  has dropped 2.3%, the  has delclined 1.9%, and the  is off 1.9%.  On Monday, Huang met Japanese Prime Minister Shigeru Ishiba, following a meeting with Chinese leaders in Beijing on Thursday.",
-                "publication_date": "2025-04-22T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.9153",
-                "source": "Barrons.com",
-                "ticker": "NVDA",
-                "title": "Nvidia Stock Falls. How CEO Jensen Huang Is Trying to Ease Trade War Fears.",
-                "url": "https://finance.yahoo.com/m/d0d39255-4607-38cf-9872-1acc7bcbef29/nvidia-stock-falls-how-ceo.html"
-            },
-            {
                 "headline": "Nvidia (NASDAQ: NVDA) just became the latest company to get hit by the trade war.  On Wednesday, the stock tumbled after it announced that it would take a charge of up to $5.5 billion in the first quarter due to a new restriction on exports of its H20 chips to China.  The U.S. has pressured a number of other companies to restrict high-tech exports to China, including EUV lithography machine maker ASML.",
                 "publication_date": "2025-04-22T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -116,6 +106,16 @@
                 "ticker": "NVDA",
                 "title": "Nvidia Just Lost a $5.5 Billion Opportunity. This Fast-Growing Tech Stock Could Scoop It Up",
                 "url": "https://finance.yahoo.com/news/nvidia-just-lost-5-5-163700684.html"
+            },
+            {
+                "headline": "Nvidia reversed higher on Tuesday after shares fell more than 4% on Monday amid fears the trade war may open the door for a Chinese rival to step into its market.  Reports that Amazon.com may be delaying several new data center leases also pressured the stock.  Does that mean Nvidia stock is a buy now?",
+                "publication_date": "2025-04-22T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.7506",
+                "source": "Investor's Business Daily",
+                "ticker": "NVDA",
+                "title": "Nvidia Rises On Amazon's 'Expansion Plans'; Is Nvidia A Buy Now?",
+                "url": "https://finance.yahoo.com/m/dc591aa5-8656-399f-a2b0-90fb4c8c329e/nvidia-rises-on-amazon-s.html"
             },
             {
                 "headline": "U.S. stocks dropped sharply Monday, continuing a volatile stretch for Wall Street as geopolitical tensions, earnings anxiety, and Federal Reserve uncertainty continue to collide.",
@@ -128,8 +128,8 @@
                 "url": "https://finance.yahoo.com/news/dow-drops-400-points-nasdaq-122200277.html"
             }
         ],
-        "avgScore": 0.14037826086956523,
-        "pctChange": 0.04601075012479063
+        "avgScore": 0.13963617021276592,
+        "pctChange": 0.04510060786732615
     },
     "4 21 2025": {
         "importantArticles": [
@@ -164,14 +164,14 @@
                 "url": "https://finance.yahoo.com/news/nvidia-stock-week-april-14-190000685.html"
             },
             {
-                "headline": "Investors have been left scratching their heads after President Trump announced global tariffs on April 2, then put the \"reciprocal\" tariffs with most of the world on pause for 90 days, stepped up a trade war with China, and has since flip-flopped on duties on tariffs on electronics while saying he may pull back tariffs on autos.  While investors may be nervous about the trade war and the increasing risk of a recession, long-term investors know that sell-offs represent buying opportunities as quality businesses just got cheaper.  Investors can't run away from Target (NYSE: TGT) fast enough, it seems.",
+                "headline": "Nvidia  stock fell again early Monday as the company remained in the crossfire of escalating U.S.-China trade tensions, even as CEO Jensen Huang did his part to try to mitigate the negative impacts of a trade war.  Nvidia stock has fallen 5.4% to $96.02 Monday while the  has dropped 2.3%, the  has delclined 1.9%, and the  is off 1.9%.  On Monday, Huang met Japanese Prime Minister Shigeru Ishiba, following a meeting with Chinese leaders in Beijing on Thursday.",
                 "publication_date": "2025-04-21T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.9042",
-                "source": "Motley Fool",
+                "sentimentScore": "-0.9153",
+                "source": "Barrons.com",
                 "ticker": "NVDA",
-                "title": "Stock Market Sell-Off: 2 Stocks That Could Double in 2 Years",
-                "url": "https://finance.yahoo.com/news/stock-market-sell-off-2-151100432.html"
+                "title": "Nvidia Stock Falls. How CEO Jensen Huang Is Trying to Ease Trade War Fears.",
+                "url": "https://finance.yahoo.com/m/d0d39255-4607-38cf-9872-1acc7bcbef29/nvidia-stock-falls-how-ceo.html"
             },
             {
                 "headline": "Nvidia shares were heading for another losing session Monday on worries about how the trade battle between the U.S. and China could impact the chipmaker's results.",
@@ -194,15 +194,107 @@
                 "url": "https://finance.yahoo.com/news/nvidia-slips-netflix-rallies-big-131900713.html"
             }
         ],
-        "avgScore": 0.36925,
+        "avgScore": 0.39027142857142855,
         "pctChange": 0.020431283177354955
     },
-    "coef": -0.5,
-    "avgCoef": -0.02411044061708258,
+    "4 17 2025": {
+        "importantArticles": [
+            {
+                "headline": "Tech giants Alphabet (NASDAQ: GOOG) (NASDAQ: GOOGL) and Nvidia (NASDAQ: NVDA) are among the businesses at the forefront of artificial intelligence (AI), making them compelling AI investments.  Nvidia is a leader in the semiconductor hardware AI needs to operate on cloud computing infrastructure, such as Alphabet's Google Cloud platform.  Alphabet's software products deliver AI's benefits to consumers.",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.765",
+                "source": "Motley Fool",
+                "ticker": "NVDA",
+                "title": "Better Artificial Intelligence (AI) Stock: Alphabet vs. Nvidia",
+                "url": "https://finance.yahoo.com/news/better-artificial-intelligence-ai-stock-150000487.html"
+            },
+            {
+                "headline": "Nvidia  stock is in the red for a second straight day.  Nvidia stock\u2019s two-day slide comes after the chip maker said the U.S. would now require a license to export some of its chips to China.  As a result, Nvidia will take a $5.5 billion charge in the current quarter for canceled sales.",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.2263",
+                "source": "Barrons.com",
+                "ticker": "NVDA",
+                "title": "Nvidia Stock Falls for a Second Straight Day. Shares Are Down 30% From Their High.",
+                "url": "https://finance.yahoo.com/m/524c57ee-1896-3a51-a8af-fce7d4128edf/nvidia-stock-falls-for-a.html"
+            },
+            {
+                "headline": "Catch up on the top industries and stocks that were impacted, or were predicted to be impacted, by the comments, actions and policies of President Donald Trump with this daily recap compiled by The Fly: RESTRICTIONS: In a regulatory filing, Nvidia (NVDA) stated, \u201cOn April 9, 2025, the U.S. government, or USG, informed NVIDIA Corporation, or the company, that the USG requires a license for export to China (including Hong Kong and Macau) and D:5 countries, or to companies headquartered or with an",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.2023",
+                "source": "TipRanks",
+                "ticker": "NVDA",
+                "title": "Trump Trade: Nvidia sees Q1 charges of $5.5B due to H20 restrictions",
+                "url": "https://finance.yahoo.com/news/trump-trade-nvidia-sees-q1-151043492.html"
+            },
+            {
+                "headline": "Nvidia CEO Lands in China as U.S. AI Chip Ban Threatens $5.5B in Sales",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.7351",
+                "source": "GuruFocus.com",
+                "ticker": "NVDA",
+                "title": "Nvidia's Top Exec in Beijing Amid Rising U.S.-China Chip Tensions",
+                "url": "https://finance.yahoo.com/news/nvidias-top-exec-beijing-amid-151127876.html"
+            },
+            {
+                "headline": "Reacting to Nvidia\u2019s (NVDA) recently announced writedown, Dan Niles, the founder and Portfolio Manager of Niles Investment Management, questioned why the company apparently could not find any other buyers besides China for these AI chips. Speaking on CNBC, Niles listed other signs which, he indicated, suggest that the demand for NVDA\u2019s chips has weakened. Additionally, [\u2026]",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.4939",
+                "source": "Insider Monkey",
+                "ticker": "NVDA",
+                "title": "Negative Signs Are Mounting for NVDA, Veteran Investor Says",
+                "url": "https://finance.yahoo.com/news/negative-signs-mounting-nvda-veteran-145525032.html"
+            },
+            {
+                "headline": "Nvidia (NVDA) CEO Jensen Huang made a high-profile trip to Beijing this week following a sudden U.S. government move to block exports of the company\u2019s H20 AI chips to China, The New York Times (NYT) reported.",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.4404",
+                "source": "Quartz",
+                "ticker": "NVDA",
+                "title": "Nvidia's CEO went to China and promised to 'unswervingly serve the Chinese market'",
+                "url": "https://finance.yahoo.com/news/nvidias-ceo-went-china-promised-151217066.html"
+            }
+        ],
+        "avgScore": -0.0793,
+        "pctChange": -0.04512754259595022
+    },
+    "3 31 2025": {
+        "importantArticles": [
+            {
+                "headline": "Amazon, Apple, Meta and Nvidia rallied sharply on the stock market today. Tesla surged after its Q1 earnings report.",
+                "publication_date": "2025-03-31T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.1779",
+                "source": "Investor's Business Daily",
+                "ticker": "NVDA",
+                "title": "Magnificent Seven Stocks: Amazon, Apple, Meta, Nvidia Rally; Tesla Surges On Earnings",
+                "url": "https://finance.yahoo.com/m/4205eaa9-f620-3a0b-a81a-0e82c7c9fd0b/magnificent-seven-stocks-.html"
+            },
+            {
+                "headline": "Amazon, Apple, Meta and Nvidia rallied sharply on the stock market today. Tesla surged after its Q1 earnings report.",
+                "publication_date": "2025-03-31T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.1779",
+                "source": "Investor's Business Daily",
+                "ticker": "NVDA",
+                "title": "Magnificent Seven Stocks: Amazon, Apple, Meta, Nvidia Rally; Tesla Surges On Earnings",
+                "url": "https://finance.yahoo.com/m/4205eaa9-f620-3a0b-a81a-0e82c7c9fd0b/magnificent-seven-stocks-.html"
+            }
+        ],
+        "avgScore": 0.1779,
+        "pctChange": 0.016331466297440943
+    },
+    "coef": 0.3,
+    "avgCoef": -0.03956258248596617,
     "similar": {
-        "T": 1.0,
-        "TSLA": 0.5,
-        "MARA": 0.5,
-        "PFE": 0.5
+        "T": 0.9999999999999999,
+        "VZ": 0.8999999999999998,
+        "ERIC": 0.7999999999999999,
+        "ENPH": 0.7999999999999999
     }
 }

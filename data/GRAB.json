@@ -1,4 +1,30 @@
 {
+    "4 23 2025": {
+        "importantArticles": [
+            {
+                "headline": "Over the last 7 days, the U.S. market has dropped 1.7%, though it has risen by 3.6% over the past year, with earnings projected to grow by 13% annually in the coming years. In light of these conditions, identifying stocks with strong financials is crucial for investors seeking opportunities in smaller or newer companies often associated with penny stocks\u2014a term that might seem outdated but remains relevant for its potential value and growth prospects. This article will explore several penny...",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9052",
+                "source": "Simply Wall St.",
+                "ticker": "GRAB",
+                "title": "April 2025's Promising Penny Stocks To Watch",
+                "url": "https://finance.yahoo.com/news/april-2025s-promising-penny-stocks-120517288.html"
+            },
+            {
+                "headline": "Over the last 7 days, the U.S. market has dropped 1.7%, though it has risen by 3.6% over the past year, with earnings projected to grow by 13% annually in the coming years. In light of these conditions, identifying stocks with strong financials is crucial for investors seeking opportunities in smaller or newer companies often associated with penny stocks\u2014a term that might seem outdated but remains relevant for its potential value and growth prospects. This article will explore several penny...",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9052",
+                "source": "Simply Wall St.",
+                "ticker": "GRAB",
+                "title": "April 2025's Promising Penny Stocks To Watch",
+                "url": "https://finance.yahoo.com/news/april-2025s-promising-penny-stocks-120517288.html"
+            }
+        ],
+        "avgScore": 0.9052,
+        "pctChange": -0.001113505091006872
+    },
     "4 21 2025": {
         "importantArticles": [
             {
@@ -104,11 +130,11 @@
         "pctChange": 0.05286349118323886
     },
     "coef": 0.7999999999999999,
-    "avgCoef": -0.01846678467454609,
+    "avgCoef": -0.03825705146472789,
     "similar": {
-        "VZ": 1.0,
-        "JD": 1.0,
-        "CSCO": 1.0,
-        "SPY": 0.7999999999999999
+        "PBR": 0.8999999999999998,
+        "CSCO": 0.8999999999999998,
+        "WBD": 0.7999999999999999,
+        "GRAB": 0.7999999999999999
     }
 }

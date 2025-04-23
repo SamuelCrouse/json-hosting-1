@@ -232,6 +232,16 @@
     "4 4 2025": {
         "importantArticles": [
             {
+                "headline": "March has been the busiest month of the year so far for changing providers, the Current Account Switch Service said.",
+                "publication_date": "2025-04-04T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "PA Media: Money",
+                "ticker": "LYG",
+                "title": "Nationwide, Lloyds and NatWest biggest \u2018winners\u2019 from account switching service",
+                "url": "https://finance.yahoo.com/news/nationwide-lloyds-natwest-biggest-winners-230100056.html"
+            },
+            {
                 "headline": "HSBC Holdings (HSBC) and Lloyds Banking Group (LYG) are providing about 600 million British pounds (",
                 "publication_date": "2025-04-04T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -270,9 +280,19 @@
                 "ticker": "LYG",
                 "title": "Market Chatter: HSBC Holdings, Lloyds Provide $781 Million Debt Financing for Kee Safety Acquisition",
                 "url": "https://finance.yahoo.com/news/market-chatter-hsbc-holdings-lloyds-104504962.html"
+            },
+            {
+                "headline": "March has been the busiest month of the year so far for changing providers, the Current Account Switch Service said.",
+                "publication_date": "2025-04-04T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "PA Media: Money",
+                "ticker": "LYG",
+                "title": "Nationwide, Lloyds and NatWest biggest \u2018winners\u2019 from account switching service",
+                "url": "https://finance.yahoo.com/news/nationwide-lloyds-natwest-biggest-winners-230100056.html"
             }
         ],
-        "avgScore": -0.148,
+        "avgScore": -0.09866666666666667,
         "pctChange": -0.014749340740164487
     },
     "4 3 2025": {
@@ -445,12 +465,12 @@
         "avgScore": 0.4981,
         "pctChange": 0.010498666350091576
     },
-    "coef": 0.4054680223446026,
-    "avgCoef": -0.0026842396909054996,
+    "coef": 0.3963563813930385,
+    "avgCoef": 0.01973497074196767,
     "similar": {
-        "T": 0.779045301358731,
-        "VZ": 0.7653778399313848,
-        "DNB": 0.6970405327946539,
-        "NEE": 0.6879288918430899
+        "T": 0.8154918651649875,
+        "VZ": 0.7836011218345129,
+        "DNB": 0.6879288918430899,
+        "NEE": 0.6788172508915258
     }
 }

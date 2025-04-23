@@ -22,14 +22,14 @@
                 "url": "https://finance.yahoo.com/news/chipotle-bringing-restaurants-mexico-first-173523118.html"
             },
             {
-                "headline": "Billionaire Bill Ackman is one of the most closely followed investors.  The head of Pershing Square Capital Management is known for betting on beaten-down big-brand stocks like Chipotle and Nike, and he's never hesitant to share his opinion, whether it's on the markets, politics, or another issue.  Hertz shares jumped 126% in a two-day span as of trading on Thursday afternoon as his purchase of a nearly 20% stake in the longtime laggard breathed new life into the stock.",
+                "headline": "Investing.com -- Chipotle Mexican Grill is marking its entry into Mexico through a development agreement with Alsea (BMV:ALSEA), a major restaurant operator in Latin America and Europe. The company said on Monday that it will open its first restaurant in the country by early 2026.",
                 "publication_date": "2025-04-22T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.5502",
-                "source": "Motley Fool",
+                "sentimentScore": "0.4939",
+                "source": "Investing.com",
                 "ticker": "CMG",
-                "title": "Billionaire Bill Ackman Just Bought Hertz. Is the Car Rental Stock a Buy?",
-                "url": "https://finance.yahoo.com/news/billionaire-bill-ackman-just-bought-083500815.html"
+                "title": "Chipotle to enter Mexico through partnership with Alsea",
+                "url": "https://finance.yahoo.com/news/chipotle-enter-mexico-partnership-alsea-153607971.html"
             },
             {
                 "headline": "Stocks (^GSPC,&nbsp;^IXIC,&nbsp;^DJI) are under pressure as investor jitters grow following President Trump's renewed criticism of Fed Chairman Jerome Powell. UnitedHealth Group (UNH) shares continue to slide after last week\u2019s sharp drop, with Argus cutting its rating to Hold. Market Domination host Julie Hyman also covers Capital One's (COF) $35 billion acquisition of Discover (DFS) and Chipotle\u2019s (CMG) new push expanding into Mexico. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
@@ -62,8 +62,54 @@
                 "url": "https://finance.yahoo.com/news/jim-cramer-says-chipotle-mexican-140943121.html"
             }
         ],
-        "avgScore": 0.04291428571428572,
+        "avgScore": 0.018473684210526333,
         "pctChange": 0.003194839376872665
+    },
+    "4 21 2025": {
+        "importantArticles": [
+            {
+                "headline": "Billionaire Bill Ackman is one of the most closely followed investors.  The head of Pershing Square Capital Management is known for betting on beaten-down big-brand stocks like Chipotle and Nike, and he's never hesitant to share his opinion, whether it's on the markets, politics, or another issue.  Hertz shares jumped 126% in a two-day span as of trading on Thursday afternoon as his purchase of a nearly 20% stake in the longtime laggard breathed new life into the stock.",
+                "publication_date": "2025-04-21T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5502",
+                "source": "Motley Fool",
+                "ticker": "CMG",
+                "title": "Billionaire Bill Ackman Just Bought Hertz. Is the Car Rental Stock a Buy?",
+                "url": "https://finance.yahoo.com/news/billionaire-bill-ackman-just-bought-083500815.html"
+            },
+            {
+                "headline": "More than 100 S&P 500 companies are set to report earnings as the market looks to find footing as the fallout from President Trump's tariffs has sent stocks into a tailspin.",
+                "publication_date": "2025-04-21T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Yahoo Finance",
+                "ticker": "CMG",
+                "title": "Tesla, Alphabet highlight earnings rush as tariff fallout drives markets: What to know this week",
+                "url": "https://finance.yahoo.com/news/tesla-alphabet-highlight-earnings-rush-as-tariff-fallout-drives-markets-what-to-know-this-week-113916050.html"
+            },
+            {
+                "headline": "More than 100 S&P 500 companies are set to report earnings as the market looks to find footing as the fallout from President Trump's tariffs has sent stocks into a tailspin.",
+                "publication_date": "2025-04-21T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Yahoo Finance",
+                "ticker": "CMG",
+                "title": "Tesla, Alphabet highlight earnings rush as tariff fallout drives markets: What to know this week",
+                "url": "https://finance.yahoo.com/news/tesla-alphabet-highlight-earnings-rush-as-tariff-fallout-drives-markets-what-to-know-this-week-113916050.html"
+            },
+            {
+                "headline": "Billionaire Bill Ackman is one of the most closely followed investors.  The head of Pershing Square Capital Management is known for betting on beaten-down big-brand stocks like Chipotle and Nike, and he's never hesitant to share his opinion, whether it's on the markets, politics, or another issue.  Hertz shares jumped 126% in a two-day span as of trading on Thursday afternoon as his purchase of a nearly 20% stake in the longtime laggard breathed new life into the stock.",
+                "publication_date": "2025-04-21T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5502",
+                "source": "Motley Fool",
+                "ticker": "CMG",
+                "title": "Billionaire Bill Ackman Just Bought Hertz. Is the Car Rental Stock a Buy?",
+                "url": "https://finance.yahoo.com/news/billionaire-bill-ackman-just-bought-083500815.html"
+            }
+        ],
+        "avgScore": 0.2751,
+        "pctChange": 0.01225015494902259
     },
     "4 17 2025": {
         "importantArticles": [
@@ -88,24 +134,14 @@
                 "url": "https://finance.yahoo.com/news/chipotle-mexican-grill-cmg-earnings-140050213.html"
             },
             {
-                "headline": "Some of Wall Street's most-popular stocks were sent to the chopping block by prominent asset managers prior to the market's wild gyrations.",
+                "headline": "In the most recent trading session, Chipotle Mexican Grill (CMG) closed at $48.07, indicating a -1.5% shift from the previous trading day.",
                 "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.2263",
-                "source": "Motley Fool",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
                 "ticker": "CMG",
-                "title": "3 Pricey Stocks Billionaire Money Managers Sold Ahead of Wall Street's Historic Volatility",
-                "url": "https://finance.yahoo.com/news/3-pricey-stocks-billionaire-money-070600069.html"
-            },
-            {
-                "headline": "Over the past six months, Chipotle\u2019s shares (currently trading at $48.67) have posted a disappointing 17.7% loss while the S&P 500 was down 8.3%. This was partly driven by its softer quarterly results and may have investors wondering how to approach the situation.",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.5106",
-                "source": "StockStory",
-                "ticker": "CMG",
-                "title": "3 Reasons Investors Love Chipotle (CMG)",
-                "url": "https://finance.yahoo.com/news/3-reasons-investors-love-chipotle-090915137.html"
+                "title": "Chipotle Mexican Grill (CMG) Stock Moves -1.5%: What You Should Know",
+                "url": "https://finance.yahoo.com/news/chipotle-mexican-grill-cmg-stock-214516080.html"
             },
             {
                 "headline": "In the most recent trading session, Chipotle Mexican Grill (CMG) closed at $48.07, indicating a -1.5% shift from the previous trading day.",
@@ -118,17 +154,27 @@
                 "url": "https://finance.yahoo.com/news/chipotle-mexican-grill-cmg-stock-214516080.html"
             },
             {
-                "headline": "Some of Wall Street's most-popular stocks were sent to the chopping block by prominent asset managers prior to the market's wild gyrations.",
+                "headline": "Chipotle (CMG) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.2263",
-                "source": "Motley Fool",
+                "source": "Zacks",
                 "ticker": "CMG",
-                "title": "3 Pricey Stocks Billionaire Money Managers Sold Ahead of Wall Street's Historic Volatility",
-                "url": "https://finance.yahoo.com/news/3-pricey-stocks-billionaire-money-070600069.html"
+                "title": "Chipotle Mexican Grill (CMG) Earnings Expected to Grow: Should You Buy?",
+                "url": "https://finance.yahoo.com/news/chipotle-mexican-grill-cmg-earnings-140050213.html"
+            },
+            {
+                "headline": "To celebrate the 2025 Stanley Cup\u00ae Playoffs, Chipotle Mexican Grill (NYSE: CMG) announced today a \"Wear Your Hockey Jersey\" program that will offer a BUY-ONE-GET-ONE (BOGO) deal on entrees to in-restaurant diners who wear a hockey jersey on Monday, April 21 after 3:00pm local time. The promotion is valid at all participating Chipotle restaurants in the U.S. and Canada.",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5719",
+                "source": "CNW Group",
+                "ticker": "CMG",
+                "title": "CHIPOTLE'S HOCKEY JERSEY BOGO OFFER RETURNS IN THE U.S. AND CANADA FOR THE 2025 STANLEY CUP\u00ae PLAYOFFS",
+                "url": "https://finance.yahoo.com/news/chipotles-hockey-jersey-bogo-offer-120100849.html"
             }
         ],
-        "avgScore": 0.10277999999999998,
+        "avgScore": 0.2660666666666667,
         "pctChange": -0.03404607539939098
     },
     "4 16 2025": {
@@ -144,24 +190,44 @@
                 "url": "https://finance.yahoo.com/news/cmgs-high-valuation-meets-tariff-143800290.html"
             },
             {
-                "headline": "The top brass at fast food chains like Starbucks, Chipotle and Yum Brands make tens of millions a year, while their hourly workers\u2019 earnings hover near the poverty line.",
+                "headline": "Some of Wall Street's most-popular stocks were sent to the chopping block by prominent asset managers prior to the market's wild gyrations.",
                 "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Restaurant Dive",
+                "sentiment": "Positive",
+                "sentimentScore": "0.2263",
+                "source": "Motley Fool",
                 "ticker": "CMG",
-                "title": "Here\u2019s what 7 major restaurants pay their CEOs \u2014 and their store-level workers",
-                "url": "https://finance.yahoo.com/news/7-major-restaurants-pay-ceos-102202782.html"
+                "title": "3 Pricey Stocks Billionaire Money Managers Sold Ahead of Wall Street's Historic Volatility",
+                "url": "https://finance.yahoo.com/news/3-pricey-stocks-billionaire-money-070600069.html"
             },
             {
-                "headline": "The top brass at fast food chains like Starbucks, Chipotle and Yum Brands make tens of millions a year, while their hourly workers\u2019 earnings hover near the poverty line.",
+                "headline": "Over the past six months, Chipotle\u2019s shares (currently trading at $48.67) have posted a disappointing 17.7% loss while the S&P 500 was down 8.3%. This was partly driven by its softer quarterly results and may have investors wondering how to approach the situation.",
                 "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Restaurant Dive",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5106",
+                "source": "StockStory",
                 "ticker": "CMG",
-                "title": "Here\u2019s what 7 major restaurants pay their CEOs \u2014 and their store-level workers",
-                "url": "https://finance.yahoo.com/news/7-major-restaurants-pay-ceos-102202782.html"
+                "title": "3 Reasons Investors Love Chipotle (CMG)",
+                "url": "https://finance.yahoo.com/news/3-reasons-investors-love-chipotle-090915137.html"
+            },
+            {
+                "headline": "Over the past six months, Chipotle\u2019s shares (currently trading at $48.67) have posted a disappointing 17.7% loss while the S&P 500 was down 8.3%. This was partly driven by its softer quarterly results and may have investors wondering how to approach the situation.",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5106",
+                "source": "StockStory",
+                "ticker": "CMG",
+                "title": "3 Reasons Investors Love Chipotle (CMG)",
+                "url": "https://finance.yahoo.com/news/3-reasons-investors-love-chipotle-090915137.html"
+            },
+            {
+                "headline": "Some of Wall Street's most-popular stocks were sent to the chopping block by prominent asset managers prior to the market's wild gyrations.",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.2263",
+                "source": "Motley Fool",
+                "ticker": "CMG",
+                "title": "3 Pricey Stocks Billionaire Money Managers Sold Ahead of Wall Street's Historic Volatility",
+                "url": "https://finance.yahoo.com/news/3-pricey-stocks-billionaire-money-070600069.html"
             },
             {
                 "headline": "Chipotle's focus on customer experience, digital investment and supplier diversification should support a sustainable recovery over time.",
@@ -174,7 +240,7 @@
                 "url": "https://finance.yahoo.com/news/cmgs-high-valuation-meets-tariff-143800290.html"
             }
         ],
-        "avgScore": 0.20095,
+        "avgScore": 0.03919999999999998,
         "pctChange": 0.001871803961382063
     },
     "4 15 2025": {
@@ -200,6 +266,26 @@
                 "url": "https://finance.yahoo.com/news/2-oversold-stocks-set-comeback-130227660.html"
             },
             {
+                "headline": "The top brass at fast food chains like Starbucks, Chipotle and Yum Brands make tens of millions a year, while their hourly workers\u2019 earnings hover near the poverty line.",
+                "publication_date": "2025-04-15T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Restaurant Dive",
+                "ticker": "CMG",
+                "title": "Here\u2019s what 7 major restaurants pay their CEOs \u2014 and their store-level workers",
+                "url": "https://finance.yahoo.com/news/7-major-restaurants-pay-ceos-102202782.html"
+            },
+            {
+                "headline": "The top brass at fast food chains like Starbucks, Chipotle and Yum Brands make tens of millions a year, while their hourly workers\u2019 earnings hover near the poverty line.",
+                "publication_date": "2025-04-15T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Restaurant Dive",
+                "ticker": "CMG",
+                "title": "Here\u2019s what 7 major restaurants pay their CEOs \u2014 and their store-level workers",
+                "url": "https://finance.yahoo.com/news/7-major-restaurants-pay-ceos-102202782.html"
+            },
+            {
                 "headline": "Rock-bottom prices don't always mean rock-bottom businesses. The stocks we're examining today have all touched their 52-week lows, creating a classic investor's dilemma: bargain opportunity or value trap?",
                 "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -220,7 +306,7 @@
                 "url": "https://finance.yahoo.com/news/eat-stock-soars-219-yet-113200988.html"
             }
         ],
-        "avgScore": 0.6556,
+        "avgScore": 0.43706666666666666,
         "pctChange": -0.014754045435702925
     },
     "4 11 2025": {
@@ -480,16 +566,6 @@
                 "url": "https://finance.yahoo.com/video/fast-food-winning-amid-broader-223417025.html"
             },
             {
-                "headline": "National Burrito Day, a day of freebies and discounts on Mexican food, is Thursday, April 3. Here's a list of a few deals.",
-                "publication_date": "2025-04-04T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4215",
-                "source": "Investopedia",
-                "ticker": "CMG",
-                "title": "It's National Burrito Day. These Restaurants Want In on the Action.",
-                "url": "https://finance.yahoo.com/news/national-burrito-day-restaurants-want-090000990.html"
-            },
-            {
                 "headline": "Starbucks, a huge coffee importer, fell nearly 10% in morning trading, while rival Dutch Bros dropped around 8.5%.  Chipotle Mexican Grill, which imports avocados from Mexico, Colombia and other nations, declined nearly 4%.  U.S. restaurant chains tend to import equipment and packaging from China, and many buy potatoes from Canada and meat from various global sources.",
                 "publication_date": "2025-04-04T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -498,6 +574,16 @@
                 "ticker": "CMG",
                 "title": "Restaurant Stocks Slide on Trump's New Duties",
                 "url": "https://finance.yahoo.com/m/6eaff3d9-45a7-35ad-849d-70243041bd0e/restaurant-stocks-slide-on.html"
+            },
+            {
+                "headline": "Fast food restaurants have been mostly spared from the impact of Trump's tariffs.",
+                "publication_date": "2025-04-04T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Yahoo Finance",
+                "ticker": "CMG",
+                "title": "Stocks of McDonald's and other fast food giants pop as reciprocal tariffs sink the wider market",
+                "url": "https://finance.yahoo.com/news/stocks-of-mcdonalds-and-other-fast-food-giants-pop-as-reciprocal-tariffs-sink-the-wider-market-214423958.html"
             },
             {
                 "headline": "Fast food restaurants have been mostly spared from the impact of Trump's tariffs.",
@@ -520,8 +606,74 @@
                 "url": "https://finance.yahoo.com/m/6eaff3d9-45a7-35ad-849d-70243041bd0e/restaurant-stocks-slide-on.html"
             },
             {
-                "headline": "National Burrito Day, a day of freebies and discounts on Mexican food, is Thursday, April 3. Here's a list of a few deals.",
+                "headline": "Senior Reporter Brooke DiPalma joins Market Domination to discuss how franchise operators like McDonald's (MCD) and Yum! Brands (YUM) and fast casual restaurants like Chipotle (CMG) and Cava (CAVA) are reacting to tariffs. To watch more expert insights and analysis on the latest market action, check out more Market Domination here.",
                 "publication_date": "2025-04-04T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.69",
+                "source": "Yahoo Finance Video",
+                "ticker": "CMG",
+                "title": "Fast food is winning amid broader sell-off: What to know",
+                "url": "https://finance.yahoo.com/video/fast-food-winning-amid-broader-223417025.html"
+            }
+        ],
+        "avgScore": 0.3360666666666667,
+        "pctChange": -0.013110652031695301
+    },
+    "4 3 2025": {
+        "importantArticles": [
+            {
+                "headline": "National Burrito Day, a day of freebies and discounts on Mexican food, is Thursday, April 3. Here's a list of a few deals.",
+                "publication_date": "2025-04-03T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4215",
+                "source": "Investopedia",
+                "ticker": "CMG",
+                "title": "It's National Burrito Day. These Restaurants Want In on the Action.",
+                "url": "https://finance.yahoo.com/news/national-burrito-day-restaurants-want-090000990.html"
+            },
+            {
+                "headline": "Chipotle Mexican Grill (CMG) concluded the recent trading session at $52.02, signifying a +0.68% move from its prior day's close.",
+                "publication_date": "2025-04-03T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "CMG",
+                "title": "Chipotle Mexican Grill (CMG) Exceeds Market Returns: Some Facts to Consider",
+                "url": "https://finance.yahoo.com/news/chipotle-mexican-grill-cmg-exceeds-215015732.html"
+            },
+            {
+                "headline": "The first 2,500 players each hour to crack the burrito code will get BOGO coupons.",
+                "publication_date": "2025-04-03T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "FastCompany",
+                "ticker": "CMG",
+                "title": "Chipotle is bringing back your chance to win free burritos for National Burrito Day",
+                "url": "https://finance.yahoo.com/news/chipotle-bringing-back-chance-win-163200239.html"
+            },
+            {
+                "headline": "The first 2,500 players each hour to crack the burrito code will get BOGO coupons.",
+                "publication_date": "2025-04-03T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "FastCompany",
+                "ticker": "CMG",
+                "title": "Chipotle is bringing back your chance to win free burritos for National Burrito Day",
+                "url": "https://finance.yahoo.com/news/chipotle-bringing-back-chance-win-163200239.html"
+            },
+            {
+                "headline": "Chipotle Mexican Grill (CMG) concluded the recent trading session at $52.02, signifying a +0.68% move from its prior day's close.",
+                "publication_date": "2025-04-03T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "CMG",
+                "title": "Chipotle Mexican Grill (CMG) Exceeds Market Returns: Some Facts to Consider",
+                "url": "https://finance.yahoo.com/news/chipotle-mexican-grill-cmg-exceeds-215015732.html"
+            },
+            {
+                "headline": "National Burrito Day, a day of freebies and discounts on Mexican food, is Thursday, April 3. Here's a list of a few deals.",
+                "publication_date": "2025-04-03T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.4215",
                 "source": "Investopedia",
@@ -530,67 +682,11 @@
                 "url": "https://finance.yahoo.com/news/national-burrito-day-restaurants-want-090000990.html"
             }
         ],
-        "avgScore": 0.357425,
-        "pctChange": -0.013110652031695301
-    },
-    "4 3 2025": {
-        "importantArticles": [
-            {
-                "headline": "Chipotle Mexican Grill (CMG) concluded the recent trading session at $52.02, signifying a +0.68% move from its prior day's close.",
-                "publication_date": "2025-04-03T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "CMG",
-                "title": "Chipotle Mexican Grill (CMG) Exceeds Market Returns: Some Facts to Consider",
-                "url": "https://finance.yahoo.com/news/chipotle-mexican-grill-cmg-exceeds-215015732.html"
-            },
-            {
-                "headline": "The first 2,500 players each hour to crack the burrito code will get BOGO coupons.",
-                "publication_date": "2025-04-03T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "FastCompany",
-                "ticker": "CMG",
-                "title": "Chipotle is bringing back your chance to win free burritos for National Burrito Day",
-                "url": "https://finance.yahoo.com/news/chipotle-bringing-back-chance-win-163200239.html"
-            },
-            {
-                "headline": "The first 2,500 players each hour to crack the burrito code will get BOGO coupons.",
-                "publication_date": "2025-04-03T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "FastCompany",
-                "ticker": "CMG",
-                "title": "Chipotle is bringing back your chance to win free burritos for National Burrito Day",
-                "url": "https://finance.yahoo.com/news/chipotle-bringing-back-chance-win-163200239.html"
-            },
-            {
-                "headline": "Chipotle Mexican Grill (CMG) concluded the recent trading session at $52.02, signifying a +0.68% move from its prior day's close.",
-                "publication_date": "2025-04-03T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "CMG",
-                "title": "Chipotle Mexican Grill (CMG) Exceeds Market Returns: Some Facts to Consider",
-                "url": "https://finance.yahoo.com/news/chipotle-mexican-grill-cmg-exceeds-215015732.html"
-            }
-        ],
-        "avgScore": 0.0,
+        "avgScore": 0.14049999999999999,
         "pctChange": -0.055710878864170886
     },
     "4 2 2025": {
         "importantArticles": [
-            {
-                "headline": "The broad-market index is on the verge of a correction, consumer confidence is plummeting, and President Donald Trump's tariffs are roiling American industry.  Growth stocks have fallen especially hard, a sign that the market was overvalued and that investors are anticipating sustained economic headwinds.  Several high-profile stocks have fallen 50% or more, but savvy investors know that volatility creates opportunity in the stock market.",
-                "publication_date": "2025-04-02T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7546",
-                "source": "Motley Fool",
-                "ticker": "CMG",
-                "title": "2 Growth Stocks Down 50% to Buy Right Now",
-                "url": "https://finance.yahoo.com/news/2-growth-stocks-down-50-081000435.html"
-            },
             {
                 "headline": "Guacamole lovers flinched when President Trump threatened a trade fight with Mexico, which accounts for roughly 90% of U.S. avocado imports. Chipotle Mexican Grill was ready. For the past seven years, the burrito chain has been scouring the Americas and the Caribbean, seeking out farms and suppliers that can satisfy its immense demand.",
                 "publication_date": "2025-04-02T00:00:00.000Z",
@@ -602,14 +698,24 @@
                 "url": "https://finance.yahoo.com/m/e74f2128-2b72-3479-a33f-237ae33ba0c5/when-trump-threatened-a-trade.html"
             },
             {
-                "headline": "The burrito chain, heavily reliant on Mexican imports, has worked since 2018 to diversify sourcing for the guacamole ingredient.",
+                "headline": "Chipotle (CMG) recently hit 52-week lows, and the shares are down 15% so far in 2025. The company has been hurt by weakening consumer confidence and a \u201d skimpy portions scandal,\u201d while investors have been nervous about the impact of looming avocado tariffs on the firm, Investopedia\u2019s Caleb Silver told Schwab Network recently. Further, Schwab [\u2026]",
                 "publication_date": "2025-04-02T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.128",
-                "source": "The Wall Street Journal",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5574",
+                "source": "Insider Monkey",
                 "ticker": "CMG",
-                "title": "Chipotle Went on a Seven-Year Quest to Find Avocados Outside of Mexico",
-                "url": "https://finance.yahoo.com/m/67b80af5-2bdf-3a16-8b6d-f3b3de435ba3/chipotle-went-on-a-seven-year.html"
+                "title": "Chipotle (CMG) Has Had Multiple, Negative Catalysts",
+                "url": "https://finance.yahoo.com/news/chipotle-cmg-had-multiple-negative-164653172.html"
+            },
+            {
+                "headline": "When President Donald Trump threatened tariffs on Mexican imports, many in the food industry feared disruptions to their supply chains.",
+                "publication_date": "2025-04-02T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.8225",
+                "source": "Quartz",
+                "ticker": "CMG",
+                "title": "Chipotle's hunt for avocados began long before Trump's tariff threats",
+                "url": "https://finance.yahoo.com/news/chipotles-hunt-avocados-began-long-150500008.html"
             },
             {
                 "headline": "When President Donald Trump threatened tariffs on Mexican imports, many in the food industry feared disruptions to their supply chains.",
@@ -632,21 +738,31 @@
                 "url": "https://finance.yahoo.com/news/chipotle-cmg-had-multiple-negative-164653172.html"
             },
             {
-                "headline": "The burrito chain, heavily reliant on Mexican imports, has worked since 2018 to diversify sourcing for the guacamole ingredient.",
+                "headline": "Guacamole lovers flinched when President Trump threatened a trade fight with Mexico, which accounts for roughly 90% of U.S. avocado imports. Chipotle Mexican Grill was ready. For the past seven years, the burrito chain has been scouring the Americas and the Caribbean, seeking out farms and suppliers that can satisfy its immense demand.",
                 "publication_date": "2025-04-02T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.128",
+                "sentimentScore": "0.4215",
                 "source": "The Wall Street Journal",
                 "ticker": "CMG",
-                "title": "Chipotle Went on a Seven-Year Quest to Find Avocados Outside of Mexico",
-                "url": "https://finance.yahoo.com/m/67b80af5-2bdf-3a16-8b6d-f3b3de435ba3/chipotle-went-on-a-seven-year.html"
+                "title": "When Trump Threatened a Trade War With Mexico, This Chain Was Ready",
+                "url": "https://finance.yahoo.com/m/e74f2128-2b72-3479-a33f-237ae33ba0c5/when-trump-threatened-a-trade.html"
             }
         ],
-        "avgScore": -0.015159999999999996,
+        "avgScore": -0.3194666666666667,
         "pctChange": -0.0372933219845724
     },
     "4 1 2025": {
         "importantArticles": [
+            {
+                "headline": "The broad-market index is on the verge of a correction, consumer confidence is plummeting, and President Donald Trump's tariffs are roiling American industry.  Growth stocks have fallen especially hard, a sign that the market was overvalued and that investors are anticipating sustained economic headwinds.  Several high-profile stocks have fallen 50% or more, but savvy investors know that volatility creates opportunity in the stock market.",
+                "publication_date": "2025-04-01T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7546",
+                "source": "Motley Fool",
+                "ticker": "CMG",
+                "title": "2 Growth Stocks Down 50% to Buy Right Now",
+                "url": "https://finance.yahoo.com/news/2-growth-stocks-down-50-081000435.html"
+            },
             {
                 "headline": "Chipotle Mexican Grill (NYSE: CMG) today announced it is bringing back its wildly popular digital game, Burrito Vault, to give away up to 157,500 Buy-One-Get-One free entr\u00e9e codes1 in celebration of National Burrito Day on April 3.",
                 "publication_date": "2025-04-01T00:00:00.000Z",
@@ -666,16 +782,6 @@
                 "ticker": "CMG",
                 "title": "Cava Seen as a Value Compounder, BofA Says",
                 "url": "https://finance.yahoo.com/news/cava-seen-value-compounder-bofa-161909781.html"
-            },
-            {
-                "headline": "Fabrinet and Fluor are part of the Zacks Bull and Bear of the Day article.",
-                "publication_date": "2025-04-01T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "CMG",
-                "title": "Fabrinet and Fluor have been highlighted as Zacks Bull and Bear of the Day",
-                "url": "https://finance.yahoo.com/news/fabrinet-fluor-highlighted-zacks-bull-123100514.html"
             },
             {
                 "headline": "Buying a stock is easy, but buying the right stock without a good strategy is incredibly hard. Here are five top-performing stocks to buy now or put on a watchlist.",
@@ -698,8 +804,34 @@
                 "url": "https://finance.yahoo.com/news/chipotle-mexican-grill-inc-cmg-135822900.html"
             },
             {
-                "headline": "Let\u2019s dig into the relative performance of Chipotle (NYSE:CMG) and its peers as we unravel the now-completed Q4 modern fast food earnings season.",
+                "headline": "Fabrinet and Fluor are part of the Zacks Bull and Bear of the Day article.",
                 "publication_date": "2025-04-01T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "CMG",
+                "title": "Fabrinet and Fluor have been highlighted as Zacks Bull and Bear of the Day",
+                "url": "https://finance.yahoo.com/news/fabrinet-fluor-highlighted-zacks-bull-123100514.html"
+            }
+        ],
+        "avgScore": 0.22474285714285713,
+        "pctChange": 0.006773801068735428
+    },
+    "3 31 2025": {
+        "importantArticles": [
+            {
+                "headline": "Let\u2019s dig into the relative performance of Chipotle (NYSE:CMG) and its peers as we unravel the now-completed Q4 modern fast food earnings season.",
+                "publication_date": "2025-03-31T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "StockStory",
+                "ticker": "CMG",
+                "title": "Modern Fast Food Stocks Q4 In Review: Chipotle (NYSE:CMG) Vs Peers",
+                "url": "https://finance.yahoo.com/news/modern-fast-food-stocks-q4-090300681.html"
+            },
+            {
+                "headline": "Let\u2019s dig into the relative performance of Chipotle (NYSE:CMG) and its peers as we unravel the now-completed Q4 modern fast food earnings season.",
+                "publication_date": "2025-03-31T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
                 "source": "StockStory",
@@ -708,53 +840,7 @@
                 "url": "https://finance.yahoo.com/news/modern-fast-food-stocks-q4-090300681.html"
             }
         ],
-        "avgScore": 0.11510000000000002,
-        "pctChange": 0.006773801068735428
-    },
-    "3 31 2025": {
-        "importantArticles": [
-            {
-                "headline": "Chipotle Mexican Grill (NYSE: CMG) is a restaurant giant today, viewed as a go-to option for consumers who like fresh food prepared just the way they like it.  One of the biggest selling points of Chipotle's restaurant concept is the way the food it makes is prepared and delivered.",
-                "publication_date": "2025-03-31T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8442",
-                "source": "Motley Fool",
-                "ticker": "CMG",
-                "title": "Should You Reconsider Chipotle Mexican Grill? Why You Might Want to Buy This Unstoppable Growth Stock Instead.",
-                "url": "https://finance.yahoo.com/news/reconsider-chipotle-mexican-grill-why-101500573.html"
-            },
-            {
-                "headline": "Brian Niccol was the CEO of Chipotle Mexican Grill (NYSE: CMG) from March 2018 through August 2024.  Having led such a performance for shareholders, investors were understandably rattled when Niccol abruptly resigned to take the CEO position at Starbucks.  The dust from the leadership shakeup has finally settled for Chipotle stock, which makes now an ideal time to give the company a fresh look.",
-                "publication_date": "2025-03-31T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4767",
-                "source": "Motley Fool",
-                "ticker": "CMG",
-                "title": "Where Will Chipotle Mexican Grill Be in 5 Years?",
-                "url": "https://finance.yahoo.com/news/where-chipotle-mexican-grill-5-090300273.html"
-            },
-            {
-                "headline": "Brian Niccol was the CEO of Chipotle Mexican Grill (NYSE: CMG) from March 2018 through August 2024.  Having led such a performance for shareholders, investors were understandably rattled when Niccol abruptly resigned to take the CEO position at Starbucks.  The dust from the leadership shakeup has finally settled for Chipotle stock, which makes now an ideal time to give the company a fresh look.",
-                "publication_date": "2025-03-31T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4767",
-                "source": "Motley Fool",
-                "ticker": "CMG",
-                "title": "Where Will Chipotle Mexican Grill Be in 5 Years?",
-                "url": "https://finance.yahoo.com/news/where-chipotle-mexican-grill-5-090300273.html"
-            },
-            {
-                "headline": "Chipotle Mexican Grill (NYSE: CMG) is a restaurant giant today, viewed as a go-to option for consumers who like fresh food prepared just the way they like it.  One of the biggest selling points of Chipotle's restaurant concept is the way the food it makes is prepared and delivered.",
-                "publication_date": "2025-03-31T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8442",
-                "source": "Motley Fool",
-                "ticker": "CMG",
-                "title": "Should You Reconsider Chipotle Mexican Grill? Why You Might Want to Buy This Unstoppable Growth Stock Instead.",
-                "url": "https://finance.yahoo.com/news/reconsider-chipotle-mexican-grill-why-101500573.html"
-            }
-        ],
-        "avgScore": 0.66045,
+        "avgScore": 0.0,
         "pctChange": 0.029077855229918896
     },
     "3 28 2025": {
@@ -800,6 +886,16 @@
                 "url": "https://finance.yahoo.com/news/1-restaurant-stock-buy-list-130218488.html"
             },
             {
+                "headline": "With the recent market pullback, technology stocks have gotten a lot of investors' attention lately, but they are not the only growth stocks that suddenly find themselves at much lower prices.  Coffee shop operator Dutch Bros (NYSE: BROS) finds itself down around 20% from its highs as of this writing, while the stock of Mediterranean fast-casual restaurant operator Cava Group (NYSE: CAVA) has been nearly cut in half.  Both Dutch Bros and Cava have become very popular with consumers.",
+                "publication_date": "2025-03-28T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.4743",
+                "source": "Motley Fool",
+                "ticker": "CMG",
+                "title": "2 Growth Stocks That Could Skyrocket in 2025 and Beyond",
+                "url": "https://finance.yahoo.com/news/2-growth-stocks-could-skyrocket-091000485.html"
+            },
+            {
                 "headline": "Chipotle comments on the viral bankruptcy scandal.",
                 "publication_date": "2025-03-28T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -808,19 +904,9 @@
                 "ticker": "CMG",
                 "title": "Chipotle responds to bankruptcy, store closure reports",
                 "url": "https://finance.yahoo.com/news/chipotle-responds-bankruptcy-store-closure-220300529.html"
-            },
-            {
-                "headline": "We recently published a list of Was Jim Cramer Right About These 13 Stocks? In this article, we are going to take a look at where Chipotle Mexican Grill, Inc. (NYSE:CMG) stands against other stocks that Jim Cramer discussed. In the most recent episode of Mad Money, Jim Cramer shared his thoughts on how the [\u2026]",
-                "publication_date": "2025-03-28T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.2023",
-                "source": "Insider Monkey",
-                "ticker": "CMG",
-                "title": "Was Jim Cramer Right About Chipotle Mexican Grill, Inc. (CMG)?",
-                "url": "https://finance.yahoo.com/news/jim-cramer-chipotle-mexican-grill-144033749.html"
             }
         ],
-        "avgScore": -0.07818571428571429,
+        "avgScore": -0.14594285714285715,
         "pctChange": 0.006010804207127286
     },
     "3 27 2025": {
@@ -836,6 +922,16 @@
                 "url": "https://finance.yahoo.com/news/chipotle-slips-18-ytd-gain-143000874.html"
             },
             {
+                "headline": "Coatue Management's Philippe Laffont is making some eyebrow-raising moves with his nearly $30 billion hedge fund.",
+                "publication_date": "2025-03-27T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Motley Fool",
+                "ticker": "CMG",
+                "title": "Billionaire Philippe Laffont Dumped His Stake in a Consumer Favorite That's Risen 5,500% Since Its IPO in Favor of an Artificial Intelligence (AI) Stock-Split Stock",
+                "url": "https://finance.yahoo.com/news/billionaire-philippe-laffont-dumped-stake-085100430.html"
+            },
+            {
                 "headline": "Opendoor Technologies, Wayfair, AppLovin, Chipotle Mexican Grill and Halliburton are part of the Zacks Market Edge blog.",
                 "publication_date": "2025-03-27T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -854,6 +950,16 @@
                 "ticker": "CMG",
                 "title": "Zacks Market Edge Highlights: Opendoor Technologies, Wayfair, AppLovin, Chipotle Mexican Grill and Halliburton",
                 "url": "https://finance.yahoo.com/news/zacks-market-edge-highlights-opendoor-130800485.html"
+            },
+            {
+                "headline": "Coatue Management's Philippe Laffont is making some eyebrow-raising moves with his nearly $30 billion hedge fund.",
+                "publication_date": "2025-03-27T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Motley Fool",
+                "ticker": "CMG",
+                "title": "Billionaire Philippe Laffont Dumped His Stake in a Consumer Favorite That's Risen 5,500% Since Its IPO in Favor of an Artificial Intelligence (AI) Stock-Split Stock",
+                "url": "https://finance.yahoo.com/news/billionaire-philippe-laffont-dumped-stake-085100430.html"
             },
             {
                 "headline": "CMG stock is navigating through increased costs and the impact of the new tariff regime while maintaining its profitability. Know more here.",
@@ -866,7 +972,7 @@
                 "url": "https://finance.yahoo.com/news/chipotle-slips-18-ytd-gain-143000874.html"
             }
         ],
-        "avgScore": 0.24695,
+        "avgScore": 0.16463333333333333,
         "pctChange": -0.019835003100003506
     },
     "3 26 2025": {
@@ -1001,12 +1107,12 @@
         "avgScore": 0.37766,
         "pctChange": 0.011310874414783735
     },
-    "coef": 0.4338235294117647,
-    "avgCoef": 0.02136296678250925,
+    "coef": 0.2528379772961816,
+    "avgCoef": -0.015751551195134376,
     "similar": {
-        "HTZ": 0.5710784313725491,
-        "CMG": 0.4338235294117647,
-        "IAG": 0.41666666666666674,
-        "PTEN": 0.32352941176470595
+        "HTZ": 0.6656346749226005,
+        "CDE": 0.46955624355005166,
+        "CLF": 0.3973168214654283,
+        "IAG": 0.35397316821465424
     }
 }

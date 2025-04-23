@@ -1,9 +1,9 @@
 {
-    "4 21 2025": {
+    "4 22 2025": {
         "importantArticles": [
             {
                 "headline": "Over the last 7 days, the United States market has experienced a 1.1% decline, yet it remains up by 5.9% over the past year with earnings anticipated to grow by 13% annually in the coming years. In this context, identifying stocks that may be trading below their estimated value can offer potential opportunities for investors looking to capitalize on future growth prospects amidst current market fluctuations.",
-                "publication_date": "2025-04-21T00:00:00.000Z",
+                "publication_date": "2025-04-22T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.891",
                 "source": "Simply Wall St.",
@@ -13,7 +13,7 @@
             },
             {
                 "headline": "Over the last 7 days, the United States market has experienced a 1.1% decline, yet it remains up by 5.9% over the past year with earnings anticipated to grow by 13% annually in the coming years. In this context, identifying stocks that may be trading below their estimated value can offer potential opportunities for investors looking to capitalize on future growth prospects amidst current market fluctuations.",
-                "publication_date": "2025-04-21T00:00:00.000Z",
+                "publication_date": "2025-04-22T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.891",
                 "source": "Simply Wall St.",
@@ -23,13 +23,13 @@
             }
         ],
         "avgScore": 0.891,
-        "pctChange": 0.04176894159377717
+        "pctChange": 0.02663429869956235
     },
-    "4 15 2025": {
+    "4 16 2025": {
         "importantArticles": [
             {
                 "headline": "Key Insights Given the large stake in the stock by institutions, Grab Holdings' stock price might be vulnerable to...",
-                "publication_date": "2025-04-15T00:00:00.000Z",
+                "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.2263",
                 "source": "Simply Wall St.",
@@ -39,7 +39,7 @@
             },
             {
                 "headline": "Key Insights Given the large stake in the stock by institutions, Grab Holdings' stock price might be vulnerable to...",
-                "publication_date": "2025-04-15T00:00:00.000Z",
+                "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.2263",
                 "source": "Simply Wall St.",
@@ -49,13 +49,13 @@
             }
         ],
         "avgScore": -0.2263,
-        "pctChange": -0.004926103745908273
+        "pctChange": 0.017326775327312124
     },
-    "3 26 2025": {
+    "3 27 2025": {
         "importantArticles": [
             {
                 "headline": "With Q4 results in hand, I revisit my investment thesis on Grab, examining its ecosystem expansion, financial discipline, and long-term growth potential.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
+                "publication_date": "2025-03-27T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.7003",
                 "source": "GuruFocus.com",
@@ -65,7 +65,7 @@
             },
             {
                 "headline": "With Q4 results in hand, I revisit my investment thesis on Grab, examining its ecosystem expansion, financial discipline, and long-term growth potential.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
+                "publication_date": "2025-03-27T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.7003",
                 "source": "GuruFocus.com",
@@ -75,13 +75,13 @@
             }
         ],
         "avgScore": 0.7003,
-        "pctChange": 0.004184096244488566
+        "pctChange": -0.0479166687362723
     },
-    "3 25 2025": {
+    "3 26 2025": {
         "importantArticles": [
             {
                 "headline": "The U.S. stock market recently experienced a surge, driven by positive investor sentiment following reports that the Trump administration may reduce certain tariffs, boosting major indices like the S&P 500 and Nasdaq Composite. Amidst this backdrop, investors are increasingly looking for opportunities in lesser-known sectors of the market. Penny stocks, often associated with smaller or newer companies, remain an intriguing investment area due to their potential for growth at lower price...",
-                "publication_date": "2025-03-25T00:00:00.000Z",
+                "publication_date": "2025-03-26T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.9118",
                 "source": "Simply Wall St.",
@@ -91,7 +91,7 @@
             },
             {
                 "headline": "The U.S. stock market recently experienced a surge, driven by positive investor sentiment following reports that the Trump administration may reduce certain tariffs, boosting major indices like the S&P 500 and Nasdaq Composite. Amidst this backdrop, investors are increasingly looking for opportunities in lesser-known sectors of the market. Penny stocks, often associated with smaller or newer companies, remain an intriguing investment area due to their potential for growth at lower price...",
-                "publication_date": "2025-03-25T00:00:00.000Z",
+                "publication_date": "2025-03-26T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.9118",
                 "source": "Simply Wall St.",
@@ -101,14 +101,14 @@
             }
         ],
         "avgScore": 0.9118,
-        "pctChange": 0.05286349118323886
+        "pctChange": 0.004184096244488566
     },
-    "coef": 1.0,
-    "avgCoef": 0.03537363605985402,
+    "coef": 0.0,
+    "avgCoef": 0.0025049513294444796,
     "similar": {
-        "WBD": 1.0,
-        "CSCO": 1.0,
-        "GRAB": 1.0,
-        "CSX": 1.0
+        "JD": 0.7999999999999999,
+        "TME": 0.7999999999999999,
+        "IAG": 0.7999999999999999,
+        "EQX": 0.7999999999999999
     }
 }

@@ -48,6 +48,16 @@
     "4 11 2025": {
         "importantArticles": [
             {
+                "headline": "The new facility expands the company's existing healthcare packaging operations in Selangor.",
+                "publication_date": "2025-04-11T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.1027",
+                "source": "Packaging Gateway",
+                "ticker": "AMCR",
+                "title": "Amcor opens new coating facility in Malaysia to enhance healthcare packaging",
+                "url": "https://finance.yahoo.com/news/amcor-opens-coating-facility-malaysia-093614138.html"
+            },
+            {
                 "headline": "Amcor (AMCR) was a big mover last session on higher-than-average trading volume. The latest trend in earnings estimate revisions might not help the stock continue moving higher in the near term.",
                 "publication_date": "2025-04-11T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -66,9 +76,19 @@
                 "ticker": "AMCR",
                 "title": "Strength Seen in Amcor (AMCR): Can Its 5.3% Jump Turn into More Strength?",
                 "url": "https://finance.yahoo.com/news/strength-seen-amcor-amcr-5-131600819.html"
+            },
+            {
+                "headline": "The new facility expands the company's existing healthcare packaging operations in Selangor.",
+                "publication_date": "2025-04-11T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.1027",
+                "source": "Packaging Gateway",
+                "ticker": "AMCR",
+                "title": "Amcor opens new coating facility in Malaysia to enhance healthcare packaging",
+                "url": "https://finance.yahoo.com/news/amcor-opens-coating-facility-malaysia-093614138.html"
             }
         ],
-        "avgScore": -0.3089,
+        "avgScore": -0.1031,
         "pctChange": 0.022508042857899254
     },
     "4 10 2025": {
@@ -110,6 +130,26 @@
                 "url": "https://finance.yahoo.com/news/why-1-value-stock-could-134008645.html"
             },
             {
+                "headline": "Amcor\u2019s AmFiber is a paper-based laminate that replaces traditional plastic wrappers.",
+                "publication_date": "2025-04-04T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Packaging Gateway",
+                "ticker": "AMCR",
+                "title": "Riverside Natural Foods selects Amcor\u2019s packaging for MadeGood Trail Mix bars",
+                "url": "https://finance.yahoo.com/news/riverside-natural-foods-selects-amcor-085332440.html"
+            },
+            {
+                "headline": "Amcor\u2019s AmFiber is a paper-based laminate that replaces traditional plastic wrappers.",
+                "publication_date": "2025-04-04T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Packaging Gateway",
+                "ticker": "AMCR",
+                "title": "Riverside Natural Foods selects Amcor\u2019s packaging for MadeGood Trail Mix bars",
+                "url": "https://finance.yahoo.com/news/riverside-natural-foods-selects-amcor-085332440.html"
+            },
+            {
                 "headline": "Whether you're a value, growth, or momentum investor, finding strong stocks becomes easier with the Zacks Style Scores, a top feature of the Zacks Premium research service.",
                 "publication_date": "2025-04-04T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -120,7 +160,7 @@
                 "url": "https://finance.yahoo.com/news/why-1-value-stock-could-134008645.html"
             }
         ],
-        "avgScore": 0.8979,
+        "avgScore": 0.44895,
         "pctChange": -0.032537980699163235
     },
     "4 1 2025": {
@@ -169,6 +209,32 @@
         "avgScore": -0.125,
         "pctChange": -0.0010193912797229697
     },
+    "3 28 2025": {
+        "importantArticles": [
+            {
+                "headline": "The company aims to work with innovators and startups on compostable and recyclable coatings for flexible packaging. Chosen projects could receive up to $500,000 in funding.",
+                "publication_date": "2025-03-28T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.2263",
+                "source": "Packaging Dive",
+                "ticker": "AMCR",
+                "title": "Amcor extends open call for novel barrier coatings",
+                "url": "https://finance.yahoo.com/news/amcor-extends-open-call-novel-090500494.html"
+            },
+            {
+                "headline": "The company aims to work with innovators and startups on compostable and recyclable coatings for flexible packaging. Chosen projects could receive up to $500,000 in funding.",
+                "publication_date": "2025-03-28T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.2263",
+                "source": "Packaging Dive",
+                "ticker": "AMCR",
+                "title": "Amcor extends open call for novel barrier coatings",
+                "url": "https://finance.yahoo.com/news/amcor-extends-open-call-novel-090500494.html"
+            }
+        ],
+        "avgScore": 0.2263,
+        "pctChange": 0.006224010768209367
+    },
     "3 27 2025": {
         "importantArticles": [
             {
@@ -215,32 +281,6 @@
         "avgScore": -0.42405,
         "pctChange": -0.007209031364491867
     },
-    "3 26 2025": {
-        "importantArticles": [
-            {
-                "headline": "The new AmFiber Performance Paper stand-up pouch aims to deliver a 73% reduction in carbon footprint.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Packaging Gateway",
-                "ticker": "AMCR",
-                "title": "Amcor launches recyclable paper pouch for dry beverages",
-                "url": "https://finance.yahoo.com/news/amcor-launches-recyclable-paper-pouch-103636084.html"
-            },
-            {
-                "headline": "The new AmFiber Performance Paper stand-up pouch aims to deliver a 73% reduction in carbon footprint.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Packaging Gateway",
-                "ticker": "AMCR",
-                "title": "Amcor launches recyclable paper pouch for dry beverages",
-                "url": "https://finance.yahoo.com/news/amcor-launches-recyclable-paper-pouch-103636084.html"
-            }
-        ],
-        "avgScore": 0.0,
-        "pctChange": 0.01145829711523465
-    },
     "3 25 2025": {
         "importantArticles": [
             {
@@ -254,6 +294,26 @@
                 "url": "https://finance.yahoo.com/news/amcor-lift-off-initiative-extends-132200971.html"
             },
             {
+                "headline": "The new AmFiber Performance Paper stand-up pouch aims to deliver a 73% reduction in carbon footprint.",
+                "publication_date": "2025-03-25T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Packaging Gateway",
+                "ticker": "AMCR",
+                "title": "Amcor launches recyclable paper pouch for dry beverages",
+                "url": "https://finance.yahoo.com/news/amcor-launches-recyclable-paper-pouch-103636084.html"
+            },
+            {
+                "headline": "The new AmFiber Performance Paper stand-up pouch aims to deliver a 73% reduction in carbon footprint.",
+                "publication_date": "2025-03-25T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Packaging Gateway",
+                "ticker": "AMCR",
+                "title": "Amcor launches recyclable paper pouch for dry beverages",
+                "url": "https://finance.yahoo.com/news/amcor-launches-recyclable-paper-pouch-103636084.html"
+            },
+            {
                 "headline": "Amcor (NYSE: AMCR) (ASX:AMC), a global leader in developing and producing responsible packaging solutions, announced the extension of the application period for a new challenge under its Amcor Lift-Off initiative, the Amcor Lift-Off Sprints. The challenge aims to support innovative companies that provide new, innovative compostable or recyclable barrier coatings solutions for paper and other compostable substrates.",
                 "publication_date": "2025-03-25T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -264,15 +324,15 @@
                 "url": "https://finance.yahoo.com/news/amcor-lift-off-initiative-extends-132200971.html"
             }
         ],
-        "avgScore": 0.9062,
+        "avgScore": 0.4531,
         "pctChange": 0.016949238156632324
     },
-    "coef": 0.0,
-    "avgCoef": 0.034138176837140634,
+    "coef": 0.2142857142857143,
+    "avgCoef": -0.012632556739541147,
     "similar": {
-        "CNH": 0.7619047619047621,
-        "GOLD": 0.5952380952380953,
-        "PTEN": 0.5476190476190477,
-        "CSCO": 0.4285714285714286
+        "GOLD": 0.9047619047619048,
+        "XOM": 0.7142857142857144,
+        "NEM": 0.6904761904761906,
+        "NGD": 0.6666666666666669
     }
 }

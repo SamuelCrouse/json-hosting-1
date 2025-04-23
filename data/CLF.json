@@ -25,11 +25,11 @@
         "avgScore": 0.6486,
         "pctChange": -0.04246580979684778
     },
-    "4 15 2025": {
+    "4 14 2025": {
         "importantArticles": [
             {
                 "headline": "Wheaton Precious Metals (WPM) witnessed a jump in share price last session on above-average trading volume. The latest trend in earnings estimate revisions for the stock suggests that there could be more strength down the road.",
-                "publication_date": "2025-04-15T00:00:00.000Z",
+                "publication_date": "2025-04-14T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.8553",
                 "source": "Zacks",
@@ -39,7 +39,7 @@
             },
             {
                 "headline": "Wheaton Precious Metals (WPM) witnessed a jump in share price last session on above-average trading volume. The latest trend in earnings estimate revisions for the stock suggests that there could be more strength down the road.",
-                "publication_date": "2025-04-15T00:00:00.000Z",
+                "publication_date": "2025-04-14T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.8553",
                 "source": "Zacks",
@@ -49,7 +49,7 @@
             }
         ],
         "avgScore": 0.8553,
-        "pctChange": 0.002793293485019055
+        "pctChange": -0.02849389978396753
     },
     "4 11 2025": {
         "importantArticles": [
@@ -136,26 +136,6 @@
                 "url": "https://finance.yahoo.com/news/why-cleveland-cliffs-stock-got-210805149.html"
             },
             {
-                "headline": "We recently published a list of The Top 10 Performing Stocks on Wednesday. In this article, we are going to take a look at where Cleveland-Cliffs Inc. (NYSE:CLF) stands against other top performing stocks on Wednesday. Wall Street\u2019s three major indices finished in the green territory on Wednesday as investors continued to digest news of [\u2026]",
-                "publication_date": "2025-04-04T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.3818",
-                "source": "Insider Monkey",
-                "ticker": "CLF",
-                "title": "Why Cleveland-Cliffs Inc. (CLF) Went Up On Wednesday?",
-                "url": "https://finance.yahoo.com/news/why-cleveland-cliffs-inc-clf-084858169.html"
-            },
-            {
-                "headline": "We recently published a list of The Top 10 Performing Stocks on Wednesday. In this article, we are going to take a look at where Cleveland-Cliffs Inc. (NYSE:CLF) stands against other top performing stocks on Wednesday. Wall Street\u2019s three major indices finished in the green territory on Wednesday as investors continued to digest news of [\u2026]",
-                "publication_date": "2025-04-04T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.3818",
-                "source": "Insider Monkey",
-                "ticker": "CLF",
-                "title": "Why Cleveland-Cliffs Inc. (CLF) Went Up On Wednesday?",
-                "url": "https://finance.yahoo.com/news/why-cleveland-cliffs-inc-clf-084858169.html"
-            },
-            {
                 "headline": "Be careful what you wish for.",
                 "publication_date": "2025-04-04T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -166,11 +146,21 @@
                 "url": "https://finance.yahoo.com/news/why-cleveland-cliffs-stock-got-210805149.html"
             }
         ],
-        "avgScore": 0.44620000000000004,
+        "avgScore": 0.5106,
         "pctChange": 0.054597717292842005
     },
     "4 3 2025": {
         "importantArticles": [
+            {
+                "headline": "We recently published a list of The Top 10 Performing Stocks on Wednesday. In this article, we are going to take a look at where Cleveland-Cliffs Inc. (NYSE:CLF) stands against other top performing stocks on Wednesday. Wall Street\u2019s three major indices finished in the green territory on Wednesday as investors continued to digest news of [\u2026]",
+                "publication_date": "2025-04-03T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.3818",
+                "source": "Insider Monkey",
+                "ticker": "CLF",
+                "title": "Why Cleveland-Cliffs Inc. (CLF) Went Up On Wednesday?",
+                "url": "https://finance.yahoo.com/news/why-cleveland-cliffs-inc-clf-084858169.html"
+            },
             {
                 "headline": "Cleveland-Cliffs (CLF) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
                 "publication_date": "2025-04-03T00:00:00.000Z",
@@ -190,9 +180,19 @@
                 "ticker": "CLF",
                 "title": "Is Trending Stock Cleveland-Cliffs Inc. (CLF) a Buy Now?",
                 "url": "https://finance.yahoo.com/news/trending-stock-cleveland-cliffs-inc-130008690.html"
+            },
+            {
+                "headline": "We recently published a list of The Top 10 Performing Stocks on Wednesday. In this article, we are going to take a look at where Cleveland-Cliffs Inc. (NYSE:CLF) stands against other top performing stocks on Wednesday. Wall Street\u2019s three major indices finished in the green territory on Wednesday as investors continued to digest news of [\u2026]",
+                "publication_date": "2025-04-03T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.3818",
+                "source": "Insider Monkey",
+                "ticker": "CLF",
+                "title": "Why Cleveland-Cliffs Inc. (CLF) Went Up On Wednesday?",
+                "url": "https://finance.yahoo.com/news/why-cleveland-cliffs-inc-clf-084858169.html"
             }
         ],
-        "avgScore": -0.1621,
+        "avgScore": 0.10984999999999999,
         "pctChange": -0.04132233901886095
     },
     "4 2 2025": {
@@ -405,12 +405,12 @@
         "avgScore": 0.0,
         "pctChange": -0.02765949848497669
     },
-    "coef": -0.10000000000000002,
-    "avgCoef": 0.02322911181340511,
+    "coef": -0.17272727272727276,
+    "avgCoef": -0.003975521698080342,
     "similar": {
-        "RXRX": 0.43636363636363645,
-        "RGTI": 0.38181818181818183,
-        "HL": 0.3272727272727273,
-        "KGC": 0.28181818181818186
+        "RXRX": 0.7090909090909092,
+        "RGTI": 0.5454545454545455,
+        "SOUN": 0.4000000000000001,
+        "SOFI": 0.33636363636363636
     }
 }

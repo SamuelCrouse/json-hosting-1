@@ -1,4 +1,30 @@
 {
+    "4 22 2025": {
+        "importantArticles": [
+            {
+                "headline": "We recently published an article titled Gold Miners Dominate Tuesday\u2019s Worst-Performing Stocks. In this article, we are going to take a look at where Coeur Mining, Inc. (NYSE:CDE) stands against the other stocks. Wall Street\u2019s main indices bounced back from a bloodbath on Tuesday as investors gobbled up shares on hopes that the US-China trade tensions [\u2026]",
+                "publication_date": "2025-04-22T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.2023",
+                "source": "Insider Monkey",
+                "ticker": "CDE",
+                "title": "Why Coeur Mining, Inc. (CDE) Crashed on Tuesday",
+                "url": "https://finance.yahoo.com/news/why-coeur-mining-inc-cde-042413908.html"
+            },
+            {
+                "headline": "We recently published an article titled Gold Miners Dominate Tuesday\u2019s Worst-Performing Stocks. In this article, we are going to take a look at where Coeur Mining, Inc. (NYSE:CDE) stands against the other stocks. Wall Street\u2019s main indices bounced back from a bloodbath on Tuesday as investors gobbled up shares on hopes that the US-China trade tensions [\u2026]",
+                "publication_date": "2025-04-22T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.2023",
+                "source": "Insider Monkey",
+                "ticker": "CDE",
+                "title": "Why Coeur Mining, Inc. (CDE) Crashed on Tuesday",
+                "url": "https://finance.yahoo.com/news/why-coeur-mining-inc-cde-042413908.html"
+            }
+        ],
+        "avgScore": 0.2023,
+        "pctChange": -0.048013239020627
+    },
     "4 17 2025": {
         "importantArticles": [
             {
@@ -22,7 +48,8 @@
                 "url": "https://finance.yahoo.com/news/three-stocks-may-undervalued-april-113750291.html"
             }
         ],
-        "avgScore": 0.8271
+        "avgScore": 0.8271,
+        "pctChange": -0.013267064305086571
     },
     "4 11 2025": {
         "importantArticles": [
@@ -47,7 +74,8 @@
                 "url": "https://finance.yahoo.com/news/why-newmont-coeur-mining-barrick-162855381.html"
             }
         ],
-        "avgScore": 0.0
+        "avgScore": 0.0,
+        "pctChange": 0.025337853620659937
     },
     "4 8 2025": {
         "importantArticles": [
@@ -92,7 +120,8 @@
                 "url": "https://finance.yahoo.com/news/coeur-mining-inc-cde-best-140535381.html"
             }
         ],
-        "avgScore": 0.2202
+        "avgScore": 0.2202,
+        "pctChange": 0.1600831580221508
     },
     "4 3 2025": {
         "importantArticles": [
@@ -117,7 +146,8 @@
                 "url": "https://finance.yahoo.com/news/walker-lane-resources-ltd-notes-070700420.html"
             }
         ],
-        "avgScore": 0.7269
+        "avgScore": 0.7269,
+        "pctChange": -0.11475403713458551
     },
     "3 27 2025": {
         "importantArticles": [
@@ -142,7 +172,8 @@
                 "url": "https://finance.yahoo.com/news/coeur-present-mining-forum-europe-203000434.html"
             }
         ],
-        "avgScore": 0.0
+        "avgScore": 0.0,
+        "pctChange": -0.0394321757071179
     },
     "3 26 2025": {
         "importantArticles": [
@@ -167,14 +198,15 @@
                 "url": "https://finance.yahoo.com/news/intrinsic-calculation-coeur-mining-inc-172655467.html"
             }
         ],
-        "avgScore": 0.7906
+        "avgScore": 0.7906,
+        "pctChange": 0.03257333720705287
     },
-    "coef": 0.02898855178262242,
-    "avgCoef": 0.012761165648394298,
+    "coef": 0.10811249552346709,
+    "avgCoef": 0.034760272154886245,
     "similar": {
-        "LCID": 0.4928053803045812,
-        "CLF": 0.4928053803045812,
-        "AMZN": 0.43482827673933633,
-        "NU": 0.43482827673933633
+        "GOLD": 0.34235623582431246,
+        "HL": 0.34235623582431246,
+        "NGD": 0.30631873731649006,
+        "KGC": 0.30631873731649006
     }
 }

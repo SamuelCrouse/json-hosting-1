@@ -12,16 +12,6 @@
                 "url": "https://finance.yahoo.com/news/2-no-brainer-warren-buffett-083500168.html"
             },
             {
-                "headline": "(Bloomberg) -- Supply Lines is a daily newsletter that tracks global trade. Sign up here.Most Read from BloombergTrump Gives New York \u2018One Last Chance\u2019 to End Congestion FeeDOGE Visits National Gallery of Art to Discuss Museum\u2019s Legal StatusTrump Administration Takes Over New York Penn Station RevampThe Racial Wealth Gap Is Not Just About MoneyPresident Donald Trump met with major retailers at the White House, as business executives seek relief from sweeping tariffs that have destabilized global",
-                "publication_date": "2025-04-23T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7783",
-                "source": "Bloomberg",
-                "ticker": "AAPL",
-                "title": "Walmart, Target Executives Meet Trump As Tariff Fears Spread",
-                "url": "https://finance.yahoo.com/news/walmart-target-executives-meet-trump-175044256.html"
-            },
-            {
                 "headline": "(Bloomberg) -- While many investors have been scared away from tech giants at the center of this year\u2019s equity rout, the companies are likely to continue plowing money into buybacks that will offer at least one source of continuing support for the stocks.Most Read from BloombergTrump Gives New York \u2018One Last Chance\u2019 to End Congestion FeeDOGE Visits National Gallery of Art to Discuss Museum\u2019s Legal StatusThe Racial Wealth Gap Is Not Just About MoneyBackyard Micro-Flats Aim to Ease South Africa\u2019s",
                 "publication_date": "2025-04-23T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -30,6 +20,16 @@
                 "ticker": "AAPL",
                 "title": "Tech giants to plow $500 billion cash hoard into more buybacks",
                 "url": "https://finance.yahoo.com/news/tech-giants-plow-500-billion-110401179.html"
+            },
+            {
+                "headline": "A survey of U.S. consumers in March indicates surprisingly strong demand for iPhone upgrades despite \"a challenging fundamental backdrop.\"",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5508",
+                "source": "Investor's Business Daily",
+                "ticker": "AAPL",
+                "title": "Survey Shows Pent-Up Demand For New Apple iPhones",
+                "url": "https://finance.yahoo.com/m/f862527e-fa7e-335a-928f-a6bc54dfc703/survey-shows-pent-up-demand.html"
             },
             {
                 "headline": "Apple (AAPL) and Meta Platforms (META) have been ordered to pay fines for violating the Digital Mark",
@@ -62,8 +62,8 @@
                 "url": "https://finance.yahoo.com/news/european-union-fines-apple-500-095029876.html"
             }
         ],
-        "avgScore": 0.10085769230769231,
-        "pctChange": 0.003881584093408677
+        "avgScore": -0.001555555555555557,
+        "pctChange": -0.008446628607592536
     },
     "4 22 2025": {
         "importantArticles": [
@@ -88,14 +88,14 @@
                 "url": "https://finance.yahoo.com/news/22-warren-buffett-led-berkshire-120000229.html"
             },
             {
-                "headline": "As US stocks (^DJI, ^GSPC, ^IXIC) sell off, Solidarity Capital CEO Jeff McClean sits down with Josh Lipton to check in on the \"Magnificent Seven,\" made up of Nvidia (NVDA), Alphabet (GOOG, GOOGL), Tesla (TSLA), Microsoft (MSFT), Amazon (AMZN), Meta (META), and Apple (AAPL). To watch more expert insights and analysis on the latest market action, check out more Asking for a Trend here.",
+                "headline": "(Bloomberg) -- Supply Lines is a daily newsletter that tracks global trade. Sign up here.Most Read from BloombergTrump Gives New York \u2018One Last Chance\u2019 to End Congestion FeeDOGE Visits National Gallery of Art to Discuss Museum\u2019s Legal StatusTrump Administration Takes Over New York Penn Station RevampThe Racial Wealth Gap Is Not Just About MoneyPresident Donald Trump met with major retailers at the White House, as business executives seek relief from sweeping tariffs that have destabilized global",
                 "publication_date": "2025-04-22T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.7783",
-                "source": "Yahoo Finance Video",
+                "source": "Bloomberg",
                 "ticker": "AAPL",
-                "title": "How to trade the Magnificent 7 amid the market sell-off",
-                "url": "https://finance.yahoo.com/video/trade-magnificent-7-amid-market-120021370.html"
+                "title": "Walmart, Target Executives Meet Trump As Tariff Fears Spread",
+                "url": "https://finance.yahoo.com/news/walmart-target-executives-meet-trump-175044256.html"
             },
             {
                 "headline": "We recently published a list of 9 Stocks That Could 10X Over the Next 2 Years. In this article, we are going to take a look at where Apple Inc. (NASDAQ:AAPL) stands against other stocks that could 10X over the next 2 years. US Tariffs and the Stock Market Turmoil While tariffs from the US [\u2026]",
@@ -128,8 +128,8 @@
                 "url": "https://finance.yahoo.com/m/8e11515d-0e96-3ea0-a31b-df5207f8a54e/warren-buffett-timed-his.html"
             }
         ],
-        "avgScore": 0.25627999999999995,
-        "pctChange": 0.0353439503150496
+        "avgScore": 0.274548,
+        "pctChange": 0.022629362618229065
     },
     "4 21 2025": {
         "importantArticles": [
@@ -194,7 +194,7 @@
                 "url": "https://finance.yahoo.com/news/trump-raised-record-239-million-031032600.html"
             }
         ],
-        "avgScore": 0.32947272727272736,
+        "avgScore": 0.3401923076923078,
         "pctChange": 0.034065032648088696
     },
     "4 17 2025": {
@@ -210,16 +210,6 @@
                 "url": "https://finance.yahoo.com/news/prediction-warren-buffett-start-buying-090300638.html"
             },
             {
-                "headline": "Gold bumped the 'Magnificent Seven' tech stocks to take the top spot as a crowded trade, according to a BofA survey.",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6908",
-                "source": "Yahoo Finance",
-                "ticker": "AAPL",
-                "title": "After surge to record highs, gold overtakes 'Magnificent 7' as the most crowded trade on Wall Street",
-                "url": "https://finance.yahoo.com/news/after-surge-to-record-highs-gold-overtakes-magnificent-7-as-the-most-crowded-trade-on-wall-street-143338618.html"
-            },
-            {
                 "headline": "There's one tech titan that has long been a leader when it comes to share buybacks, repurchasing a jaw-dropping $695 billion of stock in the past decade.  At a market cap of $3.1 trillion, Apple is the world's most valuable enterprise.  Apple sells some of the most in-demand hardware products.",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -230,14 +220,34 @@
                 "url": "https://finance.yahoo.com/news/tech-giant-stock-buyback-leader-103800895.html"
             },
             {
-                "headline": "Those shopping for a new smartphone or computer may be spared from tariff-induced sticker shock. At least, for now.",
+                "headline": "We recently published a list of 15 Best Blue Chip Stocks to Buy According to Billionaires. In this article, we are going to take a look at where Apple Inc. (NASDAQ:AAPL) stands against other best blue chip stocks to buy according to billionaires. Is A Potential Trade War on the Horizon? The US stock market [\u2026]",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6705",
+                "source": "Insider Monkey",
+                "ticker": "AAPL",
+                "title": "Why Apple Inc. (AAPL) Is One of the Best Blue Chip Stocks to Buy According to Billionaires",
+                "url": "https://finance.yahoo.com/news/why-apple-inc-aapl-one-210846590.html"
+            },
+            {
+                "headline": "Apple's production in India and Vietnam seen as critical hedge as U.S.-China trade tensions escalate, Evercore says",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.3818",
-                "source": "CNN Business",
+                "sentimentScore": "-0.6124",
+                "source": "GuruFocus.com",
                 "ticker": "AAPL",
-                "title": "\u2018It\u2019s going to be the small stuff\u2019: Trump\u2019s tariffs could make cheap tech gadgets not so cheap",
-                "url": "https://finance.yahoo.com/news/going-small-stuff-trump-tariffs-153035967.html"
+                "title": "Evercore Backs Apple's Resilience as Global Tariffs Loom",
+                "url": "https://finance.yahoo.com/news/evercore-backs-apples-resilience-global-145318073.html"
+            },
+            {
+                "headline": "The Dow Jones Industrial Average fell more than 500 points Thursday, and one stock bore most of the blame: UnitedHealth Group.",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5667",
+                "source": "Investopedia",
+                "ticker": "AAPL",
+                "title": "The One Stock Behind the Dow's Steep Drop Thursday",
+                "url": "https://finance.yahoo.com/news/one-stock-behind-dows-500-155927450.html"
             },
             {
                 "headline": "Big Tech\u2019s risks in China go far beyond Nvidia, Foreign central banks load up on T-bills and sell U.S. Bonds, more news to start your day.",
@@ -248,43 +258,13 @@
                 "ticker": "AAPL",
                 "title": "Stock Markets Need a Tariffs Savior. Why Fed\u2019s Powell Won\u2019t Ride to the Rescue and 5 Other Things to Know Today.",
                 "url": "https://finance.yahoo.com/m/f0b27173-b913-381c-af02-98f7c48ace42/stock-markets-need-a-tariffs.html"
-            },
-            {
-                "headline": "World stocks fell into a downward spiral on Wednesday led by tech losses after Washington said it is putting new curbs on AI chip exports to China, marking an escalation in the global trade war.  The Trump administration's latest broadside sparked huge demand for safe-haven assets like gold, the Swiss franc and U.S. Treasuries, even though Fed Chair Jerome Powell signalled he is in no rush to cut interest rates.  If U.S. Big Tech had acquired a safe-haven status in the eyes of some investors in recent years, it is disappearing fast.",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.25",
-                "source": "Reuters",
-                "ticker": "AAPL",
-                "title": "Trading Day: When the chips are down",
-                "url": "https://finance.yahoo.com/news/trading-day-chips-down-210332516.html"
             }
         ],
-        "avgScore": 0.25502500000000006,
+        "avgScore": 0.11736923076923075,
         "pctChange": -0.01939279189909957
     },
     "4 16 2025": {
         "importantArticles": [
-            {
-                "headline": "Apple (AAPL) will effectively develop Apple Intelligence, while \u201cnew form factors\u201d will boost the tech giant\u2019s 2026 revenue, Angelo Zino, a senior equity analyst at CFRA Research predicted recently on the Schwab Network. Zino has a $235 price target and a Buy rating on the shares. Apple\u2019s Positive Catalysts The development of Apple Intelligence, which [\u2026]",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.9485",
-                "source": "Insider Monkey",
-                "ticker": "AAPL",
-                "title": "Apple Intelligence, New Form Factors Will Boost AAPL Stock, Analyst Says",
-                "url": "https://finance.yahoo.com/news/apple-intelligence-form-factors-boost-145221145.html"
-            },
-            {
-                "headline": "Apple's main India suppliers Foxconn and Tata shipped nearly $2 billion worth of iPhones to the United States in March, an all-time high, as the U.S. company airlifted devices to bypass President Donald Trump's impending tariffs, customs\u00a0data\u00a0shows.  The smartphone maker stepped up production in India and chartered cargo flights to ferry 600 tons of iPhones to the United States to ensure sufficient inventory in one of its biggest markets on concern Trump's tariffs would push up costs.",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8442",
-                "source": "Reuters",
-                "ticker": "AAPL",
-                "title": "Apple airlifted iPhones worth a record $2 billion from India in March as Trump tariffs loomed",
-                "url": "https://finance.yahoo.com/news/apple-airlifted-iphones-worth-record-144418337.html"
-            },
             {
                 "headline": "We recently compiled a list of the 14 Best American Tech Stocks To Buy Now. In this article, we are going to take a look at where Apple Inc. (NASDAQ:AAPL) stands against the other American tech stocks. American stocks moved up a bit on Monday, April 14 as investors focused on news about tech companies [\u2026]",
                 "publication_date": "2025-04-16T00:00:00.000Z",
@@ -294,6 +274,26 @@
                 "ticker": "AAPL",
                 "title": "Is Apple Inc. (AAPL) The Best American Tech Stock to Buy Now?",
                 "url": "https://finance.yahoo.com/news/apple-inc-aapl-best-american-200819194.html"
+            },
+            {
+                "headline": "One of its many funds is the Vanguard Dividend Appreciation ETF (NYSEMKT: VIG).  It's one of the smartest funds to buy because it tracks the performance of companies that grow their dividends.  Historically, dividend growth stocks have delivered the highest total returns with the lowest risk.",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7351",
+                "source": "Motley Fool",
+                "ticker": "AAPL",
+                "title": "Got $2,000 to Invest? This Is 1 of the Smartest Vanguard ETFs to Buy and Hold for 20 Years.",
+                "url": "https://finance.yahoo.com/news/got-2-000-invest-1-083500393.html"
+            },
+            {
+                "headline": "Apple (NasdaqGS:AAPL) saw a notable price increase of 12% over the last week, likely buoyed by the integration announcement of Cardiex Limited's subsidiary, CONNEQT Health, with Apple Health. This integration aligns with broader market trends where tech stocks led indices higher amid President Trump\u2019s tariff exemption for electronics, which added a positive sentiment across the tech sector. Apple's integration with CONNEQT Health is a strategic move to enhance its health-focused offerings,...",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7096",
+                "source": "Simply Wall St.",
+                "ticker": "AAPL",
+                "title": "Apple (NasdaqGS:AAPL) Sees 12% Price Increase Over Last Week",
+                "url": "https://finance.yahoo.com/news/apple-nasdaqgs-aapl-sees-12-172245106.html"
             },
             {
                 "headline": "Apple Inc. (NASDAQ:AAPL) CEO Tim Cook previously explained the company\u2019s decision to continue manufacturing its products in China, refuting the widespread belief that it\u2019s due to low labor costs. What Happened: A 2024 video of Tim Cook has resurfaced, providing insights into Apple\u2019s manufacturing choices amid the ongoing U.S.-China tariff war. In the video, posted on X by CNBC TV18 reporter Nigel D\u2019Souza, Cook dismissed the idea that Apple\u2019s manufacturing in China is due to low labor costs, stat",
@@ -326,20 +326,20 @@
                 "url": "https://finance.yahoo.com/news/apple-bets-big-samsung-first-185632294.html"
             }
         ],
-        "avgScore": 0.15729130434782607,
+        "avgScore": 0.0761681818181818,
         "pctChange": 0.013949613401343217
     },
     "4 15 2025": {
         "importantArticles": [
             {
-                "headline": "An unidentified options trader's multi-million dollar bet on a short-term rebound in Apple Inc.'s shares was set to reap a sizable profit as the iPhone-maker's shares soared on Monday following the Trump administration's weekend move to grant tariff exclusions for smartphones.  On Monday, Apple shares rose as much as 7% to a high of $212.94 before paring gains to trade up 4.5% at $206.05, after the Trump administration, late on Friday, granted exclusions from the steep reciprocal tariffs on smartphones and a set of other electronics products, a move seen as a big break for technology firms such as Apple that rely on imports from China.  The jump in Apple's share price means a bullish options trade opened Friday for about $5 million was, on paper, valued at about $14 million early on Monday, a gain of 180%, according to a Reuters calculation.",
+                "headline": "Apple (AAPL) will effectively develop Apple Intelligence, while \u201cnew form factors\u201d will boost the tech giant\u2019s 2026 revenue, Angelo Zino, a senior equity analyst at CFRA Research predicted recently on the Schwab Network. Zino has a $235 price target and a Buy rating on the shares. Apple\u2019s Positive Catalysts The development of Apple Intelligence, which [\u2026]",
                 "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.9678",
-                "source": "Reuters",
+                "sentimentScore": "0.9485",
+                "source": "Insider Monkey",
                 "ticker": "AAPL",
-                "title": "Bullish trade in Apple options reaps gains as shares jump on tariff exemption",
-                "url": "https://finance.yahoo.com/news/bullish-trade-apple-options-reaps-151022816.html"
+                "title": "Apple Intelligence, New Form Factors Will Boost AAPL Stock, Analyst Says",
+                "url": "https://finance.yahoo.com/news/apple-intelligence-form-factors-boost-145221145.html"
             },
             {
                 "headline": "Apple (NASDAQ: AAPL) stock returned 30% in 2024, peaking around $259 per share in late December.  Factors contributing to that upside included strong sales growth in the services business and excitement about new artificial intelligence (AI) features.  President Trump on April 2 outlined an aggressive slate of reciprocal tariffs that would take the average tax on U.S. imports to its highest level in a century.",
@@ -392,11 +392,21 @@
                 "url": "https://finance.yahoo.com/news/apple-escapes-supply-chain-crisis-183111921.html"
             }
         ],
-        "avgScore": 0.10335319148936178,
+        "avgScore": 0.09201702127659579,
         "pctChange": -0.03893338844835537
     },
     "4 14 2025": {
         "importantArticles": [
+            {
+                "headline": "An unidentified options trader's multi-million dollar bet on a short-term rebound in Apple Inc.'s shares was set to reap a sizable profit as the iPhone-maker's shares soared on Monday following the Trump administration's weekend move to grant tariff exclusions for smartphones.  On Monday, Apple shares rose as much as 7% to a high of $212.94 before paring gains to trade up 4.5% at $206.05, after the Trump administration, late on Friday, granted exclusions from the steep reciprocal tariffs on smartphones and a set of other electronics products, a move seen as a big break for technology firms such as Apple that rely on imports from China.  The jump in Apple's share price means a bullish options trade opened Friday for about $5 million was, on paper, valued at about $14 million early on Monday, a gain of 180%, according to a Reuters calculation.",
+                "publication_date": "2025-04-14T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9678",
+                "source": "Reuters",
+                "ticker": "AAPL",
+                "title": "Bullish trade in Apple options reaps gains as shares jump on tariff exemption",
+                "url": "https://finance.yahoo.com/news/bullish-trade-apple-options-reaps-151022816.html"
+            },
             {
                 "headline": "We recently published a list of 10 Best Kid-Friendly Stocks to Buy According to Billionaires. In this article, we are going to take a look at where Apple Inc. (NASDAQ:AAPL) stands against other best kid-friendly stocks to buy according to billionaires. The market has been undergoing a volatile spell these past few days. Economic data [\u2026]",
                 "publication_date": "2025-04-14T00:00:00.000Z",
@@ -408,24 +418,14 @@
                 "url": "https://finance.yahoo.com/news/apple-inc-aapl-best-kid-131623934.html"
             },
             {
-                "headline": "We recently published a list of the 13 Best Technology Dividend Stocks to Invest in. In this article, we are going to take a look at where Apple Inc. (NASDAQ:AAPL) stands against other best technology dividend stocks. There was a time when tech stocks drew investor interest purely for their growth potential. But more recently, [\u2026]",
+                "headline": "Analysts see near-term tariff relief as a win for Apple, though long-term growth and legal risks still linger",
                 "publication_date": "2025-04-14T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.7982",
-                "source": "Insider Monkey",
+                "sentimentScore": "0.836",
+                "source": "GuruFocus.com",
                 "ticker": "AAPL",
-                "title": "Is Apple (AAPL) The Best Technology Dividend Stock to Invest in?",
-                "url": "https://finance.yahoo.com/news/apple-aapl-best-technology-dividend-131855351.html"
-            },
-            {
-                "headline": "Tech stocks like Apple (AAPL), Nvidia (NVDA), and Palantir (PLTR) are trading higher as the tech-heavy Nasdaq Composite (^IXIC) gains on expectations of tariff changes, including exemptions on certain consumer electronics. While mixed messaging has come out of the White House, Maxim Group managing director and senior consumer internet analyst Tom Forte tells Brad Smith and Madison Mills on Morning Brief that he views tariff exemptions on smartphones as \"semi-permanent.\" To watch more expert insights and analysis on the latest market action, check out more Morning Brief here.",
-                "publication_date": "2025-04-14T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7184",
-                "source": "Yahoo Finance Video",
-                "ticker": "AAPL",
-                "title": "Smartphone tariff exemption may be 'semi-permanent,' analyst says",
-                "url": "https://finance.yahoo.com/video/smartphone-tariff-exemption-may-semi-142524627.html"
+                "title": "Apple Wins Upgrade After Tariff Reprieve Eases Wall Street Concerns",
+                "url": "https://finance.yahoo.com/news/apple-wins-upgrade-tariff-reprieve-154036465.html"
             },
             {
                 "headline": "Nvidia has found itself in the crosshairs of an escalating trade war between Washington and Beijing.",
@@ -448,25 +448,25 @@
                 "url": "https://finance.yahoo.com/m/2874708c-fc10-3a00-870a-9f5a6cdd7347/clouds-part-over-apple%E2%80%99s.html"
             },
             {
-                "headline": "Tariff exclusions on electronics lift Apple, Dell and others, though analysts warn long-term demand concerns still loom",
+                "headline": "While Apple, for example, secured one for the Apple Watch at the time, requests for exemptions for AirPods and HomePod speakers were denied.  Other companies\u2019 exemption requests for wireless earbuds were similarly rejected.  Of nearly 53,000 requests for exemptions from tariffs on Chinese goods filed during Trump\u2019s first term, only 13% were granted, according to a WSJ analysis of government data.",
                 "publication_date": "2025-04-14T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.4215",
-                "source": "GuruFocus.com",
+                "sentimentScore": "-0.3612",
+                "source": "The Wall Street Journal",
                 "ticker": "AAPL",
-                "title": "Apple Leads Tech Rally After Trump Grants Electronics Tariff Reprieve",
-                "url": "https://finance.yahoo.com/news/apple-leads-tech-rally-trump-125158621.html"
+                "title": "Q&A: What Can We Learn From Tariff Exemptions in Trump\u2019s First Term?",
+                "url": "https://finance.yahoo.com/m/1ad4a6c7-523f-3991-a83c-150d46a7ad5f/q-a-what-can-we-learn-from.html"
             }
         ],
-        "avgScore": 0.10170526315789473,
+        "avgScore": 0.22319523809523806,
         "pctChange": -0.0018763819612666965
     },
-    "coef": 0.5357142857142858,
-    "avgCoef": -0.03275134359016704,
+    "coef": 0.6071428571428572,
+    "avgCoef": -0.021778459489754088,
     "similar": {
-        "CLSK": 0.7857142857142859,
-        "INTC": 0.7142857142857144,
-        "NIO": 0.6785714285714287,
-        "RGTI": 0.6785714285714287
+        "APH": 0.8214285714285715,
+        "EQT": 0.7500000000000002,
+        "GRAB": 0.7142857142857144,
+        "BAC": 0.6785714285714287
     }
 }

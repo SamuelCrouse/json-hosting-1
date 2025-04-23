@@ -23,13 +23,13 @@
             }
         ],
         "avgScore": 0.7906,
-        "pctChange": 0.002150484266578833
+        "pctChange": 0.0005376467030505374
     },
-    "4 15 2025": {
+    "4 14 2025": {
         "importantArticles": [
             {
                 "headline": "A discount mobile provider is preparing to launch a \u00a310-a-month broadband service as Vodafone\u2019s \u00a315bn merger with Three sparks a telecoms price war.",
-                "publication_date": "2025-04-15T00:00:00.000Z",
+                "publication_date": "2025-04-14T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.5994",
                 "source": "The Telegraph",
@@ -39,7 +39,7 @@
             },
             {
                 "headline": "A discount mobile provider is preparing to launch a \u00a310-a-month broadband service as Vodafone\u2019s \u00a315bn merger with Three sparks a telecoms price war.",
-                "publication_date": "2025-04-15T00:00:00.000Z",
+                "publication_date": "2025-04-14T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.5994",
                 "source": "The Telegraph",
@@ -49,13 +49,13 @@
             }
         ],
         "avgScore": -0.5994,
-        "pctChange": 0.006586215354324567
+        "pctChange": 0.016741028782550654
     },
-    "4 3 2025": {
+    "4 2 2025": {
         "importantArticles": [
             {
                 "headline": "In light of significant board changes, Vodafone Group (LSE:VOD) experienced a share price rise of just over 5% over the last quarter. The appointment of new leaders, alongside executive shifts at subsidiary levels, highlighted the company's evolving governance. Concurrently, Vodafone's strategic agreement to enhance European satellite services and its proactive debt management initiatives underscored efforts to strengthen its market position. Meanwhile, broader market conditions showed...",
-                "publication_date": "2025-04-03T00:00:00.000Z",
+                "publication_date": "2025-04-02T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.8316",
                 "source": "Simply Wall St.",
@@ -65,7 +65,7 @@
             },
             {
                 "headline": "In light of significant board changes, Vodafone Group (LSE:VOD) experienced a share price rise of just over 5% over the last quarter. The appointment of new leaders, alongside executive shifts at subsidiary levels, highlighted the company's evolving governance. Concurrently, Vodafone's strategic agreement to enhance European satellite services and its proactive debt management initiatives underscored efforts to strengthen its market position. Meanwhile, broader market conditions showed...",
-                "publication_date": "2025-04-03T00:00:00.000Z",
+                "publication_date": "2025-04-02T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.8316",
                 "source": "Simply Wall St.",
@@ -75,7 +75,7 @@
             }
         ],
         "avgScore": 0.8316,
-        "pctChange": -0.09284950866433991
+        "pctChange": 0.02741228104573318
     },
     "4 1 2025": {
         "importantArticles": [
@@ -149,6 +149,32 @@
         "avgScore": 0.4939,
         "pctChange": -0.010672297653869551
     },
+    "3 28 2025": {
+        "importantArticles": [
+            {
+                "headline": "We recently published a list of the 13 Best Telecom Stocks to Buy According to Hedge Funds. In this article, we are going to take a look at where Vodafone Group Public Limited Company (NASDAQ:VOD) stands against other best telecom stocks. The global telecom services market is estimated at $1.98 trillion as of 2024, according [\u2026]",
+                "publication_date": "2025-03-28T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8176",
+                "source": "Insider Monkey",
+                "ticker": "VOD",
+                "title": "Is Vodafone Group (VOD) the Best Telecom Stock to Buy According to Hedge Funds?",
+                "url": "https://finance.yahoo.com/news/vodafone-group-vod-best-telecom-135920982.html"
+            },
+            {
+                "headline": "We recently published a list of the 13 Best Telecom Stocks to Buy According to Hedge Funds. In this article, we are going to take a look at where Vodafone Group Public Limited Company (NASDAQ:VOD) stands against other best telecom stocks. The global telecom services market is estimated at $1.98 trillion as of 2024, according [\u2026]",
+                "publication_date": "2025-03-28T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8176",
+                "source": "Insider Monkey",
+                "ticker": "VOD",
+                "title": "Is Vodafone Group (VOD) the Best Telecom Stock to Buy According to Hedge Funds?",
+                "url": "https://finance.yahoo.com/news/vodafone-group-vod-best-telecom-135920982.html"
+            }
+        ],
+        "avgScore": 0.8176,
+        "pctChange": -0.008465600563041254
+    },
     "3 24 2025": {
         "importantArticles": [
             {
@@ -175,12 +201,12 @@
         "avgScore": 0.2247,
         "pctChange": 0.006458602783969361
     },
-    "coef": -0.6,
-    "avgCoef": -0.027606349306415524,
+    "coef": 0.21428571428571433,
+    "avgCoef": -0.002007233731990891,
     "similar": {
-        "NKE": 0.8999999999999998,
-        "MSTR": 0.7999999999999999,
-        "LCID": 0.7,
-        "SNAP": 0.7
+        "ABEV": 0.8214285714285715,
+        "NEE": 0.8214285714285715,
+        "INTC": 0.7142857142857144,
+        "BABA": 0.6071428571428572
     }
 }

@@ -1,9 +1,9 @@
 {
-    "4 10 2025": {
+    "4 11 2025": {
         "importantArticles": [
             {
                 "headline": "Banco Santander-Chile (BSAC) was a big mover last session on higher-than-average trading volume. The latest trend in earnings estimate revisions might not help the stock continue moving higher in the near term.",
-                "publication_date": "2025-04-10T00:00:00.000Z",
+                "publication_date": "2025-04-11T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.3089",
                 "source": "Zacks",
@@ -13,7 +13,7 @@
             },
             {
                 "headline": "Banco Santander-Chile (BSAC) was a big mover last session on higher-than-average trading volume. The latest trend in earnings estimate revisions might not help the stock continue moving higher in the near term.",
-                "publication_date": "2025-04-10T00:00:00.000Z",
+                "publication_date": "2025-04-11T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.3089",
                 "source": "Zacks",
@@ -23,39 +23,13 @@
             }
         ],
         "avgScore": -0.3089,
-        "pctChange": 0.037914770664479396
+        "pctChange": 0.004566205571678748
     },
-    "3 28 2025": {
-        "importantArticles": [
-            {
-                "headline": "We recently published a list of 10 Worst Affordable Stocks to Buy Under $10. In this article, we are going to take a look at where Banco Bradesco S.A. (NASDAQ:BBD) stands against other worst affordable stocks to buy under $10. Will There Be a Small Cap Resurgence in 2025? On February 18, Chris Clark, Chief [\u2026]",
-                "publication_date": "2025-03-28T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.8481",
-                "source": "Insider Monkey",
-                "ticker": "BBD",
-                "title": "Is Banco Bradesco (BBD) the Worst Affordable Stock to Buy Under $10?",
-                "url": "https://finance.yahoo.com/news/banco-bradesco-bbd-worst-affordable-133201099.html"
-            },
-            {
-                "headline": "We recently published a list of 10 Worst Affordable Stocks to Buy Under $10. In this article, we are going to take a look at where Banco Bradesco S.A. (NASDAQ:BBD) stands against other worst affordable stocks to buy under $10. Will There Be a Small Cap Resurgence in 2025? On February 18, Chris Clark, Chief [\u2026]",
-                "publication_date": "2025-03-28T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.8481",
-                "source": "Insider Monkey",
-                "ticker": "BBD",
-                "title": "Is Banco Bradesco (BBD) the Worst Affordable Stock to Buy Under $10?",
-                "url": "https://finance.yahoo.com/news/banco-bradesco-bbd-worst-affordable-133201099.html"
-            }
-        ],
-        "avgScore": -0.8481,
-        "pctChange": -0.017621055751433103
-    },
-    "3 26 2025": {
+    "3 27 2025": {
         "importantArticles": [
             {
                 "headline": "We recently published a list of Pulse of The Market: Tuesday\u2019s 10 Top Performers. In this article, we are going to take a look at where Banco Bradesco SA (NYSE:BBD) stands against other Tuesday\u2019s top performers. A lackluster trading persisted on the stock market on Tuesday, with all major indices finishing in the green territory, [\u2026]",
-                "publication_date": "2025-03-26T00:00:00.000Z",
+                "publication_date": "2025-03-27T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.3818",
                 "source": "Insider Monkey",
@@ -65,7 +39,7 @@
             },
             {
                 "headline": "We recently published a list of Pulse of The Market: Tuesday\u2019s 10 Top Performers. In this article, we are going to take a look at where Banco Bradesco SA (NYSE:BBD) stands against other Tuesday\u2019s top performers. A lackluster trading persisted on the stock market on Tuesday, with all major indices finishing in the green territory, [\u2026]",
-                "publication_date": "2025-03-26T00:00:00.000Z",
+                "publication_date": "2025-03-27T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.3818",
                 "source": "Insider Monkey",
@@ -75,14 +49,14 @@
             }
         ],
         "avgScore": 0.3818,
-        "pctChange": -0.012931020483553638
+        "pctChange": -0.008733579494965319
     },
-    "coef": 0.5,
-    "avgCoef": 0.013667597374218106,
+    "coef": -0.9999999999999999,
+    "avgCoef": 0.03612050473856088,
     "similar": {
-        "TSLA": 1.0,
-        "T": 1.0,
-        "JD": 1.0,
-        "IAG": 1.0
+        "AVGO": 0.9999999999999999,
+        "HLN": 0.9999999999999999,
+        "RXRX": 0.9999999999999999,
+        "SPY": -0.9999999999999999
     }
 }

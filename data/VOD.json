@@ -23,7 +23,7 @@
             }
         ],
         "avgScore": 0.7906,
-        "pctChange": 0.0005376467030505374
+        "pctChange": 0.0
     },
     "4 14 2025": {
         "importantArticles": [
@@ -80,16 +80,6 @@
     "4 1 2025": {
         "importantArticles": [
             {
-                "headline": "We recently compiled a list of the 10 Best Stocks Under $10 to Buy Now. In this article, we are going to take a look at where Vodafone Group Public Limited Company (NASDAQ:VOD) stands against the other stocks under $10. On March 28, Friday, US stocks declined as Wall Street continued to struggle with President [\u2026]",
-                "publication_date": "2025-04-01T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.25",
-                "source": "Insider Monkey",
-                "ticker": "VOD",
-                "title": "Is Vodafone Group Public Limited Company (VOD) The Best Stock Under $10 to Buy Now?",
-                "url": "https://finance.yahoo.com/news/vodafone-group-public-limited-company-193823347.html"
-            },
-            {
                 "headline": "Britain\u2019s mobile coverage is so patchy that almost half the country struggles to browse the internet, data have revealed.",
                 "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -108,19 +98,9 @@
                 "ticker": "VOD",
                 "title": "Almost half of Britain cannot browse internet because of poor mobile signal",
                 "url": "https://finance.yahoo.com/news/almost-half-britain-cannot-browse-133545749.html"
-            },
-            {
-                "headline": "We recently compiled a list of the 10 Best Stocks Under $10 to Buy Now. In this article, we are going to take a look at where Vodafone Group Public Limited Company (NASDAQ:VOD) stands against the other stocks under $10. On March 28, Friday, US stocks declined as Wall Street continued to struggle with President [\u2026]",
-                "publication_date": "2025-04-01T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.25",
-                "source": "Insider Monkey",
-                "ticker": "VOD",
-                "title": "Is Vodafone Group Public Limited Company (VOD) The Best Stock Under $10 to Buy Now?",
-                "url": "https://finance.yahoo.com/news/vodafone-group-public-limited-company-193823347.html"
             }
         ],
-        "avgScore": -0.05560000000000001,
+        "avgScore": -0.3612,
         "pctChange": -0.016181290700904294
     },
     "3 31 2025": {
@@ -136,6 +116,26 @@
                 "url": "https://finance.yahoo.com/news/vodafone-advances-cybersecurity-businesses-germany-135500131.html"
             },
             {
+                "headline": "We recently compiled a list of the 10 Best Stocks Under $10 to Buy Now. In this article, we are going to take a look at where Vodafone Group Public Limited Company (NASDAQ:VOD) stands against the other stocks under $10. On March 28, Friday, US stocks declined as Wall Street continued to struggle with President [\u2026]",
+                "publication_date": "2025-03-31T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.25",
+                "source": "Insider Monkey",
+                "ticker": "VOD",
+                "title": "Is Vodafone Group Public Limited Company (VOD) The Best Stock Under $10 to Buy Now?",
+                "url": "https://finance.yahoo.com/news/vodafone-group-public-limited-company-193823347.html"
+            },
+            {
+                "headline": "We recently compiled a list of the 10 Best Stocks Under $10 to Buy Now. In this article, we are going to take a look at where Vodafone Group Public Limited Company (NASDAQ:VOD) stands against the other stocks under $10. On March 28, Friday, US stocks declined as Wall Street continued to struggle with President [\u2026]",
+                "publication_date": "2025-03-31T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.25",
+                "source": "Insider Monkey",
+                "ticker": "VOD",
+                "title": "Is Vodafone Group Public Limited Company (VOD) The Best Stock Under $10 to Buy Now?",
+                "url": "https://finance.yahoo.com/news/vodafone-group-public-limited-company-193823347.html"
+            },
+            {
                 "headline": "VOD opens a cybersecurity center in Germany to boost the cyber defense mechanism of small and mid-size businesses in the country.",
                 "publication_date": "2025-03-31T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -146,7 +146,7 @@
                 "url": "https://finance.yahoo.com/news/vodafone-advances-cybersecurity-businesses-germany-135500131.html"
             }
         ],
-        "avgScore": 0.4939,
+        "avgScore": 0.37195,
         "pctChange": -0.010672297653869551
     },
     "3 28 2025": {
@@ -202,11 +202,11 @@
         "pctChange": 0.006458602783969361
     },
     "coef": 0.21428571428571433,
-    "avgCoef": -0.002007233731990891,
+    "avgCoef": -0.0027797878255620624,
     "similar": {
-        "ABEV": 0.8214285714285715,
-        "NEE": 0.8214285714285715,
-        "INTC": 0.7142857142857144,
-        "BABA": 0.6071428571428572
+        "NEE": 0.8571428571428573,
+        "BABA": 0.642857142857143,
+        "INTC": 0.6071428571428572,
+        "ABEV": 0.5357142857142858
     }
 }

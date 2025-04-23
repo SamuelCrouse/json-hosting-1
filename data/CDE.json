@@ -1,4 +1,30 @@
 {
+    "4 17 2025": {
+        "importantArticles": [
+            {
+                "headline": "Over the last 7 days, the United States market has experienced a 3.0% decline, though it remains up by 4.6% over the past year with earnings forecasted to grow by 14% annually. In this context, identifying stocks that may be undervalued involves looking for companies with strong fundamentals and growth potential that are not fully reflected in their current stock prices.",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8271",
+                "source": "Simply Wall St.",
+                "ticker": "CDE",
+                "title": "Three Stocks That May Be Undervalued In April 2025",
+                "url": "https://finance.yahoo.com/news/three-stocks-may-undervalued-april-113750291.html"
+            },
+            {
+                "headline": "Over the last 7 days, the United States market has experienced a 3.0% decline, though it remains up by 4.6% over the past year with earnings forecasted to grow by 14% annually. In this context, identifying stocks that may be undervalued involves looking for companies with strong fundamentals and growth potential that are not fully reflected in their current stock prices.",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8271",
+                "source": "Simply Wall St.",
+                "ticker": "CDE",
+                "title": "Three Stocks That May Be Undervalued In April 2025",
+                "url": "https://finance.yahoo.com/news/three-stocks-may-undervalued-april-113750291.html"
+            }
+        ],
+        "avgScore": 0.8271,
+        "pctChange": -0.013267064305086571
+    },
     "4 9 2025": {
         "importantArticles": [
             {
@@ -123,12 +149,12 @@
         "avgScore": 0.7906,
         "pctChange": -0.0394321757071179
     },
-    "coef": -0.6000000000000001,
-    "avgCoef": 0.007636201297005835,
+    "coef": 0.19999999999999998,
+    "avgCoef": -0.024222180357999303,
     "similar": {
-        "HTZ": 0.7999999999999999,
-        "PBR": 0.39999999999999997,
-        "RXRX": 0.39999999999999997,
-        "PFE": 0.19999999999999998
+        "RXRX": 0.7,
+        "BBD": 0.6,
+        "SOUN": 0.6,
+        "HPE": 0.49999999999999994
     }
 }

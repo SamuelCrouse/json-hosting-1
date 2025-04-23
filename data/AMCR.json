@@ -43,7 +43,7 @@
             }
         ],
         "avgScore": -0.01185,
-        "pctChange": -0.003127672544964595
+        "pctChange": -0.006799218745245968
     },
     "4 14 2025": {
         "importantArticles": [
@@ -235,32 +235,6 @@
         "avgScore": 0.8979,
         "pctChange": -0.036572564154281194
     },
-    "4 1 2025": {
-        "importantArticles": [
-            {
-                "headline": "We recently compiled a list of the 10 Best Stocks Under $10 to Buy Now. In this article, we are going to take a look at where Amcor plc (NYSE:AMCR) stands against the other stocks under $10. On March 28, Friday, US stocks declined as Wall Street continued to struggle with President Trump\u2019s trade war [\u2026]",
-                "publication_date": "2025-04-01T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.25",
-                "source": "Insider Monkey",
-                "ticker": "AMCR",
-                "title": "Is Amcor plc (AMCR) The Best Stock Under $10 to Buy Now?",
-                "url": "https://finance.yahoo.com/news/amcor-plc-amcr-best-stock-193847249.html"
-            },
-            {
-                "headline": "We recently compiled a list of the 10 Best Stocks Under $10 to Buy Now. In this article, we are going to take a look at where Amcor plc (NYSE:AMCR) stands against the other stocks under $10. On March 28, Friday, US stocks declined as Wall Street continued to struggle with President Trump\u2019s trade war [\u2026]",
-                "publication_date": "2025-04-01T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.25",
-                "source": "Insider Monkey",
-                "ticker": "AMCR",
-                "title": "Is Amcor plc (AMCR) The Best Stock Under $10 to Buy Now?",
-                "url": "https://finance.yahoo.com/news/amcor-plc-amcr-best-stock-193847249.html"
-            }
-        ],
-        "avgScore": -0.25,
-        "pctChange": -0.0010193912797229697
-    },
     "3 31 2025": {
         "importantArticles": [
             {
@@ -274,6 +248,26 @@
                 "url": "https://finance.yahoo.com/news/hitting-plateau-circular-packaging-designers-111500840.html"
             },
             {
+                "headline": "We recently compiled a list of the 10 Best Stocks Under $10 to Buy Now. In this article, we are going to take a look at where Amcor plc (NYSE:AMCR) stands against the other stocks under $10. On March 28, Friday, US stocks declined as Wall Street continued to struggle with President Trump\u2019s trade war [\u2026]",
+                "publication_date": "2025-03-31T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.25",
+                "source": "Insider Monkey",
+                "ticker": "AMCR",
+                "title": "Is Amcor plc (AMCR) The Best Stock Under $10 to Buy Now?",
+                "url": "https://finance.yahoo.com/news/amcor-plc-amcr-best-stock-193847249.html"
+            },
+            {
+                "headline": "We recently compiled a list of the 10 Best Stocks Under $10 to Buy Now. In this article, we are going to take a look at where Amcor plc (NYSE:AMCR) stands against the other stocks under $10. On March 28, Friday, US stocks declined as Wall Street continued to struggle with President Trump\u2019s trade war [\u2026]",
+                "publication_date": "2025-03-31T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.25",
+                "source": "Insider Monkey",
+                "ticker": "AMCR",
+                "title": "Is Amcor plc (AMCR) The Best Stock Under $10 to Buy Now?",
+                "url": "https://finance.yahoo.com/news/amcor-plc-amcr-best-stock-193847249.html"
+            },
+            {
                 "headline": "Many companies have targets to make 100% of their packaging recyclable, reusable or compostable by 2025. Now, as they face the hardest categories to transform, some are weighing whether it\u2019s feasible.",
                 "publication_date": "2025-03-31T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -284,7 +278,7 @@
                 "url": "https://finance.yahoo.com/news/hitting-plateau-circular-packaging-designers-111500840.html"
             }
         ],
-        "avgScore": 0.0,
+        "avgScore": -0.125,
         "pctChange": 0.01134026933139662
     },
     "3 28 2025": {
@@ -417,12 +411,12 @@
         "avgScore": 0.9062,
         "pctChange": -0.01151838828844024
     },
-    "coef": -0.14486084720331321,
-    "avgCoef": -0.017903633131013084,
+    "coef": -0.21127284456119963,
+    "avgCoef": 0.006176384799944806,
     "similar": {
-        "MSTR": 0.4763693244570493,
-        "BP": 0.3872241877165488,
-        "ERIC": 0.35936633248514244,
-        "T": 0.3537947614388612
+        "STLA": 0.521139683250959,
+        "MSTR": 0.42254568912239926,
+        "LYG": 0.3521214076019994,
+        "ADT": 0.3380365512979194
     }
 }

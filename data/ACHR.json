@@ -45,32 +45,6 @@
         "avgScore": -0.47275,
         "pctChange": 0.01662054929132552
     },
-    "4 21 2025": {
-        "importantArticles": [
-            {
-                "headline": "Archer Aviation (NYSE: ACHR) is working to create a business around a vertical-lift short-haul aircraft.  The main goal has long been to create what amounts to an air taxi business.  What does Archer Aviation do?",
-                "publication_date": "2025-04-21T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4939",
-                "source": "Motley Fool",
-                "ticker": "ACHR",
-                "title": "Is This Opportunity a Game Changer for Archer Aviation?",
-                "url": "https://finance.yahoo.com/news/opportunity-game-changer-archer-aviation-093500651.html"
-            },
-            {
-                "headline": "Archer Aviation (NYSE: ACHR) is working to create a business around a vertical-lift short-haul aircraft.  The main goal has long been to create what amounts to an air taxi business.  What does Archer Aviation do?",
-                "publication_date": "2025-04-21T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4939",
-                "source": "Motley Fool",
-                "ticker": "ACHR",
-                "title": "Is This Opportunity a Game Changer for Archer Aviation?",
-                "url": "https://finance.yahoo.com/news/opportunity-game-changer-archer-aviation-093500651.html"
-            }
-        ],
-        "avgScore": 0.4939,
-        "pctChange": 0.028011245075938322
-    },
     "4 17 2025": {
         "importantArticles": [
             {
@@ -195,37 +169,77 @@
         "avgScore": 0.6908,
         "pctChange": 0.16093745587859368
     },
-    "4 3 2025": {
-        "importantArticles": [
-            {
-                "headline": "Commuter air travel has always been something of a pipe dream. While small airfields and heliports capable of operating light aircraft and helicopters do exist, and those aircraft can easily carry 2 to 6 passengers with luggage, the costs have generally kept short-hop aerial commuting out of reach for the masses. That is beginning to change with the advent of electric vertical take-off and landing aircraft (eVTOLs). New breakthroughs in areas such as battery technology and lifespan, air traffic",
-                "publication_date": "2025-04-03T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7269",
-                "source": "TipRanks",
-                "ticker": "ACHR",
-                "title": "Archer and Joby: Cantor Pounds the Table on These eVTOL Stocks",
-                "url": "https://finance.yahoo.com/news/archer-joby-cantor-pounds-table-095858995.html"
-            },
-            {
-                "headline": "Commuter air travel has always been something of a pipe dream. While small airfields and heliports capable of operating light aircraft and helicopters do exist, and those aircraft can easily carry 2 to 6 passengers with luggage, the costs have generally kept short-hop aerial commuting out of reach for the masses. That is beginning to change with the advent of electric vertical take-off and landing aircraft (eVTOLs). New breakthroughs in areas such as battery technology and lifespan, air traffic",
-                "publication_date": "2025-04-03T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7269",
-                "source": "TipRanks",
-                "ticker": "ACHR",
-                "title": "Archer and Joby: Cantor Pounds the Table on These eVTOL Stocks",
-                "url": "https://finance.yahoo.com/news/archer-joby-cantor-pounds-table-095858995.html"
-            }
-        ],
-        "avgScore": 0.7269,
-        "pctChange": -0.10662827692420797
-    },
     "4 2 2025": {
         "importantArticles": [
             {
-                "headline": "Of the many emerging technologies on the horizon, the most exciting ones to many investors is electric vertical takeoff and landing vehicles (eVTOL).  Of the two stocks, Archer Aviation seems to be getting more interest from investors.  Shares of Archer Aviation stock soared in the wake of President Trump's election as investors seemed to bet that deregulation in his administration would create an easier path to commercialization.",
+                "headline": "Commuter air travel has always been something of a pipe dream. While small airfields and heliports capable of operating light aircraft and helicopters do exist, and those aircraft can easily carry 2 to 6 passengers with luggage, the costs have generally kept short-hop aerial commuting out of reach for the masses. That is beginning to change with the advent of electric vertical take-off and landing aircraft (eVTOLs). New breakthroughs in areas such as battery technology and lifespan, air traffic",
                 "publication_date": "2025-04-02T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7269",
+                "source": "TipRanks",
+                "ticker": "ACHR",
+                "title": "Archer and Joby: Cantor Pounds the Table on These eVTOL Stocks",
+                "url": "https://finance.yahoo.com/news/archer-joby-cantor-pounds-table-095858995.html"
+            },
+            {
+                "headline": "Archer Aviation (NYSE:ACHR) recently secured significant partnerships with Ethiopian Airlines and Palantir Technologies, aiming to expand the deployment of its Midnight aircraft and enhance AI-driven aviation technologies. Despite these promising developments, Archer's stock experienced a price decline of 20% over the last month. This price movement occurred amid a volatile market environment concerned with new tariff announcements and broader economic uncertainties. In March, the S&P 500 and...",
+                "publication_date": "2025-04-02T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.2828",
+                "source": "Simply Wall St.",
+                "ticker": "ACHR",
+                "title": "Archer Aviation (NYSE:ACHR) Partners With Ethiopian Airlines Despite March's 20% Stock Dip",
+                "url": "https://finance.yahoo.com/news/archer-aviation-nyse-achr-partners-180404298.html"
+            },
+            {
+                "headline": "We recently published a list of Why These Defense Stocks Are Declining This Week. In this article, we will take a look at where Archer Aviation Inc. (NYSE:ACHR) stands against other stocks that are declining this week. Defense stocks across the world are witnessing an unprecedented bull run and soaring to new heights as European [\u2026]",
+                "publication_date": "2025-04-02T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.25",
+                "source": "Insider Monkey",
+                "ticker": "ACHR",
+                "title": "Why Archer Aviation (ACHR) Declined Last Week?",
+                "url": "https://finance.yahoo.com/news/why-archer-aviation-achr-declined-131852796.html"
+            },
+            {
+                "headline": "We recently published a list of Why These Defense Stocks Are Declining This Week. In this article, we will take a look at where Archer Aviation Inc. (NYSE:ACHR) stands against other stocks that are declining this week. Defense stocks across the world are witnessing an unprecedented bull run and soaring to new heights as European [\u2026]",
+                "publication_date": "2025-04-02T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.25",
+                "source": "Insider Monkey",
+                "ticker": "ACHR",
+                "title": "Why Archer Aviation (ACHR) Declined Last Week?",
+                "url": "https://finance.yahoo.com/news/why-archer-aviation-achr-declined-131852796.html"
+            },
+            {
+                "headline": "Archer Aviation (NYSE:ACHR) recently secured significant partnerships with Ethiopian Airlines and Palantir Technologies, aiming to expand the deployment of its Midnight aircraft and enhance AI-driven aviation technologies. Despite these promising developments, Archer's stock experienced a price decline of 20% over the last month. This price movement occurred amid a volatile market environment concerned with new tariff announcements and broader economic uncertainties. In March, the S&P 500 and...",
+                "publication_date": "2025-04-02T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.2828",
+                "source": "Simply Wall St.",
+                "ticker": "ACHR",
+                "title": "Archer Aviation (NYSE:ACHR) Partners With Ethiopian Airlines Despite March's 20% Stock Dip",
+                "url": "https://finance.yahoo.com/news/archer-aviation-nyse-achr-partners-180404298.html"
+            },
+            {
+                "headline": "Commuter air travel has always been something of a pipe dream. While small airfields and heliports capable of operating light aircraft and helicopters do exist, and those aircraft can easily carry 2 to 6 passengers with luggage, the costs have generally kept short-hop aerial commuting out of reach for the masses. That is beginning to change with the advent of electric vertical take-off and landing aircraft (eVTOLs). New breakthroughs in areas such as battery technology and lifespan, air traffic",
+                "publication_date": "2025-04-02T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7269",
+                "source": "TipRanks",
+                "ticker": "ACHR",
+                "title": "Archer and Joby: Cantor Pounds the Table on These eVTOL Stocks",
+                "url": "https://finance.yahoo.com/news/archer-joby-cantor-pounds-table-095858995.html"
+            }
+        ],
+        "avgScore": 0.4199,
+        "pctChange": -0.03611107762948878
+    },
+    "4 1 2025": {
+        "importantArticles": [
+            {
+                "headline": "Of the many emerging technologies on the horizon, the most exciting ones to many investors is electric vertical takeoff and landing vehicles (eVTOL).  Of the two stocks, Archer Aviation seems to be getting more interest from investors.  Shares of Archer Aviation stock soared in the wake of President Trump's election as investors seemed to bet that deregulation in his administration would create an easier path to commercialization.",
+                "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.9167",
                 "source": "Motley Fool",
@@ -234,48 +248,8 @@
                 "url": "https://finance.yahoo.com/news/archer-aviation-survive-recession-081400432.html"
             },
             {
-                "headline": "Archer Aviation (NYSE:ACHR) recently secured significant partnerships with Ethiopian Airlines and Palantir Technologies, aiming to expand the deployment of its Midnight aircraft and enhance AI-driven aviation technologies. Despite these promising developments, Archer's stock experienced a price decline of 20% over the last month. This price movement occurred amid a volatile market environment concerned with new tariff announcements and broader economic uncertainties. In March, the S&P 500 and...",
-                "publication_date": "2025-04-02T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.2828",
-                "source": "Simply Wall St.",
-                "ticker": "ACHR",
-                "title": "Archer Aviation (NYSE:ACHR) Partners With Ethiopian Airlines Despite March's 20% Stock Dip",
-                "url": "https://finance.yahoo.com/news/archer-aviation-nyse-achr-partners-180404298.html"
-            },
-            {
-                "headline": "We recently published a list of Why These Defense Stocks Are Declining This Week. In this article, we will take a look at where Archer Aviation Inc. (NYSE:ACHR) stands against other stocks that are declining this week. Defense stocks across the world are witnessing an unprecedented bull run and soaring to new heights as European [\u2026]",
-                "publication_date": "2025-04-02T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.25",
-                "source": "Insider Monkey",
-                "ticker": "ACHR",
-                "title": "Why Archer Aviation (ACHR) Declined Last Week?",
-                "url": "https://finance.yahoo.com/news/why-archer-aviation-achr-declined-131852796.html"
-            },
-            {
-                "headline": "We recently published a list of Why These Defense Stocks Are Declining This Week. In this article, we will take a look at where Archer Aviation Inc. (NYSE:ACHR) stands against other stocks that are declining this week. Defense stocks across the world are witnessing an unprecedented bull run and soaring to new heights as European [\u2026]",
-                "publication_date": "2025-04-02T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.25",
-                "source": "Insider Monkey",
-                "ticker": "ACHR",
-                "title": "Why Archer Aviation (ACHR) Declined Last Week?",
-                "url": "https://finance.yahoo.com/news/why-archer-aviation-achr-declined-131852796.html"
-            },
-            {
-                "headline": "Archer Aviation (NYSE:ACHR) recently secured significant partnerships with Ethiopian Airlines and Palantir Technologies, aiming to expand the deployment of its Midnight aircraft and enhance AI-driven aviation technologies. Despite these promising developments, Archer's stock experienced a price decline of 20% over the last month. This price movement occurred amid a volatile market environment concerned with new tariff announcements and broader economic uncertainties. In March, the S&P 500 and...",
-                "publication_date": "2025-04-02T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.2828",
-                "source": "Simply Wall St.",
-                "ticker": "ACHR",
-                "title": "Archer Aviation (NYSE:ACHR) Partners With Ethiopian Airlines Despite March's 20% Stock Dip",
-                "url": "https://finance.yahoo.com/news/archer-aviation-nyse-achr-partners-180404298.html"
-            },
-            {
                 "headline": "Of the many emerging technologies on the horizon, the most exciting ones to many investors is electric vertical takeoff and landing vehicles (eVTOL).  Of the two stocks, Archer Aviation seems to be getting more interest from investors.  Shares of Archer Aviation stock soared in the wake of President Trump's election as investors seemed to bet that deregulation in his administration would create an easier path to commercialization.",
-                "publication_date": "2025-04-02T00:00:00.000Z",
+                "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.9167",
                 "source": "Motley Fool",
@@ -284,8 +258,8 @@
                 "url": "https://finance.yahoo.com/news/archer-aviation-survive-recession-081400432.html"
             }
         ],
-        "avgScore": 0.4831666666666667,
-        "pctChange": -0.03611107762948878
+        "avgScore": 0.9167,
+        "pctChange": 0.03448272554637248
     },
     "3 31 2025": {
         "importantArticles": [
@@ -411,12 +385,12 @@
         "avgScore": 0.34,
         "pctChange": -0.015677529511573526
     },
-    "coef": -0.2517482517482518,
-    "avgCoef": 0.02756173899473275,
+    "coef": 0.08181818181818183,
+    "avgCoef": -0.013789667373943366,
     "similar": {
-        "LCID": 0.4825174825174825,
-        "NKE": 0.4125874125874127,
-        "CMG": 0.3636363636363637,
-        "RIVN": 0.3356643356643357
+        "CMG": 0.6363636363636364,
+        "SMCI": 0.5090909090909091,
+        "TSLA": 0.4090909090909091,
+        "HIMS": 0.3727272727272728
     }
 }

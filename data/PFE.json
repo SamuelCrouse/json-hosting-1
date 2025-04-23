@@ -63,7 +63,7 @@
             }
         ],
         "avgScore": 0.1105875,
-        "pctChange": -0.00021510097605103077
+        "pctChange": -0.020188846767389856
     },
     "4 22 2025": {
         "importantArticles": [
@@ -129,7 +129,7 @@
             }
         ],
         "avgScore": 0.24327499999999996,
-        "pctChange": 0.01087434196262528
+        "pctChange": -0.009320949197563301
     },
     "4 21 2025": {
         "importantArticles": [
@@ -230,6 +230,16 @@
                 "url": "https://finance.yahoo.com/news/pharma-stock-roundup-j-js-131500764.html"
             },
             {
+                "headline": "The Biden administration is reportedly in talks with vaccine makers Moderna (MRNA) and Pfizer (PFE) to develop bird flu vaccines over increasing fears of widespread transmission of the infection.",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.6597",
+                "source": "Zacks",
+                "ticker": "PFE",
+                "title": "Vaccine Stocks Rise on Growing Threat of Bird Flu Infections",
+                "url": "https://finance.yahoo.com/news/vaccine-stocks-rise-growing-threat-150800194.html"
+            },
+            {
                 "headline": "The U.S. CDC's Advisory Committee recommends the use of GSK and Pfizer's RSV vaccines in adults aged 50-59 who are at high risk of severe RSV disease.",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -248,34 +258,14 @@
                 "ticker": "PFE",
                 "title": "Pharma Stock Roundup: J&J's Q1 Results, PFE's Obesity Setback",
                 "url": "https://finance.yahoo.com/news/pharma-stock-roundup-j-js-131500764.html"
-            },
-            {
-                "headline": "NEW YORK, April 16, 2025--Pfizer Inc. (NYSE: PFE) announced today that the U.S. Centers for Disease Control and Prevention\u2019s (CDC) Advisory Committee on Immunization Practices (ACIP) voted to expand its recommendation for the use of respiratory syncytial virus (RSV) vaccines approved for adults 50-59 years of age at increased risk of RSV-associated lower respiratory tract disease (LRTD). This includes ABRYSVO\u00ae (Respiratory Syncytial Virus Vaccine), which in October 2024, the U.S. Food and Drug A",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4404",
-                "source": "Business Wire",
-                "ticker": "PFE",
-                "title": "ACIP Votes to Expand Recommendation for Pfizer\u2019s RSV Vaccine ABRYSVO\u00ae to Include Adults Aged 50 to 59 at Increased Risk of Disease",
-                "url": "https://finance.yahoo.com/news/acip-votes-expand-recommendation-pfizer-201500828.html"
             }
         ],
-        "avgScore": 0.10025,
+        "avgScore": -0.05173999999999999,
         "pctChange": -0.004516643038745885
     },
     "4 16 2025": {
         "importantArticles": [
             {
-                "headline": "Shares of Viking Therapeutics (VKTX) and Structure Therapeutics (GPCR) are on the rise on Monday after Pfizer (PFE) announced its decision to discontinue development of danuglipron, an oral glucagon-like peptide-1 receptor agonist, which was being investigated for chronic weight management. While Morgan Stanley predicts \u201climited reaction\u201d in Pfizer\u2019s shares following the news, JPMorgan tells investors that the decision is \u201cmostly a positive\u201d for Structure and Viking, both developing drugs in the",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.5267",
-                "source": "TipRanks",
-                "ticker": "PFE",
-                "title": "Smaller obesity drugmakers jump after Pfizer scraps weight-loss pill",
-                "url": "https://finance.yahoo.com/news/smaller-obesity-drugmakers-jump-pfizer-143525028.html"
-            },
-            {
                 "headline": "On Tuesday, investors continued to snap up shares of big pharmaceutical company Pfizer (NYSE: PFE).  On Tuesday, Pfizer's stock closed the day 1.5% higher, providing a pleasant contrast to the S&P 500 index's 0.2% dip.  Tuesday was a relatively uneventful news day for Pfizer, especially following the pharmaceutical giant's disclosure on Monday that it halted the development of its investigational weight loss drug danuglipron.",
                 "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -294,16 +284,6 @@
                 "ticker": "PFE",
                 "title": "Pfizer Halts Obesity Pill Development Amid Safety Concerns",
                 "url": "https://finance.yahoo.com/news/pfizer-halts-obesity-pill-development-165700605.html"
-            },
-            {
-                "headline": "BofA analyst Tim Anderson notes Pfizer (PFE) announced danuglipron, an oral GLP-1 obesity, is being discontinued, following a case of liver injury seen in the phase 1 study. The firm points out that it has argued that this program has received almost too much attention \u2013 not because obesity isn\u2019t important, but because this was only phase 1 data. Without danuglipron, Pfizer\u2019s obesity pipeline now consists of a GIP receptor antagonist in phase 2 and a phase 1 oral GLP-1 in T2D with Nxera Pharma.",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.7269",
-                "source": "TipRanks",
-                "ticker": "PFE",
-                "title": "BofA keeps Neutral on Pfizer after danuglipron failure as core thesis unchanged",
-                "url": "https://finance.yahoo.com/news/bofa-keeps-neutral-pfizer-danuglipron-150532621.html"
             },
             {
                 "headline": "PFE's decision to scrap the development of danuglipron comes after a study participant develops potential drug-induced liver injury.",
@@ -326,7 +306,7 @@
                 "url": "https://finance.yahoo.com/news/why-pfizer-stock-topped-market-225308409.html"
             }
         ],
-        "avgScore": -0.031950000000000006,
+        "avgScore": 0.03620000000000001,
         "pctChange": 0.004537135660944737
     },
     "4 15 2025": {
@@ -362,14 +342,14 @@
                 "url": "https://finance.yahoo.com/news/why-viking-therapeutics-inc-vktx-044028854.html"
             },
             {
-                "headline": "Pfizer tanks after liver injury kills obesity pill hopes--Lilly, Novo, and Viking surge as investors jump ship",
+                "headline": "BofA analyst Tim Anderson notes Pfizer (PFE) announced danuglipron, an oral GLP-1 obesity, is being discontinued, following a case of liver injury seen in the phase 1 study. The firm points out that it has argued that this program has received almost too much attention \u2013 not because obesity isn\u2019t important, but because this was only phase 1 data. Without danuglipron, Pfizer\u2019s obesity pipeline now consists of a GIP receptor antagonist in phase 2 and a phase 1 oral GLP-1 in T2D with Nxera Pharma.",
                 "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.743",
-                "source": "GuruFocus.com",
+                "sentimentScore": "-0.7269",
+                "source": "TipRanks",
                 "ticker": "PFE",
-                "title": "Pfizer's $130B Weight-Loss Dream Just Collapsed",
-                "url": "https://finance.yahoo.com/news/pfizers-130b-weight-loss-dream-151831937.html"
+                "title": "BofA keeps Neutral on Pfizer after danuglipron failure as core thesis unchanged",
+                "url": "https://finance.yahoo.com/news/bofa-keeps-neutral-pfizer-danuglipron-150532621.html"
             },
             {
                 "headline": "(Bloomberg) -- Supply Lines is a daily newsletter that tracks global trade. Sign up here.Most Read from BloombergHow Did This Suburb Figure Out Mass Transit?The Secret Formula for Faster TrainsEven Oslo Has an Air Quality ProblemNYC Tourist Helicopter Crashes in Hudson River, Killing SixLisbon Mayor Wants Companies to Help Fix City\u2019s Housing ShortagePresident Donald Trump\u2019s administration pressed forward with plans to impose tariffs on semiconductor and pharmaceutical imports by initiating trade",
@@ -382,17 +362,17 @@
                 "url": "https://finance.yahoo.com/news/trump-announces-chips-drug-probes-204108780.html"
             },
             {
-                "headline": "Pfizer  is halting development of its experimental weight-loss pill, as the booming obesity drug market remains out of reach for the drug giant.  The company said Monday the stoppage comes after it reviewed clinical data and a study subject developed a liver injury that might have been caused by the drug, called danuglipron.  Halting the drug\u2019s development means  Pfizer  still is unable to get a cut, for now, of the white-hot obesity market, which analysts say could reach $100 billion by the end of the decade.",
+                "headline": "Pfizer (PFE) said Monday it will no longer develop its investigational pill for weight loss after de",
                 "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.5719",
-                "source": "The Wall Street Journal",
+                "sentimentScore": "-0.5423",
+                "source": "MT Newswires",
                 "ticker": "PFE",
-                "title": "Pfizer Halts Development of Weight-Loss Pill",
-                "url": "https://finance.yahoo.com/m/b3673b54-a975-32c1-a871-82025800a9e7/pfizer-halts-development-of.html"
+                "title": "Pfizer to Discontinue Development of Experimental Weight-Loss Pill Danuglipron",
+                "url": "https://finance.yahoo.com/news/pfizer-discontinue-development-experimental-weight-171908293.html"
             }
         ],
-        "avgScore": -0.028020000000000007,
+        "avgScore": 0.0948733333333333,
         "pctChange": -0.017825294519186234
     },
     "4 14 2025": {
@@ -428,6 +408,16 @@
                 "url": "https://finance.yahoo.com/news/pfizer-discontinues-glp-1-pill-trial-stock-trades-flat-135330797.html"
             },
             {
+                "headline": "Pfizer tanks after liver injury kills obesity pill hopes--Lilly, Novo, and Viking surge as investors jump ship",
+                "publication_date": "2025-04-14T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.743",
+                "source": "GuruFocus.com",
+                "ticker": "PFE",
+                "title": "Pfizer's $130B Weight-Loss Dream Just Collapsed",
+                "url": "https://finance.yahoo.com/news/pfizers-130b-weight-loss-dream-151831937.html"
+            },
+            {
                 "headline": "Pfizer Inc. will stop developing an obesity pill after the treatment was linked to a potentially drug-related liver injury in a clinical trial patient. The company won't advance the once-daily medicine into the final stage of testing and will instead invest in earlier-stage treatments for obesity. Damian Garde reports on Bloomberg Television.",
                 "publication_date": "2025-04-14T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -438,40 +428,30 @@
                 "url": "https://finance.yahoo.com/video/pfizer-abandons-obesity-pill-trial-140656016.html"
             },
             {
-                "headline": "Pfizer said it will stop development of an oral weight-loss pill after a participant taking the drug in a clinical trial experienced a \"liver injury.\"",
+                "headline": "Pfizer  is halting development of its experimental weight-loss pill, as the booming obesity drug market remains out of reach for the drug giant.  The company said Monday the stoppage comes after it reviewed clinical data and a study subject developed a liver injury that might have been caused by the drug, called danuglipron.  Halting the drug\u2019s development means  Pfizer  still is unable to get a cut, for now, of the white-hot obesity market, which analysts say could reach $100 billion by the end of the decade.",
                 "publication_date": "2025-04-14T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.296",
-                "source": "Investopedia",
+                "sentimentScore": "-0.5719",
+                "source": "The Wall Street Journal",
                 "ticker": "PFE",
-                "title": "Pfizer Halts Development of Obesity Drug After Patient Sustains 'Liver Injury'",
-                "url": "https://finance.yahoo.com/news/pfizer-halts-development-obesity-drug-141357676.html"
-            },
-            {
-                "headline": "Signs of potential liver damage in a study participant led the company to abandon danuglipron, a drug it hoped would help it break into the highly lucrative market for obesity drugs.",
-                "publication_date": "2025-04-14T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.2023",
-                "source": "BioPharma Dive",
-                "ticker": "PFE",
-                "title": "Safety worries spur Pfizer to drop another obesity pill",
-                "url": "https://finance.yahoo.com/news/safety-worries-spur-pfizer-drop-120500830.html"
+                "title": "Pfizer Halts Development of Weight-Loss Pill",
+                "url": "https://finance.yahoo.com/m/b3673b54-a975-32c1-a871-82025800a9e7/pfizer-halts-development-of.html"
             }
         ],
-        "avgScore": 0.08299999999999999,
+        "avgScore": -0.07962941176470588,
         "pctChange": 0.014466531766881651
     },
     "4 11 2025": {
         "importantArticles": [
             {
-                "headline": "NEW YORK, April 10, 2025--Pfizer Inc. (NYSE: PFE) announced today that its shareholders and the general public are invited to access its virtual 2025 Annual Meeting of Shareholders at 9:00 a.m. EDT on Thursday, April 24, 2025. Pfizer has designed the virtual Annual Meeting to ensure that its shareholders who participate will be afforded comparable rights and opportunities to participate as they would at an in-person meeting.",
+                "headline": "Shares of Novavax (NVAX) are under pressure on Thursday following Robert F. Kennedy Jr.\u2019s comments on the company\u2019s COVID shot approval delay. The Secretary of Health and Human Services pointed to the vaccine\u2019s single-antigen composition as the reason for the push back, adding that the FDA is \u201cshifting our priorities to multiple-antigen vaccines.\u201d SHIFTING PRIORITIES: The Food and Drug Administration is sitting on the decision to grant full approval for Novavax COVID-19 shot. In an interview wit",
                 "publication_date": "2025-04-11T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.6369",
-                "source": "Business Wire",
+                "sentimentScore": "0.7506",
+                "source": "TipRanks",
                 "ticker": "PFE",
-                "title": "Pfizer Invites Shareholders to Attend Virtual 2025 Annual Meeting of Shareholders on April 24",
-                "url": "https://finance.yahoo.com/news/pfizer-invites-shareholders-attend-virtual-150000793.html"
+                "title": "Novavax slides after RFK Jr. casts doubts about COVID vaccine",
+                "url": "https://finance.yahoo.com/news/novavax-slides-rfk-jr-casts-152014610.html"
             },
             {
                 "headline": "A number of stocks fell in the afternoon session after stocks gave back some of the gains from the previous day as the White House clarified the tariffs on imports from China would add up to 145%, while the baseline 10% tariffs remained in place for most countries. This reminded investors that the global trade environment remained volatile, limiting the potential for sustained market gains.",
@@ -524,7 +504,7 @@
                 "url": "https://finance.yahoo.com/news/know-beyond-why-pfizer-inc-130014887.html"
             }
         ],
-        "avgScore": 0.07592857142857144,
+        "avgScore": 0.10753333333333337,
         "pctChange": 0.009584709871465072
     },
     "4 10 2025": {
@@ -540,34 +520,24 @@
                 "url": "https://finance.yahoo.com/news/pfizer-stock-falls-52-week-134400344.html"
             },
             {
-                "headline": "Catalysts host Madison Mills and Trader Talk podcast host Kenny Polcari take a look at some of the day's top trending stocks. Apple (AAPL) is in focus after Microsoft (MSFT) replaced Apple as the most valuable company. Alibaba (BABA) reverses earlier gains after US tariffs went into effect. Drugmaker stocks, including Pfizer (PFE), Merck (MRK), and Eli Lilly (LLY), are falling after President Trump announced that pharmaceutical tariffs may be on the way. To watch more expert insights and analysis on the latest market action, check out more Catalysts here.",
+                "headline": "NEW YORK, April 10, 2025--Pfizer Inc. (NYSE: PFE) announced today that its shareholders and the general public are invited to access its virtual 2025 Annual Meeting of Shareholders at 9:00 a.m. EDT on Thursday, April 24, 2025. Pfizer has designed the virtual Annual Meeting to ensure that its shareholders who participate will be afforded comparable rights and opportunities to participate as they would at an in-person meeting.",
                 "publication_date": "2025-04-10T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.7178",
-                "source": "Yahoo Finance Video",
+                "sentimentScore": "0.6369",
+                "source": "Business Wire",
                 "ticker": "PFE",
-                "title": "Apple, Alibaba, drugmaker stocks: Trending Tickers",
-                "url": "https://finance.yahoo.com/video/apple-alibaba-drugmaker-stocks-trending-144322260.html"
+                "title": "Pfizer Invites Shareholders to Attend Virtual 2025 Annual Meeting of Shareholders on April 24",
+                "url": "https://finance.yahoo.com/news/pfizer-invites-shareholders-attend-virtual-150000793.html"
             },
             {
-                "headline": "Three companies recently announced progression in their clinical research for next-generation Covid-19 vaccines: INOVIO, Ocugen, and Pfizer.",
+                "headline": "Robert F. Kennedy Jr. is the new Health Secretary. From fluoride, vaccines and beef tallow, here's how he might \"go wild\" on biotech stocks.",
                 "publication_date": "2025-04-10T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
-                "source": "Clinical Trials Arena",
+                "source": "Investor's Business Daily",
                 "ticker": "PFE",
-                "title": "Next-generation Covid-19 vaccines currently being tested",
-                "url": "https://finance.yahoo.com/news/next-generation-covid-19-vaccines-103050825.html"
-            },
-            {
-                "headline": "Catalysts host Madison Mills goes over some of the top stories of the day on this segment of Market Minute. Delta Air Lines (DAL) cut its full-year guidance as uncertainty around tariffs weighs on bookings. Walmart (WMT) walks back its first quarter profit guidance, citing tariff risks. Pharmaceutical stocks, including Pfizer (PFE), Novo Nordisk (NVO), and Eli Lilly (LLY), are under pressure after President Trump announced that there may be pharmaceutical tariffs underway. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
-                "publication_date": "2025-04-10T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.4767",
-                "source": "Yahoo Finance Video",
-                "ticker": "PFE",
-                "title": "Delta, Walmart, pharmaceutical stocks: Market Minute",
-                "url": "https://finance.yahoo.com/video/delta-walmart-pharmaceutical-stocks-market-151538726.html"
+                "title": "Trump Wants RFK Jr. To 'Go Wild' On Health Care. What This Means For Biotech Stocks.",
+                "url": "https://finance.yahoo.com/m/ad410584-ce11-3244-a597-6a1760bc9030/trump-wants-rfk-jr-to-go.html"
             },
             {
                 "headline": "General Motors, JD.com, Pfizer, StoneCo and Enersys have been highlighted in this Screen of The Week article.",
@@ -588,9 +558,19 @@
                 "ticker": "PFE",
                 "title": "Next-generation Covid-19 vaccines currently being tested",
                 "url": "https://finance.yahoo.com/news/next-generation-covid-19-vaccines-103050825.html"
+            },
+            {
+                "headline": "Robert F. Kennedy Jr. is the new Health Secretary. From fluoride, vaccines and beef tallow, here's how he might \"go wild\" on biotech stocks.",
+                "publication_date": "2025-04-10T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Investor's Business Daily",
+                "ticker": "PFE",
+                "title": "Trump Wants RFK Jr. To 'Go Wild' On Health Care. What This Means For Biotech Stocks.",
+                "url": "https://finance.yahoo.com/m/ad410584-ce11-3244-a597-6a1760bc9030/trump-wants-rfk-jr-to-go.html"
             }
         ],
-        "avgScore": 0.21272000000000002,
+        "avgScore": 0.29188000000000003,
         "pctChange": 0.01482166246237205
     },
     "4 9 2025": {
@@ -606,6 +586,16 @@
                 "url": "https://finance.yahoo.com/news/5-low-price-book-stocks-125800063.html"
             },
             {
+                "headline": "Catalysts host Madison Mills and Trader Talk podcast host Kenny Polcari take a look at some of the day's top trending stocks. Apple (AAPL) is in focus after Microsoft (MSFT) replaced Apple as the most valuable company. Alibaba (BABA) reverses earlier gains after US tariffs went into effect. Drugmaker stocks, including Pfizer (PFE), Merck (MRK), and Eli Lilly (LLY), are falling after President Trump announced that pharmaceutical tariffs may be on the way. To watch more expert insights and analysis on the latest market action, check out more Catalysts here.",
+                "publication_date": "2025-04-09T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7178",
+                "source": "Yahoo Finance Video",
+                "ticker": "PFE",
+                "title": "Apple, Alibaba, drugmaker stocks: Trending Tickers",
+                "url": "https://finance.yahoo.com/video/apple-alibaba-drugmaker-stocks-trending-144322260.html"
+            },
+            {
                 "headline": "If you're a dividend investor, now can be an ideal time to go bargain-hunting.  The stock market is in the midst of a broad sell-off, with investors dumping all types of stocks, both bad ones and good ones.  Three dividend stocks that are near their 52-week lows and which may make for solid income-generating investments are Pfizer (NYSE: PFE), Lockheed Martin (NYSE: LMT), and Rogers Communications (NYSE: RCI).",
                 "publication_date": "2025-04-09T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -614,16 +604,6 @@
                 "ticker": "PFE",
                 "title": "3 High-Yielding Dividend Stocks Near Their 52-Week Lows to Buy Right Now",
                 "url": "https://finance.yahoo.com/news/3-high-yielding-dividend-stocks-093200831.html"
-            },
-            {
-                "headline": "Pharma names whipsawed Wednesday after Trump said he would enact \"major\" tariffs on drug imports and then backed off his tariffs \u2014 for now.",
-                "publication_date": "2025-04-09T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0258",
-                "source": "Investor's Business Daily",
-                "ticker": "PFE",
-                "title": "Dow Jones, S&P 500 Pharma Names Recover After Trump Backs Off His Tariffs Plan",
-                "url": "https://finance.yahoo.com/m/be7d1b24-7c1e-38ff-91b2-281ea7807568/dow-jones-s-p-500-pharma.html"
             },
             {
                 "headline": "Stocks in drugmakers sold off globally after President Trump said tariffs on pharmaceutical imports will be unveiled shortly, signaling the industry could be next in line amid a trade war that is causing market turmoil.  AbbVie, Eli Lilly, Johnson & Johnson, Merck and Pfizer were all down at least 2.5% in Wednesday midday trading.  Denmark's Novo Nordisk, Switzerland's Novartis and the U.K.'s AstraZeneca and GSK fell 2% or more in the U.S.",
@@ -656,7 +636,7 @@
                 "url": "https://finance.yahoo.com/video/trump-says-pharmaceutical-tariffs-may-141157823.html"
             }
         ],
-        "avgScore": -0.22068,
+        "avgScore": -0.16380833333333333,
         "pctChange": -0.04001776912803975
     },
     "4 8 2025": {
@@ -725,32 +705,6 @@
         "avgScore": 0.386,
         "pctChange": 0.029761887087407044
     },
-    "4 7 2025": {
-        "importantArticles": [
-            {
-                "headline": "In mid-March here, I (Tom Yeung) wrote about three stocks to sell on an escalating trade war. President Donald Trump was ratcheting his tariff rhetoric, so we highlighted three import-reliant firms to sell: Deckers Outdoor Corp. (DECK) Abercrombie & Fitch Co. (ANF) Toll Brothers Inc. (TOL) That\u2019s because \u201ceggs in the same basket\u201d strategies cut both ways. During normal times, a firm like UGG boots maker Deckers saves millions by sourcing its sheepskin through just two Chinese tanneries. But much",
-                "publication_date": "2025-04-07T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.3071",
-                "source": "InvestorPlace",
-                "ticker": "PFE",
-                "title": "Sell or Buy? What Navellier Is Doing After \u2018Liberation Day.\u2019",
-                "url": "https://finance.yahoo.com/news/sell-buy-navellier-doing-liberation-160000304.html"
-            },
-            {
-                "headline": "In mid-March here, I (Tom Yeung) wrote about three stocks to sell on an escalating trade war. President Donald Trump was ratcheting his tariff rhetoric, so we highlighted three import-reliant firms to sell: Deckers Outdoor Corp. (DECK) Abercrombie & Fitch Co. (ANF) Toll Brothers Inc. (TOL) That\u2019s because \u201ceggs in the same basket\u201d strategies cut both ways. During normal times, a firm like UGG boots maker Deckers saves millions by sourcing its sheepskin through just two Chinese tanneries. But much",
-                "publication_date": "2025-04-07T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.3071",
-                "source": "InvestorPlace",
-                "ticker": "PFE",
-                "title": "Sell or Buy? What Navellier Is Doing After \u2018Liberation Day.\u2019",
-                "url": "https://finance.yahoo.com/news/sell-buy-navellier-doing-liberation-160000304.html"
-            }
-        ],
-        "avgScore": -0.3071,
-        "pctChange": -0.03490936975147238
-    },
     "4 4 2025": {
         "importantArticles": [
             {
@@ -794,6 +748,16 @@
                 "url": "https://finance.yahoo.com/m/9a6f7dfd-febf-37fb-912a-e0504d778fbc/is-pfizer-stock-a-sell-as-hhs.html"
             },
             {
+                "headline": "We recently published a list of Jim Cramer\u2019s Lightning Round: 8 Stocks in Focus. In this article, we are going to take a look at where Pfizer Inc. (NYSE:PFE) stands against other stocks that Jim Cramer discusses. Jim Cramer, host of Mad Money, discussed on Monday how investor sentiment surrounding tech stocks has shifted over [\u2026]",
+                "publication_date": "2025-04-04T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.4939",
+                "source": "Insider Monkey",
+                "ticker": "PFE",
+                "title": "Pfizer Inc. (PFE) \u2013 Jim Cramer Declares: \u2018Dead Money \u2013 Close the Casket!\u2019",
+                "url": "https://finance.yahoo.com/news/pfizer-inc-pfe-jim-cramer-144529049.html"
+            },
+            {
                 "headline": "(Reuters) -British pharmaceutical giant GlaxoSmithKline and rival Pfizer have agreed to end a lawsuit that alleged Pfizer's respiratory syncytial virus (RSV) vaccine Abrysvo violated GSK's patent rights in its competing RSV shot Arexvy, according to a Thursday filing in Delaware federal court.  GSK and Pfizer said in the filing that they would dismiss the case with prejudice, which means it cannot be refiled.  GSK, Pfizer and Moderna have developed RSV shots approved by the U.S. Food and Drug Administration, with GSK's Arexvy responsible for the majority of U.S. RSV vaccine sales.",
                 "publication_date": "2025-04-04T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -802,19 +766,9 @@
                 "ticker": "PFE",
                 "title": "GSK resolves patent lawsuit against Pfizer over RSV vaccines",
                 "url": "https://finance.yahoo.com/news/gsk-resolves-patent-lawsuit-against-220317477.html"
-            },
-            {
-                "headline": "Johnson & Johnson and Pfizer are part of the Zacks top Analyst Blog",
-                "publication_date": "2025-04-04T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.2023",
-                "source": "Zacks",
-                "ticker": "PFE",
-                "title": "The Zacks Analyst Blog Highlights Johnson & Johnson and Pfizer",
-                "url": "https://finance.yahoo.com/news/zacks-analyst-blog-highlights-johnson-130400151.html"
             }
         ],
-        "avgScore": -0.07330000000000002,
+        "avgScore": -0.15742000000000003,
         "pctChange": -0.01480192262740811
     },
     "4 3 2025": {
@@ -903,7 +857,7 @@
                 "source": "Reuters",
                 "ticker": "PFE",
                 "title": "Proxy adviser ISS recommends against Pfizer executive pay proposal",
-                "url": "https://finance.yahoo.com/news/proxy-adviser-iss-recommends-pfizer-131020223.html"
+                "url": "https://finance.yahoo.com/news/proxy-adviser-iss-recommends-pfizer-131020994.html"
             },
             {
                 "headline": "Finding stocks expected to beat quarterly earnings estimates becomes an easier task with our Zacks Earnings ESP.",
@@ -1084,14 +1038,14 @@
                 "url": "https://finance.yahoo.com/news/genmab-tivdak-approved-japan-advanced-093443945.html"
             },
             {
-                "headline": "The European Commission approves MRK's pneumococcal 21-valent conjugate vaccine, Capvaxive, for pneumococcal vaccination in adults.",
+                "headline": "(Update with Pfizer's response to a request for comment.) Pfizer (PFE) sold $20 billion of drugs",
                 "publication_date": "2025-03-28T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4019",
-                "source": "Zacks",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "MT Newswires",
                 "ticker": "PFE",
-                "title": "Merck Gets EC Nod for 21-Valent Pneumococcal Jab Capvaxive",
-                "url": "https://finance.yahoo.com/news/merck-gets-ec-nod-21-153400793.html"
+                "title": "Update: Sen. Ron Wyden Accuses Pfizer of Tax Dodging After Concluding Investigation",
+                "url": "https://finance.yahoo.com/news/sen-ron-wyden-accuses-pfizer-185224734.html"
             },
             {
                 "headline": "(Update with Pfizer's response to a request for comment.) Pfizer (PFE) sold $20 billion of drugs",
@@ -1104,16 +1058,6 @@
                 "url": "https://finance.yahoo.com/news/sen-ron-wyden-accuses-pfizer-185224734.html"
             },
             {
-                "headline": "The European Commission approves MRK's pneumococcal 21-valent conjugate vaccine, Capvaxive, for pneumococcal vaccination in adults.",
-                "publication_date": "2025-03-28T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4019",
-                "source": "Zacks",
-                "ticker": "PFE",
-                "title": "Merck Gets EC Nod for 21-Valent Pneumococcal Jab Capvaxive",
-                "url": "https://finance.yahoo.com/news/merck-gets-ec-nod-21-153400793.html"
-            },
-            {
                 "headline": "The approval is based on open-label Phase III innovaTV 301 clinical trial data.",
                 "publication_date": "2025-03-28T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -1122,9 +1066,19 @@
                 "ticker": "PFE",
                 "title": "Genmab\u2019s Tivdak approved in Japan for advanced cervical cancer",
                 "url": "https://finance.yahoo.com/news/genmab-tivdak-approved-japan-advanced-093443945.html"
+            },
+            {
+                "headline": "Health care stocks were higher late Thursday afternoon, with the NYSE Health Care Index up 0.3% and",
+                "publication_date": "2025-03-28T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7506",
+                "source": "MT Newswires",
+                "ticker": "PFE",
+                "title": "Sector Update: Health Care Stocks Advance Late Afternoon",
+                "url": "https://finance.yahoo.com/news/sector-health-care-stocks-advance-195816814.html"
             }
         ],
-        "avgScore": 0.4073,
+        "avgScore": 0.4091,
         "pctChange": 0.005156726411596922
     },
     "3 27 2025": {
@@ -1150,14 +1104,14 @@
                 "url": "https://finance.yahoo.com/m/7edf436c-1971-3b95-973d-6615a7f6abe3/pfizer-stock-slips-after.html"
             },
             {
-                "headline": "With its stock down 5.4% over the past month, it is easy to disregard Pfizer (NYSE:PFE). We, however decided to study...",
+                "headline": "The European Commission approves MRK's pneumococcal 21-valent conjugate vaccine, Capvaxive, for pneumococcal vaccination in adults.",
                 "publication_date": "2025-03-27T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.2023",
-                "source": "Simply Wall St.",
+                "sentimentScore": "0.4019",
+                "source": "Zacks",
                 "ticker": "PFE",
-                "title": "Is Pfizer Inc.'s (NYSE:PFE) Recent Price Movement Underpinned By Its Weak Fundamentals?",
-                "url": "https://finance.yahoo.com/news/pfizer-inc-nyse-pfe-recent-140013227.html"
+                "title": "Merck Gets EC Nod for 21-Valent Pneumococcal Jab Capvaxive",
+                "url": "https://finance.yahoo.com/news/merck-gets-ec-nod-21-153400793.html"
             },
             {
                 "headline": "Healthcare stocks have been out of vogue with investors since late 2022.  Myriad reasons underlie the negative sentiment toward the healthcare sector, but in some instances, this dour take isn't entirely warranted.  Pharmaceutical titan Pfizer (NYSE: PFE) is a case in point.",
@@ -1190,7 +1144,7 @@
                 "url": "https://finance.yahoo.com/news/market-chatter-us-prosecutors-investigate-123554313.html"
             }
         ],
-        "avgScore": 0.152425,
+        "avgScore": 0.18014444444444444,
         "pctChange": 0.007996755448241034
     },
     "3 26 2025": {
@@ -1371,12 +1325,12 @@
         "avgScore": 0.7254800000000001,
         "pctChange": -0.022570779126396365
     },
-    "coef": 0.09881422924901187,
-    "avgCoef": -0.03356612339352069,
+    "coef": 0.0025974025974025974,
+    "avgCoef": -0.019114911801175107,
     "similar": {
-        "PBR": 0.42970073404856013,
-        "INTC": 0.3754940711462451,
-        "CSCO": 0.36871823828345573,
-        "SNAP": 0.34613212874082444
+        "PBR": 0.503896103896104,
+        "CSCO": 0.37532467532467534,
+        "PDCO": 0.36828551191851894,
+        "AAPL": 0.34545454545454546
     }
 }

@@ -1,35 +1,111 @@
 {
+    "4 23 2025": {
+        "importantArticles": [
+            {
+                "headline": "We recently published a list of the 12 Best Stocks Under $100 to Buy According to Hedge Funds. In this article, we are going to take a look at where Advanced Micro Devices Inc. (NASDAQ:AMD) stands against other stocks under $100 to buy according to hedge funds. On April 21, Chris Davis of Davis Advisors [\u2026]",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7351",
+                "source": "Insider Monkey",
+                "ticker": "AMD",
+                "title": "Is Advanced Micro Devices Inc. (NASDAQ:AMD) the Best Stock Under $100 to Buy According to Hedge Funds?",
+                "url": "https://finance.yahoo.com/news/advanced-micro-devices-inc-nasdaq-142744469.html"
+            },
+            {
+                "headline": "The tariff-driven stock market sell-off has put the indexes into a correction phase, hitting artificial intelligence (AI) stocks hard.  Advanced Micro Devices (NASDAQ: AMD) and The Trade Desk (NASDAQ: TTD) are two stocks that are well positioned to experience such a recovery.  Initially, playing second fiddle to Nvidia in the AI accelerator market and the massive revenue declines in AMD's gaming and embedded segments hit this stock hard.",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7351",
+                "source": "Motley Fool",
+                "ticker": "AMD",
+                "title": "2 Artificial Intelligence (AI) Stocks That Could Soar in the Second Half of 2025",
+                "url": "https://finance.yahoo.com/news/2-artificial-intelligence-ai-stocks-084500564.html"
+            },
+            {
+                "headline": "Docker, Inc. has announced a significant advancement in its AI strategy with the launch of the Docker MCP Catalog and Docker MCP Toolkit, both built around the emerging Model Context Protocol (MCP). These new offerings aim to streamline AI tool development by integrating Docker's simplicity and security into the MCP ecosystem, allowing developers to easily discover and manage MCP tools through Docker Hub. By partnering with industry leaders such as Elastic, Heroku at Salesforce, and New...",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6808",
+                "source": "Simply Wall St.",
+                "ticker": "AMD",
+                "title": "AI Chips Today - Docker Advances AI Strategy With New MCP Tools Launch",
+                "url": "https://finance.yahoo.com/news/ai-chips-today-docker-advances-113746209.html"
+            },
+            {
+                "headline": "Intel stock rallied early Wednesday following a report that said the company is preparing to cut up to 20% of its workforce.",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.2732",
+                "source": "Yahoo Finance",
+                "ticker": "AMD",
+                "title": "Intel stock surges as chipmaker reportedly plans to cut 20% of workforce",
+                "url": "https://finance.yahoo.com/news/intel-stock-surges-as-chipmaker-reportedly-plans-to-cut-20-of-workforce-125743518.html"
+            },
+            {
+                "headline": "Investing in emerging industries like artificial intelligence (AI) can be risky.  Past technology booms have taught investors that not every company survives, and picking the winners and losers isn't easy.  Thankfully, there are several exchange-traded funds (ETFs) which can take the guesswork out of investing in the AI race, and one of them is the iShares Future AI and Tech ETF (NYSEMKT: ARTY).",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.0613",
+                "source": "Motley Fool",
+                "ticker": "AMD",
+                "title": "1 No-Brainer Artificial Intelligence (AI) ETF to Confidently Buy With $30 in 2025",
+                "url": "https://finance.yahoo.com/news/1-no-brainer-artificial-intelligence-091300034.html"
+            },
+            {
+                "headline": "In the closing of the recent trading day, Advanced Micro Devices (AMD) stood at $86.26, denoting a +0.82% change from the preceding trading day.",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.25",
+                "source": "Zacks",
+                "ticker": "AMD",
+                "title": "Advanced Micro Devices (AMD) Ascends But Remains Behind Market: Some Facts to Note",
+                "url": "https://finance.yahoo.com/news/advanced-micro-devices-amd-ascends-214516547.html"
+            }
+        ],
+        "avgScore": 0.38533749999999994,
+        "pctChange": -0.011265345982142858
+    },
     "4 22 2025": {
         "importantArticles": [
             {
-                "headline": "Big tech companies investing in artificial intelligence (AI) are requiring constant innovation in chip performance to make large language models and AI assistants smarter.  Demand for AI chips will only continue to grow, as companies develop fully autonomous cars and build humanoid robots that can work 24/7 in factories.  Now, tariffs and concerns over the economy are clouding the near-term outlook for the chip industry.",
+                "headline": "Nvidia and other chip stocks fell Monday as China's Huawei is reportedly boosting production of its leading AI chips following Trump's new export rules announced last week.",
                 "publication_date": "2025-04-22T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.802",
-                "source": "Motley Fool",
-                "ticker": "AMD",
-                "title": "Wall Street Sees 48% or More Upside for These AI Stocks. Should You Buy Them?",
-                "url": "https://finance.yahoo.com/news/wall-street-sees-48-more-114500121.html"
-            },
-            {
-                "headline": "Recently, Zacks.com users have been paying close attention to Advanced Micro (AMD). This makes it worthwhile to examine what the stock has in store.",
-                "publication_date": "2025-04-22T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.5267",
-                "source": "Zacks",
-                "ticker": "AMD",
-                "title": "Advanced Micro Devices, Inc. (AMD) Is a Trending Stock: Facts to Know Before Betting on It",
-                "url": "https://finance.yahoo.com/news/advanced-micro-devices-inc-amd-130013010.html"
-            },
-            {
-                "headline": "It won't be so easy to build US manufacturing if you are Apple, warns Intel's former CEO.",
-                "publication_date": "2025-04-22T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.5173",
+                "sentimentScore": "0.34",
                 "source": "Yahoo Finance",
                 "ticker": "AMD",
-                "title": "Apple may have a key problem bringing back manufacturing to beat Trump tariffs, former Intel CEO warns",
-                "url": "https://finance.yahoo.com/news/apple-may-have-a-key-problem-bringing-back-manufacturing-to-beat-trump-tariffs-former-intel-ceo-warns-132151346.html"
+                "title": "Nvidia stock falls as China's Huawei reportedly boosts AI chip production after Trump's export ban",
+                "url": "https://finance.yahoo.com/news/nvidia-stock-falls-as-chinas-huawei-reportedly-boosts-ai-chip-production-after-trumps-export-ban-125546073.html"
+            },
+            {
+                "headline": "China\u2019s Huawei has stepped up to fill the void in AI chips after the U.S. blocked Nvidia from selling to Chinese customers.",
+                "publication_date": "2025-04-22T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.2732",
+                "source": "Investor's Business Daily",
+                "ticker": "AMD",
+                "title": "China's Huawei Launches AI Chip To Fill Nvidia Void",
+                "url": "https://finance.yahoo.com/m/b1cbcb0f-47ef-3422-9276-a58c27c51b73/china-s-huawei-launches-ai.html"
+            },
+            {
+                "headline": "Closing the gap with the AI chip leader won't be easy.",
+                "publication_date": "2025-04-22T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.3412",
+                "source": "Yahoo Finance",
+                "ticker": "AMD",
+                "title": "Former Intel CEO on Nvidia: You have to be 10x better to dethrone the king",
+                "url": "https://finance.yahoo.com/news/former-intel-ceo-on-nvidia-you-have-to-be-10x-better-to-dethrone-the-king-171633066.html"
+            },
+            {
+                "headline": "Intel Rides Tariff Wave, But Underlying Demand Still Weak",
+                "publication_date": "2025-04-22T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.6808",
+                "source": "GuruFocus.com",
+                "ticker": "AMD",
+                "title": "Intel May Report Temporary Q1 Lift from Pre-Tariff Chip Rush, But Long-Term Woes Linger",
+                "url": "https://finance.yahoo.com/news/intel-may-report-temporary-q1-124141199.html"
             },
             {
                 "headline": "Closing the gap with the AI chip leader won't be easy.",
@@ -50,58 +126,88 @@
                 "ticker": "AMD",
                 "title": "China's Huawei Launches AI Chip To Fill Nvidia Void",
                 "url": "https://finance.yahoo.com/m/b1cbcb0f-47ef-3422-9276-a58c27c51b73/china-s-huawei-launches-ai.html"
+            }
+        ],
+        "avgScore": -0.23879999999999998,
+        "pctChange": 0.05309522476508833
+    },
+    "4 21 2025": {
+        "importantArticles": [
+            {
+                "headline": "Big tech companies investing in artificial intelligence (AI) are requiring constant innovation in chip performance to make large language models and AI assistants smarter.  Demand for AI chips will only continue to grow, as companies develop fully autonomous cars and build humanoid robots that can work 24/7 in factories.  Now, tariffs and concerns over the economy are clouding the near-term outlook for the chip industry.",
+                "publication_date": "2025-04-21T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.802",
+                "source": "Motley Fool",
+                "ticker": "AMD",
+                "title": "Wall Street Sees 48% or More Upside for These AI Stocks. Should You Buy Them?",
+                "url": "https://finance.yahoo.com/news/wall-street-sees-48-more-114500121.html"
+            },
+            {
+                "headline": "Recently, Zacks.com users have been paying close attention to Advanced Micro (AMD). This makes it worthwhile to examine what the stock has in store.",
+                "publication_date": "2025-04-21T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5267",
+                "source": "Zacks",
+                "ticker": "AMD",
+                "title": "Advanced Micro Devices, Inc. (AMD) Is a Trending Stock: Facts to Know Before Betting on It",
+                "url": "https://finance.yahoo.com/news/advanced-micro-devices-inc-amd-130013010.html"
+            },
+            {
+                "headline": "It won't be so easy to build US manufacturing if you are Apple, warns Intel's former CEO.",
+                "publication_date": "2025-04-21T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5173",
+                "source": "Yahoo Finance",
+                "ticker": "AMD",
+                "title": "Apple may have a key problem bringing back manufacturing to beat Trump tariffs, former Intel CEO warns",
+                "url": "https://finance.yahoo.com/news/apple-may-have-a-key-problem-bringing-back-manufacturing-to-beat-trump-tariffs-former-intel-ceo-warns-132151346.html"
             },
             {
                 "headline": "Investors looking for ways to find stocks that are set to beat quarterly earnings estimates should check out the Zacks Earnings ESP.",
-                "publication_date": "2025-04-22T00:00:00.000Z",
+                "publication_date": "2025-04-21T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
                 "source": "Zacks",
                 "ticker": "AMD",
                 "title": "Why Investors Need to Take Advantage of These 2 Computer and Technology Stocks Now",
                 "url": "https://finance.yahoo.com/news/why-investors-advantage-2-computer-130011593.html"
-            }
-        ],
-        "avgScore": 0.22769999999999999,
-        "pctChange": 0.0016256315046854067
-    },
-    "4 21 2025": {
-        "importantArticles": [
-            {
-                "headline": "Markets need more clarity on tariffs. Bottom line.",
-                "publication_date": "2025-04-21T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4576",
-                "source": "Yahoo Finance",
-                "ticker": "AMD",
-                "title": "Why the latest stock market pullback feels right",
-                "url": "https://finance.yahoo.com/news/why-the-latest-stock-market-pullback-feels-right-123015811.html"
             },
             {
-                "headline": "Markets need more clarity on tariffs. Bottom line.",
+                "headline": "The $SRC Ecosystem has joined the Trade Finance Distribution Initiative (TFDi) to advance trade finance using AI and blockchain technologies. This collaboration aims to address inefficiencies and barriers in traditional trade finance by transforming trade assets into liquid, tradable tokens and automating risk assessments through AI. By aligning with TFDi, which promotes standardized, technology-driven practices, $SRC seeks to enhance liquidity for small and medium enterprises (SMEs) and...",
                 "publication_date": "2025-04-21T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.4576",
+                "sentimentScore": "0.25",
+                "source": "Simply Wall St.",
+                "ticker": "AMD",
+                "title": "Latest News In AI Chips - AI Blockchain Fusion Transforms Global Trade Finance Ecosystem",
+                "url": "https://finance.yahoo.com/news/latest-news-ai-chips-ai-113713518.html"
+            },
+            {
+                "headline": "It won't be so easy to build US manufacturing if you are Apple, warns Intel's former CEO.",
+                "publication_date": "2025-04-21T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5173",
                 "source": "Yahoo Finance",
                 "ticker": "AMD",
-                "title": "Why the latest stock market pullback feels right",
-                "url": "https://finance.yahoo.com/news/why-the-latest-stock-market-pullback-feels-right-123015811.html"
+                "title": "Apple may have a key problem bringing back manufacturing to beat Trump tariffs, former Intel CEO warns",
+                "url": "https://finance.yahoo.com/news/apple-may-have-a-key-problem-bringing-back-manufacturing-to-beat-trump-tariffs-former-intel-ceo-warns-132151346.html"
             }
         ],
-        "avgScore": 0.4576,
+        "avgScore": 0.4192,
         "pctChange": 0.008181446909898953
     },
     "4 17 2025": {
         "importantArticles": [
             {
-                "headline": "Over the last 7 days, the United States market has risen by 8.4%, contributing to a 5.9% increase over the past year, with earnings expected to grow by 13% per annum in the coming years. In this environment of positive momentum and anticipated growth, identifying stocks that are priced below their intrinsic value can offer potential opportunities for investors seeking to capitalize on undervalued assets.",
+                "headline": "Buying and holding solid stocks for a long time is a tried-and-tested way of making money in the stock market, as this strategy helps investors capitalize on secular growth opportunities and disruptive trends while also allowing them to benefit from the power of compounding.  This explains why an investment of $1,000 in shares of Advanced Micro Devices (NASDAQ: AMD) a decade ago would now be worth more than $33,500.  AMD has significantly outperformed the Nasdaq Composite index's returns of 235% in the past decade, driven by its market share improvements in central processing units (CPUs), which are deployed in servers and personal computers (PCs).",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.9432",
-                "source": "Simply Wall St.",
+                "sentimentScore": "0.9493",
+                "source": "Motley Fool",
                 "ticker": "AMD",
-                "title": "3 Stocks Estimated To Be Priced Below Intrinsic Value In April 2025",
-                "url": "https://finance.yahoo.com/news/3-stocks-estimated-priced-below-113752793.html"
+                "title": "Is AMD Stock Your Ticket to Becoming a Millionaire?",
+                "url": "https://finance.yahoo.com/news/amd-stock-ticket-becoming-millionaire-151500201.html"
             },
             {
                 "headline": "President Donald Trump credited his tariff policies for driving Nvidia Corp.\u2019s (NASDAQ:NVDA) massive $500 billion commitment to build artificial intelligence infrastructure in the United States during a White House press conference on Monday. What ...",
@@ -114,51 +220,61 @@
                 "url": "https://finance.yahoo.com/news/jensen-huang-praised-trump-nvidia-094532124.html"
             },
             {
-                "headline": "We came across a bullish thesis on Advanced Micro Devices, Inc. (AMD) on Substack by Felix. In this article, we will summarize the bulls\u2019 thesis on AMD. Advanced Micro Devices, Inc. (AMD)\u2019s share was trading at $95.29 as of April 15th. AMD\u2019s trailing and forward P/E were 95.29 and 20.49 respectively according to Yahoo Finance. AMD is [\u2026]",
+                "headline": "Wealth host Brad Smith and Yahoo Finance Senior Reporter Alexandra Canal examine some of today's trending tickers. The chipmaker sell-off continues, with Nvidia (NVDA) and Advanced Micro Devices (AMD) extending losses sparked by new chip export restrictions that add costs for the company. Hertz (HTZ) extends gains fueled by billionaire investor Bill Ackman's firm, Pershing Square Capital Management, disclosing its large stake in the rental car company. To watch more expert insights and analysis on the latest market action, check out more Wealth here.",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.765",
-                "source": "Insider Monkey",
-                "ticker": "AMD",
-                "title": "Advanced Micro Devices, Inc. (AMD): A Bull Case Theory",
-                "url": "https://finance.yahoo.com/news/advanced-micro-devices-inc-amd-184255905.html"
-            },
-            {
-                "headline": "US-China trade war tensions drag US stocks lower after Nvidia (NVDA) reported restrictions on exports to China would cost the chipmaker $5.5 billion. CFRA Research chief investment strategist Sam Stovall joins Morning Brief with Madison Mills and Brad Smith to discuss what the uncertainty means for first quarter earnings and chipmakers' outlooks. To watch more expert insights and analysis on the latest market action, check out more Morning Brief here.",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.9022",
+                "sentimentScore": "0.8225",
                 "source": "Yahoo Finance Video",
                 "ticker": "AMD",
-                "title": "'What about Q1 earnings?' US-China trade war weighs on chip stocks",
-                "url": "https://finance.yahoo.com/video/q1-earnings-us-china-trade-143923088.html"
+                "title": "Nvidia & AMD sell-off, Hertz extends gains: Trending Tickers",
+                "url": "https://finance.yahoo.com/video/nvidia-amd-sell-off-hertz-153336212.html"
             },
             {
-                "headline": "Madison Mills and Brad Smith take a closer look at some of today's trending tickers. ASML (ASML) stock is falling after the company's first quarter orders missed Wall Street's expectations, fueling fears that tariff uncertainty may hit demand. Tesla (TSLA) halts shipments of parts from China, according to reports from Reuters. Advanced Micro Devices (AMD) expects an $800 million hit from the US controls on exports to China. To watch more expert insights and analysis on the latest market action, check out more Morning Brief here.",
+                "headline": "The major averages were broadly lower near noon, with the Nasdaq down over 300 points amid escalating trade tensions and new export restrictions.\u200b This follows the U.S. government\u2019s decision to tighten export controls on advanced AI-related computer chips.\u200b The recent U.S. actions have intensified concerns over a potential trade war. President Donald Trump has announced a new investigation into critical mineral imports and imposed steep tariffs on Chinese imports. In retaliation, China has incre",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.7579",
-                "source": "Yahoo Finance Video",
+                "sentimentScore": "-0.8555",
+                "source": "TipRanks",
                 "ticker": "AMD",
-                "title": "ASML orders miss, Tesla & China, AMD $800M hit: Trending Tickers",
-                "url": "https://finance.yahoo.com/video/asml-orders-miss-tesla-china-134304772.html"
+                "title": "Nvidia, AMD see charges due to new China export rules: Morning Buzz",
+                "url": "https://finance.yahoo.com/news/nvidia-amd-see-charges-due-160543145.html"
             },
             {
-                "headline": "As part of today's Market Minute, Madison Mills examines some of the trending tickers. Nvidia (NVDA) falls after reporting new export controls will cost the company $5.5 billion. Advanced Micro Devices (AMD) is also under pressure as the chip trade restrictions translate to a $800 million charge for the company. ASML (ASML) falls after reporting earnings, showing first quarter orders missed estimates, fueling concerns about demand during tariff uncertainty. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
+                "headline": "Nvidia discloses that sales of its H20 chips to China would require a license \u2018for the indefinite future\u2019 from the U.S. Department of Commerce, AMD says a license requirement for chip exports will result in charges of up to $800 million, and ASML issues disappointing sales guidance.",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.6486",
-                "source": "Yahoo Finance Video",
+                "source": "Barrons.com",
                 "ticker": "AMD",
-                "title": "US export controls will cost Nvidia & AMD, ASML orders miss",
-                "url": "https://finance.yahoo.com/video/us-export-controls-cost-nvidia-151110335.html"
+                "title": "These Stocks Moved the Most Today: Nvidia, AMD, ASML, United, Tesla, Abbott Labs, Travelers, Interactive Brokers, and More",
+                "url": "https://finance.yahoo.com/m/af085683-0a5d-3e4c-a5d0-341de4dae4b8/these-stocks-moved-the-most.html"
+            },
+            {
+                "headline": "Investing.com -- UBS has lowered its price targets for both Nvidia (NASDAQ:NVDA) and AMD (NASDAQ:AMD), citing the negative impact of newly issued U.S. licensing requirements on China-focused AI chips.",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.6369",
+                "source": "Investing.com",
+                "ticker": "AMD",
+                "title": "Nvidia and AMD targets cut at UBS on newly issued licensing requirements",
+                "url": "https://finance.yahoo.com/news/nvidia-amd-targets-cut-ubs-123802802.html"
             }
         ],
-        "avgScore": 0.03221904761904763,
+        "avgScore": 0.07079230769230768,
         "pctChange": -0.022171456473214286
     },
     "4 16 2025": {
         "importantArticles": [
+            {
+                "headline": "Over the last 7 days, the United States market has risen by 8.4%, contributing to a 5.9% increase over the past year, with earnings expected to grow by 13% per annum in the coming years. In this environment of positive momentum and anticipated growth, identifying stocks that are priced below their intrinsic value can offer potential opportunities for investors seeking to capitalize on undervalued assets.",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9432",
+                "source": "Simply Wall St.",
+                "ticker": "AMD",
+                "title": "3 Stocks Estimated To Be Priced Below Intrinsic Value In April 2025",
+                "url": "https://finance.yahoo.com/news/3-stocks-estimated-priced-below-113752793.html"
+            },
             {
                 "headline": "Advanced Micro Devices (NASDAQ: AMD) supplies some of the world's best semiconductors, including a growing portfolio of chips specifically designed to handle artificial intelligence (AI) workloads in data centers and personal computers.  Investors can expect to learn more about the company's progress, and perhaps even receive an updated forecast from CEO Lisa Su regarding AI chip sales for 2025.  AMD launched its MI300X AI graphics processing unit (GPU) for the data center in late 2023.",
                 "publication_date": "2025-04-16T00:00:00.000Z",
@@ -168,16 +284,6 @@
                 "ticker": "AMD",
                 "title": "Should You Buy Advanced Micro Devices (AMD) Stock Before May 6?",
                 "url": "https://finance.yahoo.com/news/buy-advanced-micro-devices-amd-093200563.html"
-            },
-            {
-                "headline": "We recently published a list of the 10 Best Machine Learning Stocks to Buy Now. In this article, we are going to take a look at where Advanced Micro Devices, Inc. (NASDAQ:AMD) stands against other machine-learning stocks. Grand View Research reported that the global machine-learning market was valued at $36.73 billion in 2022. It\u2019s now [\u2026]",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.9022",
-                "source": "Insider Monkey",
-                "ticker": "AMD",
-                "title": "Is Advanced Micro Devices (AMD) the Best Machine Learning Stock to Buy Now?",
-                "url": "https://finance.yahoo.com/news/advanced-micro-devices-amd-best-131559799.html"
             },
             {
                 "headline": "We recently compiled a list of the 14 Best American Tech Stocks To Buy Now. In this article, we are going to take a look at where Advanced Micro Devices, Inc. (NASDAQ:AMD) stands against the other American tech stocks. American stocks moved up a bit on Monday, April 14 as investors focused on news about [\u2026]",
@@ -190,37 +296,37 @@
                 "url": "https://finance.yahoo.com/news/advanced-micro-devices-inc-amd-034516674.html"
             },
             {
-                "headline": "(Bloomberg) -- Representative Marjorie Taylor Greene sold US Treasuries and bought stakes in Amazon.com Inc., Blackstone Inc. and Tesla Inc. the day before President Donald Trump put a 90-day pause on retaliatory tariffs and prompted a market rally.Most Read from BloombergHow Did This Suburb Figure Out Mass Transit?Trump Signs Executive Orders on Federal Purchasing, Office SpaceEven Oslo Has an Air Quality ProblemLA County Floats Leaner Budget Burdened by Fire and Legal Costs$15 Million Fund Bet",
+                "headline": "US-China trade war tensions drag US stocks lower after Nvidia (NVDA) reported restrictions on exports to China would cost the chipmaker $5.5 billion. CFRA Research chief investment strategist Sam Stovall joins Morning Brief with Madison Mills and Brad Smith to discuss what the uncertainty means for first quarter earnings and chipmakers' outlooks. To watch more expert insights and analysis on the latest market action, check out more Morning Brief here.",
                 "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.4019",
-                "source": "Bloomberg",
+                "sentimentScore": "-0.9022",
+                "source": "Yahoo Finance Video",
                 "ticker": "AMD",
-                "title": "Trump Ally Marjorie Taylor Greene\u00a0Bought Tesla, Amazon, Blackstone Before\u00a0Rally",
-                "url": "https://finance.yahoo.com/news/trump-ally-marjorie-taylor-greene-184112118.html"
+                "title": "'What about Q1 earnings?' US-China trade war weighs on chip stocks",
+                "url": "https://finance.yahoo.com/video/q1-earnings-us-china-trade-143923088.html"
             },
             {
-                "headline": "AMD Sees Up to $800M in Charges",
+                "headline": "Madison Mills and Brad Smith take a closer look at some of today's trending tickers. ASML (ASML) stock is falling after the company's first quarter orders missed Wall Street's expectations, fueling fears that tariff uncertainty may hit demand. Tesla (TSLA) halts shipments of parts from China, according to reports from Reuters. Advanced Micro Devices (AMD) expects an $800 million hit from the US controls on exports to China. To watch more expert insights and analysis on the latest market action, check out more Morning Brief here.",
                 "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.2732",
-                "source": "Investopedia",
+                "sentimentScore": "-0.7579",
+                "source": "Yahoo Finance Video",
                 "ticker": "AMD",
-                "title": "Nvidia to Record $5.5B Charge as US Cracks Down on Chip Exports to China",
-                "url": "https://finance.yahoo.com/news/nvidia-record-5-5b-charge-101837774.html"
+                "title": "ASML orders miss, Tesla & China, AMD $800M hit: Trending Tickers",
+                "url": "https://finance.yahoo.com/video/asml-orders-miss-tesla-china-134304772.html"
             },
             {
-                "headline": "AMD's New Venice Processor to Launch From Arizona, Marking Historic Domestic Manufacturing Shif",
+                "headline": "As part of today's Market Minute, Madison Mills examines some of the trending tickers. Nvidia (NVDA) falls after reporting new export controls will cost the company $5.5 billion. Advanced Micro Devices (AMD) is also under pressure as the chip trade restrictions translate to a $800 million charge for the company. ASML (ASML) falls after reporting earnings, showing first quarter orders missed estimates, fueling concerns about demand during tariff uncertainty. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
                 "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "GuruFocus.com",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.6486",
+                "source": "Yahoo Finance Video",
                 "ticker": "AMD",
-                "title": "AMD to Launch U.S.-Made Venice Chip at TSMC Arizona Plant",
-                "url": "https://finance.yahoo.com/news/amd-launch-u-made-venice-123447449.html"
+                "title": "US export controls will cost Nvidia & AMD, ASML orders miss",
+                "url": "https://finance.yahoo.com/video/us-export-controls-cost-nvidia-151110335.html"
             }
         ],
-        "avgScore": 0.21102999999999997,
+        "avgScore": 0.06123181818181813,
         "pctChange": -0.00894779598295834
     },
     "4 15 2025": {
@@ -236,14 +342,14 @@
                 "url": "https://finance.yahoo.com/news/advanced-micro-devices-nasdaqgs-amd-172423981.html"
             },
             {
-                "headline": "VAST Data has been recognized on the Forbes AI 50 list for 2025, which highlights the most promising private AI companies globally. This listing underscores VAST\u2019s significant role in AI infrastructure, evidenced by its platform being utilized by numerous organizations for AI training and inference operations. The company has been noted for its strong innovation and sustained growth in the competitive AI market. VAST Data\u2019s distributed, internet-scale platform has become integral to...",
+                "headline": "We recently published a list of the 10 Best Machine Learning Stocks to Buy Now. In this article, we are going to take a look at where Advanced Micro Devices, Inc. (NASDAQ:AMD) stands against other machine-learning stocks. Grand View Research reported that the global machine-learning market was valued at $36.73 billion in 2022. It\u2019s now [\u2026]",
                 "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.9184",
-                "source": "Simply Wall St.",
+                "sentimentScore": "0.9022",
+                "source": "Insider Monkey",
                 "ticker": "AMD",
-                "title": "AI Chips Update - VAST Data Shines on Forbes AI 50 List 2025",
-                "url": "https://finance.yahoo.com/news/ai-chips-vast-data-shines-113724303.html"
+                "title": "Is Advanced Micro Devices (AMD) the Best Machine Learning Stock to Buy Now?",
+                "url": "https://finance.yahoo.com/news/advanced-micro-devices-amd-best-131559799.html"
             },
             {
                 "headline": "Tariffs may be the talk of Wall Street, but there are far more pressing issues for the stock market's artificial intelligence (AI) darling.",
@@ -254,16 +360,6 @@
                 "ticker": "AMD",
                 "title": "Nvidia Has 3 Considerably Bigger Concerns Than Tariffs",
                 "url": "https://finance.yahoo.com/news/nvidia-3-considerably-bigger-concerns-075100065.html"
-            },
-            {
-                "headline": "We recently published a list of 14 AI Stocks Catching Wall Street\u2019s Attention. In this article, we are going to take a look at where Advanced Micro Devices, Inc. (NASDAQ:AMD) stands against other AI stocks catching Wall Street\u2019s attention. In the latest development in the feud between OpenAI and Elon Musk, the ChatGPT maker has [\u2026]",
-                "publication_date": "2025-04-15T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.1027",
-                "source": "Insider Monkey",
-                "ticker": "AMD",
-                "title": "Advanced Micro Devices (AMD): New AI Chips and GPU Momentum Fuel Optimism Despite Lower Target",
-                "url": "https://finance.yahoo.com/news/advanced-micro-devices-amd-ai-131550630.html"
             },
             {
                 "headline": "AMD\u2019s stock price has taken a beating over the past six months, shedding 39.5% of its value and falling to $94.77 per share. This might have investors contemplating their next move.",
@@ -284,9 +380,19 @@
                 "ticker": "AMD",
                 "title": "Intel: Overblown Optimism Meets Stark Reality",
                 "url": "https://finance.yahoo.com/news/intel-overblown-optimism-meets-stark-095756917.html"
+            },
+            {
+                "headline": "AMD's New Venice Processor to Launch From Arizona, Marking Historic Domestic Manufacturing Shif",
+                "publication_date": "2025-04-15T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "GuruFocus.com",
+                "ticker": "AMD",
+                "title": "AMD to Launch U.S.-Made Venice Chip at TSMC Arizona Plant",
+                "url": "https://finance.yahoo.com/news/amd-launch-u-made-venice-123447449.html"
             }
         ],
-        "avgScore": 0.4325333333333334,
+        "avgScore": 0.4059153846153846,
         "pctChange": -0.0734599636136572
     },
     "4 14 2025": {
@@ -302,34 +408,14 @@
                 "url": "https://finance.yahoo.com/news/amd-amd-projects-double-digit-213101516.html"
             },
             {
-                "headline": "It's been a wild week for semiconductor stocks.  One of the largest semiconductor exchange-traded funds (ETFs) by net assets is the iShares Semiconductor ETF (NASDAQ: SOXX).  The fund surged 19% on Wednesday, fueled by huge gains in top holdings like Nvidia\u00a0and Broadcom, as the market skyrocketed in hopes that trade tensions could ease.",
+                "headline": "VAST Data has been recognized on the Forbes AI 50 list for 2025, which highlights the most promising private AI companies globally. This listing underscores VAST\u2019s significant role in AI infrastructure, evidenced by its platform being utilized by numerous organizations for AI training and inference operations. The company has been noted for its strong innovation and sustained growth in the competitive AI market. VAST Data\u2019s distributed, internet-scale platform has become integral to...",
                 "publication_date": "2025-04-14T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.8834",
-                "source": "Motley Fool",
+                "sentimentScore": "0.9184",
+                "source": "Simply Wall St.",
                 "ticker": "AMD",
-                "title": "Nvidia and Broadcom Helped Propel This ETF 18% Higher in a Single Day. Here's Why It's Still a Buy Now.",
-                "url": "https://finance.yahoo.com/news/nvidia-broadcom-helped-propel-etf-221700118.html"
-            },
-            {
-                "headline": "Wall Street has soured on this AI hardware challenger despite strong business results. Should smart investors be buying while others are fearful?",
-                "publication_date": "2025-04-14T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.4023",
-                "source": "Motley Fool",
-                "ticker": "AMD",
-                "title": "This Artificial Intelligence Challenger Is Down 49%. Is It Time to Buy the Dip on the Stock?",
-                "url": "https://finance.yahoo.com/news/artificial-intelligence-challenger-down-49-081900358.html"
-            },
-            {
-                "headline": "Wall Street has soured on this AI hardware challenger despite strong business results. Should smart investors be buying while others are fearful?",
-                "publication_date": "2025-04-14T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.4023",
-                "source": "Motley Fool",
-                "ticker": "AMD",
-                "title": "This Artificial Intelligence Challenger Is Down 49%. Is It Time to Buy the Dip on the Stock?",
-                "url": "https://finance.yahoo.com/news/artificial-intelligence-challenger-down-49-081900358.html"
+                "title": "AI Chips Update - VAST Data Shines on Forbes AI 50 List 2025",
+                "url": "https://finance.yahoo.com/news/ai-chips-vast-data-shines-113724303.html"
             },
             {
                 "headline": "It's been a wild week for semiconductor stocks.  One of the largest semiconductor exchange-traded funds (ETFs) by net assets is the iShares Semiconductor ETF (NASDAQ: SOXX).  The fund surged 19% on Wednesday, fueled by huge gains in top holdings like Nvidia\u00a0and Broadcom, as the market skyrocketed in hopes that trade tensions could ease.",
@@ -342,17 +428,37 @@
                 "url": "https://finance.yahoo.com/news/nvidia-broadcom-helped-propel-etf-221700118.html"
             },
             {
-                "headline": "We recently published a list of 30 Best AI Stocks to Buy According to Billionaires. In this article, we are going to take a look at where Advanced Micro Devices, Inc. (NASDAQ:AMD) stands against other best AI stocks to buy according to billionaires. The optimism around the United States economy over the past few months, [\u2026]",
+                "headline": "Big Tech is preparing for its first earnings since Trump launched his global trade war.",
                 "publication_date": "2025-04-14T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.9493",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5267",
+                "source": "Yahoo Finance",
+                "ticker": "AMD",
+                "title": "Big Tech earnings kick off as tariff uncertainty continues to roil markets",
+                "url": "https://finance.yahoo.com/news/big-tech-earnings-kick-off-as-tariff-uncertainty-continues-to-roil-markets-160016313.html"
+            },
+            {
+                "headline": "Wall Street has soured on this AI hardware challenger despite strong business results. Should smart investors be buying while others are fearful?",
+                "publication_date": "2025-04-14T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.4023",
+                "source": "Motley Fool",
+                "ticker": "AMD",
+                "title": "This Artificial Intelligence Challenger Is Down 49%. Is It Time to Buy the Dip on the Stock?",
+                "url": "https://finance.yahoo.com/news/artificial-intelligence-challenger-down-49-081900358.html"
+            },
+            {
+                "headline": "We recently published a list of 14 AI Stocks Catching Wall Street\u2019s Attention. In this article, we are going to take a look at where Advanced Micro Devices, Inc. (NASDAQ:AMD) stands against other AI stocks catching Wall Street\u2019s attention. In the latest development in the feud between OpenAI and Elon Musk, the ChatGPT maker has [\u2026]",
+                "publication_date": "2025-04-14T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.1027",
                 "source": "Insider Monkey",
                 "ticker": "AMD",
-                "title": "AMD (AMD) Projects Double-Digit Growth on AI-Driven $26B Revenue",
-                "url": "https://finance.yahoo.com/news/amd-amd-projects-double-digit-213101516.html"
+                "title": "Advanced Micro Devices (AMD): New AI Chips and GPU Momentum Fuel Optimism Despite Lower Target",
+                "url": "https://finance.yahoo.com/news/advanced-micro-devices-amd-ai-131550630.html"
             }
         ],
-        "avgScore": 0.47680000000000006,
+        "avgScore": 0.2865666666666667,
         "pctChange": 0.0083597980479084
     },
     "4 11 2025": {
@@ -398,16 +504,6 @@
                 "url": "https://finance.yahoo.com/news/nvidia-amd-push-forward-ai-212758235.html"
             },
             {
-                "headline": "A put ratio backspread for AMD stock involves selling a put and then buying two further out-of-the-money puts.",
-                "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Investor's Business Daily",
-                "ticker": "AMD",
-                "title": "How A Put Ratio Backspread Can Limit Losses On AMD Stock",
-                "url": "https://finance.yahoo.com/m/c75d6a11-9360-3022-a58e-6f48bdb06d3d/how-a-put-ratio-backspread.html"
-            },
-            {
                 "headline": "The chipmaking giant has a new CEO, but it still faces existential challenges.",
                 "publication_date": "2025-04-11T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -416,9 +512,19 @@
                 "ticker": "AMD",
                 "title": "Where Will Intel Stock Be in 3 Years?",
                 "url": "https://finance.yahoo.com/news/where-intel-stock-3-years-081400654.html"
+            },
+            {
+                "headline": "Advanced Micro Devices is benefiting from an expanding usage of its fifth-generation EPYC processors.",
+                "publication_date": "2025-04-11T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.25",
+                "source": "Zacks",
+                "ticker": "AMD",
+                "title": "AMD's EPYC Powers GOOGL & ORCL Solutions: Should You Hold the Stock?",
+                "url": "https://finance.yahoo.com/news/amds-epyc-powers-googl-orcl-164900962.html"
             }
         ],
-        "avgScore": 0.27435000000000004,
+        "avgScore": 0.31685,
         "pctChange": 0.0117772853977557
     },
     "4 10 2025": {
@@ -434,24 +540,24 @@
                 "url": "https://finance.yahoo.com/video/djt-stock-pops-amd-rises-162519217.html"
             },
             {
-                "headline": "LPL Financial Holdings Inc. has appointed Vaughn Harvey as the executive vice president and chief data and artificial intelligence (AI) officer, marking a significant move in its AI strategy. With over 25 years of experience in AI-driven digital transformations, Harvey will spearhead LPL\u2019s data and AI initiatives, enhancing digital transformation across the organization. This appointment comes as LPL Financial aims to advance its offerings in artificial intelligence through programs like AI...",
+                "headline": "Both Advanced Micro Devices and AVGO offer semiconductor chips that power AI. Which stock is a better buy for investors in a challenging macro backdrop?",
                 "publication_date": "2025-04-10T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.8591",
-                "source": "Simply Wall St.",
+                "sentimentScore": "0.6705",
+                "source": "Zacks",
                 "ticker": "AMD",
-                "title": "This Week In AI Chips - LPL Financial Enhances AI Strategy With Key Executive Appointment",
-                "url": "https://finance.yahoo.com/news/week-ai-chips-lpl-financial-113802366.html"
+                "title": "AMD vs. Broadcom: Which Semiconductor Stock Has Greater Upside?",
+                "url": "https://finance.yahoo.com/news/amd-vs-broadcom-semiconductor-stock-190000187.html"
             },
             {
-                "headline": "The company will showcase its vision for AI, and the hardware, software, partners and customers that will advance ItSANTA CLARA, Calif., April 09, 2025 (GLOBE NEWSWIRE) -- Today, AMD (NASDAQ: AMD) announced \u201cAdvancing AI 2025,\u201d an in-person and livestreamed event on June 12, 2025. The industry event will showcase the company\u2019s bold vision for AI, announce the next generation of AMD Instinct\u2122 GPUs, AMD ROCm\u2122 open software ecosystem progress, and reveal details on AI solutions for hyperscalers, en",
+                "headline": "Advanced Micro Devices, Inc (NASDAQ:AMD) on Wednesday announced the new Alphabet Inc (NASDAQ:GOOG) (NASDAQ:GOOGL) Google Cloud C4D and H4D virtual machines (VMs), which fifth-generation AMD EPYC processors power. The latest additions to Google Cloud\u2019s general-purpose and HPC-optimized VMs deliver leadership performance, scalability, and efficiency, from data analytics and web serving to high-performance computing (HPC) and AI. Based on Google Cloud\u2019s testing, leveraging the advancements of the A",
                 "publication_date": "2025-04-10T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.8442",
-                "source": "GlobeNewswire",
+                "sentimentScore": "0.5423",
+                "source": "Benzinga",
                 "ticker": "AMD",
-                "title": "AMD Announces \u201cAdvancing AI 2025\u201d",
-                "url": "https://finance.yahoo.com/news/amd-announces-advancing-ai-2025-130000071.html"
+                "title": "AMD Powers Google Cloud's New AI Servers Promising 80% Boost In Speed",
+                "url": "https://finance.yahoo.com/news/amd-powers-google-clouds-ai-191122189.html"
             },
             {
                 "headline": "The S&P 500 surged 9.5% on Wednesday, April 9, roaring back in an afternoon rally after President Trump temporarily suspended widespread tariffs.",
@@ -474,21 +580,41 @@
                 "url": "https://finance.yahoo.com/news/got-1-000-2-top-080500336.html"
             },
             {
-                "headline": "The most talked about and market moving research calls around Wall Street are now in one place. Here are today\u2019s research calls that investors need to know, as compiled by The Fly. Top 5 Upgrades: Melius Research upgraded Dollar General (DG) to Buy from Hold with a $110 price target. While the company had its own \u201cself-inflicted\u201d challenges and competitive challenges over the last 12 months, the firm believes it likely will benefit from a worsening macro environment and a lack of tariff exposure",
+                "headline": "A put ratio backspread for AMD stock involves selling a put and then buying two further out-of-the-money puts.",
                 "publication_date": "2025-04-10T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.2023",
-                "source": "TipRanks",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Investor's Business Daily",
                 "ticker": "AMD",
-                "title": "AMD downgraded, Dollar General upgraded: Wall Street\u2019s top analyst calls",
-                "url": "https://finance.yahoo.com/news/amd-downgraded-dollar-general-upgraded-133520598.html"
+                "title": "How A Put Ratio Backspread Can Limit Losses On AMD Stock",
+                "url": "https://finance.yahoo.com/m/c75d6a11-9360-3022-a58e-6f48bdb06d3d/how-a-put-ratio-backspread.html"
             }
         ],
-        "avgScore": 0.40935000000000005,
+        "avgScore": 0.2666857142857143,
         "pctChange": 0.05298765207826606
     },
     "4 9 2025": {
         "importantArticles": [
+            {
+                "headline": "LPL Financial Holdings Inc. has appointed Vaughn Harvey as the executive vice president and chief data and artificial intelligence (AI) officer, marking a significant move in its AI strategy. With over 25 years of experience in AI-driven digital transformations, Harvey will spearhead LPL\u2019s data and AI initiatives, enhancing digital transformation across the organization. This appointment comes as LPL Financial aims to advance its offerings in artificial intelligence through programs like AI...",
+                "publication_date": "2025-04-09T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8591",
+                "source": "Simply Wall St.",
+                "ticker": "AMD",
+                "title": "This Week In AI Chips - LPL Financial Enhances AI Strategy With Key Executive Appointment",
+                "url": "https://finance.yahoo.com/news/week-ai-chips-lpl-financial-113802366.html"
+            },
+            {
+                "headline": "The company will showcase its vision for AI, and the hardware, software, partners and customers that will advance ItSANTA CLARA, Calif., April 09, 2025 (GLOBE NEWSWIRE) -- Today, AMD (NASDAQ: AMD) announced \u201cAdvancing AI 2025,\u201d an in-person and livestreamed event on June 12, 2025. The industry event will showcase the company\u2019s bold vision for AI, announce the next generation of AMD Instinct\u2122 GPUs, AMD ROCm\u2122 open software ecosystem progress, and reveal details on AI solutions for hyperscalers, en",
+                "publication_date": "2025-04-09T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8442",
+                "source": "GlobeNewswire",
+                "ticker": "AMD",
+                "title": "AMD Announces \u201cAdvancing AI 2025\u201d",
+                "url": "https://finance.yahoo.com/news/amd-announces-advancing-ai-2025-130000071.html"
+            },
             {
                 "headline": "SANTA CLARA, Calif., April 08, 2025 (GLOBE NEWSWIRE) -- AMD (NASDAQ: AMD) announced today that it will report fiscal first quarter 2025 financial results on Tuesday, May 6, 2025, after the close of market. Management will conduct a conference call to discuss these results at 5:00 p.m. EDT / 2:00 p.m. PDT. Interested parties are invited to listen to the webcast of the conference call via the AMD Investor Relations website ir.amd.com. AMD also announced it will participate in the following events",
                 "publication_date": "2025-04-09T00:00:00.000Z",
@@ -498,36 +624,6 @@
                 "ticker": "AMD",
                 "title": "AMD to Report Fiscal First Quarter 2025 Financial Results",
                 "url": "https://finance.yahoo.com/news/amd-report-fiscal-first-quarter-201500938.html"
-            },
-            {
-                "headline": "Nvidia has emerged as one of the most valuable companies in the world thanks to the AI movement, but the company's long-term growth looks questionable.",
-                "publication_date": "2025-04-09T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.5785",
-                "source": "Motley Fool",
-                "ticker": "AMD",
-                "title": "Prediction: This Artificial Intelligence (AI) Stock Will Be Worth More Than Nvidia in 2030",
-                "url": "https://finance.yahoo.com/news/prediction-artificial-intelligence-ai-stock-010000017.html"
-            },
-            {
-                "headline": "Nvidia has been an incredible growth stock, and it's been a bit of an anomaly -- no other stock within the index has come close to generating the same types of returns over the past decade.  Below, I'll look at who is in the second spot, and how close its returns are to Nvidia's.  The second-best-performing stock on the S&P 500 over the past decade is none other than Nvidia's rival Advanced Micro Devices (NASDAQ: AMD), more commonly referred to as AMD.",
-                "publication_date": "2025-04-09T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.34",
-                "source": "Motley Fool",
-                "ticker": "AMD",
-                "title": "Nvidia Has Generated 21,000% Returns in 10 Years. Here's How Well the S&P 500's Second-Best-Performing Stock Has Done",
-                "url": "https://finance.yahoo.com/news/nvidia-generated-21-000-returns-092500161.html"
-            },
-            {
-                "headline": "AMD stock catches a downgrade as Trump tariff fears spread throughout markets.",
-                "publication_date": "2025-04-09T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.4215",
-                "source": "Yahoo Finance",
-                "ticker": "AMD",
-                "title": "AMD stock catches a downgrade as concerns about China and tariffs heat up",
-                "url": "https://finance.yahoo.com/news/amd-stock-catches-a-downgrade-as-concerns-about-china-and-tariffs-heat-up-150108550.html"
             },
             {
                 "headline": "Despite opening the day solidly in the green, Advanced Micro Devices (NASDAQ: AMD) stock is now moving lower in Tuesday's trading.  In addition to fading recovery momentum, AMD stock is getting dragged lower by an analyst rating downgrade.",
@@ -548,24 +644,24 @@
                 "ticker": "AMD",
                 "title": "Sector Update: Tech Stocks Slide Late Afternoon",
                 "url": "https://finance.yahoo.com/news/sector-tech-stocks-slide-afternoon-195643525.html"
+            },
+            {
+                "headline": "The latest investor updates on stocks that are trending on Wednesday.",
+                "publication_date": "2025-04-09T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Yahoo Finance UK",
+                "ticker": "AMD",
+                "title": "Trending tickers: Apple, Advanced Micro Devices, Ford, BP and AstraZeneca",
+                "url": "https://finance.yahoo.com/news/apple-advanced-micro-devices-ford-bp-astrazeneca-trending-tickers-093254195.html"
             }
         ],
-        "avgScore": 0.047516666666666686,
+        "avgScore": 0.31336923076923073,
         "pctChange": -0.08405617201023681
     },
     "4 8 2025": {
         "importantArticles": [
             {
-                "headline": "We recently published a list of 10 Best High-Risk Stocks to Buy According to Billionaires. In this article, we are going to take a look at where Advanced Micro Devices, Inc. (NASDAQ:AMD) stands against other best high-risk stocks to buy according to billionaires. Investors often retreat into safer assets during volatility when the global markets [\u2026]",
-                "publication_date": "2025-04-08T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.9403",
-                "source": "Insider Monkey",
-                "ticker": "AMD",
-                "title": "Is Advanced Micro Devices (AMD) the Best High-Risk Stock to Buy According to Billionaires?",
-                "url": "https://finance.yahoo.com/news/advanced-micro-devices-amd-best-120458540.html"
-            },
-            {
                 "headline": "To say that the stock market has been volatile lately doesn't do the situation justice.  The S&P 500 (SNPINDEX: ^GSPC) and several other major market indexes recently fell by more than 10% over a two-day period in response to President Trump's surprisingly high tariff rates.  The S&P 500 is now 18% below its February high, and with a 23% drop, the Nasdaq Composite (NASDAQINDEX: ^IXIC) is now firmly in bear market territory.",
                 "publication_date": "2025-04-08T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -576,32 +672,72 @@
                 "url": "https://finance.yahoo.com/news/stock-market-crash-5-stocks-094100640.html"
             },
             {
-                "headline": "To say that the stock market has been volatile lately doesn't do the situation justice.  The S&P 500 (SNPINDEX: ^GSPC) and several other major market indexes recently fell by more than 10% over a two-day period in response to President Trump's surprisingly high tariff rates.  The S&P 500 is now 18% below its February high, and with a 23% drop, the Nasdaq Composite (NASDAQINDEX: ^IXIC) is now firmly in bear market territory.",
+                "headline": "Advanced Micro Devices (AMD) is facing concerns over the sustainability of its China artificial inte",
                 "publication_date": "2025-04-08T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.5423",
-                "source": "Motley Fool",
+                "sentimentScore": "0.25",
+                "source": "MT Newswires",
                 "ticker": "AMD",
-                "title": "Stock Market Crash: Here Are 5 Stocks Down 27% or More I'd Buy Right Now",
-                "url": "https://finance.yahoo.com/news/stock-market-crash-5-stocks-094100640.html"
+                "title": "Advanced Micro Devices Facing Concerns Over China AI Business Sustainability, KeyBanc Says",
+                "url": "https://finance.yahoo.com/news/advanced-micro-devices-facing-concerns-150927356.html"
             },
             {
-                "headline": "We recently published a list of 10 Best High-Risk Stocks to Buy According to Billionaires. In this article, we are going to take a look at where Advanced Micro Devices, Inc. (NASDAQ:AMD) stands against other best high-risk stocks to buy according to billionaires. Investors often retreat into safer assets during volatility when the global markets [\u2026]",
+                "headline": "Advanced Micro (AMD) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
                 "publication_date": "2025-04-08T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.9403",
-                "source": "Insider Monkey",
+                "sentimentScore": "0.0935",
+                "source": "Zacks",
                 "ticker": "AMD",
-                "title": "Is Advanced Micro Devices (AMD) the Best High-Risk Stock to Buy According to Billionaires?",
-                "url": "https://finance.yahoo.com/news/advanced-micro-devices-amd-best-120458540.html"
+                "title": "Investors Heavily Search Advanced Micro Devices, Inc. (AMD): Here is What You Need to Know",
+                "url": "https://finance.yahoo.com/news/investors-heavily-search-advanced-micro-130011989.html"
+            },
+            {
+                "headline": "AMD stock catches a downgrade as Trump tariff fears spread throughout markets.",
+                "publication_date": "2025-04-08T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.4215",
+                "source": "Yahoo Finance",
+                "ticker": "AMD",
+                "title": "AMD stock catches a downgrade as concerns about China and tariffs heat up",
+                "url": "https://finance.yahoo.com/news/amd-stock-catches-a-downgrade-as-concerns-about-china-and-tariffs-heat-up-150108550.html"
+            },
+            {
+                "headline": "AMD Downgraded After 50% Drop, Analysts Cite Intense Intel Competition",
+                "publication_date": "2025-04-08T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.2023",
+                "source": "GuruFocus.com",
+                "ticker": "AMD",
+                "title": "KeyBanc Slashes AMD's Rating, Citing Weak Outlook Amid Price War Threat",
+                "url": "https://finance.yahoo.com/news/keybanc-slashes-amds-rating-citing-134102464.html"
+            },
+            {
+                "headline": "Advanced Micro Devices risks falling behind as competition in the server and PC markets ramps up, say analysts at KeyBanc.",
+                "publication_date": "2025-04-08T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.1779",
+                "source": "Barrons.com",
+                "ticker": "AMD",
+                "title": "Advanced Micro Devices Stock Gets a Downgrade. Nvidia and Intel Are Part of the Problem.",
+                "url": "https://finance.yahoo.com/m/0ba88920-9a0b-3cc5-ae1f-e782d6edf1ec/advanced-micro-devices-stock.html"
             }
         ],
-        "avgScore": 0.7413000000000001,
+        "avgScore": 0.014016666666666658,
         "pctChange": 0.23820480081192913
     },
     "4 7 2025": {
         "importantArticles": [
             {
+                "headline": "We recently published a list of 10 Best High-Risk Stocks to Buy According to Billionaires. In this article, we are going to take a look at where Advanced Micro Devices, Inc. (NASDAQ:AMD) stands against other best high-risk stocks to buy according to billionaires. Investors often retreat into safer assets during volatility when the global markets [\u2026]",
+                "publication_date": "2025-04-07T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9403",
+                "source": "Insider Monkey",
+                "ticker": "AMD",
+                "title": "Is Advanced Micro Devices (AMD) the Best High-Risk Stock to Buy According to Billionaires?",
+                "url": "https://finance.yahoo.com/news/advanced-micro-devices-amd-best-120458540.html"
+            },
+            {
                 "headline": "Articul8 has introduced A8-SupplyChain, a groundbreaking domain-specific Generative AI model designed to optimize supply chain, manufacturing, and industrial process operations. Leveraging autonomous reasoning and real-time decision-making capabilities, A8-SupplyChain surpasses the limitations of general-purpose language models by effectively handling complex industrial systems and translating technical documentation into actionable procedures. This innovation is incorporated into Articul8's...",
                 "publication_date": "2025-04-07T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -610,16 +746,6 @@
                 "ticker": "AMD",
                 "title": "AI Chips Today - Articul8 Transforms Supply Chains With AI-Powered Industrial Solutions",
                 "url": "https://finance.yahoo.com/news/ai-chips-today-articul8-transforms-110732232.html"
-            },
-            {
-                "headline": "Although recent\u00a0stock market volatility has pushed down prices for many stocks, the artificial intelligence (AI) sector remains a compelling investment, with the tremendous transformative potential it brings to many industries.  A newcomer to the AI space is the recent initial public offering (IPO)\u00a0CoreWeave (NASDAQ: CRWV).  The company went public on March 28, and AI semiconductor powerhouse Nvidia was among those that bought shares.",
-                "publication_date": "2025-04-07T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7351",
-                "source": "Motley Fool",
-                "ticker": "AMD",
-                "title": "Is This Artificial Intelligence IPO a Buy?",
-                "url": "https://finance.yahoo.com/news/artificial-intelligence-ipo-buy-131300451.html"
             },
             {
                 "headline": "Advanced Micro Devices (NasdaqGS:AMD) recently unveiled its 5th Gen AMD EPYC\u2122 processors, significantly boosting Oracle Cloud Infrastructure's performance, as well as expanding its x86 embedded processor portfolio. Despite these announcements, the company's share price decreased by 15% over the past month. This decline occurs amid a broader tech sector downturn, with the Nasdaq entering bear market territory following heightened volatility due to a trade war with China. The tech-heavy index...",
@@ -642,16 +768,6 @@
                 "url": "https://finance.yahoo.com/news/advanced-micro-devices-nasdaqgs-amd-172434863.html"
             },
             {
-                "headline": "Although recent\u00a0stock market volatility has pushed down prices for many stocks, the artificial intelligence (AI) sector remains a compelling investment, with the tremendous transformative potential it brings to many industries.  A newcomer to the AI space is the recent initial public offering (IPO)\u00a0CoreWeave (NASDAQ: CRWV).  The company went public on March 28, and AI semiconductor powerhouse Nvidia was among those that bought shares.",
-                "publication_date": "2025-04-07T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7351",
-                "source": "Motley Fool",
-                "ticker": "AMD",
-                "title": "Is This Artificial Intelligence IPO a Buy?",
-                "url": "https://finance.yahoo.com/news/artificial-intelligence-ipo-buy-131300451.html"
-            },
-            {
                 "headline": "Articul8 has introduced A8-SupplyChain, a groundbreaking domain-specific Generative AI model designed to optimize supply chain, manufacturing, and industrial process operations. Leveraging autonomous reasoning and real-time decision-making capabilities, A8-SupplyChain surpasses the limitations of general-purpose language models by effectively handling complex industrial systems and translating technical documentation into actionable procedures. This innovation is incorporated into Articul8's...",
                 "publication_date": "2025-04-07T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -660,9 +776,19 @@
                 "ticker": "AMD",
                 "title": "AI Chips Today - Articul8 Transforms Supply Chains With AI-Powered Industrial Solutions",
                 "url": "https://finance.yahoo.com/news/ai-chips-today-articul8-transforms-110732232.html"
+            },
+            {
+                "headline": "We recently published a list of 10 Best High-Risk Stocks to Buy According to Billionaires. In this article, we are going to take a look at where Advanced Micro Devices, Inc. (NASDAQ:AMD) stands against other best high-risk stocks to buy according to billionaires. Investors often retreat into safer assets during volatility when the global markets [\u2026]",
+                "publication_date": "2025-04-07T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9403",
+                "source": "Insider Monkey",
+                "ticker": "AMD",
+                "title": "Is Advanced Micro Devices (AMD) the Best High-Risk Stock to Buy According to Billionaires?",
+                "url": "https://finance.yahoo.com/news/advanced-micro-devices-amd-best-120458540.html"
             }
         ],
-        "avgScore": 0.6612333333333332,
+        "avgScore": 0.7296333333333332,
         "pctChange": -0.06492109450980957
     },
     "4 4 2025": {
@@ -678,16 +804,6 @@
                 "url": "https://finance.yahoo.com/news/ai-chips-today-pioneering-power-110730132.html"
             },
             {
-                "headline": "Artisan Partners, an investment management company, released its \u201cArtisan Global Opportunities Fund\u201d fourth quarter 2024 investor letter. A copy of the letter can be downloaded here. US equities experienced significant gains in Q4, showcasing a strong year. The portfolio showed slight weakness in Q4 but posted a strong absolute return in 2024. In the fourth [\u2026]",
-                "publication_date": "2025-04-04T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8225",
-                "source": "Insider Monkey",
-                "ticker": "AMD",
-                "title": "Here\u2019s Why Advanced Micro Devices (AMD) Fell in Q4 and 2024",
-                "url": "https://finance.yahoo.com/news/why-advanced-micro-devices-amd-113837385.html"
-            },
-            {
                 "headline": "There's no hiding it: Graphics processing unit (GPU) leader Nvidia is eating rival Advanced Micro Devices' (NASDAQ: AMD) lunch in the data center space.  A rising tide really can lift all boats, and that holds especially true with Nvidia and AMD, as large data center operators don't want to get locked into one GPU provider.  Nvidia recently made a bold prediction about where data center infrastructure spending is going -- spending that will benefit both Nvidia and AMD.",
                 "publication_date": "2025-04-04T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -696,6 +812,26 @@
                 "ticker": "AMD",
                 "title": "1 Prediction From Nvidia That Should Excite AMD Investors",
                 "url": "https://finance.yahoo.com/news/1-prediction-nvidia-excite-amd-111500109.html"
+            },
+            {
+                "headline": "Intel and TSMC have reached a tentative agreement to shore up Intel's foundry business, according to The Information.",
+                "publication_date": "2025-04-04T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5574",
+                "source": "Yahoo Finance",
+                "ticker": "AMD",
+                "title": "Intel and TSMC reach tentative deal on chip manufacturing: Report",
+                "url": "https://finance.yahoo.com/news/intel-and-tsmc-reach-tentative-deal-on-chip-manufacturing-report-202417844.html"
+            },
+            {
+                "headline": "AMD, NVIDIA, Microsoft, Meta and Oracle are part of the Zacks top Analyst Blog.",
+                "publication_date": "2025-04-04T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.2023",
+                "source": "Zacks",
+                "ticker": "AMD",
+                "title": "The Zacks Analyst Blog Highlights AMD, NVIDIA, Microsoft, Meta and Oracle",
+                "url": "https://finance.yahoo.com/news/zacks-analyst-blog-highlights-amd-130000730.html"
             },
             {
                 "headline": "AMD competes with NVIDIA in the GPU market and has gained some of the latter's key clients. Can AMD stock surpass NVIDIA?",
@@ -716,19 +852,9 @@
                 "ticker": "AMD",
                 "title": "Intel and TSMC reach tentative deal on chip manufacturing: Report",
                 "url": "https://finance.yahoo.com/news/intel-and-tsmc-reach-tentative-deal-on-chip-manufacturing-report-202417844.html"
-            },
-            {
-                "headline": "There's no hiding it: Graphics processing unit (GPU) leader Nvidia is eating rival Advanced Micro Devices' (NASDAQ: AMD) lunch in the data center space.  A rising tide really can lift all boats, and that holds especially true with Nvidia and AMD, as large data center operators don't want to get locked into one GPU provider.  Nvidia recently made a bold prediction about where data center infrastructure spending is going -- spending that will benefit both Nvidia and AMD.",
-                "publication_date": "2025-04-04T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7245",
-                "source": "Motley Fool",
-                "ticker": "AMD",
-                "title": "1 Prediction From Nvidia That Should Excite AMD Investors",
-                "url": "https://finance.yahoo.com/news/1-prediction-nvidia-excite-amd-111500109.html"
             }
         ],
-        "avgScore": 0.68736,
+        "avgScore": 0.56332,
         "pctChange": -0.02472018066434268
     },
     "4 3 2025": {
@@ -754,24 +880,14 @@
                 "url": "https://finance.yahoo.com/news/smci-stock-set-transition-micro-112827327.html"
             },
             {
-                "headline": "Intel's new CEO Lip-Bu Tan is looking to reinvigorate the company's growth. It won't be easy.",
+                "headline": "Artisan Partners, an investment management company, released its \u201cArtisan Global Opportunities Fund\u201d fourth quarter 2024 investor letter. A copy of the letter can be downloaded here. US equities experienced significant gains in Q4, showcasing a strong year. The portfolio showed slight weakness in Q4 but posted a strong absolute return in 2024. In the fourth [\u2026]",
                 "publication_date": "2025-04-03T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.5414",
-                "source": "Yahoo Finance",
+                "sentimentScore": "0.8225",
+                "source": "Insider Monkey",
                 "ticker": "AMD",
-                "title": "Intel's new CEO Lip-Bu Tan makes his case for a revived Intel",
-                "url": "https://finance.yahoo.com/news/intels-new-ceo-lip-bu-tan-makes-his-case-for-a-revived-intel-134818514.html"
-            },
-            {
-                "headline": "CoreWeave's stock finds its footing after a muted IPO.",
-                "publication_date": "2025-04-03T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Yahoo Finance",
-                "ticker": "AMD",
-                "title": "CoreWeave stock rips higher after muted IPO",
-                "url": "https://finance.yahoo.com/news/coreweave-stock-rips-higher-after-muted-ipo-144723161.html"
+                "title": "Here\u2019s Why Advanced Micro Devices (AMD) Fell in Q4 and 2024",
+                "url": "https://finance.yahoo.com/news/why-advanced-micro-devices-amd-113837385.html"
             },
             {
                 "headline": "Nvidia's Blackwell computing platform set performance records in artificial intelligence inferencing tests. But Nvidia stock wavered on the news.",
@@ -784,17 +900,27 @@
                 "url": "https://finance.yahoo.com/m/d05a5504-688e-3fad-912d-e0a40654521c/nvidia-blackwell-sets-ai.html"
             },
             {
-                "headline": "Madison Mills and Julie Hyman take a look at some of Wednesday's trending tickers on Yahoo Finance. Chipmaker stocks, like Nvidia (NVDA), Advanced Micro Devices (AMD), and Taiwan Semiconductor Manufacturing Company (TSM), are under pressure as investors wait for US President Donald Trump's tariff announcement. European automakers, including Volkswagen (VOW3.DE), Mercedes-Benz (MBG.DE), and Ferrari (RACE.MI), are in focus as Trump's tariffs on auto imports weigh on the sector. To watch more expert insights and analysis on the latest market action, check out more Morning Brief here.",
+                "headline": "Trump said the import tariff rate for Taiwan will be set at 32%. Initially, that looked like bad news for American chip makers like Nvidia, Advanced Micro Devices, and Qualcomm, which are customers of Taiwan Semiconductor Manufacturing Co.",
                 "publication_date": "2025-04-03T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.3182",
-                "source": "Yahoo Finance Video",
+                "sentimentScore": "0.3612",
+                "source": "Barrons.com",
                 "ticker": "AMD",
-                "title": "Nvidia, European automakers: Trending Tickers",
-                "url": "https://finance.yahoo.com/video/nvidia-european-automakers-trending-tickers-134746708.html"
+                "title": "White House Says Taiwan Tariffs Won\u2019t Apply to Chips",
+                "url": "https://finance.yahoo.com/m/f3724bff-456f-36dd-b1f8-c12b6385cca3/white-house-says-taiwan.html"
+            },
+            {
+                "headline": "Artisan Partners, an investment management company, released its \u201cArtisan Global Opportunities Fund\u201d fourth quarter 2024 investor letter. A copy of the letter can be downloaded here. US equities experienced significant gains in Q4, showcasing a strong year. The portfolio showed slight weakness in Q4 but posted a strong absolute return in 2024. In the fourth [\u2026]",
+                "publication_date": "2025-04-03T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8225",
+                "source": "Insider Monkey",
+                "ticker": "AMD",
+                "title": "Here\u2019s Why Advanced Micro Devices (AMD) Fell in Q4 and 2024",
+                "url": "https://finance.yahoo.com/news/why-advanced-micro-devices-amd-113837385.html"
             }
         ],
-        "avgScore": 0.4662857142857143,
+        "avgScore": 0.6453800000000001,
         "pctChange": -0.08571429268601366
     },
     "4 2 2025": {
@@ -830,61 +956,41 @@
                 "url": "https://finance.yahoo.com/news/advanced-micro-devices-nasdaqgs-amd-173625064.html"
             },
             {
-                "headline": "The recent dip in NVDA stock provides an opportunity to invest in a company that continues to shape the future of AI, cloud computing and data centers.",
+                "headline": "CoreWeave's stock finds its footing after a muted IPO.",
                 "publication_date": "2025-04-02T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4215",
-                "source": "Zacks",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Yahoo Finance",
                 "ticker": "AMD",
-                "title": "NVIDIA Stock Dips 20% YTD: A Buying Opportunity Amid Market Fears",
-                "url": "https://finance.yahoo.com/news/nvidia-stock-dips-20-ytd-131500024.html"
+                "title": "CoreWeave stock rips higher after muted IPO",
+                "url": "https://finance.yahoo.com/news/coreweave-stock-rips-higher-after-muted-ipo-144723161.html"
             },
             {
-                "headline": "Why investors should use the Zacks Earnings ESP tool to help find stocks that are poised to top quarterly earnings estimates.",
+                "headline": "Madison Mills and Julie Hyman take a look at some of Wednesday's trending tickers on Yahoo Finance. Chipmaker stocks, like Nvidia (NVDA), Advanced Micro Devices (AMD), and Taiwan Semiconductor Manufacturing Company (TSM), are under pressure as investors wait for US President Donald Trump's tariff announcement. European automakers, including Volkswagen (VOW3.DE), Mercedes-Benz (MBG.DE), and Ferrari (RACE.MI), are in focus as Trump's tariffs on auto imports weigh on the sector. To watch more expert insights and analysis on the latest market action, check out more Morning Brief here.",
                 "publication_date": "2025-04-02T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.6705",
-                "source": "Zacks",
+                "sentimentScore": "0.3182",
+                "source": "Yahoo Finance Video",
                 "ticker": "AMD",
-                "title": "These 2 Computer and Technology Stocks Could Beat Earnings: Why They Should Be on Your Radar",
-                "url": "https://finance.yahoo.com/news/2-computer-technology-stocks-could-130010119.html"
+                "title": "Nvidia, European automakers: Trending Tickers",
+                "url": "https://finance.yahoo.com/video/nvidia-european-automakers-trending-tickers-134746708.html"
             },
             {
-                "headline": "Advanced Micro (AMD) has an impressive earnings surprise history and currently possesses the right combination of the two key ingredients for a likely beat in its next quarterly report.",
+                "headline": "Intel's new CEO Lip-Bu Tan is looking to reinvigorate the company's growth. It won't be easy.",
                 "publication_date": "2025-04-02T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.7506",
-                "source": "Zacks",
+                "sentimentScore": "0.5414",
+                "source": "Yahoo Finance",
                 "ticker": "AMD",
-                "title": "Why Advanced Micro (AMD) is Poised to Beat Earnings Estimates Again",
-                "url": "https://finance.yahoo.com/news/why-advanced-micro-amd-poised-161011536.html"
+                "title": "Intel's new CEO Lip-Bu Tan makes his case for a revived Intel",
+                "url": "https://finance.yahoo.com/news/intels-new-ceo-lip-bu-tan-makes-his-case-for-a-revived-intel-134818514.html"
             }
         ],
-        "avgScore": 0.7358571428571429,
+        "avgScore": 0.5954285714285714,
         "pctChange": -0.08896655122539
     },
     "4 1 2025": {
         "importantArticles": [
-            {
-                "headline": "We recently published a list of Top 10 Growth Stocks in David Tepper\u2019s Portfolio. In this article, we are going to take a look at where Advanced Micro Devices Inc. (NASDAQ:AMD) stands against other top growth stocks in David Tepper\u2019s Portfolio. Buy \u201ceverything\u201d related to China has been David Tepper\u2019s investment theme despite the uncertainties [\u2026]",
-                "publication_date": "2025-04-01T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8701",
-                "source": "Insider Monkey",
-                "ticker": "AMD",
-                "title": "Is Advanced Micro Devices Inc. (AMD) the Top Growth Stock in David Tepper\u2019s Portfolio?",
-                "url": "https://finance.yahoo.com/news/advanced-micro-devices-inc-amd-153025298.html"
-            },
-            {
-                "headline": "\u2014 Leading cloud services providers expand their adoption of EPYC CPUs to meet growing public cloud demand \u2014 SANTA CLARA, Calif., March 31, 2025 (GLOBE NEWSWIRE) -- Today, AMD (NASDAQ: AMD) announced 5th Gen AMD EPYC\u2122 processors power the Oracle Cloud Infrastructure (OCI) Compute E6 Standard shapes. 5th Gen AMD EPYC processors, the world\u2019s best server CPUs for enterprise, AI and cloud1, enable OCI Compute E6 shapes to deliver up to a 2X increase in cost to performance, compared to the previous E5",
-                "publication_date": "2025-04-01T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8402",
-                "source": "GlobeNewswire",
-                "ticker": "AMD",
-                "title": "Powered by 5th Gen AMD EPYC CPUs, Oracle Cloud Infrastructure Compute E6 Shapes Deliver Breakthrough Cloud Performance and Efficiency",
-                "url": "https://finance.yahoo.com/news/powered-5th-gen-amd-epyc-130000635.html"
-            },
             {
                 "headline": "It's home to many of the trillion-dollar tech giants that lead the artificial intelligence (AI) industry, so it has delivered spectacular returns over the last couple of years.  The Invesco QQQ Trust (NASDAQ: QQQ) is an exchange-traded fund (ETF) that tracks the performance of the Nasdaq-100 by holding the same stocks and maintaining similar weightings.  The Nasdaq-100 is weighted by market capitalization, meaning its largest constituents have a greater influence over its performance than the smallest.",
                 "publication_date": "2025-04-01T00:00:00.000Z",
@@ -896,14 +1002,24 @@
                 "url": "https://finance.yahoo.com/news/buy-invesco-qqq-etf-during-082700387.html"
             },
             {
-                "headline": "Semiconductors are the silicon backbone of the digital revolution. Still, they\u2019re subject to swings in the broader economy because customers often stockpile chips ahead of demand, and investors seem to believe that inventory levels are correcting - over the past six months, the industry has shed 21.3%. This drawdown was significantly worse than the S&P 500\u2019s 4% loss.",
+                "headline": "Advanced Micro (AMD) has an impressive earnings surprise history and currently possesses the right combination of the two key ingredients for a likely beat in its next quarterly report.",
                 "publication_date": "2025-04-01T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.7096",
-                "source": "StockStory",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7506",
+                "source": "Zacks",
                 "ticker": "AMD",
-                "title": "1 Semiconductor Stock on Our Watchlist and 2 to Brush Off",
-                "url": "https://finance.yahoo.com/news/1-semiconductor-stock-watchlist-2-130250826.html"
+                "title": "Why Advanced Micro (AMD) is Poised to Beat Earnings Estimates Again",
+                "url": "https://finance.yahoo.com/news/why-advanced-micro-amd-poised-161011536.html"
+            },
+            {
+                "headline": "Harvest Portfolio Management chief investment officer and Wall Street Beats partner Paul Meeks is on a self-described tech stock buying strike. Meeks joins Wealth with Julie Hyman to explain why, discuss macro conditions, examine the tech landscape, and more.To watch more expert insights and analysis on the latest market action, check out more Wealth here.",
+                "publication_date": "2025-04-01T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7096",
+                "source": "Yahoo Finance Video",
+                "ticker": "AMD",
+                "title": "Why this tech investor is on a buying strike",
+                "url": "https://finance.yahoo.com/video/why-tech-investor-buying-strike-100022413.html"
             },
             {
                 "headline": "Wall Street trims AMD targets as MI300x chip fails to close the gap with Nvidia; investor sentiment turns cautious",
@@ -916,71 +1032,101 @@
                 "url": "https://finance.yahoo.com/news/amd-downgraded-ai-chip-struggles-174312077.html"
             },
             {
-                "headline": "AMD CEO Lisa Su sends a mild warning on the impact of tariffs on semiconductors.",
+                "headline": "A $4.9B acquisition, 1,000 engineers, and a shot at dominating the next era of AI data centers",
                 "publication_date": "2025-04-01T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.296",
+                "source": "GuruFocus.com",
+                "ticker": "AMD",
+                "title": "AMD Just Made Its Boldest Move Yet to Beat Nvidia in the AI Race",
+                "url": "https://finance.yahoo.com/news/amd-just-made-boldest-move-190032323.html"
+            },
+            {
+                "headline": "Investment strategy may be on the verge of a major shift.",
+                "publication_date": "2025-04-01T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "TheStreet",
+                "ticker": "AMD",
+                "title": "Hedge fund short positions point to the end of Magnificent 7 era",
+                "url": "https://finance.yahoo.com/news/hedge-fund-short-positions-point-220300126.html"
+            }
+        ],
+        "avgScore": 0.3164777777777778,
+        "pctChange": 0.001751316475127639
+    },
+    "3 31 2025": {
+        "importantArticles": [
+            {
+                "headline": "We recently published a list of Top 10 Growth Stocks in David Tepper\u2019s Portfolio. In this article, we are going to take a look at where Advanced Micro Devices Inc. (NASDAQ:AMD) stands against other top growth stocks in David Tepper\u2019s Portfolio. Buy \u201ceverything\u201d related to China has been David Tepper\u2019s investment theme despite the uncertainties [\u2026]",
+                "publication_date": "2025-03-31T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8701",
+                "source": "Insider Monkey",
+                "ticker": "AMD",
+                "title": "Is Advanced Micro Devices Inc. (AMD) the Top Growth Stock in David Tepper\u2019s Portfolio?",
+                "url": "https://finance.yahoo.com/news/advanced-micro-devices-inc-amd-153025298.html"
+            },
+            {
+                "headline": "Arm expects sharp growth in server chip adoption as firms shift toward AI-focused, power-efficient architectures",
+                "publication_date": "2025-03-31T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.3818",
+                "source": "GuruFocus.com",
+                "ticker": "AMD",
+                "title": "Arm Sets Sights on 50% Data Center CPU Market Share Amid AI Demand Surge",
+                "url": "https://finance.yahoo.com/news/arm-sets-sights-50-data-155714964.html"
+            },
+            {
+                "headline": "Advanced Micro Devices (AMD) officially closed its $4.9 billion ZT Systems deal. It comes as the chip giant tries to further compete with rival Nvidia (NVDA) in the AI space. AMD CEO Lisa Su speaks with Yahoo Finance Executive Editor Brian Sozzi in an exclusive interview about the deal and what is next for the company. To watch more expert insights and analysis on the latest market action, check out more Catalysts here.",
+                "publication_date": "2025-03-31T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.3612",
+                "source": "Yahoo Finance Video",
+                "ticker": "AMD",
+                "title": "AMD CEO Lisa Su talks ZT Systems, AI, impact of tariffs",
+                "url": "https://finance.yahoo.com/video/amd-ceo-lisa-su-talks-145426470.html"
+            },
+            {
+                "headline": "Semiconductors are the silicon backbone of the digital revolution. Still, they\u2019re subject to swings in the broader economy because customers often stockpile chips ahead of demand, and investors seem to believe that inventory levels are correcting - over the past six months, the industry has shed 21.3%. This drawdown was significantly worse than the S&P 500\u2019s 4% loss.",
+                "publication_date": "2025-03-31T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.7096",
+                "source": "StockStory",
+                "ticker": "AMD",
+                "title": "1 Semiconductor Stock on Our Watchlist and 2 to Brush Off",
+                "url": "https://finance.yahoo.com/news/1-semiconductor-stock-watchlist-2-130250826.html"
+            },
+            {
+                "headline": "AMD CEO Lisa Su sends a mild warning on the impact of tariffs on semiconductors.",
+                "publication_date": "2025-03-31T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.34",
                 "source": "Yahoo Finance",
                 "ticker": "AMD",
                 "title": "AMD CEO Lisa Su: Trump tariffs could have 'short term' impact on chips",
                 "url": "https://finance.yahoo.com/news/amd-ceo-lisa-su-trump-tariffs-could-have-short-term-impact-on-chips-160339138.html"
+            },
+            {
+                "headline": "As Advanced Micro Devices withers, a bear call spread is possible if AMD stock struggles to get back above the 115 level.",
+                "publication_date": "2025-03-31T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.128",
+                "source": "Investor's Business Daily",
+                "ticker": "AMD",
+                "title": "How To Use A Bear Call Spread To Trade Struggling Shares Of AMD Stock",
+                "url": "https://finance.yahoo.com/m/28549d31-ec9b-320b-ac13-45997c0d3468/how-to-use-a-bear-call-spread.html"
             }
         ],
-        "avgScore": 0.16404999999999997,
-        "pctChange": 0.001751316475127639
-    },
-    "3 31 2025": {
-        "importantArticles": [
-            {
-                "headline": "We recently curated a list of 11 High-Risk High-Reward Growth Stocks To Buy Now. Here, we take a detailed look at Advanced Micro Devices, Inc. (NASDAQ:AMD) and its ranking among the top picks. The stock market has an ever-changing environment, leaving investors constantly looking for opportunities that promise substantial returns for their investments. Gaining a [\u2026]",
-                "publication_date": "2025-03-31T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.9169",
-                "source": "Insider Monkey",
-                "ticker": "AMD",
-                "title": "Advanced Micro Devices (AMD): Among Top High-Risk, High-Reward Growth Stocks To Buy Now",
-                "url": "https://finance.yahoo.com/news/advanced-micro-devices-amd-among-213933454.html"
-            },
-            {
-                "headline": "Alchip Technologies reported record-breaking financial results for 2024, driven by strong demand for their advanced 7nm AI chips, particularly in North America. AI chip applications constituted a substantial portion of their revenue, highlighting the growing reliance on high-performance computing and AI-specific ASICs. The company saw significant increases across all key financial metrics, including revenue, operating income, net income, and earnings per share. Such developments underscore...",
-                "publication_date": "2025-03-31T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8519",
-                "source": "Simply Wall St.",
-                "ticker": "AMD",
-                "title": "AI Chips Today - Alchip Advances With Record 2024 AI Chip Performance",
-                "url": "https://finance.yahoo.com/news/ai-chips-today-alchip-advances-110713607.html"
-            },
-            {
-                "headline": "Alchip Technologies reported record-breaking financial results for 2024, driven by strong demand for their advanced 7nm AI chips, particularly in North America. AI chip applications constituted a substantial portion of their revenue, highlighting the growing reliance on high-performance computing and AI-specific ASICs. The company saw significant increases across all key financial metrics, including revenue, operating income, net income, and earnings per share. Such developments underscore...",
-                "publication_date": "2025-03-31T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8519",
-                "source": "Simply Wall St.",
-                "ticker": "AMD",
-                "title": "AI Chips Today - Alchip Advances With Record 2024 AI Chip Performance",
-                "url": "https://finance.yahoo.com/news/ai-chips-today-alchip-advances-110713607.html"
-            },
-            {
-                "headline": "We recently curated a list of 11 High-Risk High-Reward Growth Stocks To Buy Now. Here, we take a detailed look at Advanced Micro Devices, Inc. (NASDAQ:AMD) and its ranking among the top picks. The stock market has an ever-changing environment, leaving investors constantly looking for opportunities that promise substantial returns for their investments. Gaining a [\u2026]",
-                "publication_date": "2025-03-31T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.9169",
-                "source": "Insider Monkey",
-                "ticker": "AMD",
-                "title": "Advanced Micro Devices (AMD): Among Top High-Risk, High-Reward Growth Stocks To Buy Now",
-                "url": "https://finance.yahoo.com/news/advanced-micro-devices-amd-among-213933454.html"
-            }
-        ],
-        "avgScore": 0.8844000000000001,
+        "avgScore": 0.0856875,
         "pctChange": 0.0003893412143183406
     },
-    "coef": 0.0,
-    "avgCoef": -0.02983315799680396,
+    "coef": -0.661764705882353,
+    "avgCoef": -0.019797300642675878,
     "similar": {
-        "MRVL": 0.44117647058823534,
-        "SMCI": 0.3970588235294118,
-        "HIMS": 0.34411764705882353,
-        "NU": 0.3382352941176471
+        "T": 0.09068627450980393,
+        "IAG": -0.04411764705882353,
+        "NEM": -0.12254901960784316,
+        "VZ": -0.14705882352941177
     }
 }

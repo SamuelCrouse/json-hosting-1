@@ -51,11 +51,11 @@
         "avgScore": 0.4391,
         "pctChange": -0.0006381766964356681
     },
-    "4 2 2025": {
+    "4 1 2025": {
         "importantArticles": [
             {
                 "headline": "ST. PAUL, Minn., April 01, 2025--Patterson Companies, Inc. (NASDAQ: PDCO), a value-added specialty distributor serving the U.S. and Canadian dental supply markets and the U.S., Canadian and U.K. animal health supply markets, today announced that its shareholders approved at a special meeting the acquisition of Patterson by Patient Square Capital, a dedicated health care investment firm.",
-                "publication_date": "2025-04-02T00:00:00.000Z",
+                "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.8934",
                 "source": "Business Wire",
@@ -65,7 +65,7 @@
             },
             {
                 "headline": "ST. PAUL, Minn., April 01, 2025--Patterson Companies, Inc. (NASDAQ: PDCO), a value-added specialty distributor serving the U.S. and Canadian dental supply markets and the U.S., Canadian and U.K. animal health supply markets, today announced that its shareholders approved at a special meeting the acquisition of Patterson by Patient Square Capital, a dedicated health care investment firm.",
-                "publication_date": "2025-04-02T00:00:00.000Z",
+                "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.8934",
                 "source": "Business Wire",
@@ -75,7 +75,7 @@
             }
         ],
         "avgScore": 0.8934,
-        "pctChange": -0.0022379028336382877
+        "pctChange": 0.000639809904581926
     },
     "3 28 2025": {
         "importantArticles": [
@@ -129,12 +129,12 @@
         "avgScore": -0.2263,
         "pctChange": 0.0
     },
-    "coef": -0.7,
-    "avgCoef": -0.04450705715332902,
+    "coef": -0.09999999999999999,
+    "avgCoef": 0.0007971112920186493,
     "similar": {
-        "INTC": 0.3,
-        "T": 0.3,
-        "SOUN": 0.3,
-        "ACHR": 0.19999999999999998
+        "MARA": 0.9999999999999999,
+        "HL": 0.9999999999999999,
+        "CLSK": 0.8999999999999998,
+        "ACHR": 0.8999999999999998
     }
 }

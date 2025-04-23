@@ -12,26 +12,6 @@
                 "url": "https://finance.yahoo.com/news/riot-platforms-nasdaqcm-riot-sees-175118464.html"
             },
             {
-                "headline": "(Bloomberg) -- Shares of Coinbase Global Inc. and other firms linked to cryptocurrencies were hammered this quarter as growing concerns about the US economy weighed on digital assets. Most Read from BloombergGold-Rush Fever Returns to Historic New Zealand Mining TownWhat Frank Lloyd Wright Learned From the DesertBank Regulators Fight for Desks as OCC Returns to New York TowerCoinbase fell 31% in the worst quarterly performance since FTX collapsed near the end of 2022. Nearly every major crypto-l",
-                "publication_date": "2025-04-01T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.6369",
-                "source": "Bloomberg",
-                "ticker": "RIOT",
-                "title": "Coinbase Shares Head for Worst Quarter Since FTX Collapse as Crypto Slumps",
-                "url": "https://finance.yahoo.com/news/coinbase-shares-head-worst-quarter-201826737.html"
-            },
-            {
-                "headline": "(Bloomberg) -- Shares of Coinbase Global Inc. and other firms linked to cryptocurrencies were hammered this quarter as growing concerns about the US economy weighed on digital assets. Most Read from BloombergGold-Rush Fever Returns to Historic New Zealand Mining TownWhat Frank Lloyd Wright Learned From the DesertBank Regulators Fight for Desks as OCC Returns to New York TowerCoinbase fell 31% in the worst quarterly performance since FTX collapsed near the end of 2022. Nearly every major crypto-l",
-                "publication_date": "2025-04-01T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.6369",
-                "source": "Bloomberg",
-                "ticker": "RIOT",
-                "title": "Coinbase Shares Head for Worst Quarter Since FTX Collapse as Crypto Slumps",
-                "url": "https://finance.yahoo.com/news/coinbase-shares-head-worst-quarter-201826737.html"
-            },
-            {
                 "headline": "Riot Platforms (NasdaqCM:RIOT) saw an 18% decline in its share price last week. This drop came on the heels of the company announcing an increase in bitcoin production, with 470 bitcoins produced in February 2025 compared to 418 in the previous year. Despite these operational improvements, the broader market context was challenging. Investors were focused on looming tariffs that fueled economic concerns, resulting in volatile trading across the market. With the S&P 500 and Nasdaq recently...",
                 "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -42,7 +22,7 @@
                 "url": "https://finance.yahoo.com/news/riot-platforms-nasdaqcm-riot-sees-175118464.html"
             }
         ],
-        "avgScore": -0.37765000000000004,
+        "avgScore": -0.1184,
         "pctChange": 0.06366054354629994
     },
     "3 31 2025": {
@@ -58,6 +38,26 @@
                 "url": "https://finance.yahoo.com/news/riot-platforms-riot-expands-high-135653106.html"
             },
             {
+                "headline": "(Bloomberg) -- Shares of Coinbase Global Inc. and other firms linked to cryptocurrencies were hammered this quarter as growing concerns about the US economy weighed on digital assets. Most Read from BloombergGold-Rush Fever Returns to Historic New Zealand Mining TownWhat Frank Lloyd Wright Learned From the DesertBank Regulators Fight for Desks as OCC Returns to New York TowerCoinbase fell 31% in the worst quarterly performance since FTX collapsed near the end of 2022. Nearly every major crypto-l",
+                "publication_date": "2025-03-31T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.6369",
+                "source": "Bloomberg",
+                "ticker": "RIOT",
+                "title": "Coinbase Shares Head for Worst Quarter Since FTX Collapse as Crypto Slumps",
+                "url": "https://finance.yahoo.com/news/coinbase-shares-head-worst-quarter-201826737.html"
+            },
+            {
+                "headline": "(Bloomberg) -- Shares of Coinbase Global Inc. and other firms linked to cryptocurrencies were hammered this quarter as growing concerns about the US economy weighed on digital assets. Most Read from BloombergGold-Rush Fever Returns to Historic New Zealand Mining TownWhat Frank Lloyd Wright Learned From the DesertBank Regulators Fight for Desks as OCC Returns to New York TowerCoinbase fell 31% in the worst quarterly performance since FTX collapsed near the end of 2022. Nearly every major crypto-l",
+                "publication_date": "2025-03-31T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.6369",
+                "source": "Bloomberg",
+                "ticker": "RIOT",
+                "title": "Coinbase Shares Head for Worst Quarter Since FTX Collapse as Crypto Slumps",
+                "url": "https://finance.yahoo.com/news/coinbase-shares-head-worst-quarter-201826737.html"
+            },
+            {
                 "headline": "We recently published a list of Top 9 AI Ratings and News Updates on Wall Street\u2019s Radar. In this article, we are going to take a look at where Riot Platforms Inc. (NASDAQ:RIOT) stands against other top AI ratings and news updates on Wall Street\u2019s radar. Despite AI\u2019s potential to transform our lives for the [\u2026]",
                 "publication_date": "2025-03-31T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -68,7 +68,7 @@
                 "url": "https://finance.yahoo.com/news/riot-platforms-riot-expands-high-135653106.html"
             }
         ],
-        "avgScore": -0.25,
+        "avgScore": -0.44345,
         "pctChange": 0.05898877570852176
     },
     "3 24 2025": {
@@ -97,12 +97,12 @@
         "avgScore": -0.1531,
         "pctChange": -0.02408257244452202
     },
-    "coef": -1.0,
-    "avgCoef": -0.0026842396909054996,
+    "coef": 0.5,
+    "avgCoef": 0.009163469756195553,
     "similar": {
-        "AAPL": 1.0,
-        "GOLD": 1.0,
-        "T": 1.0,
-        "ITUB": 1.0
+        "F": 1.0,
+        "AMZN": 1.0,
+        "WBD": 1.0,
+        "BAC": 1.0
     }
 }

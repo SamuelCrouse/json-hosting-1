@@ -1,9 +1,9 @@
 {
-    "4 16 2025": {
+    "4 15 2025": {
         "importantArticles": [
             {
                 "headline": "Tencent Music Entertainment Group (\"TME\", or the \"Company\") (NYSE: TME and HKEX: 1698), the leading online music and audio entertainment platform in China, today announced that it will report its unaudited financial results for the first quarter of 2025 before the U.S. market opens on Tuesday, May 13, 2025.",
-                "publication_date": "2025-04-16T00:00:00.000Z",
+                "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.6808",
                 "source": "PR Newswire",
@@ -13,7 +13,7 @@
             },
             {
                 "headline": "Tencent Music Entertainment Group (\"TME\", or the \"Company\") (NYSE: TME and HKEX: 1698), the leading online music and audio entertainment platform in China, today announced that it will report its unaudited financial results for the first quarter of 2025 before the U.S. market opens on Tuesday, May 13, 2025.",
-                "publication_date": "2025-04-16T00:00:00.000Z",
+                "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.6808",
                 "source": "PR Newswire",
@@ -23,7 +23,7 @@
             }
         ],
         "avgScore": 0.6808,
-        "pctChange": -0.0032441169586807646
+        "pctChange": -0.035965601213366026
     },
     "4 10 2025": {
         "importantArticles": [
@@ -51,32 +51,6 @@
         "avgScore": 0.6908,
         "pctChange": -0.02081667202933499
     },
-    "4 2 2025": {
-        "importantArticles": [
-            {
-                "headline": "Tencent Music Entertainment Group (\"TME\", or the \"Company\") (NYSE: TME and HKEX: 1698), the leading online music and audio entertainment platform in China, today released its 2024 Environmental, Social and Governance (\"ESG\") report, outlining the achievements and progress it made throughout the year in executing a sustainability strategy.",
-                "publication_date": "2025-04-02T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8126",
-                "source": "PR Newswire",
-                "ticker": "TME",
-                "title": "Tencent Music Entertainment Group Releases 2024 ESG Report",
-                "url": "https://finance.yahoo.com/news/tencent-music-entertainment-group-releases-090000472.html"
-            },
-            {
-                "headline": "Tencent Music Entertainment Group (\"TME\", or the \"Company\") (NYSE: TME and HKEX: 1698), the leading online music and audio entertainment platform in China, today released its 2024 Environmental, Social and Governance (\"ESG\") report, outlining the achievements and progress it made throughout the year in executing a sustainability strategy.",
-                "publication_date": "2025-04-02T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8126",
-                "source": "PR Newswire",
-                "ticker": "TME",
-                "title": "Tencent Music Entertainment Group Releases 2024 ESG Report",
-                "url": "https://finance.yahoo.com/news/tencent-music-entertainment-group-releases-090000472.html"
-            }
-        ],
-        "avgScore": 0.8126,
-        "pctChange": -0.010366314404732914
-    },
     "3 24 2025": {
         "importantArticles": [
             {
@@ -103,12 +77,12 @@
         "avgScore": 0.9657,
         "pctChange": 0.004936508696594912
     },
-    "coef": 0.39999999999999997,
-    "avgCoef": -0.006032483476667155,
+    "coef": 1.0,
+    "avgCoef": -0.013588396363523077,
     "similar": {
-        "INTC": 0.7999999999999999,
-        "TSLA": 0.39999999999999997,
-        "BTG": 0.39999999999999997,
-        "T": 0.39999999999999997
+        "TSLA": 1.0,
+        "INTC": 1.0,
+        "WBD": 1.0,
+        "BAC": 1.0
     }
 }

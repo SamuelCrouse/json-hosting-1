@@ -23,7 +23,7 @@
             }
         ],
         "avgScore": 0.891,
-        "pctChange": 3.1713454482261584e-05
+        "pctChange": 0.0015872621812589682
     },
     "4 17 2025": {
         "importantArticles": [
@@ -244,16 +244,6 @@
     "4 1 2025": {
         "importantArticles": [
             {
-                "headline": "BMO Capital Markets on Monday reiterated its outperform rating on the shares of B2Gold (BTO.TO) whil",
-                "publication_date": "2025-04-01T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.296",
-                "source": "MT Newswires",
-                "ticker": "BTG",
-                "title": "B2Gold Maintained at Outperform at BMO; Price Target Cut to C$6.50",
-                "url": "https://finance.yahoo.com/news/b2gold-maintained-outperform-bmo-price-171155323.html"
-            },
-            {
                 "headline": "VANCOUVER, British Columbia, April 01, 2025 (GLOBE NEWSWIRE) -- B2Gold Corp. (TSX: BTO) (NYSE American: BTG) (\u201cB2Gold\u201d or the \u201cCompany\u201d) announces that, further to the press release of the Company dated January 13, 2025 (the \u201cAnnouncement PR\u201d), the Toronto Stock Exchange (the \u201cTSX\u201d) has accepted the notice of B2Gold\u2019s intention to implement a normal course issuer bid (the \u201cNCIB\u201d). The Company\u2019s decision to approve the NCIB is consistent with its amended shareholder return strategy outlined in th",
                 "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -272,24 +262,24 @@
                 "ticker": "BTG",
                 "title": "B2Gold Announces TSX Approval for Normal Course Issuer Bid",
                 "url": "https://finance.yahoo.com/news/b2gold-announces-tsx-approval-normal-100000046.html"
-            },
-            {
-                "headline": "BMO Capital Markets on Monday reiterated its outperform rating on the shares of B2Gold (BTO.TO) whil",
-                "publication_date": "2025-04-01T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.296",
-                "source": "MT Newswires",
-                "ticker": "BTG",
-                "title": "B2Gold Maintained at Outperform at BMO; Price Target Cut to C$6.50",
-                "url": "https://finance.yahoo.com/news/b2gold-maintained-outperform-bmo-price-171155323.html"
             }
         ],
-        "avgScore": 0.28459999999999996,
+        "avgScore": 0.2732,
         "pctChange": 0.006896544920278584
     },
     "3 31 2025": {
         "importantArticles": [
             {
+                "headline": "BMO Capital Markets on Monday reiterated its outperform rating on the shares of B2Gold (BTO.TO) whil",
+                "publication_date": "2025-03-31T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.296",
+                "source": "MT Newswires",
+                "ticker": "BTG",
+                "title": "B2Gold Maintained at Outperform at BMO; Price Target Cut to C$6.50",
+                "url": "https://finance.yahoo.com/news/b2gold-maintained-outperform-bmo-price-171155323.html"
+            },
+            {
                 "headline": "Investors looking for ways to find stocks that are set to beat quarterly earnings estimates should check out the Zacks Earnings ESP.",
                 "publication_date": "2025-03-31T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -308,9 +298,19 @@
                 "ticker": "BTG",
                 "title": "How to Find Strong Basic Materials Stocks Slated for Positive Earnings Surprises",
                 "url": "https://finance.yahoo.com/news/strong-basic-materials-stocks-slated-130009819.html"
+            },
+            {
+                "headline": "BMO Capital Markets on Monday reiterated its outperform rating on the shares of B2Gold (BTO.TO) whil",
+                "publication_date": "2025-03-31T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.296",
+                "source": "MT Newswires",
+                "ticker": "BTG",
+                "title": "B2Gold Maintained at Outperform at BMO; Price Target Cut to C$6.50",
+                "url": "https://finance.yahoo.com/news/b2gold-maintained-outperform-bmo-price-171155323.html"
             }
         ],
-        "avgScore": 0.0,
+        "avgScore": 0.148,
         "pctChange": 0.017543927160695635
     },
     "3 28 2025": {
@@ -405,12 +405,12 @@
         "avgScore": -0.296,
         "pctChange": -0.025236643595971824
     },
-    "coef": 0.1425381518602279,
-    "avgCoef": -0.024199805741531525,
+    "coef": 0.21461410953929488,
+    "avgCoef": -0.006021814981537461,
     "similar": {
-        "F": 0.625328666225516,
-        "TEM": 0.6115346515293649,
-        "NIO": 0.5471625829473264,
-        "DNB": 0.5379665731498925
+        "SNAP": 0.5570834332722122,
+        "MSTR": 0.5342521450233512,
+        "NIO": 0.5296858873735789,
+        "TEM": 0.5296858873735789
     }
 }

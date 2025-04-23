@@ -1,9 +1,9 @@
 {
-    "4 1 2025": {
+    "4 2 2025": {
         "importantArticles": [
             {
                 "headline": "Riot Platforms (NasdaqCM:RIOT) saw an 18% decline in its share price last week. This drop came on the heels of the company announcing an increase in bitcoin production, with 470 bitcoins produced in February 2025 compared to 418 in the previous year. Despite these operational improvements, the broader market context was challenging. Investors were focused on looming tariffs that fueled economic concerns, resulting in volatile trading across the market. With the S&P 500 and Nasdaq recently...",
-                "publication_date": "2025-04-01T00:00:00.000Z",
+                "publication_date": "2025-04-02T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.1184",
                 "source": "Simply Wall St.",
@@ -13,7 +13,7 @@
             },
             {
                 "headline": "Riot Platforms (NasdaqCM:RIOT) saw an 18% decline in its share price last week. This drop came on the heels of the company announcing an increase in bitcoin production, with 470 bitcoins produced in February 2025 compared to 418 in the previous year. Despite these operational improvements, the broader market context was challenging. Investors were focused on looming tariffs that fueled economic concerns, resulting in volatile trading across the market. With the S&P 500 and Nasdaq recently...",
-                "publication_date": "2025-04-01T00:00:00.000Z",
+                "publication_date": "2025-04-02T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.1184",
                 "source": "Simply Wall St.",
@@ -23,13 +23,13 @@
             }
         ],
         "avgScore": -0.1184,
-        "pctChange": 0.06366054354629994
+        "pctChange": -0.08977558926842957
     },
-    "3 31 2025": {
+    "4 1 2025": {
         "importantArticles": [
             {
                 "headline": "We recently published a list of Top 9 AI Ratings and News Updates on Wall Street\u2019s Radar. In this article, we are going to take a look at where Riot Platforms Inc. (NASDAQ:RIOT) stands against other top AI ratings and news updates on Wall Street\u2019s radar. Despite AI\u2019s potential to transform our lives for the [\u2026]",
-                "publication_date": "2025-03-31T00:00:00.000Z",
+                "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.25",
                 "source": "Insider Monkey",
@@ -39,7 +39,7 @@
             },
             {
                 "headline": "(Bloomberg) -- Shares of Coinbase Global Inc. and other firms linked to cryptocurrencies were hammered this quarter as growing concerns about the US economy weighed on digital assets. Most Read from BloombergGold-Rush Fever Returns to Historic New Zealand Mining TownWhat Frank Lloyd Wright Learned From the DesertBank Regulators Fight for Desks as OCC Returns to New York TowerCoinbase fell 31% in the worst quarterly performance since FTX collapsed near the end of 2022. Nearly every major crypto-l",
-                "publication_date": "2025-03-31T00:00:00.000Z",
+                "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.6369",
                 "source": "Bloomberg",
@@ -49,7 +49,7 @@
             },
             {
                 "headline": "(Bloomberg) -- Shares of Coinbase Global Inc. and other firms linked to cryptocurrencies were hammered this quarter as growing concerns about the US economy weighed on digital assets. Most Read from BloombergGold-Rush Fever Returns to Historic New Zealand Mining TownWhat Frank Lloyd Wright Learned From the DesertBank Regulators Fight for Desks as OCC Returns to New York TowerCoinbase fell 31% in the worst quarterly performance since FTX collapsed near the end of 2022. Nearly every major crypto-l",
-                "publication_date": "2025-03-31T00:00:00.000Z",
+                "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.6369",
                 "source": "Bloomberg",
@@ -59,7 +59,7 @@
             },
             {
                 "headline": "We recently published a list of Top 9 AI Ratings and News Updates on Wall Street\u2019s Radar. In this article, we are going to take a look at where Riot Platforms Inc. (NASDAQ:RIOT) stands against other top AI ratings and news updates on Wall Street\u2019s radar. Despite AI\u2019s potential to transform our lives for the [\u2026]",
-                "publication_date": "2025-03-31T00:00:00.000Z",
+                "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.25",
                 "source": "Insider Monkey",
@@ -69,13 +69,13 @@
             }
         ],
         "avgScore": -0.44345,
-        "pctChange": 0.05898877570852176
+        "pctChange": 0.06366054354629994
     },
-    "3 24 2025": {
+    "3 25 2025": {
         "importantArticles": [
             {
                 "headline": "Riot Secures Term Sheet to Acquire Key Assets at Rockdale Facility",
-                "publication_date": "2025-03-24T00:00:00.000Z",
+                "publication_date": "2025-03-25T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.1531",
                 "source": "GuruFocus.com",
@@ -85,7 +85,7 @@
             },
             {
                 "headline": "Riot Secures Term Sheet to Acquire Key Assets at Rockdale Facility",
-                "publication_date": "2025-03-24T00:00:00.000Z",
+                "publication_date": "2025-03-25T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.1531",
                 "source": "GuruFocus.com",
@@ -95,14 +95,14 @@
             }
         ],
         "avgScore": -0.1531,
-        "pctChange": -0.02408257244452202
+        "pctChange": -0.07168038978943185
     },
-    "coef": 0.5,
-    "avgCoef": -0.013430891092954046,
+    "coef": -1.0,
+    "avgCoef": 0.05009794853176919,
     "similar": {
-        "F": 1.0,
-        "HTZ": 1.0,
-        "AMZN": 1.0,
-        "WBD": 1.0
+        "T": 1.0,
+        "VZ": 1.0,
+        "GOLD": 1.0,
+        "BBD": 1.0
     }
 }

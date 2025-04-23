@@ -2,6 +2,16 @@
     "4 23 2025": {
         "importantArticles": [
             {
+                "headline": "KGC vs. AEM: Which Stock Is the Better Value Option?",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6486",
+                "source": "Zacks",
+                "ticker": "KGC",
+                "title": "KGC vs. AEM: Which Stock Should Value Investors Buy Now?",
+                "url": "https://finance.yahoo.com/news/kgc-vs-aem-stock-value-154007363.html"
+            },
+            {
                 "headline": "LYB is expected to have benefited from demand improvements across most of its businesses amid headwinds from winter storm-related disruptions.",
                 "publication_date": "2025-04-23T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -32,38 +42,28 @@
                 "url": "https://finance.yahoo.com/news/dow-warms-q1-earnings-whats-100600217.html"
             },
             {
-                "headline": "DOW is expected to have benefited from its productivity initiatives amid headwinds from soft demand and pricing and cost pressures in Q1.",
-                "publication_date": "2025-04-23T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.4215",
-                "source": "Zacks",
-                "ticker": "KGC",
-                "title": "DOW Warms Up to Q1 Earnings: What's in the Cards for the Stock?",
-                "url": "https://finance.yahoo.com/news/dow-warms-q1-earnings-whats-100600217.html"
-            },
-            {
-                "headline": "The steel demand strengthened in Q1, with customer orders rebounding and backlogs growing steadily across STLD's steel and steel fabrication operations.",
+                "headline": "Does Kinross Gold (KGC) have what it takes to be a top stock pick for momentum investors? Let's find out.",
                 "publication_date": "2025-04-23T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.4588",
+                "sentimentScore": "0.2023",
                 "source": "Zacks",
                 "ticker": "KGC",
-                "title": "Steel Dynamics' Earnings and Revenues Outpace Estimates in Q1",
-                "url": "https://finance.yahoo.com/news/steel-dynamics-earnings-revenues-outpace-123400317.html"
+                "title": "Are You Looking for a Top Momentum Pick? Why Kinross Gold (KGC) is a Great Choice",
+                "url": "https://finance.yahoo.com/news/looking-top-momentum-pick-why-160002233.html"
             },
             {
-                "headline": "LYB is expected to have benefited from demand improvements across most of its businesses amid headwinds from winter storm-related disruptions.",
+                "headline": "The AngloGold Ashanti stock has been gaining lately on the back of gold prices. Let us determine whether this momentum will continue and if you should invest now.",
                 "publication_date": "2025-04-23T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.6289",
+                "sentimentScore": "0.4215",
                 "source": "Zacks",
                 "ticker": "KGC",
-                "title": "LyondellBasell to Report Q1 Earnings: What's in the Offing?",
-                "url": "https://finance.yahoo.com/news/lyondellbasell-report-q1-earnings-whats-115500391.html"
+                "title": "AU Stock Soars 87% YTD: Too Hot to Handle or a Golden Opportunity?",
+                "url": "https://finance.yahoo.com/news/au-stock-soars-87-ytd-151800484.html"
             }
         ],
-        "avgScore": 0.22206666666666663,
-        "pctChange": 0.03095026674386691
+        "avgScore": 0.3231,
+        "pctChange": 0.03491718104315215
     },
     "4 22 2025": {
         "importantArticles": [
@@ -109,7 +109,7 @@
             }
         ],
         "avgScore": 0.5276,
-        "pctChange": -0.027841140255261007
+        "pctChange": -0.024100444892643333
     },
     "4 21 2025": {
         "importantArticles": [
@@ -629,12 +629,12 @@
         "avgScore": 0.0516,
         "pctChange": -0.0015987575857510236
     },
-    "coef": 0.039285714285714285,
-    "avgCoef": -0.029197012217816225,
+    "coef": 0.03214285714285714,
+    "avgCoef": -0.0018239618049166553,
     "similar": {
-        "HL": 0.4357142857142856,
-        "JD": 0.38214285714285706,
-        "CDE": 0.33571428571428563,
-        "TEM": 0.3107142857142856
+        "HL": 0.46071428571428563,
+        "CDE": 0.3607142857142856,
+        "JD": 0.33928571428571425,
+        "TEM": 0.33571428571428563
     }
 }

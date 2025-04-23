@@ -2,6 +2,16 @@
     "4 23 2025": {
         "importantArticles": [
             {
+                "headline": "(Bloomberg) -- Antitrust officials at the US Justice Department are looking into Walt Disney Co.\u2019s deal to take a controlling stake in streaming company FuboTV Inc., according to people familiar with the plans.Most Read from BloombergTrump Gives New York \u2018One Last Chance\u2019 to End Congestion FeeDOGE Visits National Gallery of Art to Discuss Museum\u2019s Legal StatusThe Racial Wealth Gap Is Not Just About MoneyWhy Car YouTuber Matt Farah Is Fighting for Walkable CitiesBackyard Micro-Flats Aim to Ease S",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7964",
+                "source": "Bloomberg",
+                "ticker": "WBD",
+                "title": "DOJ Probes Disney-FuboTV Deal Over Competition Concerns",
+                "url": "https://finance.yahoo.com/news/doj-probes-disney-fubotv-deal-160215492.html"
+            },
+            {
                 "headline": "Warner shifted to a pared-down model rather than compete with Netflix, and now forecasts 150 million subscribers in 2026.",
                 "publication_date": "2025-04-23T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -20,23 +30,49 @@
                 "ticker": "WBD",
                 "title": "Max Streaming Service Builds Momentum by Dropping \u2018More Is Better\u2019 Approach",
                 "url": "https://finance.yahoo.com/m/685e917d-59c7-3664-978a-d7bdec3e5978/max-streaming-service-builds.html"
+            },
+            {
+                "headline": "(Bloomberg) -- Antitrust officials at the US Justice Department are looking into Walt Disney Co.\u2019s deal to take a controlling stake in streaming company FuboTV Inc., according to people familiar with the plans.Most Read from BloombergTrump Gives New York \u2018One Last Chance\u2019 to End Congestion FeeDOGE Visits National Gallery of Art to Discuss Museum\u2019s Legal StatusThe Racial Wealth Gap Is Not Just About MoneyWhy Car YouTuber Matt Farah Is Fighting for Walkable CitiesBackyard Micro-Flats Aim to Ease S",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7964",
+                "source": "Bloomberg",
+                "ticker": "WBD",
+                "title": "DOJ Probes Disney-FuboTV Deal Over Competition Concerns",
+                "url": "https://finance.yahoo.com/news/doj-probes-disney-fubotv-deal-160215492.html"
             }
         ],
-        "avgScore": 0.0,
-        "pctChange": 0.005408663214487781
+        "avgScore": 0.3982,
+        "pctChange": 0.007812564476180608
+    },
+    "4 17 2025": {
+        "importantArticles": [
+            {
+                "headline": "Warner Bros. Discovery (NasdaqGS:WBD) experienced significant executive and board changes recently, as Dr. John C. Malone announced he would transition to Chair Emeritus and Anton Levy is nominated to join the board. This corporate restructuring aligns with the company's objective to enhance governance, but investors' reactions may have been mixed given the company's stock saw a 14% decline over the past week. This movement occurred amidst a market context where the Dow Jones fell sharply,...",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.25",
+                "source": "Simply Wall St.",
+                "ticker": "WBD",
+                "title": "Warner Bros. Discovery (NasdaqGS:WBD) Sees Leadership Changes As Malone Becomes Chair Emeritus",
+                "url": "https://finance.yahoo.com/news/warner-bros-discovery-nasdaqgs-wbd-174117298.html"
+            },
+            {
+                "headline": "Warner Bros. Discovery (NasdaqGS:WBD) experienced significant executive and board changes recently, as Dr. John C. Malone announced he would transition to Chair Emeritus and Anton Levy is nominated to join the board. This corporate restructuring aligns with the company's objective to enhance governance, but investors' reactions may have been mixed given the company's stock saw a 14% decline over the past week. This movement occurred amidst a market context where the Dow Jones fell sharply,...",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.25",
+                "source": "Simply Wall St.",
+                "ticker": "WBD",
+                "title": "Warner Bros. Discovery (NasdaqGS:WBD) Sees Leadership Changes As Malone Becomes Chair Emeritus",
+                "url": "https://finance.yahoo.com/news/warner-bros-discovery-nasdaqgs-wbd-174117298.html"
+            }
+        ],
+        "avgScore": 0.25,
+        "pctChange": -0.020961727084269417
     },
     "4 11 2025": {
         "importantArticles": [
-            {
-                "headline": "Some of the biggest winners from yesterday\u2019s rally have erased much of those gains today.  Delta Air Lines logged a 23% gain yesterday. Today, shares have fallen more than 9%.   Warner Bros. Discovery rose 20% Wednesday and has dropped roughly 13% in today\u2019s trading.",
-                "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8225",
-                "source": "The Wall Street Journal",
-                "ticker": "WBD",
-                "title": "These Stocks are Leading Losses Today",
-                "url": "https://finance.yahoo.com/m/d331dbff-6212-38e0-93f9-c8bd6cbb4b1e/these-stocks-are-leading.html"
-            },
             {
                 "headline": "Warner Bros. Discovery, Inc. (the \"Company\") (Nasdaq: WBD) today announced that Dr. John C. Malone has decided not to stand for re-election to the Company's Board of Directors and will be transitioning to the role of Chair Emeritus, effective upon the expiration of his term at the 2025 Annual Meeting of Stockholders (\"Annual Meeting\").",
                 "publication_date": "2025-04-11T00:00:00.000Z",
@@ -58,14 +94,14 @@
                 "url": "https://finance.yahoo.com/news/john-malone-just-left-board-153130683.html"
             },
             {
-                "headline": "Here are some of the stories Wall Street is watching on Thursday, April 10. The ongoing trade battle between the US and China is weighing on shares of Apple (AAPL), Disney (DIS), and Warner Bros. Discovery (WBD). Oil prices (CL=F, BZ=F) are also falling on worries that tariffs could weigh on demand. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
+                "headline": "Julie Hyman and Josh Lipton take a closer look at some of Thursday's trending tickers on Market Domination. Tariff risks weigh on Nike (NKE) as US President Trump increases the tariff on imports from China to 145%. Entertainment stocks like Disney (DIS), Warner Bros. Discovery (WBD), and Fox (FOX, FOXA) are falling after China cut imports of Hollywood content. Novavax (NVAX) stock plunges after US Health and Human Services Secretary Robert F. Kennedy Jr. questioned the efficacy of the company's vaccines. To watch more expert insights and analysis on the latest market action, check out more Market Domination here.",
                 "publication_date": "2025-04-11T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.6486",
+                "sentimentScore": "-0.0772",
                 "source": "Yahoo Finance Video",
                 "ticker": "WBD",
-                "title": "Oil falls, China tensions weigh on Apple, Disney: Market Minute",
-                "url": "https://finance.yahoo.com/video/oil-falls-china-tensions-weigh-180921476.html"
+                "title": "Nike, Disney, Novavax: Trending Tickers",
+                "url": "https://finance.yahoo.com/video/nike-disney-novavax-trending-tickers-201810297.html"
             },
             {
                 "headline": "Julie Hyman and Josh Lipton take a closer look at some of Thursday's trending tickers on Market Domination. Tariff risks weigh on Nike (NKE) as US President Trump increases the tariff on imports from China to 145%. Entertainment stocks like Disney (DIS), Warner Bros. Discovery (WBD), and Fox (FOX, FOXA) are falling after China cut imports of Hollywood content. Novavax (NVAX) stock plunges after US Health and Human Services Secretary Robert F. Kennedy Jr. questioned the efficacy of the company's vaccines. To watch more expert insights and analysis on the latest market action, check out more Market Domination here.",
@@ -86,10 +122,66 @@
                 "ticker": "WBD",
                 "title": "John Malone Just Left the Board--But Might Be More Powerful Than Ever",
                 "url": "https://finance.yahoo.com/news/john-malone-just-left-board-153130683.html"
+            },
+            {
+                "headline": "Warner Bros. Discovery, Inc. (the \"Company\") (Nasdaq: WBD) today announced that Dr. John C. Malone has decided not to stand for re-election to the Company's Board of Directors and will be transitioning to the role of Chair Emeritus, effective upon the expiration of his term at the 2025 Annual Meeting of Stockholders (\"Annual Meeting\").",
+                "publication_date": "2025-04-11T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4767",
+                "source": "PR Newswire",
+                "ticker": "WBD",
+                "title": "Dr. John C. Malone to Transition to Chair Emeritus of Warner Bros. Discovery Board",
+                "url": "https://finance.yahoo.com/news/dr-john-c-malone-transition-120000438.html"
             }
         ],
-        "avgScore": 0.11468,
+        "avgScore": 0.13316666666666668,
         "pctChange": 0.00627360964721169
+    },
+    "4 10 2025": {
+        "importantArticles": [
+            {
+                "headline": "Some of the biggest winners from yesterday\u2019s rally have erased much of those gains today.  Delta Air Lines logged a 23% gain yesterday. Today, shares have fallen more than 9%.   Warner Bros. Discovery rose 20% Wednesday and has dropped roughly 13% in today\u2019s trading.",
+                "publication_date": "2025-04-10T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8225",
+                "source": "The Wall Street Journal",
+                "ticker": "WBD",
+                "title": "These Stocks are Leading Losses Today",
+                "url": "https://finance.yahoo.com/m/d331dbff-6212-38e0-93f9-c8bd6cbb4b1e/these-stocks-are-leading.html"
+            },
+            {
+                "headline": "Here are some of the stories Wall Street is watching on Thursday, April 10. The ongoing trade battle between the US and China is weighing on shares of Apple (AAPL), Disney (DIS), and Warner Bros. Discovery (WBD). Oil prices (CL=F, BZ=F) are also falling on worries that tariffs could weigh on demand. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
+                "publication_date": "2025-04-10T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.6486",
+                "source": "Yahoo Finance Video",
+                "ticker": "WBD",
+                "title": "Oil falls, China tensions weigh on Apple, Disney: Market Minute",
+                "url": "https://finance.yahoo.com/video/oil-falls-china-tensions-weigh-180921476.html"
+            },
+            {
+                "headline": "Here are some of the stories Wall Street is watching on Thursday, April 10. The ongoing trade battle between the US and China is weighing on shares of Apple (AAPL), Disney (DIS), and Warner Bros. Discovery (WBD). Oil prices (CL=F, BZ=F) are also falling on worries that tariffs could weigh on demand. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
+                "publication_date": "2025-04-10T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.6486",
+                "source": "Yahoo Finance Video",
+                "ticker": "WBD",
+                "title": "Oil falls, China tensions weigh on Apple, Disney: Market Minute",
+                "url": "https://finance.yahoo.com/video/oil-falls-china-tensions-weigh-180921476.html"
+            },
+            {
+                "headline": "Some of the biggest winners from yesterday\u2019s rally have erased much of those gains today.  Delta Air Lines logged a 23% gain yesterday. Today, shares have fallen more than 9%.   Warner Bros. Discovery rose 20% Wednesday and has dropped roughly 13% in today\u2019s trading.",
+                "publication_date": "2025-04-10T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8225",
+                "source": "The Wall Street Journal",
+                "ticker": "WBD",
+                "title": "These Stocks are Leading Losses Today",
+                "url": "https://finance.yahoo.com/m/d331dbff-6212-38e0-93f9-c8bd6cbb4b1e/these-stocks-are-leading.html"
+            }
+        ],
+        "avgScore": 0.08695000000000003,
+        "pctChange": -0.016049454957493207
     },
     "4 9 2025": {
         "importantArticles": [
@@ -241,11 +333,11 @@
         "avgScore": 0.8481,
         "pctChange": -0.05812900363470307
     },
-    "3 25 2025": {
+    "3 24 2025": {
         "importantArticles": [
             {
                 "headline": "Warner Bros. Discovery (NasdaqGS:WBD) saw a price increase of 2% over the past week, coinciding with significant corporate announcements. The company's notable partnership with Tele2 AB to integrate its Max streaming service reflects an effort to enhance its global content distribution and customer experience. This move could have bolstered investor confidence, contributing to the stock's performance. Meanwhile, the broader market experienced a rise, with major indexes reacting positively to...",
-                "publication_date": "2025-03-25T00:00:00.000Z",
+                "publication_date": "2025-03-24T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.8689",
                 "source": "Simply Wall St.",
@@ -255,7 +347,7 @@
             },
             {
                 "headline": "Warner Bros. Discovery (NasdaqGS:WBD) saw a price increase of 2% over the past week, coinciding with significant corporate announcements. The company's notable partnership with Tele2 AB to integrate its Max streaming service reflects an effort to enhance its global content distribution and customer experience. This move could have bolstered investor confidence, contributing to the stock's performance. Meanwhile, the broader market experienced a rise, with major indexes reacting positively to...",
-                "publication_date": "2025-03-25T00:00:00.000Z",
+                "publication_date": "2025-03-24T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.8689",
                 "source": "Simply Wall St.",
@@ -265,14 +357,14 @@
             }
         ],
         "avgScore": 0.8689,
-        "pctChange": 0.004553751622896661
+        "pctChange": 0.0009115109356535872
     },
-    "coef": -0.16766767666785626,
-    "avgCoef": -0.02487931000360997,
+    "coef": -0.11515151515151514,
+    "avgCoef": -0.006627107492285416,
     "similar": {
-        "PHYS": 0.6586944440522925,
-        "SLB": 0.4431217169079058,
-        "GRAB": 0.43114545428877316,
-        "PBR": 0.4071929290505081
+        "RKLB": 0.3939393939393939,
+        "DJT": 0.2606060606060606,
+        "GOLD": 0.2121212121212121,
+        "RGTI": 0.2121212121212121
     }
 }

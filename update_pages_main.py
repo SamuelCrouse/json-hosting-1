@@ -226,7 +226,7 @@ def main(tickers):
                             if index < len(keys) - 1:
                                 tmrClose = tickerCloses[keys[index + 1]][0]['close']
                             else:
-                                dayClose = tickerCloses[key[index - 1]][0]['close']
+                                dayClose = tickerCloses[keys[index - 1]][0]['close']
                                 tmrClose = tickerCloses[key][0]['close']
                             
                             pctChange = (tmrClose - dayClose) / dayClose
@@ -269,8 +269,8 @@ def main(tickers):
         except KeyError as e:
             print("KeyError:", e)
 
-        except IndexError as e:
-            print("IndexError:", e)
+        # except IndexError as e:
+            # print("IndexError:", e)
 
         # except TypeError as e:
             # print("TypeError:", e)

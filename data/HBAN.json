@@ -25,6 +25,72 @@
         "avgScore": 0.7003,
         "pctChange": 0.019019767917391572
     },
+    "4 17 2025": {
+        "importantArticles": [
+            {
+                "headline": "Huntington Bancshares Incorporated (Nasdaq: HBAN) reported net income for the 2025 first quarter of $527 million, or $0.34 per common share, a decrease of $3 million from the prior quarter, and an increase of $108 million, or 26%, from the year-ago quarter.",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5423",
+                "source": "PR Newswire",
+                "ticker": "HBAN",
+                "title": "Huntington Bancshares Incorporated Reports 2025 First-Quarter Earnings",
+                "url": "https://finance.yahoo.com/news/huntington-bancshares-incorporated-reports-2025-110500766.html"
+            },
+            {
+                "headline": "COLUMBUS, Ohio (AP) \u2014 Huntington Bancshares Inc. HBAN) on Thursday reported first-quarter net income of $527 million. The Columbus, Ohio-based bank said it had earnings of 34 cents per share.",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.296",
+                "source": "Associated Press Finance",
+                "ticker": "HBAN",
+                "title": "Huntington Bancshares: Q1 Earnings Snapshot",
+                "url": "https://finance.yahoo.com/news/huntington-bancshares-q1-earnings-snapshot-111646931.html"
+            },
+            {
+                "headline": "Huntington Bancshares (HBAN) delivered earnings and revenue surprises of 9.68% and 2.10%, respectively, for the quarter ended March 2025. Do the numbers hold clues to what lies ahead for the stock?",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.128",
+                "source": "Zacks",
+                "ticker": "HBAN",
+                "title": "Huntington Bancshares (HBAN) Beats Q1 Earnings and Revenue Estimates",
+                "url": "https://finance.yahoo.com/news/huntington-bancshares-hban-beats-q1-121502875.html"
+            },
+            {
+                "headline": "Huntington Bancshares (HBAN) delivered earnings and revenue surprises of 9.68% and 2.10%, respectively, for the quarter ended March 2025. Do the numbers hold clues to what lies ahead for the stock?",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.128",
+                "source": "Zacks",
+                "ticker": "HBAN",
+                "title": "Huntington Bancshares (HBAN) Beats Q1 Earnings and Revenue Estimates",
+                "url": "https://finance.yahoo.com/news/huntington-bancshares-hban-beats-q1-121502875.html"
+            },
+            {
+                "headline": "COLUMBUS, Ohio (AP) \u2014 Huntington Bancshares Inc. HBAN) on Thursday reported first-quarter net income of $527 million. The Columbus, Ohio-based bank said it had earnings of 34 cents per share.",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.296",
+                "source": "Associated Press Finance",
+                "ticker": "HBAN",
+                "title": "Huntington Bancshares: Q1 Earnings Snapshot",
+                "url": "https://finance.yahoo.com/news/huntington-bancshares-q1-earnings-snapshot-111646931.html"
+            },
+            {
+                "headline": "Huntington Bancshares Incorporated (Nasdaq: HBAN) reported net income for the 2025 first quarter of $527 million, or $0.34 per common share, a decrease of $3 million from the prior quarter, and an increase of $108 million, or 26%, from the year-ago quarter.",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5423",
+                "source": "PR Newswire",
+                "ticker": "HBAN",
+                "title": "Huntington Bancshares Incorporated Reports 2025 First-Quarter Earnings",
+                "url": "https://finance.yahoo.com/news/huntington-bancshares-incorporated-reports-2025-110500766.html"
+            }
+        ],
+        "avgScore": 0.3221,
+        "pctChange": -0.014630563873366004
+    },
     "4 16 2025": {
         "importantArticles": [
             {
@@ -253,12 +319,12 @@
         "avgScore": 0.7184,
         "pctChange": -0.009174334287215952
     },
-    "coef": 0.049999999999999996,
-    "avgCoef": 0.012352539696173587,
+    "coef": -0.0303030303030303,
+    "avgCoef": -0.027553956328915916,
     "similar": {
-        "MSTR": 0.6,
-        "MSFT": 0.5333333333333333,
-        "CMG": 0.5,
-        "TSLA": 0.4666666666666666
+        "MSTR": 0.5030303030303029,
+        "SNAP": 0.43030303030303024,
+        "MSFT": 0.43030303030303024,
+        "LYG": 0.38181818181818183
     }
 }

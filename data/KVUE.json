@@ -1,29 +1,4 @@
 {
-    "4 17 2025": {
-        "importantArticles": [
-            {
-                "headline": "SUMMIT, N.J., April 16, 2025--Kenvue Inc. (NYSE: KVUE) today announced that its Board of Directors has declared a quarterly dividend of $0.205 per share on its common stock. This quarterly dividend is payable on May 28, 2025, to shareholders of record as of the close of business on May 14, 2025.",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.296",
-                "source": "Business Wire",
-                "ticker": "KVUE",
-                "title": "Kenvue Declares Quarterly Cash Dividend",
-                "url": "https://finance.yahoo.com/news/kenvue-declares-quarterly-cash-dividend-121900108.html"
-            },
-            {
-                "headline": "SUMMIT, N.J., April 16, 2025--Kenvue Inc. (NYSE: KVUE) today announced that its Board of Directors has declared a quarterly dividend of $0.205 per share on its common stock. This quarterly dividend is payable on May 28, 2025, to shareholders of record as of the close of business on May 14, 2025.",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.296",
-                "source": "Business Wire",
-                "ticker": "KVUE",
-                "title": "Kenvue Declares Quarterly Cash Dividend",
-                "url": "https://finance.yahoo.com/news/kenvue-declares-quarterly-cash-dividend-121900108.html"
-            }
-        ],
-        "avgScore": 0.296
-    },
     "4 16 2025": {
         "importantArticles": [
             {
@@ -37,6 +12,26 @@
                 "url": "https://finance.yahoo.com/news/kenvue-announces-5-collaboration-microsoft-104500817.html"
             },
             {
+                "headline": "SUMMIT, N.J., April 16, 2025--Kenvue Inc. (NYSE: KVUE) today announced that its Board of Directors has declared a quarterly dividend of $0.205 per share on its common stock. This quarterly dividend is payable on May 28, 2025, to shareholders of record as of the close of business on May 14, 2025.",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.296",
+                "source": "Business Wire",
+                "ticker": "KVUE",
+                "title": "Kenvue Declares Quarterly Cash Dividend",
+                "url": "https://finance.yahoo.com/news/kenvue-declares-quarterly-cash-dividend-121900108.html"
+            },
+            {
+                "headline": "SUMMIT, N.J., April 16, 2025--Kenvue Inc. (NYSE: KVUE) today announced that its Board of Directors has declared a quarterly dividend of $0.205 per share on its common stock. This quarterly dividend is payable on May 28, 2025, to shareholders of record as of the close of business on May 14, 2025.",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.296",
+                "source": "Business Wire",
+                "ticker": "KVUE",
+                "title": "Kenvue Declares Quarterly Cash Dividend",
+                "url": "https://finance.yahoo.com/news/kenvue-declares-quarterly-cash-dividend-121900108.html"
+            },
+            {
                 "headline": "SUMMIT, N.J., April 16, 2025--Kenvue announced a five-year collaboration with Microsoft to transform digital operations through Artificial Intelligence (AI) technologies.",
                 "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -47,36 +42,22 @@
                 "url": "https://finance.yahoo.com/news/kenvue-announces-5-collaboration-microsoft-104500817.html"
             }
         ],
-        "avgScore": 0.4767
-    },
-    "4 11 2025": {
-        "importantArticles": [
-            {
-                "headline": "The maker of Tylenol, a spinoff of J&J, has underperformed. But Kenvue could bounce back thanks to help from activist investors.",
-                "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8126",
-                "source": "Barrons.com",
-                "ticker": "KVUE",
-                "title": "Kenvue Stock Could Be a Cure for Investors\u2019 Headaches",
-                "url": "https://finance.yahoo.com/m/39fcea68-fd60-3d77-8b34-f838fac3a1f7/kenvue-stock-could-be-a-cure.html"
-            },
-            {
-                "headline": "The maker of Tylenol, a spinoff of J&J, has underperformed. But Kenvue could bounce back thanks to help from activist investors.",
-                "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8126",
-                "source": "Barrons.com",
-                "ticker": "KVUE",
-                "title": "Kenvue Stock Could Be a Cure for Investors\u2019 Headaches",
-                "url": "https://finance.yahoo.com/m/39fcea68-fd60-3d77-8b34-f838fac3a1f7/kenvue-stock-could-be-a-cure.html"
-            }
-        ],
-        "avgScore": 0.8126
+        "avgScore": 0.38634999999999997,
+        "pctChange": 0.029036509489835837
     },
     "4 10 2025": {
         "importantArticles": [
             {
+                "headline": "The maker of Tylenol, a spinoff of J&J, has underperformed. But Kenvue could bounce back thanks to help from activist investors.",
+                "publication_date": "2025-04-10T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8126",
+                "source": "Barrons.com",
+                "ticker": "KVUE",
+                "title": "Kenvue Stock Could Be a Cure for Investors\u2019 Headaches",
+                "url": "https://finance.yahoo.com/m/39fcea68-fd60-3d77-8b34-f838fac3a1f7/kenvue-stock-could-be-a-cure.html"
+            },
+            {
                 "headline": "Investors are dumping growth stocks right now as new tariff policies rock the markets.",
                 "publication_date": "2025-04-10T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -95,9 +76,20 @@
                 "ticker": "KVUE",
                 "title": "If Your Portfolio Is Down on the Tariff News, Check Out This Little-Known High-Yield Dividend Stock",
                 "url": "https://finance.yahoo.com/news/portfolio-down-tariff-news-check-100500221.html"
+            },
+            {
+                "headline": "The maker of Tylenol, a spinoff of J&J, has underperformed. But Kenvue could bounce back thanks to help from activist investors.",
+                "publication_date": "2025-04-10T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8126",
+                "source": "Barrons.com",
+                "ticker": "KVUE",
+                "title": "Kenvue Stock Could Be a Cure for Investors\u2019 Headaches",
+                "url": "https://finance.yahoo.com/m/39fcea68-fd60-3d77-8b34-f838fac3a1f7/kenvue-stock-could-be-a-cure.html"
             }
         ],
-        "avgScore": 0.0772
+        "avgScore": 0.4449,
+        "pctChange": 0.010059410375505213
     },
     "4 7 2025": {
         "importantArticles": [
@@ -122,106 +114,84 @@
                 "url": "https://finance.yahoo.com/news/ogx-haircare-introduces-shay-mitchell-104500616.html"
             }
         ],
-        "avgScore": 0.5106
-    },
-    "4 3 2025": {
-        "importantArticles": [
-            {
-                "headline": "Investing.com -- U.S. Bankruptcy Court Judge Christopher Lopez in the Southern District of Texas rejected a request from Johnson & Johnson's (NYSE:JNJ) subsidiary, Red River Talc, to approve its prepackaged bankruptcy plan.",
-                "publication_date": "2025-04-03T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.5106",
-                "source": "Investing.com",
-                "ticker": "KVUE",
-                "title": "What's next for Johnson and Johnson after third failed attempt to settle talc laws",
-                "url": "https://finance.yahoo.com/news/whats-next-johnson-johnson-third-134425693.html"
-            },
-            {
-                "headline": "Investing.com -- U.S. Bankruptcy Court Judge Christopher Lopez in the Southern District of Texas rejected a request from Johnson & Johnson's (NYSE:JNJ) subsidiary, Red River Talc, to approve its prepackaged bankruptcy plan.",
-                "publication_date": "2025-04-03T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.5106",
-                "source": "Investing.com",
-                "ticker": "KVUE",
-                "title": "What's next for Johnson and Johnson after third failed attempt to settle talc laws",
-                "url": "https://finance.yahoo.com/news/whats-next-johnson-johnson-third-134425693.html"
-            }
-        ],
-        "avgScore": -0.5106
+        "avgScore": 0.5106,
+        "pctChange": -0.012861767604862556
     },
     "4 2 2025": {
         "importantArticles": [
             {
-                "headline": "We recently published a list of 12 Best FMCG Stocks to Buy According to Billionaires. In this article, we are going to take a look at where Kenvue Inc. (NYSE:KVUE) stands against other best FMCG stocks to buy according to billionaires. Historically, the consumer-packaged-goods (CPG) industry outperformed most of the other industries, mainly due to the [\u2026]",
+                "headline": "Investing.com -- U.S. Bankruptcy Court Judge Christopher Lopez in the Southern District of Texas rejected a request from Johnson & Johnson's (NYSE:JNJ) subsidiary, Red River Talc, to approve its prepackaged bankruptcy plan.",
                 "publication_date": "2025-04-02T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8555",
-                "source": "Insider Monkey",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5106",
+                "source": "Investing.com",
                 "ticker": "KVUE",
-                "title": "Is Kenvue Inc.\u00a0(KVUE) the Best FMCG Stock to Buy According to Billionaires?",
-                "url": "https://finance.yahoo.com/news/kenvue-inc-kvue-best-fmcg-170752389.html"
+                "title": "What's next for Johnson and Johnson after third failed attempt to settle talc laws",
+                "url": "https://finance.yahoo.com/news/whats-next-johnson-johnson-third-134425693.html"
             },
             {
-                "headline": "We recently published a list of 12 Best FMCG Stocks to Buy According to Billionaires. In this article, we are going to take a look at where Kenvue Inc. (NYSE:KVUE) stands against other best FMCG stocks to buy according to billionaires. Historically, the consumer-packaged-goods (CPG) industry outperformed most of the other industries, mainly due to the [\u2026]",
+                "headline": "Investing.com -- U.S. Bankruptcy Court Judge Christopher Lopez in the Southern District of Texas rejected a request from Johnson & Johnson's (NYSE:JNJ) subsidiary, Red River Talc, to approve its prepackaged bankruptcy plan.",
                 "publication_date": "2025-04-02T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8555",
-                "source": "Insider Monkey",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5106",
+                "source": "Investing.com",
                 "ticker": "KVUE",
-                "title": "Is Kenvue Inc.\u00a0(KVUE) the Best FMCG Stock to Buy According to Billionaires?",
-                "url": "https://finance.yahoo.com/news/kenvue-inc-kvue-best-fmcg-170752389.html"
+                "title": "What's next for Johnson and Johnson after third failed attempt to settle talc laws",
+                "url": "https://finance.yahoo.com/news/whats-next-johnson-johnson-third-134425693.html"
             }
         ],
-        "avgScore": 0.8555
+        "avgScore": -0.5106,
+        "pctChange": -0.010473397201942826
     },
     "4 1 2025": {
         "importantArticles": [
             {
-                "headline": "Kenvue (NYSE:KVUE) recently launched the Neutrogena\u00ae Ultra Sheer\u00ae Face Liquid Mineral Sunscreen SPF 70, supported by a campaign featuring John Cena, emphasizing its commitment to sun safety and innovation. This effort likely played a role in Kenvue's 11% share price increase over the last quarter, despite a challenging macroeconomic landscape, where major indexes like the S&P 500 and Nasdaq saw significant declines due to tariff-related concerns and economic uncertainties. Additionally,...",
-                "publication_date": "2025-04-01T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.9447",
-                "source": "Simply Wall St.",
-                "ticker": "KVUE",
-                "title": "Kenvue (NYSE:KVUE) Unveils Neutrogena Sunscreen Collaboration With John Cena And New Initiatives",
-                "url": "https://finance.yahoo.com/news/kenvue-nyse-kvue-unveils-neutrogena-175450233.html"
-            },
-            {
-                "headline": "We recently published a list of the 15 Best Dividend Aristocrat Stocks with Over 3% Yield. In this article, we are going to take a look at where Kenvue Inc. (NYSE:KVUE) stands against other best dividend aristocrats with a high yield. Dividend Aristocrats are the companies that have raised their payouts for 25 consecutive years [\u2026]",
+                "headline": "We recently published a list of 12 Best FMCG Stocks to Buy According to Billionaires. In this article, we are going to take a look at where Kenvue Inc. (NYSE:KVUE) stands against other best FMCG stocks to buy according to billionaires. Historically, the consumer-packaged-goods (CPG) industry outperformed most of the other industries, mainly due to the [\u2026]",
                 "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.8555",
                 "source": "Insider Monkey",
                 "ticker": "KVUE",
-                "title": "Kenvue Inc. (KVUE): One of the Best Dividend Aristocrat Stocks with Over 3% Yield",
-                "url": "https://finance.yahoo.com/news/kenvue-inc-kvue-one-best-132320877.html"
+                "title": "Is Kenvue Inc.\u00a0(KVUE) the Best FMCG Stock to Buy According to Billionaires?",
+                "url": "https://finance.yahoo.com/news/kenvue-inc-kvue-best-fmcg-170752389.html"
             },
             {
-                "headline": "We recently published a list of the 15 Best Dividend Aristocrat Stocks with Over 3% Yield. In this article, we are going to take a look at where Kenvue Inc. (NYSE:KVUE) stands against other best dividend aristocrats with a high yield. Dividend Aristocrats are the companies that have raised their payouts for 25 consecutive years [\u2026]",
+                "headline": "We recently published a list of 12 Best FMCG Stocks to Buy According to Billionaires. In this article, we are going to take a look at where Kenvue Inc. (NYSE:KVUE) stands against other best FMCG stocks to buy according to billionaires. Historically, the consumer-packaged-goods (CPG) industry outperformed most of the other industries, mainly due to the [\u2026]",
                 "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.8555",
                 "source": "Insider Monkey",
                 "ticker": "KVUE",
-                "title": "Kenvue Inc. (KVUE): One of the Best Dividend Aristocrat Stocks with Over 3% Yield",
-                "url": "https://finance.yahoo.com/news/kenvue-inc-kvue-one-best-132320877.html"
-            },
-            {
-                "headline": "Kenvue (NYSE:KVUE) recently launched the Neutrogena\u00ae Ultra Sheer\u00ae Face Liquid Mineral Sunscreen SPF 70, supported by a campaign featuring John Cena, emphasizing its commitment to sun safety and innovation. This effort likely played a role in Kenvue's 11% share price increase over the last quarter, despite a challenging macroeconomic landscape, where major indexes like the S&P 500 and Nasdaq saw significant declines due to tariff-related concerns and economic uncertainties. Additionally,...",
-                "publication_date": "2025-04-01T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.9447",
-                "source": "Simply Wall St.",
-                "ticker": "KVUE",
-                "title": "Kenvue (NYSE:KVUE) Unveils Neutrogena Sunscreen Collaboration With John Cena And New Initiatives",
-                "url": "https://finance.yahoo.com/news/kenvue-nyse-kvue-unveils-neutrogena-175450233.html"
+                "title": "Is Kenvue Inc.\u00a0(KVUE) the Best FMCG Stock to Buy According to Billionaires?",
+                "url": "https://finance.yahoo.com/news/kenvue-inc-kvue-best-fmcg-170752389.html"
             }
         ],
-        "avgScore": 0.9001
+        "avgScore": 0.8555,
+        "pctChange": -0.00041869019617177223
     },
     "3 31 2025": {
         "importantArticles": [
             {
+                "headline": "Kenvue (NYSE:KVUE) recently launched the Neutrogena\u00ae Ultra Sheer\u00ae Face Liquid Mineral Sunscreen SPF 70, supported by a campaign featuring John Cena, emphasizing its commitment to sun safety and innovation. This effort likely played a role in Kenvue's 11% share price increase over the last quarter, despite a challenging macroeconomic landscape, where major indexes like the S&P 500 and Nasdaq saw significant declines due to tariff-related concerns and economic uncertainties. Additionally,...",
+                "publication_date": "2025-03-31T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9447",
+                "source": "Simply Wall St.",
+                "ticker": "KVUE",
+                "title": "Kenvue (NYSE:KVUE) Unveils Neutrogena Sunscreen Collaboration With John Cena And New Initiatives",
+                "url": "https://finance.yahoo.com/news/kenvue-nyse-kvue-unveils-neutrogena-175450233.html"
+            },
+            {
+                "headline": "We recently published a list of the 15 Best Dividend Aristocrat Stocks with Over 3% Yield. In this article, we are going to take a look at where Kenvue Inc. (NYSE:KVUE) stands against other best dividend aristocrats with a high yield. Dividend Aristocrats are the companies that have raised their payouts for 25 consecutive years [\u2026]",
+                "publication_date": "2025-03-31T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8555",
+                "source": "Insider Monkey",
+                "ticker": "KVUE",
+                "title": "Kenvue Inc. (KVUE): One of the Best Dividend Aristocrat Stocks with Over 3% Yield",
+                "url": "https://finance.yahoo.com/news/kenvue-inc-kvue-one-best-132320877.html"
+            },
+            {
                 "headline": "Kenvue Inc. (NYSE: KVUE) continues to push the boundaries of suncare product development with the launch of the Neutrogena\u00ae Ultra Sheer \u00ae Face Liquid Mineral Sunscreen SPF 70. A December 2024 Kenvue research study found that 99% of healthcare providers believe if sunscreen offered better application and aesthetic experiences, patients would use their sunscreen more often1. The new mineral formula addresses these barriers by offering a high SPF with a lightweight, invisible finish. To raise aware",
                 "publication_date": "2025-03-31T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -240,63 +210,80 @@
                 "ticker": "KVUE",
                 "title": "Neutrogena\u00ae and John Cena Team Up for the Ultimate Disappearing Act in New Ultra Sheer \u00ae Mineral Sunscreen Campaign",
                 "url": "https://finance.yahoo.com/news/neutrogena-john-cena-team-ultimate-104500565.html"
-            }
-        ],
-        "avgScore": 0.4404
-    },
-    "3 26 2025": {
-        "importantArticles": [
-            {
-                "headline": "We recently published a list of the 12 Best Household Stocks to Buy According to Hedge Funds. In this article, we are going to take a look at where Kenvue Inc. (NYSE:KVUE) stands against the other best household stocks to buy according to hedge funds. Is There a Softening in the Consumer Staple Sector? On [\u2026]",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8555",
-                "source": "Insider Monkey",
-                "ticker": "KVUE",
-                "title": "Why Kenvue Inc. (KVUE) is Among the Best Household Stocks to Buy According to Hedge Funds",
-                "url": "https://finance.yahoo.com/news/why-kenvue-inc-kvue-among-164501863.html"
             },
             {
-                "headline": "We recently published a list of the 12 Best Household Stocks to Buy According to Hedge Funds. In this article, we are going to take a look at where Kenvue Inc. (NYSE:KVUE) stands against the other best household stocks to buy according to hedge funds. Is There a Softening in the Consumer Staple Sector? On [\u2026]",
-                "publication_date": "2025-03-26T00:00:00.000Z",
+                "headline": "We recently published a list of the 15 Best Dividend Aristocrat Stocks with Over 3% Yield. In this article, we are going to take a look at where Kenvue Inc. (NYSE:KVUE) stands against other best dividend aristocrats with a high yield. Dividend Aristocrats are the companies that have raised their payouts for 25 consecutive years [\u2026]",
+                "publication_date": "2025-03-31T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.8555",
                 "source": "Insider Monkey",
                 "ticker": "KVUE",
-                "title": "Why Kenvue Inc. (KVUE) is Among the Best Household Stocks to Buy According to Hedge Funds",
-                "url": "https://finance.yahoo.com/news/why-kenvue-inc-kvue-among-164501863.html"
+                "title": "Kenvue Inc. (KVUE): One of the Best Dividend Aristocrat Stocks with Over 3% Yield",
+                "url": "https://finance.yahoo.com/news/kenvue-inc-kvue-one-best-132320877.html"
+            },
+            {
+                "headline": "Kenvue (NYSE:KVUE) recently launched the Neutrogena\u00ae Ultra Sheer\u00ae Face Liquid Mineral Sunscreen SPF 70, supported by a campaign featuring John Cena, emphasizing its commitment to sun safety and innovation. This effort likely played a role in Kenvue's 11% share price increase over the last quarter, despite a challenging macroeconomic landscape, where major indexes like the S&P 500 and Nasdaq saw significant declines due to tariff-related concerns and economic uncertainties. Additionally,...",
+                "publication_date": "2025-03-31T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9447",
+                "source": "Simply Wall St.",
+                "ticker": "KVUE",
+                "title": "Kenvue (NYSE:KVUE) Unveils Neutrogena Sunscreen Collaboration With John Cena And New Initiatives",
+                "url": "https://finance.yahoo.com/news/kenvue-nyse-kvue-unveils-neutrogena-175450233.html"
             }
         ],
-        "avgScore": 0.8555
+        "avgScore": 0.7468666666666667,
+        "pctChange": -0.0041701577722549335
     },
     "3 25 2025": {
         "importantArticles": [
             {
-                "headline": "Recent spinoffs with good payouts include Kenvue, Carrier Global, Organon, Kontoor Brands, Phinia, and Sylvamo.",
+                "headline": "We recently published a list of the 12 Best Household Stocks to Buy According to Hedge Funds. In this article, we are going to take a look at where Kenvue Inc. (NYSE:KVUE) stands against the other best household stocks to buy according to hedge funds. Is There a Softening in the Consumer Staple Sector? On [\u2026]",
                 "publication_date": "2025-03-25T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.4404",
-                "source": "Barrons.com",
+                "sentimentScore": "0.8555",
+                "source": "Insider Monkey",
                 "ticker": "KVUE",
-                "title": "Spinoffs Can Pay Juicy Dividends. 6 Ones to Play.",
-                "url": "https://finance.yahoo.com/m/9e639d32-03df-3a6a-84d3-a3623dc5f3d4/spinoffs-can-pay-juicy.html"
+                "title": "Why Kenvue Inc. (KVUE) is Among the Best Household Stocks to Buy According to Hedge Funds",
+                "url": "https://finance.yahoo.com/news/why-kenvue-inc-kvue-among-164501863.html"
             },
             {
-                "headline": "Recent spinoffs with good payouts include Kenvue, Carrier Global, Organon, Kontoor Brands, Phinia, and Sylvamo.",
+                "headline": "We recently published a list of the 12 Best Household Stocks to Buy According to Hedge Funds. In this article, we are going to take a look at where Kenvue Inc. (NYSE:KVUE) stands against the other best household stocks to buy according to hedge funds. Is There a Softening in the Consumer Staple Sector? On [\u2026]",
                 "publication_date": "2025-03-25T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.4404",
-                "source": "Barrons.com",
+                "sentimentScore": "0.8555",
+                "source": "Insider Monkey",
                 "ticker": "KVUE",
-                "title": "Spinoffs Can Pay Juicy Dividends. 6 Ones to Play.",
-                "url": "https://finance.yahoo.com/m/9e639d32-03df-3a6a-84d3-a3623dc5f3d4/spinoffs-can-pay-juicy.html"
+                "title": "Why Kenvue Inc. (KVUE) is Among the Best Household Stocks to Buy According to Hedge Funds",
+                "url": "https://finance.yahoo.com/news/why-kenvue-inc-kvue-among-164501863.html"
             }
         ],
-        "avgScore": 0.4404
+        "avgScore": 0.8555,
+        "pctChange": 0.012986979744866116
     },
     "3 24 2025": {
         "importantArticles": [
             {
+                "headline": "Recent spinoffs with good payouts include Kenvue, Carrier Global, Organon, Kontoor Brands, Phinia, and Sylvamo.",
+                "publication_date": "2025-03-24T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4404",
+                "source": "Barrons.com",
+                "ticker": "KVUE",
+                "title": "Spinoffs Can Pay Juicy Dividends. 6 Ones to Play.",
+                "url": "https://finance.yahoo.com/m/9e639d32-03df-3a6a-84d3-a3623dc5f3d4/spinoffs-can-pay-juicy.html"
+            },
+            {
+                "headline": "Consumer stocks rose late Monday afternoon, with the Consumer Staples Select Sector SPDR Fund (XLP)",
+                "publication_date": "2025-03-24T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "MT Newswires",
+                "ticker": "KVUE",
+                "title": "Sector Update: Consumer Stocks Advance Late Afternoon",
+                "url": "https://finance.yahoo.com/news/sector-consumer-stocks-advance-afternoon-194800489.html"
+            },
+            {
                 "headline": "(Bloomberg) -- TOMS Capital Investment Management has amassed a stake in Kenvue Inc. and is pushing for changes at the consumer health company, which has only just avoided a battle with an activist investor.Most Read from BloombergThey Built a Secret Apartment in a Mall. Now the Mall Is Dying.Chicago Transit Faces \u2018Doomsday Scenario,\u2019 Regional Agency SaysLA Faces $1 Billion Budget Hole, Warns of Thousands of LayoffsNew York Subway Ditches MetroCard After 32 Years for Tap-And-GoLibraries Warn The",
                 "publication_date": "2025-03-24T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -315,66 +302,37 @@
                 "ticker": "KVUE",
                 "title": "TOMS Capital Pushes for Kenvue Sale, Separation",
                 "url": "https://finance.yahoo.com/news/toms-capital-pushes-kenvue-sale-223533438.html"
-            }
-        ],
-        "avgScore": -0.7003
-    },
-    "3 21 2025": {
-        "importantArticles": [
-            {
-                "headline": "We recently published a list of 10 Defensive Dividend Stocks To Buy During Market Sell Off. In this article, we are going to take a look at where Kenvue Inc. (NYSE:KVUE) stands against other defensive dividend stocks to buy during market sell off. The importance of defensive dividend stocks only becomes clear when the broader [\u2026]",
-                "publication_date": "2025-03-21T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6597",
-                "source": "Insider Monkey",
-                "ticker": "KVUE",
-                "title": "Kenvue (KVUE): Among Defensive Dividend Stocks to Buy During Market Sell Off",
-                "url": "https://finance.yahoo.com/news/kenvue-kvue-among-defensive-dividend-173111470.html"
             },
             {
-                "headline": "We recently published a list of 10 Defensive Dividend Stocks To Buy During Market Sell Off. In this article, we are going to take a look at where Kenvue Inc. (NYSE:KVUE) stands against other defensive dividend stocks to buy during market sell off. The importance of defensive dividend stocks only becomes clear when the broader [\u2026]",
-                "publication_date": "2025-03-21T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6597",
-                "source": "Insider Monkey",
-                "ticker": "KVUE",
-                "title": "Kenvue (KVUE): Among Defensive Dividend Stocks to Buy During Market Sell Off",
-                "url": "https://finance.yahoo.com/news/kenvue-kvue-among-defensive-dividend-173111470.html"
-            }
-        ],
-        "avgScore": 0.6597
-    },
-    "3 19 2025": {
-        "importantArticles": [
-            {
-                "headline": "SUMMIT, N.J., March 19, 2025--Today, Kenvue Inc. (NYSE: KVUE) held a ribbon-cutting ceremony for its new 290,000 sq. ft. global headquarters in Summit, New Jersey.",
-                "publication_date": "2025-03-19T00:00:00.000Z",
+                "headline": "Consumer stocks rose late Monday afternoon, with the Consumer Staples Select Sector SPDR Fund (XLP)",
+                "publication_date": "2025-03-24T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
-                "source": "Business Wire",
+                "source": "MT Newswires",
                 "ticker": "KVUE",
-                "title": "Kenvue Ribbon-Cutting Marks Official Opening of New Global Headquarters in Summit, New Jersey",
-                "url": "https://finance.yahoo.com/news/kenvue-ribbon-cutting-marks-official-104500339.html"
+                "title": "Sector Update: Consumer Stocks Advance Late Afternoon",
+                "url": "https://finance.yahoo.com/news/sector-consumer-stocks-advance-afternoon-194800489.html"
             },
             {
-                "headline": "SUMMIT, N.J., March 19, 2025--Today, Kenvue Inc. (NYSE: KVUE) held a ribbon-cutting ceremony for its new 290,000 sq. ft. global headquarters in Summit, New Jersey.",
-                "publication_date": "2025-03-19T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Business Wire",
+                "headline": "Recent spinoffs with good payouts include Kenvue, Carrier Global, Organon, Kontoor Brands, Phinia, and Sylvamo.",
+                "publication_date": "2025-03-24T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4404",
+                "source": "Barrons.com",
                 "ticker": "KVUE",
-                "title": "Kenvue Ribbon-Cutting Marks Official Opening of New Global Headquarters in Summit, New Jersey",
-                "url": "https://finance.yahoo.com/news/kenvue-ribbon-cutting-marks-official-104500339.html"
+                "title": "Spinoffs Can Pay Juicy Dividends. 6 Ones to Play.",
+                "url": "https://finance.yahoo.com/m/9e639d32-03df-3a6a-84d3-a3623dc5f3d4/spinoffs-can-pay-juicy.html"
             }
         ],
-        "avgScore": 0.0
+        "avgScore": -0.08663333333333334,
+        "pctChange": -0.011553292600246592
     },
-    "coef": 0.20925160892861966,
-    "avgCoef": -0.021648227913742185,
+    "coef": 0.28743030285918214,
+    "avgCoef": 0.022410836278423312,
     "similar": {
-        "INTC": 0.4251111634023536,
-        "AUR": 0.35903170795121053,
-        "HTZ": 0.35462641092113434,
-        "MP": 0.32158668319556283
+        "CMG": 0.7065994945288229,
+        "PCG": 0.6347419188140273,
+        "JD": 0.5988131309566295,
+        "MU": 0.5868368683374969
     }
 }

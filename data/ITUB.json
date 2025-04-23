@@ -1,9 +1,35 @@
 {
-    "4 4 2025": {
+    "4 17 2025": {
+        "importantArticles": [
+            {
+                "headline": "BKEAY vs. ITUB: Which Stock Is the Better Value Option?",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6486",
+                "source": "Zacks",
+                "ticker": "ITUB",
+                "title": "BKEAY or ITUB: Which Is the Better Value Stock Right Now?",
+                "url": "https://finance.yahoo.com/news/bkeay-itub-better-value-stock-154007055.html"
+            },
+            {
+                "headline": "BKEAY vs. ITUB: Which Stock Is the Better Value Option?",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6486",
+                "source": "Zacks",
+                "ticker": "ITUB",
+                "title": "BKEAY or ITUB: Which Is the Better Value Stock Right Now?",
+                "url": "https://finance.yahoo.com/news/bkeay-itub-better-value-stock-154007055.html"
+            }
+        ],
+        "avgScore": 0.6486,
+        "pctChange": 0.005300390568396648
+    },
+    "4 3 2025": {
         "importantArticles": [
             {
                 "headline": "The bank\u2019s decision will depend on regulatory developments in Brazil and the success of stablecoin rollouts by U.S. financial institutions.",
-                "publication_date": "2025-04-04T00:00:00.000Z",
+                "publication_date": "2025-04-03T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.5719",
                 "source": "CoinDesk",
@@ -13,7 +39,7 @@
             },
             {
                 "headline": "The bank\u2019s decision will depend on regulatory developments in Brazil and the success of stablecoin rollouts by U.S. financial institutions.",
-                "publication_date": "2025-04-04T00:00:00.000Z",
+                "publication_date": "2025-04-03T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.5719",
                 "source": "CoinDesk",
@@ -23,37 +49,21 @@
             }
         ],
         "avgScore": 0.5719,
-        "pctChange": -0.005628467804992387
-    },
-    "4 2 2025": {
-        "importantArticles": [
-            {
-                "headline": "BKEAY vs. ITUB: Which Stock Is the Better Value Option?",
-                "publication_date": "2025-04-02T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6486",
-                "source": "Zacks",
-                "ticker": "ITUB",
-                "title": "BKEAY vs. ITUB: Which Stock Is the Better Value Option?",
-                "url": "https://finance.yahoo.com/news/bkeay-vs-itub-stock-better-154006023.html"
-            },
-            {
-                "headline": "BKEAY vs. ITUB: Which Stock Is the Better Value Option?",
-                "publication_date": "2025-04-02T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6486",
-                "source": "Zacks",
-                "ticker": "ITUB",
-                "title": "BKEAY vs. ITUB: Which Stock Is the Better Value Option?",
-                "url": "https://finance.yahoo.com/news/bkeay-vs-itub-stock-better-154006023.html"
-            }
-        ],
-        "avgScore": 0.6486,
-        "pctChange": 0.028933063533763303
+        "pctChange": -0.06326891562286958
     },
     "4 1 2025": {
         "importantArticles": [
             {
+                "headline": "BKEAY vs. ITUB: Which Stock Is the Better Value Option?",
+                "publication_date": "2025-04-01T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6486",
+                "source": "Zacks",
+                "ticker": "ITUB",
+                "title": "BKEAY vs. ITUB: Which Stock Is the Better Value Option?",
+                "url": "https://finance.yahoo.com/news/bkeay-vs-itub-stock-better-154006023.html"
+            },
+            {
                 "headline": "We recently compiled a list of the 10 Best Stocks Under $10 to Buy Now. In this article, we are going to take a look at where Ita\u00fa Unibanco Holding SA (NYSE:ITUB) stands against the other stocks under $10. On March 28, Friday, US stocks declined as Wall Street continued to struggle with President Trump\u2019s [\u2026]",
                 "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -72,9 +82,19 @@
                 "ticker": "ITUB",
                 "title": "Is Ita\u00fa Unibanco Holding SA (ITUB) The Best Stock Under $10 to Buy Now?",
                 "url": "https://finance.yahoo.com/news/ita-unibanco-holding-sa-itub-194421610.html"
+            },
+            {
+                "headline": "BKEAY vs. ITUB: Which Stock Is the Better Value Option?",
+                "publication_date": "2025-04-01T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6486",
+                "source": "Zacks",
+                "ticker": "ITUB",
+                "title": "BKEAY vs. ITUB: Which Stock Is the Better Value Option?",
+                "url": "https://finance.yahoo.com/news/bkeay-vs-itub-stock-better-154006023.html"
             }
         ],
-        "avgScore": 0.4404,
+        "avgScore": 0.5445,
         "pctChange": 0.0023563550800571272
     },
     "3 27 2025": {
@@ -103,12 +123,12 @@
         "avgScore": -0.8481,
         "pctChange": -0.014285631524081275
     },
-    "coef": 0.7999999999999999,
-    "avgCoef": -0.027682603934384452,
+    "coef": 0.39999999999999997,
+    "avgCoef": -0.0013662974910763092,
     "similar": {
-        "GOLD": 1.0,
-        "INTC": 0.7999999999999999,
-        "T": 0.7999999999999999,
-        "NIO": 0.7999999999999999
+        "NKE": 0.7999999999999999,
+        "LCID": 0.6000000000000001,
+        "RIVN": 0.6000000000000001,
+        "AMZN": 0.39999999999999997
     }
 }

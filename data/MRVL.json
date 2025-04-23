@@ -2,8 +2,34 @@
     "4 22 2025": {
         "importantArticles": [
             {
-                "headline": "The fact that multiple Marvell Technology, Inc. ( NASDAQ:MRVL ) insiders offloaded a considerable amount of shares over...",
+                "headline": "Closing the gap with the AI chip leader won't be easy.",
                 "publication_date": "2025-04-22T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.3412",
+                "source": "Yahoo Finance",
+                "ticker": "MRVL",
+                "title": "Former Intel CEO on Nvidia: You have to be 10x better to dethrone the king",
+                "url": "https://finance.yahoo.com/news/former-intel-ceo-on-nvidia-you-have-to-be-10x-better-to-dethrone-the-king-171633066.html"
+            },
+            {
+                "headline": "Closing the gap with the AI chip leader won't be easy.",
+                "publication_date": "2025-04-22T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.3412",
+                "source": "Yahoo Finance",
+                "ticker": "MRVL",
+                "title": "Former Intel CEO on Nvidia: You have to be 10x better to dethrone the king",
+                "url": "https://finance.yahoo.com/news/former-intel-ceo-on-nvidia-you-have-to-be-10x-better-to-dethrone-the-king-171633066.html"
+            }
+        ],
+        "avgScore": -0.3412,
+        "pctChange": 0.01017757564001804
+    },
+    "4 21 2025": {
+        "importantArticles": [
+            {
+                "headline": "The fact that multiple Marvell Technology, Inc. ( NASDAQ:MRVL ) insiders offloaded a considerable amount of shares over...",
+                "publication_date": "2025-04-21T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.296",
                 "source": "Simply Wall St.",
@@ -12,28 +38,8 @@
                 "url": "https://finance.yahoo.com/news/possible-bearish-signals-marvell-technology-130014340.html"
             },
             {
-                "headline": "Closing the gap with the AI chip leader won't be easy.",
-                "publication_date": "2025-04-22T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.3412",
-                "source": "Yahoo Finance",
-                "ticker": "MRVL",
-                "title": "Former Intel CEO on Nvidia: You have to be 10x better to dethrone the king",
-                "url": "https://finance.yahoo.com/news/former-intel-ceo-on-nvidia-you-have-to-be-10x-better-to-dethrone-the-king-171633066.html"
-            },
-            {
-                "headline": "Closing the gap with the AI chip leader won't be easy.",
-                "publication_date": "2025-04-22T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.3412",
-                "source": "Yahoo Finance",
-                "ticker": "MRVL",
-                "title": "Former Intel CEO on Nvidia: You have to be 10x better to dethrone the king",
-                "url": "https://finance.yahoo.com/news/former-intel-ceo-on-nvidia-you-have-to-be-10x-better-to-dethrone-the-king-171633066.html"
-            },
-            {
                 "headline": "The fact that multiple Marvell Technology, Inc. ( NASDAQ:MRVL ) insiders offloaded a considerable amount of shares over...",
-                "publication_date": "2025-04-22T00:00:00.000Z",
+                "publication_date": "2025-04-21T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.296",
                 "source": "Simply Wall St.",
@@ -42,21 +48,11 @@
                 "url": "https://finance.yahoo.com/news/possible-bearish-signals-marvell-technology-130014340.html"
             }
         ],
-        "avgScore": -0.02260000000000001,
-        "pctChange": 0.01017757564001804
+        "avgScore": 0.296,
+        "pctChange": 0.025111337321744216
     },
     "4 17 2025": {
         "importantArticles": [
-            {
-                "headline": "Over the last 7 days, the United States market has risen by 8.4%, contributing to a 5.9% increase over the past year, with earnings expected to grow by 13% per annum in the coming years. In this environment of positive momentum and anticipated growth, identifying stocks that are priced below their intrinsic value can offer potential opportunities for investors seeking to capitalize on undervalued assets.",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.9432",
-                "source": "Simply Wall St.",
-                "ticker": "MRVL",
-                "title": "3 Stocks Estimated To Be Priced Below Intrinsic Value In April 2025",
-                "url": "https://finance.yahoo.com/news/3-stocks-estimated-priced-below-113752793.html"
-            },
             {
                 "headline": "Marvell (MRVL) possesses solid growth attributes, which could help it handily outperform the market.",
                 "publication_date": "2025-04-17T00:00:00.000Z",
@@ -66,6 +62,16 @@
                 "ticker": "MRVL",
                 "title": "3 Reasons Growth Investors Will Love Marvell (MRVL)",
                 "url": "https://finance.yahoo.com/news/3-reasons-growth-investors-love-164506562.html"
+            },
+            {
+                "headline": "Marvell (MRVL) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6486",
+                "source": "Zacks",
+                "ticker": "MRVL",
+                "title": "Marvell Technology, Inc. (MRVL) is Attracting Investor Attention: Here is What You Should Know",
+                "url": "https://finance.yahoo.com/news/marvell-technology-inc-mrvl-attracting-130014710.html"
             },
             {
                 "headline": "We recently published a list of 13 Best NASDAQ Stocks to Buy So Far in 2025. In this article, we are going to take a look at where Marvell Technology Inc. (NASDAQ:MRVL) stands against other NASDAQ stocks to buy in 2025. On April 4, Wedbush analyst Dan Ives appeared on CNBC to discuss the potential [\u2026]",
@@ -98,17 +104,17 @@
                 "url": "https://finance.yahoo.com/news/marvell-technology-inc-nasdaq-mrvl-133529511.html"
             },
             {
-                "headline": "Marvell (MRVL) possesses solid growth attributes, which could help it handily outperform the market.",
+                "headline": "Marvell (MRVL) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.7096",
+                "sentimentScore": "0.6486",
                 "source": "Zacks",
                 "ticker": "MRVL",
-                "title": "3 Reasons Growth Investors Will Love Marvell (MRVL)",
-                "url": "https://finance.yahoo.com/news/3-reasons-growth-investors-love-164506562.html"
+                "title": "Marvell Technology, Inc. (MRVL) is Attracting Investor Attention: Here is What You Should Know",
+                "url": "https://finance.yahoo.com/news/marvell-technology-inc-mrvl-attracting-130014710.html"
             }
         ],
-        "avgScore": 0.41319999999999996,
+        "avgScore": 0.33955,
         "pctChange": -0.04487426809647716
     },
     "4 16 2025": {
@@ -124,6 +130,16 @@
                 "url": "https://finance.yahoo.com/news/marvell-technology-nasdaqgs-mrvl-president-172324527.html"
             },
             {
+                "headline": "Over the last 7 days, the United States market has risen by 8.4%, contributing to a 5.9% increase over the past year, with earnings expected to grow by 13% per annum in the coming years. In this environment of positive momentum and anticipated growth, identifying stocks that are priced below their intrinsic value can offer potential opportunities for investors seeking to capitalize on undervalued assets.",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9432",
+                "source": "Simply Wall St.",
+                "ticker": "MRVL",
+                "title": "3 Stocks Estimated To Be Priced Below Intrinsic Value In April 2025",
+                "url": "https://finance.yahoo.com/news/3-stocks-estimated-priced-below-113752793.html"
+            },
+            {
                 "headline": "Semiconductor stocks exposed to the AI megatrend, such as Nvidia stock, are best positioned for Q1 earnings season, an analyst says.",
                 "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -132,16 +148,6 @@
                 "ticker": "MRVL",
                 "title": "Nvidia, AI Chip Stocks Called 'Safest' Bets Heading Into Q1 Earnings Season",
                 "url": "https://finance.yahoo.com/m/eefa52ee-d606-3a63-8f43-6731d4f4f70d/nvidia-ai-chip-stocks-called.html"
-            },
-            {
-                "headline": "Oppenheimer's Top Chip Picks: Nvidia, Broadcom, and More Ahead of Earnings",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.2023",
-                "source": "GuruFocus.com",
-                "ticker": "MRVL",
-                "title": "Nvidia, Broadcom, and Marvell Lead Oppenheimer's Top Semiconductor  Picks",
-                "url": "https://finance.yahoo.com/news/nvidia-broadcom-marvell-lead-oppenheimers-174146995.html"
             },
             {
                 "headline": "Oppenheimer backs AI-focused chipmakers like Nvidia and Marvell, warning of tariff and market uncertainty",
@@ -174,7 +180,7 @@
                 "url": "https://finance.yahoo.com/m/eefa52ee-d606-3a63-8f43-6731d4f4f70d/nvidia-ai-chip-stocks-called.html"
             }
         ],
-        "avgScore": 0.34725,
+        "avgScore": 0.4664400000000001,
         "pctChange": -0.0044290302500422755
     },
     "4 15 2025": {
@@ -226,16 +232,6 @@
     "4 14 2025": {
         "importantArticles": [
             {
-                "headline": "Investing.com -- Here are the biggest analyst moves in the area of artificial intelligence (AI) for this week.",
-                "publication_date": "2025-04-14T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4767",
-                "source": "Investing.com",
-                "ticker": "MRVL",
-                "title": "5 big analyst AI moves: Apple upgraded after pullback, Citi cautious on Nvidia",
-                "url": "https://finance.yahoo.com/news/5-big-analyst-ai-moves-103010519.html"
-            },
-            {
                 "headline": "We recently published a list of the 13 NASDAQ Stocks with the Highest Upside Potential. In this article, we are going to take a look at where Marvell Technology Inc. (NASDAQ:MRVL) stands against other NASDAQ stocks with high upside potential. On April 7, Dan Ives of Wedbush Securities joined CNBC\u2019s \u2018Squawk on the Street\u2019 to [\u2026]",
                 "publication_date": "2025-04-14T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -254,90 +250,100 @@
                 "ticker": "MRVL",
                 "title": "Is Marvell Technology Inc. (NASDAQ:MRVL) a NASDAQ Stock with the Highest Upside Potential?",
                 "url": "https://finance.yahoo.com/news/marvell-technology-inc-nasdaq-mrvl-004934535.html"
-            },
-            {
-                "headline": "Investing.com -- Here are the biggest analyst moves in the area of artificial intelligence (AI) for this week.",
-                "publication_date": "2025-04-14T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4767",
-                "source": "Investing.com",
-                "ticker": "MRVL",
-                "title": "5 big analyst AI moves: Apple upgraded after pullback, Citi cautious on Nvidia",
-                "url": "https://finance.yahoo.com/news/5-big-analyst-ai-moves-103010519.html"
             }
         ],
-        "avgScore": 0.38634999999999997,
+        "avgScore": 0.296,
         "pctChange": 0.020283226317178292
     },
     "4 11 2025": {
         "importantArticles": [
             {
-                "headline": "Five AI infrastructure stocks have strong short-term and long-term revenue and earnings growth potential. These are: NVDA, AVGO, MRVL, JBL, SMCI.",
+                "headline": "NVIDIA, Broadcom, Marvell, Jabil and Super Micro Computer are included in this Analyst Blog.",
                 "publication_date": "2025-04-11T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.7096",
+                "sentimentScore": "0.5994",
                 "source": "Zacks",
                 "ticker": "MRVL",
-                "title": "5 AI Bigwigs to Buy at Attractive Valuations Amid Extreme Volatility",
-                "url": "https://finance.yahoo.com/news/5-ai-bigwigs-buy-attractive-115700612.html"
+                "title": "The Zacks Analyst Blog Highlights NVIDIA, Broadcom, Marvell, Jabil and Super Micro Computer",
+                "url": "https://finance.yahoo.com/news/zacks-analyst-blog-highlights-nvidia-103100892.html"
             },
             {
-                "headline": "Marvell (MRVL) witnessed a jump in share price last session on above-average trading volume. The latest trend in earnings estimate revisions for the stock suggests that there could be more strength down the road.",
+                "headline": "We recently published a list of Traders Heavily Sold Down These 10 Stocks on Thursday. In this article, we are going to take a look at where Marvell Technology Inc. (NASDAQ:MRVL) stands against other stocks that traders heavily sold down on Thursday. The stock market wiped away earlier gains, ending Thursday\u2019s trading in another bloodbath [\u2026]",
                 "publication_date": "2025-04-11T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.6901",
-                "source": "Zacks",
-                "ticker": "MRVL",
-                "title": "Marvell (MRVL) Stock Jumps 21.9%: Will It Continue to Soar?",
-                "url": "https://finance.yahoo.com/news/marvell-mrvl-stock-jumps-21-124100096.html"
-            },
-            {
-                "headline": "We recently published a list of 10 AI Stocks Investors Are Watching Today. In this article, we are going to take a look at where Marvell Technology, Inc. (NASDAQ:MRVL) stands against other AI stocks investors are watching today. Tech experts strongly believe that the new tariffs could potentially slow down the AI boom. \u201cThe AI [\u2026]",
-                "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.2732",
+                "sentimentScore": "0.34",
                 "source": "Insider Monkey",
                 "ticker": "MRVL",
-                "title": "Marvell (MRVL) Streamlines for the AI Era \u2013 Auto Exit, Data Center Push",
-                "url": "https://finance.yahoo.com/news/marvell-mrvl-streamlines-ai-era-120450000.html"
+                "title": "Why Marvell Technology Inc. (MRVL) Went Down On Thursday?",
+                "url": "https://finance.yahoo.com/news/why-marvell-technology-inc-mrvl-094706767.html"
             },
             {
-                "headline": "We recently published a list of 10 AI Stocks Investors Are Watching Today. In this article, we are going to take a look at where Marvell Technology, Inc. (NASDAQ:MRVL) stands against other AI stocks investors are watching today. Tech experts strongly believe that the new tariffs could potentially slow down the AI boom. \u201cThe AI [\u2026]",
+                "headline": "Investing.com -- Citi has trimmed its earnings and sales forecasts for both Nvidia (NASDAQ:NVDA) and Marvell Technology (NASDAQ:MRVL), pointing to lower cloud capital expenditure (capex) expectations and persistent macro uncertainty stemming from trade tensions.",
+                "publication_date": "2025-04-11T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.743",
+                "source": "Investing.com",
+                "ticker": "MRVL",
+                "title": "Nvidia, Marvell targets cut at Citi amid macro uncertainty",
+                "url": "https://finance.yahoo.com/news/nvidia-marvell-targets-cut-citi-110733892.html"
+            },
+            {
+                "headline": "Investing.com -- Citi has trimmed its earnings and sales forecasts for both Nvidia (NASDAQ:NVDA) and Marvell Technology (NASDAQ:MRVL), pointing to lower cloud capital expenditure (capex) expectations and persistent macro uncertainty stemming from trade tensions.",
+                "publication_date": "2025-04-11T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.743",
+                "source": "Investing.com",
+                "ticker": "MRVL",
+                "title": "Nvidia, Marvell targets cut at Citi amid macro uncertainty",
+                "url": "https://finance.yahoo.com/news/nvidia-marvell-targets-cut-citi-110733892.html"
+            },
+            {
+                "headline": "We recently published a list of Traders Heavily Sold Down These 10 Stocks on Thursday. In this article, we are going to take a look at where Marvell Technology Inc. (NASDAQ:MRVL) stands against other stocks that traders heavily sold down on Thursday. The stock market wiped away earlier gains, ending Thursday\u2019s trading in another bloodbath [\u2026]",
                 "publication_date": "2025-04-11T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.2732",
+                "sentimentScore": "0.34",
                 "source": "Insider Monkey",
                 "ticker": "MRVL",
-                "title": "Marvell (MRVL) Streamlines for the AI Era \u2013 Auto Exit, Data Center Push",
-                "url": "https://finance.yahoo.com/news/marvell-mrvl-streamlines-ai-era-120450000.html"
+                "title": "Why Marvell Technology Inc. (MRVL) Went Down On Thursday?",
+                "url": "https://finance.yahoo.com/news/why-marvell-technology-inc-mrvl-094706767.html"
             },
             {
-                "headline": "Marvell (MRVL) witnessed a jump in share price last session on above-average trading volume. The latest trend in earnings estimate revisions for the stock suggests that there could be more strength down the road.",
+                "headline": "NVIDIA, Broadcom, Marvell, Jabil and Super Micro Computer are included in this Analyst Blog.",
                 "publication_date": "2025-04-11T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.6901",
+                "sentimentScore": "0.5994",
                 "source": "Zacks",
                 "ticker": "MRVL",
-                "title": "Marvell (MRVL) Stock Jumps 21.9%: Will It Continue to Soar?",
-                "url": "https://finance.yahoo.com/news/marvell-mrvl-stock-jumps-21-124100096.html"
-            },
-            {
-                "headline": "Five AI infrastructure stocks have strong short-term and long-term revenue and earnings growth potential. These are: NVDA, AVGO, MRVL, JBL, SMCI.",
-                "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7096",
-                "source": "Zacks",
-                "ticker": "MRVL",
-                "title": "5 AI Bigwigs to Buy at Attractive Valuations Amid Extreme Volatility",
-                "url": "https://finance.yahoo.com/news/5-ai-bigwigs-buy-attractive-115700612.html"
+                "title": "The Zacks Analyst Blog Highlights NVIDIA, Broadcom, Marvell, Jabil and Super Micro Computer",
+                "url": "https://finance.yahoo.com/news/zacks-analyst-blog-highlights-nvidia-103100892.html"
             }
         ],
-        "avgScore": 0.5576333333333334,
+        "avgScore": 0.06546666666666667,
         "pctChange": -0.02116503242242639
     },
     "4 10 2025": {
         "importantArticles": [
             {
+                "headline": "Five AI infrastructure stocks have strong short-term and long-term revenue and earnings growth potential. These are: NVDA, AVGO, MRVL, JBL, SMCI.",
+                "publication_date": "2025-04-10T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7096",
+                "source": "Zacks",
+                "ticker": "MRVL",
+                "title": "5 AI Bigwigs to Buy at Attractive Valuations Amid Extreme Volatility",
+                "url": "https://finance.yahoo.com/news/5-ai-bigwigs-buy-attractive-115700612.html"
+            },
+            {
+                "headline": "Marvell (MRVL) witnessed a jump in share price last session on above-average trading volume. The latest trend in earnings estimate revisions for the stock suggests that there could be more strength down the road.",
+                "publication_date": "2025-04-10T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6901",
+                "source": "Zacks",
+                "ticker": "MRVL",
+                "title": "Marvell (MRVL) Stock Jumps 21.9%: Will It Continue to Soar?",
+                "url": "https://finance.yahoo.com/news/marvell-mrvl-stock-jumps-21-124100096.html"
+            },
+            {
                 "headline": "Semiconductor stocks, AVGO, NVDA, MRVY and QCOM, present a buying opportunity as AI fuels record growth despite tariff headwinds. Industry set for $2 trillion boom by 2032.",
                 "publication_date": "2025-04-10T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -348,24 +354,14 @@
                 "url": "https://finance.yahoo.com/news/4-semiconductor-stocks-buy-ai-140800830.html"
             },
             {
-                "headline": "Germany-based chipmaker Infineon Technologies is set to enhance its automotive systems capabilities with the acquisition of Marvell Technology\u2019s Automotive Ethernet business. The deal, valued at $2.5bn in cash, is expected to complement Infineon\u2019s position in the automotive microcontroller market. Marvell\u2019s Automotive Ethernet portfolio, known for its Brightlane products, includes PHY transceivers, switches, and bridges, supporting\u2026",
+                "headline": "We recently published a list of 10 AI Stocks Investors Are Watching Today. In this article, we are going to take a look at where Marvell Technology, Inc. (NASDAQ:MRVL) stands against other AI stocks investors are watching today. Tech experts strongly believe that the new tariffs could potentially slow down the AI boom. \u201cThe AI [\u2026]",
                 "publication_date": "2025-04-10T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.4404",
-                "source": "Just Auto",
+                "sentimentScore": "0.2732",
+                "source": "Insider Monkey",
                 "ticker": "MRVL",
-                "title": "Infineon signs $2.5bn deal to acquire Marvell\u2019s Automotive Ethernet business",
-                "url": "https://finance.yahoo.com/news/infineon-signs-2-5bn-deal-102229077.html"
-            },
-            {
-                "headline": "Germany-based chipmaker Infineon Technologies is set to enhance its automotive systems capabilities with the acquisition of Marvell Technology\u2019s Automotive Ethernet business. The deal, valued at $2.5bn in cash, is expected to complement Infineon\u2019s position in the automotive microcontroller market. Marvell\u2019s Automotive Ethernet portfolio, known for its Brightlane products, includes PHY transceivers, switches, and bridges, supporting\u2026",
-                "publication_date": "2025-04-10T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4404",
-                "source": "Just Auto",
-                "ticker": "MRVL",
-                "title": "Infineon signs $2.5bn deal to acquire Marvell\u2019s Automotive Ethernet business",
-                "url": "https://finance.yahoo.com/news/infineon-signs-2-5bn-deal-102229077.html"
+                "title": "Marvell (MRVL) Streamlines for the AI Era \u2013 Auto Exit, Data Center Push",
+                "url": "https://finance.yahoo.com/news/marvell-mrvl-streamlines-ai-era-120450000.html"
             },
             {
                 "headline": "Semiconductor stocks, AVGO, NVDA, MRVY and QCOM, present a buying opportunity as AI fuels record growth despite tariff headwinds. Industry set for $2 trillion boom by 2032.",
@@ -376,9 +372,19 @@
                 "ticker": "MRVL",
                 "title": "4 Semiconductor Stocks to Buy as AI Demand Fuels Record Global Growth",
                 "url": "https://finance.yahoo.com/news/4-semiconductor-stocks-buy-ai-140800830.html"
+            },
+            {
+                "headline": "Marvell (MRVL) witnessed a jump in share price last session on above-average trading volume. The latest trend in earnings estimate revisions for the stock suggests that there could be more strength down the road.",
+                "publication_date": "2025-04-10T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6901",
+                "source": "Zacks",
+                "ticker": "MRVL",
+                "title": "Marvell (MRVL) Stock Jumps 21.9%: Will It Continue to Soar?",
+                "url": "https://finance.yahoo.com/news/marvell-mrvl-stock-jumps-21-124100096.html"
             }
         ],
-        "avgScore": 0.5500499999999999,
+        "avgScore": 0.5831500000000001,
         "pctChange": 0.010982803595307192
     },
     "4 9 2025": {
@@ -394,16 +400,6 @@
                 "url": "https://finance.yahoo.com/news/why-ai-winners-marvell-technology-133000762.html"
             },
             {
-                "headline": "Marvell Technology, Inc. (NASDAQ:MRVL) shares are trading higher premarket on Tuesday. On Monday, the company disclosed a definitive deal to sell its Automotive Ethernet business to Infineon Technologies AG (OTC:IFNNY) for $2.5 billion in an all-cash deal. The transaction includes Marvell's Brightlane Automotive Ethernet portfolio and related assets. Also Read: If Tariffs Shift Customer Spending Priorities, These Software Stocks Could Face Slow Growth The company projected this segment to genera",
-                "publication_date": "2025-04-09T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6705",
-                "source": "Benzinga",
-                "ticker": "MRVL",
-                "title": "Marvell Offloads Auto Ethernet Segment To Infineon Tech For $2.5 Billion Cash",
-                "url": "https://finance.yahoo.com/news/marvell-offloads-auto-ethernet-segment-110224444.html"
-            },
-            {
                 "headline": "Apple stock rises after a three-day stretch that has seen shares of the iPhone maker tumble 19%, Broadcom announces a new buyback program of $10 billion, and Humana, CVS Health, and UnitedHealth jump as Medicare boosts payment rates.",
                 "publication_date": "2025-04-09T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -412,6 +408,16 @@
                 "ticker": "MRVL",
                 "title": "These Stocks Moved the Most Today: Apple, Nvidia, Broadcom, Humana, CVS, Tesla, Super Micro, Marvell, and More",
                 "url": "https://finance.yahoo.com/m/ce3796ea-ab57-3c47-9467-f326c40ce941/these-stocks-moved-the-most.html"
+            },
+            {
+                "headline": "Germany-based chipmaker Infineon Technologies is set to enhance its automotive systems capabilities with the acquisition of Marvell Technology\u2019s Automotive Ethernet business. The deal, valued at $2.5bn in cash, is expected to complement Infineon\u2019s position in the automotive microcontroller market. Marvell\u2019s Automotive Ethernet portfolio, known for its Brightlane products, includes PHY transceivers, switches, and bridges, supporting\u2026",
+                "publication_date": "2025-04-09T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4404",
+                "source": "Just Auto",
+                "ticker": "MRVL",
+                "title": "Infineon signs $2.5bn deal to acquire Marvell\u2019s Automotive Ethernet business",
+                "url": "https://finance.yahoo.com/news/infineon-signs-2-5bn-deal-102229077.html"
             },
             {
                 "headline": "Astera Labs' lower-than-expected gross margin can be attributed to a shift in product mix toward hardware-based solutions, which impacted investors' sentiment.",
@@ -444,7 +450,7 @@
                 "url": "https://finance.yahoo.com/news/why-marvell-technology-mrvl-dipped-215015847.html"
             }
         ],
-        "avgScore": 0.24663999999999997,
+        "avgScore": 0.20276249999999998,
         "pctChange": -0.13270996748435457
     },
     "4 8 2025": {
@@ -470,14 +476,14 @@
                 "url": "https://finance.yahoo.com/news/marvell-sell-automotive-ethernet-business-203500359.html"
             },
             {
-                "headline": "Infineon Technologies AG (FSE: IFX) (OTCQX: IFNNY) is accelerating the build-up of its system capabilities for software-defined vehicles with the acquisition of Marvell Technology's Automotive Ethernet business, complementing and expanding its own market-leading microcontroller business. Infineon and Marvell Technology, Inc. (NASDAQ: MRVL) have entered into a definitive transaction agreement for a purchase price of US$2.5 billion in cash. The transaction is subject to regulatory approvals. Ether",
+                "headline": "Marvell Technology, Inc. (NASDAQ:MRVL) shares are trading higher premarket on Tuesday. On Monday, the company disclosed a definitive deal to sell its Automotive Ethernet business to Infineon Technologies AG (OTC:IFNNY) for $2.5 billion in an all-cash deal. The transaction includes Marvell's Brightlane Automotive Ethernet portfolio and related assets. Also Read: If Tariffs Shift Customer Spending Priorities, These Software Stocks Could Face Slow Growth The company projected this segment to genera",
                 "publication_date": "2025-04-08T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.4939",
-                "source": "PR Newswire",
+                "sentimentScore": "0.6705",
+                "source": "Benzinga",
                 "ticker": "MRVL",
-                "title": "Infineon further strengthens its number one position in automotive microcontrollers and boosts systems capabilities for software-defined vehicles with acquisition of Marvell's Automotive Ethernet business",
-                "url": "https://finance.yahoo.com/news/infineon-further-strengthens-number-one-081800807.html"
+                "title": "Marvell Offloads Auto Ethernet Segment To Infineon Tech For $2.5 Billion Cash",
+                "url": "https://finance.yahoo.com/news/marvell-offloads-auto-ethernet-segment-110224444.html"
             },
             {
                 "headline": "The automotive ethernet business, which will become a part of Infineon's automotive division, is expected to generate revenue between $225 million and $250 million in calendar year 2025, with a gross margin of nearly 60%.  Infineon has secured acquisition financing from banks, will incur additional debt to finance the deal, and expects it to close this year.  \"Marvell has made it abundantly clear that they are an AI- first company, focusing on both custom silicon and networking,\" said C.J. Muse, senior managing director, Cantor Fitzgerald.",
@@ -510,12 +516,22 @@
                 "url": "https://finance.yahoo.com/news/marvell-technology-inc-announces-conference-130500290.html"
             }
         ],
-        "avgScore": 0.3784714285714286,
+        "avgScore": 0.39339999999999997,
         "pctChange": 0.2184689065341087
     },
     "4 4 2025": {
         "importantArticles": [
             {
+                "headline": "Marvell Technology, Inc. ( NASDAQ:MRVL ) received a lot of attention from a substantial price movement on the NASDAQGS...",
+                "publication_date": "2025-04-04T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.2023",
+                "source": "Simply Wall St.",
+                "ticker": "MRVL",
+                "title": "Is There Now An Opportunity In Marvell Technology, Inc. (NASDAQ:MRVL)?",
+                "url": "https://finance.yahoo.com/news/now-opportunity-marvell-technology-inc-110023063.html"
+            },
+            {
                 "headline": "The Nasdaq-100 -- which tracks the largest 100 nonfinancial companies on the Nasdaq stock exchange -- had a tough run in March as it finished the month down 7.7%.  Semiconductor company Marvell Technology (NASDAQ: MRVL) ended March down close to 32.9%, and database software company MongoDB (NASDAQ: MDB) fell just over 34.4%.  President Trump's tariff plans, recession fears, and softening expectations for artificial intelligence (AI) have fueled a broad sell-off for technology growth stocks.",
                 "publication_date": "2025-04-04T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -534,24 +550,24 @@
                 "ticker": "MRVL",
                 "title": "These Were the 2 Worst-Performing Stocks in the Nasdaq-100 in March 2025",
                 "url": "https://finance.yahoo.com/news/were-2-worst-performing-stocks-081500414.html"
+            },
+            {
+                "headline": "Marvell Technology, Inc. ( NASDAQ:MRVL ) received a lot of attention from a substantial price movement on the NASDAQGS...",
+                "publication_date": "2025-04-04T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.2023",
+                "source": "Simply Wall St.",
+                "ticker": "MRVL",
+                "title": "Is There Now An Opportunity In Marvell Technology, Inc. (NASDAQ:MRVL)?",
+                "url": "https://finance.yahoo.com/news/now-opportunity-marvell-technology-inc-110023063.html"
             }
         ],
-        "avgScore": -0.1027,
+        "avgScore": 0.049800000000000004,
         "pctChange": 0.03176208617536191
     },
     "4 3 2025": {
         "importantArticles": [
             {
-                "headline": "Five growth stocks have terrific short-term price upside potential. These are APP, MRVL, RDDT, AFRM, EME.",
-                "publication_date": "2025-04-03T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6908",
-                "source": "Zacks",
-                "ticker": "MRVL",
-                "title": "5 Must-Buy Growth Stocks for April With Tremendous Short-Term Upside",
-                "url": "https://finance.yahoo.com/news/5-must-buy-growth-stocks-122500123.html"
-            },
-            {
                 "headline": "Based on the average brokerage recommendation (ABR), Marvell (MRVL) should be added to one's portfolio. Wall Street analysts' overly optimistic recommendations cast doubt on the effectiveness of this highly sought-after metric. So, is the stock worth buying?",
                 "publication_date": "2025-04-03T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -570,108 +586,48 @@
                 "ticker": "MRVL",
                 "title": "Marvell (MRVL) Is Considered a Good Investment by Brokers: Is That True?",
                 "url": "https://finance.yahoo.com/news/marvell-mrvl-considered-good-investment-133010330.html"
-            },
-            {
-                "headline": "Five growth stocks have terrific short-term price upside potential. These are APP, MRVL, RDDT, AFRM, EME.",
-                "publication_date": "2025-04-03T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6908",
-                "source": "Zacks",
-                "ticker": "MRVL",
-                "title": "5 Must-Buy Growth Stocks for April With Tremendous Short-Term Upside",
-                "url": "https://finance.yahoo.com/news/5-must-buy-growth-stocks-122500123.html"
             }
         ],
-        "avgScore": 0.43435,
+        "avgScore": 0.1779,
         "pctChange": -0.11161030174809919
     },
     "4 2 2025": {
         "importantArticles": [
             {
-                "headline": "Five AI stocks currently looks very promising for the rest of 2025 despite negative returns in Q1. These are: APP, APH, AVGO, ANET, MRVL.",
+                "headline": "Five growth stocks have terrific short-term price upside potential. These are APP, MRVL, RDDT, AFRM, EME.",
                 "publication_date": "2025-04-02T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.7176",
+                "sentimentScore": "0.6908",
                 "source": "Zacks",
                 "ticker": "MRVL",
-                "title": "Invest in These 5 AI Wealth Destroyers of Q1 Set for a Big Jump in Q2",
-                "url": "https://finance.yahoo.com/news/invest-5-ai-wealth-destroyers-122600785.html"
+                "title": "5 Must-Buy Growth Stocks for April With Tremendous Short-Term Upside",
+                "url": "https://finance.yahoo.com/news/5-must-buy-growth-stocks-122500123.html"
             },
             {
-                "headline": "Marvell Technology, Inc. (NASDAQ: MRVL), a leader in data infrastructure semiconductor solutions, today announced that in collaboration with Active Electrical Cable (AEC) partners 3M, Amphenol, Broadex, Luxshare-Tech, and TE Connectivity, they will showcase demonstrations of both 800G and 1.6T Alaska\u00ae A 1.6T PAM4 DSPs for AECs at OFC 2025. The Alaska A 1.6T PAM4 DSP is the industry's first AEC DSP designed for emerging 200G/lane-based accelerated infrastructure architectures, while the Alaska A",
+                "headline": "Five growth stocks have terrific short-term price upside potential. These are APP, MRVL, RDDT, AFRM, EME.",
                 "publication_date": "2025-04-02T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.5267",
-                "source": "PR Newswire",
-                "ticker": "MRVL",
-                "title": "Marvell Extends Connectivity Leadership with AEC Ecosystem Demonstrations at OFC 2025",
-                "url": "https://finance.yahoo.com/news/marvell-extends-connectivity-leadership-aec-130000638.html"
-            },
-            {
-                "headline": "Five stocks have strong momentum for April. These are: APP, MRVL, DOCS, RDDT, VEEV.",
-                "publication_date": "2025-04-02T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.5106",
+                "sentimentScore": "0.6908",
                 "source": "Zacks",
                 "ticker": "MRVL",
-                "title": "5 Momentum Stocks to Buy for April Despite a Disappointing March",
-                "url": "https://finance.yahoo.com/news/5-momentum-stocks-buy-april-121900363.html"
-            },
-            {
-                "headline": "Five stocks have strong momentum for April. These are: APP, MRVL, DOCS, RDDT, VEEV.",
-                "publication_date": "2025-04-02T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.5106",
-                "source": "Zacks",
-                "ticker": "MRVL",
-                "title": "5 Momentum Stocks to Buy for April Despite a Disappointing March",
-                "url": "https://finance.yahoo.com/news/5-momentum-stocks-buy-april-121900363.html"
-            },
-            {
-                "headline": "Marvell Technology, Inc. (NASDAQ: MRVL), a leader in data infrastructure semiconductor solutions, today announced that in collaboration with Active Electrical Cable (AEC) partners 3M, Amphenol, Broadex, Luxshare-Tech, and TE Connectivity, they will showcase demonstrations of both 800G and 1.6T Alaska\u00ae A 1.6T PAM4 DSPs for AECs at OFC 2025. The Alaska A 1.6T PAM4 DSP is the industry's first AEC DSP designed for emerging 200G/lane-based accelerated infrastructure architectures, while the Alaska A",
-                "publication_date": "2025-04-02T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.5267",
-                "source": "PR Newswire",
-                "ticker": "MRVL",
-                "title": "Marvell Extends Connectivity Leadership with AEC Ecosystem Demonstrations at OFC 2025",
-                "url": "https://finance.yahoo.com/news/marvell-extends-connectivity-leadership-aec-130000638.html"
-            },
-            {
-                "headline": "Five AI stocks currently looks very promising for the rest of 2025 despite negative returns in Q1. These are: APP, APH, AVGO, ANET, MRVL.",
-                "publication_date": "2025-04-02T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7176",
-                "source": "Zacks",
-                "ticker": "MRVL",
-                "title": "Invest in These 5 AI Wealth Destroyers of Q1 Set for a Big Jump in Q2",
-                "url": "https://finance.yahoo.com/news/invest-5-ai-wealth-destroyers-122600785.html"
+                "title": "5 Must-Buy Growth Stocks for April With Tremendous Short-Term Upside",
+                "url": "https://finance.yahoo.com/news/5-must-buy-growth-stocks-122500123.html"
             }
         ],
-        "avgScore": 0.5849666666666667,
+        "avgScore": 0.6908,
         "pctChange": -0.12003796200586185
     },
     "4 1 2025": {
         "importantArticles": [
             {
-                "headline": "Key Insights The projected fair value for Marvell Technology is US$80.87 based on 2 Stage Free Cash Flow to Equity...",
+                "headline": "Five AI stocks currently looks very promising for the rest of 2025 despite negative returns in Q1. These are: APP, APH, AVGO, ANET, MRVL.",
                 "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.7906",
-                "source": "Simply Wall St.",
+                "sentimentScore": "0.7176",
+                "source": "Zacks",
                 "ticker": "MRVL",
-                "title": "An Intrinsic Calculation For Marvell Technology, Inc. (NASDAQ:MRVL) Suggests It's 23% Undervalued",
-                "url": "https://finance.yahoo.com/news/intrinsic-calculation-marvell-technology-inc-110024885.html"
-            },
-            {
-                "headline": "Marvell Technology, Inc. (NASDAQ: MRVL), a leader in data infrastructure semiconductor solutions, today announced it will showcase its interconnect portfolio for scale-up and scale-out AI deployments at OFC 2025, taking place March 31\u2013April 3 in San Francisco, CA. Marvell will share its strategy and vision through multiple presentations and demonstrations in its booth #2129 and partner booths.",
-                "publication_date": "2025-04-01T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.5994",
-                "source": "PR Newswire",
-                "ticker": "MRVL",
-                "title": "Marvell Advances Interconnect Portfolio for Scale-up and Scale-out Fabrics at OFC 2025",
-                "url": "https://finance.yahoo.com/news/marvell-advances-interconnect-portfolio-scale-130000526.html"
+                "title": "Invest in These 5 AI Wealth Destroyers of Q1 Set for a Big Jump in Q2",
+                "url": "https://finance.yahoo.com/news/invest-5-ai-wealth-destroyers-122600785.html"
             },
             {
                 "headline": "Marvell (MRVL) is well positioned to outperform the market, as it exhibits above-average growth in financials.",
@@ -684,14 +640,14 @@
                 "url": "https://finance.yahoo.com/news/why-growth-investors-buy-marvell-164506514.html"
             },
             {
-                "headline": "Semiconductors are the core infrastructure powering the Information Age. Still, they\u2019re subject to swings in the broader economy because customers often stockpile chips ahead of demand, and investors seem to believe that inventory levels are correcting - over the past six months, the industry has shed 21.3%. This drawdown was significantly worse than the S&P 500\u2019s 4% fall.",
+                "headline": "Marvell Technology (NasdaqGS:MRVL) recently unveiled groundbreaking product advancements at OFC 2025, including its 400G/lane technology and 1.6T silicon photonics light engine. These innovations position the company at the forefront of AI and cloud computing solutions. However, despite these technological strides, Marvell's share price fell 15% over the last week. This decline occurred amidst a broader market downturn, as major indexes like the Nasdaq and S&P 500 faced significant losses due...",
                 "publication_date": "2025-04-01T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.5574",
-                "source": "StockStory",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5423",
+                "source": "Simply Wall St.",
                 "ticker": "MRVL",
-                "title": "3 Semiconductor Stocks in the Doghouse",
-                "url": "https://finance.yahoo.com/news/3-semiconductor-stocks-doghouse-130141732.html"
+                "title": "Marvell Technology (NasdaqGS:MRVL) Unveils Groundbreaking 400G Technology Amid Recent 15% Share Price Dip",
+                "url": "https://finance.yahoo.com/news/marvell-technology-nasdaqgs-mrvl-unveils-172012890.html"
             },
             {
                 "headline": "AMD CEO Lisa Su pushes back on the AI slowdown narrative.",
@@ -704,30 +660,80 @@
                 "url": "https://finance.yahoo.com/news/amd-ceo-lisa-su-to-yahoo-finance-demand-for-ai-infrastructure-is-immense-151646707.html"
             },
             {
-                "headline": "Marvell Technology, Inc. (NASDAQ: MRVL), a leader in data infrastructure semiconductor solutions, will demonstrate the industry's first 400G/lane technology with complete electrical to optical link operating at 224 Gbaud at OFC 2025 taking place March 30-April 3, 2025 in San Francisco, CA. This technology was once considered impossible, but Marvell has now proven it in real silicon.",
+                "headline": "MRVL expands its portfolio with industry's first PCIe Gen 6 Over Optics developed in collaboration with TeraHop.",
                 "publication_date": "2025-04-01T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.1027",
+                "source": "Zacks",
+                "ticker": "MRVL",
+                "title": "Marvell Technology Expands Portfolio With PCIe Gen 6 Over Optics",
+                "url": "https://finance.yahoo.com/news/marvell-technology-expands-portfolio-pcie-143000002.html"
+            },
+            {
+                "headline": "Five stocks have strong momentum for April. These are: APP, MRVL, DOCS, RDDT, VEEV.",
+                "publication_date": "2025-04-01T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5106",
+                "source": "Zacks",
+                "ticker": "MRVL",
+                "title": "5 Momentum Stocks to Buy for April Despite a Disappointing March",
+                "url": "https://finance.yahoo.com/news/5-momentum-stocks-buy-april-121900363.html"
+            }
+        ],
+        "avgScore": 0.42454285714285717,
+        "pctChange": 0.008935692556697412
+    },
+    "3 31 2025": {
+        "importantArticles": [
+            {
+                "headline": "Key Insights The projected fair value for Marvell Technology is US$80.87 based on 2 Stage Free Cash Flow to Equity...",
+                "publication_date": "2025-03-31T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7906",
+                "source": "Simply Wall St.",
+                "ticker": "MRVL",
+                "title": "An Intrinsic Calculation For Marvell Technology, Inc. (NASDAQ:MRVL) Suggests It's 23% Undervalued",
+                "url": "https://finance.yahoo.com/news/intrinsic-calculation-marvell-technology-inc-110024885.html"
+            },
+            {
+                "headline": "Marvell Technology, Inc. (NASDAQ: MRVL), a leader in data infrastructure semiconductor solutions, today announced it will showcase its interconnect portfolio for scale-up and scale-out AI deployments at OFC 2025, taking place March 31\u2013April 3 in San Francisco, CA. Marvell will share its strategy and vision through multiple presentations and demonstrations in its booth #2129 and partner booths.",
+                "publication_date": "2025-03-31T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5994",
+                "source": "PR Newswire",
+                "ticker": "MRVL",
+                "title": "Marvell Advances Interconnect Portfolio for Scale-up and Scale-out Fabrics at OFC 2025",
+                "url": "https://finance.yahoo.com/news/marvell-advances-interconnect-portfolio-scale-130000526.html"
+            },
+            {
+                "headline": "Marvell Technology, Inc. (NASDAQ: MRVL), a leader in data infrastructure semiconductor solutions, will demonstrate at OFC 2025 its 1.6T silicon photonics light engine integrated into a linear-drive pluggable optics (LPO) module. The new product is the second in the Marvell\u00ae light engine family, which also includes the 6.4T light engine for co-packaged optics (CPO) demonstrated at OFC 2024. Designed to address next-generation AI scale-up network requirements, the 1.6T light engine supports eight",
+                "publication_date": "2025-03-31T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4939",
+                "source": "PR Newswire",
+                "ticker": "MRVL",
+                "title": "Marvell Demonstrates Silicon Photonics Light Engine for Low-power, Rack-scale Interconnect in AI Networks",
+                "url": "https://finance.yahoo.com/news/marvell-demonstrates-silicon-photonics-light-130000116.html"
+            },
+            {
+                "headline": "Semiconductors are the core infrastructure powering the Information Age. Still, they\u2019re subject to swings in the broader economy because customers often stockpile chips ahead of demand, and investors seem to believe that inventory levels are correcting - over the past six months, the industry has shed 21.3%. This drawdown was significantly worse than the S&P 500\u2019s 4% fall.",
+                "publication_date": "2025-03-31T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5574",
+                "source": "StockStory",
+                "ticker": "MRVL",
+                "title": "3 Semiconductor Stocks in the Doghouse",
+                "url": "https://finance.yahoo.com/news/3-semiconductor-stocks-doghouse-130141732.html"
+            },
+            {
+                "headline": "Marvell Technology, Inc. (NASDAQ: MRVL), a leader in data infrastructure semiconductor solutions, will demonstrate the industry's first 400G/lane technology with complete electrical to optical link operating at 224 Gbaud at OFC 2025 taking place March 30-April 3, 2025 in San Francisco, CA. This technology was once considered impossible, but Marvell has now proven it in real silicon.",
+                "publication_date": "2025-03-31T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.09",
                 "source": "PR Newswire",
                 "ticker": "MRVL",
                 "title": "Marvell to Demonstrate Industry's First 400G/lane PAM4 Electrical-to-Optical Link Technology at OFC 2025",
                 "url": "https://finance.yahoo.com/news/marvell-demonstrate-industrys-first-400g-130000743.html"
-            }
-        ],
-        "avgScore": 0.29259999999999997,
-        "pctChange": 0.008935692556697412
-    },
-    "3 31 2025": {
-        "importantArticles": [
-            {
-                "headline": "The Nasdaq-100 is composed of the 100 largest non-financial companies listed on the Nasdaq Composite (NASDAQINDEX: ^IXIC).  For those who have followed the market in recent years, it should come as no surprise that this tech-heavy index, which is full of some of the largest artificial intelligence companies in the world, has been a good long-term investment.  Over the last five years, the Nasdaq-100 is up 154%.",
-                "publication_date": "2025-03-31T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7096",
-                "source": "Motley Fool",
-                "ticker": "MRVL",
-                "title": "Should You Invest in the 3 Worst-Performing Stocks in the Nasdaq-100 in 2025?",
-                "url": "https://finance.yahoo.com/news/invest-3-worst-performing-stocks-102500919.html"
             },
             {
                 "headline": "MPTI, EAT and MRVL made it to the Zacks Rank #1 (Strong Buy) growth stocks list on March 31, 2025.",
@@ -738,42 +744,22 @@
                 "ticker": "MRVL",
                 "title": "Best Growth Stocks to Buy for March 31st",
                 "url": "https://finance.yahoo.com/news/best-growth-stocks-buy-march-074800196.html"
-            },
-            {
-                "headline": "MPTI, EAT and MRVL made it to the Zacks Rank #1 (Strong Buy) growth stocks list on March 31, 2025.",
-                "publication_date": "2025-03-31T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.3818",
-                "source": "Zacks",
-                "ticker": "MRVL",
-                "title": "Best Growth Stocks to Buy for March 31st",
-                "url": "https://finance.yahoo.com/news/best-growth-stocks-buy-march-074800196.html"
-            },
-            {
-                "headline": "The Nasdaq-100 is composed of the 100 largest non-financial companies listed on the Nasdaq Composite (NASDAQINDEX: ^IXIC).  For those who have followed the market in recent years, it should come as no surprise that this tech-heavy index, which is full of some of the largest artificial intelligence companies in the world, has been a good long-term investment.  Over the last five years, the Nasdaq-100 is up 154%.",
-                "publication_date": "2025-03-31T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7096",
-                "source": "Motley Fool",
-                "ticker": "MRVL",
-                "title": "Should You Invest in the 3 Worst-Performing Stocks in the Nasdaq-100 in 2025?",
-                "url": "https://finance.yahoo.com/news/invest-3-worst-performing-stocks-102500919.html"
             }
         ],
-        "avgScore": 0.5457,
+        "avgScore": 0.2997166666666667,
         "pctChange": 0.017865834456495762
     },
     "3 28 2025": {
         "importantArticles": [
             {
-                "headline": "Marvell Technology, Inc. (NASDAQ: MRVL), a leader in data infrastructure semiconductor solutions, today announced in collaboration with TeraHop, a global optical solutions provider for AI driven data centers, the demonstration of the industry's first end-to-end PCIe Gen 6 over optics in the Marvell booth #2129 at OFC 2025. The demonstration will showcase the extension of PCIe reach beyond traditional electrical limits to enable low-latency, standards-based AI scale-up infrastructure.",
+                "headline": "Here we present three semiconductor stocks, CRDO, AVGO and MRVL, which are poised to benefit from a robust demand environment in the data center market.",
                 "publication_date": "2025-03-28T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.5106",
-                "source": "PR Newswire",
+                "sentimentScore": "0.7096",
+                "source": "Zacks",
                 "ticker": "MRVL",
-                "title": "Marvell Demonstrates Industry's First End-to-end PCIe Gen 6 Over Optics for Accelerated Infrastructure at OFC 2025",
-                "url": "https://finance.yahoo.com/news/marvell-demonstrates-industrys-first-end-130000891.html"
+                "title": "3 Semiconductor Stocks to Buy Amid Rising Data Center Demand",
+                "url": "https://finance.yahoo.com/news/3-semiconductor-stocks-buy-amid-124400237.html"
             },
             {
                 "headline": "Marvell Technology (NasdaqGS:MRVL) recently announced a significant collaboration with TeraHop to demonstrate the industry-first PCIe Gen 6 over optics technology, a development heralded as a potential game-changer for AI infrastructure. Despite this innovation, the company's stock faced a 4% decline over the past week, a movement that mirrors broader market challenges where tech stocks, like Nvidia and Broadcom, also saw declines. Furthermore, concerns about new tariffs and their economic...",
@@ -816,17 +802,17 @@
                 "url": "https://finance.yahoo.com/news/marvell-technology-nasdaqgs-mrvl-showcases-171438583.html"
             },
             {
-                "headline": "Marvell Technology, Inc. (NASDAQ: MRVL), a leader in data infrastructure semiconductor solutions, today announced in collaboration with TeraHop, a global optical solutions provider for AI driven data centers, the demonstration of the industry's first end-to-end PCIe Gen 6 over optics in the Marvell booth #2129 at OFC 2025. The demonstration will showcase the extension of PCIe reach beyond traditional electrical limits to enable low-latency, standards-based AI scale-up infrastructure.",
+                "headline": "Here we present three semiconductor stocks, CRDO, AVGO and MRVL, which are poised to benefit from a robust demand environment in the data center market.",
                 "publication_date": "2025-03-28T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.5106",
-                "source": "PR Newswire",
+                "sentimentScore": "0.7096",
+                "source": "Zacks",
                 "ticker": "MRVL",
-                "title": "Marvell Demonstrates Industry's First End-to-end PCIe Gen 6 Over Optics for Accelerated Infrastructure at OFC 2025",
-                "url": "https://finance.yahoo.com/news/marvell-demonstrates-industrys-first-end-130000891.html"
+                "title": "3 Semiconductor Stocks to Buy Amid Rising Data Center Demand",
+                "url": "https://finance.yahoo.com/news/3-semiconductor-stocks-buy-amid-124400237.html"
             }
         ],
-        "avgScore": 0.2970333333333333,
+        "avgScore": 0.36336666666666667,
         "pctChange": -0.007575766436316206
     },
     "3 27 2025": {
@@ -872,14 +858,14 @@
                 "url": "https://finance.yahoo.com/news/jim-cramer-marvell-technology-mrvl-014154329.html"
             },
             {
-                "headline": "Key Insights Significantly high institutional ownership implies Marvell Technology's stock price is sensitive to their...",
+                "headline": "Marvell Technology, Inc. (NASDAQ: MRVL), a leader in data infrastructure semiconductor solutions, today announced in collaboration with TeraHop, a global optical solutions provider for AI driven data centers, the demonstration of the industry's first end-to-end PCIe Gen 6 over optics in the Marvell booth #2129 at OFC 2025. The demonstration will showcase the extension of PCIe reach beyond traditional electrical limits to enable low-latency, standards-based AI scale-up infrastructure.",
                 "publication_date": "2025-03-27T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Simply Wall St.",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5106",
+                "source": "PR Newswire",
                 "ticker": "MRVL",
-                "title": "Marvell Technology, Inc.'s (NASDAQ:MRVL) one-year returns climbed after last week's 5.0% gain, institutional investors must be happy",
-                "url": "https://finance.yahoo.com/news/marvell-technology-inc-nasdaq-mrvl-110010431.html"
+                "title": "Marvell Demonstrates Industry's First End-to-end PCIe Gen 6 Over Optics for Accelerated Infrastructure at OFC 2025",
+                "url": "https://finance.yahoo.com/news/marvell-demonstrates-industrys-first-end-130000891.html"
             },
             {
                 "headline": "Shares of most artificial intelligence (AI)-related semiconductor stocks, including Taiwan Semiconductor Manufacturing (NYSE: TSM), Broadcom (NASDAQ: AVGO), and Marvell Technology (NASDAQ: MRVL), were falling hard on Wednesday, down 4.5%, 4.3%, and 6.6%, respectively, as of 12:49 p.m. ET.  Most AI-related hardware stocks, including Nvidia, were down sharply on three bits of news.  One, the U.S. added about 50 Chinese companies and 80 total companies to the export \"entity list,\" which could restrict semiconductor sales globally.",
@@ -892,12 +878,22 @@
                 "url": "https://finance.yahoo.com/news/why-ai-focused-semiconductor-leaders-194135822.html"
             }
         ],
-        "avgScore": 0.42641428571428575,
+        "avgScore": 0.4993571428571429,
         "pctChange": -0.04347825318941524
     },
     "3 26 2025": {
         "importantArticles": [
             {
+                "headline": "Key Insights Significantly high institutional ownership implies Marvell Technology's stock price is sensitive to their...",
+                "publication_date": "2025-03-26T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Simply Wall St.",
+                "ticker": "MRVL",
+                "title": "Marvell Technology, Inc.'s (NASDAQ:MRVL) one-year returns climbed after last week's 5.0% gain, institutional investors must be happy",
+                "url": "https://finance.yahoo.com/news/marvell-technology-inc-nasdaq-mrvl-110010431.html"
+            },
+            {
                 "headline": "U.S. trade restrictions are a major overhang on AI chip stocks, including Nvidia. Industry officials are lobbying the White House for changes.",
                 "publication_date": "2025-03-26T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -916,33 +912,23 @@
                 "ticker": "MRVL",
                 "title": "U.S. Trade Restrictions Remain Big Overhang On AI Chip Stocks",
                 "url": "https://finance.yahoo.com/m/f72c061e-4488-35be-81dc-f92bd92fc388/u-s-trade-restrictions.html"
+            },
+            {
+                "headline": "Key Insights Significantly high institutional ownership implies Marvell Technology's stock price is sensitive to their...",
+                "publication_date": "2025-03-26T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Simply Wall St.",
+                "ticker": "MRVL",
+                "title": "Marvell Technology, Inc.'s (NASDAQ:MRVL) one-year returns climbed after last week's 5.0% gain, institutional investors must be happy",
+                "url": "https://finance.yahoo.com/news/marvell-technology-inc-nasdaq-mrvl-110010431.html"
             }
         ],
-        "avgScore": -0.0772,
+        "avgScore": -0.0386,
         "pctChange": -0.028460136313566052
     },
     "3 25 2025": {
         "importantArticles": [
-            {
-                "headline": "Nvidia (NVDA) CEO Jensen Huang has had a month, as one would say. He provided more details on powerful new AI chips, such as Blackwell Ultra and Vera Rubin at its big annual GTC conference, chips that could help take civilization to a whole other level of productivity. At the same time, he moved to alter the narrative that DeepSeek's advances in AI equaled bad news for demand for Nvidia's chips. And to top it all off, he held a meeting with top quantum computing CEOs to make peace after sending the sector reeling earlier this year. Despite the flurry of headlines, Nvidia\u2019s stock is still going in reverse. In fact, the stock has been lagging for the entire year. What gives? Yahoo Finance Executive Editor Brian Sozzi talks with BofA semiconductor analyst Vivek Arya about what\u2019s weighing on Nvidia\u2019s super hot stock, why Arya attended GTC, and shares his firsthand account on what he learned on the ground. Arya is also fresh off upgrading shares of ailing chipmaker Intel (INTC) amid the appointment of a new CEO in Lip-Bu Tan. Sozzi and Arya discuss that big call and the state of the semiconductor industry. For full episodes of Opening Bid, listen on your favorite podcast platform or watch on our website. Yahoo Finance's Opening Bid is produced by Langston Sessoms",
-                "publication_date": "2025-03-25T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.9543",
-                "source": "Yahoo Finance Video",
-                "ticker": "MRVL",
-                "title": "Why Nvidia stock is still a must own",
-                "url": "https://finance.yahoo.com/video/why-nvidia-stock-still-must-120000819.html"
-            },
-            {
-                "headline": "Compressed valuations and robust AI-driven growth make it a compelling long-term play",
-                "publication_date": "2025-03-25T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8074",
-                "source": "GuruFocus.com",
-                "ticker": "MRVL",
-                "title": "Marvell Technology: Undervalued Data Center Player",
-                "url": "https://finance.yahoo.com/news/marvell-technology-undervalued-data-center-101646406.html"
-            },
             {
                 "headline": "We recently published a list of Goldman Sachs Tech Stocks: 10 Stocks to Buy. In this article, we are going to take a look at where Marvell Technology, Inc. (NASDAQ:MRVL) stands against other top Goldman Sachs tech stocks to buy. The technology sector delivered a strong performance in 2024, driven by chip companies, which played [\u2026]",
                 "publication_date": "2025-03-25T00:00:00.000Z",
@@ -952,6 +938,26 @@
                 "ticker": "MRVL",
                 "title": "Marvell Technology (MRVL): Among the Tech Stocks to Buy According to Goldman Sachs",
                 "url": "https://finance.yahoo.com/news/marvell-technology-mrvl-among-tech-213039757.html"
+            },
+            {
+                "headline": "Intel has a chance at brighter days under new CEO Lip-Bu Tan, but it will take a while, Band of America analyst Vivek Arya said.",
+                "publication_date": "2025-03-25T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.3182",
+                "source": "Yahoo Finance",
+                "ticker": "MRVL",
+                "title": "Intel has a shot at being 'viable' with new CEO at the wheel: Analyst",
+                "url": "https://finance.yahoo.com/news/intel-has-a-shot-at-being-viable-with-new-ceo-at-the-wheel-analyst-143519196.html"
+            },
+            {
+                "headline": "Here, we take a sneak peek at four stocks, NVDA, MRVL, OKTA and RNG, which are at the forefront of key trends in the technology space.",
+                "publication_date": "2025-03-25T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "MRVL",
+                "title": "Buy These 4 Growth-Rated Tech Stocks Amid High Market Volatility",
+                "url": "https://finance.yahoo.com/news/buy-4-growth-rated-tech-145500499.html"
             },
             {
                 "headline": "We recently published a list of 10 Stocks with Potential to Explode in 2025. In this article, we are going to take a look at where Marvell Technology, Inc. (NASDAQ:MRVL) stands against other stocks with potential to explode in 2025. The recent pullback in US equities can be a sign of an aging bull market [\u2026]",
@@ -984,11 +990,41 @@
                 "url": "https://finance.yahoo.com/news/intel-has-a-shot-at-being-viable-with-new-ceo-at-the-wheel-analyst-143519196.html"
             }
         ],
-        "avgScore": 0.46831428571428574,
+        "avgScore": 0.269025,
         "pctChange": -0.06850842707376288
     },
     "3 24 2025": {
         "importantArticles": [
+            {
+                "headline": "Nvidia (NVDA) CEO Jensen Huang has had a month, as one would say. He provided more details on powerful new AI chips, such as Blackwell Ultra and Vera Rubin at its big annual GTC conference, chips that could help take civilization to a whole other level of productivity. At the same time, he moved to alter the narrative that DeepSeek's advances in AI equaled bad news for demand for Nvidia's chips. And to top it all off, he held a meeting with top quantum computing CEOs to make peace after sending the sector reeling earlier this year. Despite the flurry of headlines, Nvidia\u2019s stock is still going in reverse. In fact, the stock has been lagging for the entire year. What gives? Yahoo Finance Executive Editor Brian Sozzi talks with BofA semiconductor analyst Vivek Arya about what\u2019s weighing on Nvidia\u2019s super hot stock, why Arya attended GTC, and shares his firsthand account on what he learned on the ground. Arya is also fresh off upgrading shares of ailing chipmaker Intel (INTC) amid the appointment of a new CEO in Lip-Bu Tan. Sozzi and Arya discuss that big call and the state of the semiconductor industry. For full episodes of Opening Bid, listen on your favorite podcast platform or watch on our website. Yahoo Finance's Opening Bid is produced by Langston Sessoms",
+                "publication_date": "2025-03-24T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9543",
+                "source": "Yahoo Finance Video",
+                "ticker": "MRVL",
+                "title": "Why Nvidia stock is still a must own",
+                "url": "https://finance.yahoo.com/video/why-nvidia-stock-still-must-120000819.html"
+            },
+            {
+                "headline": "Compressed valuations and robust AI-driven growth make it a compelling long-term play",
+                "publication_date": "2025-03-24T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8074",
+                "source": "GuruFocus.com",
+                "ticker": "MRVL",
+                "title": "Marvell Technology: Undervalued Data Center Player",
+                "url": "https://finance.yahoo.com/news/marvell-technology-undervalued-data-center-101646406.html"
+            },
+            {
+                "headline": "While the news is certainly good for those sectors, there\u2019s still plenty of uncertainty about what the White House might do in the future.",
+                "publication_date": "2025-03-24T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4404",
+                "source": "Barrons.com",
+                "ticker": "MRVL",
+                "title": "Why GM, Marvell, and Other Stocks Are Jumping on Trump\u2019s Latest Tariff Twist",
+                "url": "https://finance.yahoo.com/m/7fc566bc-df5a-3e7b-b61c-a790e5d3949f/why-gm-marvell-and-other.html"
+            },
             {
                 "headline": "The latest earnings beat Wall Street\u2019s estimates, but the company\u2019s outlook was roughly in line with expectations.",
                 "publication_date": "2025-03-24T00:00:00.000Z",
@@ -1000,25 +1036,35 @@
                 "url": "https://finance.yahoo.com/m/358c9388-7ef7-342b-8f71-0fb84b0d9fae/marvell-tumbles-19-why-the.html"
             },
             {
-                "headline": "The latest earnings beat Wall Street\u2019s estimates, but the company\u2019s outlook was roughly in line with expectations.",
+                "headline": "While the news is certainly good for those sectors, there\u2019s still plenty of uncertainty about what the White House might do in the future.",
                 "publication_date": "2025-03-24T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4404",
                 "source": "Barrons.com",
                 "ticker": "MRVL",
-                "title": "Marvell Tumbles 19%. Why the AI Chip Stock\u2019s Earnings Tanked the Tech Sector.",
-                "url": "https://finance.yahoo.com/m/358c9388-7ef7-342b-8f71-0fb84b0d9fae/marvell-tumbles-19-why-the.html"
+                "title": "Why GM, Marvell, and Other Stocks Are Jumping on Trump\u2019s Latest Tariff Twist",
+                "url": "https://finance.yahoo.com/m/7fc566bc-df5a-3e7b-b61c-a790e5d3949f/why-gm-marvell-and-other.html"
+            },
+            {
+                "headline": "Compressed valuations and robust AI-driven growth make it a compelling long-term play",
+                "publication_date": "2025-03-24T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8074",
+                "source": "GuruFocus.com",
+                "ticker": "MRVL",
+                "title": "Marvell Technology: Undervalued Data Center Player",
+                "url": "https://finance.yahoo.com/news/marvell-technology-undervalued-data-center-101646406.html"
             }
         ],
-        "avgScore": 0.0,
+        "avgScore": 0.550525,
         "pctChange": -0.014980827161437317
     },
-    "coef": -0.21929824561403505,
-    "avgCoef": -0.004502530920741736,
+    "coef": -0.0022564875608542035,
+    "avgCoef": -0.01628343245134094,
     "similar": {
-        "VOD": 0.3877192982456141,
-        "NEE": 0.3017543859649123,
-        "BBD": 0.278192216337796,
-        "BABA": 0.24736842105263157
+        "BBD": 0.47384271327389854,
+        "SLB": 0.39488532314948566,
+        "VOD": 0.3730726100612283,
+        "ITUB": 0.3128996084384495
     }
 }

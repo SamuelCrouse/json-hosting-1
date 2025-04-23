@@ -23,7 +23,7 @@
             }
         ],
         "avgScore": 0.0,
-        "pctChange": 0.04206735508505583
+        "pctChange": 0.005408663214487781
     },
     "4 11 2025": {
         "importantArticles": [
@@ -48,14 +48,14 @@
                 "url": "https://finance.yahoo.com/news/dr-john-c-malone-transition-120000438.html"
             },
             {
-                "headline": "Julie Hyman and Josh Lipton take a closer look at some of Thursday's trending tickers on Market Domination. Tariff risks weigh on Nike (NKE) as US President Trump increases the tariff on imports from China to 145%. Entertainment stocks like Disney (DIS), Warner Bros. Discovery (WBD), and Fox (FOX, FOXA) are falling after China cut imports of Hollywood content. Novavax (NVAX) stock plunges after US Health and Human Services Secretary Robert F. Kennedy Jr. questioned the efficacy of the company's vaccines. To watch more expert insights and analysis on the latest market action, check out more Market Domination here.",
+                "headline": "Warner Bros. Discovery reboots its board as the media mogul shifts from boardroom to behind-the-scenes kingmaker.",
                 "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.0772",
-                "source": "Yahoo Finance Video",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "GuruFocus.com",
                 "ticker": "WBD",
-                "title": "Nike, Disney, Novavax: Trending Tickers",
-                "url": "https://finance.yahoo.com/video/nike-disney-novavax-trending-tickers-201810297.html"
+                "title": "John Malone Just Left the Board--But Might Be More Powerful Than Ever",
+                "url": "https://finance.yahoo.com/news/john-malone-just-left-board-153130683.html"
             },
             {
                 "headline": "Here are some of the stories Wall Street is watching on Thursday, April 10. The ongoing trade battle between the US and China is weighing on shares of Apple (AAPL), Disney (DIS), and Warner Bros. Discovery (WBD). Oil prices (CL=F, BZ=F) are also falling on worries that tariffs could weigh on demand. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
@@ -78,17 +78,17 @@
                 "url": "https://finance.yahoo.com/video/nike-disney-novavax-trending-tickers-201810297.html"
             },
             {
-                "headline": "Warner Bros. Discovery, Inc. (the \"Company\") (Nasdaq: WBD) today announced that Dr. John C. Malone has decided not to stand for re-election to the Company's Board of Directors and will be transitioning to the role of Chair Emeritus, effective upon the expiration of his term at the 2025 Annual Meeting of Stockholders (\"Annual Meeting\").",
+                "headline": "Warner Bros. Discovery reboots its board as the media mogul shifts from boardroom to behind-the-scenes kingmaker.",
                 "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4767",
-                "source": "PR Newswire",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "GuruFocus.com",
                 "ticker": "WBD",
-                "title": "Dr. John C. Malone to Transition to Chair Emeritus of Warner Bros. Discovery Board",
-                "url": "https://finance.yahoo.com/news/dr-john-c-malone-transition-120000438.html"
+                "title": "John Malone Just Left the Board--But Might Be More Powerful Than Ever",
+                "url": "https://finance.yahoo.com/news/john-malone-just-left-board-153130683.html"
             }
         ],
-        "avgScore": 0.14335,
+        "avgScore": 0.11468,
         "pctChange": 0.00627360964721169
     },
     "4 9 2025": {
@@ -267,12 +267,12 @@
         "avgScore": 0.8689,
         "pctChange": 0.004553751622896661
     },
-    "coef": -0.26347777762091695,
-    "avgCoef": -0.033146767826150045,
+    "coef": -0.16766767666785626,
+    "avgCoef": -0.02487931000360997,
     "similar": {
+        "PHYS": 0.6586944440522925,
+        "SLB": 0.4431217169079058,
         "GRAB": 0.43114545428877316,
-        "GOLD": 0.29940656547831473,
-        "CSCO": 0.19162020190612145,
-        "PBR": 0.17964393928698885
+        "PBR": 0.4071929290505081
     }
 }

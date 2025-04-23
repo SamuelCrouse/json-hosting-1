@@ -2,6 +2,16 @@
     "4 23 2025": {
         "importantArticles": [
             {
+                "headline": "Goldman Sachs lowered the firm\u2019s price target on Apple (AAPL) to $256 from $259 but keeps a Buy rating on the shares ahead of its Q2 results. Apple should deliver strong fundamental results driven by new product innovation and resulting channel fill, sell-through pull-forward on tariff-related price increase concerns, rising U.S. carrier competitive intensity, and solid Services performance, the analyst tells investors in a research note. Published first on TheFly \u2013 the ultimate source for real-",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.946",
+                "source": "TipRanks",
+                "ticker": "AAPL",
+                "title": "Apple price target lowered to $256 from $259 at Goldman Sachs",
+                "url": "https://finance.yahoo.com/news/apple-price-target-lowered-256-212516506.html"
+            },
+            {
                 "headline": "Billionaire Warren Buffett has invested through every sort of market cycle -- from the most flourishing to times of major losses.  In fact, over 59 years as chairman of Berkshire Hathaway, he's helped deliver a compounded annual gain of almost 20% -- largely surpassing the S&P 500's compounded annual gain of about 10%.  Of course, some of Buffett's biggest holdings may have gone up in price since the time he originally purchased them, but after recent declines, certain Buffett favorites today are trading at very interesting levels.",
                 "publication_date": "2025-04-23T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -22,16 +32,6 @@
                 "url": "https://finance.yahoo.com/news/ultimate-insider-marjorie-taylor-greene-183713695.html"
             },
             {
-                "headline": "PYPL's cheap valuation, strong portfolio, and expanding clientele make the stock attractive over the long term amid intensifying competition.",
-                "publication_date": "2025-04-23T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7351",
-                "source": "Zacks",
-                "ticker": "AAPL",
-                "title": "PayPal is Trading Dirty Cheap at 11.86X P/E: Buy or Hold the Stock?",
-                "url": "https://finance.yahoo.com/news/paypal-trading-dirty-cheap-11-173700279.html"
-            },
-            {
                 "headline": "Apple (AAPL) and Meta Platforms (META) have been ordered to pay fines for violating the Digital Mark",
                 "publication_date": "2025-04-23T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -42,6 +42,16 @@
                 "url": "https://finance.yahoo.com/news/apple-meta-platforms-fined-hundreds-102431530.html"
             },
             {
+                "headline": "Big Tech stocks surged for a second day, with \u2018Magnificent Seven\u2019 firms adding $455 billion to their market capitalizations Wednesday as the Trump administration hinted at a deescalation of the US-China trade war.",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5994",
+                "source": "Yahoo Finance",
+                "ticker": "AAPL",
+                "title": "Big Tech stocks gain over $450 billion as Trump, Bessent signal deescalation of US-China trade war",
+                "url": "https://finance.yahoo.com/news/big-tech-stocks-gain-over-450-billion-as-trump-bessent-signal-deescalation-of-us-china-trade-war-143427595.html"
+            },
+            {
                 "headline": "European Union watchdogs fined Apple and Meta hundreds of millions of euros Wednesday as they stepped up enforcement of the 27-nation bloc\u2019s digital competition rules.  The European Commission imposed a 500 million euro ($571 million) fine on Apple for preventing app makers from pointing users to cheaper options outside its App Store.  The commission, which is the EU\u2019s executive arm, also fined Meta Platforms 200 million euros because it forced Facebook and Instagram users to choose between seeing personalized ads or paying to avoid them.",
                 "publication_date": "2025-04-23T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -50,20 +60,10 @@
                 "ticker": "AAPL",
                 "title": "The European Union hits Apple and Meta with 700 million euros in fines, first under digital rules",
                 "url": "https://finance.yahoo.com/news/european-union-fines-apple-500-095029876.html"
-            },
-            {
-                "headline": "The move risks ratcheting up tensions with the Trump administration as EU officials pursue trade talks.",
-                "publication_date": "2025-04-23T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.5859",
-                "source": "The Wall Street Journal",
-                "ticker": "AAPL",
-                "title": "Apple, Meta Fined by EU, Ordered to Comply With Tech Competition Rules",
-                "url": "https://finance.yahoo.com/m/c422e396-576b-355f-8718-38c842f40a08/apple-meta-fined-by-eu-.html"
             }
         ],
-        "avgScore": 0.0927035714285714,
-        "pctChange": -0.00893202105772148
+        "avgScore": 0.1442533333333333,
+        "pctChange": -0.006796086876137743
     },
     "4 22 2025": {
         "importantArticles": [
@@ -128,8 +128,8 @@
                 "url": "https://finance.yahoo.com/news/apple-inc-aapl-device-data-074932869.html"
             }
         ],
-        "avgScore": 0.2198227272727273,
-        "pctChange": 0.022128757621850487
+        "avgScore": 0.24440476190476196,
+        "pctChange": 0.024331633507028674
     },
     "4 21 2025": {
         "importantArticles": [
@@ -184,17 +184,17 @@
                 "url": "https://finance.yahoo.com/news/eu-says-enforce-digital-rules-121614185.html"
             },
             {
-                "headline": "Tariffs, supply chain gridlock, and falling demand--Apple's biggest challenge yet may not be in China, but at home.",
+                "headline": "Apple makes 90% of iPhones in China, keeping it exposed to U.S. tariffs.",
                 "publication_date": "2025-04-21T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "-0.0387",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.0772",
                 "source": "GuruFocus.com",
                 "ticker": "AAPL",
-                "title": "Apple's $500B Gamble: Why Tim Cook Is Running Out of Time",
-                "url": "https://finance.yahoo.com/news/apples-500b-gamble-why-tim-174313852.html"
+                "title": "Apple's China Dependence Leaves It Exposed as Tariff Risks Rise",
+                "url": "https://finance.yahoo.com/news/apples-china-dependence-leaves-exposed-213529963.html"
             }
         ],
-        "avgScore": 0.3184380952380953,
+        "avgScore": 0.277664,
         "pctChange": 0.034065032648088696
     },
     "4 17 2025": {
@@ -220,14 +220,14 @@
                 "url": "https://finance.yahoo.com/news/tech-giant-stock-buyback-leader-103800895.html"
             },
             {
-                "headline": "We recently published a list of 15 Best Blue Chip Stocks to Buy According to Billionaires. In this article, we are going to take a look at where Apple Inc. (NASDAQ:AAPL) stands against other best blue chip stocks to buy according to billionaires. Is A Potential Trade War on the Horizon? The US stock market [\u2026]",
+                "headline": "Apple's (NASDAQ:AAPL) biggest iPhone headache might not be a chip shortage \u2014 it's tariffs. President Donald Trump's aggressive new round of China tariffs has temporarily spared electronics like smartphones and laptops, but that grace period is short-lived. Commerce Secretary Howard Lutnick on Sunday told ABC's \"This Week\" that Apple and other tech companies should expect new semiconductor-specific tariffs \"in probably a month or two.\" Apple's dependence on China is massive. Roughly 90% of iPhone",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.6705",
-                "source": "Insider Monkey",
+                "sentimentScore": "0.6726",
+                "source": "Benzinga",
                 "ticker": "AAPL",
-                "title": "Why Apple Inc. (AAPL) Is One of the Best Blue Chip Stocks to Buy According to Billionaires",
-                "url": "https://finance.yahoo.com/news/why-apple-inc-aapl-one-210846590.html"
+                "title": "Steve Jobs Said 14 Years Ago iPhones Would Never Be Made In The U.S.: 'Those Jobs Aren't Coming Back'\u2014Now Tariffs Could Bump Price To $3,500",
+                "url": "https://finance.yahoo.com/news/steve-jobs-said-14-years-223049401.html"
             },
             {
                 "headline": "Apple's production in India and Vietnam seen as critical hedge as U.S.-China trade tensions escalate, Evercore says",
@@ -260,21 +260,11 @@
                 "url": "https://finance.yahoo.com/m/f0b27173-b913-381c-af02-98f7c48ace42/stock-markets-need-a-tariffs.html"
             }
         ],
-        "avgScore": 0.14338,
+        "avgScore": 0.14667999999999995,
         "pctChange": -0.01939279189909957
     },
     "4 16 2025": {
         "importantArticles": [
-            {
-                "headline": "We recently compiled a list of the 14 Best American Tech Stocks To Buy Now. In this article, we are going to take a look at where Apple Inc. (NASDAQ:AAPL) stands against the other American tech stocks. American stocks moved up a bit on Monday, April 14 as investors focused on news about tech companies [\u2026]",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7783",
-                "source": "Insider Monkey",
-                "ticker": "AAPL",
-                "title": "Is Apple Inc. (AAPL) The Best American Tech Stock to Buy Now?",
-                "url": "https://finance.yahoo.com/news/apple-inc-aapl-best-american-200819194.html"
-            },
             {
                 "headline": "One of its many funds is the Vanguard Dividend Appreciation ETF (NYSEMKT: VIG).  It's one of the smartest funds to buy because it tracks the performance of companies that grow their dividends.  Historically, dividend growth stocks have delivered the highest total returns with the lowest risk.",
                 "publication_date": "2025-04-16T00:00:00.000Z",
@@ -296,14 +286,14 @@
                 "url": "https://finance.yahoo.com/news/after-surge-to-record-highs-gold-overtakes-magnificent-7-as-the-most-crowded-trade-on-wall-street-143338618.html"
             },
             {
-                "headline": "Apple Inc. (NASDAQ:AAPL) CEO Tim Cook previously explained the company\u2019s decision to continue manufacturing its products in China, refuting the widespread belief that it\u2019s due to low labor costs. What Happened: A 2024 video of Tim Cook has resurfaced, providing insights into Apple\u2019s manufacturing choices amid the ongoing U.S.-China tariff war. In the video, posted on X by CNBC TV18 reporter Nigel D\u2019Souza, Cook dismissed the idea that Apple\u2019s manufacturing in China is due to low labor costs, stat",
+                "headline": "We recently published a list of 15 Best Blue Chip Stocks to Buy According to Billionaires. In this article, we are going to take a look at where Apple Inc. (NASDAQ:AAPL) stands against other best blue chip stocks to buy according to billionaires. Is A Potential Trade War on the Horizon? The US stock market [\u2026]",
                 "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.7964",
-                "source": "Benzinga",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6705",
+                "source": "Insider Monkey",
                 "ticker": "AAPL",
-                "title": "When Apple's Tim Cook Revealed The Real Reason iPhones Are Made In China\u2014And It's Not 'Low Labor Costs': 'China Stopped Being A Low-Wage Country Years Ago'",
-                "url": "https://finance.yahoo.com/news/apples-tim-cook-revealed-real-213129145.html"
+                "title": "Why Apple Inc. (AAPL) Is One of the Best Blue Chip Stocks to Buy According to Billionaires",
+                "url": "https://finance.yahoo.com/news/why-apple-inc-aapl-one-210846590.html"
             },
             {
                 "headline": "We recently published a list of Jim Cramer Sounds the Alarm on China Rhetoric and Dollar Panic Then Analyzes 11 Key Stocks. In this article, we are going to take a look at where Apple Inc. (NASDAQ:AAPL) stands against other key stocks that Jim Cramer analyzes. In his latest appearance on CNBC\u2019s Squawk on the Street, [\u2026]",
@@ -324,9 +314,19 @@
                 "ticker": "AAPL",
                 "title": "\u2018It\u2019s going to be the small stuff\u2019: Trump\u2019s tariffs could make cheap tech gadgets not so cheap",
                 "url": "https://finance.yahoo.com/news/going-small-stuff-trump-tariffs-153035967.html"
+            },
+            {
+                "headline": "World stocks fell into a downward spiral on Wednesday led by tech losses after Washington said it is putting new curbs on AI chip exports to China, marking an escalation in the global trade war.  The Trump administration's latest broadside sparked huge demand for safe-haven assets like gold, the Swiss franc and U.S. Treasuries, even though Fed Chair Jerome Powell signalled he is in no rush to cut interest rates.  If U.S. Big Tech had acquired a safe-haven status in the eyes of some investors in recent years, it is disappearing fast.",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.25",
+                "source": "Reuters",
+                "ticker": "AAPL",
+                "title": "Trading Day: When the chips are down",
+                "url": "https://finance.yahoo.com/news/trading-day-chips-down-210332516.html"
             }
         ],
-        "avgScore": 0.15766153846153846,
+        "avgScore": 0.21632142857142855,
         "pctChange": 0.013949613401343217
     },
     "4 15 2025": {
@@ -372,27 +372,27 @@
                 "url": "https://finance.yahoo.com/news/japan-orders-google-stop-forcing-103019112.html"
             },
             {
-                "headline": "U.S. stocks edged up Monday as investors digested mixed messages on the trade war, following some of the most chaotic and turbulent weeks in recent market memory.",
+                "headline": "Apple Inc. (NASDAQ:AAPL) CEO Tim Cook previously explained the company\u2019s decision to continue manufacturing its products in China, refuting the widespread belief that it\u2019s due to low labor costs. What Happened: A 2024 video of Tim Cook has resurfaced, providing insights into Apple\u2019s manufacturing choices amid the ongoing U.S.-China tariff war. In the video, posted on X by CNBC TV18 reporter Nigel D\u2019Souza, Cook dismissed the idea that Apple\u2019s manufacturing in China is due to low labor costs, stat",
                 "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.8122",
-                "source": "Quartz",
+                "sentimentScore": "-0.7964",
+                "source": "Benzinga",
                 "ticker": "AAPL",
-                "title": "The Dow and S&P 500 rise slightly, but tariff and recession fears linger",
-                "url": "https://finance.yahoo.com/news/stocks-rise-apple-jumps-goldman-121600681.html"
+                "title": "When Apple's Tim Cook Revealed The Real Reason iPhones Are Made In China\u2014And It's Not 'Low Labor Costs': 'China Stopped Being A Low-Wage Country Years Ago'",
+                "url": "https://finance.yahoo.com/news/apples-tim-cook-revealed-real-213129145.html"
             },
             {
-                "headline": "Tariff uncertainty will cause chaos in the supply chain, says Wedbush\u2019s Dan Ives.",
+                "headline": "(Bloomberg) -- Supply Lines is a daily newsletter that tracks global trade. Sign up here.Most Read from BloombergHow Did This Suburb Figure Out Mass Transit?The Secret Formula for Faster TrainsEven Oslo Has an Air Quality ProblemNYC Tourist Helicopter Crashes in Hudson River, Killing SixLisbon Mayor Wants Companies to Help Fix City\u2019s Housing ShortagePresident Donald Trump\u2019s administration pressed forward with plans to impose tariffs on semiconductor and pharmaceutical imports by initiating trade",
                 "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.7269",
-                "source": "Fortune",
+                "sentimentScore": "-0.5994",
+                "source": "Bloomberg",
                 "ticker": "AAPL",
-                "title": "Apple fans won\u2019t stay loyal if tariffs mean $2,000 iPhones, top analyst warns",
-                "url": "https://finance.yahoo.com/news/apple-fans-won-t-stay-202605693.html"
+                "title": "Trump Initiates Chips and Drug Probes\u00a0Ahead of More Tariffs",
+                "url": "https://finance.yahoo.com/news/trump-announces-chips-drug-probes-204108780.html"
             }
         ],
-        "avgScore": 0.07512926829268296,
+        "avgScore": 0.1471971428571429,
         "pctChange": -0.03893338844835537
     },
     "4 14 2025": {
@@ -428,6 +428,16 @@
                 "url": "https://finance.yahoo.com/m/60179d67-8a11-3573-a9ee-b0ed5ba4b4f6/trump-looks-at-tariff-pause.html"
             },
             {
+                "headline": "U.S. stocks edged up Monday as investors digested mixed messages on the trade war, following some of the most chaotic and turbulent weeks in recent market memory.",
+                "publication_date": "2025-04-14T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.8122",
+                "source": "Quartz",
+                "ticker": "AAPL",
+                "title": "The Dow and S&P 500 rise slightly, but tariff and recession fears linger",
+                "url": "https://finance.yahoo.com/news/stocks-rise-apple-jumps-goldman-121600681.html"
+            },
+            {
                 "headline": "Apple Inc. (NASDAQ:AAPL) has managed to dodge a potential disaster as its key consumer electronics have been exempted from the 125% tariffs on goods manufactured in China by President Donald Trump. What Happened: The tariff exemption announced by President Trump on Friday night encompasses iPhones, iPads, Macs, Apple Watches, and AirTags. Furthermore, the 10% tariff on goods imported from other countries has been waived off for these products. Despite the possibility of a new, lower sectoral tar",
                 "publication_date": "2025-04-14T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -438,35 +448,25 @@
                 "url": "https://finance.yahoo.com/news/apple-escapes-supply-chain-crisis-183111921.html"
             },
             {
-                "headline": "Follow the latest on Trump\u2019s tariff war",
+                "headline": "Tariff uncertainty will cause chaos in the supply chain, says Wedbush\u2019s Dan Ives.",
                 "publication_date": "2025-04-14T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.5994",
-                "source": "The Telegraph",
+                "sentimentScore": "-0.7269",
+                "source": "Fortune",
                 "ticker": "AAPL",
-                "title": "Trump vows tariffs on pharma imports",
-                "url": "https://finance.yahoo.com/news/trump-vows-tariffs-pharma-imports-182816095.html"
-            },
-            {
-                "headline": "Commerce Secretary Howard Lutnick told ABC News the upcoming tariffs for electronics are based on Section 232, which allows President Trump to adjust imports that pose a threat to national security.  Apple  just dodged a large bullet.  Late Friday news broke of an exemption for smartphones, laptop computers and other electronics imported from China, sparing Apple from the bulk of drastic tariffs set by President Trump.",
-                "publication_date": "2025-04-14T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.5859",
-                "source": "The Wall Street Journal",
-                "ticker": "AAPL",
-                "title": "Clouds Part Over Apple\u2019s Stock\u2014for Now",
-                "url": "https://finance.yahoo.com/m/2874708c-fc10-3a00-870a-9f5a6cdd7347/clouds-part-over-apple%E2%80%99s.html"
+                "title": "Apple fans won\u2019t stay loyal if tariffs mean $2,000 iPhones, top analyst warns",
+                "url": "https://finance.yahoo.com/news/apple-fans-won-t-stay-202605693.html"
             }
         ],
-        "avgScore": 0.12974000000000002,
+        "avgScore": 0.047925714285714315,
         "pctChange": -0.0018763819612666965
     },
-    "coef": 0.8928571428571429,
-    "avgCoef": -0.004576387278417319,
+    "coef": 0.642857142857143,
+    "avgCoef": 0.014285967167876557,
     "similar": {
-        "PDD": 1.0,
-        "BABA": 0.9642857142857145,
-        "AAPL": 0.8928571428571429,
-        "VALE": 0.8928571428571429
+        "CLSK": 0.9642857142857145,
+        "MSTR": 0.9285714285714288,
+        "PBR": 0.8928571428571429,
+        "F": 0.8571428571428573
     }
 }

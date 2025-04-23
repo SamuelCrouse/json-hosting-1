@@ -1,81 +1,223 @@
 {
+    "4 23 2025": {
+        "importantArticles": [
+            {
+                "headline": "West Michigan small business owners, community leaders and Comcast representatives gathered last night to discuss how businesses can overcome challenges in today's economic environment and take advantage of upcoming grant opportunities with Comcast RISE.",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7506",
+                "source": "PR Newswire",
+                "ticker": "CMCSA",
+                "title": "Comcast RISE Program Kicks Off with Community Leaders and Small Business Owners, Panel Discussion on Overcoming Small Business Obstacles in Today's Economic Climate",
+                "url": "https://finance.yahoo.com/news/comcast-rise-program-kicks-off-141800961.html"
+            },
+            {
+                "headline": "PHILADELPHIA, April 22, 2025--Xfinity Mobile Launches New Premium Unlimited Plan with Gig Speeds; Customers Save Over Half Compared to the Big Three",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4939",
+                "source": "Business Wire",
+                "ticker": "CMCSA",
+                "title": "Xfinity Mobile Launches New Premium Unlimited Plan with Gig Speeds; Customers Save Over Half Compared to the Big Three",
+                "url": "https://finance.yahoo.com/news/xfinity-mobile-launches-premium-unlimited-190000766.html"
+            },
+            {
+                "headline": "Telecommunications and media company Comcast (NASDAQ:CMCSA) will be reporting earnings tomorrow morning. Here\u2019s what to look for.",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "StockStory",
+                "ticker": "CMCSA",
+                "title": "Comcast (CMCSA) Q1 Earnings Report Preview: What To Look For",
+                "url": "https://finance.yahoo.com/news/comcast-cmcsa-q1-earnings-report-120259291.html"
+            },
+            {
+                "headline": "Deutsche Bank analysts highlighted a handful of telecom, media, and cable companies it sees as well-positioned to weather shifts in trade policy.",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Investopedia",
+                "ticker": "CMCSA",
+                "title": "These Telecom, Media, and Cable Firms Are 'Most Immune' to Tariffs, Analysts Say",
+                "url": "https://finance.yahoo.com/news/telecom-media-cable-firms-most-181057516.html"
+            },
+            {
+                "headline": "Telecommunications and media company Comcast (NASDAQ:CMCSA) will be reporting earnings tomorrow morning. Here\u2019s what to look for.",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "StockStory",
+                "ticker": "CMCSA",
+                "title": "Comcast (CMCSA) Q1 Earnings Report Preview: What To Look For",
+                "url": "https://finance.yahoo.com/news/comcast-cmcsa-q1-earnings-report-120259291.html"
+            },
+            {
+                "headline": "PHILADELPHIA, April 22, 2025--Xfinity Mobile Launches New Premium Unlimited Plan with Gig Speeds; Customers Save Over Half Compared to the Big Three",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4939",
+                "source": "Business Wire",
+                "ticker": "CMCSA",
+                "title": "Xfinity Mobile Launches New Premium Unlimited Plan with Gig Speeds; Customers Save Over Half Compared to the Big Three",
+                "url": "https://finance.yahoo.com/news/xfinity-mobile-launches-premium-unlimited-190000766.html"
+            }
+        ],
+        "avgScore": 0.311125,
+        "pctChange": 0.0027496735977122857
+    },
+    "4 22 2025": {
+        "importantArticles": [
+            {
+                "headline": "Comcast is proud to announce a donation of $50,000 to support nonprofit organizations in Arkansas and Tennessee following recent severe storms. This contribution will aid in providing essential resources to families and businesses affected by tornadoes and flooding. Comcast's commitment to these nonprofit organizations goes beyond financial support; the company worked tirelessly to repair network damage and ensure continued connectivity.",
+                "publication_date": "2025-04-22T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.743",
+                "source": "PR Newswire",
+                "ticker": "CMCSA",
+                "title": "Comcast Donates $50,000 to Support Storm Relief in Arkansas and Tennessee",
+                "url": "https://finance.yahoo.com/news/comcast-donates-50-000-support-154700248.html"
+            },
+            {
+                "headline": "CMCSA's Q1 performance is expected to have benefited from broadband and wireless growth strategies, despite a declining broadband subscriber base.",
+                "publication_date": "2025-04-22T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.3818",
+                "source": "Zacks",
+                "ticker": "CMCSA",
+                "title": "Comcast to Report Q1 Earnings: What's in Store for the Stock?",
+                "url": "https://finance.yahoo.com/news/comcast-report-q1-earnings-whats-141900905.html"
+            },
+            {
+                "headline": "We recently published a list of the 11 Cheap NASDAQ Stocks to Buy According to Hedge Funds. In this article, we are going to take a look at where Comcast Corporation (NASDAQ:CMCSA) stands against other cheap NASDAQ stocks. On April 10, Dan Ives, Head of Global Tech Research at Wedbush Securities, appeared on an interview [\u2026]",
+                "publication_date": "2025-04-22T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.296",
+                "source": "Insider Monkey",
+                "ticker": "CMCSA",
+                "title": "Is Comcast Corporation (CMCSA) a Cheap NASDAQ Stock to Buy According to Hedge Funds?",
+                "url": "https://finance.yahoo.com/news/comcast-corporation-cmcsa-cheap-nasdaq-135636454.html"
+            },
+            {
+                "headline": "Network Expansion Brings Xfinity and Comcast Business Services to Residents and Businesses for the First Time ST. PAUL, MN / ACCESS Newswire / April 22, 2025 / Comcast plans to connect more than 30,000 new homes and businesses in four new Minnesota ...",
+                "publication_date": "2025-04-22T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "ACCESS Newswire",
+                "ticker": "CMCSA",
+                "title": "Comcast to Bring Reliable, Symmetrical Internet to Prior Lake, Savage, Victoria, and Waconia",
+                "url": "https://finance.yahoo.com/news/comcast-bring-reliable-symmetrical-internet-123500616.html"
+            },
+            {
+                "headline": "Announcement comes as volatility dominates Wall Street and Main Street alike.",
+                "publication_date": "2025-04-22T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.0516",
+                "source": "Fortune",
+                "ticker": "CMCSA",
+                "title": "T-Mobile is introducing a 5-year price guarantee",
+                "url": "https://finance.yahoo.com/news/t-mobile-introducing-5-price-155427280.html"
+            },
+            {
+                "headline": "We recently published a list of the 11 Cheap NASDAQ Stocks to Buy According to Hedge Funds. In this article, we are going to take a look at where Comcast Corporation (NASDAQ:CMCSA) stands against other cheap NASDAQ stocks. On April 10, Dan Ives, Head of Global Tech Research at Wedbush Securities, appeared on an interview [\u2026]",
+                "publication_date": "2025-04-22T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.296",
+                "source": "Insider Monkey",
+                "ticker": "CMCSA",
+                "title": "Is Comcast Corporation (CMCSA) a Cheap NASDAQ Stock to Buy According to Hedge Funds?",
+                "url": "https://finance.yahoo.com/news/comcast-corporation-cmcsa-cheap-nasdaq-135636454.html"
+            }
+        ],
+        "avgScore": 0.29448,
+        "pctChange": 0.013011686692897357
+    },
     "4 17 2025": {
         "importantArticles": [
             {
-                "headline": "Comcast (NasdaqGS:CMCSA) recently introduced a five-year price guarantee for new Xfinity Internet packages, aiming to provide transparent pricing and enhance customer value. This initiative was part of the company's ongoing efforts to offer reliable, cost-effective services without requiring long-term contracts. Over the past week, Comcast's stock experienced a 4.75% increase in value. This gain contrasts with significant volatility in the broader market, where tech stocks such as Nvidia and...",
+                "headline": "CMCSA launches five-year guarantee plan for Xfinity users, but increased competition suggests investors should hold the stock for now.",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.9062",
-                "source": "Simply Wall St.",
+                "sentimentScore": "0.4854",
+                "source": "Zacks",
                 "ticker": "CMCSA",
-                "title": "Comcast (NasdaqGS:CMCSA) Launches Five-Year Price Guarantee With Enhanced Xfinity Internet Packages",
-                "url": "https://finance.yahoo.com/news/comcast-nasdaqgs-cmcsa-launches-five-173837199.html"
+                "title": "Comcast Unveils 5-Year Xfinity Guarantee Plan: How to Play the Stock",
+                "url": "https://finance.yahoo.com/news/comcast-unveils-5-xfinity-guarantee-152300612.html"
             },
             {
-                "headline": "TREVOSE, Pa., April 16, 2025--Comcast announced that its reliable, high-speed, symmetrical Internet is now available to more homes and businesses in Middletown, DE, including Middletown Apartments and the Brickmill Farm neighborhood, as part of a network expansion that will ultimately reach 13,000 additional homes and businesses. The expansion brings Internet, mobile, entertainment, and security services from Xfinity and Comcast Business to residents and businesses for the first time.",
+                "headline": "FUBO reports strong subscriber growth, but declining ad revenues and rising content costs suggest investors should hold the stock for now.",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.6486",
-                "source": "Business Wire",
+                "sentimentScore": "0.4497",
+                "source": "Zacks",
                 "ticker": "CMCSA",
-                "title": "Xfinity and Comcast Business Services Begin Rolling Out to Additional Middletown, DE, Residents",
-                "url": "https://finance.yahoo.com/news/xfinity-comcast-business-services-begin-145800795.html"
+                "title": "fuboTV Rallies 128% YTD: Should You Buy, Sell or Hold the Stock?",
+                "url": "https://finance.yahoo.com/news/fubotv-rallies-128-ytd-buy-142500670.html"
             },
             {
-                "headline": "For many investors, the main point of stock picking is to generate higher returns than the overall market. But the risk...",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Simply Wall St.",
-                "ticker": "CMCSA",
-                "title": "Positive earnings growth hasn't been enough to get Comcast (NASDAQ:CMCSA) shareholders a favorable return over the last three years",
-                "url": "https://finance.yahoo.com/news/positive-earnings-growth-hasnt-enough-140018929.html"
-            },
-            {
-                "headline": "For many investors, the main point of stock picking is to generate higher returns than the overall market. But the risk...",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Simply Wall St.",
-                "ticker": "CMCSA",
-                "title": "Positive earnings growth hasn't been enough to get Comcast (NASDAQ:CMCSA) shareholders a favorable return over the last three years",
-                "url": "https://finance.yahoo.com/news/positive-earnings-growth-hasnt-enough-140018929.html"
-            },
-            {
-                "headline": "TREVOSE, Pa., April 16, 2025--Comcast announced that its reliable, high-speed, symmetrical Internet is now available to more homes and businesses in Middletown, DE, including Middletown Apartments and the Brickmill Farm neighborhood, as part of a network expansion that will ultimately reach 13,000 additional homes and businesses. The expansion brings Internet, mobile, entertainment, and security services from Xfinity and Comcast Business to residents and businesses for the first time.",
+                "headline": "Comcast (CMCSA) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.6486",
-                "source": "Business Wire",
+                "sentimentScore": "0.2263",
+                "source": "Zacks",
                 "ticker": "CMCSA",
-                "title": "Xfinity and Comcast Business Services Begin Rolling Out to Additional Middletown, DE, Residents",
-                "url": "https://finance.yahoo.com/news/xfinity-comcast-business-services-begin-145800795.html"
+                "title": "Analysts Estimate Comcast (CMCSA) to Report a Decline in Earnings: What to Look Out for",
+                "url": "https://finance.yahoo.com/news/analysts-estimate-comcast-cmcsa-report-140115648.html"
             },
             {
-                "headline": "Comcast (NasdaqGS:CMCSA) recently introduced a five-year price guarantee for new Xfinity Internet packages, aiming to provide transparent pricing and enhance customer value. This initiative was part of the company's ongoing efforts to offer reliable, cost-effective services without requiring long-term contracts. Over the past week, Comcast's stock experienced a 4.75% increase in value. This gain contrasts with significant volatility in the broader market, where tech stocks such as Nvidia and...",
+                "headline": "Comcast (CMCSA) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.9062",
-                "source": "Simply Wall St.",
+                "sentimentScore": "0.2263",
+                "source": "Zacks",
                 "ticker": "CMCSA",
-                "title": "Comcast (NasdaqGS:CMCSA) Launches Five-Year Price Guarantee With Enhanced Xfinity Internet Packages",
-                "url": "https://finance.yahoo.com/news/comcast-nasdaqgs-cmcsa-launches-five-173837199.html"
+                "title": "Analysts Estimate Comcast (CMCSA) to Report a Decline in Earnings: What to Look Out for",
+                "url": "https://finance.yahoo.com/news/analysts-estimate-comcast-cmcsa-report-140115648.html"
+            },
+            {
+                "headline": "FUBO reports strong subscriber growth, but declining ad revenues and rising content costs suggest investors should hold the stock for now.",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4497",
+                "source": "Zacks",
+                "ticker": "CMCSA",
+                "title": "fuboTV Rallies 128% YTD: Should You Buy, Sell or Hold the Stock?",
+                "url": "https://finance.yahoo.com/news/fubotv-rallies-128-ytd-buy-142500670.html"
+            },
+            {
+                "headline": "CMCSA launches five-year guarantee plan for Xfinity users, but increased competition suggests investors should hold the stock for now.",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4854",
+                "source": "Zacks",
+                "ticker": "CMCSA",
+                "title": "Comcast Unveils 5-Year Xfinity Guarantee Plan: How to Play the Stock",
+                "url": "https://finance.yahoo.com/news/comcast-unveils-5-xfinity-guarantee-152300612.html"
             }
         ],
-        "avgScore": 0.5182666666666667,
+        "avgScore": 0.38713333333333333,
         "pctChange": -0.012055273967847294
     },
     "4 16 2025": {
         "importantArticles": [
             {
-                "headline": "Comcast announced today it will award grant packages to 100 small businesses in Nashville and surrounding areas as part of its Representation, Investment, Strength and Empowerment (RISE) program. This marks the second time Comcast RISE has supported small businesses in Nashville, emphasizing Comcast's continued commitment to the city's entrepreneurial community. RISE's mission is to champion the growth of small businesses across Nashville while promoting digital inclusion and accessibility. The",
+                "headline": "Comcast (NasdaqGS:CMCSA) recently introduced a five-year price guarantee for new Xfinity Internet packages, aiming to provide transparent pricing and enhance customer value. This initiative was part of the company's ongoing efforts to offer reliable, cost-effective services without requiring long-term contracts. Over the past week, Comcast's stock experienced a 4.75% increase in value. This gain contrasts with significant volatility in the broader market, where tech stocks such as Nvidia and...",
                 "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.9686",
-                "source": "PR Newswire",
+                "sentimentScore": "0.9062",
+                "source": "Simply Wall St.",
                 "ticker": "CMCSA",
-                "title": "Helping Nashville's Small Businesses Thrive: 100 Grant Packages Available Through Comcast RISE",
-                "url": "https://finance.yahoo.com/news/helping-nashvilles-small-businesses-thrive-173100918.html"
+                "title": "Comcast (NasdaqGS:CMCSA) Launches Five-Year Price Guarantee With Enhanced Xfinity Internet Packages",
+                "url": "https://finance.yahoo.com/news/comcast-nasdaqgs-cmcsa-launches-five-173837199.html"
+            },
+            {
+                "headline": "TREVOSE, Pa., April 16, 2025--Comcast announced that its reliable, high-speed, symmetrical Internet is now available to more homes and businesses in Middletown, DE, including Middletown Apartments and the Brickmill Farm neighborhood, as part of a network expansion that will ultimately reach 13,000 additional homes and businesses. The expansion brings Internet, mobile, entertainment, and security services from Xfinity and Comcast Business to residents and businesses for the first time.",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6486",
+                "source": "Business Wire",
+                "ticker": "CMCSA",
+                "title": "Xfinity and Comcast Business Services Begin Rolling Out to Additional Middletown, DE, Residents",
+                "url": "https://finance.yahoo.com/news/xfinity-comcast-business-services-begin-145800795.html"
             },
             {
                 "headline": "The end of the earnings season is always a good time to take a step back and see who shined (and who not so much). Let\u2019s take a look at how wireless, cable and satellite stocks fared in Q4, starting with WideOpenWest (NYSE:WOW).",
@@ -88,51 +230,51 @@
                 "url": "https://finance.yahoo.com/news/look-back-wireless-cable-satellite-090759731.html"
             },
             {
-                "headline": "Comcast has been losing broadband subscribers to wireless giants such as AT&T, T-Mobile and Verizon, which offer plans, bundling internet with high-speed mobile data services, that have proven to be popular with customers.  The offer gives new Xfinity Internet customers plans starting at $55 a month, locked in for five years with no annual contract required.  It also includes a free unlimited wireless line for one year.",
+                "headline": "For many investors, the main point of stock picking is to generate higher returns than the overall market. But the risk...",
                 "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.3182",
-                "source": "Reuters",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Simply Wall St.",
                 "ticker": "CMCSA",
-                "title": "Comcast unveils five-year internet price lock to stem broadband losses",
-                "url": "https://finance.yahoo.com/news/comcast-unveils-five-internet-price-160308077.html"
+                "title": "Positive earnings growth hasn't been enough to get Comcast (NASDAQ:CMCSA) shareholders a favorable return over the last three years",
+                "url": "https://finance.yahoo.com/news/positive-earnings-growth-hasnt-enough-140018929.html"
             },
             {
-                "headline": "Comcast (CMCSA) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.1621",
-                "source": "Zacks",
-                "ticker": "CMCSA",
-                "title": "Comcast Corporation (CMCSA) is Attracting Investor Attention: Here is What You Should Know",
-                "url": "https://finance.yahoo.com/news/comcast-corporation-cmcsa-attracting-investor-130007416.html"
-            },
-            {
-                "headline": "PHILADELPHIA, April 15, 2025--Comcast Launches Five-Year Price Guarantee for Xfinity Internet Customers",
+                "headline": "The end of the earnings season is always a good time to take a step back and see who shined (and who not so much). Let\u2019s take a look at how wireless, cable and satellite stocks fared in Q4, starting with WideOpenWest (NYSE:WOW).",
                 "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.25",
+                "sentimentScore": "0.4404",
+                "source": "StockStory",
+                "ticker": "CMCSA",
+                "title": "A Look Back at Wireless, Cable and Satellite Stocks\u2019 Q4 Earnings: WideOpenWest (NYSE:WOW) Vs The Rest Of The Pack",
+                "url": "https://finance.yahoo.com/news/look-back-wireless-cable-satellite-090759731.html"
+            },
+            {
+                "headline": "TREVOSE, Pa., April 16, 2025--Comcast announced that its reliable, high-speed, symmetrical Internet is now available to more homes and businesses in Middletown, DE, including Middletown Apartments and the Brickmill Farm neighborhood, as part of a network expansion that will ultimately reach 13,000 additional homes and businesses. The expansion brings Internet, mobile, entertainment, and security services from Xfinity and Comcast Business to residents and businesses for the first time.",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6486",
                 "source": "Business Wire",
                 "ticker": "CMCSA",
-                "title": "Comcast Launches Five-Year Price Guarantee for Xfinity Internet Customers",
-                "url": "https://finance.yahoo.com/news/comcast-launches-five-price-guarantee-160000371.html"
-            },
-            {
-                "headline": "Comcast has been losing broadband subscribers to wireless giants such as AT&T, T-Mobile and Verizon, which offer plans, bundling internet with high-speed mobile data services, that have proven to be popular with customers.  The offer gives new Xfinity Internet customers plans starting at $55 a month, locked in for five years with no annual contract required.  It also includes a free unlimited wireless line for one year.",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.3182",
-                "source": "Reuters",
-                "ticker": "CMCSA",
-                "title": "Comcast unveils five-year internet price lock to stem broadband losses",
-                "url": "https://finance.yahoo.com/news/comcast-unveils-five-internet-price-160308077.html"
+                "title": "Xfinity and Comcast Business Services Begin Rolling Out to Additional Middletown, DE, Residents",
+                "url": "https://finance.yahoo.com/news/xfinity-comcast-business-services-begin-145800795.html"
             }
         ],
-        "avgScore": 0.36302,
+        "avgScore": 0.4988,
         "pctChange": 0.01371085230799423
     },
     "4 15 2025": {
         "importantArticles": [
+            {
+                "headline": "Comcast announced today it will award grant packages to 100 small businesses in Nashville and surrounding areas as part of its Representation, Investment, Strength and Empowerment (RISE) program. This marks the second time Comcast RISE has supported small businesses in Nashville, emphasizing Comcast's continued commitment to the city's entrepreneurial community. RISE's mission is to champion the growth of small businesses across Nashville while promoting digital inclusion and accessibility. The",
+                "publication_date": "2025-04-15T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9686",
+                "source": "PR Newswire",
+                "ticker": "CMCSA",
+                "title": "Helping Nashville's Small Businesses Thrive: 100 Grant Packages Available Through Comcast RISE",
+                "url": "https://finance.yahoo.com/news/helping-nashvilles-small-businesses-thrive-173100918.html"
+            },
             {
                 "headline": "SALT LAKE CITY, UT / ACCESS Newswire / April 14, 2025 / Today, Comcast announced that it will award comprehensive grant packages to 100 small business owners in the Wasatch Front. These grants are part of a program to support the growth of small businesses ...",
                 "publication_date": "2025-04-15T00:00:00.000Z",
@@ -154,24 +296,14 @@
                 "url": "https://finance.yahoo.com/news/comcast-corporation-cmcsa-best-bargain-213350784.html"
             },
             {
-                "headline": "Comcast (CMCSA) concluded the recent trading session at $34.16, signifying a +1.29% move from its prior day's close.",
-                "publication_date": "2025-04-15T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "CMCSA",
-                "title": "Comcast (CMCSA) Outpaces Stock Market Gains: What You Should Know",
-                "url": "https://finance.yahoo.com/news/comcast-cmcsa-outpaces-stock-market-220014684.html"
-            },
-            {
-                "headline": "Investing.com -- Wells Fargo downgraded Comcast Corp (NASDAQ:CMCSA) to \u201cUnderweight\u201d from \u201cEqual Weight,\u201d warning the cable giant\u2019s shift toward mobile and broadband convergence will pressure earnings in the near term and strip the stock of its defensive appeal.",
+                "headline": "Comcast (CMCSA) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
                 "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.3612",
-                "source": "Investing.com",
+                "sentimentScore": "-0.1621",
+                "source": "Zacks",
                 "ticker": "CMCSA",
-                "title": "Wells Fargo downgrades Comcast on rising costs from its mobile pivot",
-                "url": "https://finance.yahoo.com/news/wells-fargo-downgrades-comcast-rising-150153778.html"
+                "title": "Comcast Corporation (CMCSA) is Attracting Investor Attention: Here is What You Should Know",
+                "url": "https://finance.yahoo.com/news/comcast-corporation-cmcsa-attracting-investor-130007416.html"
             },
             {
                 "headline": "Comcast (CMCSA) concluded the recent trading session at $34.16, signifying a +1.29% move from its prior day's close.",
@@ -184,17 +316,17 @@
                 "url": "https://finance.yahoo.com/news/comcast-cmcsa-outpaces-stock-market-220014684.html"
             },
             {
-                "headline": "We recently published a list of 10 Best Bargain Stocks to Buy in May. In this article, we are going to take a look at where Comcast Corporation (NASDAQ:CMCSA) stands against other best bargain stocks to buy in May. While increasing tariffs and a hard sell-off have resulted in uncertainty, Neuberger Berman, an investment manager, expects [\u2026]",
+                "headline": "PHILADELPHIA, April 15, 2025--Comcast Launches Five-Year Price Guarantee for Xfinity Internet Customers",
                 "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.8481",
-                "source": "Insider Monkey",
+                "sentimentScore": "0.25",
+                "source": "Business Wire",
                 "ticker": "CMCSA",
-                "title": "Is Comcast Corporation\u00a0(CMCSA) the Best Bargain Stock to Buy in May?",
-                "url": "https://finance.yahoo.com/news/comcast-corporation-cmcsa-best-bargain-213350784.html"
+                "title": "Comcast Launches Five-Year Price Guarantee for Xfinity Internet Customers",
+                "url": "https://finance.yahoo.com/news/comcast-launches-five-price-guarantee-160000371.html"
             }
         ],
-        "avgScore": 0.35215,
+        "avgScore": 0.4492142857142857,
         "pctChange": -0.024709367764966753
     },
     "4 14 2025": {
@@ -210,6 +342,26 @@
                 "url": "https://finance.yahoo.com/news/comcast-corporation-cmcsa-best-kid-214938905.html"
             },
             {
+                "headline": "Investing.com -- Wells Fargo downgraded Comcast Corp (NASDAQ:CMCSA) to \u201cUnderweight\u201d from \u201cEqual Weight,\u201d warning the cable giant\u2019s shift toward mobile and broadband convergence will pressure earnings in the near term and strip the stock of its defensive appeal.",
+                "publication_date": "2025-04-14T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.3612",
+                "source": "Investing.com",
+                "ticker": "CMCSA",
+                "title": "Wells Fargo downgrades Comcast on rising costs from its mobile pivot",
+                "url": "https://finance.yahoo.com/news/wells-fargo-downgrades-comcast-rising-150153778.html"
+            },
+            {
+                "headline": "Investing.com -- Wells Fargo downgraded Comcast Corp (NASDAQ:CMCSA) to \u201cUnderweight\u201d from \u201cEqual Weight,\u201d warning the cable giant\u2019s shift toward mobile and broadband convergence will pressure earnings in the near term and strip the stock of its defensive appeal.",
+                "publication_date": "2025-04-14T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.3612",
+                "source": "Investing.com",
+                "ticker": "CMCSA",
+                "title": "Wells Fargo downgrades Comcast on rising costs from its mobile pivot",
+                "url": "https://finance.yahoo.com/news/wells-fargo-downgrades-comcast-rising-150153778.html"
+            },
+            {
                 "headline": "We recently published a list of 10 Best Kid-Friendly Stocks to Buy According to Billionaires. In this article, we are going to take a look at where Comcast Corporation (NASDAQ:CMCSA) stands against other best kid-friendly stocks to buy according to billionaires. The market has been undergoing a volatile spell these past few days. Economic data [\u2026]",
                 "publication_date": "2025-04-14T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -220,7 +372,7 @@
                 "url": "https://finance.yahoo.com/news/comcast-corporation-cmcsa-best-kid-214938905.html"
             }
         ],
-        "avgScore": 0.8555,
+        "avgScore": 0.24715,
         "pctChange": 0.007320643889592501
     },
     "4 11 2025": {
@@ -282,26 +434,6 @@
                 "url": "https://finance.yahoo.com/news/universal-reaches-agreement-bedford-theme-093244508.html"
             },
             {
-                "headline": "The Prime Minister sought to strike an optimistic note and talk up domestic strengths amid ongoing market turmoil.",
-                "publication_date": "2025-04-10T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.25",
-                "source": "PA Media: Money",
-                "ticker": "CMCSA",
-                "title": "Universal theme park will bring growth, jobs and joy to UK, PM says",
-                "url": "https://finance.yahoo.com/news/universal-theme-park-bring-growth-105718288.html"
-            },
-            {
-                "headline": "The Prime Minister sought to strike an optimistic note and talk up domestic strengths amid ongoing market turmoil.",
-                "publication_date": "2025-04-10T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.25",
-                "source": "PA Media: Money",
-                "ticker": "CMCSA",
-                "title": "Universal theme park will bring growth, jobs and joy to UK, PM says",
-                "url": "https://finance.yahoo.com/news/universal-theme-park-bring-growth-105718288.html"
-            },
-            {
                 "headline": "The project is set to contribute to the growth and infrastructure revitalisation of the Oxford-Cambridge corridor.",
                 "publication_date": "2025-04-10T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -312,7 +444,7 @@
                 "url": "https://finance.yahoo.com/news/universal-reaches-agreement-bedford-theme-093244508.html"
             }
         ],
-        "avgScore": 0.31589999999999996,
+        "avgScore": 0.3818,
         "pctChange": 0.0011876756284113395
     },
     "4 9 2025": {
@@ -328,6 +460,16 @@
                 "url": "https://finance.yahoo.com/news/universal-studios-open-first-european-230803300.html"
             },
             {
+                "headline": "The Prime Minister sought to strike an optimistic note and talk up domestic strengths amid ongoing market turmoil.",
+                "publication_date": "2025-04-09T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.25",
+                "source": "PA Media: Money",
+                "ticker": "CMCSA",
+                "title": "Universal theme park will bring growth, jobs and joy to UK, PM says",
+                "url": "https://finance.yahoo.com/news/universal-theme-park-bring-growth-105718288.html"
+            },
+            {
                 "headline": "Sir Keir Starmer has inked a \u00a350bn deal with Donald Trump\u2019s most-hated media company for a new Hollywood theme park in Bedford.",
                 "publication_date": "2025-04-09T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -336,16 +478,6 @@
                 "ticker": "CMCSA",
                 "title": "Starmer signs \u00a350bn theme park deal with Trump\u2019s most-hated media company",
                 "url": "https://finance.yahoo.com/news/starmer-signs-multibillion-pound-theme-060000370.html"
-            },
-            {
-                "headline": "Some 8.5 million visitors are expected to visit the resort, on the site of a former brickworks near Bedford, in its first year.",
-                "publication_date": "2025-04-09T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "PA Media: Money",
-                "ticker": "CMCSA",
-                "title": "Universal theme park set to open in UK in 2031 after Government backs deal",
-                "url": "https://finance.yahoo.com/news/universal-theme-park-set-open-230100530.html"
             },
             {
                 "headline": "What a brutal six months it\u2019s been for Comcast. The stock has dropped 21.3% and now trades at a new 52-week low of $32.57, rattling many shareholders. This might have investors contemplating their next move.",
@@ -378,21 +510,11 @@
                 "url": "https://finance.yahoo.com/news/starmer-signs-multibillion-pound-theme-060000370.html"
             }
         ],
-        "avgScore": 0.03185000000000002,
+        "avgScore": 0.07548000000000002,
         "pctChange": -0.04263786205196012
     },
     "4 8 2025": {
         "importantArticles": [
-            {
-                "headline": "Companies with a long history of paying dividends and consistently hiking them remain appealing to income-focused investors. Comcast, Polaris, and Federal Agricultural Mortgage have rewarded shareholders for years and recently announced dividend increases. These companies currently offer dividend yields of up to 6%. Comcast Comcast Corporation (NASDAQ:CMCSA) is a global media and technology company. It produces, distributes and streams entertainment, sports and news through brands including NBC,",
-                "publication_date": "2025-04-08T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7184",
-                "source": "Benzinga",
-                "ticker": "CMCSA",
-                "title": "How Comcast, Polaris, And Federal Agricultural Mortgage Can Put Cash In Your Pocket",
-                "url": "https://finance.yahoo.com/news/comcast-polaris-federal-agricultural-mortgage-141516084.html"
-            },
             {
                 "headline": "Quarterly earnings results are a good time to check in on a company\u2019s progress, especially compared to its peers in the same sector. Today we are looking at Comcast (NASDAQ:CMCSA) and the best and worst performers in the wireless, cable and satellite industry.",
                 "publication_date": "2025-04-08T00:00:00.000Z",
@@ -402,26 +524,6 @@
                 "ticker": "CMCSA",
                 "title": "Q4 Earnings Review: Wireless, Cable and Satellite Stocks Led by Comcast (NASDAQ:CMCSA)",
                 "url": "https://finance.yahoo.com/news/q4-earnings-review-wireless-cable-091344434.html"
-            },
-            {
-                "headline": "Comcast Business today announced the completion of fiber infrastructure and network enhancements in Tupelo, Mississippi, bringing its next-generation network and cutting-edge business solutions to the area for the first time. This investment delivers secure, high-speed Internet and advanced Ethernet services, with speeds up to 100 gigabits per second (Gbps), to a wide range of local businesses, including schools, hospitals, and enterprise organizations.",
-                "publication_date": "2025-04-08T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6249",
-                "source": "PR Newswire",
-                "ticker": "CMCSA",
-                "title": "Comcast Business Expands Next-Generation Network to Tupelo, Delivering Advanced Business Solutions to Local Enterprises",
-                "url": "https://finance.yahoo.com/news/comcast-business-expands-next-generation-141300982.html"
-            },
-            {
-                "headline": "Last week, Comcast (NasdaqGS:CMCSA) announced the completion of a fiber infrastructure expansion in Tupelo, Mississippi, introducing advanced network solutions to local businesses. Despite this significant development aimed at boosting the company's service capabilities, Comcast's share price fell 8.85%. This drop coincided with a broader market decline as investors reacted to tariff uncertainties, highlighted by a 900-point drop in the Dow Jones and a 9.4% market downturn. While Comcast's...",
-                "publication_date": "2025-04-08T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "-0.0103",
-                "source": "Simply Wall St.",
-                "ticker": "CMCSA",
-                "title": "Comcast (NasdaqGS:CMCSA) Expands High-Speed Services In Tupelo, Faces 9% Share Price Dip",
-                "url": "https://finance.yahoo.com/news/comcast-nasdaqgs-cmcsa-expands-high-172109499.html"
             },
             {
                 "headline": "In the closing of the recent trading day, Comcast (CMCSA) stood at $33.47, denoting a +0.27% change from the preceding trading day.",
@@ -434,50 +536,80 @@
                 "url": "https://finance.yahoo.com/news/comcast-cmcsa-advances-while-market-220015985.html"
             },
             {
-                "headline": "PHILADELPHIA, April 07, 2025--Comcast Names Former Expedia Group, Apple, and DIRECTV Executive Jon Gieselman Chief Growth Officer for Comcast\u2019s Residential US Businesses",
+                "headline": "In the closing of the recent trading day, Comcast (CMCSA) stood at $33.47, denoting a +0.27% change from the preceding trading day.",
                 "publication_date": "2025-04-08T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "CMCSA",
+                "title": "Comcast (CMCSA) Advances While Market Declines: Some Information for Investors",
+                "url": "https://finance.yahoo.com/news/comcast-cmcsa-advances-while-market-220015985.html"
+            },
+            {
+                "headline": "Quarterly earnings results are a good time to check in on a company\u2019s progress, especially compared to its peers in the same sector. Today we are looking at Comcast (NASDAQ:CMCSA) and the best and worst performers in the wireless, cable and satellite industry.",
+                "publication_date": "2025-04-08T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7003",
+                "source": "StockStory",
+                "ticker": "CMCSA",
+                "title": "Q4 Earnings Review: Wireless, Cable and Satellite Stocks Led by Comcast (NASDAQ:CMCSA)",
+                "url": "https://finance.yahoo.com/news/q4-earnings-review-wireless-cable-091344434.html"
+            }
+        ],
+        "avgScore": 0.35015,
+        "pctChange": 0.0712545719158132
+    },
+    "4 7 2025": {
+        "importantArticles": [
+            {
+                "headline": "Companies with a long history of paying dividends and consistently hiking them remain appealing to income-focused investors. Comcast, Polaris, and Federal Agricultural Mortgage have rewarded shareholders for years and recently announced dividend increases. These companies currently offer dividend yields of up to 6%. Comcast Comcast Corporation (NASDAQ:CMCSA) is a global media and technology company. It produces, distributes and streams entertainment, sports and news through brands including NBC,",
+                "publication_date": "2025-04-07T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7184",
+                "source": "Benzinga",
+                "ticker": "CMCSA",
+                "title": "How Comcast, Polaris, And Federal Agricultural Mortgage Can Put Cash In Your Pocket",
+                "url": "https://finance.yahoo.com/news/comcast-polaris-federal-agricultural-mortgage-141516084.html"
+            },
+            {
+                "headline": "Comcast Business today announced the completion of fiber infrastructure and network enhancements in Tupelo, Mississippi, bringing its next-generation network and cutting-edge business solutions to the area for the first time. This investment delivers secure, high-speed Internet and advanced Ethernet services, with speeds up to 100 gigabits per second (Gbps), to a wide range of local businesses, including schools, hospitals, and enterprise organizations.",
+                "publication_date": "2025-04-07T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6249",
+                "source": "PR Newswire",
+                "ticker": "CMCSA",
+                "title": "Comcast Business Expands Next-Generation Network to Tupelo, Delivering Advanced Business Solutions to Local Enterprises",
+                "url": "https://finance.yahoo.com/news/comcast-business-expands-next-generation-141300982.html"
+            },
+            {
+                "headline": "The end of an earnings season can be a great time to discover new stocks and assess how companies are handling the current business environment. Let\u2019s take a look at how Charter (NASDAQ:CHTR) and the rest of the wireless, cable and satellite stocks fared in Q4.",
+                "publication_date": "2025-04-07T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6249",
+                "source": "StockStory",
+                "ticker": "CMCSA",
+                "title": "Reflecting On Wireless, Cable and Satellite Stocks\u2019 Q4 Earnings: Charter (NASDAQ:CHTR)",
+                "url": "https://finance.yahoo.com/news/reflecting-wireless-cable-satellite-stocks-090901460.html"
+            },
+            {
+                "headline": "Last week, Comcast (NasdaqGS:CMCSA) announced the completion of a fiber infrastructure expansion in Tupelo, Mississippi, introducing advanced network solutions to local businesses. Despite this significant development aimed at boosting the company's service capabilities, Comcast's share price fell 8.85%. This drop coincided with a broader market decline as investors reacted to tariff uncertainties, highlighted by a 900-point drop in the Dow Jones and a 9.4% market downturn. While Comcast's...",
+                "publication_date": "2025-04-07T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "-0.0103",
+                "source": "Simply Wall St.",
+                "ticker": "CMCSA",
+                "title": "Comcast (NasdaqGS:CMCSA) Expands High-Speed Services In Tupelo, Faces 9% Share Price Dip",
+                "url": "https://finance.yahoo.com/news/comcast-nasdaqgs-cmcsa-expands-high-172109499.html"
+            },
+            {
+                "headline": "PHILADELPHIA, April 07, 2025--Comcast Names Former Expedia Group, Apple, and DIRECTV Executive Jon Gieselman Chief Growth Officer for Comcast\u2019s Residential US Businesses",
+                "publication_date": "2025-04-07T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.3818",
                 "source": "Business Wire",
                 "ticker": "CMCSA",
                 "title": "Comcast Names Former Expedia Group, Apple, and DIRECTV Executive Jon Gieselman Chief Growth Officer for Comcast\u2019s Residential US Businesses",
                 "url": "https://finance.yahoo.com/news/comcast-names-former-expedia-group-180000040.html"
-            }
-        ],
-        "avgScore": 0.4025166666666667,
-        "pctChange": 0.0712545719158132
-    },
-    "4 7 2025": {
-        "importantArticles": [
-            {
-                "headline": "The end of an earnings season can be a great time to discover new stocks and assess how companies are handling the current business environment. Let\u2019s take a look at how Charter (NASDAQ:CHTR) and the rest of the wireless, cable and satellite stocks fared in Q4.",
-                "publication_date": "2025-04-07T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6249",
-                "source": "StockStory",
-                "ticker": "CMCSA",
-                "title": "Reflecting On Wireless, Cable and Satellite Stocks\u2019 Q4 Earnings: Charter (NASDAQ:CHTR)",
-                "url": "https://finance.yahoo.com/news/reflecting-wireless-cable-satellite-stocks-090901460.html"
-            },
-            {
-                "headline": "Many investors are still learning about the various metrics that can be useful when analysing a stock. This article is...",
-                "publication_date": "2025-04-07T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4404",
-                "source": "Simply Wall St.",
-                "ticker": "CMCSA",
-                "title": "Is Comcast Corporation's (NASDAQ:CMCSA) 18% ROE Better Than Average?",
-                "url": "https://finance.yahoo.com/news/comcast-corporations-nasdaq-cmcsa-18-140010929.html"
-            },
-            {
-                "headline": "Many investors are still learning about the various metrics that can be useful when analysing a stock. This article is...",
-                "publication_date": "2025-04-07T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4404",
-                "source": "Simply Wall St.",
-                "ticker": "CMCSA",
-                "title": "Is Comcast Corporation's (NASDAQ:CMCSA) 18% ROE Better Than Average?",
-                "url": "https://finance.yahoo.com/news/comcast-corporations-nasdaq-cmcsa-18-140010929.html"
             },
             {
                 "headline": "The end of an earnings season can be a great time to discover new stocks and assess how companies are handling the current business environment. Let\u2019s take a look at how Charter (NASDAQ:CHTR) and the rest of the wireless, cable and satellite stocks fared in Q4.",
@@ -490,38 +622,88 @@
                 "url": "https://finance.yahoo.com/news/reflecting-wireless-cable-satellite-stocks-090901460.html"
             }
         ],
-        "avgScore": 0.5326500000000001,
+        "avgScore": 0.46794,
         "pctChange": -0.018822857637828302
     },
     "4 4 2025": {
         "importantArticles": [
             {
-                "headline": "Prestigious International Awards Program Recognizes Outstanding Data Technology Products and CompaniesLOS ANGELES, April 03, 2025 (GLOBE NEWSWIRE) -- Data Breakthrough, an independent market intelligence organization that recognizes the top companies, technologies and products in the global data technology market, today announced that DataBee\u00ae, a Comcast Company, which developed and provides the DataBee security data fabric platform, has been selected as the winner of the \u201cData Management Soluti",
+                "headline": "Comcast (CMCSA) has an impressive earnings surprise history and currently possesses the right combination of the two key ingredients for a likely beat in its next quarterly report.",
                 "publication_date": "2025-04-04T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.9524",
-                "source": "GlobeNewswire",
+                "sentimentScore": "0.6597",
+                "source": "Zacks",
                 "ticker": "CMCSA",
-                "title": "DataBee\u00ae, a Comcast Company, Wins \u201cData Management Solution of the Year\u201d in 2025 Data Breakthrough Awards Program",
-                "url": "https://finance.yahoo.com/news/databee-comcast-company-wins-data-141500363.html"
+                "title": "Will Comcast (CMCSA) Beat Estimates Again in Its Next Earnings Report?",
+                "url": "https://finance.yahoo.com/news/comcast-cmcsa-beat-estimates-again-161013035.html"
             },
             {
-                "headline": "Prestigious International Awards Program Recognizes Outstanding Data Technology Products and CompaniesLOS ANGELES, April 03, 2025 (GLOBE NEWSWIRE) -- Data Breakthrough, an independent market intelligence organization that recognizes the top companies, technologies and products in the global data technology market, today announced that DataBee\u00ae, a Comcast Company, which developed and provides the DataBee security data fabric platform, has been selected as the winner of the \u201cData Management Soluti",
+                "headline": "Finding stocks expected to beat quarterly earnings estimates becomes an easier task with our Zacks Earnings ESP.",
                 "publication_date": "2025-04-04T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.9524",
-                "source": "GlobeNewswire",
+                "sentimentScore": "0.4215",
+                "source": "Zacks",
                 "ticker": "CMCSA",
-                "title": "DataBee\u00ae, a Comcast Company, Wins \u201cData Management Solution of the Year\u201d in 2025 Data Breakthrough Awards Program",
-                "url": "https://finance.yahoo.com/news/databee-comcast-company-wins-data-141500363.html"
+                "title": "Why Investors Need to Take Advantage of These 2 Consumer Discretionary Stocks Now",
+                "url": "https://finance.yahoo.com/news/why-investors-advantage-2-consumer-130010188.html"
+            },
+            {
+                "headline": "Comcast (CMCSA) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
+                "publication_date": "2025-04-04T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.1621",
+                "source": "Zacks",
+                "ticker": "CMCSA",
+                "title": "Comcast Corporation (CMCSA) Is a Trending Stock: Facts to Know Before Betting on It",
+                "url": "https://finance.yahoo.com/news/comcast-corporation-cmcsa-trending-stock-130008603.html"
+            },
+            {
+                "headline": "Comcast (CMCSA) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
+                "publication_date": "2025-04-04T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.1621",
+                "source": "Zacks",
+                "ticker": "CMCSA",
+                "title": "Comcast Corporation (CMCSA) Is a Trending Stock: Facts to Know Before Betting on It",
+                "url": "https://finance.yahoo.com/news/comcast-corporation-cmcsa-trending-stock-130008603.html"
+            },
+            {
+                "headline": "Finding stocks expected to beat quarterly earnings estimates becomes an easier task with our Zacks Earnings ESP.",
+                "publication_date": "2025-04-04T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4215",
+                "source": "Zacks",
+                "ticker": "CMCSA",
+                "title": "Why Investors Need to Take Advantage of These 2 Consumer Discretionary Stocks Now",
+                "url": "https://finance.yahoo.com/news/why-investors-advantage-2-consumer-130010188.html"
+            },
+            {
+                "headline": "Comcast (CMCSA) has an impressive earnings surprise history and currently possesses the right combination of the two key ingredients for a likely beat in its next quarterly report.",
+                "publication_date": "2025-04-04T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6597",
+                "source": "Zacks",
+                "ticker": "CMCSA",
+                "title": "Will Comcast (CMCSA) Beat Estimates Again in Its Next Earnings Report?",
+                "url": "https://finance.yahoo.com/news/comcast-cmcsa-beat-estimates-again-161013035.html"
             }
         ],
-        "avgScore": 0.9524,
+        "avgScore": 0.3063666666666666,
         "pctChange": 0.002696229769562808
     },
     "4 3 2025": {
         "importantArticles": [
             {
+                "headline": "Prestigious International Awards Program Recognizes Outstanding Data Technology Products and CompaniesLOS ANGELES, April 03, 2025 (GLOBE NEWSWIRE) -- Data Breakthrough, an independent market intelligence organization that recognizes the top companies, technologies and products in the global data technology market, today announced that DataBee\u00ae, a Comcast Company, which developed and provides the DataBee security data fabric platform, has been selected as the winner of the \u201cData Management Soluti",
+                "publication_date": "2025-04-03T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9524",
+                "source": "GlobeNewswire",
+                "ticker": "CMCSA",
+                "title": "DataBee\u00ae, a Comcast Company, Wins \u201cData Management Solution of the Year\u201d in 2025 Data Breakthrough Awards Program",
+                "url": "https://finance.yahoo.com/news/databee-comcast-company-wins-data-141500363.html"
+            },
+            {
                 "headline": "Buying stock in great companies when they are dealing with some short-term issue that creates stock price weakness can set investors up for big gains down the road.  As long as the business is still in good shape, adding it to your portfolio when it's trading at a sizable discount can look like a brilliant move in the future.  Stocks normally trade at discounts when there are concerns or question marks about the company's future performance.",
                 "publication_date": "2025-04-03T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -540,68 +722,32 @@
                 "ticker": "CMCSA",
                 "title": "2 Absurdly Cheap Stocks to Buy and Hold for Years",
                 "url": "https://finance.yahoo.com/news/2-absurdly-cheap-stocks-buy-084000763.html"
+            },
+            {
+                "headline": "Prestigious International Awards Program Recognizes Outstanding Data Technology Products and CompaniesLOS ANGELES, April 03, 2025 (GLOBE NEWSWIRE) -- Data Breakthrough, an independent market intelligence organization that recognizes the top companies, technologies and products in the global data technology market, today announced that DataBee\u00ae, a Comcast Company, which developed and provides the DataBee security data fabric platform, has been selected as the winner of the \u201cData Management Soluti",
+                "publication_date": "2025-04-03T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9524",
+                "source": "GlobeNewswire",
+                "ticker": "CMCSA",
+                "title": "DataBee\u00ae, a Comcast Company, Wins \u201cData Management Solution of the Year\u201d in 2025 Data Breakthrough Awards Program",
+                "url": "https://finance.yahoo.com/news/databee-comcast-company-wins-data-141500363.html"
             }
         ],
-        "avgScore": 0.9325,
+        "avgScore": 0.94245,
         "pctChange": -0.06550952051008438
-    },
-    "4 2 2025": {
-        "importantArticles": [
-            {
-                "headline": "PHILADELPHIA, April 01, 2025--Comcast Business today announced it has completed its acquisition of Nitel, a U.S. managed services provider headquartered in Chicago, from international private equity firm Cinven. The acquisition expands Comcast Business\u2019 presence in connectivity, secure networking solutions and advanced technology, and enhances Comcast\u2019s ability to serve enterprise clients.",
-                "publication_date": "2025-04-02T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7783",
-                "source": "Business Wire",
-                "ticker": "CMCSA",
-                "title": "Comcast Business Closes Nitel Acquisition",
-                "url": "https://finance.yahoo.com/news/comcast-business-closes-nitel-acquisition-145800732.html"
-            },
-            {
-                "headline": "Key Insights Given the large stake in the stock by institutions, Comcast's stock price might be vulnerable to their...",
-                "publication_date": "2025-04-02T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.2263",
-                "source": "Simply Wall St.",
-                "ticker": "CMCSA",
-                "title": "With 86% ownership, Comcast Corporation (NASDAQ:CMCSA) boasts of strong institutional backing",
-                "url": "https://finance.yahoo.com/news/86-ownership-comcast-corporation-nasdaq-130025819.html"
-            },
-            {
-                "headline": "Key Insights Given the large stake in the stock by institutions, Comcast's stock price might be vulnerable to their...",
-                "publication_date": "2025-04-02T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.2263",
-                "source": "Simply Wall St.",
-                "ticker": "CMCSA",
-                "title": "With 86% ownership, Comcast Corporation (NASDAQ:CMCSA) boasts of strong institutional backing",
-                "url": "https://finance.yahoo.com/news/86-ownership-comcast-corporation-nasdaq-130025819.html"
-            },
-            {
-                "headline": "PHILADELPHIA, April 01, 2025--Comcast Business today announced it has completed its acquisition of Nitel, a U.S. managed services provider headquartered in Chicago, from international private equity firm Cinven. The acquisition expands Comcast Business\u2019 presence in connectivity, secure networking solutions and advanced technology, and enhances Comcast\u2019s ability to serve enterprise clients.",
-                "publication_date": "2025-04-02T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7783",
-                "source": "Business Wire",
-                "ticker": "CMCSA",
-                "title": "Comcast Business Closes Nitel Acquisition",
-                "url": "https://finance.yahoo.com/news/comcast-business-closes-nitel-acquisition-145800732.html"
-            }
-        ],
-        "avgScore": 0.276,
-        "pctChange": -0.024310280655848667
     },
     "4 1 2025": {
         "importantArticles": [
             {
-                "headline": "Comcast renews partnership with USA Gymnastics as part of its sponsorship strategy to boost broadband and wireless growth.",
+                "headline": "PHILADELPHIA, April 01, 2025--Comcast Business today announced it has completed its acquisition of Nitel, a U.S. managed services provider headquartered in Chicago, from international private equity firm Cinven. The acquisition expands Comcast Business\u2019 presence in connectivity, secure networking solutions and advanced technology, and enhances Comcast\u2019s ability to serve enterprise clients.",
                 "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.6486",
-                "source": "Zacks",
+                "sentimentScore": "0.7783",
+                "source": "Business Wire",
                 "ticker": "CMCSA",
-                "title": "CMCSA Renews Partnership With USA Gymnastics to Boost Broadband Growth",
-                "url": "https://finance.yahoo.com/news/cmcsa-renews-partnership-usa-gymnastics-143500883.html"
+                "title": "Comcast Business Closes Nitel Acquisition",
+                "url": "https://finance.yahoo.com/news/comcast-business-closes-nitel-acquisition-145800732.html"
             },
             {
                 "headline": "The gaming giant has a potentially stock-moving event happening this week.",
@@ -624,6 +770,16 @@
                 "url": "https://finance.yahoo.com/news/comcast-cmcsa-surpasses-market-returns-220015161.html"
             },
             {
+                "headline": "Key Insights Given the large stake in the stock by institutions, Comcast's stock price might be vulnerable to their...",
+                "publication_date": "2025-04-01T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.2263",
+                "source": "Simply Wall St.",
+                "ticker": "CMCSA",
+                "title": "With 86% ownership, Comcast Corporation (NASDAQ:CMCSA) boasts of strong institutional backing",
+                "url": "https://finance.yahoo.com/news/86-ownership-comcast-corporation-nasdaq-130025819.html"
+            },
+            {
                 "headline": "Comcast (CMCSA) concluded the recent trading session at $36.90, signifying a +0.76% move from its prior day's close.",
                 "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -642,24 +798,24 @@
                 "ticker": "CMCSA",
                 "title": "Nintendo Stock Has a Lot to Prove This Week",
                 "url": "https://finance.yahoo.com/news/nintendo-stock-lot-prove-week-113000732.html"
-            },
-            {
-                "headline": "Comcast renews partnership with USA Gymnastics as part of its sponsorship strategy to boost broadband and wireless growth.",
-                "publication_date": "2025-04-01T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6486",
-                "source": "Zacks",
-                "ticker": "CMCSA",
-                "title": "CMCSA Renews Partnership With USA Gymnastics to Boost Broadband Growth",
-                "url": "https://finance.yahoo.com/news/cmcsa-renews-partnership-usa-gymnastics-143500883.html"
             }
         ],
-        "avgScore": 0.21619999999999998,
+        "avgScore": 0.138,
         "pctChange": 0.00604565057414392
     },
     "3 31 2025": {
         "importantArticles": [
             {
+                "headline": "Comcast renews partnership with USA Gymnastics as part of its sponsorship strategy to boost broadband and wireless growth.",
+                "publication_date": "2025-03-31T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6486",
+                "source": "Zacks",
+                "ticker": "CMCSA",
+                "title": "CMCSA Renews Partnership With USA Gymnastics to Boost Broadband Growth",
+                "url": "https://finance.yahoo.com/news/cmcsa-renews-partnership-usa-gymnastics-143500883.html"
+            },
+            {
                 "headline": "A recent of flurry contentious claims and competing announcements in the US highlight how satellite-to-cellular connectivity could swiftly move from potential differentiator to premium postpaid service requirement.",
                 "publication_date": "2025-03-31T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -698,16 +854,102 @@
                 "ticker": "CMCSA",
                 "title": "D2D satellite to become near-term table stakes in US",
                 "url": "https://finance.yahoo.com/news/d2d-satellite-become-near-term-090643198.html"
+            },
+            {
+                "headline": "Comcast renews partnership with USA Gymnastics as part of its sponsorship strategy to boost broadband and wireless growth.",
+                "publication_date": "2025-03-31T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6486",
+                "source": "Zacks",
+                "ticker": "CMCSA",
+                "title": "CMCSA Renews Partnership With USA Gymnastics to Boost Broadband Growth",
+                "url": "https://finance.yahoo.com/news/cmcsa-renews-partnership-usa-gymnastics-143500883.html"
             }
         ],
-        "avgScore": -0.11694999999999997,
+        "avgScore": 0.13823333333333332,
         "pctChange": -0.004878063028638514
     },
     "3 28 2025": {
         "importantArticles": [
             {
-                "headline": "INDIANAPOLIS, March 27, 2025--USA Gymnastics (USAG) today announced global media and technology company, Comcast, will continue to have its Xfinity brand serve as the organization\u2019s official Internet, Mobile, and Video provider through 2028. Comcast will power USA Gymnastics National Teams along their journeys through the LA 2028 Olympic Games while also championing the next generation of gymnasts across the country.",
+                "headline": "We recently published a list of the 13 Best Telecom Stocks to Buy According to Hedge Funds. In this article, we are going to take a look at where Comcast Corporation (NASDAQ:CMCSA) stands against other best telecom stocks. The global telecom services market is estimated at $1.98 trillion as of 2024, according to Grand View [\u2026]",
                 "publication_date": "2025-03-28T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9081",
+                "source": "Insider Monkey",
+                "ticker": "CMCSA",
+                "title": "Is Comcast Corp. (CMCSA) the Best Telecom Stock to Buy According to Hedge Funds?",
+                "url": "https://finance.yahoo.com/news/comcast-corp-cmcsa-best-telecom-141215498.html"
+            },
+            {
+                "headline": "Comcast (NasdaqGS:CMCSA) saw its stock price rise by 4% over the last month, amidst several significant developments. A key factor was the continuation of their partnership with USA Gymnastics, extending the Xfinity brand's role as the official provider through 2028, supporting the national teams for the LA 2028 Olympic Games, and sponsoring the Xfinity U.S. Gymnastics Championships. Meanwhile, the broader market faced turbulent conditions, with concerns over rising inflation and weakening...",
+                "publication_date": "2025-03-28T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7845",
+                "source": "Simply Wall St.",
+                "ticker": "CMCSA",
+                "title": "Comcast (NasdaqGS:CMCSA) Extends Partnership With USA Gymnastics Through LA 2028 Olympic Games",
+                "url": "https://finance.yahoo.com/news/comcast-nasdaqgs-cmcsa-extends-partnership-172515550.html"
+            },
+            {
+                "headline": "Comcast Corporation's ( NASDAQ:CMCSA ) dividend will be increasing from last year's payment of the same period to $0.33...",
+                "publication_date": "2025-03-28T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Simply Wall St.",
+                "ticker": "CMCSA",
+                "title": "Comcast (NASDAQ:CMCSA) Is Paying Out A Larger Dividend Than Last Year",
+                "url": "https://finance.yahoo.com/news/comcast-nasdaq-cmcsa-paying-larger-134118294.html"
+            },
+            {
+                "headline": "We recently published a list of 12 AI News and Analyst Ratings You Probably Missed. In this article, we are going to take a look at where Comcast Corporation (NASDAQ:CMCSA) stands against other AI news and analyst ratings you probably missed. The fast-paced advancement and adoption of AI raises questions about its regulation, impact on [\u2026]",
+                "publication_date": "2025-03-28T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5267",
+                "source": "Insider Monkey",
+                "ticker": "CMCSA",
+                "title": "Comcast (CMCSA) Doubles Down on AI-Driven Networks",
+                "url": "https://finance.yahoo.com/news/comcast-cmcsa-doubles-down-ai-133146585.html"
+            },
+            {
+                "headline": "Comcast Corporation's ( NASDAQ:CMCSA ) dividend will be increasing from last year's payment of the same period to $0.33...",
+                "publication_date": "2025-03-28T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Simply Wall St.",
+                "ticker": "CMCSA",
+                "title": "Comcast (NASDAQ:CMCSA) Is Paying Out A Larger Dividend Than Last Year",
+                "url": "https://finance.yahoo.com/news/comcast-nasdaq-cmcsa-paying-larger-134118294.html"
+            },
+            {
+                "headline": "Comcast (NasdaqGS:CMCSA) saw its stock price rise by 4% over the last month, amidst several significant developments. A key factor was the continuation of their partnership with USA Gymnastics, extending the Xfinity brand's role as the official provider through 2028, supporting the national teams for the LA 2028 Olympic Games, and sponsoring the Xfinity U.S. Gymnastics Championships. Meanwhile, the broader market faced turbulent conditions, with concerns over rising inflation and weakening...",
+                "publication_date": "2025-03-28T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7845",
+                "source": "Simply Wall St.",
+                "ticker": "CMCSA",
+                "title": "Comcast (NasdaqGS:CMCSA) Extends Partnership With USA Gymnastics Through LA 2028 Olympic Games",
+                "url": "https://finance.yahoo.com/news/comcast-nasdaqgs-cmcsa-extends-partnership-172515550.html"
+            }
+        ],
+        "avgScore": 0.29147500000000004,
+        "pctChange": 0.007646129302741248
+    },
+    "3 27 2025": {
+        "importantArticles": [
+            {
+                "headline": "The end of an earnings season can be a great time to discover new stocks and assess how companies are handling the current business environment. Let\u2019s take a look at how Cable One (NYSE:CABO) and the rest of the wireless, cable and satellite stocks fared in Q4.",
+                "publication_date": "2025-03-27T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6249",
+                "source": "StockStory",
+                "ticker": "CMCSA",
+                "title": "Unpacking Q4 Earnings: Cable One (NYSE:CABO) In The Context Of Other Wireless, Cable and Satellite Stocks",
+                "url": "https://finance.yahoo.com/news/unpacking-q4-earnings-cable-one-090959448.html"
+            },
+            {
+                "headline": "INDIANAPOLIS, March 27, 2025--USA Gymnastics (USAG) today announced global media and technology company, Comcast, will continue to have its Xfinity brand serve as the organization\u2019s official Internet, Mobile, and Video provider through 2028. Comcast will power USA Gymnastics National Teams along their journeys through the LA 2028 Olympic Games while also championing the next generation of gymnasts across the country.",
+                "publication_date": "2025-03-27T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.4215",
                 "source": "Business Wire",
@@ -716,96 +958,60 @@
                 "url": "https://finance.yahoo.com/news/usa-gymnastics-comcast-announce-multi-150600900.html"
             },
             {
+                "headline": "The entertainment companies have sparred over whose streaming service has the rights to air shows based on the hit western show.",
+                "publication_date": "2025-03-27T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4215",
+                "source": "The Wall Street Journal",
+                "ticker": "CMCSA",
+                "title": "New \u2018Yellowstone\u2019 Spinoffs Stoke Feud Between Paramount and NBCUniversal",
+                "url": "https://finance.yahoo.com/m/a8315638-bf4f-3996-ad4a-1482f2da96d6/new-%E2%80%98yellowstone%E2%80%99-spinoffs.html"
+            },
+            {
+                "headline": "The entertainment companies have sparred over whose streaming service has the rights to air shows based on the hit western show.",
+                "publication_date": "2025-03-27T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4215",
+                "source": "The Wall Street Journal",
+                "ticker": "CMCSA",
+                "title": "New \u2018Yellowstone\u2019 Spinoffs Stoke Feud Between Paramount and NBCUniversal",
+                "url": "https://finance.yahoo.com/m/a8315638-bf4f-3996-ad4a-1482f2da96d6/new-%E2%80%98yellowstone%E2%80%99-spinoffs.html"
+            },
+            {
                 "headline": "INDIANAPOLIS, March 27, 2025--USA Gymnastics (USAG) today announced global media and technology company, Comcast, will continue to have its Xfinity brand serve as the organization\u2019s official Internet, Mobile, and Video provider through 2028. Comcast will power USA Gymnastics National Teams along their journeys through the LA 2028 Olympic Games while also championing the next generation of gymnasts across the country.",
-                "publication_date": "2025-03-28T00:00:00.000Z",
+                "publication_date": "2025-03-27T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.4215",
                 "source": "Business Wire",
                 "ticker": "CMCSA",
                 "title": "USA Gymnastics and Comcast Announce Multi-Year Partnership Renewal",
                 "url": "https://finance.yahoo.com/news/usa-gymnastics-comcast-announce-multi-150600900.html"
+            },
+            {
+                "headline": "The end of an earnings season can be a great time to discover new stocks and assess how companies are handling the current business environment. Let\u2019s take a look at how Cable One (NYSE:CABO) and the rest of the wireless, cable and satellite stocks fared in Q4.",
+                "publication_date": "2025-03-27T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6249",
+                "source": "StockStory",
+                "ticker": "CMCSA",
+                "title": "Unpacking Q4 Earnings: Cable One (NYSE:CABO) In The Context Of Other Wireless, Cable and Satellite Stocks",
+                "url": "https://finance.yahoo.com/news/unpacking-q4-earnings-cable-one-090959448.html"
             }
         ],
-        "avgScore": 0.4215,
-        "pctChange": 0.007646129302741248
+        "avgScore": 0.4893,
+        "pctChange": -0.020069565346371273
     },
-    "3 27 2025": {
+    "3 26 2025": {
         "importantArticles": [
             {
                 "headline": "Comcast Business announced today a significant expansion of its connectivity solutions teams to reach new Florida communities including Clearwater, Lakeland, Kissimmee, Orlando, St. Petersburg and Tampa. The company launched these new client services teams to support local enterprise customer locations - many outside of the traditional Comcast footprint \u2013 with a broad suite of technology solutions including global secure networking, advanced cybersecurity and unified communications solutions. Th",
-                "publication_date": "2025-03-27T00:00:00.000Z",
+                "publication_date": "2025-03-26T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.9217",
                 "source": "PR Newswire",
                 "ticker": "CMCSA",
                 "title": "Comcast Business Expands Connectivity Solutions to Central Florida and Tampa Bay",
                 "url": "https://finance.yahoo.com/news/comcast-business-expands-connectivity-solutions-140000533.html"
-            },
-            {
-                "headline": "The end of an earnings season can be a great time to discover new stocks and assess how companies are handling the current business environment. Let\u2019s take a look at how Cable One (NYSE:CABO) and the rest of the wireless, cable and satellite stocks fared in Q4.",
-                "publication_date": "2025-03-27T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6249",
-                "source": "StockStory",
-                "ticker": "CMCSA",
-                "title": "Unpacking Q4 Earnings: Cable One (NYSE:CABO) In The Context Of Other Wireless, Cable and Satellite Stocks",
-                "url": "https://finance.yahoo.com/news/unpacking-q4-earnings-cable-one-090959448.html"
-            },
-            {
-                "headline": "The entertainment companies have sparred over whose streaming service has the rights to air shows based on the hit western show.",
-                "publication_date": "2025-03-27T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4215",
-                "source": "The Wall Street Journal",
-                "ticker": "CMCSA",
-                "title": "New \u2018Yellowstone\u2019 Spinoffs Stoke Feud Between Paramount and NBCUniversal",
-                "url": "https://finance.yahoo.com/m/a8315638-bf4f-3996-ad4a-1482f2da96d6/new-%E2%80%98yellowstone%E2%80%99-spinoffs.html"
-            },
-            {
-                "headline": "Disney knows May 22 is coming but has May 27 circled on its calendar, instead.",
-                "publication_date": "2025-03-27T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Motley Fool",
-                "ticker": "CMCSA",
-                "title": "Disney World Lays Out Its Epic Response",
-                "url": "https://finance.yahoo.com/news/disney-world-lays-epic-response-154500793.html"
-            },
-            {
-                "headline": "The entertainment companies have sparred over whose streaming service has the rights to air shows based on the hit western show.",
-                "publication_date": "2025-03-27T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4215",
-                "source": "The Wall Street Journal",
-                "ticker": "CMCSA",
-                "title": "New \u2018Yellowstone\u2019 Spinoffs Stoke Feud Between Paramount and NBCUniversal",
-                "url": "https://finance.yahoo.com/m/a8315638-bf4f-3996-ad4a-1482f2da96d6/new-%E2%80%98yellowstone%E2%80%99-spinoffs.html"
-            },
-            {
-                "headline": "The end of an earnings season can be a great time to discover new stocks and assess how companies are handling the current business environment. Let\u2019s take a look at how Cable One (NYSE:CABO) and the rest of the wireless, cable and satellite stocks fared in Q4.",
-                "publication_date": "2025-03-27T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6249",
-                "source": "StockStory",
-                "ticker": "CMCSA",
-                "title": "Unpacking Q4 Earnings: Cable One (NYSE:CABO) In The Context Of Other Wireless, Cable and Satellite Stocks",
-                "url": "https://finance.yahoo.com/news/unpacking-q4-earnings-cable-one-090959448.html"
-            }
-        ],
-        "avgScore": 0.492025,
-        "pctChange": -0.020069565346371273
-    },
-    "3 26 2025": {
-        "importantArticles": [
-            {
-                "headline": "Comcast (NasdaqGS:CMCSA) experienced a 2% price increase over the past week. This movement coincides with significant developments such as the partnership between Universal Ads, a Comcast subsidiary, and Measured, aimed at optimizing media strategies across premium networks like NBCUniversal. This initiative enhances attribution and content access, aligning with modern digital advertising needs. Furthermore, Comcast's expansion of internet services in Georgia potentially strengthens its...",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.891",
-                "source": "Simply Wall St.",
-                "ticker": "CMCSA",
-                "title": "Comcast (NasdaqGS:CMCSA) Partners With Measured For Enhanced TV Ad Insights 2% Rise",
-                "url": "https://finance.yahoo.com/news/comcast-nasdaqgs-cmcsa-partners-measured-172719265.html"
             },
             {
                 "headline": "Comcast's (CMCSA) Q1 results will likely demonstrate a persistently challenging environment, with re",
@@ -838,31 +1044,41 @@
                 "url": "https://finance.yahoo.com/news/whats-store-comcast-earnings-season-182103838.html"
             },
             {
-                "headline": "LEONARDTOWN, Md., March 25, 2025--Comcast today announced it connected the first residents in Leonardtown, MD to Xfinity and Comcast Business services. These are the first of 5,800 homes and businesses that Comcast is connecting to reliable, high-speed, symmetrical, Internet in the Leonardtown area.",
+                "headline": "In the closing of the recent trading day, Comcast (CMCSA) stood at $36.94, denoting a +0.93% change from the preceding trading day.",
                 "publication_date": "2025-03-26T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
-                "source": "Business Wire",
+                "source": "Zacks",
                 "ticker": "CMCSA",
-                "title": "Comcast Connects First Homes and Businesses in Leonardtown, MD Area to Its State-of-the-Art Network",
-                "url": "https://finance.yahoo.com/news/comcast-connects-first-homes-businesses-130000257.html"
+                "title": "Comcast (CMCSA) Exceeds Market Returns: Some Facts to Consider",
+                "url": "https://finance.yahoo.com/news/comcast-cmcsa-exceeds-market-returns-220014111.html"
             },
             {
-                "headline": "Tracy Pitcher, senior vice president of Comcast Business Central Division, will lead the charge as the 2025 American Heart Association Heart Walk chairperson to build a community of lifesavers in Atlanta.",
+                "headline": "Disney knows May 22 is coming but has May 27 circled on its calendar, instead.",
                 "publication_date": "2025-03-26T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
-                "source": "PR Newswire",
+                "source": "Motley Fool",
                 "ticker": "CMCSA",
-                "title": "Atlanta executive leader steps up to save lives, improve heart health",
-                "url": "https://finance.yahoo.com/news/atlanta-executive-leader-steps-save-140000954.html"
+                "title": "Disney World Lays Out Its Epic Response",
+                "url": "https://finance.yahoo.com/news/disney-world-lays-epic-response-154500793.html"
             }
         ],
-        "avgScore": 0.10405714285714286,
+        "avgScore": 0.12651666666666667,
         "pctChange": 0.0
     },
     "3 25 2025": {
         "importantArticles": [
+            {
+                "headline": "Comcast (NasdaqGS:CMCSA) experienced a 2% price increase over the past week. This movement coincides with significant developments such as the partnership between Universal Ads, a Comcast subsidiary, and Measured, aimed at optimizing media strategies across premium networks like NBCUniversal. This initiative enhances attribution and content access, aligning with modern digital advertising needs. Furthermore, Comcast's expansion of internet services in Georgia potentially strengthens its...",
+                "publication_date": "2025-03-25T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.891",
+                "source": "Simply Wall St.",
+                "ticker": "CMCSA",
+                "title": "Comcast (NasdaqGS:CMCSA) Partners With Measured For Enhanced TV Ad Insights 2% Rise",
+                "url": "https://finance.yahoo.com/news/comcast-nasdaqgs-cmcsa-partners-measured-172719265.html"
+            },
             {
                 "headline": "We recently published a list of 14 Best Affordable Stocks to Buy According to Hedge Funds. In this article, we are going to take a look at where Comcast Corporation (NASDAQ:CMCSA) stands against other best affordable stocks to invest in. The broader market has taken a significant hit, dropping 10% from its peak and wiping [\u2026]",
                 "publication_date": "2025-03-25T00:00:00.000Z",
@@ -884,26 +1100,6 @@
                 "url": "https://finance.yahoo.com/news/comcast-universal-ads-names-measured-120000130.html"
             },
             {
-                "headline": "Guinness Global Innovators, an investment management company, released its fourth-quarter 2024 investor letter. A copy of the letter can be downloaded here. The fund generated a total return of 21.9% (TR in GBP) in 2024, compared to the MSCI World Net TR Index return of 20.8%. 2024 turned out to be yet another successful year [\u2026]",
-                "publication_date": "2025-03-25T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.5859",
-                "source": "Insider Monkey",
-                "ticker": "CMCSA",
-                "title": "Here\u2019s Why Guinness Global Innovators Sold Comcast Corporation (CMCSA)",
-                "url": "https://finance.yahoo.com/news/why-guinness-global-innovators-sold-125106084.html"
-            },
-            {
-                "headline": "Comcast (CMCSA) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
-                "publication_date": "2025-03-25T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.1621",
-                "source": "Zacks",
-                "ticker": "CMCSA",
-                "title": "Investors Heavily Search Comcast Corporation (CMCSA): Here is What You Need to Know",
-                "url": "https://finance.yahoo.com/news/investors-heavily-search-comcast-corporation-130008250.html"
-            },
-            {
                 "headline": "Roche Holding, Comcast, Eaton Corp and National Presto Industries are included in this Analyst Blog.",
                 "publication_date": "2025-03-25T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -922,9 +1118,19 @@
                 "ticker": "CMCSA",
                 "title": "Winners And Losers Of Q4: Altice (NYSE:ATUS) Vs The Rest Of The Wireless, Cable and Satellite Stocks",
                 "url": "https://finance.yahoo.com/news/winners-losers-q4-altice-nyse-090401571.html"
+            },
+            {
+                "headline": "LEONARDTOWN, Md., March 25, 2025--Comcast today announced it connected the first residents in Leonardtown, MD to Xfinity and Comcast Business services. These are the first of 5,800 homes and businesses that Comcast is connecting to reliable, high-speed, symmetrical, Internet in the Leonardtown area.",
+                "publication_date": "2025-03-25T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Business Wire",
+                "ticker": "CMCSA",
+                "title": "Comcast Connects First Homes and Businesses in Leonardtown, MD Area to Its State-of-the-Art Network",
+                "url": "https://finance.yahoo.com/news/comcast-connects-first-homes-businesses-130000257.html"
             }
         ],
-        "avgScore": 0.3428857142857143,
+        "avgScore": 0.358425,
         "pctChange": 0.01164050958607828
     },
     "3 24 2025": {
@@ -940,6 +1146,46 @@
                 "url": "https://finance.yahoo.com/news/comcast-accelerates-virtualization-ai-technologies-120000950.html"
             },
             {
+                "headline": "Guinness Global Innovators, an investment management company, released its fourth-quarter 2024 investor letter. A copy of the letter can be downloaded here. The fund generated a total return of 21.9% (TR in GBP) in 2024, compared to the MSCI World Net TR Index return of 20.8%. 2024 turned out to be yet another successful year [\u2026]",
+                "publication_date": "2025-03-24T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5859",
+                "source": "Insider Monkey",
+                "ticker": "CMCSA",
+                "title": "Here\u2019s Why Guinness Global Innovators Sold Comcast Corporation (CMCSA)",
+                "url": "https://finance.yahoo.com/news/why-guinness-global-innovators-sold-125106084.html"
+            },
+            {
+                "headline": "Comcast (CMCSA) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
+                "publication_date": "2025-03-24T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.1621",
+                "source": "Zacks",
+                "ticker": "CMCSA",
+                "title": "Investors Heavily Search Comcast Corporation (CMCSA): Here is What You Need to Know",
+                "url": "https://finance.yahoo.com/news/investors-heavily-search-comcast-corporation-130008250.html"
+            },
+            {
+                "headline": "Comcast (CMCSA) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
+                "publication_date": "2025-03-24T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.1621",
+                "source": "Zacks",
+                "ticker": "CMCSA",
+                "title": "Investors Heavily Search Comcast Corporation (CMCSA): Here is What You Need to Know",
+                "url": "https://finance.yahoo.com/news/investors-heavily-search-comcast-corporation-130008250.html"
+            },
+            {
+                "headline": "Guinness Global Innovators, an investment management company, released its fourth-quarter 2024 investor letter. A copy of the letter can be downloaded here. The fund generated a total return of 21.9% (TR in GBP) in 2024, compared to the MSCI World Net TR Index return of 20.8%. 2024 turned out to be yet another successful year [\u2026]",
+                "publication_date": "2025-03-24T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5859",
+                "source": "Insider Monkey",
+                "ticker": "CMCSA",
+                "title": "Here\u2019s Why Guinness Global Innovators Sold Comcast Corporation (CMCSA)",
+                "url": "https://finance.yahoo.com/news/why-guinness-global-innovators-sold-125106084.html"
+            },
+            {
                 "headline": "PHILADELPHIA & RA\u2019ANANA, Israel, March 24, 2025--Comcast and DriveNets today announced that Comcast will use DriveNets\u2019 Network Cloud solution to expand the trial of Janus, its initiative to virtualize and embed AI innovation through the core of its network to maximize performance and continue delivering superior Internet connectivity. Comcast launched the first trial of Janus in Atlanta in September 2024, making it one of the first network operators in the world to virtualize and disaggregate t",
                 "publication_date": "2025-03-24T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -950,15 +1196,15 @@
                 "url": "https://finance.yahoo.com/news/comcast-accelerates-virtualization-ai-technologies-120000950.html"
             }
         ],
-        "avgScore": 0.8807,
+        "avgScore": 0.4348333333333334,
         "pctChange": 0.00928962179666174
     },
-    "coef": 0.09824561403508772,
-    "avgCoef": -0.031396897049983996,
+    "coef": -0.0631578947368421,
+    "avgCoef": -0.012425556053994894,
     "similar": {
-        "WFC": 0.28947368421052627,
-        "BAC": 0.2210526315789474,
-        "AAL": 0.20175438596491227,
-        "UMC": 0.18947368421052632
+        "ENPH": 0.22556390977443608,
+        "F": 0.20902255639097742,
+        "VOD": 0.20601503759398496,
+        "VRN": 0.13834586466165413
     }
 }

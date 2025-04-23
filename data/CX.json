@@ -25,11 +25,11 @@
         "avgScore": 0.5859,
         "pctChange": -0.0017543425226828097
     },
-    "3 28 2025": {
+    "3 27 2025": {
         "importantArticles": [
             {
                 "headline": "The most talked about and market moving research calls around Wall Street are now in one place. Here are today\u2019s research calls that investors need to know, as compiled by The Fly. Top 5 Upgrades: Stephens upgraded CarMax (KMX) to Overweight from Equal Weight with a price target of $90, up from $86, ahead of the company\u2019s Q4 report due on April 10. The firm cites valuation now being in-line with long-term averages, and an analysis of both real-time unit sales and credit metrics that give it comf",
-                "publication_date": "2025-03-28T00:00:00.000Z",
+                "publication_date": "2025-03-27T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.2263",
                 "source": "TipRanks",
@@ -39,7 +39,7 @@
             },
             {
                 "headline": "The most talked about and market moving research calls around Wall Street are now in one place. Here are today\u2019s research calls that investors need to know, as compiled by The Fly. Top 5 Upgrades: Stephens upgraded CarMax (KMX) to Overweight from Equal Weight with a price target of $90, up from $86, ahead of the company\u2019s Q4 report due on April 10. The firm cites valuation now being in-line with long-term averages, and an analysis of both real-time unit sales and credit metrics that give it comf",
-                "publication_date": "2025-03-28T00:00:00.000Z",
+                "publication_date": "2025-03-27T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.2263",
                 "source": "TipRanks",
@@ -49,7 +49,7 @@
             }
         ],
         "avgScore": 0.2263,
-        "pctChange": -0.008833871951527732
+        "pctChange": -0.05980068681976942
     },
     "3 26 2025": {
         "importantArticles": [
@@ -98,11 +98,11 @@
         "pctChange": 0.005008382463218261
     },
     "coef": 0.5,
-    "avgCoef": -0.027819302660157568,
+    "avgCoef": -0.0027458529733748026,
     "similar": {
+        "SPY": 1.0,
         "TSLA": 1.0,
-        "MARA": 1.0,
-        "AMZN": 1.0,
-        "CLSK": 1.0
+        "PLTR": 1.0,
+        "AAL": 1.0
     }
 }

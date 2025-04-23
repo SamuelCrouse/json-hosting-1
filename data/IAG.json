@@ -23,7 +23,7 @@
             }
         ],
         "avgScore": 0.0,
-        "pctChange": 0.028934357459745454
+        "pctChange": 0.019054305055443005
     },
     "4 17 2025": {
         "importantArticles": [
@@ -77,11 +77,11 @@
         "avgScore": 0.6369,
         "pctChange": 0.009695314916279082
     },
-    "4 10 2025": {
+    "4 9 2025": {
         "importantArticles": [
             {
                 "headline": "Toronto, Ontario--(Newsfile Corp. - April 9, 2025) - IAMGOLD Corporation (NYSE: IAG) (TSX: IMG) (\"IAMGOLD\" or the \"Company\") is pleased to announce it plans to release its first quarter 2025 operating and financial results after market hours on Tuesday, May 6, 2025. Senior management will host a conference call to discuss the operating performance and financial results on Wednesday, May 7, 2025, at 8:30 a.m. (Eastern Time). Listeners may access the conference call via ...",
-                "publication_date": "2025-04-10T00:00:00.000Z",
+                "publication_date": "2025-04-09T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.4404",
                 "source": "Newsfile",
@@ -91,7 +91,7 @@
             },
             {
                 "headline": "Gold stocks could be one of the few ways to hedge your portfolio amid the ongoing tariff turmoil.",
-                "publication_date": "2025-04-10T00:00:00.000Z",
+                "publication_date": "2025-04-09T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.3612",
                 "source": "Motley Fool",
@@ -101,7 +101,7 @@
             },
             {
                 "headline": "Gold stocks could be one of the few ways to hedge your portfolio amid the ongoing tariff turmoil.",
-                "publication_date": "2025-04-10T00:00:00.000Z",
+                "publication_date": "2025-04-09T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.3612",
                 "source": "Motley Fool",
@@ -111,7 +111,7 @@
             },
             {
                 "headline": "Toronto, Ontario--(Newsfile Corp. - April 9, 2025) - IAMGOLD Corporation (NYSE: IAG) (TSX: IMG) (\"IAMGOLD\" or the \"Company\") is pleased to announce it plans to release its first quarter 2025 operating and financial results after market hours on Tuesday, May 6, 2025. Senior management will host a conference call to discuss the operating performance and financial results on Wednesday, May 7, 2025, at 8:30 a.m. (Eastern Time). Listeners may access the conference call via ...",
-                "publication_date": "2025-04-10T00:00:00.000Z",
+                "publication_date": "2025-04-09T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.4404",
                 "source": "Newsfile",
@@ -121,7 +121,7 @@
             }
         ],
         "avgScore": 0.039599999999999996,
-        "pctChange": 0.049418556699887706
+        "pctChange": 0.05683561790329362
     },
     "4 8 2025": {
         "importantArticles": [
@@ -152,8 +152,34 @@
     "4 4 2025": {
         "importantArticles": [
             {
-                "headline": "Toronto, Ontario--(Newsfile Corp. - April 3, 2025) - IAMGOLD Corporation (TSX: IMG) (NYSE: IAG) (\"IAMGOLD\" or the \"Company\") announces that the Company has filed a technical report for the Nelligan Gold Project (\"Nelligan\" or the \"Project\"), titled \"NI 43-101 Technical Report on the Nelligan Gold Project, Qu\u00e9bec\" (the \"2025 Technical Report on Nelligan\") dated April 2, 2025.The 2025 Technical Report on Nelligan was prepared by SLR Consulting (Canada) Ltd., in accordance with National Instrument",
+                "headline": "In the closing of the recent trading day, Iamgold (IAG) stood at $6.53, denoting a +0.93% change from the preceding trading day.",
                 "publication_date": "2025-04-04T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "IAG",
+                "title": "Iamgold (IAG) Gains As Market Dips: What You Should Know",
+                "url": "https://finance.yahoo.com/news/iamgold-iag-gains-market-dips-221508143.html"
+            },
+            {
+                "headline": "In the closing of the recent trading day, Iamgold (IAG) stood at $6.53, denoting a +0.93% change from the preceding trading day.",
+                "publication_date": "2025-04-04T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "IAG",
+                "title": "Iamgold (IAG) Gains As Market Dips: What You Should Know",
+                "url": "https://finance.yahoo.com/news/iamgold-iag-gains-market-dips-221508143.html"
+            }
+        ],
+        "avgScore": 0.0,
+        "pctChange": 0.007104788817042414
+    },
+    "4 3 2025": {
+        "importantArticles": [
+            {
+                "headline": "Toronto, Ontario--(Newsfile Corp. - April 3, 2025) - IAMGOLD Corporation (TSX: IMG) (NYSE: IAG) (\"IAMGOLD\" or the \"Company\") announces that the Company has filed a technical report for the Nelligan Gold Project (\"Nelligan\" or the \"Project\"), titled \"NI 43-101 Technical Report on the Nelligan Gold Project, Qu\u00e9bec\" (the \"2025 Technical Report on Nelligan\") dated April 2, 2025.The 2025 Technical Report on Nelligan was prepared by SLR Consulting (Canada) Ltd., in accordance with National Instrument",
+                "publication_date": "2025-04-03T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.2263",
                 "source": "Newsfile",
@@ -162,28 +188,8 @@
                 "url": "https://finance.yahoo.com/news/iamgold-files-technical-report-nelligan-211200943.html"
             },
             {
-                "headline": "In the closing of the recent trading day, Iamgold (IAG) stood at $6.53, denoting a +0.93% change from the preceding trading day.",
-                "publication_date": "2025-04-04T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "IAG",
-                "title": "Iamgold (IAG) Gains As Market Dips: What You Should Know",
-                "url": "https://finance.yahoo.com/news/iamgold-iag-gains-market-dips-221508143.html"
-            },
-            {
-                "headline": "In the closing of the recent trading day, Iamgold (IAG) stood at $6.53, denoting a +0.93% change from the preceding trading day.",
-                "publication_date": "2025-04-04T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "IAG",
-                "title": "Iamgold (IAG) Gains As Market Dips: What You Should Know",
-                "url": "https://finance.yahoo.com/news/iamgold-iag-gains-market-dips-221508143.html"
-            },
-            {
                 "headline": "Toronto, Ontario--(Newsfile Corp. - April 3, 2025) - IAMGOLD Corporation (TSX: IMG) (NYSE: IAG) (\"IAMGOLD\" or the \"Company\") announces that the Company has filed a technical report for the Nelligan Gold Project (\"Nelligan\" or the \"Project\"), titled \"NI 43-101 Technical Report on the Nelligan Gold Project, Qu\u00e9bec\" (the \"2025 Technical Report on Nelligan\") dated April 2, 2025.The 2025 Technical Report on Nelligan was prepared by SLR Consulting (Canada) Ltd., in accordance with National Instrument",
-                "publication_date": "2025-04-04T00:00:00.000Z",
+                "publication_date": "2025-04-03T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.2263",
                 "source": "Newsfile",
@@ -192,8 +198,8 @@
                 "url": "https://finance.yahoo.com/news/iamgold-files-technical-report-nelligan-211200943.html"
             }
         ],
-        "avgScore": 0.11315,
-        "pctChange": 0.007104788817042414
+        "avgScore": 0.2263,
+        "pctChange": -0.1378254313094189
     },
     "3 31 2025": {
         "importantArticles": [
@@ -273,12 +279,12 @@
         "avgScore": 0.0,
         "pctChange": 0.011589432467463363
     },
-    "coef": 0.3765723339400754,
-    "avgCoef": -0.0016944381339349759,
+    "coef": 0.21474009169894706,
+    "avgCoef": -0.002815935888025914,
     "similar": {
-        "MU": 0.8117225864930513,
-        "VRT": 0.7531446678801508,
-        "HIMS": 0.7531446678801508,
-        "CCL": 0.728039845617479
+        "MARA": 0.73011631177642,
+        "SNAP": 0.6074076879484503,
+        "MSTR": 0.5215116512688716,
+        "CLSK": 0.49696992650327754
     }
 }

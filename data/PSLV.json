@@ -1,9 +1,9 @@
 {
-    "4 16 2025": {
+    "4 17 2025": {
         "importantArticles": [
             {
                 "headline": "Gold hit new highs this week amid rising geopolitical tensions and as the US interest rate cutting cycle got under way.",
-                "publication_date": "2025-04-16T00:00:00.000Z",
+                "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.0516",
                 "source": "Yahoo Finance UK",
@@ -13,7 +13,7 @@
             },
             {
                 "headline": "Gold hit new highs this week amid rising geopolitical tensions and as the US interest rate cutting cycle got under way.",
-                "publication_date": "2025-04-16T00:00:00.000Z",
+                "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.0516",
                 "source": "Yahoo Finance UK",
@@ -23,13 +23,13 @@
             }
         ],
         "avgScore": -0.0516,
-        "pctChange": -0.0054446839495753815
+        "pctChange": 0.009124122365115776
     },
-    "4 15 2025": {
+    "4 16 2025": {
         "importantArticles": [
             {
                 "headline": "With uncertainties still present and the potential of an overreaction by the market, investing in commodity ETFs with exposure to metals like gold, copper, silver and uranium is a smart strategy to reduce portfolio volatility.",
-                "publication_date": "2025-04-15T00:00:00.000Z",
+                "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.2732",
                 "source": "Zacks",
@@ -39,7 +39,7 @@
             },
             {
                 "headline": "With uncertainties still present and the potential of an overreaction by the market, investing in commodity ETFs with exposure to metals like gold, copper, silver and uranium is a smart strategy to reduce portfolio volatility.",
-                "publication_date": "2025-04-15T00:00:00.000Z",
+                "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.2732",
                 "source": "Zacks",
@@ -49,13 +49,39 @@
             }
         ],
         "avgScore": 0.2732,
-        "pctChange": 0.01193756752456193
+        "pctChange": -0.0054446839495753815
     },
-    "3 27 2025": {
+    "4 14 2025": {
+        "importantArticles": [
+            {
+                "headline": "Silver and gold are again grabbing investor attention following bouts of softer U.S. data, which boosted prospects of an interest rate cut by the Fed in September. However, silver has an edge over gold due to various reasons.",
+                "publication_date": "2025-04-14T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6808",
+                "source": "Zacks",
+                "ticker": "PSLV",
+                "title": "Silver or Gold: Which ETFs Should You Buy for 2H 2024?",
+                "url": "https://finance.yahoo.com/news/silver-gold-etfs-buy-2h-160500508.html"
+            },
+            {
+                "headline": "Silver and gold are again grabbing investor attention following bouts of softer U.S. data, which boosted prospects of an interest rate cut by the Fed in September. However, silver has an edge over gold due to various reasons.",
+                "publication_date": "2025-04-14T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6808",
+                "source": "Zacks",
+                "ticker": "PSLV",
+                "title": "Silver or Gold: Which ETFs Should You Buy for 2H 2024?",
+                "url": "https://finance.yahoo.com/news/silver-gold-etfs-buy-2h-160500508.html"
+            }
+        ],
+        "avgScore": 0.6808,
+        "pctChange": -0.0009173647300427894
+    },
+    "3 28 2025": {
         "importantArticles": [
             {
                 "headline": "TORONTO, March 27, 2025 (GLOBE NEWSWIRE) -- Sprott Inc. (NYSE/TSX: SII) (\u201cSprott\u201d) on behalf of the Sprott Physical Silver Trust (NYSE Arca/TSX: PSLV) (\u201cPSLV\u201d or the \u201cTrust\u201d) today announced that PSLV\u2019s net asset value (\u201cNAV\u201d) has surpassed US$6 billion. \u201cWe would like to thank our unitholders for their trust and support in helping the Sprott Physical Silver Trust reach this significant milestone,\u201d said John Ciampaglia, Chief Executive Officer of Sprott Asset Management. \u201cPSLV provides investors",
-                "publication_date": "2025-03-27T00:00:00.000Z",
+                "publication_date": "2025-03-28T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.9779",
                 "source": "GlobeNewswire",
@@ -65,7 +91,7 @@
             },
             {
                 "headline": "TORONTO, March 27, 2025 (GLOBE NEWSWIRE) -- Sprott Inc. (NYSE/TSX: SII) (\u201cSprott\u201d) on behalf of the Sprott Physical Silver Trust (NYSE Arca/TSX: PSLV) (\u201cPSLV\u201d or the \u201cTrust\u201d) today announced that PSLV\u2019s net asset value (\u201cNAV\u201d) has surpassed US$6 billion. \u201cWe would like to thank our unitholders for their trust and support in helping the Sprott Physical Silver Trust reach this significant milestone,\u201d said John Ciampaglia, Chief Executive Officer of Sprott Asset Management. \u201cPSLV provides investors",
-                "publication_date": "2025-03-27T00:00:00.000Z",
+                "publication_date": "2025-03-28T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.9779",
                 "source": "GlobeNewswire",
@@ -75,14 +101,14 @@
             }
         ],
         "avgScore": 0.9779,
-        "pctChange": -0.008561676271995746
+        "pctChange": 0.0017271552586738657
     },
-    "coef": -0.5,
-    "avgCoef": -0.02692916960003837,
+    "coef": -0.19999999999999998,
+    "avgCoef": -0.021271873876785488,
     "similar": {
-        "NVDA": 0.5,
-        "NGD": 0.5,
-        "GOLD": 0.5,
-        "PFE": 0.5
+        "WBD": 1.0,
+        "SPY": 0.7999999999999999,
+        "NVDA": 0.7999999999999999,
+        "SMCI": 0.7999999999999999
     }
 }

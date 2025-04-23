@@ -63,7 +63,7 @@
             }
         ],
         "avgScore": 0.18434000000000003,
-        "pctChange": 0.002033503204045092
+        "pctChange": -0.0030503032897642676
     },
     "4 22 2025": {
         "importantArticles": [
@@ -129,7 +129,7 @@
             }
         ],
         "avgScore": 0.2583166666666667,
-        "pctChange": 0.021243516249721556
+        "pctChange": 0.016062247955727374
     },
     "4 21 2025": {
         "importantArticles": [
@@ -220,14 +220,14 @@
                 "url": "https://finance.yahoo.com/news/ford-warns-price-hikes-trump-114900171.html"
             },
             {
-                "headline": "Consumers are flooding car lots and checkout lines to beat soaring prices before sweeping tariffs hit",
+                "headline": "Madison Mills examines some of today's trending tickers on Catalysts. Charles Schwab (SCHW) reports record-high first quarter revenue driven by an uptick in trading volume amid market volatility. Ford (F) considers price increases as the American automaker assesses the impact of President Trump's tariff policies. Microsoft (MSFT) stock receives a downgrade from Keybanc to Sector Weight from Overweight, citing artificial intelligence (AI) demand and monetization concerns. To watch more expert insights and analysis on the latest market action, check out more Catalysts here.",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "GuruFocus.com",
+                "sentimentScore": "0.0258",
+                "source": "Yahoo Finance Video",
                 "ticker": "F",
-                "title": "Buy Now or Pay Thousands More: Trump's Tariffs Trigger Panic Shopping Across America",
-                "url": "https://finance.yahoo.com/news/buy-now-pay-thousands-more-135910345.html"
+                "title": "Charles Schwab, Ford, Microsoft: Trending Tickers",
+                "url": "https://finance.yahoo.com/video/charles-schwab-ford-microsoft-trending-142924441.html"
             },
             {
                 "headline": "Ford Motor may raise prices on its new vehicles if U.S. President Donald Trump's auto tariffs continue, according to a memo sent to dealers on Wednesday that was reviewed by Reuters.  The Dearborn, Michigan, automaker offered deep discounts across its lineup starting earlier this month through June 2.  The program will continue, but pricing on new models produced in May and beyond may change, the memo said.",
@@ -260,7 +260,7 @@
                 "url": "https://finance.yahoo.com/news/winners-losers-q4-rivian-nasdaq-090232529.html"
             }
         ],
-        "avgScore": 0.17226249999999999,
+        "avgScore": 0.15598888888888887,
         "pctChange": -0.01661472954420607
     },
     "4 16 2025": {
@@ -296,16 +296,6 @@
                 "url": "https://finance.yahoo.com/news/trump-trade-carmakers-may-see-140439617.html"
             },
             {
-                "headline": "General Motors (GM) was downgraded to equal weight from overweight by Barclays as the Trump administ",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.3612",
-                "source": "MT Newswires",
-                "ticker": "F",
-                "title": "Market Chatter: GM Downgraded, Ford Preferable Amid Trump Tariffs, Barclays Says",
-                "url": "https://finance.yahoo.com/news/market-chatter-gm-downgraded-ford-144715951.html"
-            },
-            {
                 "headline": "Barclays analyst Dan Levy downgraded his view of the sector to \u201cNegative\u201d and cut his rating for General Motors to Hold from Buy.",
                 "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -324,9 +314,19 @@
                 "ticker": "F",
                 "title": "DTE Energy Begins Construction of Solar Array in Michigan for Ford",
                 "url": "https://finance.yahoo.com/news/dte-energy-begins-construction-solar-165204009.html"
+            },
+            {
+                "headline": "DETROIT (Reuters) -Ford Motor's China business, including exports from the country, made $900 million in earnings before interest and taxes last year, one of the automaker's top executives said on Wednesday.  John Lawler, Ford's vice chair and former chief financial officer, gave a rare glimpse into the automaker's earnings in the country, where it has been restructuring to stem financial losses.  \"When I left China in 2016, it was a digital society back then,\" Lawler said at an analyst conference, referring to his previous role as head of Ford China.",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.2732",
+                "source": "Reuters",
+                "ticker": "F",
+                "title": "Ford's China business made $900 million last year",
+                "url": "https://finance.yahoo.com/news/fords-china-business-made-900-141716406.html"
             }
         ],
-        "avgScore": 0.2555,
+        "avgScore": 0.35828333333333334,
         "pctChange": 0.024468138855797742
     },
     "4 15 2025": {
@@ -372,6 +372,16 @@
                 "url": "https://finance.yahoo.com/m/e235ce5a-1ee5-35fa-a1ce-031e5b4a2e96/ford-and-gm-stocks-pop-after.html"
             },
             {
+                "headline": "General Motors (GM) was downgraded to equal weight from overweight by Barclays as the Trump administ",
+                "publication_date": "2025-04-15T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.3612",
+                "source": "MT Newswires",
+                "ticker": "F",
+                "title": "Market Chatter: GM Downgraded, Ford Preferable Amid Trump Tariffs, Barclays Says",
+                "url": "https://finance.yahoo.com/news/market-chatter-gm-downgraded-ford-144715951.html"
+            },
+            {
                 "headline": "(Bloomberg) -- President Donald Trump\u2019s tariff exclusions for smartphones and other tech products have added to a growing set of confusing signals for companies and trading partners digesting how to engage a White House still promising to negotiate dozens of new deals in America\u2019s favor.Most Read from BloombergHow Did This Suburb Figure Out Mass Transit?The Secret Formula for Faster TrainsEven Oslo Has an Air Quality ProblemNYC Tourist Helicopter Crashes in Hudson River, Killing SixLisbon Mayor",
                 "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -380,19 +390,9 @@
                 "ticker": "F",
                 "title": "Trump\u2019s Tangled Tariffs Sow Confusion as Negotiators Line Up",
                 "url": "https://finance.yahoo.com/news/trump-tangled-tariffs-sow-confusion-122723925.html"
-            },
-            {
-                "headline": "The latest investor updates on stocks that are trending on Tuesday.",
-                "publication_date": "2025-04-15T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Yahoo Finance UK",
-                "ticker": "F",
-                "title": "Trending tickers: Netflix, Meta, Ford, LVMH and B&M",
-                "url": "https://finance.yahoo.com/news/netflix-meta-ford-lvmh-bm-trending-tickers-084709811.html"
             }
         ],
-        "avgScore": 0.29629375,
+        "avgScore": 0.25761764705882356,
         "pctChange": -0.005291025581380563
     },
     "4 14 2025": {
@@ -514,17 +514,17 @@
                 "url": "https://finance.yahoo.com/news/nvidia-tesla-ford-intel-bp-trending-tickers-090920052.html"
             },
             {
-                "headline": "DETROIT (Reuters) -A new analysis by the Center for Automotive Research has found that President Donald Trump's 25% auto tariffs imposed in early April will increase costs by about $108 billion for automakers in the U.S. in 2025.  The study, released on Thursday by the Ann Arbor, Michigan-based organization, found Detroit automakers Ford Motor, General Motors and Stellantis, maker of Jeeps and Ram trucks, specifically will see increased costs of $42 billion.  The study found the Detroit Three could see tariffs of nearly $5,000 for the parts they import on average for each car produced in the U.S., and about $8,600 on average for each car they import.",
+                "headline": "(Updates with trade group remarks in fourth, fifth paragraphs; share price movements in final paragr",
                 "publication_date": "2025-04-11T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.4767",
-                "source": "Reuters",
+                "sentimentScore": "0.296",
+                "source": "MT Newswires",
                 "ticker": "F",
-                "title": "Study finds Trump's 25% auto tariffs could cost US automakers $108 billion",
-                "url": "https://finance.yahoo.com/news/study-finds-trumps-25-auto-210135824.html"
+                "title": "Update: Ford, GM, Stellantis Face $41.9 Billion Higher Cost From Tariffs, CAR Report Says",
+                "url": "https://finance.yahoo.com/news/ford-gm-stellantis-face-41-142955123.html"
             }
         ],
-        "avgScore": 0.40903333333333336,
+        "avgScore": 0.3928857142857143,
         "pctChange": 0.04072884432457473
     },
     "4 10 2025": {
@@ -626,16 +626,6 @@
                 "url": "https://finance.yahoo.com/news/q4-earnings-outperformers-thor-industries-091143908.html"
             },
             {
-                "headline": "Catch up on the top industries and stocks that were impacted, or were predicted to be impacted, by the comments, actions and policies of President Donald Trump with this daily recap compiled by The Fly: TRUMP SAYS NO INFLATION: President Trump said via Truth Social, \u201cOil prices are down, interest rates are down (the slow moving Fed should cut rates!), food prices are down, there is NO INFLATION, and the long time abused USA is bringing in Billions of Dollars a week from the abusing countries on",
-                "publication_date": "2025-04-09T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.8155",
-                "source": "TipRanks",
-                "ticker": "F",
-                "title": "Trump Trade: Trump claims \u2018no inflation,\u2019 Medicare won\u2019t cover obesity drugs",
-                "url": "https://finance.yahoo.com/news/trump-trade-trump-claims-no-142755841.html"
-            },
-            {
                 "headline": "We recently published a list of Jim Cramer Got These 10 Stocks All Wrong. In this article, we are going to take a look at where Ford Motor Company (NYSE:F) stands against other stocks that Jim Cramer discussed 1 year ago. On Tuesday, April 1 , the host of Mad Money opened the show by focusing [\u2026]",
                 "publication_date": "2025-04-09T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -654,9 +644,19 @@
                 "ticker": "F",
                 "title": "Ford downgraded as Trump tariffs hammer outlook, target cut to $7",
                 "url": "https://finance.yahoo.com/news/ford-downgraded-trump-tariffs-hammer-130537195.html"
+            },
+            {
+                "headline": "A new report finds that Detroit\u2019s Big Three are actually the most exposed to President Trump\u2019s 25% auto tariffs on foreign-made cars.",
+                "publication_date": "2025-04-09T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.1513",
+                "source": "Yahoo Finance",
+                "ticker": "F",
+                "title": "Detroit's Big Three \u2014 not foreign automakers \u2014 are most exposed to Trump's auto tariffs: New report",
+                "url": "https://finance.yahoo.com/news/detroits-big-three--not-foreign-automakers--are-most-exposed-to-trumps-auto-tariffs-new-report-162635754.html"
             }
         ],
-        "avgScore": -0.030741666666666667,
+        "avgScore": 0.07865999999999998,
         "pctChange": -0.03789470070286801
     },
     "4 8 2025": {
@@ -692,6 +692,26 @@
                 "url": "https://finance.yahoo.com/video/auto-stocks-clobbered-trumps-tariffs-203056273.html"
             },
             {
+                "headline": "Catch up on the top industries and stocks that were impacted, or were predicted to be impacted, by the comments, actions and policies of President Donald Trump with this daily recap compiled by The Fly: TRUMP SAYS NO INFLATION: President Trump said via Truth Social, \u201cOil prices are down, interest rates are down (the slow moving Fed should cut rates!), food prices are down, there is NO INFLATION, and the long time abused USA is bringing in Billions of Dollars a week from the abusing countries on",
+                "publication_date": "2025-04-08T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.8155",
+                "source": "TipRanks",
+                "ticker": "F",
+                "title": "Trump Trade: Trump claims \u2018no inflation,\u2019 Medicare won\u2019t cover obesity drugs",
+                "url": "https://finance.yahoo.com/news/trump-trade-trump-claims-no-142755841.html"
+            },
+            {
+                "headline": "We recently published a list of Jim Cramer\u2019s Complete Black Monday Warning Plus 10 Stocks. In this article, we are going to take a look at where Ford Motor Company (NYSE:F) stands against other stocks that Jim Cramer discusses. In his appearance on CNBC\u2019s Squawk on the Street on Friday as markets were crashing for [\u2026]",
+                "publication_date": "2025-04-08T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.34",
+                "source": "Insider Monkey",
+                "ticker": "F",
+                "title": "Jim Cramer Says Ford Motor Company (F) Needs Help: \u201cJim Farley Trying to Do the Right Thing\u201d",
+                "url": "https://finance.yahoo.com/news/jim-cramer-says-ford-motor-145055329.html"
+            },
+            {
                 "headline": "Tariff and trade-war fears have increased stock market volatility. Technical strategists say they haven\u2019t seen capitulation yet.",
                 "publication_date": "2025-04-08T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -700,29 +720,9 @@
                 "ticker": "F",
                 "title": "The Stock Panic Selloff Shows It Isn\u2019t Time to Buy Just Yet",
                 "url": "https://finance.yahoo.com/m/9cd8c141-85a9-3cbf-95a6-5bfab8936211/the-stock-panic-selloff-shows.html"
-            },
-            {
-                "headline": "Ford Motor (F) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
-                "publication_date": "2025-04-08T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.1621",
-                "source": "Zacks",
-                "ticker": "F",
-                "title": "Ford Motor Company (F) Is a Trending Stock: Facts to Know Before Betting on It",
-                "url": "https://finance.yahoo.com/news/ford-motor-company-f-trending-130012045.html"
-            },
-            {
-                "headline": "President Trump's tariff plans have walloped auto stocks. Shares of the big three automakers (F, GM, STLA) all closed lower again on Monday. Yahoo Finance Autos Reporter Pras Subramanian reports the latest in the video above.&nbsp; To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime here.",
-                "publication_date": "2025-04-08T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.1226",
-                "source": "Yahoo Finance Video",
-                "ticker": "F",
-                "title": "Auto stocks have been clobbered by Trump's tariffs",
-                "url": "https://finance.yahoo.com/video/auto-stocks-clobbered-trumps-tariffs-203056273.html"
             }
         ],
-        "avgScore": 0.0048600000000000145,
+        "avgScore": -0.1616,
         "pctChange": 0.0932106396696709
     },
     "4 7 2025": {
@@ -854,7 +854,7 @@
                 "url": "https://finance.yahoo.com/news/ford-tries-ease-tariff-pain-155318520.html"
             }
         ],
-        "avgScore": 0.20717272727272726,
+        "avgScore": 0.22025999999999998,
         "pctChange": -0.03549062163837267
     },
     "4 3 2025": {
@@ -920,7 +920,7 @@
                 "url": "https://finance.yahoo.com/news/jim-cramer-says-prefers-general-194441574.html"
             }
         ],
-        "avgScore": 0.15403333333333336,
+        "avgScore": 0.14626,
         "pctChange": 0.004192868135531716
     },
     "4 2 2025": {
@@ -936,16 +936,6 @@
                 "url": "https://finance.yahoo.com/news/electric-vehicles-today-battery-leap-120711145.html"
             },
             {
-                "headline": "We recently compiled a list of the 10 Best EV Stocks to Buy Under $50. In this article, we are going to take a look at where Ford Motor Company (NYSE:F) stands against the other EV stocks under $50. Electric vehicle (EV) sales continue to grow but at a slower pace than many had previously [\u2026]",
-                "publication_date": "2025-04-02T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.3818",
-                "source": "Insider Monkey",
-                "ticker": "F",
-                "title": "Is Ford Motor Company (F) The Best EV Stock to Buy Under $50?",
-                "url": "https://finance.yahoo.com/news/ford-motor-company-f-best-142416500.html"
-            },
-            {
                 "headline": "General Motors (GM) posted a double-digit percentage increase in first-quarter US vehicle sales, whi",
                 "publication_date": "2025-04-02T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -954,6 +944,16 @@
                 "ticker": "F",
                 "title": "GM Logs 17% Rise in First-Quarter US Vehicle Sales; Ford Sees Slight Drop",
                 "url": "https://finance.yahoo.com/news/gm-logs-17-rise-first-184633905.html"
+            },
+            {
+                "headline": "\u2197\ufe0f Tesla (TSLA): Shares dropped early after the e-vehicle maker's first-quarter deliveries fell more than expected, then recovered after Politico reported that President Trump has told advisers that Tesla CEO Elon Musk would step back from his political work in coming weeks.",
+                "publication_date": "2025-04-02T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.296",
+                "source": "The Wall Street Journal",
+                "ticker": "F",
+                "title": "Stocks to Watch Wednesday: Tesla, Nvidia, Newsmax",
+                "url": "https://finance.yahoo.com/m/f453e4bd-ece5-32c0-834a-b79041ac6cd4/stocks-to-watch-wednesday-.html"
             },
             {
                 "headline": "General Motors and Ford reported upbeat first quarter US sales, just as the threat of tariffs portends pain ahead for the Big Three automakers.",
@@ -986,7 +986,7 @@
                 "url": "https://finance.yahoo.com/news/ford-slides-sales-slump-battery-044925415.html"
             }
         ],
-        "avgScore": 0.02656875000000003,
+        "avgScore": -0.01223076923076925,
         "pctChange": -0.06009849060128088
     },
     "4 1 2025": {
@@ -1052,7 +1052,7 @@
                 "url": "https://finance.yahoo.com/news/us-automakers-mad-dash-persuade-013847428.html"
             }
         ],
-        "avgScore": -0.02591000000000001,
+        "avgScore": 0.02708333333333336,
         "pctChange": 0.021126765292969436
     },
     "3 31 2025": {
@@ -1088,14 +1088,14 @@
                 "url": "https://finance.yahoo.com/news/electric-vehicles-reevaluating-ev-sales-101129203.html"
             },
             {
-                "headline": "Tariffs will raise prices, dent sales, and raise the age of the American auto fleet. Cuba redux?",
+                "headline": "President Trump\u2019s auto tariffs have customers and dealers spooked.",
                 "publication_date": "2025-03-31T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
                 "source": "Yahoo Finance",
                 "ticker": "F",
-                "title": "Commentary: Trump risks the 'Cubanization' of the US auto fleet",
-                "url": "https://finance.yahoo.com/news/commentary-trump-risks-the-cubanization-of-the-us-auto-fleet-161417721.html"
+                "title": "Car dealer: 'Afraid' buyers are rushing to purchase cars ahead of tariffs",
+                "url": "https://finance.yahoo.com/news/car-dealer-afraid-buyers-are-rushing-to-purchase-cars-ahead-of-tariffs-144014529.html"
             },
             {
                 "headline": "Trump's 25% auto tariffs are likely to drive up car prices, squeeze supply chains and hit import-heavy automakers. Used cars may be a better deal, but not for long.",
@@ -1144,24 +1144,14 @@
                 "url": "https://finance.yahoo.com/news/deutsche-bank-sees-auto-tariffs-174607690.html"
             },
             {
-                "headline": "Both European and American automakers are seeing their shares take a hit from President Trump's decision to put a 25% levy on vehicles and some auto parts imported into the US. There are a couple of auto stocks moving higher though. Both Tesla and Rivian are trading higher given how much of their production is in the United States. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
+                "headline": "\u2198\ufe0f Lululemon Athletica (LULU): The activewear company expects sales growth to slow this year, as consumers hold back on spending amid macroeconomic uncertainty. Shares fell more than 10%. \u2198\ufe0f Hyundai Motor (KR:005380), Toyota Motor (JP:7203), Mercedes-Benz (XE:MBG), Porsche (XE:P911): Shares of global automakers fell further, following President Trump's announcement of auto tariffs this week.",
                 "publication_date": "2025-03-28T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.6124",
-                "source": "Yahoo Finance Video",
+                "sentimentScore": "0.5574",
+                "source": "The Wall Street Journal",
                 "ticker": "F",
-                "title": "Auto stocks feel the impact of Trump's latest tariff: Market Minute",
-                "url": "https://finance.yahoo.com/video/auto-stocks-feel-impact-trumps-152124933.html"
-            },
-            {
-                "headline": "(Bloomberg) -- Donald Trump\u2019s planned tariffs on auto imports will hurt carmakers around the world and push up prices for US consumers. Among the many losers, one winner stands out: Elon Musk\u2019s Tesla Inc.Most Read from BloombergWhy Did the Government Declare War on My Adorable Tiny Truck?How SUVs Are Making Traffic WorseTrump Slashed International Aid. Geneva Is Feeling the Impact.These US Bridges Face High Risk of Catastrophic Ship StrikesAffordable Housing Developers Stalled by Blocked Federal",
-                "publication_date": "2025-03-28T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.9062",
-                "source": "Bloomberg",
-                "ticker": "F",
-                "title": "Musk\u2019s Tesla One of the Only Winners From Trump Car Tariffs",
-                "url": "https://finance.yahoo.com/news/musk-tesla-one-only-winners-145123898.html"
+                "title": "Stocks to Watch: Lululemon, General Motors, Deutsche Bank",
+                "url": "https://finance.yahoo.com/m/fce8d24d-7c14-3d48-9dea-9cebe7a41776/stocks-to-watch-lululemon-.html"
             },
             {
                 "headline": "While Wall Street frets about potential volatility from President Trump's April 2 tariff 'Liberation Day' plans, another part of America is also bracing for more chaos: US ports.",
@@ -1182,13 +1172,33 @@
                 "ticker": "F",
                 "title": "Why tariffs could hit Ford and GM harder than expected",
                 "url": "https://finance.yahoo.com/video/why-tariffs-could-hit-ford-194804857.html"
+            },
+            {
+                "headline": "President Trump announces 25% tariffs on cars imported to the U.S. from anywhere in the world. The policy is much worse than Wall Street expected.",
+                "publication_date": "2025-03-28T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.4767",
+                "source": "Barrons.com",
+                "ticker": "F",
+                "title": "Trump\u2019s Car Tariffs Are Worse Than the Worst-Case Scenario. GM Stock Tumbles.",
+                "url": "https://finance.yahoo.com/m/8ab4d828-df86-35d2-a97b-a3c94a1fbd56/trump%E2%80%99s-car-tariffs-are-worse.html"
             }
         ],
-        "avgScore": 0.07521666666666667,
+        "avgScore": 0.13312500000000002,
         "pctChange": 0.031892948294860786
     },
     "3 27 2025": {
         "importantArticles": [
+            {
+                "headline": "Both European and American automakers are seeing their shares take a hit from President Trump's decision to put a 25% levy on vehicles and some auto parts imported into the US. There are a couple of auto stocks moving higher though. Both Tesla and Rivian are trading higher given how much of their production is in the United States. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
+                "publication_date": "2025-03-27T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6124",
+                "source": "Yahoo Finance Video",
+                "ticker": "F",
+                "title": "Auto stocks feel the impact of Trump's latest tariff: Market Minute",
+                "url": "https://finance.yahoo.com/video/auto-stocks-feel-impact-trumps-152124933.html"
+            },
             {
                 "headline": "President Donald Trump is set to announce the details of his plan for auto tariffs later this afternoon. Detroit Free Press automotive reporter Jamie Lareau joins Market Domination to discuss what people are expecting. To watch more expert insights and analysis on the latest market action, check out more Market Domination here.",
                 "publication_date": "2025-03-27T00:00:00.000Z",
@@ -1210,14 +1220,14 @@
                 "url": "https://finance.yahoo.com/news/auto-stocks-down-president-trump-103816797.html"
             },
             {
-                "headline": "President Trump\u2019s 25% levy on automobiles and key car parts is expected to impact not just foreign-made vehicles but also American ones.",
+                "headline": "(Bloomberg) -- Donald Trump\u2019s planned tariffs on auto imports will hurt carmakers around the world and push up prices for US consumers. Among the many losers, one winner stands out: Elon Musk\u2019s Tesla Inc.Most Read from BloombergWhy Did the Government Declare War on My Adorable Tiny Truck?How SUVs Are Making Traffic WorseTrump Slashed International Aid. Geneva Is Feeling the Impact.These US Bridges Face High Risk of Catastrophic Ship StrikesAffordable Housing Developers Stalled by Blocked Federal",
                 "publication_date": "2025-03-27T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "FastCompany",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.9062",
+                "source": "Bloomberg",
                 "ticker": "F",
-                "title": "Auto stocks today: GM, Ford, Tesla, Stellantis, Toyota fall after Trump\u2019s tariffs on cars and parts",
-                "url": "https://finance.yahoo.com/news/auto-stocks-today-gm-ford-132000859.html"
+                "title": "Musk\u2019s Tesla One of the Only Winners From Trump Car Tariffs",
+                "url": "https://finance.yahoo.com/news/musk-tesla-one-only-winners-145123898.html"
             },
             {
                 "headline": "Morning Brief hosts Brad Smith and Madison Mills highlight three stories to watch for. President Trump's push for a 25% tariff on autos is sending shockwaves through the European and American auto industries, with European stocks falling and automakers like Mercedes-Benz (MBGYY) facing potential major losses. American car stocks are mixed today, with General Motors (GM) and Ford (FORD) lower while Tesla (TSLA) trades higher. Additionally, President Trump threatens larger tariffs on the EU and Canada, and US stock futures (ES=F, NQ=F, YM=F) point to a lower open as investors digest the news of Trump's tariffs. To watch more expert insights and analysis on the latest market action, check out more Morning Brief&nbsp;here.",
@@ -1230,35 +1240,25 @@
                 "url": "https://finance.yahoo.com/video/auto-tariffs-trade-talks-stock-131832976.html"
             },
             {
-                "headline": "Auto stocks fell Wednesday afterhours as the White House unveiled new automotive tariffs. President Trump said he would impose 25% tariffs on global automotive imports to the U.S., making good on pledge to impose duties on cars and trucks from other nations.",
+                "headline": "Ferrari may not be immune to Trump tariffs.",
                 "publication_date": "2025-03-27T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.128",
-                "source": "The Wall Street Journal",
+                "sentimentScore": "-0.2235",
+                "source": "Yahoo Finance",
                 "ticker": "F",
-                "title": "Auto Industry Stocks Drop on Tariff News",
-                "url": "https://finance.yahoo.com/m/0cf1bed9-22f5-3bcf-8b17-1db014eda445/auto-industry-stocks-drop-on.html"
-            },
-            {
-                "headline": "In the Oval Office on Wednesday, President Trump announced a 25% tariff on imported vehicles. Hear what he had to say in the video above. For more expert insight and the latest market action, click here.",
-                "publication_date": "2025-03-27T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Yahoo Finance Video",
-                "ticker": "F",
-                "title": "Trump announces a 25% tariff on imported vehicles",
-                "url": "https://finance.yahoo.com/video/trump-announces-25-tariff-imported-214426119.html"
+                "title": "JPMorgan cuts outlook for GM, Ford stocks, says Trump auto tariffs may be 'worse' for Ferrari",
+                "url": "https://finance.yahoo.com/news/jpmorgan-cuts-outlook-for-gm-ford-stocks-says-trump-auto-tariffs-may-be-worse-for-ferrari-122341848.html"
             }
         ],
-        "avgScore": -0.01728571428571427,
+        "avgScore": -0.053191666666666665,
         "pctChange": -0.018181753377500335
     },
-    "coef": 0.3333333333333333,
-    "avgCoef": -0.03678184438802247,
+    "coef": 0.2964912280701754,
+    "avgCoef": -0.028759462500315396,
     "similar": {
-        "RIVN": 0.5508771929824561,
-        "CLSK": 0.5350877192982456,
-        "MU": 0.4736842105263158,
-        "SNAP": 0.45438596491228067
+        "PDD": 0.6526315789473683,
+        "RIVN": 0.5175438596491229,
+        "CLSK": 0.4719298245614035,
+        "NKE": 0.4508771929824561
     }
 }

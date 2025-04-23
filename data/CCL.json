@@ -43,7 +43,7 @@
             }
         ],
         "avgScore": 0.71055,
-        "pctChange": 0.05367075512549569
+        "pctChange": 0.04226920179261073
     },
     "4 17 2025": {
         "importantArticles": [
@@ -58,24 +58,44 @@
                 "url": "https://finance.yahoo.com/news/carnival-corporation-nyse-ccl-announces-174047803.html"
             },
             {
-                "headline": "Seabourn, the leader in ultra-luxury cruising and expedition travel, was honored to welcome the President of French Polynesia Moetai Brotherson on board Seabourn Pursuit on Sunday, April 7, during the ship's call to Papeete, Tahiti in French Polynesia.",
+                "headline": "Delightfully carrying more guests to Alaska than any other cruise line, Princess Cruises begins its 2025 season in less than a month with seven amenity-filled ships, five pristine wilderness lodges and an expanded catalog of renowned cruisetours, visiting five awe-inspiring national parks \u2013 featuring the most visits to Glacier Bay National Park.",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.7783",
+                "sentimentScore": "0.5719",
                 "source": "PR Newswire",
                 "ticker": "CCL",
-                "title": "PRESIDENT OF FRENCH POLYNESIA VISITS SEABOURN PURSUIT DURING CALL TO PAPEETE",
-                "url": "https://finance.yahoo.com/news/president-french-polynesia-visits-seabourn-163600867.html"
+                "title": "Princess Cruises Celebrates the Opening of the 2025 Alaska Cruise Season",
+                "url": "https://finance.yahoo.com/news/princess-cruises-celebrates-opening-2025-152800750.html"
             },
             {
-                "headline": "Seabourn, the leader in ultra-luxury cruising and expedition travel, was honored to welcome the President of French Polynesia Moetai Brotherson on board Seabourn Pursuit on Sunday, April 7, during the ship's call to Papeete, Tahiti in French Polynesia.",
+                "headline": "Luxury cruise line Cunard is offering incredible savings on voyages to some of the world's most captivating destinations.",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "CNW Group",
+                "ticker": "CCL",
+                "title": "Luxury cruise line Cunard launches their 'Adventure Awaits Sale' across more than 100 iconic voyages",
+                "url": "https://finance.yahoo.com/news/luxury-cruise-line-cunard-launches-153000763.html"
+            },
+            {
+                "headline": "Luxury cruise line Cunard is offering incredible savings on voyages to some of the world's most captivating destinations.",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "CNW Group",
+                "ticker": "CCL",
+                "title": "Luxury cruise line Cunard launches their 'Adventure Awaits Sale' across more than 100 iconic voyages",
+                "url": "https://finance.yahoo.com/news/luxury-cruise-line-cunard-launches-153000763.html"
+            },
+            {
+                "headline": "Delightfully carrying more guests to Alaska than any other cruise line, Princess Cruises begins its 2025 season in less than a month with seven amenity-filled ships, five pristine wilderness lodges and an expanded catalog of renowned cruisetours, visiting five awe-inspiring national parks \u2013 featuring the most visits to Glacier Bay National Park.",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.7783",
+                "sentimentScore": "0.5719",
                 "source": "PR Newswire",
                 "ticker": "CCL",
-                "title": "PRESIDENT OF FRENCH POLYNESIA VISITS SEABOURN PURSUIT DURING CALL TO PAPEETE",
-                "url": "https://finance.yahoo.com/news/president-french-polynesia-visits-seabourn-163600867.html"
+                "title": "Princess Cruises Celebrates the Opening of the 2025 Alaska Cruise Season",
+                "url": "https://finance.yahoo.com/news/princess-cruises-celebrates-opening-2025-152800750.html"
             },
             {
                 "headline": "Carnival Corporation & (NYSE:CCL) experienced a 7.85% price increase over the past week, coinciding with Cunard's announcement of its 2026 Event Voyages schedule, which features curated experiences aimed at enhancing customer engagement. While these developments from a subsidiary may have bolstered the company's outlook, broader market trends also played a significant role. The market demonstrated an upward movement of 8.4% over the same period, driven by gains across all sectors. Although...",
@@ -88,7 +108,7 @@
                 "url": "https://finance.yahoo.com/news/carnival-corporation-nyse-ccl-announces-174047803.html"
             }
         ],
-        "avgScore": 0.82515,
+        "avgScore": 0.4813,
         "pctChange": -0.04168982821245383
     },
     "4 16 2025": {
@@ -104,6 +124,16 @@
                 "url": "https://finance.yahoo.com/news/why-carnival-ccl-top-value-134007604.html"
             },
             {
+                "headline": "Seabourn, the leader in ultra-luxury cruising and expedition travel, was honored to welcome the President of French Polynesia Moetai Brotherson on board Seabourn Pursuit on Sunday, April 7, during the ship's call to Papeete, Tahiti in French Polynesia.",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7783",
+                "source": "PR Newswire",
+                "ticker": "CCL",
+                "title": "PRESIDENT OF FRENCH POLYNESIA VISITS SEABOURN PURSUIT DURING CALL TO PAPEETE",
+                "url": "https://finance.yahoo.com/news/president-french-polynesia-visits-seabourn-163600867.html"
+            },
+            {
                 "headline": "Cunard's iconic Event Voyages are curated in partnership with the biggest names in entertainment, and now the luxury cruise line has unveiled part of its 2026 schedule.",
                 "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -122,6 +152,16 @@
                 "ticker": "CCL",
                 "title": "Cunard reveals first phase of 2026 Event Voyages program",
                 "url": "https://finance.yahoo.com/news/cunard-reveals-first-phase-2026-182400021.html"
+            },
+            {
+                "headline": "Seabourn, the leader in ultra-luxury cruising and expedition travel, was honored to welcome the President of French Polynesia Moetai Brotherson on board Seabourn Pursuit on Sunday, April 7, during the ship's call to Papeete, Tahiti in French Polynesia.",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7783",
+                "source": "PR Newswire",
+                "ticker": "CCL",
+                "title": "PRESIDENT OF FRENCH POLYNESIA VISITS SEABOURN PURSUIT DURING CALL TO PAPEETE",
+                "url": "https://finance.yahoo.com/news/president-french-polynesia-visits-seabourn-163600867.html"
             },
             {
                 "headline": "Whether you're a value, growth, or momentum investor, finding strong stocks becomes easier with the Zacks Style Scores, a top feature of the Zacks Premium research service.",
@@ -134,12 +174,22 @@
                 "url": "https://finance.yahoo.com/news/why-carnival-ccl-top-value-134007604.html"
             }
         ],
-        "avgScore": 0.6597,
+        "avgScore": 0.6992333333333334,
         "pctChange": 0.006715104994360674
     },
     "4 15 2025": {
         "importantArticles": [
             {
+                "headline": "Holland America Line announced itineraries for its two Grand Voyages sailing in 2027, offering guests the choice to embark on an ambitious 129-day circumnavigation of the globe on the 2027 Grand World Voyage or a 70-day, region-specific in-depth exploration on the Grand South America & Antarctica Voyage. As revealed today by the cruise line's president Beth Bodensteiner to guests on board the 2025 Grand World Voyage, the meticulously designed cruises contain bucket-list locations and rarely-call",
+                "publication_date": "2025-04-15T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9432",
+                "source": "CNW Group",
+                "ticker": "CCL",
+                "title": "Holland America Line Reveals 2027 Grand Voyages",
+                "url": "https://finance.yahoo.com/news/holland-america-line-reveals-2027-170000158.html"
+            },
+            {
                 "headline": "Royal Caribbean continues to demonstrate strong underlying business momentum, supported by record bookings.",
                 "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -178,9 +228,19 @@
                 "ticker": "CCL",
                 "title": "RCL Stock Trades 31% Below Its 52-Week High: Should You Buy the Dip?",
                 "url": "https://finance.yahoo.com/news/rcl-stock-trades-31-below-130800816.html"
+            },
+            {
+                "headline": "Holland America Line announced itineraries for its two Grand Voyages sailing in 2027, offering guests the choice to embark on an ambitious 129-day circumnavigation of the globe on the 2027 Grand World Voyage or a 70-day, region-specific in-depth exploration on the Grand South America & Antarctica Voyage. As revealed today by the cruise line's president Beth Bodensteiner to guests on board the 2025 Grand World Voyage, the meticulously designed cruises contain bucket-list locations and rarely-call",
+                "publication_date": "2025-04-15T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9432",
+                "source": "CNW Group",
+                "ticker": "CCL",
+                "title": "Holland America Line Reveals 2027 Grand Voyages",
+                "url": "https://finance.yahoo.com/news/holland-america-line-reveals-2027-170000158.html"
             }
         ],
-        "avgScore": 0.48839999999999995,
+        "avgScore": 0.64,
         "pctChange": -0.007222175598144531
     },
     "4 11 2025": {
@@ -216,8 +276,74 @@
                 "url": "https://finance.yahoo.com/news/seabourn-encore-makes-maiden-arrival-175700817.html"
             },
             {
-                "headline": "Morgan Stanley issued generally bearish notes on cruise operators Carnival Corporation (CCL) and Royal Caribbean Cruises (RCL). The investment bank upgraded CCL to Equal Weight but sharply cut its price target on Royal Caribbean (RCL) and urged investors to avoid the sector. Morgan Stanley\u2019s gloominess on the cruise space\u2019s outlook contrasts with Stifel, which remains [\u2026]",
+                "headline": "Madison Mills and Yahoo Finance Executive Editor Brian Sozzi outline what's driving interest in some of the trending tickers on Yahoo Finance's platform. Citi analysts cut their Nvidia (NVDA) price target to $150 per share, citing reduced chip sales in 2025 and 2026 due to the trade war. Jefferies analysts outline their top defensive retail and consumer-facing picks, including Uber (UBER), Exxon (XOM), McDonald's (MCD), and Netflix (NFLX). Logitech (LOGI) withdraws its full-year 2026 guidance, citing tariff uncertainty. To watch more expert insights and analysis on the latest market action, check out more Catalysts here.",
                 "publication_date": "2025-04-11T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.3182",
+                "source": "Yahoo Finance Video",
+                "ticker": "CCL",
+                "title": "Nvidia, defensive consumer plays, Logitech: Trending Tickers",
+                "url": "https://finance.yahoo.com/video/nvidia-defensive-consumer-plays-logitech-150202189.html"
+            },
+            {
+                "headline": "Holland America Line announced a six-week extension of its 2026 Europe season and opened bookings for four cruises available as part of the expansion. Guests have further opportunities to explore the Mediterranean and Norway \u2014 including a chance to see the Northern Lights on a cruise that enters the Arctic Circle.",
+                "publication_date": "2025-04-11T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5574",
+                "source": "CNW Group",
+                "ticker": "CCL",
+                "title": "Holland America Line Extends 2026 Europe Season",
+                "url": "https://finance.yahoo.com/news/holland-america-line-extends-2026-190300265.html"
+            },
+            {
+                "headline": "The ocean waters have gotten wavy this year, but there's opportunity in the volatility for these three cruise-related investments.",
+                "publication_date": "2025-04-11T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5719",
+                "source": "Motley Fool",
+                "ticker": "CCL",
+                "title": "3 No-Brainer Cruise Line Stocks to Buy Right Now",
+                "url": "https://finance.yahoo.com/news/3-no-brainer-cruise-line-154500369.html"
+            }
+        ],
+        "avgScore": 0.5185666666666666,
+        "pctChange": 0.010204099285933627
+    },
+    "4 10 2025": {
+        "importantArticles": [
+            {
+                "headline": "The consensus price target hints at a 46% upside potential for Carnival (CCL). While empirical research shows that this sought-after metric is hardly effective, an upward trend in earnings estimate revisions could mean that the stock will witness an upside in the near term.",
+                "publication_date": "2025-04-10T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4228",
+                "source": "Zacks",
+                "ticker": "CCL",
+                "title": "Wall Street Analysts Think Carnival (CCL) Could Surge 46%: Read This Before Placing a Bet",
+                "url": "https://finance.yahoo.com/news/wall-street-analysts-think-carnival-135513146.html"
+            },
+            {
+                "headline": "Investing.com -- Morgan Stanley flagged the weakest U.S. cruise demand in three years following fresh channel checks, prompting earnings and price target cuts across the sector. The brokerage Carnival (NYSE:CCL) Corp upgrade to \"Equal-weight,\" but the analysts maintained a cautious tone about the sector while expressing a preference for Royal Caribbean (NYSE:RCL) amid rising macroeconomic uncertainty.",
+                "publication_date": "2025-04-10T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.7227",
+                "source": "Investing.com",
+                "ticker": "CCL",
+                "title": "MS upgrades Carnival, prefers Royal Caribbean amid recession risks, demand drop",
+                "url": "https://finance.yahoo.com/news/ms-upgrades-carnival-prefers-royal-164027754.html"
+            },
+            {
+                "headline": "Morgan Stanley issued generally bearish notes on cruise operators Carnival Corporation (CCL) and Royal Caribbean Cruises (RCL). The investment bank upgraded CCL to Equal Weight but sharply cut its price target on Royal Caribbean (RCL) and urged investors to avoid the sector. Morgan Stanley\u2019s gloominess on the cruise space\u2019s outlook contrasts with Stifel, which remains [\u2026]",
+                "publication_date": "2025-04-10T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.8462",
+                "source": "Insider Monkey",
+                "ticker": "CCL",
+                "title": "Morgan Stanley Is Bearish on Carnival (CCL), Royal Caribbean (RCL)",
+                "url": "https://finance.yahoo.com/news/morgan-stanley-bearish-carnival-ccl-164000121.html"
+            },
+            {
+                "headline": "Morgan Stanley issued generally bearish notes on cruise operators Carnival Corporation (CCL) and Royal Caribbean Cruises (RCL). The investment bank upgraded CCL to Equal Weight but sharply cut its price target on Royal Caribbean (RCL) and urged investors to avoid the sector. Morgan Stanley\u2019s gloominess on the cruise space\u2019s outlook contrasts with Stifel, which remains [\u2026]",
+                "publication_date": "2025-04-10T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.8462",
                 "source": "Insider Monkey",
@@ -227,7 +353,7 @@
             },
             {
                 "headline": "Investing.com -- Morgan Stanley flagged the weakest U.S. cruise demand in three years following fresh channel checks, prompting earnings and price target cuts across the sector. The brokerage Carnival (NYSE:CCL) Corp upgrade to \"Equal-weight,\" but the analysts maintained a cautious tone about the sector while expressing a preference for Royal Caribbean (NYSE:RCL) amid rising macroeconomic uncertainty.",
-                "publication_date": "2025-04-11T00:00:00.000Z",
+                "publication_date": "2025-04-10T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.7227",
                 "source": "Investing.com",
@@ -236,42 +362,6 @@
                 "url": "https://finance.yahoo.com/news/ms-upgrades-carnival-prefers-royal-164027754.html"
             },
             {
-                "headline": "Madison Mills and Yahoo Finance Executive Editor Brian Sozzi outline what's driving interest in some of the trending tickers on Yahoo Finance's platform. Citi analysts cut their Nvidia (NVDA) price target to $150 per share, citing reduced chip sales in 2025 and 2026 due to the trade war. Jefferies analysts outline their top defensive retail and consumer-facing picks, including Uber (UBER), Exxon (XOM), McDonald's (MCD), and Netflix (NFLX). Logitech (LOGI) withdraws its full-year 2026 guidance, citing tariff uncertainty. To watch more expert insights and analysis on the latest market action, check out more Catalysts here.",
-                "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.3182",
-                "source": "Yahoo Finance Video",
-                "ticker": "CCL",
-                "title": "Nvidia, defensive consumer plays, Logitech: Trending Tickers",
-                "url": "https://finance.yahoo.com/video/nvidia-defensive-consumer-plays-logitech-150202189.html"
-            }
-        ],
-        "avgScore": 0.13865714285714284,
-        "pctChange": 0.010204099285933627
-    },
-    "4 10 2025": {
-        "importantArticles": [
-            {
-                "headline": "We recently published a list of 12 Best Cruise Stocks to Buy According to Hedge Funds. In this article, we are going to take a look at where Carnival Corporation & plc (NYSE:CCL) stands against other best cruise stocks to buy according to hedge funds. Overview of the Cruise Line Industry The cruise industry is [\u2026]",
-                "publication_date": "2025-04-10T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8555",
-                "source": "Insider Monkey",
-                "ticker": "CCL",
-                "title": "Why Carnival Corporation & plc (CCL) Is Among the Best Cruise Stocks to Buy According to Hedge Funds",
-                "url": "https://finance.yahoo.com/news/why-carnival-corporation-plc-ccl-161424681.html"
-            },
-            {
-                "headline": "Royal Caribbean and Carnival both outperform the industry and have solid fundamentals. Find out which cruise stock offers a better balance of growth, value and momentum in today's market.",
-                "publication_date": "2025-04-10T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8176",
-                "source": "Zacks",
-                "ticker": "CCL",
-                "title": "RCL Vs CCL: Which Cruise Stock Should You Add to Your Portfolio Now?",
-                "url": "https://finance.yahoo.com/news/rcl-vs-ccl-cruise-stock-163300318.html"
-            },
-            {
                 "headline": "The consensus price target hints at a 46% upside potential for Carnival (CCL). While empirical research shows that this sought-after metric is hardly effective, an upward trend in earnings estimate revisions could mean that the stock will witness an upside in the near term.",
                 "publication_date": "2025-04-10T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -280,39 +370,9 @@
                 "ticker": "CCL",
                 "title": "Wall Street Analysts Think Carnival (CCL) Could Surge 46%: Read This Before Placing a Bet",
                 "url": "https://finance.yahoo.com/news/wall-street-analysts-think-carnival-135513146.html"
-            },
-            {
-                "headline": "The consensus price target hints at a 46% upside potential for Carnival (CCL). While empirical research shows that this sought-after metric is hardly effective, an upward trend in earnings estimate revisions could mean that the stock will witness an upside in the near term.",
-                "publication_date": "2025-04-10T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4228",
-                "source": "Zacks",
-                "ticker": "CCL",
-                "title": "Wall Street Analysts Think Carnival (CCL) Could Surge 46%: Read This Before Placing a Bet",
-                "url": "https://finance.yahoo.com/news/wall-street-analysts-think-carnival-135513146.html"
-            },
-            {
-                "headline": "Royal Caribbean and Carnival both outperform the industry and have solid fundamentals. Find out which cruise stock offers a better balance of growth, value and momentum in today's market.",
-                "publication_date": "2025-04-10T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8176",
-                "source": "Zacks",
-                "ticker": "CCL",
-                "title": "RCL Vs CCL: Which Cruise Stock Should You Add to Your Portfolio Now?",
-                "url": "https://finance.yahoo.com/news/rcl-vs-ccl-cruise-stock-163300318.html"
-            },
-            {
-                "headline": "We recently published a list of 12 Best Cruise Stocks to Buy According to Hedge Funds. In this article, we are going to take a look at where Carnival Corporation & plc (NYSE:CCL) stands against other best cruise stocks to buy according to hedge funds. Overview of the Cruise Line Industry The cruise industry is [\u2026]",
-                "publication_date": "2025-04-10T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8555",
-                "source": "Insider Monkey",
-                "ticker": "CCL",
-                "title": "Why Carnival Corporation & plc (CCL) Is Among the Best Cruise Stocks to Buy According to Hedge Funds",
-                "url": "https://finance.yahoo.com/news/why-carnival-corporation-plc-ccl-161424681.html"
             }
         ],
-        "avgScore": 0.6986333333333333,
+        "avgScore": -0.3820333333333333,
         "pctChange": 0.0022726708699861253
     },
     "4 9 2025": {
@@ -328,57 +388,57 @@
                 "url": "https://finance.yahoo.com/news/salute-princess-cruises-frescobaldi-uncork-133000049.html"
             },
             {
-                "headline": "S&P 500 cruise line stocks Norwegian Cruise Line, Royal Caribbean and Carnival all moved higher Tuesday.",
-                "publication_date": "2025-04-09T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Investor's Business Daily",
-                "ticker": "CCL",
-                "title": "S&P 500 Cruise Line Stocks Jump Amid Fleet Shifts But China Trade War Looms",
-                "url": "https://finance.yahoo.com/m/8d1c19c7-4b3e-3488-b58a-4d4b5c47b022/s-p-500-cruise-line-stocks.html"
-            },
-            {
-                "headline": "RICK's second-quarter fiscal 2025 top line is hurt by Bombshells and Nightclubs' dismal sales.",
-                "publication_date": "2025-04-09T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.765",
-                "source": "Zacks",
-                "ticker": "CCL",
-                "title": "RCI Hospitality Provides Q2 Business Update, Shares Down",
-                "url": "https://finance.yahoo.com/news/rci-hospitality-provides-q2-business-140200684.html"
-            },
-            {
-                "headline": "RICK's second-quarter fiscal 2025 top line is hurt by Bombshells and Nightclubs' dismal sales.",
-                "publication_date": "2025-04-09T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.765",
-                "source": "Zacks",
-                "ticker": "CCL",
-                "title": "RCI Hospitality Provides Q2 Business Update, Shares Down",
-                "url": "https://finance.yahoo.com/news/rci-hospitality-provides-q2-business-140200684.html"
-            },
-            {
-                "headline": "S&P 500 cruise line stocks Norwegian Cruise Line, Royal Caribbean and Carnival all moved higher Tuesday.",
-                "publication_date": "2025-04-09T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Investor's Business Daily",
-                "ticker": "CCL",
-                "title": "S&P 500 Cruise Line Stocks Jump Amid Fleet Shifts But China Trade War Looms",
-                "url": "https://finance.yahoo.com/m/8d1c19c7-4b3e-3488-b58a-4d4b5c47b022/s-p-500-cruise-line-stocks.html"
-            },
-            {
-                "headline": "Known for its beloved recipes of Italian cuisine, fresh pasta, and outstanding wines, Sabatini's Italian Trattoria, the signature specialty restaurant of Princess Cruises, has unveiled a notable new collaboration with the renowned Frescobaldi family, Italy's legendary Tuscan winemakers.",
+                "headline": "We recently published a list of 12 Best Cruise Stocks to Buy According to Hedge Funds. In this article, we are going to take a look at where Carnival Corporation & plc (NYSE:CCL) stands against other best cruise stocks to buy according to hedge funds. Overview of the Cruise Line Industry The cruise industry is [\u2026]",
                 "publication_date": "2025-04-09T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.8625",
-                "source": "PR Newswire",
+                "sentimentScore": "0.8555",
+                "source": "Insider Monkey",
                 "ticker": "CCL",
-                "title": "Salute! Princess Cruises and Frescobaldi Uncork a Taste of Tuscany",
-                "url": "https://finance.yahoo.com/news/salute-princess-cruises-frescobaldi-uncork-133000049.html"
+                "title": "Why Carnival Corporation & plc (CCL) Is Among the Best Cruise Stocks to Buy According to Hedge Funds",
+                "url": "https://finance.yahoo.com/news/why-carnival-corporation-plc-ccl-161424681.html"
+            },
+            {
+                "headline": "Royal Caribbean and Carnival both outperform the industry and have solid fundamentals. Find out which cruise stock offers a better balance of growth, value and momentum in today's market.",
+                "publication_date": "2025-04-09T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8176",
+                "source": "Zacks",
+                "ticker": "CCL",
+                "title": "RCL Vs CCL: Which Cruise Stock Should You Add to Your Portfolio Now?",
+                "url": "https://finance.yahoo.com/news/rcl-vs-ccl-cruise-stock-163300318.html"
+            },
+            {
+                "headline": "RICK's second-quarter fiscal 2025 top line is hurt by Bombshells and Nightclubs' dismal sales.",
+                "publication_date": "2025-04-09T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.765",
+                "source": "Zacks",
+                "ticker": "CCL",
+                "title": "RCI Hospitality Provides Q2 Business Update, Shares Down",
+                "url": "https://finance.yahoo.com/news/rci-hospitality-provides-q2-business-140200684.html"
+            },
+            {
+                "headline": "S&P 500 cruise line stocks Norwegian Cruise Line, Royal Caribbean and Carnival all moved higher Tuesday.",
+                "publication_date": "2025-04-09T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Investor's Business Daily",
+                "ticker": "CCL",
+                "title": "S&P 500 Cruise Line Stocks Jump Amid Fleet Shifts But China Trade War Looms",
+                "url": "https://finance.yahoo.com/m/8d1c19c7-4b3e-3488-b58a-4d4b5c47b022/s-p-500-cruise-line-stocks.html"
+            },
+            {
+                "headline": "Royal Caribbean and Carnival both outperform the industry and have solid fundamentals. Find out which cruise stock offers a better balance of growth, value and momentum in today's market.",
+                "publication_date": "2025-04-09T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8176",
+                "source": "Zacks",
+                "ticker": "CCL",
+                "title": "RCL Vs CCL: Which Cruise Stock Should You Add to Your Portfolio Now?",
+                "url": "https://finance.yahoo.com/news/rcl-vs-ccl-cruise-stock-163300318.html"
             }
         ],
-        "avgScore": 0.03250000000000001,
+        "avgScore": 0.35412,
         "pctChange": -0.10249873362170188
     },
     "4 8 2025": {
@@ -473,32 +533,6 @@
         "avgScore": 0.7333500000000001,
         "pctChange": 0.01582472453149807
     },
-    "4 3 2025": {
-        "importantArticles": [
-            {
-                "headline": "This is the moment that Queen Elizabeth met Cunard's newest ship, Queen Anne for the very first time as the iconic Queens docked together in Hong Kong.",
-                "publication_date": "2025-04-03T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "PR Newswire",
-                "ticker": "CCL",
-                "title": "Queen Elizabeth joins Queen Anne in Hong Kong for first meeting with sister ship",
-                "url": "https://finance.yahoo.com/news/queen-elizabeth-joins-queen-anne-155500399.html"
-            },
-            {
-                "headline": "This is the moment that Queen Elizabeth met Cunard's newest ship, Queen Anne for the very first time as the iconic Queens docked together in Hong Kong.",
-                "publication_date": "2025-04-03T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "PR Newswire",
-                "ticker": "CCL",
-                "title": "Queen Elizabeth joins Queen Anne in Hong Kong for first meeting with sister ship",
-                "url": "https://finance.yahoo.com/news/queen-elizabeth-joins-queen-anne-155500399.html"
-            }
-        ],
-        "avgScore": 0.0,
-        "pctChange": -0.04513892683165894
-    },
     "4 2 2025": {
         "importantArticles": [
             {
@@ -512,6 +546,26 @@
                 "url": "https://finance.yahoo.com/news/majestic-princess-emerges-drydock-revamped-133000334.html"
             },
             {
+                "headline": "This is the moment that Queen Elizabeth met Cunard's newest ship, Queen Anne for the very first time as the iconic Queens docked together in Hong Kong.",
+                "publication_date": "2025-04-02T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "CNW Group",
+                "ticker": "CCL",
+                "title": "Queen Elizabeth joins Queen Anne in Hong Kong for first meeting with sister ship",
+                "url": "https://finance.yahoo.com/news/queen-elizabeth-joins-queen-anne-155500645.html"
+            },
+            {
+                "headline": "This is the moment that Queen Elizabeth met Cunard's newest ship, Queen Anne for the very first time as the iconic Queens docked together in Hong Kong.",
+                "publication_date": "2025-04-02T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "CNW Group",
+                "ticker": "CCL",
+                "title": "Queen Elizabeth joins Queen Anne in Hong Kong for first meeting with sister ship",
+                "url": "https://finance.yahoo.com/news/queen-elizabeth-joins-queen-anne-155500645.html"
+            },
+            {
                 "headline": "After a two-week drydock in Palermo, Italy, Majestic Princess has set sail with an exciting array of new venues, reimagined spaces, and refined touches in preparation for its 2025 Mediterranean season. Guests aboard the freshly renovated ship will be greeted by a host of new enhanced features, including various elevated culinary experiences and social spaces. Notable additions include the popular O'Malley's Irish Pub, Sabatini's Italian Trattoria, Alfredo's Slice, Salty Dog Caf\u00e9, Ocean Terrace S",
                 "publication_date": "2025-04-02T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -522,7 +576,7 @@
                 "url": "https://finance.yahoo.com/news/majestic-princess-emerges-drydock-revamped-133000334.html"
             }
         ],
-        "avgScore": 0.802,
+        "avgScore": 0.401,
         "pctChange": -0.13686312230105888
     },
     "3 31 2025": {
@@ -775,12 +829,12 @@
         "avgScore": 0.5103,
         "pctChange": -0.015522103487926958
     },
-    "coef": 0.05739515902626287,
-    "avgCoef": -0.04234432590622269,
+    "coef": 0.3571428571428571,
+    "avgCoef": -0.02161034843442061,
     "similar": {
-        "INTC": 0.31935255150510367,
-        "NU": 0.2531273680132619,
-        "T": 0.19278886749847268,
-        "GRAB": 0.1898455260099464
+        "PDCO": 0.5540892854795417,
+        "NCLH": 0.43214285714285705,
+        "WFC": 0.36785714285714277,
+        "CCL": 0.3571428571428571
     }
 }

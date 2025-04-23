@@ -42,28 +42,28 @@
                 "url": "https://finance.yahoo.com/news/tesla-intel-robinhood-fresnillo-reckitt-benckiser-trending-tickers-092347605.html"
             },
             {
-                "headline": "Robinhood Markets (HOOD) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+                "headline": "Cathie Wood has been looking for bargains.",
                 "publication_date": "2025-04-23T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.2263",
-                "source": "Zacks",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "TheStreet",
                 "ticker": "HOOD",
-                "title": "Robinhood Markets, Inc. (HOOD) Earnings Expected to Grow: Should You Buy?",
-                "url": "https://finance.yahoo.com/news/robinhood-markets-inc-hood-earnings-140117269.html"
+                "title": "Cathie Wood buys $6 million battered tech stocks amid tariff shock",
+                "url": "https://finance.yahoo.com/news/cathie-wood-buys-6-million-170700000.html"
             },
             {
-                "headline": "The average brokerage recommendation (ABR) for Robinhood Markets (HOOD) is equivalent to a Buy. The overly optimistic recommendations of Wall Street analysts make the effectiveness of this highly sought-after metric questionable. So, is it worth buying the stock?",
+                "headline": "A number of stocks jumped in the morning session after President Trump clarified that he had no intention of removing Federal Reserve Chair Jerome Powell, a statement that helped calm markets. Earlier remarks had sparked fears of political interference in decision-making at the central bank. With Trump walking back his earlier comments, investors likely felt more assured that monetary policy decisions would continue to be guided by data, not drama. That kept the Fed's word credible, and more imp",
                 "publication_date": "2025-04-23T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.25",
-                "source": "Zacks",
+                "sentimentScore": "0.101",
+                "source": "StockStory",
                 "ticker": "HOOD",
-                "title": "Wall Street Bulls Look Optimistic About Robinhood Markets (HOOD): Should You Buy?",
-                "url": "https://finance.yahoo.com/news/wall-street-bulls-look-optimistic-133008895.html"
+                "title": "Wayfair, Robinhood, Noodles, Upstart, and AppLovin Shares Skyrocket, What You Need To Know",
+                "url": "https://finance.yahoo.com/news/wayfair-robinhood-noodles-upstart-applovin-184507498.html"
             }
         ],
-        "avgScore": 0.3867333333333334,
-        "pctChange": -0.01655263688520001
+        "avgScore": 0.302675,
+        "pctChange": -0.014345652310265964
     },
     "4 22 2025": {
         "importantArticles": [
@@ -129,7 +129,7 @@
             }
         ],
         "avgScore": 0.0919,
-        "pctChange": 0.05868380165713204
+        "pctChange": 0.06105962664545638
     },
     "4 21 2025": {
         "importantArticles": [
@@ -210,14 +210,14 @@
                 "url": "https://finance.yahoo.com/news/2-wall-street-favorite-stocks-130128112.html"
             },
             {
-                "headline": "A new digital assets regulatory framework could significantly expand the offerings of Robinhood (NASDAQ:HOOD) and Coinbase (NASDAQ:COIN), enabling both platforms to list a broader range of crypto assets and tokenized equities, according to a new ...",
+                "headline": "The stock market fell sharply anew on Wednesday, with all major indices ending in the red, as investor sentiment was dampened by Federal Chairman Jerome Powell\u2019s bearish comments on the US economy, saying that the US\u2019 tariff policies could drive up inflation and \u201cmove us further away from our goals.\u201d The tech-heavy Nasdaq dropped the [\u2026]",
                 "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.5719",
-                "source": "Benzinga",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Insider Monkey",
                 "ticker": "HOOD",
-                "title": "Robinhood, Coinbase Could Benefit From New Digital Asset Regulation, Says Bernstein",
-                "url": "https://finance.yahoo.com/news/robinhood-coinbase-could-benefit-digital-213056038.html"
+                "title": "Why Robinhood Markets, Inc. (HOOD) Declined on Wednesday",
+                "url": "https://finance.yahoo.com/news/why-robinhood-markets-inc-hood-033058953.html"
             },
             {
                 "headline": "The stock market fell sharply anew on Wednesday, with all major indices ending in the red, as investor sentiment was dampened by Federal Chairman Jerome Powell\u2019s bearish comments on the US economy, saying that the US\u2019 tariff policies could drive up inflation and \u201cmove us further away from our goals.\u201d The tech-heavy Nasdaq dropped the [\u2026]",
@@ -230,8 +230,54 @@
                 "url": "https://finance.yahoo.com/news/why-robinhood-markets-inc-hood-033058953.html"
             },
             {
-                "headline": "A number of stocks fell in the afternoon session after Federal Reserve Chair Jerome Powell signaled a cautious stance on future monetary policy decisions during a speech in Chicago, emphasizing that trade tariffs could add upward pressure to inflation in the short term and complicate the Fed's efforts to stabilize the economy. He warned that such trade measures are \"likely to move us further away from our goals,\" referring to the Fed's dual mandate of price stability and maximum employment.",
+                "headline": "Wall Street has set ambitious price targets for the stocks in this article. While this suggests attractive upside potential, it\u2019s important to remain skeptical because analysts face institutional pressures that can sometimes lead to overly optimistic forecasts.",
                 "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6705",
+                "source": "StockStory",
+                "ticker": "HOOD",
+                "title": "2 of Wall Street\u2019s Favorite Stocks with Competitive Advantages and 1 to Be Wary Of",
+                "url": "https://finance.yahoo.com/news/2-wall-street-favorite-stocks-130128112.html"
+            }
+        ],
+        "avgScore": 0.33525,
+        "pctChange": -0.03229727589116904
+    },
+    "4 16 2025": {
+        "importantArticles": [
+            {
+                "headline": "A new digital assets regulatory framework could significantly expand the offerings of Robinhood (NASDAQ:HOOD) and Coinbase (NASDAQ:COIN), enabling both platforms to list a broader range of crypto assets and tokenized equities, according to a new ...",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5719",
+                "source": "Benzinga",
+                "ticker": "HOOD",
+                "title": "Robinhood, Coinbase Could Benefit From New Digital Asset Regulation, Says Bernstein",
+                "url": "https://finance.yahoo.com/news/robinhood-coinbase-could-benefit-digital-213056038.html"
+            },
+            {
+                "headline": "Interactive Brokers said it saw record trading volume as the markets whipsawed in April.  Shares of the online brokerage firm, which serves a range of customers including hedge funds, financial advisors and retail traders, tumbled Wednesday, following its late-Tuesday earnings report and analyst call.  Shares of Robinhood Markets, the online retail trading platform, were also hit hard.",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4588",
+                "source": "The Wall Street Journal",
+                "ticker": "HOOD",
+                "title": "More Cautious Trading Knocks Brokerage Stocks\u2014Heard on the Street",
+                "url": "https://finance.yahoo.com/m/b07b53c2-61ec-3cf9-804c-63bc2cd928b8/more-cautious-trading-knocks.html"
+            },
+            {
+                "headline": "Motley Fool analyst Asit Sharma caught up with Mart\u00edn de los Santos, the CFO of MercadoLibre, at The Motley Fool's Market Volatility Summit.  To catch full episodes of all The Motley Fool's free podcasts, check out our podcast center.  Should you invest $1,000 in MercadoLibre right now?",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.1027",
+                "source": "Motley Fool",
+                "ticker": "HOOD",
+                "title": "Tariffs, Trump, and Turmoil",
+                "url": "https://finance.yahoo.com/news/tariffs-trump-turmoil-141900272.html"
+            },
+            {
+                "headline": "A number of stocks fell in the afternoon session after Federal Reserve Chair Jerome Powell signaled a cautious stance on future monetary policy decisions during a speech in Chicago, emphasizing that trade tariffs could add upward pressure to inflation in the short term and complicate the Fed's efforts to stabilize the economy. He warned that such trade measures are \"likely to move us further away from our goals,\" referring to the Fed's dual mandate of price stability and maximum employment.",
+                "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.5267",
                 "source": "StockStory",
@@ -240,72 +286,6 @@
                 "url": "https://finance.yahoo.com/news/robinhood-applovin-hims-hers-health-200047839.html"
             },
             {
-                "headline": "The stock market fell sharply anew on Wednesday, with all major indices ending in the red, as investor sentiment was dampened by Federal Chairman Jerome Powell\u2019s bearish comments on the US economy, saying that the US\u2019 tariff policies could drive up inflation and \u201cmove us further away from our goals.\u201d The tech-heavy Nasdaq dropped the [\u2026]",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Insider Monkey",
-                "ticker": "HOOD",
-                "title": "Why Robinhood Markets, Inc. (HOOD) Declined on Wednesday",
-                "url": "https://finance.yahoo.com/news/why-robinhood-markets-inc-hood-033058953.html"
-            },
-            {
-                "headline": "A new digital assets regulatory framework could significantly expand the offerings of Robinhood (NASDAQ:HOOD) and Coinbase (NASDAQ:COIN), enabling both platforms to list a broader range of crypto assets and tokenized equities, according to a new ...",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.5719",
-                "source": "Benzinga",
-                "ticker": "HOOD",
-                "title": "Robinhood, Coinbase Could Benefit From New Digital Asset Regulation, Says Bernstein",
-                "url": "https://finance.yahoo.com/news/robinhood-coinbase-could-benefit-digital-213056038.html"
-            }
-        ],
-        "avgScore": 0.178925,
-        "pctChange": -0.03229727589116904
-    },
-    "4 16 2025": {
-        "importantArticles": [
-            {
-                "headline": "Interactive Brokers said it saw record trading volume as the markets whipsawed in April.  Shares of the online brokerage firm, which serves a range of customers including hedge funds, financial advisors and retail traders, tumbled Wednesday, following its late-Tuesday earnings report and analyst call.  Shares of Robinhood Markets, the online retail trading platform, were also hit hard.",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4588",
-                "source": "The Wall Street Journal",
-                "ticker": "HOOD",
-                "title": "More Cautious Trading Knocks Brokerage Stocks\u2014Heard on the Street",
-                "url": "https://finance.yahoo.com/m/b07b53c2-61ec-3cf9-804c-63bc2cd928b8/more-cautious-trading-knocks.html"
-            },
-            {
-                "headline": "Motley Fool analyst Asit Sharma caught up with Mart\u00edn de los Santos, the CFO of MercadoLibre, at The Motley Fool's Market Volatility Summit.  To catch full episodes of all The Motley Fool's free podcasts, check out our podcast center.  Should you invest $1,000 in MercadoLibre right now?",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.1027",
-                "source": "Motley Fool",
-                "ticker": "HOOD",
-                "title": "Tariffs, Trump, and Turmoil",
-                "url": "https://finance.yahoo.com/news/tariffs-trump-turmoil-141900272.html"
-            },
-            {
-                "headline": "Robinhood Markets, Inc. (HOOD) reachead $44.08 at the closing of the latest trading day, reflecting a -0.14% change compared to its last close.",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "HOOD",
-                "title": "Robinhood Markets, Inc. (HOOD) Stock Moves -0.14%: What You Should Know",
-                "url": "https://finance.yahoo.com/news/robinhood-markets-inc-hood-stock-214516697.html"
-            },
-            {
-                "headline": "Robinhood Markets, Inc. (HOOD) reachead $44.08 at the closing of the latest trading day, reflecting a -0.14% change compared to its last close.",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "HOOD",
-                "title": "Robinhood Markets, Inc. (HOOD) Stock Moves -0.14%: What You Should Know",
-                "url": "https://finance.yahoo.com/news/robinhood-markets-inc-hood-stock-214516697.html"
-            },
-            {
                 "headline": "Motley Fool analyst Asit Sharma caught up with Mart\u00edn de los Santos, the CFO of MercadoLibre, at The Motley Fool's Market Volatility Summit.  To catch full episodes of all The Motley Fool's free podcasts, check out our podcast center.  Should you invest $1,000 in MercadoLibre right now?",
                 "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -326,7 +306,7 @@
                 "url": "https://finance.yahoo.com/m/b07b53c2-61ec-3cf9-804c-63bc2cd928b8/more-cautious-trading-knocks.html"
             }
         ],
-        "avgScore": 0.18716666666666668,
+        "avgScore": 0.151675,
         "pctChange": 0.012788993106618725
     },
     "4 15 2025": {
@@ -342,6 +322,26 @@
                 "url": "https://finance.yahoo.com/news/3-crypto-stocks-buy-dip-131800585.html"
             },
             {
+                "headline": "Robinhood Markets, Inc. (HOOD) reachead $44.08 at the closing of the latest trading day, reflecting a -0.14% change compared to its last close.",
+                "publication_date": "2025-04-15T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "HOOD",
+                "title": "Robinhood Markets, Inc. (HOOD) Stock Moves -0.14%: What You Should Know",
+                "url": "https://finance.yahoo.com/news/robinhood-markets-inc-hood-stock-214516697.html"
+            },
+            {
+                "headline": "Robinhood Markets, Inc. (HOOD) reachead $44.08 at the closing of the latest trading day, reflecting a -0.14% change compared to its last close.",
+                "publication_date": "2025-04-15T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "HOOD",
+                "title": "Robinhood Markets, Inc. (HOOD) Stock Moves -0.14%: What You Should Know",
+                "url": "https://finance.yahoo.com/news/robinhood-markets-inc-hood-stock-214516697.html"
+            },
+            {
                 "headline": "Crypto-centric stocks like IBKR, NVDA and HOOD are poised to benefit once the Bitcoin rally resumes.",
                 "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -352,7 +352,7 @@
                 "url": "https://finance.yahoo.com/news/3-crypto-stocks-buy-dip-131800585.html"
             }
         ],
-        "avgScore": 0.7579,
+        "avgScore": 0.37895,
         "pctChange": -0.07758624867463507
     },
     "4 14 2025": {
@@ -480,16 +480,6 @@
                 "url": "https://finance.yahoo.com/news/robinhood-markets-hood-moves-23-145500572.html"
             },
             {
-                "headline": "We recently published a list of Jim Cramer Talked About These 8 Stocks. In this article, we are going to take a look at where Robinhood Markets, Inc. (NASDAQ:HOOD) stands against other stocks that Jim Cramer discusses. On Friday, Jim Cramer, the host of Mad Money, expressed concern over President Donald Trump\u2019s focus on the [\u2026]",
-                "publication_date": "2025-04-10T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.4939",
-                "source": "Insider Monkey",
-                "ticker": "HOOD",
-                "title": "Robinhood (HOOD) Gets Cautious Nod from Jim Cramer \u2013 Timing is Everything",
-                "url": "https://finance.yahoo.com/news/robinhood-hood-gets-cautious-nod-201217919.html"
-            },
-            {
                 "headline": "Robinhood Markets (HOOD) was a big mover last session on higher-than-average trading volume. The latest trend in earnings estimate revisions might not help the stock continue moving higher in the near term.",
                 "publication_date": "2025-04-10T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -508,9 +498,19 @@
                 "ticker": "HOOD",
                 "title": "Strength Seen in Raymond James Financial (RJF): Can Its 9.2% Jump Turn into More Strength?",
                 "url": "https://finance.yahoo.com/news/strength-seen-raymond-james-financial-153000539.html"
+            },
+            {
+                "headline": "What a time it\u2019s been for Robinhood. In the past six months alone, the company\u2019s stock price has increased by a massive 60%, reaching $40.80 per share. This was partly thanks to its solid quarterly results, and the run-up might have investors contemplating their next move.",
+                "publication_date": "2025-04-10T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7436",
+                "source": "StockStory",
+                "ticker": "HOOD",
+                "title": "Robinhood (HOOD): 3 Reasons We Love This Stock",
+                "url": "https://finance.yahoo.com/news/robinhood-hood-3-reasons-love-090652296.html"
             }
         ],
-        "avgScore": 0.12077500000000002,
+        "avgScore": 0.3256666666666667,
         "pctChange": 0.07825233559581647
     },
     "4 9 2025": {
@@ -546,6 +546,16 @@
                 "url": "https://finance.yahoo.com/news/zacks-industry-outlook-highlights-interactive-094600750.html"
             },
             {
+                "headline": "We recently published a list of Jim Cramer Talked About These 8 Stocks. In this article, we are going to take a look at where Robinhood Markets, Inc. (NASDAQ:HOOD) stands against other stocks that Jim Cramer discusses. On Friday, Jim Cramer, the host of Mad Money, expressed concern over President Donald Trump\u2019s focus on the [\u2026]",
+                "publication_date": "2025-04-09T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.4939",
+                "source": "Insider Monkey",
+                "ticker": "HOOD",
+                "title": "Robinhood (HOOD) Gets Cautious Nod from Jim Cramer \u2013 Timing is Everything",
+                "url": "https://finance.yahoo.com/news/robinhood-hood-gets-cautious-nod-201217919.html"
+            },
+            {
                 "headline": "Key Insights Given the large stake in the stock by institutions, Robinhood Markets' stock price might be vulnerable to...",
                 "publication_date": "2025-04-09T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -564,19 +574,9 @@
                 "ticker": "HOOD",
                 "title": "Zacks Industry Outlook Highlights Interactive Brokers, Robinhood Markets and BGC Group",
                 "url": "https://finance.yahoo.com/news/zacks-industry-outlook-highlights-interactive-094600750.html"
-            },
-            {
-                "headline": "The most talked about and market moving research calls around Wall Street are now in one place. Here are today\u2019s research calls that investors need to know, as compiled by The Fly. Top 5 Upgrades: Melius Research upgraded Dollar General (DG) to Buy from Hold with a $110 price target. While the company had its own \u201cself-inflicted\u201d challenges and competitive challenges over the last 12 months, the firm believes it likely will benefit from a worsening macro environment and a lack of tariff exposure",
-                "publication_date": "2025-04-09T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.2023",
-                "source": "TipRanks",
-                "ticker": "HOOD",
-                "title": "AMD downgraded, Dollar General upgraded: Wall Street\u2019s top analyst calls",
-                "url": "https://finance.yahoo.com/news/amd-downgraded-dollar-general-upgraded-133520598.html"
             }
         ],
-        "avgScore": 0.183475,
+        "avgScore": 0.048,
         "pctChange": -0.04027483534262417
     },
     "4 8 2025": {
@@ -592,16 +592,6 @@
                 "url": "https://finance.yahoo.com/news/3-investment-banks-poised-defy-122200054.html"
             },
             {
-                "headline": "Wealth management and brokerage stocks ended higher Monday after falling earlier in the session, which was characterized by wide swings as investors continued to assess the impact of President Donald Trump\u2019s tariffs.  Shares of  Robinhood Markets  were down 1.6% at noon Monday.  Charles Schwab  and  Morgan Stanley  were off 1% and 0.9%, respectively.",
-                "publication_date": "2025-04-08T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7351",
-                "source": "Barrons.com",
-                "ticker": "HOOD",
-                "title": "Wealth Management Stocks Bounce Back From Earlier Losses Monday",
-                "url": "https://finance.yahoo.com/m/f16a7a79-302d-32d7-b8ed-218438eed789/wealth-management-stocks.html"
-            },
-            {
                 "headline": "Clowns to the left of you and jokers to the right? Given the uncertain outlook, being stuck in the middle is not the worst place for investors...",
                 "publication_date": "2025-04-08T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -612,14 +602,14 @@
                 "url": "https://finance.yahoo.com/news/exchanges-could-haven-wild-markets-131248250.html"
             },
             {
-                "headline": "(Reuters) -Financial technology companies like Robinhood and buy now, pay later provider Affirm have been caught in the whirlwind of President Donald Trump's sweeping tariffs, sending shares sharply downward amid fears about worsening consumer finances.  Global markets have been battered since Trump last week introduced a new baseline 10% U.S. tariff on goods from all economies.  Investors fear that the duties could lead to higher prices, weaker demand and potentially a global recession.",
+                "headline": "March was another month marked by volatility, as US president Donald Trump pressed ahead with his tariff agenda.",
                 "publication_date": "2025-04-08T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.8979",
-                "source": "Reuters",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Yahoo Finance UK",
                 "ticker": "HOOD",
-                "title": "Fintech companies caught up in tariff turmoil",
-                "url": "https://finance.yahoo.com/news/fintech-companies-caught-tariff-turmoil-214852979.html"
+                "title": "The most bought stocks and funds for investors in March",
+                "url": "https://finance.yahoo.com/news/most-bought-stocks-funds-march-050009481.html"
             },
             {
                 "headline": "Morgan Stanley analyst Michael Cyprys says tariff-related market turmoil may prompt retail investors to disengage.",
@@ -640,14 +630,34 @@
                 "ticker": "HOOD",
                 "title": "The most bought stocks and funds for investors in March",
                 "url": "https://finance.yahoo.com/news/most-bought-stocks-funds-march-050009481.html"
+            },
+            {
+                "headline": "Clowns to the left of you and jokers to the right? Given the uncertain outlook, being stuck in the middle is not the worst place for investors...",
+                "publication_date": "2025-04-08T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0243",
+                "source": "Financial Times",
+                "ticker": "HOOD",
+                "title": "Exchanges could provide haven in wild markets",
+                "url": "https://finance.yahoo.com/news/exchanges-could-haven-wild-markets-131248250.html"
             }
         ],
-        "avgScore": 0.06255000000000001,
+        "avgScore": 0.134525,
         "pctChange": 0.23529415704898488
     },
     "4 7 2025": {
         "importantArticles": [
             {
+                "headline": "Wealth management and brokerage stocks ended higher Monday after falling earlier in the session, which was characterized by wide swings as investors continued to assess the impact of President Donald Trump\u2019s tariffs.  Shares of  Robinhood Markets  were down 1.6% at noon Monday.  Charles Schwab  and  Morgan Stanley  were off 1% and 0.9%, respectively.",
+                "publication_date": "2025-04-07T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7351",
+                "source": "Barrons.com",
+                "ticker": "HOOD",
+                "title": "Wealth Management Stocks Bounce Back From Earlier Losses Monday",
+                "url": "https://finance.yahoo.com/m/f16a7a79-302d-32d7-b8ed-218438eed789/wealth-management-stocks.html"
+            },
+            {
                 "headline": "Crypto-related stocks fell sharply after the price of Bitcoin nosedived over the weekend, seemingly no longer resilient to the escalating trade tensions that have battered the stock market over the past week.  Shares of MicroStrategy, the largest corporate holder of Bitcoin, plunged 10% to $267.10 in premarket trading Monday.  The falling price of the world\u2019s largest digital coin significantly dents the paper value of the company\u2019s 528,185 Bitcoins.",
                 "publication_date": "2025-04-07T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -666,6 +676,16 @@
                 "ticker": "HOOD",
                 "title": "Bank stocks, bitcoin falls, Spirit CEO steps down: Market Minute",
                 "url": "https://finance.yahoo.com/video/bank-stocks-bitcoin-falls-spirit-152235178.html"
+            },
+            {
+                "headline": "(Reuters) -Financial technology companies like Robinhood and buy now, pay later provider Affirm have been caught in the whirlwind of President Donald Trump's sweeping tariffs, sending shares sharply downward amid fears about worsening consumer finances.  Global markets have been battered since Trump last week introduced a new baseline 10% U.S. tariff on goods from all economies.  Investors fear that the duties could lead to higher prices, weaker demand and potentially a global recession.",
+                "publication_date": "2025-04-07T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.8979",
+                "source": "Reuters",
+                "ticker": "HOOD",
+                "title": "Fintech companies caught up in tariff turmoil",
+                "url": "https://finance.yahoo.com/news/fintech-companies-caught-tariff-turmoil-214852384.html"
             },
             {
                 "headline": "Madison Mills takes a closer look at the top stories as part of today's Market Minute. Big bank stocks, including JPMorgan (JPM) and Wells Fargo (WFC), are moving higher after an initial fall as analysts recalibrate their outlooks to account for mounting recession fears. Bitcoin (BTC-USD) is selling off as other crypto-related names, including Robinhood (HOOD), Strategy (MSTR), and Coinbase (COIN), are mixed today. Spirit Airlines (SAVEQ) stock is in focus after CEO Ted Christie stepped down. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
@@ -688,7 +708,7 @@
                 "url": "https://finance.yahoo.com/m/058d3eaf-1664-3f95-a76c-c08c9b0120d2/microstrategy-robinhood.html"
             }
         ],
-        "avgScore": -0.24975,
+        "avgScore": -0.16557500000000003,
         "pctChange": -0.035018403948324804
     },
     "4 3 2025": {
@@ -704,16 +724,6 @@
                 "url": "https://finance.yahoo.com/news/now-time-buy-robinhood-stock-082000186.html"
             },
             {
-                "headline": "David Solomon pointed to the country's 'huge, diverse, powerful economic engine' that can withstand shocks better than 50 years ago.",
-                "publication_date": "2025-04-03T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4767",
-                "source": "Fortune",
-                "ticker": "HOOD",
-                "title": "Goldman Sachs CEO says U.S. economy still in \u2018good shape\u2019 despite uncertainty",
-                "url": "https://finance.yahoo.com/news/goldman-sachs-ceo-says-u-202410300.html"
-            },
-            {
                 "headline": "Let's find out which is a safe investment option - COIN or HOOD?",
                 "publication_date": "2025-04-03T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -722,6 +732,16 @@
                 "ticker": "HOOD",
                 "title": "COIN vs. HOOD: Which Crypto Player is a Safe Investment Bet?",
                 "url": "https://finance.yahoo.com/news/coin-vs-hood-crypto-player-190000248.html"
+            },
+            {
+                "headline": "Retail investors' most widely held stock on Robinhood is a company known for its groundbreaking innovation in a number of industries.",
+                "publication_date": "2025-04-03T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4404",
+                "source": "Motley Fool",
+                "ticker": "HOOD",
+                "title": "Nvidia Has Ceded Its Spot as the No. 1 Holding on Robinhood to a Company Expected to Skyrocket 900%, According to a Prominent Money Manager",
+                "url": "https://finance.yahoo.com/news/nvidia-ceded-spot-no-1-074100773.html"
             },
             {
                 "headline": "Brokerage stocks are among the hardest-hit in today\u2019s selloff. Robinhood stock sank more than 10% in Monday morning trading, while shares of Interactive Brokers tumbled 8%. Charles Schwab stock fell 4.",
@@ -754,7 +774,7 @@
                 "url": "https://finance.yahoo.com/news/coin-vs-hood-crypto-player-190000248.html"
             }
         ],
-        "avgScore": 0.45949999999999996,
+        "avgScore": 0.4552,
         "pctChange": -0.0980135955178402
     },
     "4 2 2025": {
@@ -820,7 +840,7 @@
                 "url": "https://finance.yahoo.com/news/robinhood-markets-inc-hood-insiders-095446463.html"
             }
         ],
-        "avgScore": 0.4076,
+        "avgScore": 0.4174714285714286,
         "pctChange": -0.10356143280314285
     },
     "4 1 2025": {
@@ -938,14 +958,14 @@
                 "url": "https://finance.yahoo.com/m/941cfca7-2043-3e9c-8edc-240fe5bee997/week%E2%80%99s-best-lpl-ceo-wants-to.html"
             },
             {
-                "headline": "Robinhood Markets (HOOD) want to be more than a place where people trade crypto and stocks. The financial services company is launching a new suite of services aimed at private wealth management, banking services like checking and savings accounts for its Gold members, and a new AI investment tool called Robinhood Cortex. Robinhood CEO Vlad Tenev sits down with Yahoo Finance Executive Editor Brian Sozzi to discuss the new offerings. To watch more expert insights and analysis on the latest market action, check out more Asking for a Trend here.",
+                "headline": "Shares of financial services company Robinhood (NASDAQ:HOOD) fell 7.3% in the morning session after the Bureau of Economic Analysis reported that the Fed's preferred inflation gauge (the Personal Consumption Expenditures (PCE) price index) revealed core inflation came in hotter than expected, fueling fear of stagflation (an economic situation of slow growth and rising prices). Core inflation excludes food and energy prices.",
                 "publication_date": "2025-03-28T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.7184",
-                "source": "Yahoo Finance Video",
+                "sentimentScore": "0.4019",
+                "source": "StockStory",
                 "ticker": "HOOD",
-                "title": "Robinhood is getting into banking: CEO Vlad Tenev explains why",
-                "url": "https://finance.yahoo.com/video/robinhood-getting-banking-ceo-vlad-205923301.html"
+                "title": "Why Robinhood (HOOD) Stock Is Down Today",
+                "url": "https://finance.yahoo.com/news/why-robinhood-hood-stock-down-171028374.html"
             },
             {
                 "headline": "No surprise here, GameStop (GME) produced another dreadful year of results in 2024. The gaming retailer reported sales last year crashed 27%. Adjusted operating profits tanked 94%. Sales fell by double-digits in every region GameStop operates, most importantly its largest market the US \u2013 sales declined 24.9%. The culprit? Persistent weakness in the gaming software industry as people are back in offices working and games can run more than $60 a pop. But the awful year for GameStop isn\u2019t the headline maker for the company\u2019s latest earnings release day. Nope, it\u2019s the company saying it will now have an investment committee led by controversial chairman and CEO Ryan Cohen that will aim to invest in bitcoin (BTC-USD). The company has $4.775 billion in cash and thousands of store leases coming up for renewal, so it has the funds to dabble in such a bitcoin pivot. The question is this: should GameStop be considered a struggling retailer anymore? Or something else in the mold of Michael Saylor\u2019s bitcoin buying former software play MicroStrategy (MSTR), now known as Strategy? Will Cohen turn it into a crypto trading platform like Robinhood (HOOD) and Coinbase (COIN)? Is he trying to follow Warren Buffett at Berkshire Hathaway (BRK-B) by taking a failed operation and building around it a highly lucrative investment portfolio? Who knows! But no doubt the perception of GameStop has just changed. For full episodes of Opening Bid, listen on your favorite podcast platform or watch on our website. Yahoo Finance's Opening Bid is produced by Langston Sessoms",
@@ -958,27 +978,27 @@
                 "url": "https://finance.yahoo.com/video/gamestop-next-forever-21-microstrategy-140705278.html"
             },
             {
-                "headline": "Robinhood co-founder and CEO Vlad Tenev turns his sights on getting traditional banking customers.",
-                "publication_date": "2025-03-28T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Yahoo Finance",
-                "ticker": "HOOD",
-                "title": "Robinhood is taking on Bank of America, Citigroup, and JPMorgan",
-                "url": "https://finance.yahoo.com/news/robinhood-is-taking-on-bank-of-america-citigroup-and-jpmorgan-213031289.html"
-            },
-            {
-                "headline": "The stock-trading app\u2019s new financial services, set to launch this fall, will also offer AI-powered investment advice and discounted helicopter rides.",
+                "headline": "Shares of financial services company Robinhood (NASDAQ:HOOD) fell 7.3% in the morning session after the Bureau of Economic Analysis reported that the Fed's preferred inflation gauge (the Personal Consumption Expenditures (PCE) price index) revealed core inflation came in hotter than expected, fueling fear of stagflation (an economic situation of slow growth and rising prices). Core inflation excludes food and energy prices.",
                 "publication_date": "2025-03-28T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.0516",
-                "source": "FastCompany",
+                "sentimentScore": "0.4019",
+                "source": "StockStory",
                 "ticker": "HOOD",
-                "title": "Robinhood is getting into banking, and its \u2018luxury\u2019 perks include cash delivered to your doorstep",
-                "url": "https://finance.yahoo.com/news/robinhood-getting-banking-luxury-perks-200000045.html"
+                "title": "Why Robinhood (HOOD) Stock Is Down Today",
+                "url": "https://finance.yahoo.com/news/why-robinhood-hood-stock-down-171028374.html"
+            },
+            {
+                "headline": "Rich Steinmeier doesn\u2019t want to think of  LPL Financial  as just an independent broker-dealer.  Now six months into his stint as LPL\u2019s CEO, Steinmeier says his firm wants to compete with the likes of  Morgan Stanley  Merrill Lynch, and Charles Schwab.  Steinmeier took over the top spot at LPL after the sudden ouster of Dan Arnold, and he describes a smooth transition, though he acknowledges that it has taken some acclimation.",
+                "publication_date": "2025-03-28T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8176",
+                "source": "Barrons.com",
+                "ticker": "HOOD",
+                "title": "Week\u2019s Best: LPL CEO Wants to Take On Morgan, Schwab",
+                "url": "https://finance.yahoo.com/m/941cfca7-2043-3e9c-8edc-240fe5bee997/week%E2%80%99s-best-lpl-ceo-wants-to.html"
             }
         ],
-        "avgScore": 0.2784285714285714,
+        "avgScore": 0.29475,
         "pctChange": -0.007156470662319562
     },
     "3 27 2025": {
@@ -1044,34 +1064,8 @@
                 "url": "https://finance.yahoo.com/news/market-chatter-robinhood-offer-banking-110036891.html"
             }
         ],
-        "avgScore": 0.3784931034482759,
+        "avgScore": 0.36707187500000005,
         "pctChange": -0.04705622710932415
-    },
-    "3 26 2025": {
-        "importantArticles": [
-            {
-                "headline": "New York City-based Kalshi has invited users to \u201cMake $ on March Madness\u201d using its nascent prediction market platform.  Kalshi customers placed $208 million worth of trades during the first two rounds of NCAA tournament games, the company says.  Historically, online sports gambling has been tightly regulated in the 33 states where it\u2019s legal.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.34",
-                "source": "Barrons.com",
-                "ticker": "HOOD",
-                "title": "Kalshi Saw $208 Million in March Madness \u2018Bets.\u2019 But Don\u2019t Call It Gambling.",
-                "url": "https://finance.yahoo.com/m/8545c48a-6a84-3c40-8887-3983f17b2d8e/kalshi-saw-208-million-in.html"
-            },
-            {
-                "headline": "New York City-based Kalshi has invited users to \u201cMake $ on March Madness\u201d using its nascent prediction market platform.  Kalshi customers placed $208 million worth of trades during the first two rounds of NCAA tournament games, the company says.  Historically, online sports gambling has been tightly regulated in the 33 states where it\u2019s legal.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.34",
-                "source": "Barrons.com",
-                "ticker": "HOOD",
-                "title": "Kalshi Saw $208 Million in March Madness \u2018Bets.\u2019 But Don\u2019t Call It Gambling.",
-                "url": "https://finance.yahoo.com/m/8545c48a-6a84-3c40-8887-3983f17b2d8e/kalshi-saw-208-million-in.html"
-            }
-        ],
-        "avgScore": 0.34,
-        "pctChange": -0.016543659095520174
     },
     "3 25 2025": {
         "importantArticles": [
@@ -1086,24 +1080,14 @@
                 "url": "https://finance.yahoo.com/news/robinhood-markets-nasdaqgs-hood-jumps-174936069.html"
             },
             {
-                "headline": "\u2197\ufe0f Tesla (TSLA): Shares rose 12%, their biggest-one day gain since November. Monday's move built on gains made Friday, after Elon Musk urged employees not to sell shares in the EV maker at a meeting broadcast on his social-media platform, X.",
+                "headline": "New York City-based Kalshi has invited users to \u201cMake $ on March Madness\u201d using its nascent prediction market platform.  Kalshi customers placed $208 million worth of trades during the first two rounds of NCAA tournament games, the company says.  Historically, online sports gambling has been tightly regulated in the 33 states where it\u2019s legal.",
                 "publication_date": "2025-03-25T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.7279",
-                "source": "The Wall Street Journal",
+                "sentimentScore": "0.34",
+                "source": "Barrons.com",
                 "ticker": "HOOD",
-                "title": "Stocks to Watch Recap: Tesla, Bayer, AZEK, KB Home",
-                "url": "https://finance.yahoo.com/m/ae259899-694e-3dae-bcc3-4951b0890261/stocks-to-watch-recap-tesla-.html"
-            },
-            {
-                "headline": "Massachusetts regulators are investigating Robinhood over launching a prediction markets hub, a way of letting users bet on its platform.",
-                "publication_date": "2025-03-25T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "CNN Business",
-                "ticker": "HOOD",
-                "title": "Massachusetts regulator subpoenas Robinhood over sports betting",
-                "url": "https://finance.yahoo.com/news/massachusetts-regulator-subpoenas-robinhood-over-224444747.html"
+                "title": "Kalshi Saw $208 Million in March Madness \u2018Bets.\u2019 But Don\u2019t Call It Gambling.",
+                "url": "https://finance.yahoo.com/m/8545c48a-6a84-3c40-8887-3983f17b2d8e/kalshi-saw-208-million-in.html"
             },
             {
                 "headline": "BCS wins dismissal of two U.S. securities fraud lawsuits linked to overissuance of $17.7B debt over regulatory limits as court perceives no intent of fraud.",
@@ -1116,27 +1100,37 @@
                 "url": "https://finance.yahoo.com/news/barclays-prevails-two-lawsuits-over-164100290.html"
             },
             {
-                "headline": "Robinhood launched its in-app prediction markets hub last week, allowing users to bet on the outcome of March Madness matchups.",
+                "headline": "BCS wins dismissal of two U.S. securities fraud lawsuits linked to overissuance of $17.7B debt over regulatory limits as court perceives no intent of fraud.",
                 "publication_date": "2025-03-25T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.34",
-                "source": "CoinDesk",
+                "sentimentScore": "-0.7906",
+                "source": "Zacks",
                 "ticker": "HOOD",
-                "title": "Massachusetts Regulator Probes Robinhood Over Prediction Markets Hub: Reuters",
-                "url": "https://finance.yahoo.com/news/massachusetts-regulator-probes-robinhood-over-210448540.html"
+                "title": "Barclays Prevails in Two Lawsuits Over $17.7B Securities Overissuance",
+                "url": "https://finance.yahoo.com/news/barclays-prevails-two-lawsuits-over-164100290.html"
             },
             {
-                "headline": "(Bloomberg) -- Robinhood Markets Inc.\u2019s prediction-markets business received a subpoena from Massachusetts\u2019 Secretary of State Bill Galvin, who\u2019s looking into links to gambling for its sports-event contracts, especially for younger users.Most Read from BloombergThey Built a Secret Apartment in a Mall. Now the Mall Is Dying.Why Did the Government Declare War on My Adorable Tiny Truck?Chicago Transit Faces \u2018Doomsday Scenario,\u2019 Regional Agency SaysLA Faces $1 Billion Budget Hole, Warns of Thousands",
+                "headline": "New York City-based Kalshi has invited users to \u201cMake $ on March Madness\u201d using its nascent prediction market platform.  Kalshi customers placed $208 million worth of trades during the first two rounds of NCAA tournament games, the company says.  Historically, online sports gambling has been tightly regulated in the 33 states where it\u2019s legal.",
                 "publication_date": "2025-03-25T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.2732",
-                "source": "Bloomberg",
+                "sentiment": "Positive",
+                "sentimentScore": "0.34",
+                "source": "Barrons.com",
                 "ticker": "HOOD",
-                "title": "Robinhood Prediction-Markets Arm Gets Massachusetts Subpoena",
-                "url": "https://finance.yahoo.com/news/robinhood-prediction-markets-arm-gets-193518690.html"
+                "title": "Kalshi Saw $208 Million in March Madness \u2018Bets.\u2019 But Don\u2019t Call It Gambling.",
+                "url": "https://finance.yahoo.com/m/8545c48a-6a84-3c40-8887-3983f17b2d8e/kalshi-saw-208-million-in.html"
+            },
+            {
+                "headline": "Robinhood Markets (NasdaqGS:HOOD) recently saw a 22% price increase, potentially driven by several key developments. The company's addition to the FTSE All-World Index in March 2025 possibly boosted investor sentiment, indicating global market recognition. Additionally, Robinhood's strong Q4 2024 financial results, including a significant revenue increase, likely added to investor confidence. The company's active share repurchase program, repurchasing over 5 million shares, might have also...",
+                "publication_date": "2025-03-25T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9618",
+                "source": "Simply Wall St.",
+                "ticker": "HOOD",
+                "title": "Robinhood Markets (NasdaqGS:HOOD) Jumps 22% As Q4 2024 Financials Impress",
+                "url": "https://finance.yahoo.com/news/robinhood-markets-nasdaqgs-hood-jumps-174936069.html"
             }
         ],
-        "avgScore": 0.047650000000000005,
+        "avgScore": 0.17040000000000002,
         "pctChange": -0.07102807632943582
     },
     "3 24 2025": {
@@ -1162,14 +1156,24 @@
                 "url": "https://finance.yahoo.com/news/exclusive-massachusetts-regulators-probe-robinhood-173829019.html"
             },
             {
-                "headline": "Yahoo Finance anchor Madison Mills examines the top stories kicking off Monday's trading day as part of today's Market Minute. Tech stocks, including Nvidia (NVDA), Advanced Micro Devices (AMD), and Meta Platforms (META), are rising amid the broader market rally on expectations that President Trump may soften his approach to anticipated tariffs. Crypto stocks, such as Coinbase (COIN), Strategy (MSTR), and Robinhood (HOOD), are seeing gains from bitcoin's (BTC=F) climb to the upside. Super Micro Computer (SMCI) is under pressure after Goldman Sachs (GS) downgraded the stock to Sell from Neutral and cut its price target to $32 from $40. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
+                "headline": "\u2197\ufe0f Tesla (TSLA): Shares rose 12%, their biggest-one day gain since November. Monday's move built on gains made Friday, after Elon Musk urged employees not to sell shares in the EV maker at a meeting broadcast on his social-media platform, X.",
                 "publication_date": "2025-03-24T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.7003",
-                "source": "Yahoo Finance Video",
+                "sentimentScore": "0.7279",
+                "source": "The Wall Street Journal",
                 "ticker": "HOOD",
-                "title": "Tech stocks, crypto stocks, Super Micro Computer: Market Minute",
-                "url": "https://finance.yahoo.com/video/tech-stocks-crypto-stocks-super-151346214.html"
+                "title": "Stocks to Watch Recap: Tesla, Bayer, AZEK, KB Home",
+                "url": "https://finance.yahoo.com/m/ae259899-694e-3dae-bcc3-4951b0890261/stocks-to-watch-recap-tesla-.html"
+            },
+            {
+                "headline": "Robinhood launched its in-app prediction markets hub last week, allowing users to bet on the outcome of March Madness matchups.",
+                "publication_date": "2025-03-24T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.34",
+                "source": "CoinDesk",
+                "ticker": "HOOD",
+                "title": "Massachusetts Regulator Probes Robinhood Over Prediction Markets Hub: Reuters",
+                "url": "https://finance.yahoo.com/news/massachusetts-regulator-probes-robinhood-over-210448540.html"
             },
             {
                 "headline": "Here is how Ageas SA (AGESY) and Robinhood Markets, Inc. (HOOD) have performed compared to their sector so far this year.",
@@ -1182,35 +1186,25 @@
                 "url": "https://finance.yahoo.com/news/ageas-agesy-outpaced-other-finance-134010923.html"
             },
             {
-                "headline": "(Updates with Robinhood's response in the third paragraph and recent share movement in the final par",
+                "headline": "Massachusetts regulators are investigating Robinhood over launching a prediction markets hub, a way of letting users bet on its platform.",
                 "publication_date": "2025-03-24T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.296",
-                "source": "MT Newswires",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "CNN Business",
                 "ticker": "HOOD",
-                "title": "Update: Market Chatter: Robinhood Investigated by Massachusetts Regulator Over NCAA Tournament Betting",
-                "url": "https://finance.yahoo.com/news/market-chatter-robinhood-investigated-massachusetts-184832047.html"
-            },
-            {
-                "headline": "We recently published a list of Last Week\u2019s 10 Best-Performing Stocks. In this article, we are going to take a look at where Robinhood Markets Inc. (NASDAQ:HOOD) stands against other last week\u2019s best-performing stocks. Ten firms outperformed Wall Street\u2019s three major indices over the past week, clocking in double-digit gains on the back of a [\u2026]",
-                "publication_date": "2025-03-24T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.34",
-                "source": "Insider Monkey",
-                "ticker": "HOOD",
-                "title": "Why Robinhood Markets Inc. (HOOD) Went Up Last Week?",
-                "url": "https://finance.yahoo.com/news/why-robinhood-markets-inc-hood-001351472.html"
+                "title": "Massachusetts regulator subpoenas Robinhood over sports betting",
+                "url": "https://finance.yahoo.com/news/massachusetts-regulator-subpoenas-robinhood-over-224444747.html"
             }
         ],
-        "avgScore": 0.521942857142857,
+        "avgScore": 0.40415,
         "pctChange": -0.004342412775480931
     },
-    "coef": -0.3026956963802768,
-    "avgCoef": -0.0062793183431705734,
+    "coef": -0.26616541353383455,
+    "avgCoef": 0.009542108906799662,
     "similar": {
-        "HTZ": 0.25982463208607454,
-        "ABEV": 0.2440689111667883,
-        "ENPH": 0.13510880868475877,
-        "F": 0.10652809915529056
+        "ENPH": 0.24812030075187969,
+        "MSTR": 0.22105263157894736,
+        "ABEV": 0.18660652385675291,
+        "F": 0.16541353383458643
     }
 }

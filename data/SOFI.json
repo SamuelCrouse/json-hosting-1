@@ -23,7 +23,7 @@
             }
         ],
         "avgScore": 0.2732,
-        "pctChange": 0.008735402515605508
+        "pctChange": -0.02121465097584205
     },
     "4 22 2025": {
         "importantArticles": [
@@ -89,7 +89,7 @@
             }
         ],
         "avgScore": 0.08403333333333333,
-        "pctChange": 0.07586508496078512
+        "pctChange": 0.04392190465423511
     },
     "4 21 2025": {
         "importantArticles": [
@@ -304,6 +304,16 @@
     "4 11 2025": {
         "importantArticles": [
             {
+                "headline": "GHLD vs. SOFI: Which Stock Is the Better Value Option?",
+                "publication_date": "2025-04-11T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6486",
+                "source": "Zacks",
+                "ticker": "SOFI",
+                "title": "GHLD or SOFI: Which Is the Better Value Stock Right Now?",
+                "url": "https://finance.yahoo.com/news/ghld-sofi-better-value-stock-154008738.html"
+            },
+            {
                 "headline": "The financial sector has been hit hard in the recent stock market downturn, but banking technology company SoFi (NASDAQ: SOFI) has been beaten down more than most of its peers.  As of this writing, SoFi's stock price has fallen by 37% since it reached its peak in January, even after a recent rebound, despite reporting its first full profitable year ever as well as excellent momentum throughout its business.  To be sure, SoFi's earnings report gave investors some concerns about profit margins, and the business can certainly be hurt by the trade war.",
                 "publication_date": "2025-04-11T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -342,9 +352,19 @@
                 "ticker": "SOFI",
                 "title": "Down Nearly 40% in Just 2 Months, Is SoFi a Screaming Buy Right Now?",
                 "url": "https://finance.yahoo.com/news/down-nearly-40-just-2-101100768.html"
+            },
+            {
+                "headline": "GHLD vs. SOFI: Which Stock Is the Better Value Option?",
+                "publication_date": "2025-04-11T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6486",
+                "source": "Zacks",
+                "ticker": "SOFI",
+                "title": "GHLD or SOFI: Which Is the Better Value Stock Right Now?",
+                "url": "https://finance.yahoo.com/news/ghld-sofi-better-value-stock-154008738.html"
             }
         ],
-        "avgScore": 0.1485,
+        "avgScore": 0.3152,
         "pctChange": 0.010270742883795364
     },
     "4 10 2025": {
@@ -406,26 +426,6 @@
                 "url": "https://finance.yahoo.com/news/investors-heavily-search-sofi-technologies-130013429.html"
             },
             {
-                "headline": "Analysts are poised to cut their estimates on Nvidia (NVDA) soon, and the shares could \u201cstart to look interesting\u201d after that occurs, well-known investor Dan Niles said on CNBC recently. Separately, Morgan Stanley slashed its price target on SoFi (SOFI), a lender and fintech name, and Schwab Network explained why SOFI could be vulnerable in [\u2026]",
-                "publication_date": "2025-04-09T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.1779",
-                "source": "Insider Monkey",
-                "ticker": "SOFI",
-                "title": "Nvidia (NVDA) Can \u201cStart to Look Interesting\u201d Soon, Well-Known Investor Says",
-                "url": "https://finance.yahoo.com/news/nvidia-nvda-start-look-interesting-143513758.html"
-            },
-            {
-                "headline": "Analysts are poised to cut their estimates on Nvidia (NVDA) soon, and the shares could \u201cstart to look interesting\u201d after that occurs, well-known investor Dan Niles said on CNBC recently. Separately, Morgan Stanley slashed its price target on SoFi (SOFI), a lender and fintech name, and Schwab Network explained why SOFI could be vulnerable in [\u2026]",
-                "publication_date": "2025-04-09T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.1779",
-                "source": "Insider Monkey",
-                "ticker": "SOFI",
-                "title": "Nvidia (NVDA) Can \u201cStart to Look Interesting\u201d Soon, Well-Known Investor Says",
-                "url": "https://finance.yahoo.com/news/nvidia-nvda-start-look-interesting-143513758.html"
-            },
-            {
                 "headline": "Zacks.com users have recently been watching SoFi Technologies (SOFI) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
                 "publication_date": "2025-04-09T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -436,7 +436,7 @@
                 "url": "https://finance.yahoo.com/news/investors-heavily-search-sofi-technologies-130013429.html"
             }
         ],
-        "avgScore": 0.1494,
+        "avgScore": 0.4767,
         "pctChange": -0.07638277957288286
     },
     "4 8 2025": {
@@ -452,6 +452,16 @@
                 "url": "https://finance.yahoo.com/news/galileo-deposit-sweep-product-amplifies-120000741.html"
             },
             {
+                "headline": "Analysts are poised to cut their estimates on Nvidia (NVDA) soon, and the shares could \u201cstart to look interesting\u201d after that occurs, well-known investor Dan Niles said on CNBC recently. Separately, Morgan Stanley slashed its price target on SoFi (SOFI), a lender and fintech name, and Schwab Network explained why SOFI could be vulnerable in [\u2026]",
+                "publication_date": "2025-04-08T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.1779",
+                "source": "Insider Monkey",
+                "ticker": "SOFI",
+                "title": "Nvidia (NVDA) Can \u201cStart to Look Interesting\u201d Soon, Well-Known Investor Says",
+                "url": "https://finance.yahoo.com/news/nvidia-nvda-start-look-interesting-143513758.html"
+            },
+            {
                 "headline": "(Reuters) -Financial technology companies like Robinhood and buy now, pay later provider Affirm have been caught in the whirlwind of President Donald Trump's sweeping tariffs, sending shares sharply downward amid fears about worsening consumer finances.  Global markets have been battered since Trump last week introduced a new baseline 10% U.S. tariff on goods from all economies.  Investors fear that the duties could lead to higher prices, weaker demand and potentially a global recession.",
                 "publication_date": "2025-04-08T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -470,6 +480,16 @@
                 "ticker": "SOFI",
                 "title": "Fintech companies caught up in tariff turmoil",
                 "url": "https://finance.yahoo.com/news/fintech-companies-caught-tariff-turmoil-214852384.html"
+            },
+            {
+                "headline": "Analysts are poised to cut their estimates on Nvidia (NVDA) soon, and the shares could \u201cstart to look interesting\u201d after that occurs, well-known investor Dan Niles said on CNBC recently. Separately, Morgan Stanley slashed its price target on SoFi (SOFI), a lender and fintech name, and Schwab Network explained why SOFI could be vulnerable in [\u2026]",
+                "publication_date": "2025-04-08T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.1779",
+                "source": "Insider Monkey",
+                "ticker": "SOFI",
+                "title": "Nvidia (NVDA) Can \u201cStart to Look Interesting\u201d Soon, Well-Known Investor Says",
+                "url": "https://finance.yahoo.com/news/nvidia-nvda-start-look-interesting-143513758.html"
             },
             {
                 "headline": "SALT LAKE CITY, April 08, 2025--Galileo launches Deposit Sweep, helping fintechs boost customer interest earnings and FDIC coverage.",
@@ -482,7 +502,7 @@
                 "url": "https://finance.yahoo.com/news/galileo-deposit-sweep-product-amplifies-120000741.html"
             }
         ],
-        "avgScore": -0.05670000000000003,
+        "avgScore": -0.0971,
         "pctChange": 0.1989474045602899
     },
     "4 7 2025": {
@@ -714,16 +734,6 @@
                 "url": "https://finance.yahoo.com/news/buy-sofi-while-below-15-102200452.html"
             },
             {
-                "headline": "SYF vs. SOFI: Which Stock Is the Better Value Option?",
-                "publication_date": "2025-03-27T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6486",
-                "source": "Zacks",
-                "ticker": "SOFI",
-                "title": "SYF vs. SOFI: Which Stock Is the Better Value Option?",
-                "url": "https://finance.yahoo.com/news/syf-vs-sofi-stock-better-154010429.html"
-            },
-            {
                 "headline": "We recently published a list of the 12 Best AI Stocks to Invest in According to Reddit. In this article, we are going to take a look at where SoFi Technologies, Inc. (NASDAQ:SOFI) stands against other AI stocks to invest in according to Reddit. Jensen Huang had previously estimated that practical quantum computing would be [\u2026]",
                 "publication_date": "2025-03-27T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -744,14 +754,14 @@
                 "url": "https://finance.yahoo.com/news/know-beyond-why-sofi-technologies-130014069.html"
             },
             {
-                "headline": "SAN FRANCISCO, March 26, 2025--SoFi Technologies, Inc. (NASDAQ: SOFI), has announced a multi-year partnership as the official bank and first presenting sponsor of the Country Music Association\u2019s CMA Fest, the world\u2019s largest and longest-running country music festival. This marks SoFi\u2019s first music partnership, embracing the genre\u2019s surging popularity.1",
+                "headline": "Zacks.com users have recently been watching SoFi Technologies (SOFI) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
                 "publication_date": "2025-03-27T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.4939",
-                "source": "Business Wire",
+                "sentimentScore": "0.4767",
+                "source": "Zacks",
                 "ticker": "SOFI",
-                "title": "SoFi Named Presenting Partner of the Country Music Association\u2019s CMA Fest",
-                "url": "https://finance.yahoo.com/news/sofi-named-presenting-partner-country-154100267.html"
+                "title": "Here is What to Know Beyond Why SoFi Technologies, Inc. (SOFI) is a Trending Stock",
+                "url": "https://finance.yahoo.com/news/know-beyond-why-sofi-technologies-130014069.html"
             },
             {
                 "headline": "We recently published a list of the 12 Best AI Stocks to Invest in According to Reddit. In this article, we are going to take a look at where SoFi Technologies, Inc. (NASDAQ:SOFI) stands against other AI stocks to invest in according to Reddit. Jensen Huang had previously estimated that practical quantum computing would be [\u2026]",
@@ -762,9 +772,19 @@
                 "ticker": "SOFI",
                 "title": "Is SoFi Technologies (SOFI) the Best AI Stock to Invest in According to Reddit?",
                 "url": "https://finance.yahoo.com/news/sofi-technologies-sofi-best-ai-132916856.html"
+            },
+            {
+                "headline": "Despite the pullback in the stock price, the recent news to come out of SoFi has generally been strong.  Most of the concern has to do with weaker-than-expected guidance, but it's important to know that SoFi entered 2025 with excellent momentum.  In 2024, SoFi's membership base grew by 34% to 10.1 million, about three times as many members as it had at the end of 2021.",
+                "publication_date": "2025-03-27T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8555",
+                "source": "Motley Fool",
+                "ticker": "SOFI",
+                "title": "Should You Buy SoFi While It's Below $15?",
+                "url": "https://finance.yahoo.com/news/buy-sofi-while-below-15-102200452.html"
             }
         ],
-        "avgScore": 0.62232,
+        "avgScore": 0.6563666666666667,
         "pctChange": -0.02868847813666419
     },
     "3 26 2025": {
@@ -780,6 +800,46 @@
                 "url": "https://finance.yahoo.com/news/sofi-technologies-nasdaqgs-sofi-secures-174653796.html"
             },
             {
+                "headline": "SYF vs. SOFI: Which Stock Is the Better Value Option?",
+                "publication_date": "2025-03-26T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6486",
+                "source": "Zacks",
+                "ticker": "SOFI",
+                "title": "SYF vs. SOFI: Which Stock Is the Better Value Option?",
+                "url": "https://finance.yahoo.com/news/syf-vs-sofi-stock-better-154010429.html"
+            },
+            {
+                "headline": "SAN FRANCISCO, March 26, 2025--SoFi Technologies, Inc. (NASDAQ: SOFI), has announced a multi-year partnership as the official bank and first presenting sponsor of the Country Music Association\u2019s CMA Fest, the world\u2019s largest and longest-running country music festival. This marks SoFi\u2019s first music partnership, embracing the genre\u2019s surging popularity.1",
+                "publication_date": "2025-03-26T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4939",
+                "source": "Business Wire",
+                "ticker": "SOFI",
+                "title": "SoFi Named Presenting Partner of the Country Music Association\u2019s CMA Fest",
+                "url": "https://finance.yahoo.com/news/sofi-named-presenting-partner-country-154100267.html"
+            },
+            {
+                "headline": "SAN FRANCISCO, March 26, 2025--SoFi Technologies, Inc. (NASDAQ: SOFI), has announced a multi-year partnership as the official bank and first presenting sponsor of the Country Music Association\u2019s CMA Fest, the world\u2019s largest and longest-running country music festival. This marks SoFi\u2019s first music partnership, embracing the genre\u2019s surging popularity.1",
+                "publication_date": "2025-03-26T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4939",
+                "source": "Business Wire",
+                "ticker": "SOFI",
+                "title": "SoFi Named Presenting Partner of the Country Music Association\u2019s CMA Fest",
+                "url": "https://finance.yahoo.com/news/sofi-named-presenting-partner-country-154100267.html"
+            },
+            {
+                "headline": "SYF vs. SOFI: Which Stock Is the Better Value Option?",
+                "publication_date": "2025-03-26T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6486",
+                "source": "Zacks",
+                "ticker": "SOFI",
+                "title": "SYF vs. SOFI: Which Stock Is the Better Value Option?",
+                "url": "https://finance.yahoo.com/news/syf-vs-sofi-stock-better-154010429.html"
+            },
+            {
                 "headline": "SoFi Technologies (NasdaqGS:SOFI) has recently secured a significant $5 billion agreement with Blue Owl Capital to bolster its Loan Platform Business, focusing on personal loans. This development aligns with SoFi's efforts to diversify its revenue streams and likely supported the 11% increase in the company's share price over the past week. Meanwhile, as the broader market climbed 2% over the same period, driven by gains in major indices like the S&P 500 and Nasdaq, SoFi's performance...",
                 "publication_date": "2025-03-26T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -790,7 +850,7 @@
                 "url": "https://finance.yahoo.com/news/sofi-technologies-nasdaqgs-sofi-secures-174653796.html"
             }
         ],
-        "avgScore": 0.9468,
+        "avgScore": 0.6964333333333332,
         "pctChange": -0.066564644672762
     },
     "3 25 2025": {
@@ -865,12 +925,12 @@
         "avgScore": 0.78145,
         "pctChange": -0.013119555515487024
     },
-    "coef": 0.07792207792207792,
-    "avgCoef": -0.03239163135995121,
+    "coef": 0.15194805194805194,
+    "avgCoef": -0.0254043169115956,
     "similar": {
-        "NVDA": 0.3116883116883117,
-        "TSLA": 0.3064935064935065,
-        "AMZN": 0.2792207792207792,
-        "NU": 0.24675324675324672
+        "EQT": 0.3896103896103896,
+        "APH": 0.36623376623376624,
+        "AVGO": 0.33896103896103896,
+        "NVDA": 0.3363636363636363
     }
 }

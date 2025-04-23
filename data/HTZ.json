@@ -23,21 +23,11 @@
             }
         ],
         "avgScore": -0.6908,
-        "pctChange": -0.016552563239165617
+        "pctChange": -0.03253422830657711
     },
     "4 22 2025": {
         "importantArticles": [
             {
-                "headline": "Why did Hertz's stock surged on Thursday, and is this the good time to buy it?",
-                "publication_date": "2025-04-22T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4404",
-                "source": "Zacks",
-                "ticker": "HTZ",
-                "title": "Under $10 Stock Hertz Global Sees 43.9% Surge: Time to Buy?",
-                "url": "https://finance.yahoo.com/news/under-10-stock-hertz-global-190000150.html"
-            },
-            {
                 "headline": "Celsius and Harley-Davidson are part of the Zacks Bull and Bear of the Day article.",
                 "publication_date": "2025-04-22T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -48,26 +38,6 @@
                 "url": "https://finance.yahoo.com/news/celsius-harley-davidson-highlighted-zacks-113500793.html"
             },
             {
-                "headline": "Josh Lipton examines some of the top stories of the trading day on Yahoo Finance's Market Minute. Barclays downgrades its US dollar (DX=F) forecast as the currency hits a three-year low. Netflix (NFLX) stock rises despite the broader sell-off, extending gains fueled by the streaming giant's earnings beat. Hertz (HTZ) stock slides, losing ground from last week when news that Bill Ackman's Pershing Square Capital Management disclosed a large stake in the company, which drove the stock higher. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
-                "publication_date": "2025-04-22T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.128",
-                "source": "Yahoo Finance Video",
-                "ticker": "HTZ",
-                "title": "US dollar forecast, Netflix stock rises, Hertz stock tumbles",
-                "url": "https://finance.yahoo.com/video/us-dollar-forecast-netflix-stock-171515250.html"
-            },
-            {
-                "headline": "Josh Lipton examines some of the top stories of the trading day on Yahoo Finance's Market Minute. Barclays downgrades its US dollar (DX=F) forecast as the currency hits a three-year low. Netflix (NFLX) stock rises despite the broader sell-off, extending gains fueled by the streaming giant's earnings beat. Hertz (HTZ) stock slides, losing ground from last week when news that Bill Ackman's Pershing Square Capital Management disclosed a large stake in the company, which drove the stock higher. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
-                "publication_date": "2025-04-22T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.128",
-                "source": "Yahoo Finance Video",
-                "ticker": "HTZ",
-                "title": "US dollar forecast, Netflix stock rises, Hertz stock tumbles",
-                "url": "https://finance.yahoo.com/video/us-dollar-forecast-netflix-stock-171515250.html"
-            },
-            {
                 "headline": "Celsius and Harley-Davidson are part of the Zacks Bull and Bear of the Day article.",
                 "publication_date": "2025-04-22T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -76,20 +46,10 @@
                 "ticker": "HTZ",
                 "title": "Celsius and Harley-Davidson have been highlighted as Zacks Bull and Bear of the Day",
                 "url": "https://finance.yahoo.com/news/celsius-harley-davidson-highlighted-zacks-113500793.html"
-            },
-            {
-                "headline": "Why did Hertz's stock surged on Thursday, and is this the good time to buy it?",
-                "publication_date": "2025-04-22T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4404",
-                "source": "Zacks",
-                "ticker": "HTZ",
-                "title": "Under $10 Stock Hertz Global Sees 43.9% Surge: Time to Buy?",
-                "url": "https://finance.yahoo.com/news/under-10-stock-hertz-global-190000150.html"
             }
         ],
-        "avgScore": 0.10413333333333334,
-        "pctChange": 0.011150153550511379
+        "avgScore": 0.0,
+        "pctChange": -0.005281698811757684
     },
     "4 21 2025": {
         "importantArticles": [
@@ -124,6 +84,26 @@
                 "url": "https://finance.yahoo.com/news/billionaire-bill-ackman-just-bought-083500815.html"
             },
             {
+                "headline": "Josh Lipton examines some of the top stories of the trading day on Yahoo Finance's Market Minute. Barclays downgrades its US dollar (DX=F) forecast as the currency hits a three-year low. Netflix (NFLX) stock rises despite the broader sell-off, extending gains fueled by the streaming giant's earnings beat. Hertz (HTZ) stock slides, losing ground from last week when news that Bill Ackman's Pershing Square Capital Management disclosed a large stake in the company, which drove the stock higher. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
+                "publication_date": "2025-04-21T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.128",
+                "source": "Yahoo Finance Video",
+                "ticker": "HTZ",
+                "title": "US dollar forecast, Netflix stock rises, Hertz stock tumbles",
+                "url": "https://finance.yahoo.com/video/us-dollar-forecast-netflix-stock-171515250.html"
+            },
+            {
+                "headline": "Why did Hertz's stock surged on Thursday, and is this the good time to buy it?",
+                "publication_date": "2025-04-21T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4404",
+                "source": "Zacks",
+                "ticker": "HTZ",
+                "title": "Under $10 Stock Hertz Global Sees 43.9% Surge: Time to Buy?",
+                "url": "https://finance.yahoo.com/news/under-10-stock-hertz-global-190000150.html"
+            },
+            {
                 "headline": "Billionaire Bill Ackman is one of the most closely followed investors.  The head of Pershing Square Capital Management is known for betting on beaten-down big-brand stocks like Chipotle and Nike, and he's never hesitant to share his opinion, whether it's on the markets, politics, or another issue.  Hertz shares jumped 126% in a two-day span as of trading on Thursday afternoon as his purchase of a nearly 20% stake in the longtime laggard breathed new life into the stock.",
                 "publication_date": "2025-04-21T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -132,29 +112,9 @@
                 "ticker": "HTZ",
                 "title": "Billionaire Bill Ackman Just Bought Hertz. Is the Car Rental Stock a Buy?",
                 "url": "https://finance.yahoo.com/news/billionaire-bill-ackman-just-bought-083500815.html"
-            },
-            {
-                "headline": "Hertz shares fell Monday, erasing some of last week's gains after billionaire Bill Ackman\u2019s Pershing Square disclosed a large stake in the company.",
-                "publication_date": "2025-04-21T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.5574",
-                "source": "Investopedia",
-                "ticker": "HTZ",
-                "title": "Hertz Stock Drops Monday, Giving Back Some Gains After Ackman-Fueled Rally",
-                "url": "https://finance.yahoo.com/news/hertz-stock-drops-monday-giving-155302406.html"
-            },
-            {
-                "headline": "Catalysts host Madison Mills and Threadneedle Ventures founder Ann Berry go over some of Monday's top trending tickers. Nvidia (NVDA) is in focus as its CEO, Jensen Huang, met with Japan's prime minister to discuss energy needs for artificial intelligence (AI). Bill Ackman's Pershing Square Capital Management took a 20% stake in Hertz (HTZ), citing optimism in the company's turnaround strategy. Strategy (MSTR) received a Buy rating from CTBC Securities due to its (BTC-USD) bitcoin acquisition strategy, purchasing $555 million in bitcoin in the past week. To watch more expert insights and analysis on the latest market action, check out more Catalysts&nbsp;here.",
-                "publication_date": "2025-04-21T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8934",
-                "source": "Yahoo Finance Video",
-                "ticker": "HTZ",
-                "title": "Nvidia & Japan, Hertz, Strategy & bitcoin: Trending Tickers",
-                "url": "https://finance.yahoo.com/video/nvidia-japan-hertz-strategy-bitcoin-150730103.html"
             }
         ],
-        "avgScore": 0.6670000000000001,
+        "avgScore": 0.46268000000000004,
         "pctChange": 0.08812267442922653
     },
     "4 17 2025": {
@@ -180,14 +140,14 @@
                 "url": "https://finance.yahoo.com/m/74bd5b31-ded7-3d08-b3a0-9b339274298b/hertz-shares-jump-56-as.html"
             },
             {
-                "headline": "Investors appear excited that Pershing may see something they don\u2019t, or that it will make changes at the company to unlock value.  Pershing declined to comment on its 12.7 million share stake.  Hertz didn\u2019t immediately respond to a request for comment.",
+                "headline": "(Bloomberg) -- Hertz Global Holdings Inc. shares had their biggest gain ever after CNBC reported that Pershing Square Capital Management had amassed a position of almost 20% in the beleaguered car rental company.Most Read from BloombergTrump Signs Executive Orders on Federal Purchasing, Office SpaceHow Did This Suburb Figure Out Mass Transit?DOGE Places Entire Staff of Federal Homelessness Agency on LeaveWhy the Best Bike Lanes Always Get BlamedLA County Floats Leaner Budget Burdened by Fire and",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.7184",
-                "source": "Barrons.com",
+                "sentimentScore": "0.6908",
+                "source": "Bloomberg",
                 "ticker": "HTZ",
-                "title": "Hertz Stock Soars 56% on Surprise Purchase by Activist Investor",
-                "url": "https://finance.yahoo.com/m/95b6f5c6-6a83-380e-9e94-183d8873c168/hertz-stock-soars-56-on.html"
+                "title": "Hertz Surges After Ackman\u2019s Pershing Square Discloses Stake",
+                "url": "https://finance.yahoo.com/news/hertz-surges-ackman-pershing-square-202632370.html"
             },
             {
                 "headline": "The major averages were broadly lower near noon, with the Nasdaq down over 300 points amid escalating trade tensions and new export restrictions.\u200b This follows the U.S. government\u2019s decision to tighten export controls on advanced AI-related computer chips.\u200b The recent U.S. actions have intensified concerns over a potential trade war. President Donald Trump has announced a new investigation into critical mineral imports and imposed steep tariffs on Chinese imports. In retaliation, China has incre",
@@ -220,7 +180,7 @@
                 "url": "https://finance.yahoo.com/news/hertz-stock-soars-billionaire-bill-213138302.html"
             }
         ],
-        "avgScore": 0.28890909090909084,
+        "avgScore": 0.22753636363636362,
         "pctChange": -0.04975726441755381
     },
     "4 16 2025": {
@@ -246,24 +206,34 @@
                 "url": "https://finance.yahoo.com/video/united-airlines-abbott-labs-earnings-161237166.html"
             },
             {
-                "headline": "The rental car company says hackers stole personal data in a supply chain attack on its file-transfer vendor Cleo.",
+                "headline": "Investors appear excited that Pershing may see something they don\u2019t, or that it will make changes at the company to unlock value.  Pershing declined to comment on its 12.7 million share stake.  Hertz didn\u2019t immediately respond to a request for comment.",
                 "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.4767",
-                "source": "FastCompany",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7184",
+                "source": "Barrons.com",
                 "ticker": "HTZ",
-                "title": "Hertz says hackers stole customer data in vendor breach",
-                "url": "https://finance.yahoo.com/news/hertz-says-hackers-stole-customer-174522544.html"
+                "title": "Hertz Stock Soars 56% on Surprise Purchase by Activist Investor",
+                "url": "https://finance.yahoo.com/m/95b6f5c6-6a83-380e-9e94-183d8873c168/hertz-stock-soars-56-on.html"
             },
             {
-                "headline": "The rental car company says hackers stole personal data in a supply chain attack on its file-transfer vendor Cleo.",
+                "headline": "Josh Lipton, joined by Defiance ETFs CEO and chief investment officer Sylvia Jablonski, examines some of the trading day's trending tickers. Hertz (HTZ) shares pop after Bill Ackman-led Pershing Square Capital Management disclosed a stake of 12.7 million shares of the rental car company's stock. Abbott Laboratories (ABT) gained after the medical tech company reported stronger-than-expected earnings. Interactive Brokers (IBKR) tumbles after earnings results missed analyst estimates. To watch more expert insights and analysis on the latest market action, check out more Market Domination here.",
                 "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.4767",
-                "source": "FastCompany",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5141",
+                "source": "Yahoo Finance Video",
                 "ticker": "HTZ",
-                "title": "Hertz says hackers stole customer data in vendor breach",
-                "url": "https://finance.yahoo.com/news/hertz-says-hackers-stole-customer-174522544.html"
+                "title": "Hertz, Abbott Laboratories, and Interactive Brokers: Trending tickers",
+                "url": "https://finance.yahoo.com/video/hertz-abbott-laboratories-interactive-brokers-201009686.html"
+            },
+            {
+                "headline": "Investors appear excited that Pershing may see something they don\u2019t, or that it will make changes at the company to unlock value.  Pershing declined to comment on its 12.7 million share stake.  Hertz didn\u2019t immediately respond to a request for comment.",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7184",
+                "source": "Barrons.com",
+                "ticker": "HTZ",
+                "title": "Hertz Stock Soars 56% on Surprise Purchase by Activist Investor",
+                "url": "https://finance.yahoo.com/m/95b6f5c6-6a83-380e-9e94-183d8873c168/hertz-stock-soars-56-on.html"
             },
             {
                 "headline": "Brad Smith outlines some of the top stories on Wall Street in just 60 seconds on today's Market Minute. United Airlines (UAL) shares rise after reporting earnings results and providing investors with dual outlooks depending on the health of the US economy. Abbott Laboratories (ABT) stock rises after the medical supply company reported better-than-expected earnings results. Hertz (HTZ) shares surge after Bill Ackman-led Pershing Square Capital Management disclosed a large stake in the rental car company. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
@@ -274,19 +244,9 @@
                 "ticker": "HTZ",
                 "title": "United Airlines & Abbott Labs earnings, Ackman's Hertz stake",
                 "url": "https://finance.yahoo.com/video/united-airlines-abbott-labs-earnings-161237166.html"
-            },
-            {
-                "headline": "Shares of global car rental company Hertz (NASDAQ:HTZ) jumped 28.6% in the pre-market session after Pershing Square Holdings, led by activist investor Bill Ackman, disclosed a $46.5 million stake in the company. This translated to more than 12.7 million shares. This development is noteworthy given that activist investors often bring about significant changes in targeted companies, focusing on improving asset monetization, expense efficiency, and stock buybacks.",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.9001",
-                "source": "StockStory",
-                "ticker": "HTZ",
-                "title": "Hertz (HTZ) Shares Skyrocket, What You Need To Know",
-                "url": "https://finance.yahoo.com/news/hertz-htz-shares-skyrocket-know-155829233.html"
             }
         ],
-        "avgScore": 0.4046666666666667,
+        "avgScore": 0.7308,
         "pctChange": 0.4430822620085717
     },
     "4 15 2025": {
@@ -312,14 +272,14 @@
                 "url": "https://finance.yahoo.com/news/hertz-global-holdings-inc-announce-120000353.html"
             },
             {
-                "headline": "The company is the latest organization to investigate or disclose an incident linked to a monthslong attack spree.",
+                "headline": "The rental car company says hackers stole personal data in a supply chain attack on its file-transfer vendor Cleo.",
                 "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.4767",
-                "source": "Cybersecurity Dive",
+                "source": "FastCompany",
                 "ticker": "HTZ",
-                "title": "Hertz says personal data breached in connection with Cleo file-transfer flaws",
-                "url": "https://finance.yahoo.com/news/hertz-says-personal-data-breached-111300938.html"
+                "title": "Hertz says hackers stole customer data in vendor breach",
+                "url": "https://finance.yahoo.com/news/hertz-says-hackers-stole-customer-174522544.html"
             },
             {
                 "headline": "The company is the latest organization to investigate or disclose an incident linked to a monthslong attack spree.",
@@ -330,6 +290,16 @@
                 "ticker": "HTZ",
                 "title": "Hertz says personal data breached in connection with Cleo file-transfer flaws",
                 "url": "https://finance.yahoo.com/news/hertz-says-personal-data-breached-111300938.html"
+            },
+            {
+                "headline": "The rental car company says hackers stole personal data in a supply chain attack on its file-transfer vendor Cleo.",
+                "publication_date": "2025-04-15T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.4767",
+                "source": "FastCompany",
+                "ticker": "HTZ",
+                "title": "Hertz says hackers stole customer data in vendor breach",
+                "url": "https://finance.yahoo.com/news/hertz-says-hackers-stole-customer-174522544.html"
             },
             {
                 "headline": "Hertz Global Holdings, Inc. (NASDAQ: HTZ) (the \"Company\") announced today that it plans to report its first quarter 2025 financial results after the market closes on Monday, May 12, 2025 and will host its accompanying webcast and conference call to discuss those results on Tuesday, May 13, 2025 at 9:00 a.m. ET.",
@@ -340,19 +310,9 @@
                 "ticker": "HTZ",
                 "title": "Hertz Global Holdings, Inc. to Announce First Quarter 2025 Financial Results on May 12, 2025",
                 "url": "https://finance.yahoo.com/news/hertz-global-holdings-inc-announce-120000353.html"
-            },
-            {
-                "headline": "Hertz said the incident may have resulted in personal data being impacted.  The company said Cleo Communications, a vendor that provides file transfer services, experienced an incident where hackers exploited zero-day vulnerabilities within its platform in October and December.  The affected data could include customers' contact, credit card and driver's license information, Hertz said in a notification on its website, adding that a small number of those may have had their social security or passport information impacted as well.",
-                "publication_date": "2025-04-15T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.296",
-                "source": "Reuters",
-                "ticker": "HTZ",
-                "title": "Hertz says hackers stole its customer data",
-                "url": "https://finance.yahoo.com/news/hertz-says-hackers-stole-customer-225405957.html"
             }
         ],
-        "avgScore": -0.06023333333333334,
+        "avgScore": -0.16435,
         "pctChange": 0.5643835312207488
     },
     "4 14 2025": {
@@ -453,11 +413,11 @@
         "avgScore": 0.29705,
         "pctChange": -0.07360405016278422
     },
-    "3 28 2025": {
+    "3 27 2025": {
         "importantArticles": [
             {
                 "headline": "Geopolitical news is providing a lift to the auto rental sector.  Shares of Avis Budget Group (NASDAQ: CAR) and Hertz Global Holdings (NASDAQ: HTZ) each traded up about 20% as of noon ET as investors bet new tariffs on imported vehicles will have a positive impact on their businesses.  A move by the White House to place 25% tariffs on imported vehicles is likely to create a range of winners and losers among automakers and related businesses.",
-                "publication_date": "2025-03-28T00:00:00.000Z",
+                "publication_date": "2025-03-27T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.765",
                 "source": "Motley Fool",
@@ -467,7 +427,7 @@
             },
             {
                 "headline": "Here are some of the stocks on the move midday on Thursday, March 27. Avis Budget Group (CAR) and Hertz (HTZ) Global are seeing their shares jump on President Trump's auto tariffs. Northrop Grumman (NOC) was upgraded to Outperform at RBC Capital. Petco Health and Wellness (WOOF) shares are soaring after issuing better-than-expected guidance. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
-                "publication_date": "2025-03-28T00:00:00.000Z",
+                "publication_date": "2025-03-27T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.743",
                 "source": "Yahoo Finance Video",
@@ -477,7 +437,7 @@
             },
             {
                 "headline": "Shares of global car rental company Hertz (NASDAQ:HTZ) jumped 24.2% in the morning session after shares of car rental companies rose as the 25% tariffs announced by President Trump on all vehicles imported into the US suggested new vehicles might be more expensive.",
-                "publication_date": "2025-03-28T00:00:00.000Z",
+                "publication_date": "2025-03-27T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.5267",
                 "source": "StockStory",
@@ -487,7 +447,7 @@
             },
             {
                 "headline": "(Bloomberg) -- US rental car company stocks soared on Thursday as sweeping new auto tariffs are expected to lead to greater demand for used cars, in turn raising the value of these companies\u2019 fleet of vehicles.Most Read from BloombergWhy Did the Government Declare War on My Adorable Tiny Truck?Gold-Rush Fever Returns to Historic New Zealand Mining TownHow SUVs Are Making Traffic WorseTrump Slashed International Aid. Geneva Is Feeling the Impact.These US Bridges Face High Risk of Catastrophic Shi",
-                "publication_date": "2025-03-28T00:00:00.000Z",
+                "publication_date": "2025-03-27T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.4588",
                 "source": "Bloomberg",
@@ -497,7 +457,7 @@
             },
             {
                 "headline": "It is hard to pin down how much President Trump\u2019s 25% tariff on automotive imports will push up prices of new models, because of unknowns regarding implementation, retaliation by trade partners and how much the different manufacturers will be able to shift sourcing and production.",
-                "publication_date": "2025-03-28T00:00:00.000Z",
+                "publication_date": "2025-03-27T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.1027",
                 "source": "The Wall Street Journal",
@@ -507,7 +467,7 @@
             },
             {
                 "headline": "The rental car giants are having a rough year in terms of share price, but they unexpectedly hit the gas following the new levy on vehicle imports.",
-                "publication_date": "2025-03-28T00:00:00.000Z",
+                "publication_date": "2025-03-27T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.1531",
                 "source": "FastCompany",
@@ -517,14 +477,14 @@
             }
         ],
         "avgScore": 0.27105,
-        "pctChange": -0.05288456688971031
+        "pctChange": -0.016548503864240966
     },
-    "coef": 0.3696969696969697,
-    "avgCoef": -0.028715919285314175,
+    "coef": 0.4545454545454545,
+    "avgCoef": 0.005736570247905816,
     "similar": {
-        "AMCR": 0.6484848484848483,
-        "NKE": 0.6484848484848483,
-        "ENPH": 0.6242424242424242,
-        "BABA": 0.5757575757575757
+        "KDP": 0.8303030303030302,
+        "AMCR": 0.6242424242424242,
+        "ENPH": 0.6,
+        "WMT": 0.5757575757575757
     }
 }

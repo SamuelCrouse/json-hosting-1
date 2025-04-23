@@ -23,7 +23,7 @@
             }
         ],
         "avgScore": 0.0,
-        "pctChange": 0.007776572737306139
+        "pctChange": -0.0027385182680591262
     },
     "4 22 2025": {
         "importantArticles": [
@@ -89,7 +89,7 @@
             }
         ],
         "avgScore": 0.021300000000000013,
-        "pctChange": 0.04004141784281564
+        "pctChange": 0.029189677036555586
     },
     "4 21 2025": {
         "importantArticles": [
@@ -150,6 +150,16 @@
                 "url": "https://finance.yahoo.com/news/fliggy-launches-ai-travel-assistant-064500922.html"
             },
             {
+                "headline": "Catch up on the top industries and stocks that were impacted, or were predicted to be impacted, by the comments, actions and policies of President Donald Trump with this daily recap compiled by The Fly: RESTRICTIONS: In a regulatory filing, Nvidia (NVDA) stated, \u201cOn April 9, 2025, the U.S. government, or USG, informed NVIDIA Corporation, or the company, that the USG requires a license for export to China (including Hong Kong and Macau) and D:5 countries, or to companies headquartered or with an",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.2023",
+                "source": "TipRanks",
+                "ticker": "BABA",
+                "title": "Trump Trade: Nvidia sees Q1 charges of $5.5B due to H20 restrictions",
+                "url": "https://finance.yahoo.com/news/trump-trade-nvidia-sees-q1-151043492.html"
+            },
+            {
                 "headline": "Fliggy, a leading online travel services platform and a wholly-owned subsidiary of Alibaba Group (NYSE: BABA and HKEX: 9988), today unveiled \"AskMe\", an AI travel assistant powered by multiple intelligent agents. Designed to emulate the problem-solving and task-execution capabilities of professional travel consultants, AskMe leverages Fliggy's proprietary data, including flights, hotels, attractions, and curated experiences, to generate actionable and personalized travel itineraries.",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -168,19 +178,9 @@
                 "ticker": "BABA",
                 "title": "Alibaba Group Holding (NYSE:BABA) Surges 36% In Last Quarter With Major Share Buyback",
                 "url": "https://finance.yahoo.com/news/alibaba-group-holding-nyse-baba-175824743.html"
-            },
-            {
-                "headline": "EngageLab, an AI-powered customer engagement solution provider, has supported a significant growth surge for a prominent Chinese cross-border B2B e-commerce platform in the U.S. market. Recently, this platform achieved the #2 rank on the U.S. free iPhone app list, showcasing the increasing interest in Chinese e-commerce fueled by viral TikTok content. This growth incident emphasizes the importance of innovative email solutions in enhancing customer engagement and driving market success...",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.9823",
-                "source": "Simply Wall St.",
-                "ticker": "BABA",
-                "title": "Latest News In E-Commerce - Chinese Platform Surges Fueled By AI-Driven Customer Engagement",
-                "url": "https://finance.yahoo.com/news/latest-news-e-commerce-chinese-123735124.html"
             }
         ],
-        "avgScore": 0.8799,
+        "avgScore": 0.7105,
         "pctChange": 0.011757130035868034
     },
     "4 16 2025": {
@@ -262,16 +262,6 @@
                 "url": "https://finance.yahoo.com/news/alibabas-quark-ai-surpasses-bytedances-170019550.html"
             },
             {
-                "headline": "As part of today's Market Minute, Brad Smith examines some of the trending tickers. Chinese tech stocks, like Alibaba (BABA) and Baidu (BIDU), gain on expectations of a tariff reprieve. US President Trump reportedly plans to stockpile metals, sending miner stocks, including MP Materials (MP) and the Metal Company (TMC), higher. Palantir (PLTR) is in focus on news that NATO is buying the company's Maven Smart System. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
-                "publication_date": "2025-04-15T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8225",
-                "source": "Yahoo Finance Video",
-                "ticker": "BABA",
-                "title": "Alibaba & Baidu, metal miners, Palantir: Market Minute",
-                "url": "https://finance.yahoo.com/video/alibaba-baidu-metal-miners-palantir-162056753.html"
-            },
-            {
                 "headline": "Unlock your portfolio value with value stocks like Alibaba, Fresenius Medical, Helix Energy and Heritage Insurance. All these stocks boast high earnings yield.",
                 "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -280,6 +270,16 @@
                 "ticker": "BABA",
                 "title": "4 Top-Ranked High Earnings Yield Value Stocks to Buy Right Away",
                 "url": "https://finance.yahoo.com/news/4-top-ranked-high-earnings-134500638.html"
+            },
+            {
+                "headline": "We recently published a list of 10 Best Bargain Stocks to Buy in May. In this article, we are going to take a look at where Alibaba Group Holding Limited (NYSE:BABA) stands against other best bargain stocks to buy in May. While increasing tariffs and a hard sell-off have resulted in uncertainty, Neuberger Berman, an investment [\u2026]",
+                "publication_date": "2025-04-15T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8074",
+                "source": "Insider Monkey",
+                "ticker": "BABA",
+                "title": "Is Alibaba Group Holding (BABA) the Best Bargain Stock to Buy in May?",
+                "url": "https://finance.yahoo.com/news/alibaba-group-holding-baba-best-133027827.html"
             },
             {
                 "headline": "The average brokerage recommendation (ABR) for Alibaba (BABA) is equivalent to a Buy. The overly optimistic recommendations of Wall Street analysts make the effectiveness of this highly sought-after metric questionable. So, is it worth buying the stock?",
@@ -312,11 +312,21 @@
                 "url": "https://finance.yahoo.com/news/why-chinese-tech-stocks-alibaba-232833426.html"
             }
         ],
-        "avgScore": 0.7111428571428571,
+        "avgScore": 0.6925833333333333,
         "pctChange": -0.04925185998769838
     },
     "4 14 2025": {
         "importantArticles": [
+            {
+                "headline": "As part of today's Market Minute, Brad Smith examines some of the trending tickers. Chinese tech stocks, like Alibaba (BABA) and Baidu (BIDU), gain on expectations of a tariff reprieve. US President Trump reportedly plans to stockpile metals, sending miner stocks, including MP Materials (MP) and the Metal Company (TMC), higher. Palantir (PLTR) is in focus on news that NATO is buying the company's Maven Smart System. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
+                "publication_date": "2025-04-14T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8225",
+                "source": "Yahoo Finance Video",
+                "ticker": "BABA",
+                "title": "Alibaba & Baidu, metal miners, Palantir: Market Minute",
+                "url": "https://finance.yahoo.com/video/alibaba-baidu-metal-miners-palantir-162056753.html"
+            },
             {
                 "headline": "Zacks.com users have recently been watching Alibaba (BABA) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
                 "publication_date": "2025-04-14T00:00:00.000Z",
@@ -336,16 +346,6 @@
                 "ticker": "BABA",
                 "title": "Trending tickers: Apple, Alibaba, ASML, Barclays and Wood Group",
                 "url": "https://finance.yahoo.com/news/apple-alibaba-asml-barclays-wood-group-trending-tickers-095841216.html"
-            },
-            {
-                "headline": "T-Mobile, Salesforce, Alibaba and Old Point Financial are included in this Analyst Blog.",
-                "publication_date": "2025-04-14T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "BABA",
-                "title": "The Zacks Analyst Blog T-Mobile, Salesforce, Alibaba and Old Point Financial",
-                "url": "https://finance.yahoo.com/news/zacks-analyst-blog-t-mobile-061100219.html"
             },
             {
                 "headline": "T-Mobile, Salesforce, Alibaba and Old Point Financial are included in this Analyst Blog.",
@@ -378,7 +378,7 @@
                 "url": "https://finance.yahoo.com/news/investors-heavily-search-alibaba-group-130014914.html"
             }
         ],
-        "avgScore": 0.1589,
+        "avgScore": 0.3248,
         "pctChange": -0.014828484893437502
     },
     "4 11 2025": {
@@ -510,11 +510,21 @@
                 "url": "https://finance.yahoo.com/news/week-e-commerce-ai-drives-123927624.html"
             }
         ],
-        "avgScore": 0.6207999999999999,
+        "avgScore": 0.5738333333333334,
         "pctChange": 0.03407566751160246
     },
     "4 9 2025": {
         "importantArticles": [
+            {
+                "headline": "\u2197\ufe0f Apple (AAPL): Shares rose over 4% Wednesday afternoon. The stock had dropped Tuesday, helping Microsoft (MSFT) overtake Apple as the world's most valuable company, after the White House said President Trump wants iPhones to be made in the U.",
+                "publication_date": "2025-04-09T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7778",
+                "source": "The Wall Street Journal",
+                "ticker": "BABA",
+                "title": "Stocks to Watch Wednesday: Apple, Alibaba, Novo Nordisk, Delta",
+                "url": "https://finance.yahoo.com/m/979dd5da-d1c5-34bf-87dd-73dfd01158da/stocks-to-watch-wednesday-.html"
+            },
             {
                 "headline": "BABA outshines AMZN with stronger growth, lower valuation and massive AI investments. BABA's 45.2% stock surge signals superior upside in the e-commerce race.",
                 "publication_date": "2025-04-09T00:00:00.000Z",
@@ -526,24 +536,14 @@
                 "url": "https://finance.yahoo.com/news/alibaba-vs-amazon-e-commerce-190000945.html"
             },
             {
-                "headline": "With ultra-cheap tools and powerful new models, Alibaba is making its boldest move yet to dominate global AI markets.",
+                "headline": "Catalysts host Madison Mills and Trader Talk podcast host Kenny Polcari take a look at some of the day's top trending stocks. Apple (AAPL) is in focus after Microsoft (MSFT) replaced Apple as the most valuable company. Alibaba (BABA) reverses earlier gains after US tariffs went into effect. Drugmaker stocks, including Pfizer (PFE), Merck (MRK), and Eli Lilly (LLY), are falling after President Trump announced that pharmaceutical tariffs may be on the way. To watch more expert insights and analysis on the latest market action, check out more Catalysts here.",
                 "publication_date": "2025-04-09T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.5994",
-                "source": "GuruFocus.com",
+                "sentimentScore": "0.7178",
+                "source": "Yahoo Finance Video",
                 "ticker": "BABA",
-                "title": "Alibaba Just Fired a Global AI Warning Shot -- Silicon Valley Should Be Worried",
-                "url": "https://finance.yahoo.com/news/alibaba-just-fired-global-ai-172837527.html"
-            },
-            {
-                "headline": "ELUXY, SAN and BABA made it to the Zacks Rank #1 (Strong Buy) value stocks list on April 9, 2025.",
-                "publication_date": "2025-04-09T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.34",
-                "source": "Zacks",
-                "ticker": "BABA",
-                "title": "Best Value Stocks to Buy for April 9th",
-                "url": "https://finance.yahoo.com/news/best-value-stocks-buy-april-124300746.html"
+                "title": "Apple, Alibaba, drugmaker stocks: Trending Tickers",
+                "url": "https://finance.yahoo.com/video/apple-alibaba-drugmaker-stocks-trending-144322260.html"
             },
             {
                 "headline": "HSNGY, BABA and CME made it to the Zacks Rank #1 (Strong Buy) momentum stocks list on April 9, 2025.",
@@ -576,7 +576,7 @@
                 "url": "https://finance.yahoo.com/news/alibaba-just-fired-global-ai-172837527.html"
             }
         ],
-        "avgScore": 0.424325,
+        "avgScore": 0.5487857142857143,
         "pctChange": -0.005726269145935946
     },
     "4 8 2025": {
@@ -714,14 +714,24 @@
                 "url": "https://finance.yahoo.com/news/alibaba-group-holding-baba-one-202913319.html"
             },
             {
-                "headline": "Shares of Alibaba may seem like a casualty of the rollout of historic U.S. tariffs, but reality is kinder than you might think.",
+                "headline": "Alibaba has enjoyed a magic ride, how long can it continue on?",
                 "publication_date": "2025-04-04T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.6652",
-                "source": "Motley Fool",
+                "sentimentScore": "0.5106",
+                "source": "Zacks",
                 "ticker": "BABA",
-                "title": "Alibaba Could Be a No-Brainer Buy in April",
-                "url": "https://finance.yahoo.com/news/alibaba-could-no-brainer-buy-155500351.html"
+                "title": "Bull of the Day: Alibaba (BABA)",
+                "url": "https://finance.yahoo.com/news/bull-day-alibaba-baba-110000913.html"
+            },
+            {
+                "headline": "As part of today's Market Minute, Madison Mills outlines the top stories of the trading day. Intel (INTC) stock plunges as US\u2013China trade war tensions intensify. Dell Technologies (DELL) stock extends losses as Morgan Stanley (MS) analysts raise concerns about tariff impacts. Chinese tech stocks, like Alibaba (BABA), PDD Holdings (PDD), and JD.com (JD), tumble as China retaliates against Trump's new tariffs. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
+                "publication_date": "2025-04-04T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.6705",
+                "source": "Yahoo Finance Video",
+                "ticker": "BABA",
+                "title": "Intel, Dell, Chinese tech stocks fall: Market Minute",
+                "url": "https://finance.yahoo.com/video/intel-dell-chinese-tech-stocks-151645306.html"
             },
             {
                 "headline": "Alibaba and KB Home are part of the Zacks Bull and Bear of the Day article.",
@@ -742,19 +752,9 @@
                 "ticker": "BABA",
                 "title": "Alibaba, PDD, and Other China Stocks Sink as China Retaliates to Trump Tariffs",
                 "url": "https://finance.yahoo.com/m/fd285ab5-006c-38bb-b3bb-7cb1b5cc25f7/alibaba-pdd-and-other-china.html"
-            },
-            {
-                "headline": "Alibaba has enjoyed a magic ride, how long can it continue on?",
-                "publication_date": "2025-04-04T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.5106",
-                "source": "Zacks",
-                "ticker": "BABA",
-                "title": "Bull of the Day: Alibaba (BABA)",
-                "url": "https://finance.yahoo.com/news/bull-day-alibaba-baba-110000913.html"
             }
         ],
-        "avgScore": 0.5438833333333334,
+        "avgScore": 0.3176571428571428,
         "pctChange": -0.0906126435184091
     },
     "4 3 2025": {
@@ -770,6 +770,16 @@
                 "url": "https://finance.yahoo.com/news/latest-news-e-commerce-navigating-120736393.html"
             },
             {
+                "headline": "Shares of Alibaba may seem like a casualty of the rollout of historic U.S. tariffs, but reality is kinder than you might think.",
+                "publication_date": "2025-04-03T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6652",
+                "source": "Motley Fool",
+                "ticker": "BABA",
+                "title": "Alibaba Could Be a No-Brainer Buy in April",
+                "url": "https://finance.yahoo.com/news/alibaba-could-no-brainer-buy-155500351.html"
+            },
+            {
                 "headline": "Eric Jackson, the Founder/President and Portfolio Manager of EMJ Capital, told CNBC yesterday that he had sold his Nvidia (NVDA) stock and bought shares of Alibaba (BABA). \u201cAlibaba is a better AI play than Nvidia at least through Q2 and maybe for the rest of the year,\u201d Jackson said. NVDA\u2019s Technicals Have Been Poor, Jackson [\u2026]",
                 "publication_date": "2025-04-03T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -790,16 +800,6 @@
                 "url": "https://finance.yahoo.com/news/alibaba-steps-ai-game-qwen-120214299.html"
             },
             {
-                "headline": "Alibaba Group Holding (NYSE:BABA) plans to release Qwen 3, an upgraded version of its flagship AI model, by April. China\u2019s tech leaders have flooded the market with affordable AI services since a domestic AI startup, DeepSeek, showcased a robust model that it said cost just several million dollars to build, Bloomberg reports. OpenAI, Alphabet Inc (NASDAQ:GOOG) (NASDAQ:GOOGL) Google and Anthropic have similarly released new models. Also Read: Alibaba\u2019s March Expo Sparks 27% Jump In US Small Busin",
-                "publication_date": "2025-04-03T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4215",
-                "source": "Benzinga",
-                "ticker": "BABA",
-                "title": "Alibaba Steps Up AI Game With Qwen 3, Challenging DeepSeek's Low-Cost AI Success",
-                "url": "https://finance.yahoo.com/news/alibaba-steps-ai-game-qwen-120214299.html"
-            },
-            {
                 "headline": "Eric Jackson, the Founder/President and Portfolio Manager of EMJ Capital, told CNBC yesterday that he had sold his Nvidia (NVDA) stock and bought shares of Alibaba (BABA). \u201cAlibaba is a better AI play than Nvidia at least through Q2 and maybe for the rest of the year,\u201d Jackson said. NVDA\u2019s Technicals Have Been Poor, Jackson [\u2026]",
                 "publication_date": "2025-04-03T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -810,17 +810,17 @@
                 "url": "https://finance.yahoo.com/news/investor-sells-nvidia-nvda-buys-172215166.html"
             },
             {
-                "headline": "The global e-commerce market is projected to experience significant growth, forecasted to reach USD 73.52 trillion by 2030 from USD 25.4 trillion in 2024, marking a compound annual growth rate of 19.2%. This expansion is driven by increased internet accessibility, shifting consumer behaviors towards online platforms, and the adoption of omnichannel retailing which integrates online and offline shopping experiences. Despite the anticipated growth, challenges such as logistics and supply chain...",
+                "headline": "Shares of Alibaba may seem like a casualty of the rollout of historic U.S. tariffs, but reality is kinder than you might think.",
                 "publication_date": "2025-04-03T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.8625",
-                "source": "Simply Wall St.",
+                "sentimentScore": "0.6652",
+                "source": "Motley Fool",
                 "ticker": "BABA",
-                "title": "Latest News In E-Commerce - Navigating Growth Opportunities In The Evolving Digital Marketplace",
-                "url": "https://finance.yahoo.com/news/latest-news-e-commerce-navigating-120736393.html"
+                "title": "Alibaba Could Be a No-Brainer Buy in April",
+                "url": "https://finance.yahoo.com/news/alibaba-could-no-brainer-buy-155500351.html"
             }
         ],
-        "avgScore": 0.6035666666666667,
+        "avgScore": 0.618975,
         "pctChange": -0.09889430707837671
     },
     "4 2 2025": {
@@ -846,14 +846,14 @@
                 "url": "https://finance.yahoo.com/news/retail-wholesale-stocks-lagging-herbalife-134006424.html"
             },
             {
-                "headline": "The new release may arrive later in April, although the exact timing could still change, the report said.  Alibaba did not immediately respond to Reuters' request for comment.  AI companies have been releasing new products at a feverish pace in recent months, as competition has piled up after the meteoric rise of China's DeepSeek earlier this year.",
+                "headline": "We recently published a list of Jim Cramer Says I\u2019m With Trump & Discusses These 12 Stocks. In this article, we are going to take a look at where Alibaba Group Holding Limited (NYSE:BABA) stands against other stocks that Jim Cramer discusses. In a recent appearance on CNBC\u2019s Squawk on the Street, Jim Cramer commented [\u2026]",
                 "publication_date": "2025-04-02T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Reuters",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.2263",
+                "source": "Insider Monkey",
                 "ticker": "BABA",
-                "title": "Alibaba prepares for flagship AI model release as soon as April, Bloomberg News reports",
-                "url": "https://finance.yahoo.com/news/alibaba-prepares-flagship-ai-model-144058491.html"
+                "title": "Jim Cramer: \u201cAlibaba (BABA) CEO Joe Tsai Doesn\u2019t Get It!\u201d \u2013 AI Hype Reality Check",
+                "url": "https://finance.yahoo.com/news/jim-cramer-alibaba-baba-ceo-182658926.html"
             },
             {
                 "headline": "We recently published a list of Jim Cramer Says I\u2019m With Trump & Discusses These 12 Stocks. In this article, we are going to take a look at where Alibaba Group Holding Limited (NYSE:BABA) stands against other stocks that Jim Cramer discusses. In a recent appearance on CNBC\u2019s Squawk on the Street, Jim Cramer commented [\u2026]",
@@ -866,16 +866,6 @@
                 "url": "https://finance.yahoo.com/news/jim-cramer-alibaba-baba-ceo-182658926.html"
             },
             {
-                "headline": "The new release may arrive later in April, although the exact timing could still change, the report said.  Alibaba did not immediately respond to Reuters' request for comment.  AI companies have been releasing new products at a feverish pace in recent months, as competition has piled up after the meteoric rise of China's DeepSeek earlier this year.",
-                "publication_date": "2025-04-02T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Reuters",
-                "ticker": "BABA",
-                "title": "Alibaba prepares for flagship AI model release as soon as April, Bloomberg News reports",
-                "url": "https://finance.yahoo.com/news/alibaba-prepares-flagship-ai-model-144058491.html"
-            },
-            {
                 "headline": "Here is how Herbalife Ltd (HLF) and Alibaba (BABA) have performed compared to their sector so far this year.",
                 "publication_date": "2025-04-02T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -884,9 +874,19 @@
                 "ticker": "BABA",
                 "title": "Are Retail-Wholesale Stocks Lagging  Herbalife Ltd (HLF) This Year?",
                 "url": "https://finance.yahoo.com/news/retail-wholesale-stocks-lagging-herbalife-134006424.html"
+            },
+            {
+                "headline": "We recently published a list of 10 Best Very Cheap Stocks to Buy According to Billionaires In this article, we are going to take a look at where Alibaba Group Holding Limited (NYSE:BABA) stands against other best very cheap stocks to buy according to billionaires. Coming off 2 years of healthy broader market performance (~26% total return [\u2026]",
+                "publication_date": "2025-04-02T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8807",
+                "source": "Insider Monkey",
+                "ticker": "BABA",
+                "title": "Alibaba Group Holding (BABA): Among the Best Very Cheap Stocks to Buy According to Billionaires",
+                "url": "https://finance.yahoo.com/news/alibaba-group-holding-baba-among-225534495.html"
             }
         ],
-        "avgScore": 0.16360000000000002,
+        "avgScore": 0.21813333333333337,
         "pctChange": -0.003544121110046101
     },
     "4 1 2025": {
@@ -942,17 +942,17 @@
                 "url": "https://finance.yahoo.com/news/3-surprising-stocks-trouncing-market-104500215.html"
             },
             {
-                "headline": "ETSY plans initiatives to improve GMS in 2025, but weakening consumer discretionary spending suggests that investors can wait for better entry points in the year.",
+                "headline": "The new release may arrive later in April, although the exact timing could still change, the report said.  Alibaba did not immediately respond to Reuters' request for comment.  AI companies have been releasing new products at a feverish pace in recent months, as competition has piled up after the meteoric rise of China's DeepSeek earlier this year.",
                 "publication_date": "2025-04-01T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.431",
-                "source": "Zacks",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Reuters",
                 "ticker": "BABA",
-                "title": "Etsy Plunges 28% in a Year: Should You Hold or Fold the Stock?",
-                "url": "https://finance.yahoo.com/news/etsy-plunges-28-hold-fold-135900702.html"
+                "title": "Alibaba prepares for flagship AI model release as soon as April, Bloomberg News reports",
+                "url": "https://finance.yahoo.com/news/alibaba-prepares-flagship-ai-model-144058491.html"
             }
         ],
-        "avgScore": 0.3981666666666666,
+        "avgScore": 0.34128571428571425,
         "pctChange": -0.021929191627972546
     },
     "3 31 2025": {
@@ -1044,14 +1044,14 @@
                 "url": "https://finance.yahoo.com/news/providers-contrasting-approaches-win-genai-173606672.html"
             },
             {
-                "headline": "Alibaba (BABA) shares are rising after the company launched a new AI model that is designed to work on smartphones. Catalysts Anchor Madison Mills and Siebert CIO Mark Malek discuss the news in the video above. To watch more expert insights and analysis on the latest market action, check out more Catalysts here.",
+                "headline": "News of a fresh product release in a white-hot segment of the tech industry drew investors to Alibaba Group (NYSE: BABA) stock on Thursday.  Alibaba has made Qwen2.5 open-source.  It is available on several platforms, including Alibaba Cloud's ModelScope open-source community, and GitHub.",
                 "publication_date": "2025-03-28T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.4019",
-                "source": "Yahoo Finance Video",
+                "sentimentScore": "0.3182",
+                "source": "Motley Fool",
                 "ticker": "BABA",
-                "title": "Alibaba stock rises after releasing a new AI model",
-                "url": "https://finance.yahoo.com/video/alibaba-stock-rises-releasing-ai-145655466.html"
+                "title": "Why Alibaba Stock Trounced the Market Today",
+                "url": "https://finance.yahoo.com/news/why-alibaba-stock-trounced-market-212703343.html"
             },
             {
                 "headline": "We recently published a list of Was Jim Cramer Right About These 13 Stocks? In this article, we are going to take a look at where Alibaba Group Holding Limited (NYSE:BABA) stands against other stocks that Jim Cramer discussed. In the most recent episode of Mad Money, Jim Cramer shared his thoughts on how the [\u2026]",
@@ -1064,16 +1064,6 @@
                 "url": "https://finance.yahoo.com/news/jim-cramer-alibaba-group-baba-201738416.html"
             },
             {
-                "headline": "We recently published a list of Jim Cramer Discussed These 6 Stocks Recently. In this article, we are going to take a look at where Alibaba Group Holding Limited (NYSE:BABA) stands against other stocks that Jim Cramer discussed. On Tuesday, Jim Cramer, host of Mad Money, defended the growing wave of artificial intelligence investment, drawing [\u2026]",
-                "publication_date": "2025-03-28T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.0772",
-                "source": "Insider Monkey",
-                "ticker": "BABA",
-                "title": "Jim Cramer on Alibaba (BABA): \u2018I Was Sick to My Stomach\u2019 Over Bubble Fears",
-                "url": "https://finance.yahoo.com/news/jim-cramer-alibaba-baba-sick-144131277.html"
-            },
-            {
                 "headline": "The latest investor updates on stocks that are trending on Friday",
                 "publication_date": "2025-03-28T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -1082,9 +1072,19 @@
                 "ticker": "BABA",
                 "title": "Trending tickers: Lululemon, Rivian, Alibaba, Ubisoft and WH Smith",
                 "url": "https://finance.yahoo.com/news/lululemon-rivian-alibaba-ubisoft-wh-smith-trending-tickers-095700504.html"
+            },
+            {
+                "headline": "News of a fresh product release in a white-hot segment of the tech industry drew investors to Alibaba Group (NYSE: BABA) stock on Thursday.  Alibaba has made Qwen2.5 open-source.  It is available on several platforms, including Alibaba Cloud's ModelScope open-source community, and GitHub.",
+                "publication_date": "2025-03-28T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.3182",
+                "source": "Motley Fool",
+                "ticker": "BABA",
+                "title": "Why Alibaba Stock Trounced the Market Today",
+                "url": "https://finance.yahoo.com/news/why-alibaba-stock-trounced-market-212703343.html"
             }
         ],
-        "avgScore": 0.2421142857142857,
+        "avgScore": 0.27402000000000004,
         "pctChange": -0.0015102088597998002
     },
     "3 27 2025": {
@@ -1130,14 +1130,14 @@
                 "url": "https://finance.yahoo.com/news/alibaba-debuts-ai-model-process-170000087.html"
             },
             {
-                "headline": "Alibaba will restart hiring after 12 quarters of job cuts, according to Chairman Joe Tsai.",
+                "headline": "We recently published a list of Jim Cramer Discussed These 6 Stocks Recently. In this article, we are going to take a look at where Alibaba Group Holding Limited (NYSE:BABA) stands against other stocks that Jim Cramer discussed. On Tuesday, Jim Cramer, host of Mad Money, defended the growing wave of artificial intelligence investment, drawing [\u2026]",
                 "publication_date": "2025-03-27T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.296",
-                "source": "GuruFocus.com",
+                "sentimentScore": "-0.0772",
+                "source": "Insider Monkey",
                 "ticker": "BABA",
-                "title": "Alibaba to Resume Hiring After Prolonged Freeze, Bets $52 Billion on Cloud and AI",
-                "url": "https://finance.yahoo.com/news/alibaba-resume-hiring-prolonged-freeze-155224608.html"
+                "title": "Jim Cramer on Alibaba (BABA): \u2018I Was Sick to My Stomach\u2019 Over Bubble Fears",
+                "url": "https://finance.yahoo.com/news/jim-cramer-alibaba-baba-sick-144131277.html"
             },
             {
                 "headline": "Nightview Capital, an investment management company that concentrates exclusively on publicly traded equity strategies released its fourth quarter 2024 investor letter. A copy of the letter can be downloaded here. This letter highlights five transformative trends that the firm is observing for 2025 and beyond, along with a review of key companies in the portfolio and [\u2026]",
@@ -1150,21 +1150,11 @@
                 "url": "https://finance.yahoo.com/news/alibaba-baba-positioned-breakout-122852938.html"
             }
         ],
-        "avgScore": 0.21401250000000005,
+        "avgScore": 0.25920000000000004,
         "pctChange": -0.02359368938898244
     },
     "3 26 2025": {
         "importantArticles": [
-            {
-                "headline": "We recently published a list of 10 Best Stocks to Buy Now For the Long Term. In this article, we are going to take a look at where Alibaba Group Holding Limited (NYSE:BABA) stands against other best stocks to buy now for the long term. What\u2019s Next for the Equity Markets? The US equity markets [\u2026]",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8176",
-                "source": "Insider Monkey",
-                "ticker": "BABA",
-                "title": "Here is Why Alibaba Group Holding Ltd (NYSE:BABA) Among The Best Stocks to Buy Now For the Long Term",
-                "url": "https://finance.yahoo.com/news/why-alibaba-group-holding-ltd-153150155.html"
-            },
             {
                 "headline": "Alibaba (BABA) chairman Joe Tsai warned of a potential bubble in data center construction amid the growing demand for artificial intelligence (AI) infrastructure. Intelligent Alpha founder and CEO Doug Clinton joins Market Domination hosts Josh Lipton and Julie Hyman to share his insights on the current AI market cycle and the potential risks investors should consider. To watch more expert insights and analysis on the latest market action, check out more Market Domination&nbsp;here.",
                 "publication_date": "2025-03-26T00:00:00.000Z",
@@ -1186,6 +1176,16 @@
                 "url": "https://finance.yahoo.com/m/91ceec13-9f9e-30ab-adb5-3587ff29fd0a/amazon-and-u-s-ai-stocks-top.html"
             },
             {
+                "headline": "Zacks Thematic Screens lets you dive into 30 dynamic investment themes shaping the future.",
+                "publication_date": "2025-03-26T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.3818",
+                "source": "Zacks",
+                "ticker": "BABA",
+                "title": "Seeking Exposure to China Tech Stocks? Use This Tool",
+                "url": "https://finance.yahoo.com/news/seeking-exposure-china-tech-stocks-002700526.html"
+            },
+            {
                 "headline": "(Bloomberg) -- Alibaba Group Holding Ltd. and BMW AG will team up to produce AI for cars in China, as the tech giant looks to monetize its emerging products and the German automaker seeks to catch up to local brands that are dominating the key market. Most Read from BloombergGold-Rush Fever Returns to Historic New Zealand Mining TownWhat Frank Lloyd Wright Learned From the DesertBank Regulators Fight for Desks as OCC Returns to New York TowerThese US Bridges Face High Risk of Catastrophic Ship S",
                 "publication_date": "2025-03-26T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -1196,14 +1196,14 @@
                 "url": "https://finance.yahoo.com/news/alibaba-teams-bmw-develop-ai-094211535.html"
             },
             {
-                "headline": "Joe Tsai took aim at the $500 billion attached to OpenAI's Stargate project\u2014and the idea of investors building data centers \"on spec.\"",
+                "headline": "Alibaba will restart hiring after 12 quarters of job cuts, according to Chairman Joe Tsai.",
                 "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Fortune",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.296",
+                "source": "GuruFocus.com",
                 "ticker": "BABA",
-                "title": "Alibaba\u2019s chair issues \u2018bubble\u2019 warning about U.S. AI investments",
-                "url": "https://finance.yahoo.com/news/alibaba-chair-issues-bubble-warning-150104274.html"
+                "title": "Alibaba to Resume Hiring After Prolonged Freeze, Bets $52 Billion on Cloud and AI",
+                "url": "https://finance.yahoo.com/news/alibaba-resume-hiring-prolonged-freeze-155224608.html"
             },
             {
                 "headline": "Joe Tsai issued his caution about technology companies\u2019 spending at the HSBC Global Investment Summit in Hong Kong on Tuesday",
@@ -1216,7 +1216,7 @@
                 "url": "https://finance.yahoo.com/m/f8c72f37-38c1-3050-bba0-9f7d7c3ac9a5/alibaba-stock-drops-its.html"
             }
         ],
-        "avgScore": 0.18266000000000004,
+        "avgScore": 0.08267499999999998,
         "pctChange": 0.02563520303108032
     },
     "3 25 2025": {
@@ -1232,6 +1232,16 @@
                 "url": "https://finance.yahoo.com/news/why-1-value-stock-could-134005986.html"
             },
             {
+                "headline": "We recently published a list of 10 Best Stocks to Buy Now For the Long Term. In this article, we are going to take a look at where Alibaba Group Holding Limited (NYSE:BABA) stands against other best stocks to buy now for the long term. What\u2019s Next for the Equity Markets? The US equity markets [\u2026]",
+                "publication_date": "2025-03-25T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8176",
+                "source": "Insider Monkey",
+                "ticker": "BABA",
+                "title": "Here is Why Alibaba Group Holding Ltd (NYSE:BABA) Among The Best Stocks to Buy Now For the Long Term",
+                "url": "https://finance.yahoo.com/news/why-alibaba-group-holding-ltd-153150155.html"
+            },
+            {
                 "headline": "HONG KONG (Reuters) -Alibaba Group Chairman Joe Tsai said on Tuesday the tech giant would recommence hiring, emboldened with more confidence following President Xi Jinping's February meeting with business entrepreneurs.  He also expressed concern about some very big investment announcements in artificial intelligence in the U.S., saying it could be the start of a bubble.  Tsai lauded the rare meeting between Xi and big names in Chinese tech, including Alibaba co-founder Jack Ma, which marked a distinct thawing in Beijing's approach to the sector.",
                 "publication_date": "2025-03-25T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -1240,16 +1250,6 @@
                 "ticker": "BABA",
                 "title": "Alibaba says to restart hiring, sees signs of start of AI bubble in the US",
                 "url": "https://finance.yahoo.com/news/alibaba-chairman-says-china-business-013805255.html"
-            },
-            {
-                "headline": "We recently published a list of the 10 Best Chinese Stocks to Buy According to Billionaires. In this article, we are going to take a look at where Alibaba Group Holding Limited (NYSE:BABA) stands against the other Chinese stocks held by billionaires. The People\u2019s Bank of China\u2019s (PBoC) monetary easing and government stimulus have lifted [\u2026]",
-                "publication_date": "2025-03-25T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6486",
-                "source": "Insider Monkey",
-                "ticker": "BABA",
-                "title": "Alibaba Group Holding Limited (NYSE:BABA): Among the Best Chinese Stocks to Buy According to Billionaires",
-                "url": "https://finance.yahoo.com/news/alibaba-group-holding-limited-nyse-133858743.html"
             },
             {
                 "headline": "(Bloomberg) -- Alibaba Group Holding Ltd. Chairman Joe Tsai warned of a potential bubble forming in data center construction, arguing that the pace of that buildout may outstrip initial demand for AI services.Most Read from BloombergWhy Did the Government Declare War on My Adorable Tiny Truck?Gold-Rush Fever Returns to Historic New Zealand Mining TownHow SUVs Are Making Traffic WorseTrump Slashed International Aid. Geneva Is Feeling the Impact.These US Bridges Face High Risk of Catastrophic Ship",
@@ -1282,7 +1282,7 @@
                 "url": "https://finance.yahoo.com/m/86abc451-e917-3403-8f0d-e83211cf21b1/chinese-tech-stocks-near.html"
             }
         ],
-        "avgScore": 0.27101000000000003,
+        "avgScore": 0.24803636363636364,
         "pctChange": -0.0038417665298375704
     },
     "3 24 2025": {
@@ -1298,6 +1298,16 @@
                 "url": "https://finance.yahoo.com/video/alibaba-backed-ant-group-touts-134442086.html"
             },
             {
+                "headline": "BABA vs. CART: Which Stock Is the Better Value Option?",
+                "publication_date": "2025-03-24T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6486",
+                "source": "Zacks",
+                "ticker": "BABA",
+                "title": "BABA or CART: Which Is the Better Value Stock Right Now?",
+                "url": "https://finance.yahoo.com/news/baba-cart-better-value-stock-154013823.html"
+            },
+            {
                 "headline": "Ant Group's 20% AI cost reduction showcases Alibaba's technological prowess. BABA emerges as a smart investment for 2025's AI-driven market.",
                 "publication_date": "2025-03-24T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -1318,14 +1328,14 @@
                 "url": "https://finance.yahoo.com/m/0c971866-173a-36c5-879d-0f52194dcdc2/alibaba-stock-gains-its-ai.html"
             },
             {
-                "headline": "Ant Group used chips from Alibaba and Huawei to train a model with performance comparable to what it could have gotten from Nvidia hardware, Bloomberg reported.",
+                "headline": "We came across a bullish thesis on Alibaba Group Holding Limited (BABA) on Substack by Kontra Investments. In this article, we will summarize the bulls\u2019 thesis on BABA. Alibaba Group Holding Limited (BABA)\u2019s share was trading at $135.14 as of March 21st. BABA\u2019s trailing and forward P/E were 19.61 and 13.37 respectively according to Yahoo Finance. Alibaba [\u2026]",
                 "publication_date": "2025-03-24T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Barrons.com",
+                "sentiment": "Positive",
+                "sentimentScore": "0.2023",
+                "source": "Insider Monkey",
                 "ticker": "BABA",
-                "title": "Alibaba Stock Gains. Its AI Chips Could Be Gaining Traction in China.",
-                "url": "https://finance.yahoo.com/m/0c971866-173a-36c5-879d-0f52194dcdc2/alibaba-stock-gains-its-ai.html"
+                "title": "Alibaba Group Holding Limited (BABA): A Bull Case Theory",
+                "url": "https://finance.yahoo.com/news/alibaba-group-holding-limited-baba-152511178.html"
             },
             {
                 "headline": "Ant Group's 20% AI cost reduction showcases Alibaba's technological prowess. BABA emerges as a smart investment for 2025's AI-driven market.",
@@ -1336,27 +1346,17 @@
                 "ticker": "BABA",
                 "title": "Ant Group's Chip Innovation Signals Bullish Outlook for Alibaba Stock",
                 "url": "https://finance.yahoo.com/news/ant-groups-chip-innovation-signals-131500172.html"
-            },
-            {
-                "headline": "The Ant Group, backed by Alibaba (BABA), is reportedly using semiconductors made both in the US and China to build more efficient artificial intelligence (AI) models and to limit reliance on a single supplier. Morning Brief hosts Brad Smith and Madison Mills discuss the details. To watch more expert insights and analysis on the latest market action, check out more Morning Brief&nbsp;here.",
-                "publication_date": "2025-03-24T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.762",
-                "source": "Yahoo Finance Video",
-                "ticker": "BABA",
-                "title": "Alibaba-backed Ant Group touts cost-cutting AI breakthrough",
-                "url": "https://finance.yahoo.com/video/alibaba-backed-ant-group-touts-134442086.html"
             }
         ],
-        "avgScore": 0.3879666666666666,
+        "avgScore": 0.40296000000000004,
         "pctChange": -0.012864335087012431
     },
-    "coef": -0.23207227555053642,
-    "avgCoef": -0.03136895828689658,
+    "coef": -0.25578769057029926,
+    "avgCoef": -0.024842067855368154,
     "similar": {
-        "CLSK": 0.18464144551101075,
-        "GOLD": 0.11688311688311688,
-        "MARA": 0.08074534161490683,
-        "F": -0.011857707509881424
+        "MSTR": 0.28289102202145683,
+        "CLSK": 0.17673630717108982,
+        "PHYS": 0.17334839073969513,
+        "VRN": 0.1236589497459063
     }
 }

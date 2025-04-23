@@ -1,9 +1,9 @@
 {
-    "4 11 2025": {
+    "4 10 2025": {
         "importantArticles": [
             {
                 "headline": "ASE Technology Holding Co., Ltd. (NYSE: ASX, TAIEX: 3711, \"ASEH\" or the \"Company\"), announces its revised unaudited consolidated net revenues for March and 1st quarter of 2025.",
-                "publication_date": "2025-04-11T00:00:00.000Z",
+                "publication_date": "2025-04-10T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
                 "source": "PR Newswire",
@@ -13,7 +13,7 @@
             },
             {
                 "headline": "ASE Technology Holding Co., Ltd. (NYSE: ASX, TAIEX: 3711, \"ASEH\" or the \"Company\"), announces its revised unaudited consolidated net revenues for March and 1st quarter of 2025.",
-                "publication_date": "2025-04-11T00:00:00.000Z",
+                "publication_date": "2025-04-10T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
                 "source": "PR Newswire",
@@ -23,7 +23,7 @@
             }
         ],
         "avgScore": 0.0,
-        "pctChange": -0.009638544803331104
+        "pctChange": 0.05597965009495793
     },
     "4 2 2025": {
         "importantArticles": [
@@ -71,11 +71,11 @@
         "avgScore": 0.268,
         "pctChange": -0.091915830371011
     },
-    "4 1 2025": {
+    "3 31 2025": {
         "importantArticles": [
             {
                 "headline": "AMCX, ARR and ASX have been added to the Zacks Rank #5 (Strong Sell) List on March 31, 2025.",
-                "publication_date": "2025-04-01T00:00:00.000Z",
+                "publication_date": "2025-03-31T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
                 "source": "Zacks",
@@ -85,7 +85,7 @@
             },
             {
                 "headline": "AMCX, ARR and ASX have been added to the Zacks Rank #5 (Strong Sell) List on March 31, 2025.",
-                "publication_date": "2025-04-01T00:00:00.000Z",
+                "publication_date": "2025-03-31T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
                 "source": "Zacks",
@@ -95,7 +95,7 @@
             }
         ],
         "avgScore": 0.0,
-        "pctChange": 0.0044493840791335415
+        "pctChange": 0.026255654820420735
     },
     "3 28 2025": {
         "importantArticles": [
@@ -169,12 +169,12 @@
         "avgScore": 0.0,
         "pctChange": -0.023157922845137745
     },
-    "coef": -0.6708203932499368,
-    "avgCoef": 0.021724986054417403,
+    "coef": -0.4472135954999579,
+    "avgCoef": -0.005979475626923221,
     "similar": {
-        "BBD": 0.8944271909999159,
         "ITUB": 0.8944271909999159,
+        "T": 0.6708203932499368,
         "VZ": 0.6708203932499368,
-        "HLN": 0.6708203932499368
+        "BBD": 0.6708203932499368
     }
 }

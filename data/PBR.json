@@ -1,9 +1,9 @@
 {
-    "4 23 2025": {
+    "4 22 2025": {
         "importantArticles": [
             {
                 "headline": "In the most recent trading session, Petrobras (PBR) closed at $11.49, indicating a -0.17% shift from the previous trading day.",
-                "publication_date": "2025-04-23T00:00:00.000Z",
+                "publication_date": "2025-04-22T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
                 "source": "Zacks",
@@ -13,7 +13,7 @@
             },
             {
                 "headline": "In the most recent trading session, Petrobras (PBR) closed at $11.49, indicating a -0.17% shift from the previous trading day.",
-                "publication_date": "2025-04-23T00:00:00.000Z",
+                "publication_date": "2025-04-22T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
                 "source": "Zacks",
@@ -23,7 +23,7 @@
             }
         ],
         "avgScore": 0.0,
-        "pctChange": -0.021349274055131498
+        "pctChange": -0.0017406009127717494
     },
     "4 21 2025": {
         "importantArticles": [
@@ -64,16 +64,6 @@
                 "url": "https://finance.yahoo.com/news/pbr-commence-well-decommissioning-sergipe-170500770.html"
             },
             {
-                "headline": "In the most recent trading session, Petrobras (PBR) closed at $11.22, indicating a -0.44% shift from the previous trading day.",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "PBR",
-                "title": "Petrobras (PBR) Stock Moves -0.44%: What You Should Know",
-                "url": "https://finance.yahoo.com/news/petrobras-pbr-stock-moves-0-215015672.html"
-            },
-            {
                 "headline": "Brazilian state-run oil company Petrobras will reduce the price of diesel sold to distributors by an average 0.12 real ($0.0205) per liter starting on Friday, it said in a statement on Thursday.  The reduction comes with crude prices falling in recent weeks after U.S. President Donald Trump imposed tariffs on a number of countries on April 2.  Changes on the exchange rate and Brent crude oil prices weighed on the decision to update prices, Chief Financial Officer Fernando Melgarejo told Reuters.",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -92,16 +82,6 @@
                 "ticker": "PBR",
                 "title": "Brazil's Petrobras cuts diesel prices to distributors",
                 "url": "https://finance.yahoo.com/news/brazils-petrobras-cuts-diesel-prices-170127579.html"
-            },
-            {
-                "headline": "In the most recent trading session, Petrobras (PBR) closed at $11.22, indicating a -0.44% shift from the previous trading day.",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "PBR",
-                "title": "Petrobras (PBR) Stock Moves -0.44%: What You Should Know",
-                "url": "https://finance.yahoo.com/news/petrobras-pbr-stock-moves-0-215015672.html"
             },
             {
                 "headline": "According to Petrobras, the Arabia I jack-up rig has arrived in Brazil on April 13, 2025, and is on its way to the Guaricema field to commence well decommissioning tasks.",
@@ -114,11 +94,21 @@
                 "url": "https://finance.yahoo.com/news/pbr-commence-well-decommissioning-sergipe-170500770.html"
             }
         ],
-        "avgScore": -0.2290333333333333,
+        "avgScore": -0.34354999999999997,
         "pctChange": -0.009466407724663553
     },
     "4 16 2025": {
         "importantArticles": [
+            {
+                "headline": "In the most recent trading session, Petrobras (PBR) closed at $11.22, indicating a -0.44% shift from the previous trading day.",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "PBR",
+                "title": "Petrobras (PBR) Stock Moves -0.44%: What You Should Know",
+                "url": "https://finance.yahoo.com/news/petrobras-pbr-stock-moves-0-215015672.html"
+            },
             {
                 "headline": "PBR's long-dragged environmental hurdle compels the Brazilian oil regulator to open 172 oil blocks for bidding.",
                 "publication_date": "2025-04-16T00:00:00.000Z",
@@ -138,9 +128,19 @@
                 "ticker": "PBR",
                 "title": "Petrobras' Environmental Hurdles Lead to Oil Blocks Auction in Brazil",
                 "url": "https://finance.yahoo.com/news/petrobras-environmental-hurdles-lead-oil-104400391.html"
+            },
+            {
+                "headline": "In the most recent trading session, Petrobras (PBR) closed at $11.22, indicating a -0.44% shift from the previous trading day.",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "PBR",
+                "title": "Petrobras (PBR) Stock Moves -0.44%: What You Should Know",
+                "url": "https://finance.yahoo.com/news/petrobras-pbr-stock-moves-0-215015672.html"
             }
         ],
-        "avgScore": -0.2263,
+        "avgScore": -0.11315,
         "pctChange": 0.03565058903837247
     },
     "4 14 2025": {
@@ -261,43 +261,17 @@
         "avgScore": -0.33505,
         "pctChange": 0.02300886942418074
     },
-    "4 9 2025": {
-        "importantArticles": [
-            {
-                "headline": "Today's Research Daily features new research reports on 16 major stocks, including Walmart Inc. (WMT), The Coca-Cola Company (KO) and HSBC Holdings plc (HSBC), as well a micro-cap stock Friedman Industries Inc. Common Stock (FRD).",
-                "publication_date": "2025-04-09T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.2732",
-                "source": "Zacks",
-                "ticker": "PBR",
-                "title": "Top Stock Reports for Walmart, Coca-Cola & HSBC",
-                "url": "https://finance.yahoo.com/news/top-stock-reports-walmart-coca-203100481.html"
-            },
-            {
-                "headline": "Today's Research Daily features new research reports on 16 major stocks, including Walmart Inc. (WMT), The Coca-Cola Company (KO) and HSBC Holdings plc (HSBC), as well a micro-cap stock Friedman Industries Inc. Common Stock (FRD).",
-                "publication_date": "2025-04-09T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.2732",
-                "source": "Zacks",
-                "ticker": "PBR",
-                "title": "Top Stock Reports for Walmart, Coca-Cola & HSBC",
-                "url": "https://finance.yahoo.com/news/top-stock-reports-walmart-coca-203100481.html"
-            }
-        ],
-        "avgScore": 0.2732,
-        "pctChange": -0.0745290617992671
-    },
     "4 8 2025": {
         "importantArticles": [
             {
-                "headline": "Brazil's state-run oil firm Petrobras is unlikely to lower diesel prices while the economic scenario abroad remains uncertain, Chief Executive Magda Chambriard told Reuters after a request from the government to do so became public on Monday.  Petrobras will not bring jitters from abroad to the Brazilian market, said Chambriard, after reports that Brazil's Mines and Energy Minister Alexandre Silveira asked her to consider a new cut in the average price of diesel sold to distributors in Brazil.",
+                "headline": "Today's Research Daily features new research reports on 16 major stocks, including Walmart Inc. (WMT), The Coca-Cola Company (KO) and HSBC Holdings plc (HSBC), as well a micro-cap stock Friedman Industries Inc. Common Stock (FRD).",
                 "publication_date": "2025-04-08T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.5267",
-                "source": "Reuters",
+                "sentiment": "Positive",
+                "sentimentScore": "0.2732",
+                "source": "Zacks",
                 "ticker": "PBR",
-                "title": "Brazil's Petrobras unlikely to change diesel prices despite energy minister request",
-                "url": "https://finance.yahoo.com/news/brazils-energy-minister-asks-petrobras-201522428.html"
+                "title": "Top Stock Reports for Walmart, Coca-Cola & HSBC",
+                "url": "https://finance.yahoo.com/news/top-stock-reports-walmart-coca-203100481.html"
             },
             {
                 "headline": "We recently published a list of Chinese Stocks Dominate Monday\u2019s 10 Worst Performers. In this article, we are going to take a look at where Petroleo Brasileiro SA \u2013 Petrobras (NYSE:PBR) stands against other Chinese stocks that performed worst on Monday. Wall Street\u2019s main indices finished mixed on Monday as investors remained cautious amid the escalating [\u2026]",
@@ -320,17 +294,17 @@
                 "url": "https://finance.yahoo.com/news/why-petroleo-brasileiro-sa-petrobras-132423389.html"
             },
             {
-                "headline": "Brazil's state-run oil firm Petrobras is unlikely to lower diesel prices while the economic scenario abroad remains uncertain, Chief Executive Magda Chambriard told Reuters after a request from the government to do so became public on Monday.  Petrobras will not bring jitters from abroad to the Brazilian market, said Chambriard, after reports that Brazil's Mines and Energy Minister Alexandre Silveira asked her to consider a new cut in the average price of diesel sold to distributors in Brazil.",
+                "headline": "Today's Research Daily features new research reports on 16 major stocks, including Walmart Inc. (WMT), The Coca-Cola Company (KO) and HSBC Holdings plc (HSBC), as well a micro-cap stock Friedman Industries Inc. Common Stock (FRD).",
                 "publication_date": "2025-04-08T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.5267",
-                "source": "Reuters",
+                "sentiment": "Positive",
+                "sentimentScore": "0.2732",
+                "source": "Zacks",
                 "ticker": "PBR",
-                "title": "Brazil's Petrobras unlikely to change diesel prices despite energy minister request",
-                "url": "https://finance.yahoo.com/news/brazils-energy-minister-asks-petrobras-201522428.html"
+                "title": "Top Stock Reports for Walmart, Coca-Cola & HSBC",
+                "url": "https://finance.yahoo.com/news/top-stock-reports-walmart-coca-203100481.html"
             }
         ],
-        "avgScore": -0.7022999999999999,
+        "avgScore": -0.30235,
         "pctChange": 0.06544502596016322
     },
     "4 7 2025": {
@@ -356,6 +330,26 @@
                 "url": "https://finance.yahoo.com/news/sector-energy-stocks-decline-premarket-132221112.html"
             },
             {
+                "headline": "Brazil's state-run oil firm Petrobras is unlikely to lower diesel prices while the economic scenario abroad remains uncertain, Chief Executive Magda Chambriard told Reuters after a request from the government to do so became public on Monday.  Petrobras will not bring jitters from abroad to the Brazilian market, said Chambriard, after reports that Brazil's Mines and Energy Minister Alexandre Silveira asked her to consider a new cut in the average price of diesel sold to distributors in Brazil.",
+                "publication_date": "2025-04-07T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5267",
+                "source": "Reuters",
+                "ticker": "PBR",
+                "title": "Brazil's Petrobras unlikely to change diesel prices despite energy minister request",
+                "url": "https://finance.yahoo.com/news/brazils-energy-minister-asks-petrobras-201522428.html"
+            },
+            {
+                "headline": "Brazil's state-run oil firm Petrobras is unlikely to lower diesel prices while the economic scenario abroad remains uncertain, Chief Executive Magda Chambriard told Reuters after a request from the government to do so became public on Monday.  Petrobras will not bring jitters from abroad to the Brazilian market, said Chambriard, after reports that Brazil's Mines and Energy Minister Alexandre Silveira asked her to consider a new cut in the average price of diesel sold to distributors in Brazil.",
+                "publication_date": "2025-04-07T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5267",
+                "source": "Reuters",
+                "ticker": "PBR",
+                "title": "Brazil's Petrobras unlikely to change diesel prices despite energy minister request",
+                "url": "https://finance.yahoo.com/news/brazils-energy-minister-asks-petrobras-201522428.html"
+            },
+            {
                 "headline": "Energy stocks declined premarket Monday as the Energy Select Sector SPDR Fund (XLE) was recently dow",
                 "publication_date": "2025-04-07T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -376,7 +370,7 @@
                 "url": "https://finance.yahoo.com/news/petrobras-builds-wildlife-center-amazon-093000783.html"
             }
         ],
-        "avgScore": 0.6184499999999999,
+        "avgScore": 0.23673333333333332,
         "pctChange": -0.04579518569968169
     },
     "4 3 2025": {
@@ -484,6 +478,26 @@
                 "url": "https://finance.yahoo.com/news/petrobras-faces-tight-deadline-foz-104400744.html"
             },
             {
+                "headline": "In the most recent trading session, Petrobras (PBR) closed at $14.38, indicating a -0.07% shift from the previous trading day.",
+                "publication_date": "2025-03-28T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "PBR",
+                "title": "Petrobras (PBR) Stock Moves -0.07%: What You Should Know",
+                "url": "https://finance.yahoo.com/news/petrobras-pbr-stock-moves-0-214516971.html"
+            },
+            {
+                "headline": "In the most recent trading session, Petrobras (PBR) closed at $14.38, indicating a -0.07% shift from the previous trading day.",
+                "publication_date": "2025-03-28T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "PBR",
+                "title": "Petrobras (PBR) Stock Moves -0.07%: What You Should Know",
+                "url": "https://finance.yahoo.com/news/petrobras-pbr-stock-moves-0-214516971.html"
+            },
+            {
                 "headline": "Brazil's oil giant PBR needs Ibama's approval by April for Foz do Amazonas drilling, as its costly vessel contract ends in October.",
                 "publication_date": "2025-03-28T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -494,7 +508,7 @@
                 "url": "https://finance.yahoo.com/news/petrobras-faces-tight-deadline-foz-104400744.html"
             }
         ],
-        "avgScore": 0.4019,
+        "avgScore": 0.20095,
         "pctChange": -0.002781638493372328
     },
     "3 27 2025": {
@@ -572,26 +586,6 @@
                 "url": "https://finance.yahoo.com/news/petrobras-finish-analysis-indias-shapoorji-182646489.html"
             },
             {
-                "headline": "Petrobras (PBR) closed the most recent trading day at $13.97, moving -1.34% from the previous trading session.",
-                "publication_date": "2025-03-25T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "PBR",
-                "title": "Petrobras (PBR) Stock Sinks As Market Gains: What You Should Know",
-                "url": "https://finance.yahoo.com/news/petrobras-pbr-stock-sinks-market-215016937.html"
-            },
-            {
-                "headline": "Petrobras (PBR) closed the most recent trading day at $13.97, moving -1.34% from the previous trading session.",
-                "publication_date": "2025-03-25T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "PBR",
-                "title": "Petrobras (PBR) Stock Sinks As Market Gains: What You Should Know",
-                "url": "https://finance.yahoo.com/news/petrobras-pbr-stock-sinks-market-215016937.html"
-            },
-            {
                 "headline": "Brazil's Petrobras should analyze an appeal filed by India's Shapoorji Pallonji Energy in the tender to charter an offshore oil production vessel this week, the state-run oil firm's head of engineering, technology and innovation, Renata Baruzzi, said on Tuesday.  The Indian company was the only one to bid on chartering a production storage and offloading vessel, known as an FPSO, for Petrobras' Barracuda and Caratinga fields.  The oil company rejected the bid as too costly.",
                 "publication_date": "2025-03-25T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -612,15 +606,41 @@
                 "url": "https://finance.yahoo.com/news/petrobras-identifies-hydrocarbons-exploratory-well-170233952.html"
             }
         ],
-        "avgScore": 0.09106666666666667,
+        "avgScore": 0.1366,
         "pctChange": 0.004204587527517546
     },
-    "coef": -0.5165564312363659,
-    "avgCoef": 0.0025874922261507737,
+    "3 24 2025": {
+        "importantArticles": [
+            {
+                "headline": "Petrobras (PBR) closed the most recent trading day at $13.97, moving -1.34% from the previous trading session.",
+                "publication_date": "2025-03-24T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "PBR",
+                "title": "Petrobras (PBR) Stock Sinks As Market Gains: What You Should Know",
+                "url": "https://finance.yahoo.com/news/petrobras-pbr-stock-sinks-market-215016937.html"
+            },
+            {
+                "headline": "Petrobras (PBR) closed the most recent trading day at $13.97, moving -1.34% from the previous trading session.",
+                "publication_date": "2025-03-24T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "PBR",
+                "title": "Petrobras (PBR) Stock Sinks As Market Gains: What You Should Know",
+                "url": "https://finance.yahoo.com/news/petrobras-pbr-stock-sinks-market-215016937.html"
+            }
+        ],
+        "avgScore": 0.0,
+        "pctChange": 0.021474601646422762
+    },
+    "coef": -0.3991167804132353,
+    "avgCoef": 0.018967391324823002,
     "similar": {
-        "CCL": 0.13833704996073615,
-        "NCLH": 0.11920533028531519,
-        "WFC": 0.06181017125905232,
-        "SMCI": 0.05150847604921027
+        "T": 0.14138454213900586,
+        "BAC": 0.13696627519716192,
+        "RIVN": 0.1222387187243488,
+        "SMCI": 0.11929320742978619
     }
 }

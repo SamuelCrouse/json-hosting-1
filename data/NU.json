@@ -23,7 +23,7 @@
             }
         ],
         "avgScore": 0.0,
-        "pctChange": 0.0063568623511338455
+        "pctChange": 0.003907952666283651
     },
     "4 21 2025": {
         "importantArticles": [
@@ -412,26 +412,6 @@
                 "url": "https://finance.yahoo.com/news/nu-holdings-ltd-nu-fell-131328333.html"
             },
             {
-                "headline": "Despite being a seller in recent times, Berkshire Hathaway owns numerous stocks in its huge $290 billion public equities portfolio.  While Apple, American Express, and Coca-Cola get a lot of the attention, there are lesser-known businesses that investors shouldn't ignore.  For example, the Oracle of Omaha's conglomerate has owned one financial technology enterprise since December 2021.",
-                "publication_date": "2025-04-01T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.5283",
-                "source": "Motley Fool",
-                "ticker": "NU",
-                "title": "Down 31%, Should You Buy This Warren Buffett Stock Right Now?",
-                "url": "https://finance.yahoo.com/news/down-31-buy-warren-buffett-163000832.html"
-            },
-            {
-                "headline": "Despite being a seller in recent times, Berkshire Hathaway owns numerous stocks in its huge $290 billion public equities portfolio.  While Apple, American Express, and Coca-Cola get a lot of the attention, there are lesser-known businesses that investors shouldn't ignore.  For example, the Oracle of Omaha's conglomerate has owned one financial technology enterprise since December 2021.",
-                "publication_date": "2025-04-01T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.5283",
-                "source": "Motley Fool",
-                "ticker": "NU",
-                "title": "Down 31%, Should You Buy This Warren Buffett Stock Right Now?",
-                "url": "https://finance.yahoo.com/news/down-31-buy-warren-buffett-163000832.html"
-            },
-            {
                 "headline": "Sands Capital, an investment management company, released its \u201cSands Capital Select Growth Fund\u201d Q4 2024 investor letter. A copy of the same can be downloaded here. Select Growth primarily targets U.S. companies that are leading the way in crucial areas of positive structural transformation within the economy. The fund returned 8.8% (net) in the fourth [\u2026]",
                 "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -442,7 +422,7 @@
                 "url": "https://finance.yahoo.com/news/nu-holdings-ltd-nu-fell-131328333.html"
             }
         ],
-        "avgScore": 0.67995,
+        "avgScore": 0.8316,
         "pctChange": 0.015340349255091689
     },
     "3 31 2025": {
@@ -458,6 +438,16 @@
                 "url": "https://finance.yahoo.com/news/latest-news-digital-payment-innovative-120736064.html"
             },
             {
+                "headline": "Despite being a seller in recent times, Berkshire Hathaway owns numerous stocks in its huge $290 billion public equities portfolio.  While Apple, American Express, and Coca-Cola get a lot of the attention, there are lesser-known businesses that investors shouldn't ignore.  For example, the Oracle of Omaha's conglomerate has owned one financial technology enterprise since December 2021.",
+                "publication_date": "2025-03-31T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5283",
+                "source": "Motley Fool",
+                "ticker": "NU",
+                "title": "Down 31%, Should You Buy This Warren Buffett Stock Right Now?",
+                "url": "https://finance.yahoo.com/news/down-31-buy-warren-buffett-163000832.html"
+            },
+            {
                 "headline": "Warren Buffett is known for the stocks he buys.  More recently, though, Buffett has sold more stocks than he's bought.  Over the past six months, the legendary investor has completely exited or reduced Berkshire's positions in at least 12 stocks.",
                 "publication_date": "2025-03-31T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -476,6 +466,16 @@
                 "ticker": "NU",
                 "title": "Warren Buffett Sold These 12 Stocks Over the Past 6 Months: Should You Sell Them Too?",
                 "url": "https://finance.yahoo.com/news/warren-buffett-sold-12-stocks-100800982.html"
+            },
+            {
+                "headline": "Despite being a seller in recent times, Berkshire Hathaway owns numerous stocks in its huge $290 billion public equities portfolio.  While Apple, American Express, and Coca-Cola get a lot of the attention, there are lesser-known businesses that investors shouldn't ignore.  For example, the Oracle of Omaha's conglomerate has owned one financial technology enterprise since December 2021.",
+                "publication_date": "2025-03-31T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5283",
+                "source": "Motley Fool",
+                "ticker": "NU",
+                "title": "Down 31%, Should You Buy This Warren Buffett Stock Right Now?",
+                "url": "https://finance.yahoo.com/news/down-31-buy-warren-buffett-163000832.html"
             },
             {
                 "headline": "Recent advancements in digital payment technology continue to enhance merchant capabilities, as evidenced by Finix's latest suite of product updates for Q1, unveiled on March 26, 2025. These updates include features such as Account Updater, Network Tokens, Instant Payouts, and new hardware terminal options, aimed at improving efficiency, security, and cash flow for businesses. By addressing key payment processing challenges, Finix exemplifies the ongoing innovation within the digital payment...",
@@ -488,7 +488,7 @@
                 "url": "https://finance.yahoo.com/news/latest-news-digital-payment-innovative-120736064.html"
             }
         ],
-        "avgScore": 0.43125,
+        "avgScore": 0.4636,
         "pctChange": 0.01855474006879494
     },
     "3 28 2025": {
@@ -621,12 +621,12 @@
         "avgScore": 0.926,
         "pctChange": -0.026518347054741154
     },
-    "coef": 0.21948629221922994,
-    "avgCoef": -0.04484968989671278,
+    "coef": 0.2219524303340527,
+    "avgCoef": -0.028733409626554053,
     "similar": {
-        "GOOGL": 0.4130781342328203,
-        "NVDA": 0.37485299345306683,
-        "VRT": 0.2934704356639142,
-        "PDCO": 0.28106508875739644
+        "GOOGL": 0.40567971988835194,
+        "NVDA": 0.3921159602568265,
+        "AMD": 0.372386855338244,
+        "BCS": 0.3711537862808326
     }
 }

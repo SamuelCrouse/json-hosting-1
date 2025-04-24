@@ -1,26 +1,72 @@
 {
-    "4 23 2025": {
+    "4 24 2025": {
         "importantArticles": [
             {
-                "headline": "BMY and REGN are in the spotlight this week following study data and regulatory updates, respectively.",
-                "publication_date": "2025-04-23T00:00:00.000Z",
+                "headline": "Biopharmaceutical company Bristol Myers Squibb (NYSE:BMY) reported revenue ahead of Wall Street\u2019s expectations in Q1 CY2025, but sales fell by 5.6% year on year to $11.2 billion. The company\u2019s full-year revenue guidance of $46.3 billion at the midpoint came in 1.2% above analysts\u2019 estimates. Its non-GAAP profit of $1.80 per share was 19.9% above analysts\u2019 consensus estimates.",
+                "publication_date": "2025-04-24T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.34",
-                "source": "Zacks",
+                "sentimentScore": "0.7684",
+                "source": "StockStory",
                 "ticker": "BMY",
-                "title": "Biotech Stock Roundup: BMY Down on Study Data, Updates From REGN & More",
-                "url": "https://finance.yahoo.com/news/biotech-stock-roundup-bmy-down-163700964.html"
+                "title": "Bristol-Myers Squibb (NYSE:BMY) Reports Upbeat Q1, Full-Year Outlook Slightly Exceeds Expectations",
+                "url": "https://finance.yahoo.com/news/bristol-myers-squibb-nyse-bmy-114757130.html"
             },
             {
-                "headline": "Tesla stock rises as CEO Elon Musk says in May he\u2019ll be cutting back \u2019significantly\u2019 his work with the Trump administration\u2019s Department of Government Efficiency.",
-                "publication_date": "2025-04-23T00:00:00.000Z",
+                "headline": "PRINCETON, N.J. (AP) \u2014 Bristol Myers Squibb Co. (BMY) on Thursday reported first-quarter net income of $2.46 billion, after reporting a loss in the same period a year earlier. The Princeton, New Jersey-based company said it had profit of $1.20 per share. Earnings, adjusted for amortization costs and non-recurring costs, came to $1.80 per share.",
+                "publication_date": "2025-04-24T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.25",
+                "sentimentScore": "0.6808",
+                "source": "Associated Press Finance",
+                "ticker": "BMY",
+                "title": "Bristol Myers: Q1 Earnings Snapshot",
+                "url": "https://finance.yahoo.com/news/bristol-myers-q1-earnings-snapshot-111203475.html"
+            },
+            {
+                "headline": "The headline numbers for Bristol Myers (BMY) give insight into how the company performed in the quarter ended March 2025, but it may be worthwhile to compare some of its key metrics to Wall Street estimates and the year-ago actuals.",
+                "publication_date": "2025-04-24T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4767",
+                "source": "Zacks",
+                "ticker": "BMY",
+                "title": "Compared to Estimates, Bristol Myers (BMY) Q1 Earnings: A Look at Key Metrics",
+                "url": "https://finance.yahoo.com/news/compared-estimates-bristol-myers-bmy-133031984.html"
+            },
+            {
+                "headline": "(Reuters) -Bristol Myers Squibb reported higher-than-expected first-quarter revenue on Thursday and raised its full-year forecast due to growth from its portfolio of drugs that spur a patient's immune system to fight cancer.  The company's shares, which were off 1% in early trading on Thursday, have dropped more than 20% over the past month as investor concerns about U.S. President Donald Trump's tariff threats have roiled the markets.  Chief Financial Officer David Elkins said in an interview that the company's global manufacturing footprint puts it in a good position to deal with whatever tariffs may come.",
+                "publication_date": "2025-04-24T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.2263",
+                "source": "Reuters",
+                "ticker": "BMY",
+                "title": "Bristol Myers posts higher-than-expected quarterly revenue on cancer drug sales",
+                "url": "https://finance.yahoo.com/news/bristol-myers-posts-better-expected-110305276.html"
+            },
+            {
+                "headline": "PRINCETON, N.J., April 24, 2025--Bristol Myers Squibb Reports First Quarter Financial Results for 2025",
+                "publication_date": "2025-04-24T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Business Wire",
+                "ticker": "BMY",
+                "title": "Bristol Myers Squibb Reports First Quarter Financial Results for 2025",
+                "url": "https://finance.yahoo.com/news/bristol-myers-squibb-reports-first-105900905.html"
+            },
+            {
+                "headline": "Bristol Myers sees revenue decline in its legacy drug portfolio due to competition and Medicare headwinds.",
+                "publication_date": "2025-04-24T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
                 "source": "Barrons.com",
                 "ticker": "BMY",
-                "title": "These Stocks Moved the Most Today: Tesla, Intel, Enphase, Bristol Myers, Boeing, AT&T, and More",
-                "url": "https://finance.yahoo.com/m/395d1256-47e3-36db-aac3-d015a10ebf8d/these-stocks-moved-the-most.html"
-            },
+                "title": "Bristol Myers Squibb Shares Sink Despite Better-than-Expected Earnings. The Future Is Cloudy.",
+                "url": "https://finance.yahoo.com/m/309efeab-3093-3dae-84c9-e3ab88c13219/bristol-myers-squibb-shares.html"
+            }
+        ],
+        "avgScore": 0.28764,
+        "pctChange": 0.00957660917327296
+    },
+    "4 23 2025": {
+        "importantArticles": [
             {
                 "headline": "Gilead Sciences, Bristol Myers, Merck, AbbVie and Sanofi are part of the Zacks top Analyst Blog.",
                 "publication_date": "2025-04-23T00:00:00.000Z",
@@ -30,6 +76,36 @@
                 "ticker": "BMY",
                 "title": "The Zacks Analyst Blog Highlights Gilead Sciences, Bristol Myers, Merck, AbbVie and Sanofi",
                 "url": "https://finance.yahoo.com/news/zacks-analyst-blog-highlights-gilead-132500143.html"
+            },
+            {
+                "headline": "Bristol Myers Squibb & Co (NYSE:BMY) on Tuesday released topline results from the Phase 3 ARISE trial evaluating the efficacy and safety of Cobenfy (xanomeline and trospium chloride) as an adjunctive treatment to atypical antipsychotics in adults with inadequately controlled symptoms of schizophrenia. In the Phase 3 trial, adjunctive Cobenfy treatment demonstrated a 2.0-point reduction in the Positive and Negative Syndrome Scale (PANSS) total score compared to placebo with an atypical antipsycho",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.1779",
+                "source": "Benzinga",
+                "ticker": "BMY",
+                "title": "Bristol Myers' Cobenfy Falls Short On Primary Endpoint In Phase 3 Schizophrenia Trial, Stock Slides",
+                "url": "https://finance.yahoo.com/news/bristol-myers-cobenfy-falls-short-135533205.html"
+            },
+            {
+                "headline": "Cobenfy failed to show statistically significant improvement as an adjunctive treatment for schizophrenia, the company said in a statement.",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.128",
+                "source": "Barrons.com",
+                "ticker": "BMY",
+                "title": "Bristol Myers Stock Falls As Schizophrenia Trial Failure Dims Outlook",
+                "url": "https://finance.yahoo.com/m/e4a1c43a-4e5c-3d8a-92d2-0730b29c75bf/bristol-myers-stock-falls-as.html"
+            },
+            {
+                "headline": "Shares of Bristol Myers Squibb tumbled Wednesday after the company's schizophrenia drug, Cobenfy, failed in a Phase 3 study.",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.2732",
+                "source": "Investor's Business Daily",
+                "ticker": "BMY",
+                "title": "Bristol Myers Dives After Promising Schizophrenia Drug Flops In Phase 3 Test",
+                "url": "https://finance.yahoo.com/m/73b2d9fe-9c4a-3359-a39a-5b8d78b69555/bristol-myers-dives-after.html"
             },
             {
                 "headline": "We recently published a list of 10 Best Stocks That Will Always Grow. In this article, we are going to take a look at where Bristol-Myers Squibb Company (NYSE:BMY) stands against other best stocks that will always grow. The Looming Risk of a Recession in the US Threats of an impending recession are looming over [\u2026]",
@@ -50,20 +126,10 @@
                 "ticker": "BMY",
                 "title": "Bristol Myers\u2019 prized schizophrenia drug stumbles in testing",
                 "url": "https://finance.yahoo.com/news/bristol-myers-prized-schizophrenia-drug-082900337.html"
-            },
-            {
-                "headline": "The therapy showed a two-point reduction in total PANSS score at week six against placebo with atypical antipsychotic.",
-                "publication_date": "2025-04-23T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Clinical Trials Arena",
-                "ticker": "BMY",
-                "title": "BMS\u2019 schizophrenia therapy fails in Phase III trial as an adjunctive treatment",
-                "url": "https://finance.yahoo.com/news/bms-schizophrenia-therapy-fails-phase-092202217.html"
             }
         ],
-        "avgScore": 0.08025555555555558,
-        "pctChange": 0.018895605521708093
+        "avgScore": -0.015655555555555558,
+        "pctChange": -0.002697249644862916
     },
     "4 22 2025": {
         "importantArticles": [
@@ -88,24 +154,14 @@
                 "url": "https://finance.yahoo.com/news/neogenomics-neo-may-report-negative-140056818.html"
             },
             {
-                "headline": "PRINCETON, N.J., April 22, 2025--BMS Announces Topline Results from Phase 3 ARISE Trial",
+                "headline": "Let's look at five big pharma companies, GILD, BMY, MRK, ABBV and SNY slated to release their first-quarter 2025 results this week.",
                 "publication_date": "2025-04-22T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
-                "source": "Business Wire",
+                "source": "Zacks",
                 "ticker": "BMY",
-                "title": "Bristol Myers Squibb Announces Topline Results from Phase 3 ARISE Trial Evaluating Cobenfy (xanomeline and trospium chloride) as an Adjunctive Treatment to Atypical Antipsychotics in Adults with Schizophrenia",
-                "url": "https://finance.yahoo.com/news/bristol-myers-squibb-announces-topline-201500439.html"
-            },
-            {
-                "headline": "Shares of Bristol Myers Squibb tumbled Wednesday after the company's schizophrenia drug, Cobenfy, failed in a Phase 3 study.",
-                "publication_date": "2025-04-22T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.2732",
-                "source": "Investor's Business Daily",
-                "ticker": "BMY",
-                "title": "Bristol Myers Dives After Promising Schizophrenia Drug Flops In Phase 3 Test",
-                "url": "https://finance.yahoo.com/m/73b2d9fe-9c4a-3359-a39a-5b8d78b69555/bristol-myers-dives-after.html"
+                "title": "Will These 5 Large Drug Maker Stocks Surpass Q1 Earnings Forecast?",
+                "url": "https://finance.yahoo.com/news/5-large-drug-maker-stocks-130600789.html"
             },
             {
                 "headline": "Bristol-Myers Squibb (BMY) stock is down 11% year-to-date as the company navigates several looming patent cliffs. After a $13 billion acquisition of MyoKardia for its obstructive hypertrophic myopathy (HCM) drug, Camzyos, in 2020, the pharmaceutical giant has had difficulty achieving a return on investment. Bristol once believed Camzyos, FDA-approved for obstructive HCM (oHCM), could generate $4 billion in peak annual sales, but this has taken a hit on many fronts. Last week, Bristol revealed th",
@@ -126,82 +182,26 @@
                 "ticker": "BMY",
                 "title": "Will These 5 Large Drug Maker Stocks Surpass Q1 Earnings Forecast?",
                 "url": "https://finance.yahoo.com/news/5-large-drug-maker-stocks-130600789.html"
+            },
+            {
+                "headline": "NeoGenomics (NEO) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+                "publication_date": "2025-04-22T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.2263",
+                "source": "Zacks",
+                "ticker": "BMY",
+                "title": "NeoGenomics (NEO) May Report Negative Earnings: Know the Trend Ahead of Next Week's Release",
+                "url": "https://finance.yahoo.com/news/neogenomics-neo-may-report-negative-140056818.html"
             }
         ],
-        "avgScore": -0.001983333333333337,
+        "avgScore": 0.065325,
         "pctChange": -0.02589323411138763
     },
     "4 17 2025": {
         "importantArticles": [
             {
-                "headline": "Bristol Myers is looking to turn its business around, banking on the strong uptake of new drugs. However, the 2025 outlook is not bright and we recommend investors to wait and watch for now.",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.5258",
-                "source": "Zacks",
-                "ticker": "BMY",
-                "title": "Should You Buy, Hold, or Sell BMY Stock Ahead of Q1 Earnings?",
-                "url": "https://finance.yahoo.com/news/buy-hold-sell-bmy-stock-170600473.html"
-            },
-            {
-                "headline": "Bristol Myers (BMY) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.2263",
-                "source": "Zacks",
-                "ticker": "BMY",
-                "title": "Bristol Myers Squibb (BMY) Earnings Expected to Grow: What to Know Ahead of Next Week's Release",
-                "url": "https://finance.yahoo.com/news/bristol-myers-squibb-bmy-earnings-140057479.html"
-            },
-            {
-                "headline": "PRINCETON, N.J., April 18, 2025--U.S. Food and Drug Administration Updates CAMZYOS\u00ae (mavacamten) Label to Reduce Echocardiography Monitoring Requirements and Contraindications",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Business Wire",
-                "ticker": "BMY",
-                "title": "U.S. Food and Drug Administration Updates CAMZYOS\u00ae (mavacamten) Label to Reduce Echocardiography Monitoring Requirements and Contraindications",
-                "url": "https://finance.yahoo.com/news/u-food-drug-administration-updates-002100951.html"
-            },
-            {
-                "headline": "PRINCETON, N.J., April 18, 2025--U.S. Food and Drug Administration Updates CAMZYOS\u00ae (mavacamten) Label to Reduce Echocardiography Monitoring Requirements and Contraindications",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Business Wire",
-                "ticker": "BMY",
-                "title": "U.S. Food and Drug Administration Updates CAMZYOS\u00ae (mavacamten) Label to Reduce Echocardiography Monitoring Requirements and Contraindications",
-                "url": "https://finance.yahoo.com/news/u-food-drug-administration-updates-002100951.html"
-            },
-            {
-                "headline": "Bristol Myers (BMY) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.2263",
-                "source": "Zacks",
-                "ticker": "BMY",
-                "title": "Bristol Myers Squibb (BMY) Earnings Expected to Grow: What to Know Ahead of Next Week's Release",
-                "url": "https://finance.yahoo.com/news/bristol-myers-squibb-bmy-earnings-140057479.html"
-            },
-            {
-                "headline": "Bristol Myers is looking to turn its business around, banking on the strong uptake of new drugs. However, the 2025 outlook is not bright and we recommend investors to wait and watch for now.",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.5258",
-                "source": "Zacks",
-                "ticker": "BMY",
-                "title": "Should You Buy, Hold, or Sell BMY Stock Ahead of Q1 Earnings?",
-                "url": "https://finance.yahoo.com/news/buy-hold-sell-bmy-stock-170600473.html"
-            }
-        ],
-        "avgScore": 0.2507,
-        "pctChange": -0.005890735694168364
-    },
-    "4 16 2025": {
-        "importantArticles": [
-            {
                 "headline": "At current levels, we believe GILD scores above BMY, buoyed by solid fundamentals, potential approval of lenacapavir for HIV prevention, and recent positive estimate revisions.",
-                "publication_date": "2025-04-16T00:00:00.000Z",
+                "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.8074",
                 "source": "Zacks",
@@ -211,7 +211,7 @@
             },
             {
                 "headline": "BMY and VERV are in the spotlight this week following the failure of a late-stage study and positive cholesterol study data, respectively.",
-                "publication_date": "2025-04-16T00:00:00.000Z",
+                "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.4019",
                 "source": "Zacks",
@@ -220,18 +220,18 @@
                 "url": "https://finance.yahoo.com/news/biotech-stock-roundup-bmy-down-170700994.html"
             },
             {
-                "headline": "In the most recent trading session, Bristol Myers Squibb (BMY) closed at $49.33, indicating a -1.35% shift from the previous trading day.",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
+                "headline": "Bristol Myers (BMY) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.2263",
                 "source": "Zacks",
                 "ticker": "BMY",
-                "title": "Bristol Myers Squibb (BMY) Stock Moves -1.35%: What You Should Know",
-                "url": "https://finance.yahoo.com/news/bristol-myers-squibb-bmy-stock-214516009.html"
+                "title": "Bristol Myers Squibb (BMY) Earnings Expected to Grow: What to Know Ahead of Next Week's Release",
+                "url": "https://finance.yahoo.com/news/bristol-myers-squibb-bmy-earnings-140057479.html"
             },
             {
                 "headline": "We recently published a list of 10 Dirt Cheap Stocks To Invest In Now. In this article, we are going to take a look at where Bristol-Myers Squibb Company (NYSE:BMY) stands against other dirt cheap stocks to invest in now. Investor\u2019s Guide to Navigating the Volatilitc The stock market has been experiencing volatility and has [\u2026]",
-                "publication_date": "2025-04-16T00:00:00.000Z",
+                "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.5859",
                 "source": "Insider Monkey",
@@ -241,7 +241,7 @@
             },
             {
                 "headline": "In the most recent trading session, Bristol Myers Squibb (BMY) closed at $49.33, indicating a -1.35% shift from the previous trading day.",
-                "publication_date": "2025-04-16T00:00:00.000Z",
+                "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
                 "source": "Zacks",
@@ -250,17 +250,63 @@
                 "url": "https://finance.yahoo.com/news/bristol-myers-squibb-bmy-stock-214516009.html"
             },
             {
-                "headline": "BMY and VERV are in the spotlight this week following the failure of a late-stage study and positive cholesterol study data, respectively.",
-                "publication_date": "2025-04-16T00:00:00.000Z",
+                "headline": "Bristol Myers (BMY) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+                "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.4019",
+                "sentimentScore": "0.2263",
                 "source": "Zacks",
                 "ticker": "BMY",
-                "title": "Biotech Stock Roundup: BMY Down on Study Failure, VERV Up on Study Data & More News",
-                "url": "https://finance.yahoo.com/news/biotech-stock-roundup-bmy-down-170700994.html"
+                "title": "Bristol Myers Squibb (BMY) Earnings Expected to Grow: What to Know Ahead of Next Week's Release",
+                "url": "https://finance.yahoo.com/news/bristol-myers-squibb-bmy-earnings-140057479.html"
             }
         ],
-        "avgScore": 0.15585000000000002,
+        "avgScore": 0.16994,
+        "pctChange": -0.005890735694168364
+    },
+    "4 16 2025": {
+        "importantArticles": [
+            {
+                "headline": "We recently published a list of 10 Best Pharma Stocks to Buy for Long Term Growth. In this article, we are going to take a look at where Bristol-Myers Squibb Company (NYSE:BMY) stands against other best pharma stocks to buy for long term growth. U.S. Pharma Turns to China for Drug Deals With big American [\u2026]",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9274",
+                "source": "Insider Monkey",
+                "ticker": "BMY",
+                "title": "Is Bristol-Myers Squibb Company (BMY) the Best Pharma Stock to Buy for Long Term Growth?",
+                "url": "https://finance.yahoo.com/news/bristol-myers-squibb-company-bmy-173846451.html"
+            },
+            {
+                "headline": "BMS could soon face competition in the HCM space as Cytokinetics awaits a marketing application decision from the FDA for aficamten.",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.0772",
+                "source": "Clinical Trials Arena",
+                "ticker": "BMY",
+                "title": "BMS\u2019 Camzyos flops in Phase III non-obstructive hypertrophic cardiomyopathy trial",
+                "url": "https://finance.yahoo.com/news/bms-camzyos-flops-phase-iii-180630399.html"
+            },
+            {
+                "headline": "BMS could soon face competition in the HCM space as Cytokinetics awaits a marketing application decision from the FDA for aficamten.",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.0772",
+                "source": "Clinical Trials Arena",
+                "ticker": "BMY",
+                "title": "BMS\u2019 Camzyos flops in Phase III non-obstructive hypertrophic cardiomyopathy trial",
+                "url": "https://finance.yahoo.com/news/bms-camzyos-flops-phase-iii-180630399.html"
+            },
+            {
+                "headline": "We recently published a list of 10 Best Pharma Stocks to Buy for Long Term Growth. In this article, we are going to take a look at where Bristol-Myers Squibb Company (NYSE:BMY) stands against other best pharma stocks to buy for long term growth. U.S. Pharma Turns to China for Drug Deals With big American [\u2026]",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9274",
+                "source": "Insider Monkey",
+                "ticker": "BMY",
+                "title": "Is Bristol-Myers Squibb Company (BMY) the Best Pharma Stock to Buy for Long Term Growth?",
+                "url": "https://finance.yahoo.com/news/bristol-myers-squibb-company-bmy-173846451.html"
+            }
+        ],
+        "avgScore": 0.5023,
         "pctChange": -0.0026337331140140045
     },
     "4 15 2025": {
@@ -276,24 +322,34 @@
                 "url": "https://finance.yahoo.com/news/bristol-myers-squibb-company-bmy-113515189.html"
             },
             {
-                "headline": "We recently published a list of 10 Best Pharma Stocks to Buy for Long Term Growth. In this article, we are going to take a look at where Bristol-Myers Squibb Company (NYSE:BMY) stands against other best pharma stocks to buy for long term growth. U.S. Pharma Turns to China for Drug Deals With big American [\u2026]",
+                "headline": "PRINCETON, N.J., April 14, 2025--Bristol Myers Squibb Provides Update on Phase 3 ODYSSEY-HCM Trial",
                 "publication_date": "2025-04-15T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.9274",
-                "source": "Insider Monkey",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Business Wire",
                 "ticker": "BMY",
-                "title": "Is Bristol-Myers Squibb Company (BMY) the Best Pharma Stock to Buy for Long Term Growth?",
-                "url": "https://finance.yahoo.com/news/bristol-myers-squibb-company-bmy-173846451.html"
+                "title": "Bristol Myers Squibb Provides Update on Phase 3 ODYSSEY-HCM Trial",
+                "url": "https://finance.yahoo.com/news/bristol-myers-squibb-provides-phase-201500074.html"
             },
             {
-                "headline": "BMS could soon face competition in the HCM space as Cytokinetics awaits a marketing application decision from the FDA for aficamten.",
+                "headline": "Bristol Myers phase III study evaluating Camzyos for the treatment of adult patients with non-obstructive hypertrophic cardiomyopathy fails to meet its dual-primary endpoints.",
                 "publication_date": "2025-04-15T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.0772",
-                "source": "Clinical Trials Arena",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.4215",
+                "source": "Zacks",
                 "ticker": "BMY",
-                "title": "BMS\u2019 Camzyos flops in Phase III non-obstructive hypertrophic cardiomyopathy trial",
-                "url": "https://finance.yahoo.com/news/bms-camzyos-flops-phase-iii-180630399.html"
+                "title": "BMY Down on Heart Drug Camzyos Failure in Late-Stage Study",
+                "url": "https://finance.yahoo.com/news/bmy-down-heart-drug-camzyos-121700186.html"
+            },
+            {
+                "headline": "Bristol Myers Squibb stock skidded Tuesday, tugging Cytokinetics lower, after Bristol's drug, Camzyos, failed in a heart disease study.",
+                "publication_date": "2025-04-15T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.6705",
+                "source": "Investor's Business Daily",
+                "ticker": "BMY",
+                "title": "Bristol Myers Slumps On Heart Drug Failure \u2014 Taking Cytokinetics With It",
+                "url": "https://finance.yahoo.com/m/99e030f1-3faf-357e-934c-65b39fcba011/bristol-myers-slumps-on-heart.html"
             },
             {
                 "headline": "Camzyos\u2019 failure in a form of hypertrophic cardiomyopathy dampened its commercial outlook and spurred debate as to whether other drugs like it would similarly struggle in testing.",
@@ -314,19 +370,9 @@
                 "ticker": "BMY",
                 "title": "BMY Down on Heart Drug Camzyos Failure in Late-Stage Study",
                 "url": "https://finance.yahoo.com/news/bmy-down-heart-drug-camzyos-121700186.html"
-            },
-            {
-                "headline": "BMS could soon face competition in the HCM space as Cytokinetics awaits a marketing application decision from the FDA for aficamten.",
-                "publication_date": "2025-04-15T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.0772",
-                "source": "Clinical Trials Arena",
-                "ticker": "BMY",
-                "title": "BMS\u2019 Camzyos flops in Phase III non-obstructive hypertrophic cardiomyopathy trial",
-                "url": "https://finance.yahoo.com/news/bms-camzyos-flops-phase-iii-180630399.html"
             }
         ],
-        "avgScore": 0.20914000000000002,
+        "avgScore": -0.12588,
         "pctChange": -0.01279998779296875
     },
     "4 14 2025": {
@@ -342,14 +388,14 @@
                 "url": "https://finance.yahoo.com/news/bms-opdivo-combo-approved-us-083217062.html"
             },
             {
-                "headline": "PRINCETON, N.J., April 14, 2025--Bristol Myers Squibb Provides Update on Phase 3 ODYSSEY-HCM Trial",
+                "headline": "Bristol Myers (BMY) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
                 "publication_date": "2025-04-14T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Business Wire",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.1621",
+                "source": "Zacks",
                 "ticker": "BMY",
-                "title": "Bristol Myers Squibb Provides Update on Phase 3 ODYSSEY-HCM Trial",
-                "url": "https://finance.yahoo.com/news/bristol-myers-squibb-provides-phase-201500074.html"
+                "title": "Bristol Myers Squibb Company (BMY) is Attracting Investor Attention: Here is What You Should Know",
+                "url": "https://finance.yahoo.com/news/bristol-myers-squibb-company-bmy-130013918.html"
             },
             {
                 "headline": "Bristol Myers (BMY) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
@@ -362,37 +408,17 @@
                 "url": "https://finance.yahoo.com/news/bristol-myers-squibb-company-bmy-130013918.html"
             },
             {
-                "headline": "Bristol Myers Squibb stock skidded Tuesday, tugging Cytokinetics lower, after Bristol's drug, Camzyos, failed in a heart disease study.",
+                "headline": "The approval is anchored in the outcomes from the open-label randomised Phase III CheckMate-9DW trial.",
                 "publication_date": "2025-04-14T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.6705",
-                "source": "Investor's Business Daily",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4767",
+                "source": "Pharmaceutical Technology",
                 "ticker": "BMY",
-                "title": "Bristol Myers Slumps On Heart Drug Failure \u2014 Taking Cytokinetics With It",
-                "url": "https://finance.yahoo.com/m/99e030f1-3faf-357e-934c-65b39fcba011/bristol-myers-slumps-on-heart.html"
-            },
-            {
-                "headline": "Bristol Myers (BMY) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
-                "publication_date": "2025-04-14T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.1621",
-                "source": "Zacks",
-                "ticker": "BMY",
-                "title": "Bristol Myers Squibb Company (BMY) is Attracting Investor Attention: Here is What You Should Know",
-                "url": "https://finance.yahoo.com/news/bristol-myers-squibb-company-bmy-130013918.html"
-            },
-            {
-                "headline": "PRINCETON, N.J., April 14, 2025--Bristol Myers Squibb Provides Update on Phase 3 ODYSSEY-HCM Trial",
-                "publication_date": "2025-04-14T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Business Wire",
-                "ticker": "BMY",
-                "title": "Bristol Myers Squibb Provides Update on Phase 3 ODYSSEY-HCM Trial",
-                "url": "https://finance.yahoo.com/news/bristol-myers-squibb-provides-phase-201500074.html"
+                "title": "BMS\u2019 Opdivo combo approved in US for hepatocellular carcinoma",
+                "url": "https://finance.yahoo.com/news/bms-opdivo-combo-approved-us-083217062.html"
             }
         ],
-        "avgScore": -0.088975,
+        "avgScore": 0.1573,
         "pctChange": -0.02610050932226858
     },
     "4 11 2025": {
@@ -408,110 +434,44 @@
                 "url": "https://finance.yahoo.com/news/3-value-stocks-doghouse-130156319.html"
             },
             {
-                "headline": "We recently published a list of 10 Best Medical Stocks to Buy According to Billionaires. In this article, we are going to take a look at where Bristol-Myers Squibb Company (NYSE:BMY) stands against other best medical stocks to buy according to billionaires. Why are Healthcare Stocks Under Pressure? Some experts view medical, healthcare, and big [\u2026]",
+                "headline": "Pharma stocks tumbled Thursday after the Trump administration said the delay for reciprocal tariffs doesn't apply to sector-specific tariffs.",
                 "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.802",
-                "source": "Insider Monkey",
-                "ticker": "BMY",
-                "title": "Is Bristol-Myers Squibb Company (BMY) One of the Best Medical Stocks to Buy According to Billionaires?",
-                "url": "https://finance.yahoo.com/news/bristol-myers-squibb-company-bmy-195824477.html"
-            },
-            {
-                "headline": "Shares of biotech stock Halozyme found support at their 200-day line in a time where many stocks are below this level.",
-                "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.5994",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.3182",
                 "source": "Investor's Business Daily",
                 "ticker": "BMY",
-                "title": "Biotech Stock Bounces From Support, Shows Relative Strength Amid Volatile Market",
-                "url": "https://finance.yahoo.com/m/b74014e2-2a09-3691-abe1-a80e56248913/biotech-stock-bounces-from.html"
+                "title": "S&P, Dow Jones Pharma Names Rattled \u2014 Again \u2014 On Trump's Tariffs Whiplash",
+                "url": "https://finance.yahoo.com/m/5788e167-ba2e-3f2d-8e9e-4bfb72e0e2c1/s-p-dow-jones-pharma-names.html"
             },
             {
-                "headline": "Bristol-Myers Squibb (BMY) investors will be focused on the trajectory of Cobenfy, its schizophrenia",
+                "headline": "Pharma stocks tumbled Thursday after the Trump administration said the delay for reciprocal tariffs doesn't apply to sector-specific tariffs.",
                 "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.3818",
-                "source": "MT Newswires",
-                "ticker": "BMY",
-                "title": "Bristol-Myers Squibb Investors Likely to Focus on Performance of New Schizophrenia Therapy, UBS Says",
-                "url": "https://finance.yahoo.com/news/bristol-myers-squibb-investors-likely-191255196.html"
-            },
-            {
-                "headline": "PRINCETON, N.J., April 11, 2025--U.S. Food and Drug Administration Approves Opdivo plus Yervoy as a First-Line Treatment for Unresectable or Metastatic Hepatocellular Carcinoma",
-                "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4019",
-                "source": "Business Wire",
-                "ticker": "BMY",
-                "title": "U.S. Food and Drug Administration Approves Opdivo\u00ae (nivolumab) plus Yervoy\u00ae (ipilimumab) as a First-Line Treatment for Unresectable or Metastatic Hepatocellular Carcinoma",
-                "url": "https://finance.yahoo.com/news/u-food-drug-administration-approves-194900963.html"
-            },
-            {
-                "headline": "Shares of biotech stock Halozyme found support at their 200-day line in a time where many stocks are below this level.",
-                "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.5994",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.3182",
                 "source": "Investor's Business Daily",
                 "ticker": "BMY",
-                "title": "Biotech Stock Bounces From Support, Shows Relative Strength Amid Volatile Market",
-                "url": "https://finance.yahoo.com/m/b74014e2-2a09-3691-abe1-a80e56248913/biotech-stock-bounces-from.html"
+                "title": "S&P, Dow Jones Pharma Names Rattled \u2014 Again \u2014 On Trump's Tariffs Whiplash",
+                "url": "https://finance.yahoo.com/m/5788e167-ba2e-3f2d-8e9e-4bfb72e0e2c1/s-p-dow-jones-pharma-names.html"
+            },
+            {
+                "headline": "Value stocks typically trade at discounts to the broader market, offering patient investors the opportunity to buy businesses when they\u2019re out of favor. The key risk, however, is that these stocks are usually cheap for a reason \u2013 five cents for a piece of fruit may seem like a great deal until you find out it\u2019s rotten.",
+                "publication_date": "2025-04-11T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8442",
+                "source": "StockStory",
+                "ticker": "BMY",
+                "title": "3 Value Stocks in the Doghouse",
+                "url": "https://finance.yahoo.com/news/3-value-stocks-doghouse-130156319.html"
             }
         ],
-        "avgScore": 0.6058600000000001,
+        "avgScore": 0.263,
         "pctChange": 0.012423606379203032
     },
     "4 10 2025": {
         "importantArticles": [
             {
-                "headline": "Pacira Biosciences, Edgewise, Sarepta Therapeutics, Amgen and Bristol Myers Squibb are included in this Analyst Blog.",
-                "publication_date": "2025-04-10T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "BMY",
-                "title": "The Zacks Analyst Blog Highlights Pacira Biosciences, Edgewise, Sarepta Therapeutics, Amgen and Bristol Myers Squibb",
-                "url": "https://finance.yahoo.com/news/zacks-analyst-blog-highlights-pacira-090000796.html"
-            },
-            {
-                "headline": "Pharma stocks tumbled Thursday after the Trump administration said the delay for reciprocal tariffs doesn't apply to sector-specific tariffs.",
-                "publication_date": "2025-04-10T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.3182",
-                "source": "Investor's Business Daily",
-                "ticker": "BMY",
-                "title": "S&P, Dow Jones Pharma Names Rattled \u2014 Again \u2014 On Trump's Tariffs Whiplash",
-                "url": "https://finance.yahoo.com/m/5788e167-ba2e-3f2d-8e9e-4bfb72e0e2c1/s-p-dow-jones-pharma-names.html"
-            },
-            {
-                "headline": "Pharma stocks tumbled Thursday after the Trump administration said the delay for reciprocal tariffs doesn't apply to sector-specific tariffs.",
-                "publication_date": "2025-04-10T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.3182",
-                "source": "Investor's Business Daily",
-                "ticker": "BMY",
-                "title": "S&P, Dow Jones Pharma Names Rattled \u2014 Again \u2014 On Trump's Tariffs Whiplash",
-                "url": "https://finance.yahoo.com/m/5788e167-ba2e-3f2d-8e9e-4bfb72e0e2c1/s-p-dow-jones-pharma-names.html"
-            },
-            {
-                "headline": "Pacira Biosciences, Edgewise, Sarepta Therapeutics, Amgen and Bristol Myers Squibb are included in this Analyst Blog.",
-                "publication_date": "2025-04-10T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "BMY",
-                "title": "The Zacks Analyst Blog Highlights Pacira Biosciences, Edgewise, Sarepta Therapeutics, Amgen and Bristol Myers Squibb",
-                "url": "https://finance.yahoo.com/news/zacks-analyst-blog-highlights-pacira-090000796.html"
-            }
-        ],
-        "avgScore": -0.1591,
-        "pctChange": 0.004954419431944242
-    },
-    "4 9 2025": {
-        "importantArticles": [
-            {
                 "headline": "We recently published a list of the 10 High Growth Dividend Paying Stocks to Invest in. In this article, we are going to take a look at where Bristol-Myers Squibb Company (NYSE:BMY) stands against other profitable dividend stocks. Amid growing concerns about economic growth and President Trump\u2019s tariffs, investors have been seeking safer investment options. [\u2026]",
-                "publication_date": "2025-04-09T00:00:00.000Z",
+                "publication_date": "2025-04-10T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.891",
                 "source": "Insider Monkey",
@@ -521,7 +481,7 @@
             },
             {
                 "headline": "Health care stocks rose late Wednesday afternoon, with the NYSE Health Care Index adding 3.3% and th",
-                "publication_date": "2025-04-09T00:00:00.000Z",
+                "publication_date": "2025-04-10T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.7506",
                 "source": "MT Newswires",
@@ -529,6 +489,52 @@
                 "title": "Sector Update: Health Care Stocks Gain Late Afternoon",
                 "url": "https://finance.yahoo.com/news/sector-health-care-stocks-gain-200231910.html"
             },
+            {
+                "headline": "PCRX and EWTX are in the spotlight this week following important regulatory and pipeline news.",
+                "publication_date": "2025-04-10T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.2023",
+                "source": "Zacks",
+                "ticker": "BMY",
+                "title": "Biotech Stock Roundup: PCRX Up on Patent News, EWTX Down on Study Data & More",
+                "url": "https://finance.yahoo.com/news/biotech-stock-roundup-pcrx-patent-174500051.html"
+            },
+            {
+                "headline": "Bristol Myers gets FDA approval for Opdivo monotherapy and Opdivo plus Yervoy combination for colorectal cancer in the first-line setting.",
+                "publication_date": "2025-04-10T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.3182",
+                "source": "Zacks",
+                "ticker": "BMY",
+                "title": "BMY Gets FDA Nod for Label Expansion of Opdivo plus Yervoy Combo",
+                "url": "https://finance.yahoo.com/news/bmy-gets-fda-nod-label-174400443.html"
+            },
+            {
+                "headline": "Bristol-Myers Squibb (NYSE:BMY) recently received FDA approval for the combination therapy of Opdivo and Yervoy, significantly enhancing its immunotherapy portfolio. Despite this positive development, the company's share price fell by 7% over the last quarter. This decline occurred in the backdrop of a broader market downturn, where major indices, like the S&P 500, experienced a 12% drop due to escalating trade tensions and tariff announcements. BMY\u2019s stock performance, influenced by regional...",
+                "publication_date": "2025-04-10T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.104",
+                "source": "Simply Wall St.",
+                "ticker": "BMY",
+                "title": "Bristol-Myers Squibb (NYSE:BMY) Achieves Early FDA Approval for Opdivo Plus Yervoy Therapy",
+                "url": "https://finance.yahoo.com/news/bristol-myers-squibb-nyse-bmy-175017672.html"
+            },
+            {
+                "headline": "In the closing of the recent trading day, Bristol Myers Squibb (BMY) stood at $53.78, denoting a +1.34% change from the preceding trading day.",
+                "publication_date": "2025-04-10T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "BMY",
+                "title": "Here's Why Bristol Myers Squibb (BMY) Gained But Lagged the Market Today",
+                "url": "https://finance.yahoo.com/news/heres-why-bristol-myers-squibb-214505812.html"
+            }
+        ],
+        "avgScore": 0.20309999999999997,
+        "pctChange": 0.004954419431944242
+    },
+    "4 9 2025": {
+        "importantArticles": [
             {
                 "headline": "The U.S. Food and Drug Administration (FDA) on Tuesday approved Bristol Myers Squibb & Co\u2019s (NYSE:BMY) Opdivo (nivolumab) plus Yervoy (ipilimumab) as a first-line treatment of adult and pediatric patients (12 years and older) with unresectable or metastatic microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) colorectal cancer (CRC). The approval comes ahead of over two months of the June 23, 2025, Prescription Drug User Fee Act goal date. The approval is based on the Chec",
                 "publication_date": "2025-04-09T00:00:00.000Z",
@@ -540,24 +546,14 @@
                 "url": "https://finance.yahoo.com/news/fda-approves-bristol-myers-opdivo-145853592.html"
             },
             {
-                "headline": "Bristol Myers gets FDA approval for Opdivo monotherapy and Opdivo plus Yervoy combination for colorectal cancer in the first-line setting.",
+                "headline": "PRINCETON, N.J., April 08, 2025--US FDA Approves Opdivo plus Yervoy as a Treatment for Patients with Previously Untreated Microsatellite Instability-High or Mismatch Repair...",
                 "publication_date": "2025-04-09T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.3182",
-                "source": "Zacks",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4019",
+                "source": "Business Wire",
                 "ticker": "BMY",
-                "title": "BMY Gets FDA Nod for Label Expansion of Opdivo plus Yervoy Combo",
-                "url": "https://finance.yahoo.com/news/bmy-gets-fda-nod-label-174400443.html"
-            },
-            {
-                "headline": "Bristol-Myers Squibb (NYSE:BMY) recently received FDA approval for the combination therapy of Opdivo and Yervoy, significantly enhancing its immunotherapy portfolio. Despite this positive development, the company's share price fell by 7% over the last quarter. This decline occurred in the backdrop of a broader market downturn, where major indices, like the S&P 500, experienced a 12% drop due to escalating trade tensions and tariff announcements. BMY\u2019s stock performance, influenced by regional...",
-                "publication_date": "2025-04-09T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.104",
-                "source": "Simply Wall St.",
-                "ticker": "BMY",
-                "title": "Bristol-Myers Squibb (NYSE:BMY) Achieves Early FDA Approval for Opdivo Plus Yervoy Therapy",
-                "url": "https://finance.yahoo.com/news/bristol-myers-squibb-nyse-bmy-175017672.html"
+                "title": "U.S. Food and Drug Administration Approves Opdivo\u00ae (nivolumab) plus Yervoy\u00ae (ipilimumab) as a Treatment for Patients with Previously Untreated Microsatellite Instability-High or Mismatch Repair Deficient Unresectable or Metastatic Colorectal Cancer1",
+                "url": "https://finance.yahoo.com/news/u-food-drug-administration-approves-193600303.html"
             },
             {
                 "headline": "(Bloomberg) -- Supply Lines is a daily newsletter that tracks global trade. Sign up here.President Donald Trump said his long-promised tariffs on pharmaceutical drugs will be coming soon, the latest signal that he plans to press ahead with more sectoral tariffs despite market fallout from his global levies.\u201cWe are going to be announcing very shortly a major tariff on pharmaceuticals,\u201d Trump said Tuesday at a fundraising gala for House Republicans, without providing details on the planned levy.\u201cO",
@@ -568,9 +564,39 @@
                 "ticker": "BMY",
                 "title": "Trump Says Pharmaceutical Tariffs Coming \u2018Very Shortly\u2019",
                 "url": "https://finance.yahoo.com/news/trump-says-pharmaceutical-tariffs-coming-094047688.html"
+            },
+            {
+                "headline": "(Bloomberg) -- Supply Lines is a daily newsletter that tracks global trade. Sign up here.President Donald Trump said his long-promised tariffs on pharmaceutical drugs will be coming soon, the latest signal that he plans to press ahead with more sectoral tariffs despite market fallout from his global levies.\u201cWe are going to be announcing very shortly a major tariff on pharmaceuticals,\u201d Trump said Tuesday at a fundraising gala for House Republicans, without providing details on the planned levy.\u201cO",
+                "publication_date": "2025-04-09T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Bloomberg",
+                "ticker": "BMY",
+                "title": "Trump Says Pharmaceutical Tariffs Coming \u2018Very Shortly\u2019",
+                "url": "https://finance.yahoo.com/news/trump-says-pharmaceutical-tariffs-coming-094047688.html"
+            },
+            {
+                "headline": "PRINCETON, N.J., April 08, 2025--US FDA Approves Opdivo plus Yervoy as a Treatment for Patients with Previously Untreated Microsatellite Instability-High or Mismatch Repair...",
+                "publication_date": "2025-04-09T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4019",
+                "source": "Business Wire",
+                "ticker": "BMY",
+                "title": "U.S. Food and Drug Administration Approves Opdivo\u00ae (nivolumab) plus Yervoy\u00ae (ipilimumab) as a Treatment for Patients with Previously Untreated Microsatellite Instability-High or Mismatch Repair Deficient Unresectable or Metastatic Colorectal Cancer1",
+                "url": "https://finance.yahoo.com/news/u-food-drug-administration-approves-193600303.html"
+            },
+            {
+                "headline": "The U.S. Food and Drug Administration (FDA) on Tuesday approved Bristol Myers Squibb & Co\u2019s (NYSE:BMY) Opdivo (nivolumab) plus Yervoy (ipilimumab) as a first-line treatment of adult and pediatric patients (12 years and older) with unresectable or metastatic microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) colorectal cancer (CRC). The approval comes ahead of over two months of the June 23, 2025, Prescription Drug User Fee Act goal date. The approval is based on the Chec",
+                "publication_date": "2025-04-09T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5574",
+                "source": "Benzinga",
+                "ticker": "BMY",
+                "title": "FDA Approves Bristol Myers' Opdivo Plus Yervoy Combo For Untreated Colorectal Cancer Patients",
+                "url": "https://finance.yahoo.com/news/fda-approves-bristol-myers-opdivo-145853592.html"
             }
         ],
-        "avgScore": 0.24738749999999998,
+        "avgScore": 0.3197666666666667,
         "pctChange": -0.061034657453470316
     },
     "4 8 2025": {
@@ -586,26 +612,6 @@
                 "url": "https://finance.yahoo.com/news/goldman-turns-cautious-major-pharma-130817424.html"
             },
             {
-                "headline": "PRINCETON, N.J., April 08, 2025--US FDA Approves Opdivo plus Yervoy as a Treatment for Patients with Previously Untreated Microsatellite Instability-High or Mismatch Repair...",
-                "publication_date": "2025-04-08T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4019",
-                "source": "Business Wire",
-                "ticker": "BMY",
-                "title": "U.S. Food and Drug Administration Approves Opdivo\u00ae (nivolumab) plus Yervoy\u00ae (ipilimumab) as a Treatment for Patients with Previously Untreated Microsatellite Instability-High or Mismatch Repair Deficient Unresectable or Metastatic Colorectal Cancer1",
-                "url": "https://finance.yahoo.com/news/u-food-drug-administration-approves-193600303.html"
-            },
-            {
-                "headline": "PRINCETON, N.J., April 08, 2025--US FDA Approves Opdivo plus Yervoy as a Treatment for Patients with Previously Untreated Microsatellite Instability-High or Mismatch Repair...",
-                "publication_date": "2025-04-08T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4019",
-                "source": "Business Wire",
-                "ticker": "BMY",
-                "title": "U.S. Food and Drug Administration Approves Opdivo\u00ae (nivolumab) plus Yervoy\u00ae (ipilimumab) as a Treatment for Patients with Previously Untreated Microsatellite Instability-High or Mismatch Repair Deficient Unresectable or Metastatic Colorectal Cancer1",
-                "url": "https://finance.yahoo.com/news/u-food-drug-administration-approves-193600303.html"
-            },
-            {
                 "headline": "Investing.com -- Goldman Sachs initiated coverage on several large-cap pharmaceutical companies, taking a cautious stance on Bristol-Myers Squibb (NYSE:BMY), Pfizer (NYSE:PFE), and AbbVie (NYSE:ABBV), while upgrading Eli Lilly (NYSE:LLY) to a Buy on strong growth prospects in obesity treatments.",
                 "publication_date": "2025-04-08T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -616,12 +622,22 @@
                 "url": "https://finance.yahoo.com/news/goldman-turns-cautious-major-pharma-130817424.html"
             }
         ],
-        "avgScore": 0.5868,
+        "avgScore": 0.7717,
         "pctChange": 0.012624872573871933
     },
     "4 3 2025": {
         "importantArticles": [
             {
+                "headline": "Hello, Reader. In 1939, the British government wanted to boost public morale before the outbreak of World War II. So, they created a series of posters that featured simple motivational sayings. The posters were never officially released, but one in the series gained widespread popularity after it was rediscovered in an English bookshop nearly 60 years later.InvestorPlace - Stock Market News, Stock Advice & Trading Tips And there\u2019s a good chance you\u2019ve seen it\u2026 This bright red poster quickly beca",
+                "publication_date": "2025-04-03T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9571",
+                "source": "InvestorPlace",
+                "ticker": "BMY",
+                "title": "Laser-Focus on These Tariff-Proof Stocks Before It\u2019s Too Late",
+                "url": "https://finance.yahoo.com/news/laser-focus-tariff-proof-stocks-193333739.html"
+            },
+            {
                 "headline": "Big pharmaceutical stocks mostly rose after President Trump\u2019s executive order exempted medicines from new tariffs. Merck, Bristol-Myers Squibb, and Johnson & Johnson were among the top performers in the S&P 500, with the sector also benefiting from its status as a defensive play.",
                 "publication_date": "2025-04-03T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -640,6 +656,16 @@
                 "ticker": "BMY",
                 "title": "The Zacks Analyst Blog Highlights Exxon Mobil, Bristol-Myers Squibb, Chubb and Hamilton Beach Brands",
                 "url": "https://finance.yahoo.com/news/zacks-analyst-blog-highlights-exxon-145000755.html"
+            },
+            {
+                "headline": "Today's Research Daily features new research reports on 16 major stocks, including Exxon Mobil Corporation (XOM), Bristol-Myers Squibb Company (BMY) and Chubb Limited (CB), as well as a micro-cap stock Hamilton Beach Brands Holding Company (HBB).",
+                "publication_date": "2025-04-03T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.0516",
+                "source": "Zacks",
+                "ticker": "BMY",
+                "title": "Top Research Reports for Exxon Mobil, Bristol-Myers Squibb & Chubb",
+                "url": "https://finance.yahoo.com/news/top-research-reports-exxon-mobil-202600539.html"
             },
             {
                 "headline": "Exxon Mobil, Bristol-Myers Squibb, Chubb and Hamilton Beach Brands are part of the Zacks top Analyst Blog.",
@@ -662,30 +688,30 @@
                 "url": "https://finance.yahoo.com/m/4d202ae2-292d-33fc-b5df-f9468db0055c/pharma-stocks-aren-t-in-the.html"
             }
         ],
-        "avgScore": 0.35645000000000004,
+        "avgScore": 0.4304,
         "pctChange": -0.03321680944993867
     },
     "4 2 2025": {
         "importantArticles": [
             {
-                "headline": "Hello, Reader. In 1939, the British government wanted to boost public morale before the outbreak of World War II. So, they created a series of posters that featured simple motivational sayings. The posters were never officially released, but one in the series gained widespread popularity after it was rediscovered in an English bookshop nearly 60 years later.InvestorPlace - Stock Market News, Stock Advice & Trading Tips And there\u2019s a good chance you\u2019ve seen it\u2026 This bright red poster quickly beca",
+                "headline": "Bristol Myers (BMY) has an impressive earnings surprise history and currently possesses the right combination of the two key ingredients for a likely beat in its next quarterly report.",
                 "publication_date": "2025-04-02T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.9571",
-                "source": "InvestorPlace",
-                "ticker": "BMY",
-                "title": "Laser-Focus on These Tariff-Proof Stocks Before It\u2019s Too Late",
-                "url": "https://finance.yahoo.com/news/laser-focus-tariff-proof-stocks-193333739.html"
-            },
-            {
-                "headline": "Today's Research Daily features new research reports on 16 major stocks, including Exxon Mobil Corporation (XOM), Bristol-Myers Squibb Company (BMY) and Chubb Limited (CB), as well as a micro-cap stock Hamilton Beach Brands Holding Company (HBB).",
-                "publication_date": "2025-04-02T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.0516",
+                "sentimentScore": "0.6597",
                 "source": "Zacks",
                 "ticker": "BMY",
-                "title": "Top Research Reports for Exxon Mobil, Bristol-Myers Squibb & Chubb",
-                "url": "https://finance.yahoo.com/news/top-research-reports-exxon-mobil-202600539.html"
+                "title": "Will Bristol Myers (BMY) Beat Estimates Again in Its Next Earnings Report?",
+                "url": "https://finance.yahoo.com/news/bristol-myers-bmy-beat-estimates-161013240.html"
+            },
+            {
+                "headline": "BMY obtains CHMP recommendation for Opdivo for perioperative regimen of neoadjuvant Opdivo and chemotherapy followed by surgery and adjuvant Opdivo for resectable non-small cell lung cancer.",
+                "publication_date": "2025-04-02T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.6597",
+                "source": "Zacks",
+                "ticker": "BMY",
+                "title": "CHMP Issues Positive Opinion for Label Expansion of BMY's Opdivo",
+                "url": "https://finance.yahoo.com/news/chmp-issues-positive-opinion-label-190000824.html"
             },
             {
                 "headline": "High-yielding dividend stocks can be great investments to hold on to in your portfolio, but only if they're safe.  Betting on a high yield can be dangerous because if it ends up getting cut, you could lose all or most of the dividend income, and the stock may crash in the process as dividend investors could look elsewhere for a high payout.  Healthcare giant Bristol Myers Squibb (NYSE: BMY) provides investors with a fairly high yield today -- 4.1%.",
@@ -708,27 +734,27 @@
                 "url": "https://finance.yahoo.com/news/bristol-myers-squibbs-high-yielding-094000553.html"
             },
             {
-                "headline": "Today's Research Daily features new research reports on 16 major stocks, including Exxon Mobil Corporation (XOM), Bristol-Myers Squibb Company (BMY) and Chubb Limited (CB), as well as a micro-cap stock Hamilton Beach Brands Holding Company (HBB).",
+                "headline": "BMY obtains CHMP recommendation for Opdivo for perioperative regimen of neoadjuvant Opdivo and chemotherapy followed by surgery and adjuvant Opdivo for resectable non-small cell lung cancer.",
                 "publication_date": "2025-04-02T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.0516",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.6597",
                 "source": "Zacks",
                 "ticker": "BMY",
-                "title": "Top Research Reports for Exxon Mobil, Bristol-Myers Squibb & Chubb",
-                "url": "https://finance.yahoo.com/news/top-research-reports-exxon-mobil-202600539.html"
+                "title": "CHMP Issues Positive Opinion for Label Expansion of BMY's Opdivo",
+                "url": "https://finance.yahoo.com/news/chmp-issues-positive-opinion-label-190000824.html"
             },
             {
-                "headline": "Hello, Reader. In 1939, the British government wanted to boost public morale before the outbreak of World War II. So, they created a series of posters that featured simple motivational sayings. The posters were never officially released, but one in the series gained widespread popularity after it was rediscovered in an English bookshop nearly 60 years later.InvestorPlace - Stock Market News, Stock Advice & Trading Tips And there\u2019s a good chance you\u2019ve seen it\u2026 This bright red poster quickly beca",
+                "headline": "Bristol Myers (BMY) has an impressive earnings surprise history and currently possesses the right combination of the two key ingredients for a likely beat in its next quarterly report.",
                 "publication_date": "2025-04-02T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.9571",
-                "source": "InvestorPlace",
+                "sentimentScore": "0.6597",
+                "source": "Zacks",
                 "ticker": "BMY",
-                "title": "Laser-Focus on These Tariff-Proof Stocks Before It\u2019s Too Late",
-                "url": "https://finance.yahoo.com/news/laser-focus-tariff-proof-stocks-193333739.html"
+                "title": "Will Bristol Myers (BMY) Beat Estimates Again in Its Next Earnings Report?",
+                "url": "https://finance.yahoo.com/news/bristol-myers-bmy-beat-estimates-161013240.html"
             }
         ],
-        "avgScore": 0.06369999999999998,
+        "avgScore": -0.27253333333333335,
         "pctChange": -0.029865719683993187
     },
     "4 1 2025": {
@@ -754,24 +780,14 @@
                 "url": "https://finance.yahoo.com/news/beat-p-500-cash-gushing-120000196.html"
             },
             {
-                "headline": "Bristol Myers (BMY) has an impressive earnings surprise history and currently possesses the right combination of the two key ingredients for a likely beat in its next quarterly report.",
+                "headline": "We recently published a list of Dividend Capture Strategy: 15 High Yield Stocks to Buy in April. In this article, we are going to take a look at where Bristol-Myers Squibb Company (NYSE:BMY) stands against other best high yield stocks to buy in April. Dividend investing appears to be a simple strategy on the surface, [\u2026]",
                 "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.6597",
-                "source": "Zacks",
+                "sentimentScore": "0.6369",
+                "source": "Insider Monkey",
                 "ticker": "BMY",
-                "title": "Will Bristol Myers (BMY) Beat Estimates Again in Its Next Earnings Report?",
-                "url": "https://finance.yahoo.com/news/bristol-myers-bmy-beat-estimates-161013240.html"
-            },
-            {
-                "headline": "BMY obtains CHMP recommendation for Opdivo for perioperative regimen of neoadjuvant Opdivo and chemotherapy followed by surgery and adjuvant Opdivo for resectable non-small cell lung cancer.",
-                "publication_date": "2025-04-01T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.6597",
-                "source": "Zacks",
-                "ticker": "BMY",
-                "title": "CHMP Issues Positive Opinion for Label Expansion of BMY's Opdivo",
-                "url": "https://finance.yahoo.com/news/chmp-issues-positive-opinion-label-190000824.html"
+                "title": "Bristol-Myers Squibb Company (BMY): Among the Best High Yield Stocks to Buy in April for Dividend Capture",
+                "url": "https://finance.yahoo.com/news/bristol-myers-squibb-company-bmy-181009170.html"
             },
             {
                 "headline": "Recently, Zacks.com users have been paying close attention to Bristol Myers (BMY). This makes it worthwhile to examine what the stock has in store.",
@@ -784,24 +800,8 @@
                 "url": "https://finance.yahoo.com/news/bristol-myers-squibb-company-bmy-130014034.html"
             },
             {
-                "headline": "Bristol Myers (BMY) has an impressive earnings surprise history and currently possesses the right combination of the two key ingredients for a likely beat in its next quarterly report.",
-                "publication_date": "2025-04-01T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6597",
-                "source": "Zacks",
-                "ticker": "BMY",
-                "title": "Will Bristol Myers (BMY) Beat Estimates Again in Its Next Earnings Report?",
-                "url": "https://finance.yahoo.com/news/bristol-myers-bmy-beat-estimates-161013240.html"
-            }
-        ],
-        "avgScore": 0.3938,
-        "pctChange": 0.0008395883181056774
-    },
-    "3 31 2025": {
-        "importantArticles": [
-            {
                 "headline": "We recently published a list of Dividend Capture Strategy: 15 High Yield Stocks to Buy in April. In this article, we are going to take a look at where Bristol-Myers Squibb Company (NYSE:BMY) stands against other best high yield stocks to buy in April. Dividend investing appears to be a simple strategy on the surface, [\u2026]",
-                "publication_date": "2025-03-31T00:00:00.000Z",
+                "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.6369",
                 "source": "Insider Monkey",
@@ -810,32 +810,22 @@
                 "url": "https://finance.yahoo.com/news/bristol-myers-squibb-company-bmy-181009170.html"
             },
             {
-                "headline": "We recently published a list of Dividend Capture Strategy: 15 High Yield Stocks to Buy in April. In this article, we are going to take a look at where Bristol-Myers Squibb Company (NYSE:BMY) stands against other best high yield stocks to buy in April. Dividend investing appears to be a simple strategy on the surface, [\u2026]",
-                "publication_date": "2025-03-31T00:00:00.000Z",
+                "headline": "Investors seeking relief from stock market volatility should take a closer look at Bristol Myers Squibb (NYSE: BMY).  At the time of writing, shares of the healthcare giant have climbed 4% year to date -- a notable outlier amid the broader stock market sell-off, with the S&P 500 index currently down nearly 10% from its peak.  Here's why this cash-generating biopharmaceutical leader is poised to continue outperforming the S&P 500.",
+                "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.6369",
-                "source": "Insider Monkey",
+                "sentimentScore": "0.743",
+                "source": "Motley Fool",
                 "ticker": "BMY",
-                "title": "Bristol-Myers Squibb Company (BMY): Among the Best High Yield Stocks to Buy in April for Dividend Capture",
-                "url": "https://finance.yahoo.com/news/bristol-myers-squibb-company-bmy-181009170.html"
+                "title": "Beat the S&P 500 With This Cash-Gushing Dividend Stock",
+                "url": "https://finance.yahoo.com/news/beat-p-500-cash-gushing-120000196.html"
             }
         ],
-        "avgScore": 0.6369,
-        "pctChange": -0.023610453315772172
+        "avgScore": 0.651475,
+        "pctChange": 0.0008395883181056774
     },
     "3 28 2025": {
         "importantArticles": [
             {
-                "headline": "Bristol-Myers Squibb (NYSE:BMY) recently announced positive topline results from its Phase 3 trials for Sotyktu, generating increased interest from rheumatologists despite some skepticism on efficacy metrics. This announcement, along with the European Commission's approval of Breyanzi for non-Hodgkin lymphoma treatment and Opdivo's approval for liver cancer treatment, could have influenced investor sentiment, contributing to a 2.12% price increase for the company over the last quarter. These...",
-                "publication_date": "2025-03-28T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.9107",
-                "source": "Simply Wall St.",
-                "ticker": "BMY",
-                "title": "Bristol-Myers Squibb (NYSE:BMY) Sees Rising Interest in Sotyktu Despite 3% Share Price Dip",
-                "url": "https://finance.yahoo.com/news/bristol-myers-squibb-nyse-bmy-172232506.html"
-            },
-            {
                 "headline": "PRINCETON, N.J., March 28, 2025--BMS Receives Positive CHMP Opinion for Perioperative Regimen of Neoadjuvant Opdivo and Chemotherapy Followed by Surgery and Adjuvant Opdivo....",
                 "publication_date": "2025-03-28T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -874,19 +864,9 @@
                 "ticker": "BMY",
                 "title": "Bristol Myers Squibb Receives Positive CHMP Opinion for Perioperative Regimen of Neoadjuvant Opdivo\u00ae (nivolumab) and Chemotherapy Followed by Surgery and Adjuvant Opdivo for Resectable Non-Small Cell Lung Cancer in Patients with Tumor Cell PD-L1...",
                 "url": "https://finance.yahoo.com/news/bristol-myers-squibb-receives-positive-125300478.html"
-            },
-            {
-                "headline": "Bristol-Myers Squibb (NYSE:BMY) recently announced positive topline results from its Phase 3 trials for Sotyktu, generating increased interest from rheumatologists despite some skepticism on efficacy metrics. This announcement, along with the European Commission's approval of Breyanzi for non-Hodgkin lymphoma treatment and Opdivo's approval for liver cancer treatment, could have influenced investor sentiment, contributing to a 2.12% price increase for the company over the last quarter. These...",
-                "publication_date": "2025-03-28T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.9107",
-                "source": "Simply Wall St.",
-                "ticker": "BMY",
-                "title": "Bristol-Myers Squibb (NYSE:BMY) Sees Rising Interest in Sotyktu Despite 3% Share Price Dip",
-                "url": "https://finance.yahoo.com/news/bristol-myers-squibb-nyse-bmy-172232506.html"
             }
         ],
-        "avgScore": 0.6166333333333333,
+        "avgScore": 0.4696,
         "pctChange": 0.016161275463101272
     },
     "3 27 2025": {
@@ -922,6 +902,26 @@
                 "url": "https://finance.yahoo.com/news/arbutus-biopharma-abus-reports-q4-124502969.html"
             },
             {
+                "headline": "We recently published a list of Jim Cramer Recently Put These 10 Stocks Under Spotlight. In this article, we are going to take a look at where Merck & Co., Inc. (NYSE:MRK) stands against other stocks that Jim Cramer discussed recently. On Monday, Jim Cramer, host of Mad Money, shared his thoughts on how the [\u2026]",
+                "publication_date": "2025-03-27T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.2023",
+                "source": "Insider Monkey",
+                "ticker": "BMY",
+                "title": "Jim Cramer on Merck (MRK): \u201cI Like It at This Level \u2013 But I Like Bristol-Myers Even More!\u201d",
+                "url": "https://finance.yahoo.com/news/jim-cramer-merck-mrk-level-174513723.html"
+            },
+            {
+                "headline": "Bristol Myers Squibb (BMY) closed the most recent trading day at $59.21, moving +0.03% from the previous trading session.",
+                "publication_date": "2025-03-27T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "BMY",
+                "title": "Bristol Myers Squibb (BMY) Rises As Market Takes a Dip: Key Facts",
+                "url": "https://finance.yahoo.com/news/bristol-myers-squibb-bmy-rises-214516328.html"
+            },
+            {
                 "headline": "Arbutus (ABUS) delivered earnings and revenue surprises of 12.50% and 17.46%, respectively, for the quarter ended December 2024. Do the numbers hold clues to what lies ahead for the stock?",
                 "publication_date": "2025-03-27T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -930,29 +930,9 @@
                 "ticker": "BMY",
                 "title": "Arbutus Biopharma (ABUS) Reports Q4 Loss, Tops Revenue Estimates",
                 "url": "https://finance.yahoo.com/news/arbutus-biopharma-abus-reports-q4-124502969.html"
-            },
-            {
-                "headline": "Merck has filed for approval for a new drug that could buoy the bottom line from headwinds in recent months.",
-                "publication_date": "2025-03-27T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4767",
-                "source": "Yahoo Finance",
-                "ticker": "BMY",
-                "title": "Positive phase III data gives Merck potential boost for blockbuster Keytruda in injection form",
-                "url": "https://finance.yahoo.com/news/positive-phase-iii-data-gives-merck-potential-boost-for-blockbuster-keytruda-in-injection-form-150009481.html"
-            },
-            {
-                "headline": "Want to buy a good dividend stock and secure a great price in the process?  Three stocks that are trading at attractive valuations right now that you may not want to overlook are Bristol Myers Squibb (NYSE: BMY), United Parcel Service (NYSE: UPS), and Dell Technologies (NYSE: DELL).  Pharmaceutical giant Bristol Myers Squibb is trading at a significant discount; you can buy the stock at a forward price-to-earnings (P/E) multiple of just 9, which is based on analysts' estimates.",
-                "publication_date": "2025-03-27T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.943",
-                "source": "Motley Fool",
-                "ticker": "BMY",
-                "title": "3 Deeply Discounted Dividend Stocks to Buy Today",
-                "url": "https://finance.yahoo.com/news/3-deeply-discounted-dividend-stocks-121700401.html"
             }
         ],
-        "avgScore": 0.5158999999999999,
+        "avgScore": 0.26908,
         "pctChange": 0.019015278646406345
     },
     "3 26 2025": {
@@ -968,46 +948,6 @@
                 "url": "https://finance.yahoo.com/news/1-large-cap-stock-watchlist-130148674.html"
             },
             {
-                "headline": "Bristol Myers Squibb (BMY) closed the most recent trading day at $59.21, moving +0.03% from the previous trading session.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "BMY",
-                "title": "Bristol Myers Squibb (BMY) Rises As Market Takes a Dip: Key Facts",
-                "url": "https://finance.yahoo.com/news/bristol-myers-squibb-bmy-rises-214516328.html"
-            },
-            {
-                "headline": "We recently published a list of Jim Cramer Recently Put These 10 Stocks Under Spotlight. In this article, we are going to take a look at where Merck & Co., Inc. (NYSE:MRK) stands against other stocks that Jim Cramer discussed recently. On Monday, Jim Cramer, host of Mad Money, shared his thoughts on how the [\u2026]",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.2023",
-                "source": "Insider Monkey",
-                "ticker": "BMY",
-                "title": "Jim Cramer on Merck (MRK): \u201cI Like It at This Level \u2013 But I Like Bristol-Myers Even More!\u201d",
-                "url": "https://finance.yahoo.com/news/jim-cramer-merck-mrk-level-174513723.html"
-            },
-            {
-                "headline": "We recently published a list of Jim Cramer Recently Put These 10 Stocks Under Spotlight. In this article, we are going to take a look at where Merck & Co., Inc. (NYSE:MRK) stands against other stocks that Jim Cramer discussed recently. On Monday, Jim Cramer, host of Mad Money, shared his thoughts on how the [\u2026]",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.2023",
-                "source": "Insider Monkey",
-                "ticker": "BMY",
-                "title": "Jim Cramer on Merck (MRK): \u201cI Like It at This Level \u2013 But I Like Bristol-Myers Even More!\u201d",
-                "url": "https://finance.yahoo.com/news/jim-cramer-merck-mrk-level-174513723.html"
-            },
-            {
-                "headline": "Bristol Myers Squibb (BMY) closed the most recent trading day at $59.21, moving +0.03% from the previous trading session.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "BMY",
-                "title": "Bristol Myers Squibb (BMY) Rises As Market Takes a Dip: Key Facts",
-                "url": "https://finance.yahoo.com/news/bristol-myers-squibb-bmy-rises-214516328.html"
-            },
-            {
                 "headline": "Large-cap stocks are known for their staying power and ability to weather market storms better than smaller competitors. However, their sheer size makes it more challenging to maintain high growth rates as they\u2019ve already captured significant portions of their markets.",
                 "publication_date": "2025-03-26T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -1018,12 +958,22 @@
                 "url": "https://finance.yahoo.com/news/1-large-cap-stock-watchlist-130148674.html"
             }
         ],
-        "avgScore": 0.21883333333333332,
+        "avgScore": 0.8588,
         "pctChange": -0.005235521284804947
     },
     "3 25 2025": {
         "importantArticles": [
             {
+                "headline": "Bristol Myers Squibb has been a strong performer in the six months, rising over 23% in that time.  Investors desiring to increase income from Bristol Myers stock could look at selling covered calls on their underlying stock position to increase their income.  Bristol Myers stock, despite falling Monday, also trades above both the 50- and 200-day moving averages.",
+                "publication_date": "2025-03-25T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8097",
+                "source": "Investor's Business Daily",
+                "ticker": "BMY",
+                "title": "Bristol Myers Stock: This Covered Call Could Enhance Your Return Beyond A 4% Dividend Yield",
+                "url": "https://finance.yahoo.com/m/ca0a0841-ebf6-358a-8f8e-639818735f9a/bristol-myers-stock-this.html"
+            },
+            {
                 "headline": "Finding stocks expected to beat quarterly earnings estimates becomes an easier task with our Zacks Earnings ESP.",
                 "publication_date": "2025-03-25T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -1042,83 +992,27 @@
                 "ticker": "BMY",
                 "title": "How to Boost Your Portfolio with Top Medical Stocks Set to Beat Earnings",
                 "url": "https://finance.yahoo.com/news/boost-portfolio-top-medical-stocks-130007075.html"
+            },
+            {
+                "headline": "Bristol Myers Squibb has been a strong performer in the six months, rising over 23% in that time.  Investors desiring to increase income from Bristol Myers stock could look at selling covered calls on their underlying stock position to increase their income.  Bristol Myers stock, despite falling Monday, also trades above both the 50- and 200-day moving averages.",
+                "publication_date": "2025-03-25T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8097",
+                "source": "Investor's Business Daily",
+                "ticker": "BMY",
+                "title": "Bristol Myers Stock: This Covered Call Could Enhance Your Return Beyond A 4% Dividend Yield",
+                "url": "https://finance.yahoo.com/m/ca0a0841-ebf6-358a-8f8e-639818735f9a/bristol-myers-stock-this.html"
             }
         ],
-        "avgScore": 0.4215,
+        "avgScore": 0.6155999999999999,
         "pctChange": 0.0003378518576282109
     },
-    "3 24 2025": {
-        "importantArticles": [
-            {
-                "headline": "We recently published a list of 13 Best Healthcare Dividend Stocks to Invest in. In this article, we are going to take a look at where Bristol-Myers Squibb Company (NYSE:BMY) stands against other best healthcare dividend stocks to invest in. The US healthcare sector has been at the forefront since the emergence of COVID-19 in [\u2026]",
-                "publication_date": "2025-03-24T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8555",
-                "source": "Insider Monkey",
-                "ticker": "BMY",
-                "title": "Is Bristol-Myers Squibb (BMY) The Best Healthcare Dividend Stock to Invest in?",
-                "url": "https://finance.yahoo.com/news/bristol-myers-squibb-bmy-best-130909996.html"
-            },
-            {
-                "headline": "Bristol Myers Squibb has been a strong performer in the six months, rising over 23% in that time.  Investors desiring to increase income from Bristol Myers stock could look at selling covered calls on their underlying stock position to increase their income.  Bristol Myers stock, despite falling Monday, also trades above both the 50- and 200-day moving averages.",
-                "publication_date": "2025-03-24T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8097",
-                "source": "Investor's Business Daily",
-                "ticker": "BMY",
-                "title": "Bristol Myers Stock: This Covered Call Could Enhance Your Return Beyond A 4% Dividend Yield",
-                "url": "https://finance.yahoo.com/m/ca0a0841-ebf6-358a-8f8e-639818735f9a/bristol-myers-stock-this.html"
-            },
-            {
-                "headline": "Nothing drives down a drug\u2019s price like competition. According the U.S. Food and Drug Administration (FDA), a drug\u2019s wholesale price drops by an average of 39% after just one generic competitor enters the market. With four generic competitors, prices tumble by 79%. These reductions translate into billions of dollars in savings for American consumers.",
-                "publication_date": "2025-03-24T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.3612",
-                "source": "Quartz",
-                "ticker": "BMY",
-                "title": "8 key drug patents expiring soon \u2014 and what it means for the market",
-                "url": "https://finance.yahoo.com/news/8-key-drug-patents-expiring-090000809.html"
-            },
-            {
-                "headline": "Nothing drives down a drug\u2019s price like competition. According the U.S. Food and Drug Administration (FDA), a drug\u2019s wholesale price drops by an average of 39% after just one generic competitor enters the market. With four generic competitors, prices tumble by 79%. These reductions translate into billions of dollars in savings for American consumers.",
-                "publication_date": "2025-03-24T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.3612",
-                "source": "Quartz",
-                "ticker": "BMY",
-                "title": "8 key drug patents expiring soon \u2014 and what it means for the market",
-                "url": "https://finance.yahoo.com/news/8-key-drug-patents-expiring-090000809.html"
-            },
-            {
-                "headline": "Bristol Myers Squibb has been a strong performer in the six months, rising over 23% in that time.  Investors desiring to increase income from Bristol Myers stock could look at selling covered calls on their underlying stock position to increase their income.  Bristol Myers stock, despite falling Monday, also trades above both the 50- and 200-day moving averages.",
-                "publication_date": "2025-03-24T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8097",
-                "source": "Investor's Business Daily",
-                "ticker": "BMY",
-                "title": "Bristol Myers Stock: This Covered Call Could Enhance Your Return Beyond A 4% Dividend Yield",
-                "url": "https://finance.yahoo.com/m/ca0a0841-ebf6-358a-8f8e-639818735f9a/bristol-myers-stock-this.html"
-            },
-            {
-                "headline": "We recently published a list of 13 Best Healthcare Dividend Stocks to Invest in. In this article, we are going to take a look at where Bristol-Myers Squibb Company (NYSE:BMY) stands against other best healthcare dividend stocks to invest in. The US healthcare sector has been at the forefront since the emergence of COVID-19 in [\u2026]",
-                "publication_date": "2025-03-24T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8555",
-                "source": "Insider Monkey",
-                "ticker": "BMY",
-                "title": "Is Bristol-Myers Squibb (BMY) The Best Healthcare Dividend Stock to Invest in?",
-                "url": "https://finance.yahoo.com/news/bristol-myers-squibb-bmy-best-130909996.html"
-            }
-        ],
-        "avgScore": 0.6754666666666668,
-        "pctChange": -0.030466801943017437
-    },
-    "coef": 0.17719298245614035,
-    "avgCoef": 0.015356155592662556,
+    "coef": 0.3746130030959752,
+    "avgCoef": -0.03157651408842795,
     "similar": {
-        "ENPH": 0.43684210526315786,
-        "KDP": 0.3614035087719299,
-        "CSCO": 0.3403508771929824,
-        "PBR": 0.31052631578947365
+        "CSX": 0.590686274509804,
+        "AMCR": 0.5784313725490197,
+        "CMG": 0.556372549019608,
+        "JD": 0.5171568627450981
     }
 }

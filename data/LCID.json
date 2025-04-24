@@ -973,58 +973,12 @@
         "avgScore": 0.1531,
         "pctChange": -0.030864216305887694
     },
-    "3 24 2025": {
-        "importantArticles": [
-            {
-                "headline": "We recently published a list of 12 Best Battery Stocks to Buy According to Billionaires. In this article, we are going to take a look at where Lucid Group, Inc. (NASDAQ:LCID) stands against other best battery stocks to buy according to billionaires. Batteries are essential to our global energy landscape, especially nowadays, as they contribute [\u2026]",
-                "publication_date": "2025-03-24T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8885",
-                "source": "Insider Monkey",
-                "ticker": "LCID",
-                "title": "Is Lucid Group, Inc. (LCID) The Best Battery Stock to Buy According to Billionaires?",
-                "url": "https://finance.yahoo.com/news/lucid-group-inc-lcid-best-183038249.html"
-            },
-            {
-                "headline": "We recently published a list of Last Week\u2019s 10 Best-Performing Stocks. In this article, we are going to take a look at where Lucid Group Inc. (NASDAQ:LCID) stands against other last week\u2019s best-performing stocks. Ten firms outperformed Wall Street\u2019s three major indices over the past week, clocking in double-digit gains on the back of a [\u2026]",
-                "publication_date": "2025-03-24T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.34",
-                "source": "Insider Monkey",
-                "ticker": "LCID",
-                "title": "Why Lucid Group Inc. (LCID) Went Up Last Week?",
-                "url": "https://finance.yahoo.com/news/why-lucid-group-inc-lcid-001257529.html"
-            },
-            {
-                "headline": "We recently published a list of Last Week\u2019s 10 Best-Performing Stocks. In this article, we are going to take a look at where Lucid Group Inc. (NASDAQ:LCID) stands against other last week\u2019s best-performing stocks. Ten firms outperformed Wall Street\u2019s three major indices over the past week, clocking in double-digit gains on the back of a [\u2026]",
-                "publication_date": "2025-03-24T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.34",
-                "source": "Insider Monkey",
-                "ticker": "LCID",
-                "title": "Why Lucid Group Inc. (LCID) Went Up Last Week?",
-                "url": "https://finance.yahoo.com/news/why-lucid-group-inc-lcid-001257529.html"
-            },
-            {
-                "headline": "We recently published a list of 12 Best Battery Stocks to Buy According to Billionaires. In this article, we are going to take a look at where Lucid Group, Inc. (NASDAQ:LCID) stands against other best battery stocks to buy according to billionaires. Batteries are essential to our global energy landscape, especially nowadays, as they contribute [\u2026]",
-                "publication_date": "2025-03-24T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8885",
-                "source": "Insider Monkey",
-                "ticker": "LCID",
-                "title": "Is Lucid Group, Inc. (LCID) The Best Battery Stock to Buy According to Billionaires?",
-                "url": "https://finance.yahoo.com/news/lucid-group-inc-lcid-best-183038249.html"
-            }
-        ],
-        "avgScore": 0.61425,
-        "pctChange": -0.01619431635210698
-    },
-    "coef": -0.0798193676279813,
-    "avgCoef": 0.005497607934160141,
+    "coef": -0.06854140637917987,
+    "avgCoef": 0.019650284306543805,
     "similar": {
-        "IAG": 0.4834342831807924,
-        "NGD": 0.45030171548615866,
-        "KGC": 0.43825350905174637,
-        "CDE": 0.3704823478581773
+        "IAG": 0.5008795081555453,
+        "KGC": 0.48857720444646163,
+        "VZ": 0.4059760223997577,
+        "NGD": 0.40246107848287666
     }
 }

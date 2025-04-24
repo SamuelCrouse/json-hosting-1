@@ -1,4 +1,30 @@
 {
+    "4 23 2025": {
+        "importantArticles": [
+            {
+                "headline": "March has been the busiest month of the year so far for changing providers, the Current Account Switch Service said.",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "PA Media: Money",
+                "ticker": "LYG",
+                "title": "Nationwide, Lloyds and NatWest biggest \u2018winners\u2019 from account switching service",
+                "url": "https://finance.yahoo.com/news/nationwide-lloyds-natwest-biggest-winners-230100056.html"
+            },
+            {
+                "headline": "March has been the busiest month of the year so far for changing providers, the Current Account Switch Service said.",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "PA Media: Money",
+                "ticker": "LYG",
+                "title": "Nationwide, Lloyds and NatWest biggest \u2018winners\u2019 from account switching service",
+                "url": "https://finance.yahoo.com/news/nationwide-lloyds-natwest-biggest-winners-230100056.html"
+            }
+        ],
+        "avgScore": 0.0,
+        "pctChange": -0.00255101792567082
+    },
     "4 17 2025": {
         "importantArticles": [
             {
@@ -232,16 +258,6 @@
     "4 4 2025": {
         "importantArticles": [
             {
-                "headline": "March has been the busiest month of the year so far for changing providers, the Current Account Switch Service said.",
-                "publication_date": "2025-04-04T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "PA Media: Money",
-                "ticker": "LYG",
-                "title": "Nationwide, Lloyds and NatWest biggest \u2018winners\u2019 from account switching service",
-                "url": "https://finance.yahoo.com/news/nationwide-lloyds-natwest-biggest-winners-230100056.html"
-            },
-            {
                 "headline": "HSBC Holdings (HSBC) and Lloyds Banking Group (LYG) are providing about 600 million British pounds (",
                 "publication_date": "2025-04-04T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -280,19 +296,9 @@
                 "ticker": "LYG",
                 "title": "Market Chatter: HSBC Holdings, Lloyds Provide $781 Million Debt Financing for Kee Safety Acquisition",
                 "url": "https://finance.yahoo.com/news/market-chatter-hsbc-holdings-lloyds-104504962.html"
-            },
-            {
-                "headline": "March has been the busiest month of the year so far for changing providers, the Current Account Switch Service said.",
-                "publication_date": "2025-04-04T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "PA Media: Money",
-                "ticker": "LYG",
-                "title": "Nationwide, Lloyds and NatWest biggest \u2018winners\u2019 from account switching service",
-                "url": "https://finance.yahoo.com/news/nationwide-lloyds-natwest-biggest-winners-230100056.html"
             }
         ],
-        "avgScore": -0.09866666666666667,
+        "avgScore": -0.148,
         "pctChange": -0.014749340740164487
     },
     "4 3 2025": {
@@ -419,58 +425,12 @@
         "avgScore": 0.7964,
         "pctChange": 0.010416709963314922
     },
-    "3 24 2025": {
-        "importantArticles": [
-            {
-                "headline": "If you\u2019re thinking of changing bank, several are keen for your business: but time is running out to take advantage of some deals",
-                "publication_date": "2025-03-24T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.5023",
-                "source": "The Guardian",
-                "ticker": "LYG",
-                "title": "Power switching: banks compete for current account customers with cash payouts",
-                "url": "https://finance.yahoo.com/news/power-switching-banks-compete-current-103045147.html"
-            },
-            {
-                "headline": "The UK lender will transition its Oracle databases to Oracle Database@Azure as part of a new multi-year agreement.",
-                "publication_date": "2025-03-24T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4939",
-                "source": "Retail Banker International",
-                "ticker": "LYG",
-                "title": "Lloyds deepens alliance with Oracle to expedite cloud migration",
-                "url": "https://finance.yahoo.com/news/lloyds-deepens-alliance-oracle-expedite-115929732.html"
-            },
-            {
-                "headline": "The UK lender will transition its Oracle databases to Oracle Database@Azure as part of a new multi-year agreement.",
-                "publication_date": "2025-03-24T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4939",
-                "source": "Retail Banker International",
-                "ticker": "LYG",
-                "title": "Lloyds deepens alliance with Oracle to expedite cloud migration",
-                "url": "https://finance.yahoo.com/news/lloyds-deepens-alliance-oracle-expedite-115929732.html"
-            },
-            {
-                "headline": "If you\u2019re thinking of changing bank, several are keen for your business: but time is running out to take advantage of some deals",
-                "publication_date": "2025-03-24T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.5023",
-                "source": "The Guardian",
-                "ticker": "LYG",
-                "title": "Power switching: banks compete for current account customers with cash payouts",
-                "url": "https://finance.yahoo.com/news/power-switching-banks-compete-current-103045147.html"
-            }
-        ],
-        "avgScore": 0.4981,
-        "pctChange": 0.010498666350091576
-    },
-    "coef": 0.3963563813930385,
-    "avgCoef": 0.01973497074196767,
+    "coef": 0.39451201583694584,
+    "avgCoef": 0.02100491580543011,
     "similar": {
-        "T": 0.8154918651649875,
-        "VZ": 0.7836011218345129,
-        "DNB": 0.6879288918430899,
-        "NEE": 0.6788172508915258
+        "VZ": 0.7431505414602932,
+        "NEE": 0.7339758434175737,
+        "PBR": 0.6514035610330967,
+        "BABA": 0.587180674734059
     }
 }

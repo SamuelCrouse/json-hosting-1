@@ -23,7 +23,7 @@
             }
         ],
         "avgScore": 0.7906,
-        "pctChange": 0.0
+        "pctChange": -0.0005376467030505374
     },
     "4 14 2025": {
         "importantArticles": [
@@ -175,38 +175,12 @@
         "avgScore": 0.8176,
         "pctChange": -0.008465600563041254
     },
-    "3 24 2025": {
-        "importantArticles": [
-            {
-                "headline": "Investing.com -- Bank of America (BofA) on Monday downgraded Vodafone (LON:VOD) (NASDAQ:VOD) stock to Neutral from Buy, citing a more challenging near-term financial outlook for the telecom giant, particularly due to the impact of the imminent merger with UK peer Three and market conditions in Germany.",
-                "publication_date": "2025-03-24T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.2247",
-                "source": "Investing.com",
-                "ticker": "VOD",
-                "title": "BofA downgrades Vodafone on expected impact of the Three merger, Germany headwinds",
-                "url": "https://finance.yahoo.com/news/bofa-downgrades-vodafone-expected-impact-081340894.html"
-            },
-            {
-                "headline": "Investing.com -- Bank of America (BofA) on Monday downgraded Vodafone (LON:VOD) (NASDAQ:VOD) stock to Neutral from Buy, citing a more challenging near-term financial outlook for the telecom giant, particularly due to the impact of the imminent merger with UK peer Three and market conditions in Germany.",
-                "publication_date": "2025-03-24T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.2247",
-                "source": "Investing.com",
-                "ticker": "VOD",
-                "title": "BofA downgrades Vodafone on expected impact of the Three merger, Germany headwinds",
-                "url": "https://finance.yahoo.com/news/bofa-downgrades-vodafone-expected-impact-081340894.html"
-            }
-        ],
-        "avgScore": 0.2247,
-        "pctChange": 0.006458602783969361
-    },
-    "coef": 0.21428571428571433,
-    "avgCoef": -0.0027797878255620624,
+    "coef": 0.3714285714285715,
+    "avgCoef": -0.024850195501397554,
     "similar": {
-        "NEE": 0.8571428571428573,
-        "BABA": 0.642857142857143,
-        "INTC": 0.6071428571428572,
-        "ABEV": 0.5357142857142858
+        "KO": 0.942857142857143,
+        "VZ": 0.8285714285714287,
+        "ABEV": 0.7714285714285715,
+        "HLN": 0.7142857142857143
     }
 }

@@ -1,4 +1,30 @@
 {
+    "4 24 2025": {
+        "importantArticles": [
+            {
+                "headline": "Here is how Aegon NV (AEG) and Apollo Commerical Finance (ARI) have performed compared to their sector so far this year.",
+                "publication_date": "2025-04-24T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "AEG",
+                "title": "Has Aegon (AEG) Outpaced Other Finance Stocks This Year?",
+                "url": "https://finance.yahoo.com/news/aegon-aeg-outpaced-other-finance-134010428.html"
+            },
+            {
+                "headline": "Here is how Aegon NV (AEG) and Apollo Commerical Finance (ARI) have performed compared to their sector so far this year.",
+                "publication_date": "2025-04-24T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "AEG",
+                "title": "Has Aegon (AEG) Outpaced Other Finance Stocks This Year?",
+                "url": "https://finance.yahoo.com/news/aegon-aeg-outpaced-other-finance-134010428.html"
+            }
+        ],
+        "avgScore": 0.0,
+        "pctChange": 0.0064742734072745865
+    },
     "4 9 2025": {
         "importantArticles": [
             {
@@ -77,8 +103,8 @@
         "avgScore": 0.6908,
         "pctChange": -0.017830592157353713
     },
-    "coef": 1.0,
-    "avgCoef": 0.021652769949243075,
+    "coef": -0.19999999999999998,
+    "avgCoef": -0.023425462938244723,
     "similar": {
         "SPY": 1.0,
         "NVDA": 1.0,

@@ -12,26 +12,6 @@
                 "url": "https://finance.yahoo.com/news/snap-snap-gains-lags-market-221517146.html"
             },
             {
-                "headline": "Updated resources for parents, including a range of new video overviews.",
-                "publication_date": "2025-04-24T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Social Media Today",
-                "ticker": "SNAP",
-                "title": "Snapchat Launches Updated Family Safety Hub",
-                "url": "https://finance.yahoo.com/news/snapchat-launches-updated-family-safety-170229075.html"
-            },
-            {
-                "headline": "Updated resources for parents, including a range of new video overviews.",
-                "publication_date": "2025-04-24T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Social Media Today",
-                "ticker": "SNAP",
-                "title": "Snapchat Launches Updated Family Safety Hub",
-                "url": "https://finance.yahoo.com/news/snapchat-launches-updated-family-safety-170229075.html"
-            },
-            {
                 "headline": "In the closing of the recent trading day, Snap (SNAP) stood at $7.98, denoting a +1.66% change from the preceding trading day.",
                 "publication_date": "2025-04-24T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -43,10 +23,20 @@
             }
         ],
         "avgScore": 0.0,
-        "pctChange": 0.0217391536134719
+        "pctChange": 0.03863352334553207
     },
     "4 23 2025": {
         "importantArticles": [
+            {
+                "headline": "Updated resources for parents, including a range of new video overviews.",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Social Media Today",
+                "ticker": "SNAP",
+                "title": "Snapchat Launches Updated Family Safety Hub",
+                "url": "https://finance.yahoo.com/news/snapchat-launches-updated-family-safety-170229075.html"
+            },
             {
                 "headline": "(Reuters) -Florida sued Snap, the owner of photo-sharing app Snapchat, on Tuesday, accusing it of illegally employing features that addict children and opening accounts for children age 13 and younger.  The complaint said Snapchat features including infinite scrolling, push notifications, auto-play videos, and metrics that provide user feedback violate a 2024 state law signed by Governor Ron DeSantis, and designed to protect children's mental health from compulsive social media exposure.  Florida called Snap's conduct \"particularly egregious\" because the Santa Monica, California-based company markets Snapchat as safe for 13-year-olds though it can be used to view pornography and buy drugs, among other harmful activities.",
                 "publication_date": "2025-04-23T00:00:00.000Z",
@@ -66,10 +56,20 @@
                 "ticker": "SNAP",
                 "title": "Florida sues Snapchat owner for allegedly addicting children, deceiving parents",
                 "url": "https://finance.yahoo.com/news/florida-sues-snapchat-owner-allegedly-220820819.html"
+            },
+            {
+                "headline": "Updated resources for parents, including a range of new video overviews.",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Social Media Today",
+                "ticker": "SNAP",
+                "title": "Snapchat Launches Updated Family Safety Hub",
+                "url": "https://finance.yahoo.com/news/snapchat-launches-updated-family-safety-170229075.html"
             }
         ],
-        "avgScore": -0.1531,
-        "pctChange": 0.030701799725645348
+        "avgScore": -0.07655,
+        "pctChange": 0.047744366046493535
     },
     "4 22 2025": {
         "importantArticles": [
@@ -186,6 +186,26 @@
                 "url": "https://finance.yahoo.com/news/meta-saw-tiktok-highly-urgent-221403450.html"
             },
             {
+                "headline": "Snap (NYSE:SNAP) experienced a significant price decline of 12% last week. This decline stands out against a mixed market backdrop, where the S&P 500 and Nasdaq saw modest gains following previous sell-offs, while the Dow Jones was hampered by a notable drop in UnitedHealth stocks. During the week, tech stocks were broadly pressured, with Nvidia and AMD particularly affected by new U.S. export restrictions to China, which also influenced market sentiment. Although Snap itself was not directly...",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.1761",
+                "source": "Simply Wall St.",
+                "ticker": "SNAP",
+                "title": "Snap (NYSE:SNAP) Sees 12% Price Drop Over Last Week",
+                "url": "https://finance.yahoo.com/news/snap-nyse-snap-sees-12-174519556.html"
+            },
+            {
+                "headline": "Snap (NYSE:SNAP) experienced a significant price decline of 12% last week. This decline stands out against a mixed market backdrop, where the S&P 500 and Nasdaq saw modest gains following previous sell-offs, while the Dow Jones was hampered by a notable drop in UnitedHealth stocks. During the week, tech stocks were broadly pressured, with Nvidia and AMD particularly affected by new U.S. export restrictions to China, which also influenced market sentiment. Although Snap itself was not directly...",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.1761",
+                "source": "Simply Wall St.",
+                "ticker": "SNAP",
+                "title": "Snap (NYSE:SNAP) Sees 12% Price Drop Over Last Week",
+                "url": "https://finance.yahoo.com/news/snap-nyse-snap-sees-12-174519556.html"
+            },
+            {
                 "headline": "(Bloomberg) -- Mark Zuckerberg, the first witness in the Federal Trade Commission\u2019s trial to break up his social media empire, gave a rare window into how he makes business decisions: by fighting for survival, even when his company is ahead.Most Read from BloombergTrump Signs Executive Orders on Federal Purchasing, Office SpaceHow Did This Suburb Figure Out Mass Transit?DOGE Places Entire Staff of Federal Homelessness Agency on LeaveWhy the Best Bike Lanes Always Get BlamedLA County Floats Leane",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -206,7 +226,7 @@
                 "url": "https://finance.yahoo.com/news/snap-names-first-cmo-2-111200897.html"
             }
         ],
-        "avgScore": 0.54635,
+        "avgScore": 0.3055333333333333,
         "pctChange": -0.034263956472755715
     },
     "4 15 2025": {
@@ -248,46 +268,6 @@
                 "url": "https://finance.yahoo.com/news/snap-inc-snap-among-best-210703047.html"
             },
             {
-                "headline": "The option will provide more ways for brands to connect with Snap creators.",
-                "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Social Media Today",
-                "ticker": "SNAP",
-                "title": "Snapchat Will Now Enable Brands to Sponsor Its Creator Education Events",
-                "url": "https://finance.yahoo.com/news/snapchat-now-enable-brands-sponsor-155335773.html"
-            },
-            {
-                "headline": "New data on what's driving travel purchase decisions ahead of the summer season.",
-                "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Social Media Today",
-                "ticker": "SNAP",
-                "title": "Snapchat Shares Research into Travel Purchase Influences",
-                "url": "https://finance.yahoo.com/news/snapchat-shares-research-travel-purchase-155326269.html"
-            },
-            {
-                "headline": "New data on what's driving travel purchase decisions ahead of the summer season.",
-                "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Social Media Today",
-                "ticker": "SNAP",
-                "title": "Snapchat Shares Research into Travel Purchase Influences",
-                "url": "https://finance.yahoo.com/news/snapchat-shares-research-travel-purchase-155326269.html"
-            },
-            {
-                "headline": "The option will provide more ways for brands to connect with Snap creators.",
-                "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Social Media Today",
-                "ticker": "SNAP",
-                "title": "Snapchat Will Now Enable Brands to Sponsor Its Creator Education Events",
-                "url": "https://finance.yahoo.com/news/snapchat-now-enable-brands-sponsor-155335773.html"
-            },
-            {
                 "headline": "We recently published a list of 10 Best Low Priced Growth Stocks To Invest In. In this article, we are going to take a look at where \u200b\u200bSnap Inc. (NYSE:SNAP) stands against other best low priced growth stocks. Low priced stocks usually fall under the small to mid-cap size category. This growth criteria, often proxied [\u2026]",
                 "publication_date": "2025-04-11T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -298,53 +278,53 @@
                 "url": "https://finance.yahoo.com/news/snap-inc-snap-among-best-210703047.html"
             }
         ],
-        "avgScore": 0.2993,
+        "avgScore": 0.8979,
         "pctChange": -0.00628143096673941
     },
     "4 10 2025": {
         "importantArticles": [
             {
-                "headline": "Snapchat's latest report looks at how joy can be a driver of campaign resonance.",
+                "headline": "The option will provide more ways for brands to connect with Snap creators.",
                 "publication_date": "2025-04-10T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.5859",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
                 "source": "Social Media Today",
                 "ticker": "SNAP",
-                "title": "Snapchat Shares Data on How Happiness Drives Snap Ads Response",
-                "url": "https://finance.yahoo.com/news/snapchat-shares-data-happiness-drives-153136669.html"
+                "title": "Snapchat Will Now Enable Brands to Sponsor Its Creator Education Events",
+                "url": "https://finance.yahoo.com/news/snapchat-now-enable-brands-sponsor-155335773.html"
             },
             {
-                "headline": "Meta stock was hit by another price target as BofA lowered estimates for a range of digital advertising companies.",
+                "headline": "New data on what's driving travel purchase decisions ahead of the summer season.",
                 "publication_date": "2025-04-10T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.128",
-                "source": "Investor's Business Daily",
-                "ticker": "SNAP",
-                "title": "Meta Stock Gets Another Price-Target Cut As BofA Sees Tariffs Pressuring Ad Market",
-                "url": "https://finance.yahoo.com/m/4c8e9c76-ed4f-34d5-b23c-672ff6798827/meta-stock-gets-another.html"
-            },
-            {
-                "headline": "Meta stock was hit by another price target as BofA lowered estimates for a range of digital advertising companies.",
-                "publication_date": "2025-04-10T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.128",
-                "source": "Investor's Business Daily",
-                "ticker": "SNAP",
-                "title": "Meta Stock Gets Another Price-Target Cut As BofA Sees Tariffs Pressuring Ad Market",
-                "url": "https://finance.yahoo.com/m/4c8e9c76-ed4f-34d5-b23c-672ff6798827/meta-stock-gets-another.html"
-            },
-            {
-                "headline": "Snapchat's latest report looks at how joy can be a driver of campaign resonance.",
-                "publication_date": "2025-04-10T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.5859",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
                 "source": "Social Media Today",
                 "ticker": "SNAP",
-                "title": "Snapchat Shares Data on How Happiness Drives Snap Ads Response",
-                "url": "https://finance.yahoo.com/news/snapchat-shares-data-happiness-drives-153136669.html"
+                "title": "Snapchat Shares Research into Travel Purchase Influences",
+                "url": "https://finance.yahoo.com/news/snapchat-shares-research-travel-purchase-155326269.html"
+            },
+            {
+                "headline": "New data on what's driving travel purchase decisions ahead of the summer season.",
+                "publication_date": "2025-04-10T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Social Media Today",
+                "ticker": "SNAP",
+                "title": "Snapchat Shares Research into Travel Purchase Influences",
+                "url": "https://finance.yahoo.com/news/snapchat-shares-research-travel-purchase-155326269.html"
+            },
+            {
+                "headline": "The option will provide more ways for brands to connect with Snap creators.",
+                "publication_date": "2025-04-10T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Social Media Today",
+                "ticker": "SNAP",
+                "title": "Snapchat Will Now Enable Brands to Sponsor Its Creator Education Events",
+                "url": "https://finance.yahoo.com/news/snapchat-now-enable-brands-sponsor-155335773.html"
             }
         ],
-        "avgScore": 0.22895,
+        "avgScore": 0.0,
         "pctChange": 0.0166028244837309
     },
     "4 9 2025": {
@@ -360,6 +340,16 @@
                 "url": "https://finance.yahoo.com/news/etsy-etsy-snap-snap-lyft-215228650.html"
             },
             {
+                "headline": "Snapchat's latest report looks at how joy can be a driver of campaign resonance.",
+                "publication_date": "2025-04-09T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5859",
+                "source": "Social Media Today",
+                "ticker": "SNAP",
+                "title": "Snapchat Shares Data on How Happiness Drives Snap Ads Response",
+                "url": "https://finance.yahoo.com/news/snapchat-shares-data-happiness-drives-153136669.html"
+            },
+            {
                 "headline": "Snap makes continuous innovations in its advertising strategy, and its recent launch of an AI ad format presents a buy opportunity for investors in 2025.",
                 "publication_date": "2025-04-09T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -368,16 +358,6 @@
                 "ticker": "SNAP",
                 "title": "Does SNAP's Launch of an AI Ad Format Signal a Buy for the Stock?",
                 "url": "https://finance.yahoo.com/news/does-snaps-launch-ai-ad-142000906.html"
-            },
-            {
-                "headline": "A new way for brands to tap into Snap\u2019s popular Lens tools.",
-                "publication_date": "2025-04-09T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4215",
-                "source": "Social Media Today",
-                "ticker": "SNAP",
-                "title": "Snapchat Launches Sponsored AI Lenses To Help Brands Enhance Engagement",
-                "url": "https://finance.yahoo.com/news/snapchat-launches-sponsored-ai-lenses-150000513.html"
             },
             {
                 "headline": "The looming threat of a TikTok ban has done little to thwart the short-video app's popularity with young users.",
@@ -390,14 +370,14 @@
                 "url": "https://finance.yahoo.com/m/f26700ce-bba2-3eb1-9c08-e5c68d107ed2/tiktok-adds-to-lead-as.html"
             },
             {
-                "headline": "A new way for brands to tap into Snap\u2019s popular Lens tools.",
+                "headline": "Meta stock was hit by another price target as BofA lowered estimates for a range of digital advertising companies.",
                 "publication_date": "2025-04-09T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4215",
-                "source": "Social Media Today",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.128",
+                "source": "Investor's Business Daily",
                 "ticker": "SNAP",
-                "title": "Snapchat Launches Sponsored AI Lenses To Help Brands Enhance Engagement",
-                "url": "https://finance.yahoo.com/news/snapchat-launches-sponsored-ai-lenses-150000513.html"
+                "title": "Meta Stock Gets Another Price-Target Cut As BofA Sees Tariffs Pressuring Ad Market",
+                "url": "https://finance.yahoo.com/m/4c8e9c76-ed4f-34d5-b23c-672ff6798827/meta-stock-gets-another.html"
             },
             {
                 "headline": "Snap makes continuous innovations in its advertising strategy, and its recent launch of an AI ad format presents a buy opportunity for investors in 2025.",
@@ -410,7 +390,7 @@
                 "url": "https://finance.yahoo.com/news/does-snaps-launch-ai-ad-142000906.html"
             }
         ],
-        "avgScore": 0.2653,
+        "avgScore": 0.21952,
         "pctChange": -0.11224487589258296
     },
     "4 8 2025": {
@@ -426,6 +406,16 @@
                 "url": "https://finance.yahoo.com/news/snapchat-rolls-sponsored-ai-lenses-130000649.html"
             },
             {
+                "headline": "A new way for brands to tap into Snap\u2019s popular Lens tools.",
+                "publication_date": "2025-04-08T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4215",
+                "source": "Social Media Today",
+                "ticker": "SNAP",
+                "title": "Snapchat Launches Sponsored AI Lenses To Help Brands Enhance Engagement",
+                "url": "https://finance.yahoo.com/news/snapchat-launches-sponsored-ai-lenses-150000513.html"
+            },
+            {
                 "headline": "Catch up on the top industries and stocks that were impacted, or were predicted to be impacted, by the comments, actions and policies of President Donald Trump with this daily recap compiled by The Fly: TRUMP SAYS NO INFLATION: President Trump said via Truth Social, \u201cOil prices are down, interest rates are down (the slow moving Fed should cut rates!), food prices are down, there is NO INFLATION, and the long time abused USA is bringing in Billions of Dollars a week from the abusing countries on",
                 "publication_date": "2025-04-08T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -444,6 +434,16 @@
                 "ticker": "SNAP",
                 "title": "Trump Trade: Trump claims \u2018no inflation,\u2019 Medicare won\u2019t cover obesity drugs",
                 "url": "https://finance.yahoo.com/news/trump-trade-trump-claims-no-142755841.html"
+            },
+            {
+                "headline": "A new way for brands to tap into Snap\u2019s popular Lens tools.",
+                "publication_date": "2025-04-08T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4215",
+                "source": "Social Media Today",
+                "ticker": "SNAP",
+                "title": "Snapchat Launches Sponsored AI Lenses To Help Brands Enhance Engagement",
+                "url": "https://finance.yahoo.com/news/snapchat-launches-sponsored-ai-lenses-150000513.html"
             },
             {
                 "headline": "Snapchat is introducing Sponsored AI Lenses, a new ad format that lets brands engage with consumers in an immersive way. While Snapchat has offered brands the opportunity to pay for sponsored lenses on the platform for years, now they can leverage AI-generated experiences powered by Snap's proprietary generative AI technology. With these interactive lenses, brands can reach and engage users in a more fun and interactive way when compared to traditional ads, as they allow users to take selfies to",
@@ -456,7 +456,7 @@
                 "url": "https://finance.yahoo.com/news/snapchat-rolls-sponsored-ai-lenses-130000649.html"
             }
         ],
-        "avgScore": 0.03999999999999998,
+        "avgScore": 0.16716666666666666,
         "pctChange": 0.21991696702021427
     },
     "4 4 2025": {
@@ -558,16 +558,6 @@
                 "url": "https://finance.yahoo.com/news/snap-snap-stock-sinks-market-221517168.html"
             },
             {
-                "headline": "A new program will enable agencies to showcase their Snap ads knowledge.",
-                "publication_date": "2025-04-03T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Social Media Today",
-                "ticker": "SNAP",
-                "title": "Snapchat Launches Expanded Agency Partner Program",
-                "url": "https://finance.yahoo.com/news/snapchat-launches-expanded-agency-partner-144948756.html"
-            },
-            {
                 "headline": "In the latest trading session, Snap (SNAP) closed at $8.88, marking a -0.56% move from the previous day.",
                 "publication_date": "2025-04-03T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -586,10 +576,46 @@
                 "ticker": "SNAP",
                 "title": "Trump Trade: Tariff plan still being worked on ahead of unveiling",
                 "url": "https://finance.yahoo.com/news/trump-trade-tariff-plan-still-141558122.html"
+            },
+            {
+                "headline": "Snap began testing Sponsored Snaps, which allow brands to deliver a vertical video directly to users\u2019 inboxes, last October.",
+                "publication_date": "2025-04-03T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.2263",
+                "source": "Marketing Dive",
+                "ticker": "SNAP",
+                "title": "Wendy\u2019s nets nearly 52M impressions in single day with Snap ad product",
+                "url": "https://finance.yahoo.com/news/wendy-nets-nearly-52m-impressions-093600729.html"
             }
         ],
-        "avgScore": 0.10715,
+        "avgScore": 0.14286666666666667,
         "pctChange": 0.003740614870183767
+    },
+    "4 2 2025": {
+        "importantArticles": [
+            {
+                "headline": "A new program will enable agencies to showcase their Snap ads knowledge.",
+                "publication_date": "2025-04-02T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Social Media Today",
+                "ticker": "SNAP",
+                "title": "Snapchat Launches Expanded Agency Partner Program",
+                "url": "https://finance.yahoo.com/news/snapchat-launches-expanded-agency-partner-144948756.html"
+            },
+            {
+                "headline": "A new program will enable agencies to showcase their Snap ads knowledge.",
+                "publication_date": "2025-04-02T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Social Media Today",
+                "ticker": "SNAP",
+                "title": "Snapchat Launches Expanded Agency Partner Program",
+                "url": "https://finance.yahoo.com/news/snapchat-launches-expanded-agency-partner-144948756.html"
+            }
+        ],
+        "avgScore": 0.0,
+        "pctChange": -0.09684680693626223
     },
     "4 1 2025": {
         "importantArticles": [
@@ -614,14 +640,14 @@
                 "url": "https://finance.yahoo.com/news/snapchat-adds-styling-options-bitmoji-193813127.html"
             },
             {
-                "headline": "Shares of social network Snapchat (NYSE: SNAP) fell 6.2% in the morning session after anxiety and uncertainty rattled markets as the major stock indices pulled back in the morning session amid concerns about \"reciprocal tariffs\" to be announced later in the week. The planned tariffs, scheduled for April 2, 2025 (dubbed Liberation Day), were targeted at all countries where the United States had a trade deficit.",
+                "headline": "We recently compiled a list of the 10 Best Stocks Under $10 to Buy Now. In this article, we are going to take a look at where Snap Inc. (NYSE:SNAP) stands against the other stocks under $10. On March 28, Friday, US stocks declined as Wall Street continued to struggle with President Trump\u2019s trade war [\u2026]",
                 "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.2023",
-                "source": "StockStory",
+                "sentimentScore": "-0.25",
+                "source": "Insider Monkey",
                 "ticker": "SNAP",
-                "title": "Why Snap (SNAP) Shares Are Getting Obliterated Today",
-                "url": "https://finance.yahoo.com/news/why-snap-snap-shares-getting-172420555.html"
+                "title": "Is Snap Inc. (SNAP) The Best Stock Under $10 to Buy Now?",
+                "url": "https://finance.yahoo.com/news/snap-inc-snap-best-stock-193914950.html"
             },
             {
                 "headline": "We recently compiled a list of the 10 Best Stocks Under $10 to Buy Now. In this article, we are going to take a look at where Snap Inc. (NYSE:SNAP) stands against the other stocks under $10. On March 28, Friday, US stocks declined as Wall Street continued to struggle with President Trump\u2019s trade war [\u2026]",
@@ -634,16 +660,6 @@
                 "url": "https://finance.yahoo.com/news/snap-inc-snap-best-stock-193914950.html"
             },
             {
-                "headline": "Shares of social network Snapchat (NYSE: SNAP) fell 6.2% in the morning session after anxiety and uncertainty rattled markets as the major stock indices pulled back in the morning session amid concerns about \"reciprocal tariffs\" to be announced later in the week. The planned tariffs, scheduled for April 2, 2025 (dubbed Liberation Day), were targeted at all countries where the United States had a trade deficit.",
-                "publication_date": "2025-04-01T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.2023",
-                "source": "StockStory",
-                "ticker": "SNAP",
-                "title": "Why Snap (SNAP) Shares Are Getting Obliterated Today",
-                "url": "https://finance.yahoo.com/news/why-snap-snap-shares-getting-172420555.html"
-            },
-            {
                 "headline": "Some cool new looks for your digital depictions.",
                 "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -652,10 +668,46 @@
                 "ticker": "SNAP",
                 "title": "Snapchat Adds New Styling Options for Bitmoji Avatars",
                 "url": "https://finance.yahoo.com/news/snapchat-adds-styling-options-bitmoji-193813127.html"
+            },
+            {
+                "headline": "The ongoing market correction is hitting tech stocks particularly hard. Some popular social media and internet stocks are now significantly lower than their 52-week highs. Shares of Meta Platforms (META), the $1.5 trillion-dollar gorilla in the social media space, are down 22.2% from recent highs. Meanwhile, shares of other popular social media stocks like Pinterest (PINS) and Snapchat (SNAP) are down 30.4% and 48.7%, respectively. Let\u2019s examine these three social media stocks to determine which",
+                "publication_date": "2025-04-01T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8894",
+                "source": "TipRanks",
+                "ticker": "SNAP",
+                "title": "META, PINS, or SNAP: Which Social Media Stock Can Withstand a Market Correction?",
+                "url": "https://finance.yahoo.com/news/meta-pins-snap-social-media-115903221.html"
             }
         ],
-        "avgScore": 0.18882500000000002,
+        "avgScore": 0.3192,
         "pctChange": -0.005599125310878594
+    },
+    "3 31 2025": {
+        "importantArticles": [
+            {
+                "headline": "Shares of social network Snapchat (NYSE: SNAP) fell 6.2% in the morning session after anxiety and uncertainty rattled markets as the major stock indices pulled back in the morning session amid concerns about \"reciprocal tariffs\" to be announced later in the week. The planned tariffs, scheduled for April 2, 2025 (dubbed Liberation Day), were targeted at all countries where the United States had a trade deficit.",
+                "publication_date": "2025-03-31T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.2023",
+                "source": "StockStory",
+                "ticker": "SNAP",
+                "title": "Why Snap (SNAP) Shares Are Getting Obliterated Today",
+                "url": "https://finance.yahoo.com/news/why-snap-snap-shares-getting-172420555.html"
+            },
+            {
+                "headline": "Shares of social network Snapchat (NYSE: SNAP) fell 6.2% in the morning session after anxiety and uncertainty rattled markets as the major stock indices pulled back in the morning session amid concerns about \"reciprocal tariffs\" to be announced later in the week. The planned tariffs, scheduled for April 2, 2025 (dubbed Liberation Day), were targeted at all countries where the United States had a trade deficit.",
+                "publication_date": "2025-03-31T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.2023",
+                "source": "StockStory",
+                "ticker": "SNAP",
+                "title": "Why Snap (SNAP) Shares Are Getting Obliterated Today",
+                "url": "https://finance.yahoo.com/news/why-snap-snap-shares-getting-172420555.html"
+            }
+        ],
+        "avgScore": -0.2023,
+        "pctChange": 0.025258354312890797
     },
     "3 28 2025": {
         "importantArticles": [
@@ -686,16 +738,6 @@
     "3 27 2025": {
         "importantArticles": [
             {
-                "headline": "Snap (NYSE:SNAP) saw its share price rise 10% over the past week, coinciding with the announcement of a partnership with Later. This collaboration enhances capabilities for brands and creators, potentially attracting investor interest due to the focus on growth in influencer marketing. Despite a challenging tech sector marked by selloffs in major companies like Tesla and Nvidia, Snap's impressive price movement suggests positive reception to the new partnership. While the broader market rose...",
-                "publication_date": "2025-03-27T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.9575",
-                "source": "Simply Wall St.",
-                "ticker": "SNAP",
-                "title": "Snap (NYSE:SNAP) Jumps 10% in a Week Following Partnership Announcement with Later",
-                "url": "https://finance.yahoo.com/news/snap-nyse-snap-jumps-10-174643845.html"
-            },
-            {
                 "headline": "We recently published a list of the 12 Best AI Stocks to Invest in According to Reddit. In this article, we are going to take a look at where Snap Inc. (NYSE:SNAP) stands against other AI stocks to invest in according to Reddit. Jensen Huang had previously estimated that practical quantum computing would be 15 [\u2026]",
                 "publication_date": "2025-03-27T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -714,24 +756,24 @@
                 "ticker": "SNAP",
                 "title": "Is Snap Inc. (SNAP) the Best AI Stock to Invest in According to Reddit?",
                 "url": "https://finance.yahoo.com/news/snap-inc-snap-best-ai-133006986.html"
-            },
-            {
-                "headline": "Snap (NYSE:SNAP) saw its share price rise 10% over the past week, coinciding with the announcement of a partnership with Later. This collaboration enhances capabilities for brands and creators, potentially attracting investor interest due to the focus on growth in influencer marketing. Despite a challenging tech sector marked by selloffs in major companies like Tesla and Nvidia, Snap's impressive price movement suggests positive reception to the new partnership. While the broader market rose...",
-                "publication_date": "2025-03-27T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.9575",
-                "source": "Simply Wall St.",
-                "ticker": "SNAP",
-                "title": "Snap (NYSE:SNAP) Jumps 10% in a Week Following Partnership Announcement with Later",
-                "url": "https://finance.yahoo.com/news/snap-nyse-snap-jumps-10-174643845.html"
             }
         ],
-        "avgScore": 0.7972,
+        "avgScore": 0.6369,
         "pctChange": -0.03053432177116767
     },
     "3 26 2025": {
         "importantArticles": [
             {
+                "headline": "Snap (NYSE:SNAP) saw its share price rise 10% over the past week, coinciding with the announcement of a partnership with Later. This collaboration enhances capabilities for brands and creators, potentially attracting investor interest due to the focus on growth in influencer marketing. Despite a challenging tech sector marked by selloffs in major companies like Tesla and Nvidia, Snap's impressive price movement suggests positive reception to the new partnership. While the broader market rose...",
+                "publication_date": "2025-03-26T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9575",
+                "source": "Simply Wall St.",
+                "ticker": "SNAP",
+                "title": "Snap (NYSE:SNAP) Jumps 10% in a Week Following Partnership Announcement with Later",
+                "url": "https://finance.yahoo.com/news/snap-nyse-snap-jumps-10-174643845.html"
+            },
+            {
                 "headline": "We recently published a list of the 10 Best US Stocks Under $10 to Buy Right Now. In this article, we are going to take a look at where Snap Inc. (NYSE:SNAP) stands against other US stocks under $10 to buy right now. On March 12, Stephanie Guild of Robinhood and Marci McGregor of Bank [\u2026]",
                 "publication_date": "2025-03-26T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -752,26 +794,6 @@
                 "url": "https://finance.yahoo.com/news/surgepays-inc-surg-reports-q4-212502653.html"
             },
             {
-                "headline": "We recently published a list of Jim Cramer Discussed These 10 Stocks Recently. In this article, we are going to take a look at where Snap Inc. (NYSE:SNAP) stands against other stocks that Jim Cramer discussed recently. Last Friday, Jim Cramer, host of Mad Money, raised an interesting point about the state of IPOs and [\u2026]",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.128",
-                "source": "Insider Monkey",
-                "ticker": "SNAP",
-                "title": "Snap (SNAP): \u201cThey Need a New CEO!\u201d \u2013 Jim Cramer on Why Snap Isn\u2019t Investable",
-                "url": "https://finance.yahoo.com/news/snap-snap-ceo-jim-cramer-144636511.html"
-            },
-            {
-                "headline": "We recently published a list of Jim Cramer Discussed These 10 Stocks Recently. In this article, we are going to take a look at where Snap Inc. (NYSE:SNAP) stands against other stocks that Jim Cramer discussed recently. Last Friday, Jim Cramer, host of Mad Money, raised an interesting point about the state of IPOs and [\u2026]",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.128",
-                "source": "Insider Monkey",
-                "ticker": "SNAP",
-                "title": "Snap (SNAP): \u201cThey Need a New CEO!\u201d \u2013 Jim Cramer on Why Snap Isn\u2019t Investable",
-                "url": "https://finance.yahoo.com/news/snap-snap-ceo-jim-cramer-144636511.html"
-            },
-            {
                 "headline": "SurgePays, Inc. (SURG) delivered earnings and revenue surprises of -244.44% and 20.11%, respectively, for the quarter ended December 2024. Do the numbers hold clues to what lies ahead for the stock?",
                 "publication_date": "2025-03-26T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -790,63 +812,53 @@
                 "ticker": "SNAP",
                 "title": "Is Snap Inc. (NYSE:SNAP) the Best US Stock Under $10 to Buy Right Now?",
                 "url": "https://finance.yahoo.com/news/snap-inc-nyse-snap-best-144053773.html"
+            },
+            {
+                "headline": "Snap (NYSE:SNAP) saw its share price rise 10% over the past week, coinciding with the announcement of a partnership with Later. This collaboration enhances capabilities for brands and creators, potentially attracting investor interest due to the focus on growth in influencer marketing. Despite a challenging tech sector marked by selloffs in major companies like Tesla and Nvidia, Snap's impressive price movement suggests positive reception to the new partnership. While the broader market rose...",
+                "publication_date": "2025-03-26T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9575",
+                "source": "Simply Wall St.",
+                "ticker": "SNAP",
+                "title": "Snap (NYSE:SNAP) Jumps 10% in a Week Following Partnership Announcement with Later",
+                "url": "https://finance.yahoo.com/news/snap-nyse-snap-jumps-10-174643845.html"
             }
         ],
-        "avgScore": 0.21230000000000002,
+        "avgScore": 0.5741333333333333,
         "pctChange": -0.02550475823696932
     },
     "3 25 2025": {
         "importantArticles": [
             {
-                "headline": "Snapchat CEO Evan Spiegel offers some valuable insights into the evolution of the social media industry.",
+                "headline": "We recently published a list of Jim Cramer Discussed These 10 Stocks Recently. In this article, we are going to take a look at where Snap Inc. (NYSE:SNAP) stands against other stocks that Jim Cramer discussed recently. Last Friday, Jim Cramer, host of Mad Money, raised an interesting point about the state of IPOs and [\u2026]",
                 "publication_date": "2025-03-25T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4767",
-                "source": "Social Media Today",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.128",
+                "source": "Insider Monkey",
                 "ticker": "SNAP",
-                "title": "Snapchat CEO Talks Zuckerberg, Content Moderation, AR Glasses and More",
-                "url": "https://finance.yahoo.com/news/snapchat-ceo-talks-zuckerberg-moderation-154358279.html"
+                "title": "Snap (SNAP): \u201cThey Need a New CEO!\u201d \u2013 Jim Cramer on Why Snap Isn\u2019t Investable",
+                "url": "https://finance.yahoo.com/news/snap-snap-ceo-jim-cramer-144636511.html"
             },
             {
-                "headline": "Snap CEO Evan Spiegel admits he purposely makes new hires have a nightmarish first day to emphasize failure is welcomed\u2014and necessary\u2014to build a more creative team culture.",
+                "headline": "We recently published a list of Jim Cramer Discussed These 10 Stocks Recently. In this article, we are going to take a look at where Snap Inc. (NYSE:SNAP) stands against other stocks that Jim Cramer discussed recently. Last Friday, Jim Cramer, host of Mad Money, raised an interesting point about the state of IPOs and [\u2026]",
                 "publication_date": "2025-03-25T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.2716",
-                "source": "Fortune",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.128",
+                "source": "Insider Monkey",
                 "ticker": "SNAP",
-                "title": "Snapchat\u2019s CEO says he purposefully sets new hires up to fail on their first day on the job",
-                "url": "https://finance.yahoo.com/news/snap-ceo-looks-3-personality-161135554.html"
-            },
-            {
-                "headline": "Snap CEO Evan Spiegel admits he purposely makes new hires have a nightmarish first day to emphasize failure is welcomed\u2014and necessary\u2014to build a more creative team culture.",
-                "publication_date": "2025-03-25T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.2716",
-                "source": "Fortune",
-                "ticker": "SNAP",
-                "title": "Snapchat\u2019s CEO says he purposefully sets new hires up to fail on their first day on the job",
-                "url": "https://finance.yahoo.com/news/snap-ceo-looks-3-personality-161135554.html"
-            },
-            {
-                "headline": "Snapchat CEO Evan Spiegel offers some valuable insights into the evolution of the social media industry.",
-                "publication_date": "2025-03-25T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4767",
-                "source": "Social Media Today",
-                "ticker": "SNAP",
-                "title": "Snapchat CEO Talks Zuckerberg, Content Moderation, AR Glasses and More",
-                "url": "https://finance.yahoo.com/news/snapchat-ceo-talks-zuckerberg-moderation-154358279.html"
+                "title": "Snap (SNAP): \u201cThey Need a New CEO!\u201d \u2013 Jim Cramer on Why Snap Isn\u2019t Investable",
+                "url": "https://finance.yahoo.com/news/snap-snap-ceo-jim-cramer-144636511.html"
             }
         ],
-        "avgScore": 0.37415,
+        "avgScore": -0.128,
         "pctChange": -0.022845302639083197
     },
-    "coef": -0.35294117647058826,
-    "avgCoef": -0.027403831107215088,
+    "coef": -0.13708281275835973,
+    "avgCoef": -0.02515329755524888,
     "similar": {
-        "PBR": 0.28823529411764703,
-        "JD": 0.2411764705882353,
-        "ENPH": 0.23823529411764705,
-        "VALE": 0.1764705882352941
+        "HLN": 0.31985989643617274,
+        "TAL": 0.31283000860241067,
+        "JD": 0.27592309747516,
+        "BTG": 0.2636207937660764
     }
 }

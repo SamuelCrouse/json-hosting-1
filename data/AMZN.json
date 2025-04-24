@@ -62,8 +62,8 @@
                 "url": "https://finance.yahoo.com/m/1a2cc459-7fb7-359d-b158-019b8e08ee86/here%E2%80%99s-how-big-the-ai.html"
             }
         ],
-        "avgScore": 0.32110799999999984,
-        "pctChange": -0.015481881269587132
+        "avgScore": 0.3451592592592592,
+        "pctChange": -0.015535518627076602
     },
     "4 22 2025": {
         "importantArticles": [
@@ -128,7 +128,7 @@
                 "url": "https://finance.yahoo.com/news/amazon-com-inc-amzn-price-131301536.html"
             }
         ],
-        "avgScore": 0.37088437499999993,
+        "avgScore": 0.37409090909090903,
         "pctChange": 0.0428456735278061
     },
     "4 21 2025": {
@@ -194,7 +194,7 @@
                 "url": "https://finance.yahoo.com/news/amazon-stock-slips-price-target-190838946.html"
             }
         ],
-        "avgScore": 0.20709500000000003,
+        "avgScore": 0.1979,
         "pctChange": 0.03502262189247643
     },
     "4 17 2025": {
@@ -438,16 +438,6 @@
                 "url": "https://finance.yahoo.com/news/citi-cuts-internet-stock-targets-125235785.html"
             },
             {
-                "headline": "We recently published a list of Jim Cramer Discussed These 12 Stocks. In this article, we are going to take a look at where Amazon.com, Inc. (NASDAQ:AMZN) stands against other stocks that Jim Cramer discussed. On Thursday, Jim Cramer, host of Mad Money, described the 145% duty on China as so extreme that it essentially [\u2026]",
-                "publication_date": "2025-04-14T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.4939",
-                "source": "Insider Monkey",
-                "ticker": "AMZN",
-                "title": "\u201cScrew the Chinese or Get Screwed!\u201d \u2013 Jim Cramer\u2019s Bold Amazon.com (AMZN) Take",
-                "url": "https://finance.yahoo.com/news/screw-chinese-screwed-jim-cramer-004555210.html"
-            },
-            {
                 "headline": "Meta is preparing for the start of a courtroom battle Monday with the US government in an antitrust case that could force Mark Zuckerberg to break up his $1.3 trillion empire and sell one of its crown jewels: Instagram.",
                 "publication_date": "2025-04-14T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -456,9 +446,19 @@
                 "ticker": "AMZN",
                 "title": "Mark Zuckerberg's empire at stake as Meta prepares to battle Trump's antitrust cops in court",
                 "url": "https://finance.yahoo.com/news/mark-zuckerbergs-empire-at-stake-as-meta-prepares-to-battle-trumps-antitrust-cops-in-court-140019335.html"
+            },
+            {
+                "headline": "Amazon (AMZN) reachead $182.13 at the closing of the latest trading day, reflecting a -1.48% change compared to its last close.",
+                "publication_date": "2025-04-14T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.1779",
+                "source": "Zacks",
+                "ticker": "AMZN",
+                "title": "Amazon (AMZN) Stock Sinks As Market Gains: Here's Why",
+                "url": "https://finance.yahoo.com/news/amazon-amzn-stock-sinks-market-214517709.html"
             }
         ],
-        "avgScore": 0.26278,
+        "avgScore": 0.3468555555555556,
         "pctChange": -0.013891933050343617
     },
     "4 11 2025": {
@@ -527,12 +527,12 @@
         "avgScore": 0.005315789473684233,
         "pctChange": -0.014875318183769078
     },
-    "coef": -0.19047619047619052,
-    "avgCoef": 0.009831555892996707,
+    "coef": -0.07142857142857144,
+    "avgCoef": 0.014084799197141515,
     "similar": {
-        "HL": 0.4047619047619048,
-        "RGTI": 0.28571428571428575,
-        "LCID": 0.14285714285714288,
-        "GOLD": 0.14285714285714288
+        "RGTI": 0.2380952380952381,
+        "HL": 0.2380952380952381,
+        "RXRX": 0.19047619047619052,
+        "WBD": 0.1666666666666667
     }
 }

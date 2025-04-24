@@ -1,9 +1,9 @@
 {
-    "4 1 2025": {
+    "3 31 2025": {
         "importantArticles": [
             {
                 "headline": "We recently compiled a list of the 10 Best Stocks Under $10 to Buy Now. In this article, we are going to take a look at where Ambev S.A. (NYSE:ABEV) stands against the other stocks under $10. On March 28, Friday, US stocks declined as Wall Street continued to struggle with President Trump\u2019s trade war [\u2026]",
-                "publication_date": "2025-04-01T00:00:00.000Z",
+                "publication_date": "2025-03-31T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.25",
                 "source": "Insider Monkey",
@@ -13,7 +13,7 @@
             },
             {
                 "headline": "We recently compiled a list of the 10 Best Stocks Under $10 to Buy Now. In this article, we are going to take a look at where Ambev S.A. (NYSE:ABEV) stands against the other stocks under $10. On March 28, Friday, US stocks declined as Wall Street continued to struggle with President Trump\u2019s trade war [\u2026]",
-                "publication_date": "2025-04-01T00:00:00.000Z",
+                "publication_date": "2025-03-31T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.25",
                 "source": "Insider Monkey",
@@ -23,7 +23,7 @@
             }
         ],
         "avgScore": -0.25,
-        "pctChange": 0.008547000709448131
+        "pctChange": 0.0042918415410722575
     },
     "3 28 2025": {
         "importantArticles": [
@@ -78,11 +78,11 @@
         "pctChange": -0.012987000923330156
     },
     "coef": 1.0,
-    "avgCoef": -0.03408257095755874,
+    "avgCoef": -0.015575426452941936,
     "similar": {
         "SPY": 1.0,
-        "F": 1.0,
         "INTC": 1.0,
-        "NIO": 1.0
+        "F": 1.0,
+        "AAL": 1.0
     }
 }

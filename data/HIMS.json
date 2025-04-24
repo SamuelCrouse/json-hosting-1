@@ -77,6 +77,32 @@
         "avgScore": 0.4404,
         "pctChange": -0.08520021722798139
     },
+    "4 4 2025": {
+        "importantArticles": [
+            {
+                "headline": "Hims & Hers Health (NYSE:HIMS) recently experienced a 5% price increase over the past quarter, marked by significant corporate events. The company was added to the S&P 400 index and simultaneously dropped from the S&P 600, highlighting a shift in its market positioning. Alongside this, its focus on strategic acquisitions, as indicated by the pursuit of lab diagnostic facilities, aligns with its growth strategy. Despite the market facing a 6% decline due to global trade tensions, Hims & Hers...",
+                "publication_date": "2025-04-04T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4588",
+                "source": "Simply Wall St.",
+                "ticker": "HIMS",
+                "title": "Hims & Hers Health (NYSE:HIMS) Rises 5% Over Last Quarter Following Strong 2024 Earnings",
+                "url": "https://finance.yahoo.com/news/hims-hers-health-nyse-hims-184835498.html"
+            },
+            {
+                "headline": "Hims & Hers Health (NYSE:HIMS) recently experienced a 5% price increase over the past quarter, marked by significant corporate events. The company was added to the S&P 400 index and simultaneously dropped from the S&P 600, highlighting a shift in its market positioning. Alongside this, its focus on strategic acquisitions, as indicated by the pursuit of lab diagnostic facilities, aligns with its growth strategy. Despite the market facing a 6% decline due to global trade tensions, Hims & Hers...",
+                "publication_date": "2025-04-04T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4588",
+                "source": "Simply Wall St.",
+                "ticker": "HIMS",
+                "title": "Hims & Hers Health (NYSE:HIMS) Rises 5% Over Last Quarter Following Strong 2024 Earnings",
+                "url": "https://finance.yahoo.com/news/hims-hers-health-nyse-hims-184835498.html"
+            }
+        ],
+        "avgScore": 0.4588,
+        "pctChange": 0.06848790697657352
+    },
     "4 3 2025": {
         "importantArticles": [
             {
@@ -215,12 +241,12 @@
         "avgScore": 0.25,
         "pctChange": 0.005475042849309872
     },
-    "coef": 0.6,
-    "avgCoef": -0.03206848970669207,
+    "coef": 0.7142857142857144,
+    "avgCoef": -0.026082660457706314,
     "similar": {
-        "HAL": 0.942857142857143,
-        "UMC": 0.942857142857143,
-        "BA": 0.942857142857143,
-        "PBR": 0.8857142857142858
+        "HOOD": 0.8214285714285715,
+        "CNH": 0.8214285714285715,
+        "TXN": 0.8214285714285715,
+        "RIVN": 0.7857142857142859
     }
 }

@@ -12,6 +12,16 @@
                 "url": "https://finance.yahoo.com/news/freeport-mcmoran-q1-earnings-snapshot-120922760.html"
             },
             {
+                "headline": "While the top- and bottom-line numbers for Freeport-McMoRan (FCX) give a sense of how the business performed in the quarter ended March 2025, it could be worth looking at how some of its key metrics compare to Wall Street estimates and year-ago values.",
+                "publication_date": "2025-04-24T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6597",
+                "source": "Zacks",
+                "ticker": "FCX",
+                "title": "Freeport-McMoRan (FCX) Reports Q1 Earnings: What Key Metrics Have to Say",
+                "url": "https://finance.yahoo.com/news/freeport-mcmoran-fcx-reports-q1-143004395.html"
+            },
+            {
                 "headline": "Freeport-McMoRan (FCX) delivered earnings and revenue surprises of 0% and 7.92%, respectively, for the quarter ended March 2025. Do the numbers hold clues to what lies ahead for the stock?",
                 "publication_date": "2025-04-24T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -22,23 +32,13 @@
                 "url": "https://finance.yahoo.com/news/freeport-mcmoran-fcx-meets-q1-131002059.html"
             },
             {
-                "headline": "Copper production of FCX declines around 20% year over year to 868 million pounds in Q1.",
-                "publication_date": "2025-04-24T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "FCX",
-                "title": "Freeport-McMoRan's Earnings Match, Sales Beat Estimates in Q1",
-                "url": "https://finance.yahoo.com/news/freeport-mcmorans-earnings-match-sales-135200411.html"
-            },
-            {
-                "headline": "His sweeping tariffs on most U.S. imports and a rapidly intensifying trade war with China have sparked uncertainty across the mining industry and left companies scrambling to look for alternative supply chains.  Trump in February had ordered a probe into potential new tariffs on copper imports to rebuild U.S. production of the metal critical to electric vehicles, military hardware, power grid and many consumer goods.  \"FCX is monitoring potential indirect impacts of U.S. trade policy on economic growth and the potential for impacts on demand for copper,\" it said.",
+                "headline": "Shares of the Arizona-based company, which operates across the Americas, Indonesia and Europe, were 5.2% higher in midday trading.  Trump's sweeping tariffs on most U.S. imports and a rapidly intensifying trade war with China have sparked uncertainty across the mining industry and left companies scrambling to look for alternative supply chains.  The U.S. president in February had also ordered a probe into potential new tariffs on copper imports to rebuild U.S. production of the metal critical to electric vehicles, military hardware, power grid and many consumer goods.",
                 "publication_date": "2025-04-24T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.7579",
+                "sentimentScore": "-0.7506",
                 "source": "Reuters",
                 "ticker": "FCX",
-                "title": "Freeport-McMoRan flags higher costs due to tariffs, posts lower quarterly profit",
+                "title": "Freeport-McMoRan profit slightly beats, flags higher costs amid tariffs",
                 "url": "https://finance.yahoo.com/news/freeport-mcmoran-flags-higher-costs-122126461.html"
             },
             {
@@ -62,8 +62,8 @@
                 "url": "https://finance.yahoo.com/news/freeport-mcmorans-earnings-match-sales-135200411.html"
             }
         ],
-        "avgScore": 0.014080000000000004,
-        "pctChange": 0.03851557333817222
+        "avgScore": 0.1229,
+        "pctChange": 0.0539781276388922
     },
     "4 23 2025": {
         "importantArticles": [
@@ -89,7 +89,7 @@
             }
         ],
         "avgScore": -0.296,
-        "pctChange": 0.049730038883029716
+        "pctChange": 0.06535956639714458
     },
     "4 22 2025": {
         "importantArticles": [
@@ -130,6 +130,26 @@
                 "url": "https://finance.yahoo.com/news/analysts-estimate-freeport-mcmoran-fcx-140101460.html"
             },
             {
+                "headline": "We recently published a list of Buy The Dip On These 10 Semiconductor Stocks Tumbling On China H20 Chip Sale Ban. In this article, we are going to take a look at where Freeport-McMoRan Inc (NYSE:FCX) stands against other semiconductor stocks tumbling on China H20 chip sale ban. Semiconductor manufacturers are at the forefront of [\u2026]",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.802",
+                "source": "Insider Monkey",
+                "ticker": "FCX",
+                "title": "Is Freeport-McMoRan Inc (FCX) Worth Buying on the China H20 Chip Sale Ban?",
+                "url": "https://finance.yahoo.com/news/freeport-mcmoran-inc-fcx-worth-171556527.html"
+            },
+            {
+                "headline": "We recently published a list of Buy The Dip On These 10 Semiconductor Stocks Tumbling On China H20 Chip Sale Ban. In this article, we are going to take a look at where Freeport-McMoRan Inc (NYSE:FCX) stands against other semiconductor stocks tumbling on China H20 chip sale ban. Semiconductor manufacturers are at the forefront of [\u2026]",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.802",
+                "source": "Insider Monkey",
+                "ticker": "FCX",
+                "title": "Is Freeport-McMoRan Inc (FCX) Worth Buying on the China H20 Chip Sale Ban?",
+                "url": "https://finance.yahoo.com/news/freeport-mcmoran-inc-fcx-worth-171556527.html"
+            },
+            {
                 "headline": "Freeport-McMoRan (FCX) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -140,7 +160,7 @@
                 "url": "https://finance.yahoo.com/news/analysts-estimate-freeport-mcmoran-fcx-140101460.html"
             }
         ],
-        "avgScore": 0.2263,
+        "avgScore": -0.28785000000000005,
         "pctChange": 0.0015197335787725673
     },
     "4 16 2025": {
@@ -156,26 +176,6 @@
                 "url": "https://finance.yahoo.com/news/investors-heavily-search-freeport-mcmoran-130017276.html"
             },
             {
-                "headline": "(Bloomberg) -- Supply Lines is a daily newsletter that tracks global trade. Sign up here.Most Read from BloombergHow Did This Suburb Figure Out Mass Transit?Even Oslo Has an Air Quality ProblemLA County Floats Leaner Budget Burdened by Fire and Legal Costs$15 Million Fund Bets Leadership Training Can Improve Chicago PolicingTrump Signs Executive Orders on Federal Purchasing, Office SpaceMajor players in the US copper industry have called on President Donald Trump to restrict exports of ore and s",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.5106",
-                "source": "Bloomberg",
-                "ticker": "FCX",
-                "title": "US Copper Industry Seeks Export Curbs Instead of Tariffs",
-                "url": "https://finance.yahoo.com/news/us-copper-industry-seeks-export-110350871.html"
-            },
-            {
-                "headline": "(Bloomberg) -- Supply Lines is a daily newsletter that tracks global trade. Sign up here.Most Read from BloombergHow Did This Suburb Figure Out Mass Transit?Even Oslo Has an Air Quality ProblemLA County Floats Leaner Budget Burdened by Fire and Legal Costs$15 Million Fund Bets Leadership Training Can Improve Chicago PolicingTrump Signs Executive Orders on Federal Purchasing, Office SpaceMajor players in the US copper industry have called on President Donald Trump to restrict exports of ore and s",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.5106",
-                "source": "Bloomberg",
-                "ticker": "FCX",
-                "title": "US Copper Industry Seeks Export Curbs Instead of Tariffs",
-                "url": "https://finance.yahoo.com/news/us-copper-industry-seeks-export-110350871.html"
-            },
-            {
                 "headline": "Freeport-McMoRan (FCX) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
                 "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -186,7 +186,7 @@
                 "url": "https://finance.yahoo.com/news/investors-heavily-search-freeport-mcmoran-130017276.html"
             }
         ],
-        "avgScore": -0.33635000000000004,
+        "avgScore": -0.1621,
         "pctChange": -0.012604987178632933
     },
     "4 15 2025": {
@@ -202,6 +202,26 @@
                 "url": "https://finance.yahoo.com/news/freeport-mcmoran-fcx-beats-stock-215016361.html"
             },
             {
+                "headline": "(Bloomberg) -- Supply Lines is a daily newsletter that tracks global trade. Sign up here.Most Read from BloombergHow Did This Suburb Figure Out Mass Transit?Even Oslo Has an Air Quality ProblemLA County Floats Leaner Budget Burdened by Fire and Legal Costs$15 Million Fund Bets Leadership Training Can Improve Chicago PolicingTrump Signs Executive Orders on Federal Purchasing, Office SpaceMajor players in the US copper industry have called on President Donald Trump to restrict exports of ore and s",
+                "publication_date": "2025-04-15T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5106",
+                "source": "Bloomberg",
+                "ticker": "FCX",
+                "title": "US Copper Industry Seeks Export Curbs Instead of Tariffs",
+                "url": "https://finance.yahoo.com/news/us-copper-industry-seeks-export-110350871.html"
+            },
+            {
+                "headline": "(Bloomberg) -- Supply Lines is a daily newsletter that tracks global trade. Sign up here.Most Read from BloombergHow Did This Suburb Figure Out Mass Transit?Even Oslo Has an Air Quality ProblemLA County Floats Leaner Budget Burdened by Fire and Legal Costs$15 Million Fund Bets Leadership Training Can Improve Chicago PolicingTrump Signs Executive Orders on Federal Purchasing, Office SpaceMajor players in the US copper industry have called on President Donald Trump to restrict exports of ore and s",
+                "publication_date": "2025-04-15T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5106",
+                "source": "Bloomberg",
+                "ticker": "FCX",
+                "title": "US Copper Industry Seeks Export Curbs Instead of Tariffs",
+                "url": "https://finance.yahoo.com/news/us-copper-industry-seeks-export-110350871.html"
+            },
+            {
                 "headline": "In the most recent trading session, Freeport-McMoRan (FCX) closed at $33.75, indicating a +1.2% shift from the previous trading day.",
                 "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -212,7 +232,7 @@
                 "url": "https://finance.yahoo.com/news/freeport-mcmoran-fcx-beats-stock-215016361.html"
             }
         ],
-        "avgScore": 0.0,
+        "avgScore": -0.2553,
         "pctChange": -0.0014983289979303238
     },
     "4 10 2025": {
@@ -346,6 +366,26 @@
                 "url": "https://finance.yahoo.com/news/jim-cramer-says-buy-freeport-133737845.html"
             },
             {
+                "headline": "(Bloomberg) -- Copper prices plunged below $9,000 a ton in the biggest drop since March 2020 as worries over the impact of a worsening trade war sparked a heavy selloff in metals and mining equities.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersWhat Would \u2018Transportation Abundance\u2019 Look Like?London Clears Final Hurdle for More High-Speed Trains t",
+                "publication_date": "2025-04-04T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.9337",
+                "source": "Bloomberg",
+                "ticker": "FCX",
+                "title": "Copper Plunges Most in 5 Years as Tariffs Slam Metals and Miners",
+                "url": "https://finance.yahoo.com/news/copper-plunges-more-5-tariffs-112616302.html"
+            },
+            {
+                "headline": "(Bloomberg) -- Copper prices plunged below $9,000 a ton in the biggest drop since March 2020 as worries over the impact of a worsening trade war sparked a heavy selloff in metals and mining equities.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersWhat Would \u2018Transportation Abundance\u2019 Look Like?London Clears Final Hurdle for More High-Speed Trains t",
+                "publication_date": "2025-04-04T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.9337",
+                "source": "Bloomberg",
+                "ticker": "FCX",
+                "title": "Copper Plunges Most in 5 Years as Tariffs Slam Metals and Miners",
+                "url": "https://finance.yahoo.com/news/copper-plunges-more-5-tariffs-112616302.html"
+            },
+            {
                 "headline": "We recently published a list of 10 Stocks Everyone is Talking About After Trump\u2019s New Tariffs. In this article, we are going to take a look at where Freeport-McMoRan Inc (NYSE:FCX) stands against other stocks everyone is talking about after Trump\u2019s new tariffs. Countries are beginning to react to President Donald Trump\u2019s new reciprocal tariffs [\u2026]",
                 "publication_date": "2025-04-04T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -356,22 +396,12 @@
                 "url": "https://finance.yahoo.com/news/jim-cramer-says-buy-freeport-133737845.html"
             }
         ],
-        "avgScore": 0.0,
+        "avgScore": -0.46685,
         "pctChange": 0.04185251583775061
     },
     "4 3 2025": {
         "importantArticles": [
             {
-                "headline": "Freeport-McMoRan (NYSE:FCX) recently affirmed a cash dividend of $0.15 per share, integrating a base and variable payout structure that aligns with its performance-based framework. This move highlights the company's commitment to returning value to shareholders against a backdrop of market volatility. Over the last month, FCX shares rose 3%, possibly buoyed by the dividend announcement. Despite broader market fluctuations, with major indexes like the S&P 500 recovering from steep losses...",
-                "publication_date": "2025-04-03T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.872",
-                "source": "Simply Wall St.",
-                "ticker": "FCX",
-                "title": "Freeport-McMoRan (NYSE:FCX) Affirms US$0.15 Dividend Amidst Price Rise (3% Over Last Month)",
-                "url": "https://finance.yahoo.com/news/freeport-mcmoran-nyse-fcx-affirms-173655240.html"
-            },
-            {
                 "headline": "Today's Research Daily features new research reports on 16 major stocks, including Exxon Mobil Corporation (XOM), Bristol-Myers Squibb Company (BMY) and Chubb Limited (CB), as well as a micro-cap stock Hamilton Beach Brands Holding Company (HBB).",
                 "publication_date": "2025-04-03T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -390,24 +420,24 @@
                 "ticker": "FCX",
                 "title": "Top Research Reports for Exxon Mobil, Bristol-Myers Squibb & Chubb",
                 "url": "https://finance.yahoo.com/news/top-research-reports-exxon-mobil-202600539.html"
-            },
-            {
-                "headline": "Freeport-McMoRan (NYSE:FCX) recently affirmed a cash dividend of $0.15 per share, integrating a base and variable payout structure that aligns with its performance-based framework. This move highlights the company's commitment to returning value to shareholders against a backdrop of market volatility. Over the last month, FCX shares rose 3%, possibly buoyed by the dividend announcement. Despite broader market fluctuations, with major indexes like the S&P 500 recovering from steep losses...",
-                "publication_date": "2025-04-03T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.872",
-                "source": "Simply Wall St.",
-                "ticker": "FCX",
-                "title": "Freeport-McMoRan (NYSE:FCX) Affirms US$0.15 Dividend Amidst Price Rise (3% Over Last Month)",
-                "url": "https://finance.yahoo.com/news/freeport-mcmoran-nyse-fcx-affirms-173655240.html"
             }
         ],
-        "avgScore": 0.4618,
+        "avgScore": 0.0516,
         "pctChange": -0.13011035626374223
     },
     "4 2 2025": {
         "importantArticles": [
             {
+                "headline": "Freeport-McMoRan (NYSE:FCX) recently affirmed a cash dividend of $0.15 per share, integrating a base and variable payout structure that aligns with its performance-based framework. This move highlights the company's commitment to returning value to shareholders against a backdrop of market volatility. Over the last month, FCX shares rose 3%, possibly buoyed by the dividend announcement. Despite broader market fluctuations, with major indexes like the S&P 500 recovering from steep losses...",
+                "publication_date": "2025-04-02T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.872",
+                "source": "Simply Wall St.",
+                "ticker": "FCX",
+                "title": "Freeport-McMoRan (NYSE:FCX) Affirms US$0.15 Dividend Amidst Price Rise (3% Over Last Month)",
+                "url": "https://finance.yahoo.com/news/freeport-mcmoran-nyse-fcx-affirms-173655240.html"
+            },
+            {
                 "headline": "Recently, Zacks.com users have been paying close attention to Freeport-McMoRan (FCX). This makes it worthwhile to examine what the stock has in store.",
                 "publication_date": "2025-04-02T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -446,9 +476,19 @@
                 "ticker": "FCX",
                 "title": "Here is What to Know Beyond Why Freeport-McMoRan Inc. (FCX) is a Trending Stock",
                 "url": "https://finance.yahoo.com/news/know-beyond-why-freeport-mcmoran-130013239.html"
+            },
+            {
+                "headline": "Freeport-McMoRan (NYSE:FCX) recently affirmed a cash dividend of $0.15 per share, integrating a base and variable payout structure that aligns with its performance-based framework. This move highlights the company's commitment to returning value to shareholders against a backdrop of market volatility. Over the last month, FCX shares rose 3%, possibly buoyed by the dividend announcement. Despite broader market fluctuations, with major indexes like the S&P 500 recovering from steep losses...",
+                "publication_date": "2025-04-02T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.872",
+                "source": "Simply Wall St.",
+                "ticker": "FCX",
+                "title": "Freeport-McMoRan (NYSE:FCX) Affirms US$0.15 Dividend Amidst Price Rise (3% Over Last Month)",
+                "url": "https://finance.yahoo.com/news/freeport-mcmoran-nyse-fcx-affirms-173655240.html"
             }
         ],
-        "avgScore": -0.07694999999999999,
+        "avgScore": 0.23936666666666664,
         "pctChange": -0.12277495274286955
     },
     "4 1 2025": {
@@ -543,45 +583,9 @@
         "avgScore": -0.2023,
         "pctChange": 0.007131607173689374
     },
-    "3 28 2025": {
-        "importantArticles": [
-            {
-                "headline": "We recently published a list of Jim Cramer Discusses These 10 Stocks & Says \u201cTraders Are Dumb As Wood.\u201d In this article, we are going to take a look at where Freeport-McMoRan Inc. (NYSE:FCX) stands against other stocks that Jim Cramer discussed. In his latest appearance on CNBC\u2019s Squawk on the Street, Jim Cramer commented [\u2026]",
-                "publication_date": "2025-03-28T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.5106",
-                "source": "Insider Monkey",
-                "ticker": "FCX",
-                "title": "Jim Cramer on Freeport-McMoRan (FCX): \u201cGold\u2019s A Good by Product of Freeport. And Gold Is Hitting Another High\u201d",
-                "url": "https://finance.yahoo.com/news/jim-cramer-freeport-mcmoran-fcx-161255159.html"
-            },
-            {
-                "headline": "We recently published a list of Jim Cramer Discusses These 10 Stocks & Says \u201cTraders Are Dumb As Wood.\u201d In this article, we are going to take a look at where Freeport-McMoRan Inc. (NYSE:FCX) stands against other stocks that Jim Cramer discussed. In his latest appearance on CNBC\u2019s Squawk on the Street, Jim Cramer commented [\u2026]",
-                "publication_date": "2025-03-28T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.5106",
-                "source": "Insider Monkey",
-                "ticker": "FCX",
-                "title": "Jim Cramer on Freeport-McMoRan (FCX): \u201cGold\u2019s A Good by Product of Freeport. And Gold Is Hitting Another High\u201d",
-                "url": "https://finance.yahoo.com/news/jim-cramer-freeport-mcmoran-fcx-161255159.html"
-            }
-        ],
-        "avgScore": -0.5106,
-        "pctChange": -0.014575722488009646
-    },
     "3 27 2025": {
         "importantArticles": [
             {
-                "headline": "Freeport-McMoRan (NYSE:FCX) recently affirmed a cash dividend of $0.15 per share, which may have played a role in its share price increase of 16% over the past month. This dividend announcement, with its structured payout comprising both a base and a performance-based variable component, coincided with a broader market characterized by declines in major technology stocks and a generally volatile landscape. While the tech sector saw a notable downturn, FCX's strong movement suggests investor...",
-                "publication_date": "2025-03-27T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.886",
-                "source": "Simply Wall St.",
-                "ticker": "FCX",
-                "title": "Freeport-McMoRan (NYSE:FCX) Declares US$0.15 Dividend As Shares Jump 8%",
-                "url": "https://finance.yahoo.com/news/freeport-mcmoran-nyse-fcx-declares-172956961.html"
-            },
-            {
                 "headline": "Copper miner Freeport-McMoRan's (NYSE: FCX) stock is down 37% from its all-time high, yet the price of copper is almost at an all-time high.  While the company's news hasn't been entirely positive over the last year, the share price performance and valuation disparity suggest that the stock looks great and is worth picking up in the general market downturn.  Let's start by understanding why there might be such a fundamental disconnect between the price of copper and the stock's performance and the price of copper; after all, the metal's price is the key driver of its earnings.",
                 "publication_date": "2025-03-27T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -592,6 +596,26 @@
                 "url": "https://finance.yahoo.com/news/magnificent-mining-stock-down-37-134500891.html"
             },
             {
+                "headline": "We recently published a list of Jim Cramer Discusses These 10 Stocks & Says \u201cTraders Are Dumb As Wood.\u201d In this article, we are going to take a look at where Freeport-McMoRan Inc. (NYSE:FCX) stands against other stocks that Jim Cramer discussed. In his latest appearance on CNBC\u2019s Squawk on the Street, Jim Cramer commented [\u2026]",
+                "publication_date": "2025-03-27T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5106",
+                "source": "Insider Monkey",
+                "ticker": "FCX",
+                "title": "Jim Cramer on Freeport-McMoRan (FCX): \u201cGold\u2019s A Good by Product of Freeport. And Gold Is Hitting Another High\u201d",
+                "url": "https://finance.yahoo.com/news/jim-cramer-freeport-mcmoran-fcx-161255159.html"
+            },
+            {
+                "headline": "We recently published a list of Jim Cramer Discusses These 10 Stocks & Says \u201cTraders Are Dumb As Wood.\u201d In this article, we are going to take a look at where Freeport-McMoRan Inc. (NYSE:FCX) stands against other stocks that Jim Cramer discussed. In his latest appearance on CNBC\u2019s Squawk on the Street, Jim Cramer commented [\u2026]",
+                "publication_date": "2025-03-27T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5106",
+                "source": "Insider Monkey",
+                "ticker": "FCX",
+                "title": "Jim Cramer on Freeport-McMoRan (FCX): \u201cGold\u2019s A Good by Product of Freeport. And Gold Is Hitting Another High\u201d",
+                "url": "https://finance.yahoo.com/news/jim-cramer-freeport-mcmoran-fcx-161255159.html"
+            },
+            {
                 "headline": "Copper miner Freeport-McMoRan's (NYSE: FCX) stock is down 37% from its all-time high, yet the price of copper is almost at an all-time high.  While the company's news hasn't been entirely positive over the last year, the share price performance and valuation disparity suggest that the stock looks great and is worth picking up in the general market downturn.  Let's start by understanding why there might be such a fundamental disconnect between the price of copper and the stock's performance and the price of copper; after all, the metal's price is the key driver of its earnings.",
                 "publication_date": "2025-03-27T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -600,23 +624,23 @@
                 "ticker": "FCX",
                 "title": "This Magnificent Mining Stock Is Down 37%. Buy It Before It Sets a New All-Time High.",
                 "url": "https://finance.yahoo.com/news/magnificent-mining-stock-down-37-134500891.html"
-            },
-            {
-                "headline": "Freeport-McMoRan (NYSE:FCX) recently affirmed a cash dividend of $0.15 per share, which may have played a role in its share price increase of 16% over the past month. This dividend announcement, with its structured payout comprising both a base and a performance-based variable component, coincided with a broader market characterized by declines in major technology stocks and a generally volatile landscape. While the tech sector saw a notable downturn, FCX's strong movement suggests investor...",
-                "publication_date": "2025-03-27T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.886",
-                "source": "Simply Wall St.",
-                "ticker": "FCX",
-                "title": "Freeport-McMoRan (NYSE:FCX) Declares US$0.15 Dividend As Shares Jump 8%",
-                "url": "https://finance.yahoo.com/news/freeport-mcmoran-nyse-fcx-declares-172956961.html"
             }
         ],
-        "avgScore": 0.7529,
+        "avgScore": 0.05459999999999998,
         "pctChange": -0.039019499542694194
     },
     "3 26 2025": {
         "importantArticles": [
+            {
+                "headline": "Freeport-McMoRan (NYSE:FCX) recently affirmed a cash dividend of $0.15 per share, which may have played a role in its share price increase of 16% over the past month. This dividend announcement, with its structured payout comprising both a base and a performance-based variable component, coincided with a broader market characterized by declines in major technology stocks and a generally volatile landscape. While the tech sector saw a notable downturn, FCX's strong movement suggests investor...",
+                "publication_date": "2025-03-26T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.886",
+                "source": "Simply Wall St.",
+                "ticker": "FCX",
+                "title": "Freeport-McMoRan (NYSE:FCX) Declares US$0.15 Dividend As Shares Jump 8%",
+                "url": "https://finance.yahoo.com/news/freeport-mcmoran-nyse-fcx-declares-172956961.html"
+            },
             {
                 "headline": "PHOENIX, March 26, 2025--Freeport (NYSE: FCX) announced today that its Board of Directors declared cash dividends of $0.15 per share on FCX\u2019s common stock payable on May 1, 2025, to shareholders of record as of April 15, 2025. The declaration includes a base dividend of $0.075 per share and variable dividend of $0.075 per share in accordance with FCX's performance-based payout framework. The payment of dividends is at the discretion of the Board, which will consider FCX's financial results, cash",
                 "publication_date": "2025-03-26T00:00:00.000Z",
@@ -626,16 +650,6 @@
                 "ticker": "FCX",
                 "title": "Freeport Declares Quarterly Cash Dividends on Common Stock",
                 "url": "https://finance.yahoo.com/news/freeport-declares-quarterly-cash-dividends-123000265.html"
-            },
-            {
-                "headline": "Stocks like BHP, SCCO, FCX, TECK and ARREF are poised well to capitalize on the rising copper demand.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6249",
-                "source": "Zacks",
-                "ticker": "FCX",
-                "title": "5 Stocks to Keep an Eye on as Copper Prices Approach Record Highs",
-                "url": "https://finance.yahoo.com/news/5-stocks-keep-eye-copper-165000805.html"
             },
             {
                 "headline": "BHP, Southern Copper, Freeport-McMoRan, Teck Resources and Amerigo Resources are part of the Zacks top Analyst Blog.",
@@ -678,15 +692,41 @@
                 "url": "https://finance.yahoo.com/news/zacks-analyst-blog-highlights-bhp-143700688.html"
             }
         ],
-        "avgScore": 0.3420599999999999,
+        "avgScore": 0.39427999999999996,
         "pctChange": -0.036394386561674825
     },
-    "coef": -0.17903130281049148,
-    "avgCoef": -0.02891232845677141,
+    "3 25 2025": {
+        "importantArticles": [
+            {
+                "headline": "Stocks like BHP, SCCO, FCX, TECK and ARREF are poised well to capitalize on the rising copper demand.",
+                "publication_date": "2025-03-25T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6249",
+                "source": "Zacks",
+                "ticker": "FCX",
+                "title": "5 Stocks to Keep an Eye on as Copper Prices Approach Record Highs",
+                "url": "https://finance.yahoo.com/news/5-stocks-keep-eye-copper-165000805.html"
+            },
+            {
+                "headline": "Stocks like BHP, SCCO, FCX, TECK and ARREF are poised well to capitalize on the rising copper demand.",
+                "publication_date": "2025-03-25T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6249",
+                "source": "Zacks",
+                "ticker": "FCX",
+                "title": "5 Stocks to Keep an Eye on as Copper Prices Approach Record Highs",
+                "url": "https://finance.yahoo.com/news/5-stocks-keep-eye-copper-165000805.html"
+            }
+        ],
+        "avgScore": 0.6249,
+        "pctChange": -0.03534053417716264
+    },
+    "coef": -0.3357843137254902,
+    "avgCoef": -0.01222444657523539,
     "similar": {
-        "RXRX": 0.28991913661984064,
-        "BTG": 0.23693898982636719,
-        "HL": 0.21927894089520944,
-        "KGC": 0.21339225791815683
+        "JD": 0.6887254901960785,
+        "VZ": 0.625,
+        "PG": 0.6102941176470589,
+        "TSCO": 0.5710784313725491
     }
 }

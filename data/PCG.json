@@ -63,7 +63,7 @@
             }
         ],
         "avgScore": 0.4648285714285715,
-        "pctChange": -0.01609259526512255
+        "pctChange": -0.01806887133635034
     },
     "4 23 2025": {
         "importantArticles": [
@@ -89,7 +89,7 @@
             }
         ],
         "avgScore": -0.6124,
-        "pctChange": -0.006556537768763242
+        "pctChange": -0.008551967961764296
     },
     "4 10 2025": {
         "importantArticles": [
@@ -195,6 +195,32 @@
         "avgScore": 0.7906,
         "pctChange": -0.008706489053918303
     },
+    "4 4 2025": {
+        "importantArticles": [
+            {
+                "headline": "Pacific Gas and Electric Company (PG&E) invites customers to an interactive webinar to share more about what we are doing to reduce wildfire risk and make our system safer.",
+                "publication_date": "2025-04-04T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4404",
+                "source": "PR Newswire",
+                "ticker": "PCG",
+                "title": "PG&E Invites Customers to a Webinar on Wildfire Prevention Work and Safety Resources for 2025",
+                "url": "https://finance.yahoo.com/news/pg-e-invites-customers-webinar-214200674.html"
+            },
+            {
+                "headline": "Pacific Gas and Electric Company (PG&E) invites customers to an interactive webinar to share more about what we are doing to reduce wildfire risk and make our system safer.",
+                "publication_date": "2025-04-04T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4404",
+                "source": "PR Newswire",
+                "ticker": "PCG",
+                "title": "PG&E Invites Customers to a Webinar on Wildfire Prevention Work and Safety Resources for 2025",
+                "url": "https://finance.yahoo.com/news/pg-e-invites-customers-webinar-214200674.html"
+            }
+        ],
+        "avgScore": 0.4404,
+        "pctChange": -0.021897846633628388
+    },
     "4 2 2025": {
         "importantArticles": [
             {
@@ -270,26 +296,6 @@
                 "url": "https://finance.yahoo.com/news/moody-upgrades-pg-e-reduced-085101194.html"
             },
             {
-                "headline": "PG&E Corporation (NYSE: PCG) will hold a conference call on Thursday, April 24, 2025, at 11:00 a.m. Eastern Time (8:00 a.m. Pacific Time) to discuss its first quarter 2025 results. The public can access the conference call through a simultaneous webcast. The link is provided below and will also be available from the PG&E Corporation website.",
-                "publication_date": "2025-03-28T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "PR Newswire",
-                "ticker": "PCG",
-                "title": "PG&E Corporation Schedules First Quarter 2025 Earnings Release and Conference Call",
-                "url": "https://finance.yahoo.com/news/pg-e-corporation-schedules-first-210000919.html"
-            },
-            {
-                "headline": "PG&E Corporation (NYSE: PCG) will hold a conference call on Thursday, April 24, 2025, at 11:00 a.m. Eastern Time (8:00 a.m. Pacific Time) to discuss its first quarter 2025 results. The public can access the conference call through a simultaneous webcast. The link is provided below and will also be available from the PG&E Corporation website.",
-                "publication_date": "2025-03-28T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "PR Newswire",
-                "ticker": "PCG",
-                "title": "PG&E Corporation Schedules First Quarter 2025 Earnings Release and Conference Call",
-                "url": "https://finance.yahoo.com/news/pg-e-corporation-schedules-first-210000919.html"
-            },
-            {
                 "headline": "\u201cIn the backdrop of the recent LA wildfires, we expect any legislative and regulatory actions resulting from the state's continued wildfire risk will remain supportive for utilities,\u201d Moody's said.",
                 "publication_date": "2025-03-28T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -310,11 +316,21 @@
                 "url": "https://finance.yahoo.com/news/gm-energy-joins-pg-e-083200159.html"
             }
         ],
-        "avgScore": 0.09966666666666667,
+        "avgScore": 0.1495,
         "pctChange": 0.012076578444724926
     },
     "3 27 2025": {
         "importantArticles": [
+            {
+                "headline": "PG&E Corporation (NYSE: PCG) will hold a conference call on Thursday, April 24, 2025, at 11:00 a.m. Eastern Time (8:00 a.m. Pacific Time) to discuss its first quarter 2025 results. The public can access the conference call through a simultaneous webcast. The link is provided below and will also be available from the PG&E Corporation website.",
+                "publication_date": "2025-03-27T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "PR Newswire",
+                "ticker": "PCG",
+                "title": "PG&E Corporation Schedules First Quarter 2025 Earnings Release and Conference Call",
+                "url": "https://finance.yahoo.com/news/pg-e-corporation-schedules-first-210000919.html"
+            },
             {
                 "headline": "We recently published a list of 10 Stocks To Trade Without Tariffs And Interest Rate Fears. In this article, we are going to take a look at where PG&E Corporation (NYSE:PCG) stands against other stocks to trade without tariffs and interest rate fears. The Federal Reserve this week decided to keep interest rates unchanged, causing [\u2026]",
                 "publication_date": "2025-03-27T00:00:00.000Z",
@@ -334,9 +350,19 @@
                 "ticker": "PCG",
                 "title": "Is PG&E Corporation (PCG) A Stock to Trade Without Tariffs and Interest Rate Fears?",
                 "url": "https://finance.yahoo.com/news/pg-e-corporation-pcg-stock-194011254.html"
+            },
+            {
+                "headline": "PG&E Corporation (NYSE: PCG) will hold a conference call on Thursday, April 24, 2025, at 11:00 a.m. Eastern Time (8:00 a.m. Pacific Time) to discuss its first quarter 2025 results. The public can access the conference call through a simultaneous webcast. The link is provided below and will also be available from the PG&E Corporation website.",
+                "publication_date": "2025-03-27T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "PR Newswire",
+                "ticker": "PCG",
+                "title": "PG&E Corporation Schedules First Quarter 2025 Earnings Release and Conference Call",
+                "url": "https://finance.yahoo.com/news/pg-e-corporation-schedules-first-210000919.html"
             }
         ],
-        "avgScore": -0.9009,
+        "avgScore": -0.45045,
         "pctChange": -0.00874629496221786
     },
     "3 26 2025": {
@@ -365,38 +391,12 @@
         "avgScore": 0.875,
         "pctChange": -0.005220469754747501
     },
-    "3 25 2025": {
-        "importantArticles": [
-            {
-                "headline": "We recently published a list of 14 Best Affordable Stocks to Buy According to Hedge Funds. In this article, we are going to take a look at where PG&E Corporation (NYSE:PCG) stands against other best affordable stocks to invest in. The broader market has taken a significant hit, dropping 10% from its peak and wiping [\u2026]",
-                "publication_date": "2025-03-25T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8807",
-                "source": "Insider Monkey",
-                "ticker": "PCG",
-                "title": "PG&E Corporation (PCG): One of the Best Affordable Stocks to Buy According to Hedge Funds",
-                "url": "https://finance.yahoo.com/news/pg-e-corporation-pcg-one-200945199.html"
-            },
-            {
-                "headline": "We recently published a list of 14 Best Affordable Stocks to Buy According to Hedge Funds. In this article, we are going to take a look at where PG&E Corporation (NYSE:PCG) stands against other best affordable stocks to invest in. The broader market has taken a significant hit, dropping 10% from its peak and wiping [\u2026]",
-                "publication_date": "2025-03-25T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8807",
-                "source": "Insider Monkey",
-                "ticker": "PCG",
-                "title": "PG&E Corporation (PCG): One of the Best Affordable Stocks to Buy According to Hedge Funds",
-                "url": "https://finance.yahoo.com/news/pg-e-corporation-pcg-one-200945199.html"
-            }
-        ],
-        "avgScore": 0.8807,
-        "pctChange": 0.010550989788606234
-    },
-    "coef": 0.5218922189120679,
-    "avgCoef": -0.02538152110626021,
+    "coef": 0.3117342784105641,
+    "avgCoef": 0.01428763139202929,
     "similar": {
-        "JD": 0.8651501883978577,
-        "PSLV": 0.7845896445389478,
-        "SRAD": 0.7215422623884966,
-        "NGD": 0.7075317330217298
+        "PSLV": 0.8231186002975569,
+        "JD": 0.7530659534637223,
+        "NGD": 0.6795106742881959,
+        "BTG": 0.6619975125797373
     }
 }

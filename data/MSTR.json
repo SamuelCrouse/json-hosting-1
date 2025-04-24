@@ -622,16 +622,6 @@
     "4 7 2025": {
         "importantArticles": [
             {
-                "headline": "Peter Schiff trolls Michael Saylor as Bitcoin sinks below $80K, questioning its \u201csafe haven\u201d status amid Trump\u2019s tariff-fueled market meltdown.",
-                "publication_date": "2025-04-07T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.1027",
-                "source": "TheStreet",
-                "ticker": "MSTR",
-                "title": "Peter Schiff has blunt message for Saylor as Bitcoin crashes below $80K",
-                "url": "https://finance.yahoo.com/news/peter-schiff-blunt-message-saylor-214427563.html"
-            },
-            {
                 "headline": "Crypto-related stocks fell sharply after the price of Bitcoin nosedived over the weekend, seemingly no longer resilient to the escalating trade tensions that have battered the stock market over the past week.  Shares of MicroStrategy, the largest corporate holder of Bitcoin, plunged 10% to $267.10 in premarket trading Monday.  The falling price of the world\u2019s largest digital coin significantly dents the paper value of the company\u2019s 528,185 Bitcoins.",
                 "publication_date": "2025-04-07T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -650,6 +640,16 @@
                 "ticker": "MSTR",
                 "title": "MicroStrategy Expects to Post Loss After Bitcoin Price Slumps",
                 "url": "https://finance.yahoo.com/m/91704243-4c83-370e-80e2-918a5b6698bc/microstrategy-expects-to-post.html"
+            },
+            {
+                "headline": "Shares of Apple and Tesla tumble as both get their price targets cut by a longtime Wall Street bull, General Motors is downgraded, and MicroStrategy follows Bitcoin lower.",
+                "publication_date": "2025-04-07T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.2732",
+                "source": "Barrons.com",
+                "ticker": "MSTR",
+                "title": "These Stocks Moved the Most Today: Apple, Tesla, GM, Nvidia, Super Micro, MicroStrategy, U.S. Steel, Alibaba, and More",
+                "url": "https://finance.yahoo.com/m/b28183b5-2041-3afb-b4a9-dc6c73696674/these-stocks-moved-the-most.html"
             },
             {
                 "headline": "After adopting fair-value accounting, Michael Saylor's Bitcoin-heavy firm braces for a $5.9B loss, marking a volatile shift in corporate crypto holdings' reporting.",
@@ -682,7 +682,7 @@
                 "url": "https://finance.yahoo.com/m/b28183b5-2041-3afb-b4a9-dc6c73696674/these-stocks-moved-the-most.html"
             }
         ],
-        "avgScore": -0.2406,
+        "avgScore": -0.26818,
         "pctChange": -0.11259049769120774
     },
     "4 4 2025": {
@@ -1246,11 +1246,11 @@
         "pctChange": 0.018140105789785956
     },
     "coef": -0.08441558441558442,
-    "avgCoef": -0.0027458529733748026,
+    "avgCoef": 0.021488197262482685,
     "similar": {
-        "DJT": 0.45194805194805193,
-        "T": 0.438961038961039,
-        "VOD": 0.40649350649350646,
-        "VRN": 0.4051948051948052
+        "T": 0.42337662337662335,
+        "VRN": 0.4051948051948052,
+        "BBD": 0.34037026803275766,
+        "MRK": 0.32987012987012987
     }
 }

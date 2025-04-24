@@ -1,4 +1,30 @@
 {
+    "4 24 2025": {
+        "importantArticles": [
+            {
+                "headline": "PLTR builds AI tools for banks; NU is the digital bank stealing customers. Both disrupt, but which stock wins?",
+                "publication_date": "2025-04-24T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5719",
+                "source": "Zacks",
+                "ticker": "NU",
+                "title": "Palantir vs. NU: Who Profits More From Banking's Future?",
+                "url": "https://finance.yahoo.com/news/palantir-vs-nu-profits-more-180700741.html"
+            },
+            {
+                "headline": "PLTR builds AI tools for banks; NU is the digital bank stealing customers. Both disrupt, but which stock wins?",
+                "publication_date": "2025-04-24T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5719",
+                "source": "Zacks",
+                "ticker": "NU",
+                "title": "Palantir vs. NU: Who Profits More From Banking's Future?",
+                "url": "https://finance.yahoo.com/news/palantir-vs-nu-profits-more-180700741.html"
+            }
+        ],
+        "avgScore": 0.5719,
+        "pctChange": 0.01819757702263043
+    },
     "4 23 2025": {
         "importantArticles": [
             {
@@ -23,7 +49,7 @@
             }
         ],
         "avgScore": 0.0,
-        "pctChange": 0.01784159510789136
+        "pctChange": 0.02262839286867398
     },
     "4 21 2025": {
         "importantArticles": [
@@ -192,26 +218,6 @@
                 "url": "https://finance.yahoo.com/news/j-p-morgan-says-time-100512471.html"
             },
             {
-                "headline": "Given the recent decline in NU shares, we evaluate the stock's current position to determine whether this presents a good investment opportunity.",
-                "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7845",
-                "source": "Zacks",
-                "ticker": "NU",
-                "title": "NU Stock Declines 27% in Six Months: Is This a Purchase Level?",
-                "url": "https://finance.yahoo.com/news/nu-stock-declines-27-six-174900420.html"
-            },
-            {
-                "headline": "Given the recent decline in NU shares, we evaluate the stock's current position to determine whether this presents a good investment opportunity.",
-                "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7845",
-                "source": "Zacks",
-                "ticker": "NU",
-                "title": "NU Stock Declines 27% in Six Months: Is This a Purchase Level?",
-                "url": "https://finance.yahoo.com/news/nu-stock-declines-27-six-174900420.html"
-            },
-            {
                 "headline": "Will they call it Wild Wednesday? Yesterday was a remarkable day on Wall Street \u2013 and one for the record books. The S&P 500 skyrocketed 9.5% in a powerful reaction to Trump\u2019s announcement of a 90-day halt on some of his \u2018reciprocal\u2019 tariffs. The S&P\u2019s move was so strong, it would be considered a solid year under normal circumstances. The single-day leap ranks as the third-largest since World War II for the market benchmark, underscoring just how much Wall Street had been craving a break in the t",
                 "publication_date": "2025-04-11T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -232,7 +238,7 @@
                 "url": "https://finance.yahoo.com/news/nu-holdings-ltd-nu-among-121724794.html"
             }
         ],
-        "avgScore": 0.824,
+        "avgScore": 0.84375,
         "pctChange": 0.009478618577014895
     },
     "4 10 2025": {
@@ -258,6 +264,26 @@
                 "url": "https://finance.yahoo.com/news/2-reasons-nu-holdings-stock-113000947.html"
             },
             {
+                "headline": "Given the recent decline in NU shares, we evaluate the stock's current position to determine whether this presents a good investment opportunity.",
+                "publication_date": "2025-04-10T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7845",
+                "source": "Zacks",
+                "ticker": "NU",
+                "title": "NU Stock Declines 27% in Six Months: Is This a Purchase Level?",
+                "url": "https://finance.yahoo.com/news/nu-stock-declines-27-six-174900420.html"
+            },
+            {
+                "headline": "Given the recent decline in NU shares, we evaluate the stock's current position to determine whether this presents a good investment opportunity.",
+                "publication_date": "2025-04-10T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7845",
+                "source": "Zacks",
+                "ticker": "NU",
+                "title": "NU Stock Declines 27% in Six Months: Is This a Purchase Level?",
+                "url": "https://finance.yahoo.com/news/nu-stock-declines-27-six-174900420.html"
+            },
+            {
                 "headline": "Nu Holdings (NYSE: NU) has become one of the cheapest growth stocks on the market today.  For patient investors, owning shares of this fintech business could be one of the best investment decisions they ever make.  The tech sector, of course, is known for its rapid growth rates due to the potential for rapid uptake and widespread adoption, especially for software businesses that can push new products to millions of customers with the click of a button.",
                 "publication_date": "2025-04-10T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -278,7 +304,7 @@
                 "url": "https://finance.yahoo.com/news/3-intriguing-stock-opportunities-estimated-113754602.html"
             }
         ],
-        "avgScore": 0.90315,
+        "avgScore": 0.8635999999999999,
         "pctChange": 0.029268311291206175
     },
     "4 7 2025": {
@@ -569,12 +595,12 @@
         "avgScore": 0.0,
         "pctChange": -0.040421795564241234
     },
-    "coef": 0.4270443573176949,
-    "avgCoef": -0.03408257095755874,
+    "coef": 0.40297401864325266,
+    "avgCoef": -0.015575426452941936,
     "similar": {
-        "IAG": 0.5153362286618597,
-        "SRAD": 0.4792987301540374,
-        "NU": 0.4468649814969972,
-        "BTG": 0.44506310657160614
+        "CCL": 0.45630881522838906,
+        "BTG": 0.42519685055372614,
+        "IAG": 0.41186315140744206,
+        "NU": 0.40297401864325266
     }
 }

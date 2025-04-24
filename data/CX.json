@@ -54,8 +54,34 @@
     "3 26 2025": {
         "importantArticles": [
             {
-                "headline": "MONTERREY, Mexico, March 25, 2025--Cemex presented its 2024 Integrated Report, titled Our Future in Action: Accelerating a Sustainable World, showcasing its operational and strategic performance in 2024. The year 2024 was marked by solid financial results, the recovery of Cemex\u2019s investment-grade rating, and progress in its decarbonization agenda in alignment with Cemex\u2019s 2030 targets.",
+                "headline": "We recently published a list of Pulse of The Market: Tuesday\u2019s 10 Top Performers. In this article, we are going to take a look at where Cemex SAB de CV (NYSE:CX) stands against other Tuesday\u2019s top performers. A lackluster trading persisted on the stock market on Tuesday, with all major indices finishing in the green [\u2026]",
                 "publication_date": "2025-03-26T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.3818",
+                "source": "Insider Monkey",
+                "ticker": "CX",
+                "title": "Why Cemex SAB de CV (CX) Went Up On Tuesday?",
+                "url": "https://finance.yahoo.com/news/why-cemex-sab-cv-cx-113130229.html"
+            },
+            {
+                "headline": "We recently published a list of Pulse of The Market: Tuesday\u2019s 10 Top Performers. In this article, we are going to take a look at where Cemex SAB de CV (NYSE:CX) stands against other Tuesday\u2019s top performers. A lackluster trading persisted on the stock market on Tuesday, with all major indices finishing in the green [\u2026]",
+                "publication_date": "2025-03-26T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.3818",
+                "source": "Insider Monkey",
+                "ticker": "CX",
+                "title": "Why Cemex SAB de CV (CX) Went Up On Tuesday?",
+                "url": "https://finance.yahoo.com/news/why-cemex-sab-cv-cx-113130229.html"
+            }
+        ],
+        "avgScore": 0.3818,
+        "pctChange": 0.005008382463218261
+    },
+    "3 25 2025": {
+        "importantArticles": [
+            {
+                "headline": "MONTERREY, Mexico, March 25, 2025--Cemex presented its 2024 Integrated Report, titled Our Future in Action: Accelerating a Sustainable World, showcasing its operational and strategic performance in 2024. The year 2024 was marked by solid financial results, the recovery of Cemex\u2019s investment-grade rating, and progress in its decarbonization agenda in alignment with Cemex\u2019s 2030 targets.",
+                "publication_date": "2025-03-25T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.5267",
                 "source": "Business Wire",
@@ -64,28 +90,8 @@
                 "url": "https://finance.yahoo.com/news/cemex-showcases-significant-operational-sustainability-222700194.html"
             },
             {
-                "headline": "We recently published a list of Pulse of The Market: Tuesday\u2019s 10 Top Performers. In this article, we are going to take a look at where Cemex SAB de CV (NYSE:CX) stands against other Tuesday\u2019s top performers. A lackluster trading persisted on the stock market on Tuesday, with all major indices finishing in the green [\u2026]",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.3818",
-                "source": "Insider Monkey",
-                "ticker": "CX",
-                "title": "Why Cemex SAB de CV (CX) Went Up On Tuesday?",
-                "url": "https://finance.yahoo.com/news/why-cemex-sab-cv-cx-113130229.html"
-            },
-            {
-                "headline": "We recently published a list of Pulse of The Market: Tuesday\u2019s 10 Top Performers. In this article, we are going to take a look at where Cemex SAB de CV (NYSE:CX) stands against other Tuesday\u2019s top performers. A lackluster trading persisted on the stock market on Tuesday, with all major indices finishing in the green [\u2026]",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.3818",
-                "source": "Insider Monkey",
-                "ticker": "CX",
-                "title": "Why Cemex SAB de CV (CX) Went Up On Tuesday?",
-                "url": "https://finance.yahoo.com/news/why-cemex-sab-cv-cx-113130229.html"
-            },
-            {
                 "headline": "MONTERREY, Mexico, March 25, 2025--Cemex presented its 2024 Integrated Report, titled Our Future in Action: Accelerating a Sustainable World, showcasing its operational and strategic performance in 2024. The year 2024 was marked by solid financial results, the recovery of Cemex\u2019s investment-grade rating, and progress in its decarbonization agenda in alignment with Cemex\u2019s 2030 targets.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
+                "publication_date": "2025-03-25T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.5267",
                 "source": "Business Wire",
@@ -94,15 +100,15 @@
                 "url": "https://finance.yahoo.com/news/cemex-showcases-significant-operational-sustainability-222700194.html"
             }
         ],
-        "avgScore": 0.45424999999999993,
-        "pctChange": 0.005008382463218261
+        "avgScore": 0.5267,
+        "pctChange": -0.04617841226139635
     },
-    "coef": 0.5,
-    "avgCoef": -0.0027458529733748026,
+    "coef": 0.39999999999999997,
+    "avgCoef": 0.017655414947554803,
     "similar": {
-        "SPY": 1.0,
-        "TSLA": 1.0,
-        "PLTR": 1.0,
-        "AAL": 1.0
+        "AAL": 1.0,
+        "WBD": 1.0,
+        "NIO": 1.0,
+        "SNAP": 1.0
     }
 }

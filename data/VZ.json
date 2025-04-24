@@ -42,6 +42,16 @@
                 "url": "https://finance.yahoo.com/news/verizon-suffers-major-loss-customers-120700223.html"
             },
             {
+                "headline": "T-Mobile added 1.34 million postpaid customers in the first quarter, exceeding Wall Street\u2019s estimates.",
+                "publication_date": "2025-04-24T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Barrons.com",
+                "ticker": "VZ",
+                "title": "T-Mobile Reports Strong Earnings but Its Wireless Results Disappoint. The Stock Is Sliding.",
+                "url": "https://finance.yahoo.com/m/782a30bf-4ca7-3ce9-a1d3-a22d4875ab5d/t-mobile-reports-strong.html"
+            },
+            {
                 "headline": "Relevant+, the leading independent culture media group for U.S. Hispanic audiences, is teaming up its music discovery youth publisher Tigre Sounds in partnership with Total Wireless to launch Beats Per Mile (BPM), an exclusive DJ-driven electronic music experience set to ignite Miami Race Week.",
                 "publication_date": "2025-04-24T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -50,19 +60,9 @@
                 "ticker": "VZ",
                 "title": "Relevant+ and Total Wireless Partner with Tigre Sounds to Launch \"Beats Per Mile\" -- A Latin DJ Coffee Club Experience During Miami Race Week",
                 "url": "https://finance.yahoo.com/news/relevant-total-wireless-partner-tigre-130000250.html"
-            },
-            {
-                "headline": "The telecom giant produces fairly durable cash flow because it provides vital wireless and broadband services to consumers and businesses.  Because of that, the company's monster 6.5%-yielding dividend is safe, offering investors a bankable return amid all the uncertainty.  Verizon generates a lot of recurring revenue as businesses and consumers pay their wireless and broadband bills.",
-                "publication_date": "2025-04-24T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.3182",
-                "source": "Motley Fool",
-                "ticker": "VZ",
-                "title": "This 6.5%-Yielding Dividend Stock Offers Income Certainty in Uncertain Times",
-                "url": "https://finance.yahoo.com/news/6-5-yielding-dividend-stock-222600329.html"
             }
         ],
-        "avgScore": 0.5293285714285715,
+        "avgScore": 0.4838714285714286,
         "pctChange": 0.002341425683961569
     },
     "4 23 2025": {
@@ -88,14 +88,14 @@
                 "url": "https://finance.yahoo.com/news/3-high-yield-stocks-beating-085100237.html"
             },
             {
-                "headline": "Tesla stock rises ahead of the electric-vehicle company\u2019s first-quarter earnings, Boeing is selling certain digital aviation solutions assets in a $10.55 billion deal, GE Aerospace\u2019s profit tops analysts\u2019 estimates, and more customers than expected cancel Verizon contracts.",
+                "headline": "While AI-generated text in malicious emails has doubled, the rate of successful phishing breaches is stable, according to a Wednesday report.",
                 "publication_date": "2025-04-23T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.8271",
-                "source": "Barrons.com",
+                "sentimentScore": "0.7184",
+                "source": "CIO Dive",
                 "ticker": "VZ",
-                "title": "These Stocks Moved the Most Today: Tesla, Boeing, Northrop, RTX, 3M, GE Aerospace, Lockheed, Verizon, First Solar, and More",
-                "url": "https://finance.yahoo.com/m/f387c034-c0c2-3b9a-9424-f8540135729d/these-stocks-moved-the-most.html"
+                "title": "AI impact on data breach outcomes remains \u2018limited\u2019: Verizon",
+                "url": "https://finance.yahoo.com/news/ai-impact-data-breach-outcomes-000100403.html"
             },
             {
                 "headline": "Shares are trouncing the broader market this year, but its quarterly report gave investors a reason to worry.",
@@ -128,7 +128,7 @@
                 "url": "https://finance.yahoo.com/m/27ca930b-9fdb-32f1-a292-7b672e1dbbc4/at-t-stock-climbs-after.html"
             }
         ],
-        "avgScore": 0.28140000000000004,
+        "avgScore": 0.24959375,
         "pctChange": 0.002576126660096811
     },
     "4 22 2025": {
@@ -144,14 +144,14 @@
                 "url": "https://finance.yahoo.com/news/verizon-delivered-strong-financial-growth-105500931.html"
             },
             {
-                "headline": "We recently published a list of the 10 Safe Dividend Stocks with Yields Above 5%. In this article, we are going to take a look at where Verizon Communications Inc. (NYSE:VZ) stands against other safe dividend stocks. Dividend-paying stocks have long held a special place among investors, often delivering stronger returns than the broader market over [\u2026]",
+                "headline": "Tesla stock rises ahead of the electric-vehicle company\u2019s first-quarter earnings, Boeing is selling certain digital aviation solutions assets in a $10.55 billion deal, GE Aerospace\u2019s profit tops analysts\u2019 estimates, and more customers than expected cancel Verizon contracts.",
                 "publication_date": "2025-04-22T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.8779",
-                "source": "Insider Monkey",
+                "sentimentScore": "0.8271",
+                "source": "Barrons.com",
                 "ticker": "VZ",
-                "title": "Verizon Communications Inc. (VZ): One of the Safe Dividend Stocks with Yields Above 5%",
-                "url": "https://finance.yahoo.com/news/verizon-communications-inc-vz-one-202337313.html"
+                "title": "These Stocks Moved the Most Today: Tesla, Boeing, Northrop, RTX, 3M, GE Aerospace, Lockheed, Verizon, First Solar, and More",
+                "url": "https://finance.yahoo.com/m/f387c034-c0c2-3b9a-9424-f8540135729d/these-stocks-moved-the-most.html"
             },
             {
                 "headline": "Verizon Communications (NYSE:VZ) experienced a 10% price increase over the last quarter, which could be partially attributed to its robust Q1 2025 earnings report where the company showed increases in both revenue and net income compared to the previous year. This positive financial performance was complemented by strategic moves such as partnerships and technological advancements, including the launch of a Private 5G Network framework and enhanced collaboration with Google Cloud. Despite...",
@@ -194,11 +194,21 @@
                 "url": "https://finance.yahoo.com/m/e7bbdf93-9859-3270-a6db-c0d07b13b684/don%E2%80%99t-ask-us-to-pick-up-the.html"
             }
         ],
-        "avgScore": 0.2222625,
+        "avgScore": 0.2149347826086956,
         "pctChange": -0.011345169700156307
     },
     "4 21 2025": {
         "importantArticles": [
+            {
+                "headline": "We recently published a list of the 10 Safe Dividend Stocks with Yields Above 5%. In this article, we are going to take a look at where Verizon Communications Inc. (NYSE:VZ) stands against other safe dividend stocks. Dividend-paying stocks have long held a special place among investors, often delivering stronger returns than the broader market over [\u2026]",
+                "publication_date": "2025-04-21T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8779",
+                "source": "Insider Monkey",
+                "ticker": "VZ",
+                "title": "Verizon Communications Inc. (VZ): One of the Safe Dividend Stocks with Yields Above 5%",
+                "url": "https://finance.yahoo.com/news/verizon-communications-inc-vz-one-202337313.html"
+            },
             {
                 "headline": "The Zacks Style Scores offers investors a way to easily find top-rated stocks based on their investing style. Here's why you should take advantage.",
                 "publication_date": "2025-04-21T00:00:00.000Z",
@@ -218,16 +228,6 @@
                 "ticker": "VZ",
                 "title": "Is VZ Stock a Smart Investment Option Before Q1 Earnings Release?",
                 "url": "https://finance.yahoo.com/news/vz-stock-smart-investment-option-163900785.html"
-            },
-            {
-                "headline": "Short-term uncertainty has led to a golden opportunity for long-term investors.",
-                "publication_date": "2025-04-21T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.1027",
-                "source": "Motley Fool",
-                "ticker": "VZ",
-                "title": "Trump Tariff Sell-Off: 3 Superb Stocks That Make for No-Brainer Buys Right Now",
-                "url": "https://finance.yahoo.com/news/trump-tariff-sell-off-3-075100288.html"
             },
             {
                 "headline": "More than 100 S&P 500 companies are set to report earnings as the market looks to find footing as the fallout from President Trump's tariffs has sent stocks into a tailspin.",
@@ -260,7 +260,7 @@
                 "url": "https://finance.yahoo.com/m/45f2e132-d0b5-357c-ab40-07fc0ea59550/tesla-alphabet-verizon-.html"
             }
         ],
-        "avgScore": 0.1685333333333333,
+        "avgScore": 0.2786375,
         "pctChange": 0.006056331695433435
     },
     "4 17 2025": {
@@ -306,6 +306,16 @@
                 "url": "https://finance.yahoo.com/news/verizon-communications-inc-vz-dirt-020553819.html"
             },
             {
+                "headline": "We recently published a list of Top 5 AI News Moving The Market Today. In this article, we are going to take a look at where Verizon Communications Inc. (NYSE:VZ) stands against other top AI news moving the market today. Investors continue to pour back into Big Tech stocks after the US government announced temporary [\u2026]",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.3818",
+                "source": "Insider Monkey",
+                "ticker": "VZ",
+                "title": "Verizon Communications (VZ): Boosts Sales 40% with Google AI, Powers 28,000 Stores",
+                "url": "https://finance.yahoo.com/news/verizon-communications-vz-boosts-sales-221858471.html"
+            },
+            {
                 "headline": "CMCSA launches five-year guarantee plan for Xfinity users, but increased competition suggests investors should hold the stock for now.",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -314,19 +324,9 @@
                 "ticker": "VZ",
                 "title": "Comcast Unveils 5-Year Xfinity Guarantee Plan: How to Play the Stock",
                 "url": "https://finance.yahoo.com/news/comcast-unveils-5-xfinity-guarantee-152300612.html"
-            },
-            {
-                "headline": "Whether you're a value, growth, or momentum investor, finding strong stocks becomes easier with the Zacks Style Scores, a top feature of the Zacks Premium research service.",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8979",
-                "source": "Zacks",
-                "ticker": "VZ",
-                "title": "Why This 1 Value Stock Could Be a Great Addition to Your Portfolio",
-                "url": "https://finance.yahoo.com/news/why-1-value-stock-could-134008954.html"
             }
         ],
-        "avgScore": 0.5321,
+        "avgScore": 0.50705,
         "pctChange": -0.025204373008089687
     },
     "4 16 2025": {
@@ -382,17 +382,17 @@
                 "url": "https://finance.yahoo.com/news/5-safe-dividend-stocks-yielding-010200945.html"
             },
             {
-                "headline": "In the closing of the recent trading day, Verizon Communications (VZ) stood at $44.48, denoting a +0.41% change from the preceding trading day.",
+                "headline": "AT&T (T) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
                 "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
+                "sentiment": "Positive",
+                "sentimentScore": "0.2263",
                 "source": "Zacks",
                 "ticker": "VZ",
-                "title": "Verizon Communications (VZ) Increases Despite Market Slip: Here's What You Need to Know",
-                "url": "https://finance.yahoo.com/news/verizon-communications-vz-increases-despite-214515843.html"
+                "title": "Earnings Preview: AT&T (T) Q1 Earnings Expected to Decline",
+                "url": "https://finance.yahoo.com/news/earnings-preview-t-t-q1-140044122.html"
             }
         ],
-        "avgScore": 0.23678333333333335,
+        "avgScore": 0.28414,
         "pctChange": 0.009860130684651114
     },
     "4 15 2025": {
@@ -418,6 +418,26 @@
                 "url": "https://finance.yahoo.com/news/verizon-communications-vz-expected-beat-140036624.html"
             },
             {
+                "headline": "In the closing of the recent trading day, Verizon Communications (VZ) stood at $44.48, denoting a +0.41% change from the preceding trading day.",
+                "publication_date": "2025-04-15T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "VZ",
+                "title": "Verizon Communications (VZ) Increases Despite Market Slip: Here's What You Need to Know",
+                "url": "https://finance.yahoo.com/news/verizon-communications-vz-increases-despite-214515843.html"
+            },
+            {
+                "headline": "In the closing of the recent trading day, Verizon Communications (VZ) stood at $44.48, denoting a +0.41% change from the preceding trading day.",
+                "publication_date": "2025-04-15T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "VZ",
+                "title": "Verizon Communications (VZ) Increases Despite Market Slip: Here's What You Need to Know",
+                "url": "https://finance.yahoo.com/news/verizon-communications-vz-increases-despite-214515843.html"
+            },
+            {
                 "headline": "Verizon (VZ) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
                 "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -438,7 +458,7 @@
                 "url": "https://finance.yahoo.com/news/comcast-unveils-five-internet-price-160308077.html"
             }
         ],
-        "avgScore": 0.27225,
+        "avgScore": 0.1815,
         "pctChange": -0.019559328705897387
     },
     "4 14 2025": {
@@ -474,16 +494,6 @@
                 "url": "https://finance.yahoo.com/news/jim-cramer-verizon-vz-verizon-193626294.html"
             },
             {
-                "headline": "We recently published a list of Jim Cramer Discussed These 12 Stocks. In this article, we are going to take a look at where Verizon Communications Inc. (NYSE:VZ) stands against other stocks that Jim Cramer discussed. On Thursday, Jim Cramer, host of Mad Money, described the 145% duty on China as so extreme that it [\u2026]",
-                "publication_date": "2025-04-14T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.4939",
-                "source": "Insider Monkey",
-                "ticker": "VZ",
-                "title": "\u201cUgly Read from Verizon!\u201d \u2013 Jim Cramer Slams the Telecom Giant Verizon Communications (VZ)",
-                "url": "https://finance.yahoo.com/news/ugly-read-verizon-jim-cramer-214404529.html"
-            },
-            {
                 "headline": "We recently published a list of Jim Cramer Hints at a Bigger Agenda Behind Tariffs and Breaks Down These 7 Stocks. In this article, we are going to take a look at where Verizon Communications Inc. (NYSE:VZ) stands against other stocks that Jim Cramer discusses. In his latest appearance on CNBC\u2019s Squawk on the Street, Jim [\u2026]",
                 "publication_date": "2025-04-14T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -502,9 +512,19 @@
                 "ticker": "VZ",
                 "title": "Verizon Communications Inc. (NYSE:VZ) is a favorite amongst institutional investors who own 64%",
                 "url": "https://finance.yahoo.com/news/verizon-communications-inc-nyse-vz-130009444.html"
+            },
+            {
+                "headline": "US telcos will turn up the volume on cost assurance messaging to underline their ability to provide customers with spend certainty as fears grow that the cost of new tariffs will be passed on to US consumers.",
+                "publication_date": "2025-04-14T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4404",
+                "source": "Verdict",
+                "ticker": "VZ",
+                "title": "US telcos to compete on post-tariffs price assurance",
+                "url": "https://finance.yahoo.com/news/us-telcos-compete-post-tariffs-173005066.html"
             }
         ],
-        "avgScore": 0.08207500000000001,
+        "avgScore": 0.2740666666666667,
         "pctChange": 0.004063212376428133
     },
     "4 11 2025": {
@@ -540,16 +560,6 @@
                 "url": "https://finance.yahoo.com/video/five-below-lucid-group-verizon-181419021.html"
             },
             {
-                "headline": "Dividend-paying stocks can allow investors to build a cash pile quickly. After all, isn't payday the best?",
-                "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.3544",
-                "source": "Zacks",
-                "ticker": "VZ",
-                "title": "Seeking Income? 3 High Yield Stocks Worth a Look",
-                "url": "https://finance.yahoo.com/news/seeking-income-3-high-yield-205800693.html"
-            },
-            {
                 "headline": "Julie Hyman goes over some of Friday's top stories on this segment of Market Minute. Five Below (FIVE) stock is under pressure after the retailer had to ask vendors to hold shipments from China. Lucid Group (LCID) plans to acquire Arizona-based assets from Nikola, pending US Bankruptcy Court approval. Additionally, Verizon (VZ) was upgraded to Outperform from In Line by Evercore ISI. Evercore ISI also lifted its price target for the company to $48 from $44. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
                 "publication_date": "2025-04-11T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -568,9 +578,19 @@
                 "ticker": "VZ",
                 "title": "Verizon Communications Inc. (VZ) Is a Trending Stock: Facts to Know Before Betting on It",
                 "url": "https://finance.yahoo.com/news/verizon-communications-inc-vz-trending-130013900.html"
+            },
+            {
+                "headline": "Investing.com -- Verizon Communications was upgraded to \u201cOutperform\u201d by Evercore ISI, which named it its top pick in the wireless sector, citing improving subscriber trends, fiber growth potential, and a compelling valuation following years of relative underperformance.",
+                "publication_date": "2025-04-11T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7964",
+                "source": "Investing.com",
+                "ticker": "VZ",
+                "title": "Evercore calls Verizon top wireless pick on fiber, valuation as it upgrades stock",
+                "url": "https://finance.yahoo.com/news/evercore-calls-verizon-top-wireless-135132406.html"
             }
         ],
-        "avgScore": 0.40432499999999993,
+        "avgScore": 0.6572333333333332,
         "pctChange": 0.01303452322869769
     },
     "4 10 2025": {
@@ -596,6 +616,26 @@
                 "url": "https://finance.yahoo.com/news/empowering-small-businesses-industry-first-130000524.html"
             },
             {
+                "headline": "Dividend-paying stocks can allow investors to build a cash pile quickly. After all, isn't payday the best?",
+                "publication_date": "2025-04-10T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.3544",
+                "source": "Zacks",
+                "ticker": "VZ",
+                "title": "Seeking Income? 3 High Yield Stocks Worth a Look",
+                "url": "https://finance.yahoo.com/news/seeking-income-3-high-yield-205800693.html"
+            },
+            {
+                "headline": "Dividend-paying stocks can allow investors to build a cash pile quickly. After all, isn't payday the best?",
+                "publication_date": "2025-04-10T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.3544",
+                "source": "Zacks",
+                "ticker": "VZ",
+                "title": "Seeking Income? 3 High Yield Stocks Worth a Look",
+                "url": "https://finance.yahoo.com/news/seeking-income-3-high-yield-205800693.html"
+            },
+            {
                 "headline": "My Biz Plan delivers a customizable wireless plan that enables small businesses to pay for only what they needNEW YORK, April 10, 2025 (GLOBE NEWSWIRE) -- Starting today, Verizon Business offers a market-leading solution for small and midsized business (SMB) customers to create and customize their wireless business plans \u2013 paying for what they need, when they need it. Introducing My Biz PlanCarriers today offer small businesses a \u201cgood, better, best\u201d choice. But why be forced to make a trade-off",
                 "publication_date": "2025-04-10T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -616,7 +656,7 @@
                 "url": "https://finance.yahoo.com/news/verizon-communications-nyse-vz-enhances-023135312.html"
             }
         ],
-        "avgScore": 0.3457,
+        "avgScore": 0.11233333333333334,
         "pctChange": 0.018872353398120382
     },
     "4 9 2025": {
@@ -718,16 +758,6 @@
                 "url": "https://finance.yahoo.com/news/t-soars-59-past-invest-135500883.html"
             },
             {
-                "headline": "In the most recent trading session, Verizon Communications (VZ) closed at $42.54, indicating a -1.14% shift from the previous trading day.",
-                "publication_date": "2025-04-08T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "VZ",
-                "title": "Verizon Communications (VZ) Registers a Bigger Fall Than the Market: Important Facts to Note",
-                "url": "https://finance.yahoo.com/news/verizon-communications-vz-registers-bigger-214514788.html"
-            },
-            {
                 "headline": "Verizon Communications, The Southern Company, Blackstone, Utah Medical Products and The Eastern Company are included in this Analyst Blog.",
                 "publication_date": "2025-04-08T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -746,23 +776,23 @@
                 "ticker": "VZ",
                 "title": "Verizon's Frontline Solution Enhances Security in Mardi Gras Festival",
                 "url": "https://finance.yahoo.com/news/verizons-frontline-solution-enhances-security-160700880.html"
+            },
+            {
+                "headline": "T appears to be treading in the middle of the road and investors could be better off if they trade with caution.",
+                "publication_date": "2025-04-08T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4404",
+                "source": "Zacks",
+                "ticker": "VZ",
+                "title": "AT&T Soars 59% in the Past Year: Should You Invest in T Stock Now?",
+                "url": "https://finance.yahoo.com/news/t-soars-59-past-invest-135500883.html"
             }
         ],
-        "avgScore": 0.3296,
+        "avgScore": 0.40679999999999994,
         "pctChange": 0.017073837885076115
     },
     "4 7 2025": {
         "importantArticles": [
-            {
-                "headline": "We recently published a list of 11 Best Counter Cyclical Stocks to Buy According to Analysts. In this article, we are going to take a look at where Verizon Communications Inc. (NYSE:VZ) stands against other best counter cyclical stocks to buy according to analysts. Counter cyclical stocks stand out because they tend to perform well [\u2026]",
-                "publication_date": "2025-04-07T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8885",
-                "source": "Insider Monkey",
-                "ticker": "VZ",
-                "title": "Is Verizon Communications (VZ) the Best Counter Cyclical Stock to Buy According to Analysts?",
-                "url": "https://finance.yahoo.com/news/verizon-communications-vz-best-counter-211103917.html"
-            },
             {
                 "headline": "What you need to know: The Verizon Frontline Crisis Response Team supported the New Orleans Police Department (NOPD) with Unmanned Aircraft Systems (UAS) support during the busiest week of Mardi Gras.The NOPD requested the support of the Verizon Frontline team due to their experience with advanced UAS technology and long-standing commitment to meeting the mission-critical communications needs of the public safety community.The team conducted more than 140 flights, totalling over 45 hours in the",
                 "publication_date": "2025-04-07T00:00:00.000Z",
@@ -782,6 +812,16 @@
                 "ticker": "VZ",
                 "title": "Verizon Communications (NYSE:VZ) Unveils Portable 5G Network, Shares Fall 4%",
                 "url": "https://finance.yahoo.com/news/verizon-communications-nyse-vz-unveils-172753943.html"
+            },
+            {
+                "headline": "What kind of stocks do you buy when the stock market is highly volatile?  Stocks that pay solid dividends get extra points.  Here are my picks for the smartest dividend stocks to buy with $150 right now.",
+                "publication_date": "2025-04-07T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6369",
+                "source": "Motley Fool",
+                "ticker": "VZ",
+                "title": "The Smartest Dividend Stocks to Buy With $150 Right Now",
+                "url": "https://finance.yahoo.com/news/smartest-dividend-stocks-buy-150-084800206.html"
             },
             {
                 "headline": "Verizon is a reliable defensive stock, but it has struggled to beat the market.",
@@ -804,17 +844,17 @@
                 "url": "https://finance.yahoo.com/news/verizon-report-1q-earnings-april-120000860.html"
             },
             {
-                "headline": "What kind of stocks do you buy when the stock market is highly volatile?  Stocks that pay solid dividends get extra points.  Here are my picks for the smartest dividend stocks to buy with $150 right now.",
+                "headline": "In the most recent trading session, Verizon Communications (VZ) closed at $42.54, indicating a -1.14% shift from the previous trading day.",
                 "publication_date": "2025-04-07T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6369",
-                "source": "Motley Fool",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
                 "ticker": "VZ",
-                "title": "The Smartest Dividend Stocks to Buy With $150 Right Now",
-                "url": "https://finance.yahoo.com/news/smartest-dividend-stocks-buy-150-084800206.html"
+                "title": "Verizon Communications (VZ) Registers a Bigger Fall Than the Market: Important Facts to Note",
+                "url": "https://finance.yahoo.com/news/verizon-communications-vz-registers-bigger-214514788.html"
             }
         ],
-        "avgScore": 0.4508666666666667,
+        "avgScore": 0.29855714285714285,
         "pctChange": -0.009629022170117853
     },
     "4 4 2025": {
@@ -942,16 +982,6 @@
                 "url": "https://finance.yahoo.com/news/good-verizon-communications-inc-nyse-120021752.html"
             },
             {
-                "headline": "Verizon Communications (VZ) concluded the recent trading session at $45.38, signifying a +0.04% move from its prior day's close.",
-                "publication_date": "2025-04-02T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "VZ",
-                "title": "Verizon Communications (VZ) Rises But Trails Market: What Investors Should Know",
-                "url": "https://finance.yahoo.com/news/verizon-communications-vz-rises-trails-214515057.html"
-            },
-            {
                 "headline": "The market (^GSPC,&nbsp;^IXIC,&nbsp;^DJI) outlook is uncertain, with a potentially rough earnings season ahead due to factors like tariffs, slower consumer spending, and business uncertainty. Chris Versace, Tematica Research chief investment officer, joins Catalysts host Madison Mills to share his insights on defensive stocks to buy amid market uncertainty. To watch more expert insights and analysis on the latest market action, check out more Catalysts&nbsp;here.",
                 "publication_date": "2025-04-02T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -970,16 +1000,6 @@
                 "ticker": "VZ",
                 "title": "Top defensive stock picks as tariffs, market uncertainty loom",
                 "url": "https://finance.yahoo.com/video/top-defensive-stock-picks-tariffs-150146097.html"
-            },
-            {
-                "headline": "Verizon Communications (VZ) concluded the recent trading session at $45.38, signifying a +0.04% move from its prior day's close.",
-                "publication_date": "2025-04-02T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "VZ",
-                "title": "Verizon Communications (VZ) Rises But Trails Market: What Investors Should Know",
-                "url": "https://finance.yahoo.com/news/verizon-communications-vz-rises-trails-214515057.html"
             },
             {
                 "headline": "Many investors are still learning about the various metrics that can be useful when analysing a stock. This article is...",
@@ -992,7 +1012,7 @@
                 "url": "https://finance.yahoo.com/news/good-verizon-communications-inc-nyse-120021752.html"
             }
         ],
-        "avgScore": 0.04813333333333334,
+        "avgScore": 0.07220000000000001,
         "pctChange": 0.019669194709173752
     },
     "4 1 2025": {
@@ -1028,6 +1048,16 @@
                 "url": "https://finance.yahoo.com/news/heres-why-verizon-communications-vz-134009800.html"
             },
             {
+                "headline": "Verizon Communications (VZ) concluded the recent trading session at $45.38, signifying a +0.04% move from its prior day's close.",
+                "publication_date": "2025-04-01T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "VZ",
+                "title": "Verizon Communications (VZ) Rises But Trails Market: What Investors Should Know",
+                "url": "https://finance.yahoo.com/news/verizon-communications-vz-rises-trails-214515057.html"
+            },
+            {
                 "headline": "Investors should look to safe havens with solid dividends as the broader market falls due to worries about tariffs and the economy.",
                 "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -1046,19 +1076,9 @@
                 "ticker": "VZ",
                 "title": "Here's Why Verizon Communications (VZ) is a Strong Value Stock",
                 "url": "https://finance.yahoo.com/news/heres-why-verizon-communications-vz-134009800.html"
-            },
-            {
-                "headline": "We recently published a list of Dividend Capture Strategy: 15 High Yield Stocks to Buy in April. In this article, we are going to take a look at where Verizon Communications Inc. (NYSE:VZ) stands against other best high yield stocks to buy in April. Dividend investing appears to be a simple strategy on the surface, but [\u2026]",
-                "publication_date": "2025-04-01T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.3818",
-                "source": "Insider Monkey",
-                "ticker": "VZ",
-                "title": "Verizon Communications Inc. (VZ): Among the Best High Yield Stocks to Buy in April for Dividend Capture",
-                "url": "https://finance.yahoo.com/news/verizon-communications-inc-vz-among-141731678.html"
             }
         ],
-        "avgScore": 0.31492499999999995,
+        "avgScore": 0.25193999999999994,
         "pctChange": -0.014103125518073346
     },
     "3 31 2025": {
@@ -1126,6 +1146,32 @@
         ],
         "avgScore": 0.23096000000000005,
         "pctChange": 0.00044091699455595687
+    },
+    "3 28 2025": {
+        "importantArticles": [
+            {
+                "headline": "We recently published a list of Why These 15 Telecom Stocks Are Surging In 2025. In this article, we are going to take a look at where Verizon Communications Inc. (NYSE:VZ)stands against other telecom stocks that are surging in 2025. The telecom sector has seen many ups and downs in the past few years. Post-COVID, [\u2026]",
+                "publication_date": "2025-03-28T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Insider Monkey",
+                "ticker": "VZ",
+                "title": "Why Verizon Communications (VZ) Is Surging in 2025?",
+                "url": "https://finance.yahoo.com/news/why-verizon-communications-vz-surging-203124430.html"
+            },
+            {
+                "headline": "We recently published a list of Why These 15 Telecom Stocks Are Surging In 2025. In this article, we are going to take a look at where Verizon Communications Inc. (NYSE:VZ)stands against other telecom stocks that are surging in 2025. The telecom sector has seen many ups and downs in the past few years. Post-COVID, [\u2026]",
+                "publication_date": "2025-03-28T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Insider Monkey",
+                "ticker": "VZ",
+                "title": "Why Verizon Communications (VZ) Is Surging in 2025?",
+                "url": "https://finance.yahoo.com/news/why-verizon-communications-vz-surging-203124430.html"
+            }
+        ],
+        "avgScore": 0.0,
+        "pctChange": 0.009570440434360315
     },
     "3 27 2025": {
         "importantArticles": [
@@ -1292,16 +1338,6 @@
                 "url": "https://finance.yahoo.com/news/verizon-quarterly-postpaid-subscriber-count-192610242.html"
             },
             {
-                "headline": "Verizon Communications (VZ) closed at $43.56 in the latest trading session, marking a -0.98% move from the prior day.",
-                "publication_date": "2025-03-25T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "VZ",
-                "title": "Verizon Communications (VZ) Stock Slides as Market Rises: Facts to Know Before You Trade",
-                "url": "https://finance.yahoo.com/news/verizon-communications-vz-stock-slides-214514978.html"
-            },
-            {
                 "headline": "Verizon Communications (VZ) is facing softer postpaid net additions in Q1 amid increasing competitiv",
                 "publication_date": "2025-03-25T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -1320,17 +1356,27 @@
                 "ticker": "VZ",
                 "title": "Jim Cramer Says Verizon Communications (VZ) is \u2018Terrible\u2019 \u2013 Recommends AT&T Instead",
                 "url": "https://finance.yahoo.com/news/jim-cramer-says-verizon-communications-171558172.html"
+            },
+            {
+                "headline": "Verizon Communications' (VZ) first-quarter postpaid subscriber numbers will likely be weighed down b",
+                "publication_date": "2025-03-25T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "MT Newswires",
+                "ticker": "VZ",
+                "title": "Verizon Quarterly Postpaid Subscriber Count Faces Higher Competition Pressure, RBC Says",
+                "url": "https://finance.yahoo.com/news/verizon-quarterly-postpaid-subscriber-count-192610242.html"
             }
         ],
-        "avgScore": 0.26176666666666665,
+        "avgScore": 0.31412,
         "pctChange": 0.01586571201460052
     },
-    "coef": -0.14805194805194805,
-    "avgCoef": -0.021877673631684413,
+    "coef": -0.03444381705251271,
+    "avgCoef": 0.01046223586435137,
     "similar": {
-        "PSLV": 0.32987012987012987,
-        "BTG": 0.28181818181818186,
-        "NEM": 0.2714285714285714,
-        "NGD": 0.26103896103896107
+        "JD": 0.2885375494071147,
+        "TAL": 0.2399774138904574,
+        "AMCR": 0.18238283455674761,
+        "PSLV": 0.17334839073969513
     }
 }

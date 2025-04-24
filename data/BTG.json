@@ -359,38 +359,12 @@
         "avgScore": 0.4404,
         "pctChange": -0.0914826356067685
     },
-    "3 24 2025": {
-        "importantArticles": [
-            {
-                "headline": "In the most recent trading session, B2Gold (BTG) closed at $3.12, indicating no shift from the previous trading day.",
-                "publication_date": "2025-03-24T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.296",
-                "source": "Zacks",
-                "ticker": "BTG",
-                "title": "B2Gold (BTG) Flat As Market Gains: What You Should Know",
-                "url": "https://finance.yahoo.com/news/b2gold-btg-flat-market-gains-220015221.html"
-            },
-            {
-                "headline": "In the most recent trading session, B2Gold (BTG) closed at $3.12, indicating no shift from the previous trading day.",
-                "publication_date": "2025-03-24T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.296",
-                "source": "Zacks",
-                "ticker": "BTG",
-                "title": "B2Gold (BTG) Flat As Market Gains: What You Should Know",
-                "url": "https://finance.yahoo.com/news/b2gold-btg-flat-market-gains-220015221.html"
-            }
-        ],
-        "avgScore": -0.296,
-        "pctChange": 0.0160257027464293
-    },
-    "coef": -0.05504818825631804,
-    "avgCoef": 0.011304607585202358,
+    "coef": 0.09203146787097731,
+    "avgCoef": 0.015141830939837718,
     "similar": {
-        "BMY": 0.587180674734059,
-        "DNB": 0.5504818825631803,
-        "OKLO": 0.45873490213598356,
-        "PLTR": 0.4312108080078246
+        "DNB": 0.5215116512688716,
+        "BMY": 0.5215116512688716,
+        "PLTR": 0.49696992650327754,
+        "AVGO": 0.4478864769720896
     }
 }

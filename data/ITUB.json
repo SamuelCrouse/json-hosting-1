@@ -64,26 +64,6 @@
                 "url": "https://finance.yahoo.com/news/bkeay-vs-itub-stock-better-154006023.html"
             },
             {
-                "headline": "We recently compiled a list of the 10 Best Stocks Under $10 to Buy Now. In this article, we are going to take a look at where Ita\u00fa Unibanco Holding SA (NYSE:ITUB) stands against the other stocks under $10. On March 28, Friday, US stocks declined as Wall Street continued to struggle with President Trump\u2019s [\u2026]",
-                "publication_date": "2025-04-01T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4404",
-                "source": "Insider Monkey",
-                "ticker": "ITUB",
-                "title": "Is Ita\u00fa Unibanco Holding SA (ITUB) The Best Stock Under $10 to Buy Now?",
-                "url": "https://finance.yahoo.com/news/ita-unibanco-holding-sa-itub-194421610.html"
-            },
-            {
-                "headline": "We recently compiled a list of the 10 Best Stocks Under $10 to Buy Now. In this article, we are going to take a look at where Ita\u00fa Unibanco Holding SA (NYSE:ITUB) stands against the other stocks under $10. On March 28, Friday, US stocks declined as Wall Street continued to struggle with President Trump\u2019s [\u2026]",
-                "publication_date": "2025-04-01T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4404",
-                "source": "Insider Monkey",
-                "ticker": "ITUB",
-                "title": "Is Ita\u00fa Unibanco Holding SA (ITUB) The Best Stock Under $10 to Buy Now?",
-                "url": "https://finance.yahoo.com/news/ita-unibanco-holding-sa-itub-194421610.html"
-            },
-            {
                 "headline": "BKEAY vs. ITUB: Which Stock Is the Better Value Option?",
                 "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -94,8 +74,34 @@
                 "url": "https://finance.yahoo.com/news/bkeay-vs-itub-stock-better-154006023.html"
             }
         ],
-        "avgScore": 0.5445,
+        "avgScore": 0.6486,
         "pctChange": 0.0023563550800571272
+    },
+    "3 31 2025": {
+        "importantArticles": [
+            {
+                "headline": "We recently compiled a list of the 10 Best Stocks Under $10 to Buy Now. In this article, we are going to take a look at where Ita\u00fa Unibanco Holding SA (NYSE:ITUB) stands against the other stocks under $10. On March 28, Friday, US stocks declined as Wall Street continued to struggle with President Trump\u2019s [\u2026]",
+                "publication_date": "2025-03-31T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4404",
+                "source": "Insider Monkey",
+                "ticker": "ITUB",
+                "title": "Is Ita\u00fa Unibanco Holding SA (ITUB) The Best Stock Under $10 to Buy Now?",
+                "url": "https://finance.yahoo.com/news/ita-unibanco-holding-sa-itub-194421610.html"
+            },
+            {
+                "headline": "We recently compiled a list of the 10 Best Stocks Under $10 to Buy Now. In this article, we are going to take a look at where Ita\u00fa Unibanco Holding SA (NYSE:ITUB) stands against the other stocks under $10. On March 28, Friday, US stocks declined as Wall Street continued to struggle with President Trump\u2019s [\u2026]",
+                "publication_date": "2025-03-31T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4404",
+                "source": "Insider Monkey",
+                "ticker": "ITUB",
+                "title": "Is Ita\u00fa Unibanco Holding SA (ITUB) The Best Stock Under $10 to Buy Now?",
+                "url": "https://finance.yahoo.com/news/ita-unibanco-holding-sa-itub-194421610.html"
+            }
+        ],
+        "avgScore": 0.4404,
+        "pctChange": 0.003636429246984772
     },
     "3 27 2025": {
         "importantArticles": [
@@ -123,12 +129,12 @@
         "avgScore": -0.8481,
         "pctChange": -0.014285631524081275
     },
-    "coef": 0.39999999999999997,
-    "avgCoef": -0.031916152659117986,
+    "coef": 0.4103913408340617,
+    "avgCoef": -0.0046879671995934645,
     "similar": {
-        "LCID": 0.6000000000000001,
-        "RIVN": 0.6000000000000001,
-        "NIO": 0.39999999999999997,
-        "BTG": 0.39999999999999997
+        "PONY": 0.9746794344808963,
+        "QS": 0.8720815992723809,
+        "INTC": 0.6668859288553503,
+        "TAL": 0.6668859288553503
     }
 }

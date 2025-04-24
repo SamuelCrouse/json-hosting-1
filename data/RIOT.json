@@ -1,33 +1,17 @@
 {
-    "4 2 2025": {
-        "importantArticles": [
-            {
-                "headline": "Riot Platforms (NasdaqCM:RIOT) saw an 18% decline in its share price last week. This drop came on the heels of the company announcing an increase in bitcoin production, with 470 bitcoins produced in February 2025 compared to 418 in the previous year. Despite these operational improvements, the broader market context was challenging. Investors were focused on looming tariffs that fueled economic concerns, resulting in volatile trading across the market. With the S&P 500 and Nasdaq recently...",
-                "publication_date": "2025-04-02T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.1184",
-                "source": "Simply Wall St.",
-                "ticker": "RIOT",
-                "title": "Riot Platforms (NasdaqCM:RIOT) Sees 18% Drop In Last Week Despite Increased Bitcoin Production",
-                "url": "https://finance.yahoo.com/news/riot-platforms-nasdaqcm-riot-sees-175118464.html"
-            },
-            {
-                "headline": "Riot Platforms (NasdaqCM:RIOT) saw an 18% decline in its share price last week. This drop came on the heels of the company announcing an increase in bitcoin production, with 470 bitcoins produced in February 2025 compared to 418 in the previous year. Despite these operational improvements, the broader market context was challenging. Investors were focused on looming tariffs that fueled economic concerns, resulting in volatile trading across the market. With the S&P 500 and Nasdaq recently...",
-                "publication_date": "2025-04-02T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.1184",
-                "source": "Simply Wall St.",
-                "ticker": "RIOT",
-                "title": "Riot Platforms (NasdaqCM:RIOT) Sees 18% Drop In Last Week Despite Increased Bitcoin Production",
-                "url": "https://finance.yahoo.com/news/riot-platforms-nasdaqcm-riot-sees-175118464.html"
-            }
-        ],
-        "avgScore": -0.1184,
-        "pctChange": -0.08977558926842957
-    },
     "4 1 2025": {
         "importantArticles": [
             {
+                "headline": "Riot Platforms (NasdaqCM:RIOT) saw an 18% decline in its share price last week. This drop came on the heels of the company announcing an increase in bitcoin production, with 470 bitcoins produced in February 2025 compared to 418 in the previous year. Despite these operational improvements, the broader market context was challenging. Investors were focused on looming tariffs that fueled economic concerns, resulting in volatile trading across the market. With the S&P 500 and Nasdaq recently...",
+                "publication_date": "2025-04-01T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.1184",
+                "source": "Simply Wall St.",
+                "ticker": "RIOT",
+                "title": "Riot Platforms (NasdaqCM:RIOT) Sees 18% Drop In Last Week Despite Increased Bitcoin Production",
+                "url": "https://finance.yahoo.com/news/riot-platforms-nasdaqcm-riot-sees-175118464.html"
+            },
+            {
                 "headline": "(Bloomberg) -- Shares of Coinbase Global Inc. and other firms linked to cryptocurrencies were hammered this quarter as growing concerns about the US economy weighed on digital assets. Most Read from BloombergGold-Rush Fever Returns to Historic New Zealand Mining TownWhat Frank Lloyd Wright Learned From the DesertBank Regulators Fight for Desks as OCC Returns to New York TowerCoinbase fell 31% in the worst quarterly performance since FTX collapsed near the end of 2022. Nearly every major crypto-l",
                 "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -46,9 +30,19 @@
                 "ticker": "RIOT",
                 "title": "Coinbase Shares Head for Worst Quarter Since FTX Collapse as Crypto Slumps",
                 "url": "https://finance.yahoo.com/news/coinbase-shares-head-worst-quarter-201826737.html"
+            },
+            {
+                "headline": "Riot Platforms (NasdaqCM:RIOT) saw an 18% decline in its share price last week. This drop came on the heels of the company announcing an increase in bitcoin production, with 470 bitcoins produced in February 2025 compared to 418 in the previous year. Despite these operational improvements, the broader market context was challenging. Investors were focused on looming tariffs that fueled economic concerns, resulting in volatile trading across the market. With the S&P 500 and Nasdaq recently...",
+                "publication_date": "2025-04-01T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.1184",
+                "source": "Simply Wall St.",
+                "ticker": "RIOT",
+                "title": "Riot Platforms (NasdaqCM:RIOT) Sees 18% Drop In Last Week Despite Increased Bitcoin Production",
+                "url": "https://finance.yahoo.com/news/riot-platforms-nasdaqcm-riot-sees-175118464.html"
             }
         ],
-        "avgScore": -0.6369,
+        "avgScore": -0.37765000000000004,
         "pctChange": 0.06366054354629994
     },
     "3 31 2025": {
@@ -77,12 +71,12 @@
         "avgScore": -0.25,
         "pctChange": 0.05898877570852176
     },
-    "coef": -1.0,
-    "avgCoef": -0.009814416461488881,
+    "coef": -0.9999999999999999,
+    "avgCoef": -0.011271704176391792,
     "similar": {
-        "T": 1.0,
-        "ITUB": 1.0,
-        "BBD": 1.0,
-        "VZ": 1.0
+        "NVDA": 0.9999999999999999,
+        "NOK": 0.9999999999999999,
+        "LCID": 0.9999999999999999,
+        "NIO": 0.9999999999999999
     }
 }

@@ -2,6 +2,16 @@
     "4 23 2025": {
         "importantArticles": [
             {
+                "headline": "(Bloomberg) -- Wall Street is already looking past what\u2019s expected to be Corporate America\u2019s slowest gain in quarterly earnings in a year, instead focusing on a number that rarely captures the limelight: capital expenditures.Most Read from BloombergTrump Gives New York \u2018One Last Chance\u2019 to End Congestion FeeWhy Car YouTuber Matt Farah Is Fighting for Walkable CitiesThe Racial Wealth Gap Is Not Just About MoneyBackyard Micro-Flats Aim to Ease South Africa\u2019s Housing CrisisTo Fuel Affordable Housin",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7845",
+                "source": "Bloomberg",
+                "ticker": "META",
+                "title": "Traders Fixated on What Companies Spend More Than Earn",
+                "url": "https://finance.yahoo.com/news/traders-fixated-companies-spend-more-201030913.html"
+            },
+            {
                 "headline": "(Bloomberg) -- While many investors have been scared away from tech giants at the center of this year\u2019s equity rout, the companies are likely to continue plowing money into buybacks that will offer at least one source of continuing support for the stocks.Most Read from BloombergTrump Gives New York \u2018One Last Chance\u2019 to End Congestion FeeDOGE Visits National Gallery of Art to Discuss Museum\u2019s Legal StatusThe Racial Wealth Gap Is Not Just About MoneyBackyard Micro-Flats Aim to Ease South Africa\u2019s",
                 "publication_date": "2025-04-23T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -10,16 +20,6 @@
                 "ticker": "META",
                 "title": "Tech giants to plow $500 billion cash hoard into more buybacks",
                 "url": "https://finance.yahoo.com/news/tech-giants-plow-500-billion-110401179.html"
-            },
-            {
-                "headline": "(Bloomberg) -- Wall Street is already looking past what\u2019s expected to be Corporate America\u2019s slowest gain in quarterly earnings in a year, instead focusing on a number that rarely captures the limelight: capital expenditures.Most Read from BloombergTrump Gives New York \u2018One Last Chance\u2019 to End Congestion FeeDOGE Visits National Gallery of Art to Discuss Museum\u2019s Legal StatusWhy Car YouTuber Matt Farah Is Fighting for Walkable CitiesThe Racial Wealth Gap Is Not Just About MoneyBackyard Micro-Flat",
-                "publication_date": "2025-04-23T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7096",
-                "source": "Bloomberg",
-                "ticker": "META",
-                "title": "Traders Fixated on What Companies Spend More Than Earn",
-                "url": "https://finance.yahoo.com/news/traders-fixated-companies-spend-more-201030913.html"
             },
             {
                 "headline": "Thus, now is likely an excellent time to take starter positions, and these stocks could serve investors well.  When it comes to AI investing, it's likely too early to count out Google parent Alphabet (NASDAQ: GOOGL) (NASDAQ: GOOG).  Alphabet first began using AI in 2001, and since then, it has been a pioneer in the technology.",
@@ -62,7 +62,7 @@
                 "url": "https://finance.yahoo.com/news/big-tech-stocks-gain-over-450-billion-as-trump-bessent-signal-deescalation-of-us-china-trade-war-143427595.html"
             }
         ],
-        "avgScore": -0.077975,
+        "avgScore": -0.06903513513513512,
         "pctChange": -0.015618948018524245
     },
     "4 22 2025": {
@@ -194,7 +194,7 @@
                 "url": "https://finance.yahoo.com/news/nvidia-second-cheapest-magnificent-seven-084800718.html"
             }
         ],
-        "avgScore": 0.24019375000000004,
+        "avgScore": 0.21318571428571428,
         "pctChange": 0.032228768619572946
     },
     "4 17 2025": {
@@ -220,24 +220,14 @@
                 "url": "https://finance.yahoo.com/news/2-top-tech-stocks-buy-125000359.html"
             },
             {
-                "headline": "CEO Mark Zuckerberg defended Meta\u2019s acquisition of Instagram and WhatsApp on the stand this week during the start of trial over the blockbuster antitrust lawsuit brought by the Federal Trade Commission.",
+                "headline": "In Meta's antitrust trial on Wednesday, Meta CEO Mark Zuckerberg testified that TikTok's success was a risk to Meta's business, saying the short-form video app was a \"top priority\" and a \"highly urgent\" competitive threat when it arrived in 2018, according to Bloomberg and other outlets. The reports come from a packed first week of testimony in the U.S. Federal Trade Commission's trial against the social networking giant. If the FTC's lawyers prevail, the trial could potentially require Meta to",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.4588",
-                "source": "CNN Business",
+                "sentimentScore": "0.4229",
+                "source": "TechCrunch",
                 "ticker": "META",
-                "title": "Spinning off Instagram, the decline of \u2018friending\u2019 and other takeaways from Mark Zuckerberg at the FTC monopoly trial",
-                "url": "https://finance.yahoo.com/news/spinning-off-instagram-decline-friending-223210571.html"
-            },
-            {
-                "headline": "Chinese online marketplace Temu and fast-fashion retailer Shein, two of the biggest advertisers on U.S. social media, are sharply cutting their U.S. digital ad spending, industry data show, in a blow to tech companies such as Meta's Facebook and YouTube.  The online retailers, both of which ship low-priced China-made goods direct to U.S. shoppers, had been on an ad spree until recently, targeting younger, thriftier shoppers in digital media.  U.S. President Donald Trump's executive order earlier this month threatens this business.",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.4767",
-                "source": "Reuters",
-                "ticker": "META",
-                "title": "Temu, Shein slash digital ads as tariffs end cheap shipping from China, data show",
-                "url": "https://finance.yahoo.com/news/temu-shein-slash-digital-ads-223910316.html"
+                "title": "Mark Zuckerberg says TikTok slowed Meta's growth",
+                "url": "https://finance.yahoo.com/news/mark-zuckerberg-says-tiktok-slowed-142837125.html"
             },
             {
                 "headline": "We recently published a list of 10 AI Stocks on the Move. In this article, we are going to take a look at where Meta Platforms, Inc. (NASDAQ:META) stands against other AI stocks on the move. Market uncertainty aside, the AI race is tighter than ever. A report by Stanford University\u2019s Institute for Human-Centered AI [\u2026]",
@@ -258,9 +248,19 @@
                 "ticker": "META",
                 "title": "Facebook Groups are fueling a black market for Uber and DoorDash accounts, says a new report",
                 "url": "https://finance.yahoo.com/news/facebook-groups-fueling-black-market-110100419.html"
+            },
+            {
+                "headline": "The two titans of digital advertising are facing unprecedented legal threats over tactics they used to reach dominance.",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.1027",
+                "source": "The Wall Street Journal",
+                "ticker": "META",
+                "title": "The Week Google and Meta Faced an Antitrust Reckoning",
+                "url": "https://finance.yahoo.com/m/f58a897f-669a-3223-a34f-97f5daaa73b2/the-week-google-and-meta.html"
             }
         ],
-        "avgScore": 0.1631142857142857,
+        "avgScore": 0.15563076923076924,
         "pctChange": -0.03354073334076982
     },
     "4 16 2025": {
@@ -326,7 +326,7 @@
                 "url": "https://finance.yahoo.com/news/meta-trial-5-key-moments-152043283.html"
             }
         ],
-        "avgScore": 0.06314761904761902,
+        "avgScore": 0.09658571428571427,
         "pctChange": -0.001652339344826216
     },
     "4 15 2025": {
@@ -372,16 +372,6 @@
                 "url": "https://finance.yahoo.com/news/meta-ceo-zuckerberg-spars-ftc-184234515.html"
             },
             {
-                "headline": "Meta CEO Mark Zuckerberg took the witness stand Monday to defend his company against accusations by the Federal Trade Commission that it bought competing social media companies to dominate the market with a monopoly.",
-                "publication_date": "2025-04-15T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.4215",
-                "source": "CNN Business",
-                "ticker": "META",
-                "title": "Mark Zuckerberg defends Meta\u2019s social media acquisitions in first day of antitrust trial",
-                "url": "https://finance.yahoo.com/news/mark-zuckerberg-takes-stand-first-183913054.html"
-            },
-            {
                 "headline": "Mark Zuckerberg defended Meta's (META) past acquisitions in court, arguing Instagram and WhatsApp strengthened competition rather than stifled it. Mozelle Thompson, former FTC commissioner and former Facebook Advisory Board member, joins Morning Brief to break down how the FTC is framing Meta's moves as monopolistic and what the outcome could mean. To watch more expert insights and analysis on the latest market action, check out more Morning Brief&nbsp;here.",
                 "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -390,9 +380,19 @@
                 "ticker": "META",
                 "title": "Meta antitrust trial: What this former FTC commissioner expects",
                 "url": "https://finance.yahoo.com/video/meta-antitrust-trial-former-ftc-140835787.html"
+            },
+            {
+                "headline": "The Nasdaq Composite's (NASDAQINDEX: ^IXIC) over 12% pop on April 9 pole-vaulted the index out of bear market territory -- which is a decline of over 20% from a recent high.  Bear markets have historically been phenomenal times to put hard-earned savings to work in the market, but only for businesses that have the qualities necessary to endure a prolonged slowdown.  Here are some risks worth considering before diving headfirst into buying the dip, and why Meta Platforms (NASDAQ: META) passes the risk test.",
+                "publication_date": "2025-04-15T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.3612",
+                "source": "Motley Fool",
+                "ticker": "META",
+                "title": "Thinking About Buying Growth Stocks During the 2025 Nasdaq Bear Market? Consider These Risks First.",
+                "url": "https://finance.yahoo.com/news/thinking-buying-growth-stocks-during-110500247.html"
             }
         ],
-        "avgScore": 0.05711153846153845,
+        "avgScore": 0.06108461538461537,
         "pctChange": -0.03683467796676819
     },
     "4 14 2025": {
@@ -458,7 +458,7 @@
                 "url": "https://finance.yahoo.com/m/37fc45b0-8869-300c-9d00-aa0f287f7a74/meta-fights-to-keep-instagram.html"
             }
         ],
-        "avgScore": 0.11775624999999999,
+        "avgScore": 0.05047812500000001,
         "pctChange": -0.018740049114767413
     },
     "4 11 2025": {
@@ -474,65 +474,65 @@
                 "url": "https://finance.yahoo.com/news/meta-introduces-teen-safety-tools-190000068.html"
             },
             {
-                "headline": "We recently published a list of Long-Term Stock Portfolio: 15 Best Stocks for 15 Years. In this article, we are going to take a look at where Meta Platforms, Inc. (NASDAQ:META) stands against other best stocks for 15 years. Russell Investments believes that 3 features are defining the market outlook for 2025. These include the [\u2026]",
+                "headline": "South Korean AI hardware startup FuriosaAI has made waves in the global semiconductor industry after reportedly turning down an $800 million acquisition offer from Meta (NASDAQ:META). The decision shows the startup's ambition to remain independent and compete directly in the rapidly evolving AI chip market dominated by NVIDIA (NASDAQ:NVDA) and increasingly encroached on by tech giants like Alphabet (NASDAQ:GOOGL, GOOG)) and Microsoft (NASDAQ:MSFT). Don't Miss: Hasbro, MGM, and Skechers trust thi",
                 "publication_date": "2025-04-11T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.8555",
-                "source": "Insider Monkey",
+                "sentimentScore": "0.7387",
+                "source": "Benzinga",
                 "ticker": "META",
-                "title": "Is Meta Platforms, Inc. (META) the Best Stock for 15 Years?",
-                "url": "https://finance.yahoo.com/news/meta-platforms-inc-meta-best-180857464.html"
+                "title": "FuriosaAI Turns Down Meta's $800M Bid To Go Rogue With RNGD, As AI Chip War Between Nvidia, Google, And Meta Heats Up",
+                "url": "https://finance.yahoo.com/news/furiosaai-turns-down-metas-800m-230222314.html"
             },
             {
-                "headline": "The government\u2019s antitrust case could force Mark Zuckerberg to give up Instagram and WhatsApp\u2014shaking Meta\u2019s dominance.",
+                "headline": "Here's what investors are watching during the week of April 14 to April 18. Meta Platforms (META) is set to face the Federal Trade Commission (FTC) as part of its antitrust case. Investors will get fresh economic data, including retail sales and Federal Reserve commentary. Homebuilder confidence, as well as starts and permits data, will offer insights into the housing market. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime here.",
                 "publication_date": "2025-04-11T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.2023",
-                "source": "FastCompany",
+                "sentimentScore": "0.7369",
+                "source": "Yahoo Finance Video",
                 "ticker": "META",
-                "title": "5 things to know about Meta\u2019s upcoming FTC trial",
-                "url": "https://finance.yahoo.com/news/5-things-know-meta-upcoming-173248764.html"
+                "title": "Meta's antitrust case, retail sales, housing data: What to Watch",
+                "url": "https://finance.yahoo.com/video/metas-antitrust-case-retail-sales-230023162.html"
             },
             {
-                "headline": "The government\u2019s antitrust case could force Mark Zuckerberg to give up Instagram and WhatsApp\u2014shaking Meta\u2019s dominance.",
+                "headline": "RESEARCH REPORTS These reports, excerpted and edited by Barron\u2019s, were issued recently by investment and research firms. The reports are a sampling of analysts\u2019 thinking; they should not be considered the views or recommendations of Barron\u2019s.",
                 "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.2023",
-                "source": "FastCompany",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Barrons.com",
                 "ticker": "META",
-                "title": "5 things to know about Meta\u2019s upcoming FTC trial",
-                "url": "https://finance.yahoo.com/news/5-things-know-meta-upcoming-173248764.html"
+                "title": "Apple Stock\u2019s Resilience Means This Is an Opportunity, Says BofA. Plus, Meta, Occidental, and More.",
+                "url": "https://finance.yahoo.com/m/06769a5e-dff7-3a42-88a5-ff56851cc27a/apple-stock%E2%80%99s-resilience.html"
             },
             {
-                "headline": "We recently published a list of Long-Term Stock Portfolio: 15 Best Stocks for 15 Years. In this article, we are going to take a look at where Meta Platforms, Inc. (NASDAQ:META) stands against other best stocks for 15 years. Russell Investments believes that 3 features are defining the market outlook for 2025. These include the [\u2026]",
+                "headline": "Powell McCormick, who spent 16 years in senior leadership roles at Goldman Sachs, has previously served as deputy national security adviser to U.S. President Donald Trump in his first term.  She has also served as a senior White House adviser and as assistant secretary of state for Condoleezza Rice under President George W. Bush.",
                 "publication_date": "2025-04-11T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.8555",
-                "source": "Insider Monkey",
+                "sentimentScore": "0.34",
+                "source": "Reuters",
                 "ticker": "META",
-                "title": "Is Meta Platforms, Inc. (META) the Best Stock for 15 Years?",
-                "url": "https://finance.yahoo.com/news/meta-platforms-inc-meta-best-180857464.html"
+                "title": "Meta to add Dina Powell McCormick, Patrick Collison to board",
+                "url": "https://finance.yahoo.com/news/meta-add-dina-powell-mccormick-224256375.html"
             },
             {
-                "headline": "Meta Platforms expands its teen accounts with new protections on Instagram, Facebook, and Messenger to give parents more peace of mind and improve teen safety online.",
+                "headline": "Here's what investors are watching during the week of April 14 to April 18. Meta Platforms (META) is set to face the Federal Trade Commission (FTC) as part of its antitrust case. Investors will get fresh economic data, including retail sales and Federal Reserve commentary. Homebuilder confidence, as well as starts and permits data, will offer insights into the housing market. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime here.",
                 "publication_date": "2025-04-11T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.8718",
-                "source": "Zacks",
+                "sentimentScore": "0.7369",
+                "source": "Yahoo Finance Video",
                 "ticker": "META",
-                "title": "META Introduces New Teen Safety Tools: How Safe is the Stock for You?",
-                "url": "https://finance.yahoo.com/news/meta-introduces-teen-safety-tools-190000068.html"
+                "title": "Meta's antitrust case, retail sales, housing data: What to Watch",
+                "url": "https://finance.yahoo.com/video/metas-antitrust-case-retail-sales-230023162.html"
             }
         ],
-        "avgScore": 0.6432,
+        "avgScore": 0.53748,
         "pctChange": -0.02224189468249581
     },
-    "coef": 0.2380952380952381,
-    "avgCoef": -0.0044777157831249964,
+    "coef": 0.2142857142857143,
+    "avgCoef": 0.021488197262482685,
     "similar": {
-        "PDD": 0.9047619047619048,
-        "BABA": 0.8333333333333335,
-        "FCX": 0.8095238095238096,
-        "AEG": 0.7619047619047621
+        "BABA": 0.880952380952381,
+        "MSTR": 0.8571428571428572,
+        "CLSK": 0.8333333333333335,
+        "MARA": 0.7857142857142858
     }
 }

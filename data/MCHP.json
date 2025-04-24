@@ -12,6 +12,16 @@
                 "url": "https://finance.yahoo.com/news/microchip-unveils-high-density-power-120000850.html"
             },
             {
+                "headline": "The S&P 500 jumped 2.0% on Thursday, April 24, with surging tech stocks and hopes for thawing trade relationships helping drive a third consecutive day of gains.",
+                "publication_date": "2025-04-24T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7506",
+                "source": "Investopedia",
+                "ticker": "MCHP",
+                "title": "S&P 500 Gains and Losses Today: ServiceNow Stock Soars as AI Demand Drives Earnings",
+                "url": "https://finance.yahoo.com/news/p-500-gains-losses-today-205438840.html"
+            },
+            {
                 "headline": "Investing.com -- B. Riley downgraded ON Semiconductor (NASDAQ:ON) to \u201cNeutral\u201d from \u201cBuy\u201d and cut its price target to $41 from $73 saying there is a reduced visibility into a sustained revenue recovery and trimming estimates on weaker auto and industrial demand.",
                 "publication_date": "2025-04-24T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -30,6 +40,16 @@
                 "ticker": "MCHP",
                 "title": "B. Riley downgrades ON Semi to Neutral, slashes target by $32 on macro risk",
                 "url": "https://finance.yahoo.com/news/b-riley-downgrades-semi-neutral-154110962.html"
+            },
+            {
+                "headline": "The S&P 500 jumped 2.0% on Thursday, April 24, with surging tech stocks and hopes for thawing trade relationships helping drive a third consecutive day of gains.",
+                "publication_date": "2025-04-24T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7506",
+                "source": "Investopedia",
+                "ticker": "MCHP",
+                "title": "S&P 500 Gains and Losses Today: ServiceNow Stock Soars as AI Demand Drives Earnings",
+                "url": "https://finance.yahoo.com/news/p-500-gains-losses-today-205438840.html"
             },
             {
                 "headline": "The MCPF1412 power module with integrated I2C and PMBus\u00ae interfaces for flexible configuration and monitoringCHANDLER, Ariz., April 24, 2025 (GLOBE NEWSWIRE) -- AI at the edge is driving increased integration and power consumption, requiring advanced power management solutions for industrial automation and data center applications. Microchip Technology (Nasdaq: MCHP) today announces the MCPF1412, a highly efficient and fully integrated point-of-load 12A power module with a 16V VIN buck converter",
@@ -42,8 +62,8 @@
                 "url": "https://finance.yahoo.com/news/microchip-unveils-high-density-power-120000850.html"
             }
         ],
-        "avgScore": 0.08040000000000003,
-        "pctChange": 0.06368996920487856
+        "avgScore": 0.3038,
+        "pctChange": 0.0679963751728913
     },
     "4 23 2025": {
         "importantArticles": [
@@ -69,7 +89,7 @@
             }
         ],
         "avgScore": 0.3182,
-        "pctChange": 0.11924636211802762
+        "pctChange": 0.12377769112652112
     },
     "4 22 2025": {
         "importantArticles": [
@@ -373,32 +393,6 @@
         "avgScore": 0.519875,
         "pctChange": -0.0025767143849466803
     },
-    "4 9 2025": {
-        "importantArticles": [
-            {
-                "headline": "(Bloomberg) -- Another volatile day on Wall Street pushed the S&P 500 Index back to the brink of a bear market as the Trump administration doubled down on its plans to enact hefty tariffs that threaten to send the American economy into a recession.Most Read from BloombergThe Irish Hot Press Is the Low-Tech Laundry Trick the World NeedsTrump Order on CDFI Fund Risks Aid for Small Businesses, HousingThis Skinny Mexico City Tower Is Just 14 Feet Wide on One SideIn Chicago, a Former Steel Mill Looks",
-                "publication_date": "2025-04-09T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.5994",
-                "source": "Bloomberg",
-                "ticker": "MCHP",
-                "title": "US Stocks Tumble Again With Tariffs Set to Roil Global Economy",
-                "url": "https://finance.yahoo.com/news/us-stock-futures-soar-dip-122149874.html"
-            },
-            {
-                "headline": "(Bloomberg) -- Another volatile day on Wall Street pushed the S&P 500 Index back to the brink of a bear market as the Trump administration doubled down on its plans to enact hefty tariffs that threaten to send the American economy into a recession.Most Read from BloombergThe Irish Hot Press Is the Low-Tech Laundry Trick the World NeedsTrump Order on CDFI Fund Risks Aid for Small Businesses, HousingThis Skinny Mexico City Tower Is Just 14 Feet Wide on One SideIn Chicago, a Former Steel Mill Looks",
-                "publication_date": "2025-04-09T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.5994",
-                "source": "Bloomberg",
-                "ticker": "MCHP",
-                "title": "US Stocks Tumble Again With Tariffs Set to Roil Global Economy",
-                "url": "https://finance.yahoo.com/news/us-stock-futures-soar-dip-122149874.html"
-            }
-        ],
-        "avgScore": -0.5994,
-        "pctChange": -0.13563474266426945
-    },
     "4 8 2025": {
         "importantArticles": [
             {
@@ -412,6 +406,26 @@
                 "url": "https://finance.yahoo.com/news/3-p-500-stocks-walking-142755844.html"
             },
             {
+                "headline": "(Bloomberg) -- Another volatile day on Wall Street pushed the S&P 500 Index back to the brink of a bear market as the Trump administration doubled down on its plans to enact hefty tariffs that threaten to send the American economy into a recession.Most Read from BloombergThe Irish Hot Press Is the Low-Tech Laundry Trick the World NeedsTrump Order on CDFI Fund Risks Aid for Small Businesses, HousingThis Skinny Mexico City Tower Is Just 14 Feet Wide on One SideIn Chicago, a Former Steel Mill Looks",
+                "publication_date": "2025-04-08T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5994",
+                "source": "Bloomberg",
+                "ticker": "MCHP",
+                "title": "US Stocks Tumble Again With Tariffs Set to Roil Global Economy",
+                "url": "https://finance.yahoo.com/news/us-stock-futures-soar-dip-122149874.html"
+            },
+            {
+                "headline": "(Bloomberg) -- Another volatile day on Wall Street pushed the S&P 500 Index back to the brink of a bear market as the Trump administration doubled down on its plans to enact hefty tariffs that threaten to send the American economy into a recession.Most Read from BloombergThe Irish Hot Press Is the Low-Tech Laundry Trick the World NeedsTrump Order on CDFI Fund Risks Aid for Small Businesses, HousingThis Skinny Mexico City Tower Is Just 14 Feet Wide on One SideIn Chicago, a Former Steel Mill Looks",
+                "publication_date": "2025-04-08T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5994",
+                "source": "Bloomberg",
+                "ticker": "MCHP",
+                "title": "US Stocks Tumble Again With Tariffs Set to Roil Global Economy",
+                "url": "https://finance.yahoo.com/news/us-stock-futures-soar-dip-122149874.html"
+            },
+            {
                 "headline": "While the S&P 500 includes industry leaders, not every stock in the index is a winner. Some companies are past their prime, weighed down by poor execution, weak financials, or structural headwinds.",
                 "publication_date": "2025-04-08T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -422,7 +436,7 @@
                 "url": "https://finance.yahoo.com/news/3-p-500-stocks-walking-142755844.html"
             }
         ],
-        "avgScore": -0.296,
+        "avgScore": -0.4477,
         "pctChange": 0.2705150348617345
     },
     "4 4 2025": {
@@ -517,12 +531,12 @@
         "avgScore": 0.47866666666666663,
         "pctChange": 0.008865985673727449
     },
-    "coef": -0.19230769230769232,
-    "avgCoef": -0.021173766105136656,
+    "coef": -0.4055944055944056,
+    "avgCoef": 0.020770862370991634,
     "similar": {
-        "NOK": 0.4010989010989011,
-        "TAL": 0.34615384615384615,
-        "ITUB": 0.34065934065934067,
-        "XP": 0.34065934065934067
+        "TAL": 0.4755244755244756,
+        "NOK": 0.2517482517482518,
+        "QS": 0.17162898474289487,
+        "XP": 0.16783216783216784
     }
 }

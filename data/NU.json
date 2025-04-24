@@ -563,58 +563,12 @@
         "avgScore": 0.0,
         "pctChange": -0.040421795564241234
     },
-    "3 24 2025": {
-        "importantArticles": [
-            {
-                "headline": "The 9th Annual FinTech Breakthrough Awards have highlighted the ongoing advancements in the FinTech sector, with a strong emphasis on digital payments and related technologies. This year's awards showcase innovations that are shaping the digital payment landscape, such as embedded finance, artificial intelligence, and blockchain. These technologies are driving enhanced user experiences and operational efficiencies, reflecting the industry's rapid evolution. As demand for seamless digital...",
-                "publication_date": "2025-03-24T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.926",
-                "source": "Simply Wall St.",
-                "ticker": "NU",
-                "title": "This Week In Digital Payment - FinTech Innovations Shaping Future Financial Services",
-                "url": "https://finance.yahoo.com/news/week-digital-payment-fintech-innovations-120726508.html"
-            },
-            {
-                "headline": "Given the recent surge in Nu Holdings shares, we evaluate the stock's current position to determine whether it presents a good investment opportunity.",
-                "publication_date": "2025-03-24T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7845",
-                "source": "Zacks",
-                "ticker": "NU",
-                "title": "NU Stock Surges 12% in Three Months: Is it Worth Buying?",
-                "url": "https://finance.yahoo.com/news/nu-stock-surges-12-three-165900609.html"
-            },
-            {
-                "headline": "Given the recent surge in Nu Holdings shares, we evaluate the stock's current position to determine whether it presents a good investment opportunity.",
-                "publication_date": "2025-03-24T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7845",
-                "source": "Zacks",
-                "ticker": "NU",
-                "title": "NU Stock Surges 12% in Three Months: Is it Worth Buying?",
-                "url": "https://finance.yahoo.com/news/nu-stock-surges-12-three-165900609.html"
-            },
-            {
-                "headline": "The 9th Annual FinTech Breakthrough Awards have highlighted the ongoing advancements in the FinTech sector, with a strong emphasis on digital payments and related technologies. This year's awards showcase innovations that are shaping the digital payment landscape, such as embedded finance, artificial intelligence, and blockchain. These technologies are driving enhanced user experiences and operational efficiencies, reflecting the industry's rapid evolution. As demand for seamless digital...",
-                "publication_date": "2025-03-24T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.926",
-                "source": "Simply Wall St.",
-                "ticker": "NU",
-                "title": "This Week In Digital Payment - FinTech Innovations Shaping Future Financial Services",
-                "url": "https://finance.yahoo.com/news/week-digital-payment-fintech-innovations-120726508.html"
-            }
-        ],
-        "avgScore": 0.8552500000000001,
-        "pctChange": -0.026518347054741154
-    },
-    "coef": 0.3620094937799902,
-    "avgCoef": 0.009490180871314792,
+    "coef": 0.4348828256552578,
+    "avgCoef": 0.014923100741258983,
     "similar": {
-        "GOOGL": 0.5483906192904803,
-        "BTG": 0.5304693572221639,
-        "FCX": 0.4480315517079087,
-        "AVGO": 0.4480315517079087
+        "GOOGL": 0.48786347446605066,
+        "CCL": 0.4834484203984845,
+        "BTG": 0.4790333663309185,
+        "AVGO": 0.46137315006065416
     }
 }

@@ -1,4 +1,30 @@
 {
+    "4 24 2025": {
+        "importantArticles": [
+            {
+                "headline": "Electric vehicle (EV) makers in particular are paying attention to what a trade conflict between the United States and China could mean for the world's largest automotive market.  It is against that backdrop that shares of Chinese EV maker Nio (NYSE: NIO) are soaring this week.  Trade between the U.S. and China has virtually halted for the time being, and that has given Chinese domestic automakers an advantage in their home market.",
+                "publication_date": "2025-04-24T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5719",
+                "source": "Motley Fool",
+                "ticker": "NIO",
+                "title": "Why Nio Stock Has Been Soaring This Week",
+                "url": "https://finance.yahoo.com/news/why-nio-stock-soaring-week-183244740.html"
+            },
+            {
+                "headline": "Electric vehicle (EV) makers in particular are paying attention to what a trade conflict between the United States and China could mean for the world's largest automotive market.  It is against that backdrop that shares of Chinese EV maker Nio (NYSE: NIO) are soaring this week.  Trade between the U.S. and China has virtually halted for the time being, and that has given Chinese domestic automakers an advantage in their home market.",
+                "publication_date": "2025-04-24T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5719",
+                "source": "Motley Fool",
+                "ticker": "NIO",
+                "title": "Why Nio Stock Has Been Soaring This Week",
+                "url": "https://finance.yahoo.com/news/why-nio-stock-soaring-week-183244740.html"
+            }
+        ],
+        "avgScore": 0.5719,
+        "pctChange": 0.060913646607273414
+    },
     "4 23 2025": {
         "importantArticles": [
             {
@@ -650,16 +676,6 @@
                 "url": "https://finance.yahoo.com/news/nio-prices-136-8m-shares-132602244.html"
             },
             {
-                "headline": "The EV upstart stuns markets with a surprise share offering, deep Q1 cuts, and a sharp sell-off",
-                "publication_date": "2025-03-28T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.296",
-                "source": "GuruFocus.com",
-                "ticker": "NIO",
-                "title": "Nio's $500M Shock Drop: Massive Share Sale Triggers Panic on Wall Street",
-                "url": "https://finance.yahoo.com/news/nios-500m-shock-drop-massive-185001703.html"
-            },
-            {
                 "headline": "Which of these electric vehicle stocks deserves more attention from investors?",
                 "publication_date": "2025-03-28T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -678,16 +694,6 @@
                 "ticker": "NIO",
                 "title": "Better EV Stock: Nio vs. Rivian",
                 "url": "https://finance.yahoo.com/news/better-ev-stock-nio-vs-083000175.html"
-            },
-            {
-                "headline": "The EV upstart stuns markets with a surprise share offering, deep Q1 cuts, and a sharp sell-off",
-                "publication_date": "2025-03-28T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.296",
-                "source": "GuruFocus.com",
-                "ticker": "NIO",
-                "title": "Nio's $500M Shock Drop: Massive Share Sale Triggers Panic on Wall Street",
-                "url": "https://finance.yahoo.com/news/nios-500m-shock-drop-massive-185001703.html"
             },
             {
                 "headline": "NIO (NIO) announced the pricing of its upsized HK$4,030.13M offering of 136,800,000 class A ordinary shares of the Company at an offering price of HK$29.46 per Placement Share. The Placement Shares have been offered to non-U.S. persons in offshore transactions in reliance on Regulation S under the Securities Act of 1933, as amended. The Company expects to close the Equity Placement on or about April 7, 2025, subject to the satisfaction of customary closing conditions. Morgan Stanley Asia, UBS AG",
@@ -700,7 +706,7 @@
                 "url": "https://finance.yahoo.com/news/nio-prices-136-8m-shares-132602244.html"
             }
         ],
-        "avgScore": 0.38726666666666665,
+        "avgScore": 0.4329,
         "pctChange": 0.015999984741210938
     },
     "3 27 2025": {
@@ -766,7 +772,7 @@
                 "url": "https://finance.yahoo.com/news/why-teslas-chinese-rival-nio-115709237.html"
             }
         ],
-        "avgScore": 0.5163166666666666,
+        "avgScore": 0.4848428571428571,
         "pctChange": -0.05778894923900744
     },
     "3 26 2025": {
@@ -795,12 +801,12 @@
         "avgScore": 0.9136,
         "pctChange": -0.05687198650482978
     },
-    "coef": -0.22058823529411767,
-    "avgCoef": -0.02925753845776732,
+    "coef": -0.08578431372549021,
+    "avgCoef": -0.016387498269620413,
     "similar": {
-        "HLN": 0.5617647058823529,
-        "PSLV": 0.5441176470588236,
-        "IAG": 0.5441176470588236,
-        "NGD": 0.4852941176470588
+        "PSLV": 0.5882352941176471,
+        "GRAB": 0.5027591380294625,
+        "HLN": 0.4558823529411765,
+        "NGD": 0.4338235294117647
     }
 }

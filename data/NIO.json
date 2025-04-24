@@ -781,58 +781,12 @@
         "avgScore": 0.9136,
         "pctChange": -0.05687198650482978
     },
-    "3 24 2025": {
-        "importantArticles": [
-            {
-                "headline": "Companies in The News Are: NIO,PL,CLF,NKE",
-                "publication_date": "2025-03-24T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "NIO",
-                "title": "Company News for Mar 24, 2025",
-                "url": "https://finance.yahoo.com/news/company-news-mar-24-2025-133500298.html"
-            },
-            {
-                "headline": "NIO reports lower-than-expected Q4 results and expects first-quarter 2025 deliveries in the range of 41,000-43,000 vehicles.",
-                "publication_date": "2025-03-24T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "NIO",
-                "title": "NIO Q4 Loss Wider Than Expected, Revenues Increase Y/Y",
-                "url": "https://finance.yahoo.com/news/nio-q4-loss-wider-expected-122700672.html"
-            },
-            {
-                "headline": "NIO reports lower-than-expected Q4 results and expects first-quarter 2025 deliveries in the range of 41,000-43,000 vehicles.",
-                "publication_date": "2025-03-24T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "NIO",
-                "title": "NIO Q4 Loss Wider Than Expected, Revenues Increase Y/Y",
-                "url": "https://finance.yahoo.com/news/nio-q4-loss-wider-expected-122700672.html"
-            },
-            {
-                "headline": "Companies in The News Are: NIO,PL,CLF,NKE",
-                "publication_date": "2025-03-24T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "NIO",
-                "title": "Company News for Mar 24, 2025",
-                "url": "https://finance.yahoo.com/news/company-news-mar-24-2025-133500298.html"
-            }
-        ],
-        "avgScore": 0.0,
-        "pctChange": 0.0022830483523752477
-    },
-    "coef": -0.055756331642976706,
-    "avgCoef": 0.010223733818396632,
+    "coef": -0.02696078431372549,
+    "avgCoef": 0.017251594983891325,
     "similar": {
-        "VZ": 0.5214249533278378,
-        "GRAB": 0.5172948546876173,
-        "NEE": 0.4976768861465699,
-        "JD": 0.49561183682645965
+        "GRAB": 0.5392156862745099,
+        "VZ": 0.5147058823529412,
+        "JD": 0.482843137254902,
+        "LYG": 0.44117647058823534
     }
 }

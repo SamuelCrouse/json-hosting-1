@@ -32,6 +32,16 @@
                 "url": "https://finance.yahoo.com/video/merck-nokia-texas-instruments-trending-133734260.html"
             },
             {
+                "headline": "Despite growth in Network Infrastructure, Mobile Networks, Cloud and Network Services segments, declining sales in Nokia Technologies has affected NOK's Q1 top line.",
+                "publication_date": "2025-04-24T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.2462",
+                "source": "Zacks",
+                "ticker": "NOK",
+                "title": "Nokia's Q1 Earnings Miss Estimates, Revenues Decline Y/Y",
+                "url": "https://finance.yahoo.com/news/nokias-q1-earnings-miss-estimates-142000935.html"
+            },
+            {
                 "headline": "The Espoo, Finland-based company said it had a loss of 1 cent per share. Earnings, adjusted for non-recurring costs, came to 3 cents per share. The results missed Wall Street expectations.",
                 "publication_date": "2025-04-24T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -50,20 +60,10 @@
                 "ticker": "NOK",
                 "title": "Nokia Flags Earnings Hit From Tariffs",
                 "url": "https://finance.yahoo.com/m/b654f9fc-515c-32ad-aca2-e701d9929f69/nokia-flags-earnings-hit-from.html"
-            },
-            {
-                "headline": "Press ReleaseNokia lands strategic 5G RAN deal with T-Mobile US to enhance nationwide connectivity Nokia boosts T-Mobile US\u2019s award-winning 5G network with network footprint expansion and site modernization.Partnership brings enhanced 5G connectivity to additional T-Mobile subscribers across the country.Nokia to supply equipment from industry-leading AirScale portfolio. 24 April 2025Espoo, Finland \u2013 Nokia today announced a significant multi-year extension of its strategic partnership with T-Mobi",
-                "publication_date": "2025-04-24T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4767",
-                "source": "GlobeNewswire",
-                "ticker": "NOK",
-                "title": "Nokia lands strategic 5G RAN deal with T-Mobile US to enhance nationwide connectivity",
-                "url": "https://finance.yahoo.com/news/nokia-lands-strategic-5g-ran-045000014.html"
             }
         ],
-        "avgScore": 0.5364166666666668,
-        "pctChange": -0.0434342796030634
+        "avgScore": 0.4246142857142858,
+        "pctChange": -0.01919187754590112
     },
     "4 23 2025": {
         "importantArticles": [
@@ -89,7 +89,7 @@
             }
         ],
         "avgScore": 0.7845,
-        "pctChange": -0.1082862176010026
+        "pctChange": -0.0856873688529426
     },
     "4 21 2025": {
         "importantArticles": [
@@ -399,55 +399,19 @@
         "avgScore": 0.836,
         "pctChange": -0.006410199587943396
     },
-    "4 4 2025": {
-        "importantArticles": [
-            {
-                "headline": "Press Release Nokia recognized as a Visionary in 2025 Gartner\u00d2 Magic Quadrant\u2122 for Data Center Switching Nokia solution recognized for Completeness of Vision and Ability to Execute in new research published by GartnerNokia data center switching solutions are designed to deliver the superior reliability, ease-of-use and adaptability required for modern data center operations 3 April 2025Espoo, Finland \u2013 Nokia today announced it has been named by Gartner as a Visionary in the 2025 Magic Quadrant f",
-                "publication_date": "2025-04-04T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.9485",
-                "source": "GlobeNewswire",
-                "ticker": "NOK",
-                "title": "Nokia recognized as a Visionary in 2025 Gartner\u00d2 Magic Quadrant\u2122 for Data Center Switching",
-                "url": "https://finance.yahoo.com/news/nokia-recognized-visionary-2025-gartner-150500378.html"
-            },
-            {
-                "headline": "NOK expands collaboration with Bharti Airtel to expedite 5G service delivery in key regions of India.",
-                "publication_date": "2025-04-04T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.1027",
-                "source": "Zacks",
-                "ticker": "NOK",
-                "title": "Will the Expanded Collaboration With Bharti Airtel Benefit Nokia?",
-                "url": "https://finance.yahoo.com/news/expanded-collaboration-bharti-airtel-benefit-170500379.html"
-            },
-            {
-                "headline": "NOK expands collaboration with Bharti Airtel to expedite 5G service delivery in key regions of India.",
-                "publication_date": "2025-04-04T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.1027",
-                "source": "Zacks",
-                "ticker": "NOK",
-                "title": "Will the Expanded Collaboration With Bharti Airtel Benefit Nokia?",
-                "url": "https://finance.yahoo.com/news/expanded-collaboration-bharti-airtel-benefit-170500379.html"
-            },
-            {
-                "headline": "Press Release Nokia recognized as a Visionary in 2025 Gartner\u00d2 Magic Quadrant\u2122 for Data Center Switching Nokia solution recognized for Completeness of Vision and Ability to Execute in new research published by GartnerNokia data center switching solutions are designed to deliver the superior reliability, ease-of-use and adaptability required for modern data center operations 3 April 2025Espoo, Finland \u2013 Nokia today announced it has been named by Gartner as a Visionary in the 2025 Magic Quadrant f",
-                "publication_date": "2025-04-04T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.9485",
-                "source": "GlobeNewswire",
-                "ticker": "NOK",
-                "title": "Nokia recognized as a Visionary in 2025 Gartner\u00d2 Magic Quadrant\u2122 for Data Center Switching",
-                "url": "https://finance.yahoo.com/news/nokia-recognized-visionary-2025-gartner-150500378.html"
-            }
-        ],
-        "avgScore": 0.5256,
-        "pctChange": -0.020920580979166107
-    },
     "4 3 2025": {
         "importantArticles": [
             {
+                "headline": "Press Release Nokia recognized as a Visionary in 2025 Gartner\u00d2 Magic Quadrant\u2122 for Data Center Switching Nokia solution recognized for Completeness of Vision and Ability to Execute in new research published by GartnerNokia data center switching solutions are designed to deliver the superior reliability, ease-of-use and adaptability required for modern data center operations 3 April 2025Espoo, Finland \u2013 Nokia today announced it has been named by Gartner as a Visionary in the 2025 Magic Quadrant f",
+                "publication_date": "2025-04-03T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9485",
+                "source": "GlobeNewswire",
+                "ticker": "NOK",
+                "title": "Nokia recognized as a Visionary in 2025 Gartner\u00d2 Magic Quadrant\u2122 for Data Center Switching",
+                "url": "https://finance.yahoo.com/news/nokia-recognized-visionary-2025-gartner-150500378.html"
+            },
+            {
                 "headline": "Nokia CorporationStock Exchange Release2 April 2025 at 22:45 EESTNokia completes the share buyback program launched in November 2024Espoo, Finland \u2013 Nokia Corporation (\"Nokia\" or the \"Company\") has now completed the share buyback program announced on 22 November 2024 the purpose of which was to offset the dilutive effect of the Infinera acquisition. Between 25 November 2024 and 2 April 2025, Nokia repurchased 150,000,000 of its own shares (FI0009000681) at an average price per share of approxima",
                 "publication_date": "2025-04-03T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -466,6 +430,16 @@
                 "ticker": "NOK",
                 "title": "Nokia Corporation: Repurchase of own shares on 02.04.2025",
                 "url": "https://finance.yahoo.com/news/nokia-corporation-repurchase-own-shares-193000115.html"
+            },
+            {
+                "headline": "NOK expands collaboration with Bharti Airtel to expedite 5G service delivery in key regions of India.",
+                "publication_date": "2025-04-03T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.1027",
+                "source": "Zacks",
+                "ticker": "NOK",
+                "title": "Will the Expanded Collaboration With Bharti Airtel Benefit Nokia?",
+                "url": "https://finance.yahoo.com/news/expanded-collaboration-bharti-airtel-benefit-170500379.html"
             },
             {
                 "headline": "Nokia CorporationStock Exchange Release2 April 2025 at 22:30 EEST Nokia Corporation: Repurchase of own shares on 02.04.2025 Espoo, Finland \u2013 On 2 April 2025 Nokia Corporation (LEI: 549300A0JPRWG1KI7U06) has acquired its own shares (ISIN FI0009000681) as follows: Trading venue (MIC Code)Number of sharesWeighted average price / share, EUR*XHEL1,729,2564.94CEUX1,007,4084.93BATE--AQEU140,8534.93TQEX129,1034.93Total3,006,6204.93 * Rounded to two decimals On 22 November 2024, Nokia announced that its",
@@ -488,7 +462,7 @@
                 "url": "https://finance.yahoo.com/news/nokia-completes-share-buyback-program-194500103.html"
             }
         ],
-        "avgScore": 0.7441,
+        "avgScore": 0.63485,
         "pctChange": -0.040160604116291965
     },
     "4 2 2025": {
@@ -764,16 +738,6 @@
     "3 26 2025": {
         "importantArticles": [
             {
-                "headline": "Nokia introduces Broadband Easy to automate fiber installation. It is also advancing the development of quantum safe networks.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7003",
-                "source": "Zacks",
-                "ticker": "NOK",
-                "title": "Will Strong Emphasis on Innovation Propel NOK's Stock Price?",
-                "url": "https://finance.yahoo.com/news/strong-emphasis-innovation-propel-noks-154000191.html"
-            },
-            {
                 "headline": "Nokia CorporationStock Exchange Release25 March 2025 at 22:30 EET Nokia Corporation: Repurchase of own shares on 25.03.2025 Espoo, Finland \u2013 On 25 March 2025 Nokia Corporation (LEI: 549300A0JPRWG1KI7U06) has acquired its own shares (ISIN FI0009000681) as follows: Trading venue (MIC Code)Number of sharesWeighted average price / share, EUR*XHEL1,803,1184.96CEUX1,137,1654.96BATE--AQEU--TQEX165,0124.96Total3,105,2954.96 * Rounded to two decimals On 22 November 2024, Nokia announced that its Board of",
                 "publication_date": "2025-03-26T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -792,6 +756,16 @@
                 "ticker": "NOK",
                 "title": "Deutsches Forschungsnetz selects Nokia to accelerate scientific research with a high-capacity green IP network",
                 "url": "https://finance.yahoo.com/news/deutsches-forschungsnetz-selects-nokia-accelerate-080000977.html"
+            },
+            {
+                "headline": "Press release Nokia expands collection of broadband applications for Service Providers to monetize the connected home Nokia Corteca Marketplace provides Communication Service Providers (CSPs) with access to the largest collection of value-added applications for broadband devices.CSPs can easily manage applications with Corteca via prpl lifecycle management (LCM) and TR-369 standard-based protocols. Developers and CSPs can use Nokia\u2019s open-source Corteca Developer Toolkit to quickly develop new a",
+                "publication_date": "2025-03-26T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4215",
+                "source": "GlobeNewswire",
+                "ticker": "NOK",
+                "title": "Nokia expands collection of broadband applications for Service Providers to monetize the connected home",
+                "url": "https://finance.yahoo.com/news/nokia-expands-collection-broadband-applications-070000590.html"
             },
             {
                 "headline": "Press release Nokia expands collection of broadband applications for Service Providers to monetize the connected home Nokia Corteca Marketplace provides Communication Service Providers (CSPs) with access to the largest collection of value-added applications for broadband devices.CSPs can easily manage applications with Corteca via prpl lifecycle management (LCM) and TR-369 standard-based protocols. Developers and CSPs can use Nokia\u2019s open-source Corteca Developer Toolkit to quickly develop new a",
@@ -824,7 +798,7 @@
                 "url": "https://finance.yahoo.com/news/nokia-corporation-repurchase-own-shares-203000450.html"
             }
         ],
-        "avgScore": 0.560425,
+        "avgScore": 0.5137999999999999,
         "pctChange": -0.0114069233851448
     },
     "3 25 2025": {
@@ -850,14 +824,14 @@
                 "url": "https://finance.yahoo.com/news/nokia-showcase-latest-optical-innovations-130000722.html"
             },
             {
-                "headline": "Press ReleasePOST Luxembourg becomes first European operator to migrate to an autonomous, AI-ready fiber network POST Luxembourg (POST) uses Nokia\u2019s Lightspan access nodes and Altiplano automation platform to establish Europe\u2019s first nation-wide autonomous fiber network.Nokia Altiplano Access Controller readies POST for the autonomous network era, helping to improve and streamline network operations, lower costs and enhance service delivery.Nokia Lightspan is a high-capacity fiber platform desig",
+                "headline": "Nokia introduces Broadband Easy to automate fiber installation. It is also advancing the development of quantum safe networks.",
                 "publication_date": "2025-03-25T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.4404",
-                "source": "GlobeNewswire",
+                "sentimentScore": "0.7003",
+                "source": "Zacks",
                 "ticker": "NOK",
-                "title": "POST Luxembourg becomes first European operator to migrate to an autonomous, AI-ready fiber network",
-                "url": "https://finance.yahoo.com/news/post-luxembourg-becomes-first-european-080000882.html"
+                "title": "Will Strong Emphasis on Innovation Propel NOK's Stock Price?",
+                "url": "https://finance.yahoo.com/news/strong-emphasis-innovation-propel-noks-154000191.html"
             },
             {
                 "headline": "NOK expands FWA portfolio with the launch of FastMile compact 5G indoor gateway.",
@@ -880,25 +854,25 @@
                 "url": "https://finance.yahoo.com/news/post-luxembourg-becomes-first-european-080000882.html"
             },
             {
-                "headline": "Press ReleaseNokia to showcase latest optical innovations to network the cloud for the AI era at OFC50 New optical networking powerhouse to demonstrate bolstered product portfolio and pioneering innovations.Nokia offers solutions and industry firsts to help network operators more efficiently address capacity demands driven by rapid growth in data center builds and AI workloads.Nokia to hold executive briefing at OFC50 to provide optical insights in the era of AI. 25 March 2025Espoo, Finland \u2013 No",
+                "headline": "Nokia introduces Broadband Easy to automate fiber installation. It is also advancing the development of quantum safe networks.",
                 "publication_date": "2025-03-25T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.7778",
-                "source": "GlobeNewswire",
+                "sentimentScore": "0.7003",
+                "source": "Zacks",
                 "ticker": "NOK",
-                "title": "Nokia to showcase latest optical innovations to network the cloud for the AI era at OFC50",
-                "url": "https://finance.yahoo.com/news/nokia-showcase-latest-optical-innovations-130000722.html"
+                "title": "Will Strong Emphasis on Innovation Propel NOK's Stock Price?",
+                "url": "https://finance.yahoo.com/news/strong-emphasis-innovation-propel-noks-154000191.html"
             }
         ],
-        "avgScore": 0.529325,
+        "avgScore": 0.56352,
         "pctChange": -0.013133151186904066
     },
-    "coef": -0.12456140350877193,
-    "avgCoef": -0.03146575014027266,
+    "coef": -0.054695562435500514,
+    "avgCoef": -0.03199805323540336,
     "similar": {
-        "ABEV": 0.21521023884520613,
-        "BTG": 0.20743034055727552,
-        "GOLD": 0.20123839009287925,
-        "KDP": 0.19091847265221878
+        "GOLD": 0.27966976264189886,
+        "BTG": 0.27347781217750256,
+        "ABEV": 0.20361781577782362,
+        "KO": 0.1826625386996904
     }
 }

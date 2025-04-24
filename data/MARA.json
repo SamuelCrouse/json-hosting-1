@@ -1,9 +1,9 @@
 {
-    "4 23 2025": {
+    "4 24 2025": {
         "importantArticles": [
             {
                 "headline": "Brad Smith and Madison Mills take a closer look at some of the trending tickers of today's trading session on Wealth. GE Vernova (GEV) maintains its full-year outlook despite a $300\u2013$400 million impact from tariffs. AT&T (T) also reaffirmed its guidance as subscriber numbers grew, supporting the company's assertion that it is well-positioned amid economic uncertainty. Bitcoin (BTC-USD) is trading above $90,000, lifting other crypto-related stocks like Coinbase (COIN), Strategy (MSTR), MARA (MARA), and Robinhood (HOOD). To watch more expert insights and analysis on the latest market action, check out more Wealth here.",
-                "publication_date": "2025-04-23T00:00:00.000Z",
+                "publication_date": "2025-04-24T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.8555",
                 "source": "Yahoo Finance Video",
@@ -12,28 +12,8 @@
                 "url": "https://finance.yahoo.com/video/ge-vernova-t-outlook-bitcoin-152907412.html"
             },
             {
-                "headline": "We recently published a list of Bitcoin Miners Dominate Tuesday\u2019s 10 Best-Performing Stocks. In this article, we are going to take a look at where MARA Holdings Inc. (NASDAQ:MARA) stands against other Tuesday\u2019s best-performing stocks. The stock market bounced back on Tuesday, erasing losses in the previous day, as investors snapped up shares on news [\u2026]",
-                "publication_date": "2025-04-23T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.25",
-                "source": "Insider Monkey",
-                "ticker": "MARA",
-                "title": "Why MARA Holdings Inc. (MARA) Went Up On Tuesday",
-                "url": "https://finance.yahoo.com/news/why-mara-holdings-inc-mara-060539543.html"
-            },
-            {
-                "headline": "We recently published a list of Bitcoin Miners Dominate Tuesday\u2019s 10 Best-Performing Stocks. In this article, we are going to take a look at where MARA Holdings Inc. (NASDAQ:MARA) stands against other Tuesday\u2019s best-performing stocks. The stock market bounced back on Tuesday, erasing losses in the previous day, as investors snapped up shares on news [\u2026]",
-                "publication_date": "2025-04-23T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.25",
-                "source": "Insider Monkey",
-                "ticker": "MARA",
-                "title": "Why MARA Holdings Inc. (MARA) Went Up On Tuesday",
-                "url": "https://finance.yahoo.com/news/why-mara-holdings-inc-mara-060539543.html"
-            },
-            {
                 "headline": "Brad Smith and Madison Mills take a closer look at some of the trending tickers of today's trading session on Wealth. GE Vernova (GEV) maintains its full-year outlook despite a $300\u2013$400 million impact from tariffs. AT&T (T) also reaffirmed its guidance as subscriber numbers grew, supporting the company's assertion that it is well-positioned amid economic uncertainty. Bitcoin (BTC-USD) is trading above $90,000, lifting other crypto-related stocks like Coinbase (COIN), Strategy (MSTR), MARA (MARA), and Robinhood (HOOD). To watch more expert insights and analysis on the latest market action, check out more Wealth here.",
-                "publication_date": "2025-04-23T00:00:00.000Z",
+                "publication_date": "2025-04-24T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.8555",
                 "source": "Yahoo Finance Video",
@@ -42,14 +22,40 @@
                 "url": "https://finance.yahoo.com/video/ge-vernova-t-outlook-bitcoin-152907412.html"
             }
         ],
-        "avgScore": 0.30275,
-        "pctChange": -0.03219179827045288
+        "avgScore": 0.8555,
+        "pctChange": 0.016918621372836458
     },
-    "4 15 2025": {
+    "4 23 2025": {
+        "importantArticles": [
+            {
+                "headline": "We recently published a list of Bitcoin Miners Dominate Tuesday\u2019s 10 Best-Performing Stocks. In this article, we are going to take a look at where MARA Holdings Inc. (NASDAQ:MARA) stands against other Tuesday\u2019s best-performing stocks. The stock market bounced back on Tuesday, erasing losses in the previous day, as investors snapped up shares on news [\u2026]",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.25",
+                "source": "Insider Monkey",
+                "ticker": "MARA",
+                "title": "Why MARA Holdings Inc. (MARA) Went Up On Tuesday",
+                "url": "https://finance.yahoo.com/news/why-mara-holdings-inc-mara-060539543.html"
+            },
+            {
+                "headline": "We recently published a list of Bitcoin Miners Dominate Tuesday\u2019s 10 Best-Performing Stocks. In this article, we are going to take a look at where MARA Holdings Inc. (NASDAQ:MARA) stands against other Tuesday\u2019s best-performing stocks. The stock market bounced back on Tuesday, erasing losses in the previous day, as investors snapped up shares on news [\u2026]",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.25",
+                "source": "Insider Monkey",
+                "ticker": "MARA",
+                "title": "Why MARA Holdings Inc. (MARA) Went Up On Tuesday",
+                "url": "https://finance.yahoo.com/news/why-mara-holdings-inc-mara-060539543.html"
+            }
+        ],
+        "avgScore": -0.25,
+        "pctChange": -0.00035386513803406354
+    },
+    "4 16 2025": {
         "importantArticles": [
             {
                 "headline": "BTC miners see lower margins while institutional capital exits crypto ETFs amid Trump's trade war tensions",
-                "publication_date": "2025-04-15T00:00:00.000Z",
+                "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.8316",
                 "source": "GuruFocus.com",
@@ -59,7 +65,7 @@
             },
             {
                 "headline": "BTC miners see lower margins while institutional capital exits crypto ETFs amid Trump's trade war tensions",
-                "publication_date": "2025-04-15T00:00:00.000Z",
+                "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.8316",
                 "source": "GuruFocus.com",
@@ -69,13 +75,13 @@
             }
         ],
         "avgScore": -0.8316,
-        "pctChange": -0.020667744869527802
+        "pctChange": 0.02759741566639233
     },
-    "4 9 2025": {
+    "4 10 2025": {
         "importantArticles": [
             {
                 "headline": "(Bloomberg) -- Bitcoin surged and most smaller cryptocurrencies gained even more after President Donald Trump surprised markets by saying he would pause so-called reciprocal tariffs on dozens of non-retaliating countries. The largest digital asset jumped as much as 7.7% to $82,967 after beginning Wednesday in the red, while XRP and Solana each increased more than 11%. Ether, the second-biggest token, also turned higher after Trump noted the change on his social media platform.The about-face by T",
-                "publication_date": "2025-04-09T00:00:00.000Z",
+                "publication_date": "2025-04-10T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.8107",
                 "source": "Bloomberg",
@@ -85,7 +91,7 @@
             },
             {
                 "headline": "(Bloomberg) -- Bitcoin surged and most smaller cryptocurrencies gained even more after President Donald Trump surprised markets by saying he would pause so-called reciprocal tariffs on dozens of non-retaliating countries. The largest digital asset jumped as much as 7.7% to $82,967 after beginning Wednesday in the red, while XRP and Solana each increased more than 11%. Ether, the second-biggest token, also turned higher after Trump noted the change on his social media platform.The about-face by T",
-                "publication_date": "2025-04-09T00:00:00.000Z",
+                "publication_date": "2025-04-10T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.8107",
                 "source": "Bloomberg",
@@ -95,13 +101,13 @@
             }
         ],
         "avgScore": 0.8107,
-        "pctChange": -0.04630386913636543
+        "pctChange": 0.0655877745123954
     },
-    "3 31 2025": {
+    "4 1 2025": {
         "importantArticles": [
             {
                 "headline": "Two titans--Strategy and MARA--just went all-in on Bitcoin. Is this the start of the next crypto bull wave?",
-                "publication_date": "2025-03-31T00:00:00.000Z",
+                "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
                 "source": "GuruFocus.com",
@@ -111,7 +117,7 @@
             },
             {
                 "headline": "Two titans--Strategy and MARA--just went all-in on Bitcoin. Is this the start of the next crypto bull wave?",
-                "publication_date": "2025-03-31T00:00:00.000Z",
+                "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
                 "source": "GuruFocus.com",
@@ -121,13 +127,13 @@
             }
         ],
         "avgScore": 0.0,
-        "pctChange": 0.029565230659816578
+        "pctChange": 0.04898647941142831
     },
-    "3 25 2025": {
+    "3 26 2025": {
         "importantArticles": [
             {
                 "headline": "MARA Holdings (NasdaqCM:MARA) experienced a significant share price movement, rising 13% over the last week. This increase came on the heels of MARA Holdings announcing the appointment of PricewaterhouseCoopers LLP as its new independent registered public accounting firm, succeeding Marcum LLP. Despite the market's modest 1.8% rise during the same period, MARA's performance seems particularly strong, potentially reflecting investor confidence following recent notable earnings growth. This...",
-                "publication_date": "2025-03-25T00:00:00.000Z",
+                "publication_date": "2025-03-26T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.9516",
                 "source": "Simply Wall St.",
@@ -137,7 +143,7 @@
             },
             {
                 "headline": "MARA Holdings (NasdaqCM:MARA) experienced a significant share price movement, rising 13% over the last week. This increase came on the heels of MARA Holdings announcing the appointment of PricewaterhouseCoopers LLP as its new independent registered public accounting firm, succeeding Marcum LLP. Despite the market's modest 1.8% rise during the same period, MARA's performance seems particularly strong, potentially reflecting investor confidence following recent notable earnings growth. This...",
-                "publication_date": "2025-03-25T00:00:00.000Z",
+                "publication_date": "2025-03-26T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.9516",
                 "source": "Simply Wall St.",
@@ -147,14 +153,14 @@
             }
         ],
         "avgScore": 0.9516,
-        "pctChange": -0.032280704431366505
+        "pctChange": -0.010877419792981442
     },
-    "coef": -0.7999999999999999,
-    "avgCoef": 0.017476072111750306,
+    "coef": -0.3142857142857143,
+    "avgCoef": -0.01296840532976344,
     "similar": {
-        "VZ": 0.8999999999999998,
-        "JD": 0.7999999999999999,
-        "T": 0.7,
-        "AMCR": 0.7
+        "IAG": 0.9999999999999999,
+        "BTG": 0.8999999999999998,
+        "JD": 0.8999999999999998,
+        "MSFT": 0.8999999999999998
     }
 }

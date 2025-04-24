@@ -960,26 +960,6 @@
                 "url": "https://finance.yahoo.com/news/strong-sell-stocks-march-25th-102200336.html"
             },
             {
-                "headline": "Barron\u2019s annual list of unloved stocks ranges from tech giant Alibaba to miner Barrick to auto rental stalwart Hertz Global.",
-                "publication_date": "2025-03-25T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.4404",
-                "source": "Barrons.com",
-                "ticker": "GOLD",
-                "title": "Barron\u2019s 10 Favorite Stocks for 2024",
-                "url": "https://finance.yahoo.com/m/210ed46a-fedd-3adf-89fc-cb3019e76136/barron%E2%80%99s-10-favorite-stocks.html"
-            },
-            {
-                "headline": "Barron\u2019s annual list of unloved stocks ranges from tech giant Alibaba to miner Barrick to auto rental stalwart Hertz Global.",
-                "publication_date": "2025-03-25T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.4404",
-                "source": "Barrons.com",
-                "ticker": "GOLD",
-                "title": "Barron\u2019s 10 Favorite Stocks for 2024",
-                "url": "https://finance.yahoo.com/m/210ed46a-fedd-3adf-89fc-cb3019e76136/barron%E2%80%99s-10-favorite-stocks.html"
-            },
-            {
                 "headline": "ASX, ACHC and GOLD have been added to the Zacks Rank #5 (Strong Sell) List on March 25, 2025.",
                 "publication_date": "2025-03-25T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -990,61 +970,15 @@
                 "url": "https://finance.yahoo.com/news/strong-sell-stocks-march-25th-102200336.html"
             }
         ],
-        "avgScore": -0.2202,
+        "avgScore": 0.0,
         "pctChange": -0.0020672307358531165
     },
-    "3 24 2025": {
-        "importantArticles": [
-            {
-                "headline": "(Reuters) -Funds that invest in gold miners are set to attract their largest net monthly inflows in more than a year in March, as record-high gold prices improve firms' profit outlooks and boost cash flow.  Although gold prices also rose last year, miners still struggled to offset inflation-driven spikes in labour and fuel costs while facing regulatory hurdles such as tax disputes in Mali and project delays in Canada.  As a result, investors mostly shunned equity funds focused on gold miners, opting instead for traditional gold funds that offered a safe haven during the Russia-Ukraine war and escalating trade tariff concerns after Donald Trump won the U.S. election in early November.",
-                "publication_date": "2025-03-24T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8957",
-                "source": "Reuters",
-                "ticker": "GOLD",
-                "title": "Gold rally attracts investors back to mining stocks after months of outflows",
-                "url": "https://finance.yahoo.com/news/gold-rally-attracts-investors-back-133103599.html"
-            },
-            {
-                "headline": "As gold hits all-time highs, investors rush back into mining stocks--are we seeing the start of a golden bull run?",
-                "publication_date": "2025-03-24T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "GuruFocus.com",
-                "ticker": "GOLD",
-                "title": "Gold Stocks Are Back: The $3,000 Catalyst Sparking a Billion-Dollar Comeback",
-                "url": "https://finance.yahoo.com/news/gold-stocks-back-3-000-152536861.html"
-            },
-            {
-                "headline": "As gold hits all-time highs, investors rush back into mining stocks--are we seeing the start of a golden bull run?",
-                "publication_date": "2025-03-24T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "GuruFocus.com",
-                "ticker": "GOLD",
-                "title": "Gold Stocks Are Back: The $3,000 Catalyst Sparking a Billion-Dollar Comeback",
-                "url": "https://finance.yahoo.com/news/gold-stocks-back-3-000-152536861.html"
-            },
-            {
-                "headline": "(Reuters) -Funds that invest in gold miners are set to attract their largest net monthly inflows in more than a year in March, as record-high gold prices improve firms' profit outlooks and boost cash flow.  Although gold prices also rose last year, miners still struggled to offset inflation-driven spikes in labour and fuel costs while facing regulatory hurdles such as tax disputes in Mali and project delays in Canada.  As a result, investors mostly shunned equity funds focused on gold miners, opting instead for traditional gold funds that offered a safe haven during the Russia-Ukraine war and escalating trade tariff concerns after Donald Trump won the U.S. election in early November.",
-                "publication_date": "2025-03-24T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8957",
-                "source": "Reuters",
-                "ticker": "GOLD",
-                "title": "Gold rally attracts investors back to mining stocks after months of outflows",
-                "url": "https://finance.yahoo.com/news/gold-rally-attracts-investors-back-133103599.html"
-            }
-        ],
-        "avgScore": 0.44785,
-        "pctChange": 0.024351562026696822
-    },
-    "coef": 0.22566198407111024,
-    "avgCoef": 0.02013968932177496,
+    "coef": 0.1309785801998859,
+    "avgCoef": 0.020644238662959676,
     "similar": {
-        "BTG": 0.41283312804982364,
-        "HIMS": 0.3418892267030533,
-        "BA": 0.3154739442867026,
-        "PSLV": 0.3079267207391738
+        "BTG": 0.3646160475834662,
+        "HL": 0.32213650805917887,
+        "HIMS": 0.2955867958564993,
+        "BA": 0.2831969301619155
     }
 }

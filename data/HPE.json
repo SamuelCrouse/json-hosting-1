@@ -23,7 +23,7 @@
             }
         ],
         "avgScore": 0.7063,
-        "pctChange": -0.027249642508105475
+        "pctChange": 0.05048857324237207
     },
     "4 22 2025": {
         "importantArticles": [
@@ -51,54 +51,18 @@
         "avgScore": 0.8555,
         "pctChange": 0.013201370823457192
     },
-    "4 17 2025": {
-        "importantArticles": [
-            {
-                "headline": "Investing.com -- Hewlett Packard Enterprise\u2019s (NYSE:HPE) board of directors is expected to meet in the coming days to discuss a proposal from Elliott Investment Management to replace CEO Antonio Neri, according to Semafor, citing people close to the company. Neri, a company veteran who has led HPE since 2018, has come under scrutiny amid challenges in shareholder performance and strategic execution.",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.0772",
-                "source": "Investing.com",
-                "ticker": "HPE",
-                "title": "Elliott said to pressure HPE Board to replace CEO Antonio Neri",
-                "url": "https://finance.yahoo.com/news/elliott-said-pressure-hpe-board-220224716.html"
-            },
-            {
-                "headline": "HPE stock climbed amid a report activist investor Elliott Management plans to seek the ouster of Chief Executive Antonio Neri.",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Investor's Business Daily",
-                "ticker": "HPE",
-                "title": "Elliott Management Seeks To Oust HPE's Chief Executive Neri, Report Says",
-                "url": "https://finance.yahoo.com/m/50729a9d-fa2a-38a7-b9da-89adc4f0f3ef/elliott-management-seeks-to.html"
-            },
-            {
-                "headline": "HPE stock climbed amid a report activist investor Elliott Management plans to seek the ouster of Chief Executive Antonio Neri.",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Investor's Business Daily",
-                "ticker": "HPE",
-                "title": "Elliott Management Seeks To Oust HPE's Chief Executive Neri, Report Says",
-                "url": "https://finance.yahoo.com/m/50729a9d-fa2a-38a7-b9da-89adc4f0f3ef/elliott-management-seeks-to.html"
-            },
-            {
-                "headline": "Investing.com -- Hewlett Packard Enterprise\u2019s (NYSE:HPE) board of directors is expected to meet in the coming days to discuss a proposal from Elliott Investment Management to replace CEO Antonio Neri, according to Semafor, citing people close to the company. Neri, a company veteran who has led HPE since 2018, has come under scrutiny amid challenges in shareholder performance and strategic execution.",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.0772",
-                "source": "Investing.com",
-                "ticker": "HPE",
-                "title": "Elliott said to pressure HPE Board to replace CEO Antonio Neri",
-                "url": "https://finance.yahoo.com/news/elliott-said-pressure-hpe-board-220224716.html"
-            }
-        ],
-        "avgScore": 0.0386,
-        "pctChange": -0.02113610576235331
-    },
     "4 16 2025": {
         "importantArticles": [
+            {
+                "headline": "Shares of enterprise technology company Hewlett Packard Enterprise (NYSE:HPE) jumped 7.3% in the morning session after activist investor Elliott management announced a stake estimated at $1.5 billion in the company. This move was noteworthy given that activist investors often bring about significant changes in targeted companies, focusing on improving asset monetization, expense efficiency, and stock buybacks.",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8689",
+                "source": "StockStory",
+                "ticker": "HPE",
+                "title": "Why Is Hewlett Packard Enterprise (HPE) Stock Soaring Today",
+                "url": "https://finance.yahoo.com/news/why-hewlett-packard-enterprise-hpe-170622424.html"
+            },
             {
                 "headline": "The major averages were fractionally higher near noon, adding slightly to yesterday\u2019s gains as investors reacted to fresh headlines on U.S.-China trade tensions and a new round of corporate earnings. Markets are attempting to stabilize after a rocky stretch, but much of the tone is being shaped by President Trump\u2019s latest tariff decisions. After last week\u2019s escalation, he\u2019s now backing off slightly, offering temporary relief on key consumer electronics and signaling possible concessions for the",
                 "publication_date": "2025-04-16T00:00:00.000Z",
@@ -120,14 +84,14 @@
                 "url": "https://finance.yahoo.com/news/why-hewlett-packard-enterprise-company-104631585.html"
             },
             {
-                "headline": "United Airlines issues 2 outlooks amid high uncertainty, Trump Media is getting into the thematic investing business, and more news to start your day.",
+                "headline": "US benchmark equity indexes were on track to close lower on Tuesday as investors continued to parse",
                 "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.1027",
-                "source": "Barrons.com",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.296",
+                "source": "MT Newswires",
                 "ticker": "HPE",
-                "title": "Nvidia, Boeing Took a Bullet. Expect More Collateral Damage From U.S.-China Trade War and 5 Other Things to Know Today.",
-                "url": "https://finance.yahoo.com/m/89c127ca-5d0f-3d6c-b035-f702734f4791/nvidia-boeing-took-a-bullet-.html"
+                "title": "Equity Markets Fall as Earnings Season Picks Up Momentum",
+                "url": "https://finance.yahoo.com/news/equity-markets-fall-earnings-season-194049715.html"
             },
             {
                 "headline": "NTNX shows promising long-term prospects, but elongated sales cycles and margin pressures suggest investors should hold the stock for now.",
@@ -148,33 +112,13 @@
                 "ticker": "HPE",
                 "title": "Elliott Investment Management acquires $1.5bn stake in HPE",
                 "url": "https://finance.yahoo.com/news/elliott-investment-management-acquires-1-115408630.html"
-            },
-            {
-                "headline": "Allegro MicroSystems (NASDAQ:ALGM): Chip designer Allegro MicroSystems (NASDAQ:ALGM) Allegro MicroSystems fell by 13.4% on Monday after ON Semiconductor withdrew its proposal to acquire the company. See our full article here.",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "StockStory",
-                "ticker": "HPE",
-                "title": "Stocks making big moves yesterday: Allegro MicroSystems, Netflix, Hewlett Packard Enterprise, Sterling and Rocket Lab",
-                "url": "https://finance.yahoo.com/news/stocks-making-big-moves-yesterday-122452289.html"
             }
         ],
-        "avgScore": 0.20950000000000002,
+        "avgScore": 0.25278,
         "pctChange": 0.0174731335270292
     },
     "4 15 2025": {
         "importantArticles": [
-            {
-                "headline": "Shares of enterprise technology company Hewlett Packard Enterprise (NYSE:HPE) jumped 7.3% in the morning session after activist investor Elliott management announced a stake estimated at $1.5 billion in the company. This move was noteworthy given that activist investors often bring about significant changes in targeted companies, focusing on improving asset monetization, expense efficiency, and stock buybacks.",
-                "publication_date": "2025-04-15T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8689",
-                "source": "StockStory",
-                "ticker": "HPE",
-                "title": "Why Is Hewlett Packard Enterprise (HPE) Stock Soaring Today",
-                "url": "https://finance.yahoo.com/news/why-hewlett-packard-enterprise-hpe-170622424.html"
-            },
             {
                 "headline": "Investing.com -- Activist hedge fund Elliott Investment Management has built a stake of over $1.5 billion in Hewlett Packard Enterprise Co (NYSE:HPE), sources familiar with the matter told Investing.com. Bloomberg News first reported about the stake earlier Tuesday. Elliott\u2019s direct intentions could not be learned, but sources said the investment management firm plans to enhance shareholder value through its engagements with the company. HPE stock has been down over 30% this past year, but share",
                 "publication_date": "2025-04-15T00:00:00.000Z",
@@ -196,6 +140,16 @@
                 "url": "https://finance.yahoo.com/video/netflix-double-sales-american-air-161530098.html"
             },
             {
+                "headline": "(Reuters) -Hedge fund Elliott Investment Management has built a stake of more than $1.5 billion in Hewlett Packard Enterprise, a person familiar with the matter said on Tuesday.  Elliott, one of the world's biggest activist investors, now ranks among the information technology company's biggest investors and plans to engage with management, said the person who was not permitted to discuss the campaign publicly.  Details of what Elliott may be pushing HPE, which is valued at $20 billion, to do could not be immediately determined.",
+                "publication_date": "2025-04-15T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.521",
+                "source": "Reuters",
+                "ticker": "HPE",
+                "title": "Elliott builds $1.5-billion stake in Hewlett Packard Enterprise",
+                "url": "https://finance.yahoo.com/news/elliott-builds-1-5-billion-135016672.html"
+            },
+            {
                 "headline": "Hewlett Packard Enterprise stock has struggled since the technology company posted disappointing fiscal first-quarter earnings.",
                 "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -206,16 +160,6 @@
                 "url": "https://finance.yahoo.com/m/6d59289f-4300-3ebf-a757-1fa7c709a548/hpe-stock-jumps-why-elliott.html"
             },
             {
-                "headline": "US benchmark equity indexes were on track to close lower on Tuesday as investors continued to parse",
-                "publication_date": "2025-04-15T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.296",
-                "source": "MT Newswires",
-                "ticker": "HPE",
-                "title": "Equity Markets Fall as Earnings Season Picks Up Momentum",
-                "url": "https://finance.yahoo.com/news/equity-markets-fall-earnings-season-194049715.html"
-            },
-            {
                 "headline": "All three major US stock indexes were up in late-morning trading on Tuesday as the earnings season m",
                 "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -224,40 +168,60 @@
                 "ticker": "HPE",
                 "title": "Top Midday Stories: Elliott Takes Stake of Over $1.5 Billion in HP Enterprise; Johnson & Johnson Lifts Sales Outlook",
                 "url": "https://finance.yahoo.com/news/top-midday-stories-elliott-takes-155050555.html"
-            }
-        ],
-        "avgScore": 0.3114090909090909,
-        "pctChange": -0.008660900230419401
-    },
-    "4 11 2025": {
-        "importantArticles": [
-            {
-                "headline": "Applied Digital's third-quarter fiscal 2025 results are likely to benefit from an expanding data center capacity. However, stretched valuation is a concern.",
-                "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4588",
-                "source": "Zacks",
-                "ticker": "HPE",
-                "title": "APLD Set to Report Q3 Earnings: Buy, Sell or Hold the Stock?",
-                "url": "https://finance.yahoo.com/news/apld-set-report-q3-earnings-190100648.html"
             },
             {
-                "headline": "Applied Digital's third-quarter fiscal 2025 results are likely to benefit from an expanding data center capacity. However, stretched valuation is a concern.",
-                "publication_date": "2025-04-11T00:00:00.000Z",
+                "headline": "Madison Mills takes a closer look at some of the trending tickers of the trading day. Palantir (PLTR) is in focus after NATO bought its Maven Smart System. Caterpillar's (CAT) CEO, James Umpleby, will step down with COO Joe Creed taking his place on May 1. Activist investor Elliott Management builds a $1.5 billion stake in HPE (HPE), according to Bloomberg reports. To watch more expert insights and analysis on the latest market action, check out more Catalysts here.",
+                "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.4588",
-                "source": "Zacks",
+                "sentimentScore": "0.4019",
+                "source": "Yahoo Finance Video",
                 "ticker": "HPE",
-                "title": "APLD Set to Report Q3 Earnings: Buy, Sell or Hold the Stock?",
-                "url": "https://finance.yahoo.com/news/apld-set-report-q3-earnings-190100648.html"
+                "title": "Palantir, Caterpillar, HPE: Trending Tickers",
+                "url": "https://finance.yahoo.com/video/palantir-caterpillar-hpe-trending-tickers-145019262.html"
             }
         ],
-        "avgScore": 0.4588,
-        "pctChange": 0.009900946693721161
+        "avgScore": 0.30781428571428565,
+        "pctChange": -0.008660900230419401
+    },
+    "4 14 2025": {
+        "importantArticles": [
+            {
+                "headline": "Hewlett Packard Enterprise (NYSE:HPE) recently expanded its HPE Aruba Networking Central solutions, introducing new deployment options like virtual private cloud and on-premises solutions. This move comes alongside the launch of private cloud AI solutions in collaboration with NVIDIA. During the same period, the stock price increased by 11%, slightly outpacing the market's 5% climb. These product-related announcements likely bolstered investor confidence, aligning with recent growth trends...",
+                "publication_date": "2025-04-14T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9118",
+                "source": "Simply Wall St.",
+                "ticker": "HPE",
+                "title": "Hewlett Packard Enterprise (NYSE:HPE) Stock Surges 11% Over Past Week",
+                "url": "https://finance.yahoo.com/news/hewlett-packard-enterprise-nyse-hpe-171522991.html"
+            },
+            {
+                "headline": "Hewlett Packard Enterprise (NYSE:HPE) recently expanded its HPE Aruba Networking Central solutions, introducing new deployment options like virtual private cloud and on-premises solutions. This move comes alongside the launch of private cloud AI solutions in collaboration with NVIDIA. During the same period, the stock price increased by 11%, slightly outpacing the market's 5% climb. These product-related announcements likely bolstered investor confidence, aligning with recent growth trends...",
+                "publication_date": "2025-04-14T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9118",
+                "source": "Simply Wall St.",
+                "ticker": "HPE",
+                "title": "Hewlett Packard Enterprise (NYSE:HPE) Stock Surges 11% Over Past Week",
+                "url": "https://finance.yahoo.com/news/hewlett-packard-enterprise-nyse-hpe-171522991.html"
+            }
+        ],
+        "avgScore": 0.9118,
+        "pctChange": 0.051120483862835187
     },
     "4 10 2025": {
         "importantArticles": [
             {
+                "headline": "A number of stocks jumped in the afternoon session after markets rallied sharply on news that President Trump announced a 90-day tariff pause. Reciprocal tariffs were also dropped to 10% for most countries, sparking renewed optimism amid ongoing trade talks. The major stock indices rose as investors, growing impatient of seemingly irrational tariff actions, welcomed the pause as a sign of a more measured path forward.",
+                "publication_date": "2025-04-10T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5106",
+                "source": "StockStory",
+                "ticker": "HPE",
+                "title": "Super Micro (SMCI) and Dell (DELL), IBM (IBM), Cisco (CSCO), Hewlett Packard Enterprise (HPE) Shares Are Soaring, What You Need To Know",
+                "url": "https://finance.yahoo.com/news/super-micro-smci-dell-dell-183903616.html"
+            },
+            {
                 "headline": "HOUSTON, April 10, 2025--Hewlett Packard Enterprise named Stacy Dillow as executive vice president and chief people officer (CPO), reporting to CEO Antonio Neri.",
                 "publication_date": "2025-04-10T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -296,22 +260,32 @@
                 "ticker": "HPE",
                 "title": "HPE Appoints Stacy Dillow as Chief People Officer",
                 "url": "https://finance.yahoo.com/news/hpe-appoints-stacy-dillow-chief-150000621.html"
+            },
+            {
+                "headline": "A number of stocks jumped in the afternoon session after markets rallied sharply on news that President Trump announced a 90-day tariff pause. Reciprocal tariffs were also dropped to 10% for most countries, sparking renewed optimism amid ongoing trade talks. The major stock indices rose as investors, growing impatient of seemingly irrational tariff actions, welcomed the pause as a sign of a more measured path forward.",
+                "publication_date": "2025-04-10T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5106",
+                "source": "StockStory",
+                "ticker": "HPE",
+                "title": "Super Micro (SMCI) and Dell (DELL), IBM (IBM), Cisco (CSCO), Hewlett Packard Enterprise (HPE) Shares Are Soaring, What You Need To Know",
+                "url": "https://finance.yahoo.com/news/super-micro-smci-dell-dell-183903616.html"
             }
         ],
-        "avgScore": 0.0,
+        "avgScore": 0.17020000000000002,
         "pctChange": 0.02911212364394659
     },
     "4 9 2025": {
         "importantArticles": [
             {
-                "headline": "A number of stocks jumped in the afternoon session after markets rallied sharply on news that President Trump announced a 90-day tariff pause. Reciprocal tariffs were also dropped to 10% for most countries, sparking renewed optimism amid ongoing trade talks. The major stock indices rose as investors, growing impatient of seemingly irrational tariff actions, welcomed the pause as a sign of a more measured path forward.",
+                "headline": "A number of stocks fell in the afternoon session after markets gave up early gains with optimism over progress in US-China trade talks quickly fading as the Trump administration announced plans to raise tariffs on all Chinese imports to well above 100%.",
                 "publication_date": "2025-04-09T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.5106",
+                "sentimentScore": "0.8779",
                 "source": "StockStory",
                 "ticker": "HPE",
-                "title": "Super Micro (SMCI) and Dell (DELL), IBM (IBM), Cisco (CSCO), Hewlett Packard Enterprise (HPE) Shares Are Soaring, What You Need To Know",
-                "url": "https://finance.yahoo.com/news/super-micro-smci-dell-dell-183903616.html"
+                "title": "Qorvo (QRVO) and Ford (F), Hewlett Packard Enterprise (HPE), HP (HPQ) Shares Plummet, What You Need To Know",
+                "url": "https://finance.yahoo.com/news/qorvo-qrvo-ford-f-hewlett-215228877.html"
             },
             {
                 "headline": "The most talked about and market moving research calls around Wall Street are now in one place. Here are today\u2019s research calls that investors need to know, as compiled by The Fly. Top 5 Upgrades: Melius Research upgraded Dollar General (DG) to Buy from Hold with a $110 price target. While the company had its own \u201cself-inflicted\u201d challenges and competitive challenges over the last 12 months, the firm believes it likely will benefit from a worsening macro environment and a lack of tariff exposure",
@@ -334,32 +308,22 @@
                 "url": "https://finance.yahoo.com/news/amd-downgraded-dollar-general-upgraded-133520598.html"
             },
             {
-                "headline": "A number of stocks jumped in the afternoon session after markets rallied sharply on news that President Trump announced a 90-day tariff pause. Reciprocal tariffs were also dropped to 10% for most countries, sparking renewed optimism amid ongoing trade talks. The major stock indices rose as investors, growing impatient of seemingly irrational tariff actions, welcomed the pause as a sign of a more measured path forward.",
+                "headline": "A number of stocks fell in the afternoon session after markets gave up early gains with optimism over progress in US-China trade talks quickly fading as the Trump administration announced plans to raise tariffs on all Chinese imports to well above 100%.",
                 "publication_date": "2025-04-09T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.5106",
+                "sentimentScore": "0.8779",
                 "source": "StockStory",
                 "ticker": "HPE",
-                "title": "Super Micro (SMCI) and Dell (DELL), IBM (IBM), Cisco (CSCO), Hewlett Packard Enterprise (HPE) Shares Are Soaring, What You Need To Know",
-                "url": "https://finance.yahoo.com/news/super-micro-smci-dell-dell-183903616.html"
+                "title": "Qorvo (QRVO) and Ford (F), Hewlett Packard Enterprise (HPE), HP (HPQ) Shares Plummet, What You Need To Know",
+                "url": "https://finance.yahoo.com/news/qorvo-qrvo-ford-f-hewlett-215228877.html"
             }
         ],
-        "avgScore": 0.35645000000000004,
+        "avgScore": 0.5401,
         "pctChange": -0.052413808888402476
     },
     "4 8 2025": {
         "importantArticles": [
             {
-                "headline": "A number of stocks fell in the afternoon session after markets gave up early gains with optimism over progress in US-China trade talks quickly fading as the Trump administration announced plans to raise tariffs on all Chinese imports to well above 100%.",
-                "publication_date": "2025-04-08T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8779",
-                "source": "StockStory",
-                "ticker": "HPE",
-                "title": "Qorvo (QRVO) and Ford (F), Hewlett Packard Enterprise (HPE), HP (HPQ) Shares Plummet, What You Need To Know",
-                "url": "https://finance.yahoo.com/news/qorvo-qrvo-ford-f-hewlett-215228877.html"
-            },
-            {
                 "headline": "HOUSTON, April 08, 2025--Hewlett Packard Enterprise (NYSE: HPE) today introduced an expansion of HPE Aruba Networking Central, HPE\u2019s security-first, AI-powered network management solution, with new deployment options, including a virtual private cloud (VPC) environment for customers who demand the agility of cloud with specific data security, data control or regulatory requirements, and an on-premises option that can operate while being disconnected from the cloud. With this expansion, HPE now p",
                 "publication_date": "2025-04-08T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -398,19 +362,9 @@
                 "ticker": "HPE",
                 "title": "HPE Introduces New Virtual Private Cloud and On-Premises Deployment Options for HPE Aruba Networking Central",
                 "url": "https://finance.yahoo.com/news/hpe-introduces-virtual-private-cloud-120000769.html"
-            },
-            {
-                "headline": "A number of stocks fell in the afternoon session after markets gave up early gains with optimism over progress in US-China trade talks quickly fading as the Trump administration announced plans to raise tariffs on all Chinese imports to well above 100%.",
-                "publication_date": "2025-04-08T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8779",
-                "source": "StockStory",
-                "ticker": "HPE",
-                "title": "Qorvo (QRVO) and Ford (F), Hewlett Packard Enterprise (HPE), HP (HPQ) Shares Plummet, What You Need To Know",
-                "url": "https://finance.yahoo.com/news/qorvo-qrvo-ford-f-hewlett-215228877.html"
             }
         ],
-        "avgScore": 0.4915,
+        "avgScore": 0.2983,
         "pctChange": 0.1590727206002644
     },
     "4 4 2025": {
@@ -426,24 +380,44 @@
                 "url": "https://finance.yahoo.com/news/phoenixnap-advances-cloud-services-using-140000421.html"
             },
             {
-                "headline": "Hewlett Packard Enterprise (NYSE:HPE) has recently been making noteworthy advancements in AI integration and client services, highlighted by its collaboration with Compucom and the enhancement of its Full Lifecycle Observability capabilities. Despite this, over the past week, HPE experienced a 14% price decline. This drop occurred amid broader market turmoil, with the Dow Jones down 4% and the tech-heavy Nasdaq falling 5% due to growing trade tensions and newly announced tariffs. The overall...",
+                "headline": "Shares of enterprise technology company Hewlett Packard Enterprise (NYSE:HPE) fell 14.2% in the afternoon session after President Trump announced \"reciprocal tariffs\" on all US imports, set at a minimum rate of 10%. Markets reacted negatively to the announcement, reflecting deep concerns among investors about the broader economic implications. The tariffs were likely seen as a significant threat to global trade flows, with the potential to slow economic growth, drive up consumer prices, and spar",
                 "publication_date": "2025-04-04T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.7351",
-                "source": "Simply Wall St.",
+                "sentiment": "Positive",
+                "sentimentScore": "0.296",
+                "source": "StockStory",
                 "ticker": "HPE",
-                "title": "Hewlett Packard Enterprise (NYSE:HPE) Sees 14% Price Drop Over Trade Tensions and Tariffs",
-                "url": "https://finance.yahoo.com/news/hewlett-packard-enterprise-nyse-hpe-184600518.html"
+                "title": "Why Hewlett Packard Enterprise (HPE) Stock Is Down Today",
+                "url": "https://finance.yahoo.com/news/why-hewlett-packard-enterprise-hpe-195901789.html"
             },
             {
-                "headline": "Hewlett Packard Enterprise (NYSE:HPE) has recently been making noteworthy advancements in AI integration and client services, highlighted by its collaboration with Compucom and the enhancement of its Full Lifecycle Observability capabilities. Despite this, over the past week, HPE experienced a 14% price decline. This drop occurred amid broader market turmoil, with the Dow Jones down 4% and the tech-heavy Nasdaq falling 5% due to growing trade tensions and newly announced tariffs. The overall...",
+                "headline": "The Trump tariffs fallout sent down shares of Arista Networking, Coherent, Fortinet, Cisco, HPE and many other tech stocks.",
                 "publication_date": "2025-04-04T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.7351",
-                "source": "Simply Wall St.",
+                "sentiment": "Positive",
+                "sentimentScore": "0.296",
+                "source": "Investor's Business Daily",
                 "ticker": "HPE",
-                "title": "Hewlett Packard Enterprise (NYSE:HPE) Sees 14% Price Drop Over Trade Tensions and Tariffs",
-                "url": "https://finance.yahoo.com/news/hewlett-packard-enterprise-nyse-hpe-184600518.html"
+                "title": "Trump Tariffs Hit Computer Networking, Cybersecurity, Fiber-Optic Gear Makers",
+                "url": "https://finance.yahoo.com/m/fbebc7e1-a433-30e3-aef2-2ef3ae1f6f08/trump-tariffs-hit-computer.html"
+            },
+            {
+                "headline": "The Trump tariffs fallout sent down shares of Arista Networking, Coherent, Fortinet, Cisco, HPE and many other tech stocks.",
+                "publication_date": "2025-04-04T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.296",
+                "source": "Investor's Business Daily",
+                "ticker": "HPE",
+                "title": "Trump Tariffs Hit Computer Networking, Cybersecurity, Fiber-Optic Gear Makers",
+                "url": "https://finance.yahoo.com/m/fbebc7e1-a433-30e3-aef2-2ef3ae1f6f08/trump-tariffs-hit-computer.html"
+            },
+            {
+                "headline": "Shares of enterprise technology company Hewlett Packard Enterprise (NYSE:HPE) fell 14.2% in the afternoon session after President Trump announced \"reciprocal tariffs\" on all US imports, set at a minimum rate of 10%. Markets reacted negatively to the announcement, reflecting deep concerns among investors about the broader economic implications. The tariffs were likely seen as a significant threat to global trade flows, with the potential to slow economic growth, drive up consumer prices, and spar",
+                "publication_date": "2025-04-04T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.296",
+                "source": "StockStory",
+                "ticker": "HPE",
+                "title": "Why Hewlett Packard Enterprise (HPE) Stock Is Down Today",
+                "url": "https://finance.yahoo.com/news/why-hewlett-packard-enterprise-hpe-195901789.html"
             },
             {
                 "headline": "HOUSTON, April 04, 2025--phoenixNAP, a global IT services provider, is accelerating its business growth and time-to-market for its Infrastructure as a Service (IaaS) platforms with servers from Hewlett Packard Enterprise (NYSE: HPE). The servers, which include the latest Intel Xeon 6 processors, represent HPE\u2019s first disaggregated computing hardware that conforms to the Data Center Modular Hardware System (DC-MHS) design specification developed by the Open Compute Project (OCP) community.",
@@ -456,31 +430,11 @@
                 "url": "https://finance.yahoo.com/news/phoenixnap-advances-cloud-services-using-140000421.html"
             }
         ],
-        "avgScore": -0.17665,
+        "avgScore": 0.3246,
         "pctChange": 0.042220481897076695
     },
     "4 3 2025": {
         "importantArticles": [
-            {
-                "headline": "Shares of enterprise technology company Hewlett Packard Enterprise (NYSE:HPE) fell 14.2% in the afternoon session after President Trump announced \"reciprocal tariffs\" on all US imports, set at a minimum rate of 10%. Markets reacted negatively to the announcement, reflecting deep concerns among investors about the broader economic implications. The tariffs were likely seen as a significant threat to global trade flows, with the potential to slow economic growth, drive up consumer prices, and spar",
-                "publication_date": "2025-04-03T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.296",
-                "source": "StockStory",
-                "ticker": "HPE",
-                "title": "Why Hewlett Packard Enterprise (HPE) Stock Is Down Today",
-                "url": "https://finance.yahoo.com/news/why-hewlett-packard-enterprise-hpe-195901789.html"
-            },
-            {
-                "headline": "The Trump tariffs fallout sent down shares of Arista Networking, Coherent, Fortinet, Cisco, HPE and many other tech stocks.",
-                "publication_date": "2025-04-03T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.296",
-                "source": "Investor's Business Daily",
-                "ticker": "HPE",
-                "title": "Trump Tariffs Hit Computer Networking, Cybersecurity, Fiber-Optic Gear Makers",
-                "url": "https://finance.yahoo.com/m/fbebc7e1-a433-30e3-aef2-2ef3ae1f6f08/trump-tariffs-hit-computer.html"
-            },
             {
                 "headline": "Let\u2019s dig into the relative performance of Cisco (NASDAQ:CSCO) and its peers as we unravel the now-completed Q4 it services & other tech earnings season.",
                 "publication_date": "2025-04-03T00:00:00.000Z",
@@ -502,6 +456,16 @@
                 "url": "https://finance.yahoo.com/news/hpe-stock-plunges-36-3-143500652.html"
             },
             {
+                "headline": "Hewlett Packard Enterprise faces challenges related to rising costs due to tariff hikes and the delayed Juniper acquisition, making the stock a risky bet.",
+                "publication_date": "2025-04-03T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.34",
+                "source": "Zacks",
+                "ticker": "HPE",
+                "title": "HPE Stock Plunges 36% in 3 Months: Should You Buy, Sell or Hold?",
+                "url": "https://finance.yahoo.com/news/hpe-stock-plunges-36-3-143500652.html"
+            },
+            {
                 "headline": "Let\u2019s dig into the relative performance of Cisco (NASDAQ:CSCO) and its peers as we unravel the now-completed Q4 it services & other tech earnings season.",
                 "publication_date": "2025-04-03T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -510,19 +474,9 @@
                 "ticker": "HPE",
                 "title": "Unpacking Q4 Earnings: Cisco (NASDAQ:CSCO) In The Context Of Other IT Services & Other Tech Stocks",
                 "url": "https://finance.yahoo.com/news/unpacking-q4-earnings-cisco-nasdaq-091349882.html"
-            },
-            {
-                "headline": "The Trump tariffs fallout sent down shares of Arista Networking, Coherent, Fortinet, Cisco, HPE and many other tech stocks.",
-                "publication_date": "2025-04-03T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.296",
-                "source": "Investor's Business Daily",
-                "ticker": "HPE",
-                "title": "Trump Tariffs Hit Computer Networking, Cybersecurity, Fiber-Optic Gear Makers",
-                "url": "https://finance.yahoo.com/m/fbebc7e1-a433-30e3-aef2-2ef3ae1f6f08/trump-tariffs-hit-computer.html"
             }
         ],
-        "avgScore": 0.06299999999999999,
+        "avgScore": -0.17,
         "pctChange": -0.06505850317752006
     },
     "4 2 2025": {
@@ -597,11 +551,11 @@
         "avgScore": 0.6486,
         "pctChange": -0.02279921833736335
     },
-    "3 26 2025": {
+    "3 27 2025": {
         "importantArticles": [
             {
                 "headline": "We recently published a list of Top 10 Trending AI News Updates Investors Should Not Miss. In this article, we are going to take a look at where Hewlett Packard Enterprise Company (NYSE:HPE) stands against other top trending AI news updates investors should not miss. Generative artificial intelligence is the technology that promises to revolutionize [\u2026]",
-                "publication_date": "2025-03-26T00:00:00.000Z",
+                "publication_date": "2025-03-27T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.8477",
                 "source": "Insider Monkey",
@@ -610,28 +564,8 @@
                 "url": "https://finance.yahoo.com/news/hewlett-packard-enterprise-company-hpe-191540270.html"
             },
             {
-                "headline": "A number of high-profile firms in the technology sector either cut jobs in March or are said to be planning to. Here\u2019s the latest roundup.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.2023",
-                "source": "FastCompany",
-                "ticker": "HPE",
-                "title": "Tech layoffs 2025 March update: Block, HelloFresh, HPE, TikTok, Wayfair among companies cutting jobs",
-                "url": "https://finance.yahoo.com/news/tech-layoffs-2025-march-block-121700915.html"
-            },
-            {
-                "headline": "A number of high-profile firms in the technology sector either cut jobs in March or are said to be planning to. Here\u2019s the latest roundup.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.2023",
-                "source": "FastCompany",
-                "ticker": "HPE",
-                "title": "Tech layoffs 2025 March update: Block, HelloFresh, HPE, TikTok, Wayfair among companies cutting jobs",
-                "url": "https://finance.yahoo.com/news/tech-layoffs-2025-march-block-121700915.html"
-            },
-            {
                 "headline": "We recently published a list of Top 10 Trending AI News Updates Investors Should Not Miss. In this article, we are going to take a look at where Hewlett Packard Enterprise Company (NYSE:HPE) stands against other top trending AI news updates investors should not miss. Generative artificial intelligence is the technology that promises to revolutionize [\u2026]",
-                "publication_date": "2025-03-26T00:00:00.000Z",
+                "publication_date": "2025-03-27T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.8477",
                 "source": "Insider Monkey",
@@ -640,14 +574,40 @@
                 "url": "https://finance.yahoo.com/news/hewlett-packard-enterprise-company-hpe-191540270.html"
             }
         ],
-        "avgScore": 0.3227,
+        "avgScore": 0.8477,
+        "pctChange": -0.009410264898304752
+    },
+    "3 26 2025": {
+        "importantArticles": [
+            {
+                "headline": "A number of high-profile firms in the technology sector either cut jobs in March or are said to be planning to. Here\u2019s the latest roundup.",
+                "publication_date": "2025-03-26T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.2023",
+                "source": "FastCompany",
+                "ticker": "HPE",
+                "title": "Tech layoffs 2025 March update: Block, HelloFresh, HPE, TikTok, Wayfair among companies cutting jobs",
+                "url": "https://finance.yahoo.com/news/tech-layoffs-2025-march-block-121700915.html"
+            },
+            {
+                "headline": "A number of high-profile firms in the technology sector either cut jobs in March or are said to be planning to. Here\u2019s the latest roundup.",
+                "publication_date": "2025-03-26T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.2023",
+                "source": "FastCompany",
+                "ticker": "HPE",
+                "title": "Tech layoffs 2025 March update: Block, HelloFresh, HPE, TikTok, Wayfair among companies cutting jobs",
+                "url": "https://finance.yahoo.com/news/tech-layoffs-2025-march-block-121700915.html"
+            }
+        ],
+        "avgScore": -0.2023,
         "pctChange": -0.008089615240178757
     },
-    "3 24 2025": {
+    "3 25 2025": {
         "importantArticles": [
             {
                 "headline": "We recently published a list of 14 Best Affordable Stocks to Buy According to Hedge Funds. In this article, we are going to take a look at where Hewlett Packard Enterprise Company (NYSE:HPE) stands against other best affordable stocks to invest in. The broader market has taken a significant hit, dropping 10% from its peak [\u2026]",
-                "publication_date": "2025-03-24T00:00:00.000Z",
+                "publication_date": "2025-03-25T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.8807",
                 "source": "Insider Monkey",
@@ -657,7 +617,7 @@
             },
             {
                 "headline": "We recently published a list of 14 Best Affordable Stocks to Buy According to Hedge Funds. In this article, we are going to take a look at where Hewlett Packard Enterprise Company (NYSE:HPE) stands against other best affordable stocks to invest in. The broader market has taken a significant hit, dropping 10% from its peak [\u2026]",
-                "publication_date": "2025-03-24T00:00:00.000Z",
+                "publication_date": "2025-03-25T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.8807",
                 "source": "Insider Monkey",
@@ -667,14 +627,14 @@
             }
         ],
         "avgScore": 0.8807,
-        "pctChange": 0.0024272400872843497
+        "pctChange": -0.027239754871070394
     },
-    "coef": 0.024999999999999998,
-    "avgCoef": 0.021488197262482685,
+    "coef": 0.21071428571428572,
+    "avgCoef": -0.027951334740914057,
     "similar": {
-        "CMG": 0.682142857142857,
-        "PSLV": 0.6321428571428571,
-        "DNB": 0.6107142857142855,
-        "RIVN": 0.5892857142857142
+        "RKLB": 0.532142857142857,
+        "WBD": 0.42142857142857143,
+        "ERIC": 0.41785714285714276,
+        "WFC": 0.41785714285714276
     }
 }

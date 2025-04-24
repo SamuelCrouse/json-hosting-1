@@ -12,6 +12,16 @@
                 "url": "https://finance.yahoo.com/news/following-leader-marjorie-taylor-greene-183906995.html"
             },
             {
+                "headline": "Despite the fanfare, the artificial intelligence (AI) revolution has just begun.  Companies like Nvidia\u00a0have already taken advantage of this growth, soaring to multitrillion-dollar market caps.  Over time, however, we could see one of these stocks surpass Nvidia's market cap, leading to huge gains for patient shareholders.",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9169",
+                "source": "Motley Fool",
+                "ticker": "AMD",
+                "title": "Prediction: 2 Artificial Intelligence (AI) Stocks That Could Be Worth More Than Nvidia by 2030",
+                "url": "https://finance.yahoo.com/news/prediction-2-artificial-intelligence-ai-223000088.html"
+            },
+            {
                 "headline": "We recently published a list of 10 Most Undervalued Growth Stocks to Buy Now. In this article, we are going to take a look at where Advanced Micro Devices, Inc. (NASDAQ:AMD) stands against other most undervalued growth stocks to buy now. Growth stocks are companies that grow their revenues and earnings at a faster rate [\u2026]",
                 "publication_date": "2025-04-23T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -20,16 +30,6 @@
                 "ticker": "AMD",
                 "title": "Is Advanced Micro Devices, Inc. (AMD) the Most Undervalued Growth Stock to Buy Now?",
                 "url": "https://finance.yahoo.com/news/advanced-micro-devices-inc-amd-162633618.html"
-            },
-            {
-                "headline": "Marvell Technology, Inc (NASDAQ:MRVL) on Wednesday announced the successful interoperability of the Marvell Structera portfolio of Compute Express Link (CXL) devices with Advanced Micro Devices, Inc (NASDAQ:AMD) EPYC CPUs and 5th Gen Intel Corp (NASDAQ:INTC) Intel Xeon platforms. The move marks Marvell\u2019s progress towards an open and interoperable CXL ecosystem, which will address the growing demands for memory bandwidth and capacity in next-generation cloud data centers. Marvell tapped AMD and I",
-                "publication_date": "2025-04-23T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8519",
-                "source": "Benzinga",
-                "ticker": "AMD",
-                "title": "What's Going On With Marvell Technology Stock On Wednesday?",
-                "url": "https://finance.yahoo.com/news/whats-going-marvell-technology-stock-212223964.html"
             },
             {
                 "headline": "Big Tech is preparing for its first earnings since Trump launched his global trade war.",
@@ -62,8 +62,8 @@
                 "url": "https://finance.yahoo.com/news/1-no-brainer-artificial-intelligence-091300034.html"
             }
         ],
-        "avgScore": 0.36323333333333335,
-        "pctChange": -0.016163271949404763
+        "avgScore": 0.39237368421052643,
+        "pctChange": -0.016216781762192562
     },
     "4 22 2025": {
         "importantArticles": [
@@ -240,7 +240,7 @@
                 "url": "https://finance.yahoo.com/news/why-china-chip-export-curbs-163853455.html"
             }
         ],
-        "avgScore": 0.0045521739130434695,
+        "avgScore": 0.0047590909090908995,
         "pctChange": -0.022171456473214286
     },
     "4 16 2025": {
@@ -306,7 +306,7 @@
                 "url": "https://finance.yahoo.com/video/us-export-controls-cost-nvidia-151110335.html"
             }
         ],
-        "avgScore": 0.06805000000000004,
+        "avgScore": 0.06646744186046516,
         "pctChange": -0.00894779598295834
     },
     "4 15 2025": {
@@ -332,14 +332,14 @@
                 "url": "https://finance.yahoo.com/news/nvidia-3-considerably-bigger-concerns-075100065.html"
             },
             {
-                "headline": "TAIPEI (Reuters) -Advanced Micro Devices said on Tuesday its key processor chips would soon be made at TSMC's new production site in Arizona, marking the first time that its products will be manufactured in the United States.  Though AMD's plans predate U.S. President Donald Trump's return to office, tech companies' efforts to diversify their supply chains have taken on added significance given Trump's escalating tariff war.  \"Our new fifth-generation EPYC is doing very well, so we're ready to start production,\" AMD Chief Executive Lisa Su told reporters in Taipei, referring to the company's central processing unit (CPU) for data centres.",
+                "headline": "Jabil (JBL), Compal Electronics, and Wiwynn are preparing revised bids for Advanced Micro Devices' (",
                 "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.7328",
-                "source": "Reuters",
+                "sentimentScore": "0.25",
+                "source": "MT Newswires",
                 "ticker": "AMD",
-                "title": "AMD set to produce its CPU chip at TSMC plant in Arizona",
-                "url": "https://finance.yahoo.com/news/amd-ceo-says-ready-start-011956898.html"
+                "title": "Market Chatter: Jabil, Compal, Wiwynn Prepare Revised Offers for AMD's AI Server Facilities",
+                "url": "https://finance.yahoo.com/news/market-chatter-jabil-compal-wiwynn-112505898.html"
             },
             {
                 "headline": "(Bloomberg) -- Representative Marjorie Taylor Greene sold US Treasuries and bought stakes in Amazon.com Inc., Blackstone Inc. and Tesla Inc. the day before President Donald Trump put a 90-day pause on retaliatory tariffs and prompted a market rally.Most Read from BloombergHow Did This Suburb Figure Out Mass Transit?Trump Signs Executive Orders on Federal Purchasing, Office SpaceEven Oslo Has an Air Quality ProblemLA County Floats Leaner Budget Burdened by Fire and Legal Costs$15 Million Fund Bet",
@@ -372,7 +372,7 @@
                 "url": "https://finance.yahoo.com/news/intel-overblown-optimism-meets-stark-095756917.html"
             }
         ],
-        "avgScore": 0.24731818181818185,
+        "avgScore": 0.19877000000000003,
         "pctChange": -0.0734599636136572
     },
     "4 14 2025": {
@@ -438,7 +438,7 @@
                 "url": "https://finance.yahoo.com/news/why-advanced-micro-devices-amd-214516162.html"
             }
         ],
-        "avgScore": 0.38151428571428575,
+        "avgScore": 0.42542500000000005,
         "pctChange": 0.0083597980479084
     },
     "4 11 2025": {
@@ -636,7 +636,7 @@
                 "url": "https://finance.yahoo.com/news/amd-downgraded-dollar-general-upgraded-133520598.html"
             }
         ],
-        "avgScore": 0.4164785714285714,
+        "avgScore": 0.4040153846153846,
         "pctChange": -0.08405617201023681
     },
     "4 8 2025": {
@@ -652,6 +652,16 @@
                 "url": "https://finance.yahoo.com/news/amd-report-fiscal-first-quarter-201500938.html"
             },
             {
+                "headline": "Nvidia has emerged as one of the most valuable companies in the world thanks to the AI movement, but the company's long-term growth looks questionable.",
+                "publication_date": "2025-04-08T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5785",
+                "source": "Motley Fool",
+                "ticker": "AMD",
+                "title": "Prediction: This Artificial Intelligence (AI) Stock Will Be Worth More Than Nvidia in 2030",
+                "url": "https://finance.yahoo.com/news/prediction-artificial-intelligence-ai-stock-010000017.html"
+            },
+            {
                 "headline": "To say that the stock market has been volatile lately doesn't do the situation justice.  The S&P 500 (SNPINDEX: ^GSPC) and several other major market indexes recently fell by more than 10% over a two-day period in response to President Trump's surprisingly high tariff rates.  The S&P 500 is now 18% below its February high, and with a 23% drop, the Nasdaq Composite (NASDAQINDEX: ^IXIC) is now firmly in bear market territory.",
                 "publication_date": "2025-04-08T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -660,16 +670,6 @@
                 "ticker": "AMD",
                 "title": "Stock Market Crash: Here Are 5 Stocks Down 27% or More I'd Buy Right Now",
                 "url": "https://finance.yahoo.com/news/stock-market-crash-5-stocks-094100640.html"
-            },
-            {
-                "headline": "Advanced Micro Devices (AMD) is facing concerns over the sustainability of its China artificial inte",
-                "publication_date": "2025-04-08T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.25",
-                "source": "MT Newswires",
-                "ticker": "AMD",
-                "title": "Advanced Micro Devices Facing Concerns Over China AI Business Sustainability, KeyBanc Says",
-                "url": "https://finance.yahoo.com/news/advanced-micro-devices-facing-concerns-150927356.html"
             },
             {
                 "headline": "AMD stock catches a downgrade as Trump tariff fears spread throughout markets.",
@@ -702,7 +702,7 @@
                 "url": "https://finance.yahoo.com/news/sector-tech-stocks-slide-afternoon-195643525.html"
             }
         ],
-        "avgScore": 0.019400000000000018,
+        "avgScore": 0.07022727272727275,
         "pctChange": 0.23820480081192913
     },
     "4 7 2025": {
@@ -1041,12 +1041,12 @@
         "avgScore": 0.0,
         "pctChange": 0.0003893412143183406
     },
-    "coef": -0.49019607843137264,
-    "avgCoef": 0.019867358167090857,
+    "coef": -0.3970588235294118,
+    "avgCoef": 0.020039451293466425,
     "similar": {
-        "IAG": 0.2303921568627451,
-        "KGC": 0.02450980392156863,
-        "VZ": 0.0,
-        "NEM": -0.019607843137254905
+        "IAG": 0.22058823529411767,
+        "VZ": 0.04901960784313726,
+        "T": 0.03186274509803922,
+        "KGC": 0.02696078431372549
     }
 }

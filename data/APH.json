@@ -32,6 +32,16 @@
                 "url": "https://finance.yahoo.com/news/amphenol-earnings-surpass-estimates-q1-174700022.html"
             },
             {
+                "headline": "We recently published a list of These 10 Firms Topped Wednesday\u2019s Trading. In this article, we are going to take a look at where Amphenol Corp. (NYSE:APH) stands against other firms that topped Wednesday\u2019s trading. Wall Street\u2019s major indices rebounded anew on Wednesday as worries about tariff policies and the Federal Reserve\u2019s independence tapered off [\u2026]",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.4215",
+                "source": "Insider Monkey",
+                "ticker": "APH",
+                "title": "Why Amphenol Corp. (APH) Went Up On Wednesday",
+                "url": "https://finance.yahoo.com/news/why-amphenol-corp-aph-went-222613102.html"
+            },
+            {
                 "headline": "WALLINGFORD, Conn., April 23, 2025--Amphenol Corporation (NYSE: APH) today reported record first quarter 2025 results.",
                 "publication_date": "2025-04-23T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -42,27 +52,17 @@
                 "url": "https://finance.yahoo.com/news/amphenol-reports-record-first-quarter-120000499.html"
             },
             {
-                "headline": "Amphenol (APH) delivered earnings and revenue surprises of 21.15% and 13.93%, respectively, for the quarter ended March 2025. Do the numbers hold clues to what lies ahead for the stock?",
+                "headline": "The S&P 500 advanced 1.7% on Wednesday, April 23, as comments from the White House pointed to stability at the Fed and the possibility of easing trade tensions.",
                 "publication_date": "2025-04-23T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.128",
-                "source": "Zacks",
+                "sentimentScore": "0.0772",
+                "source": "Investopedia",
                 "ticker": "APH",
-                "title": "Amphenol (APH) Q1 Earnings and Revenues Top Estimates",
-                "url": "https://finance.yahoo.com/news/amphenol-aph-q1-earnings-revenues-131004192.html"
-            },
-            {
-                "headline": "Although the revenue and EPS for Amphenol (APH) give a sense of how its business performed in the quarter ended March 2025, it might be worth considering how some key metrics compare with Wall Street estimates and the year-ago numbers.",
-                "publication_date": "2025-04-23T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.2263",
-                "source": "Zacks",
-                "ticker": "APH",
-                "title": "Amphenol (APH) Reports Q1 Earnings: What Key Metrics Have to Say",
-                "url": "https://finance.yahoo.com/news/amphenol-aph-reports-q1-earnings-140003542.html"
+                "title": "S&P 500 Gains and Losses Today: Tech Stocks Jump as Trump Softens Stance on Fed and Trade",
+                "url": "https://finance.yahoo.com/news/p-500-gains-losses-today-205818083.html"
             }
         ],
-        "avgScore": 0.4803222222222222,
+        "avgScore": 0.3616909090909091,
         "pctChange": -0.06406202752222405
     },
     "4 22 2025": {
@@ -458,11 +458,11 @@
         "pctChange": 0.008730339181783021
     },
     "coef": -0.39560439560439564,
-    "avgCoef": -0.0027797878255620624,
+    "avgCoef": 0.017383672584072498,
     "similar": {
-        "VOD": 0.7087912087912087,
         "PFE": 0.3626373626373627,
-        "T": 0.35714285714285715,
-        "IAG": 0.33516483516483514
+        "IAG": 0.35714285714285715,
+        "T": 0.33516483516483514,
+        "VZ": 0.2857142857142857
     }
 }

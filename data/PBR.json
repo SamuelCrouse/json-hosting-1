@@ -609,38 +609,12 @@
         "avgScore": 0.1366,
         "pctChange": 0.004204587527517546
     },
-    "3 24 2025": {
-        "importantArticles": [
-            {
-                "headline": "Petrobras (PBR) closed the most recent trading day at $13.97, moving -1.34% from the previous trading session.",
-                "publication_date": "2025-03-24T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "PBR",
-                "title": "Petrobras (PBR) Stock Sinks As Market Gains: What You Should Know",
-                "url": "https://finance.yahoo.com/news/petrobras-pbr-stock-sinks-market-215016937.html"
-            },
-            {
-                "headline": "Petrobras (PBR) closed the most recent trading day at $13.97, moving -1.34% from the previous trading session.",
-                "publication_date": "2025-03-24T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "PBR",
-                "title": "Petrobras (PBR) Stock Sinks As Market Gains: What You Should Know",
-                "url": "https://finance.yahoo.com/news/petrobras-pbr-stock-sinks-market-215016937.html"
-            }
-        ],
-        "avgScore": 0.0,
-        "pctChange": 0.021474601646422762
-    },
-    "coef": -0.3991167804132353,
-    "avgCoef": 0.018967391324823002,
+    "coef": -0.3556748515865462,
+    "avgCoef": 0.020722825358503564,
     "similar": {
-        "T": 0.14138454213900586,
-        "BAC": 0.13696627519716192,
-        "RIVN": 0.1222387187243488,
-        "SMCI": 0.11929320742978619
+        "T": 0.17336914876329135,
+        "RIVN": 0.14119755414742285,
+        "BAC": 0.13762293252343746,
+        "TSLA": 0.128686378463474
     }
 }

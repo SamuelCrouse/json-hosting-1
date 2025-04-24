@@ -104,16 +104,6 @@
                 "url": "https://finance.yahoo.com/news/exploring-three-high-growth-tech-053758170.html"
             },
             {
-                "headline": "Ericsson reports robust gross and EBITA margins, while navigating regional sales declines and competitive pressures.",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.3182",
-                "source": "GuruFocus.com",
-                "ticker": "ERIC",
-                "title": "Telefonaktiebolaget L M Ericsson (ERIC) Q1 2025 Earnings Call Highlights: Strong Margins Amid ...",
-                "url": "https://finance.yahoo.com/news/telefonaktiebolaget-l-m-ericsson-eric-010027888.html"
-            },
-            {
                 "headline": "The European market has been navigating a challenging landscape, with the STOXX Europe 600 Index recently closing 1.92% lower amid intensifying trade tensions, although some losses were mitigated following announcements of delayed tariffs by the U.S. administration. In this climate, identifying high growth tech stocks requires a focus on companies that demonstrate resilience and innovation in the face of economic volatility and evolving trade dynamics.",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -132,9 +122,19 @@
                 "ticker": "ERIC",
                 "title": "3 European Stocks Estimated To Be Trading At Discounts Of Up To 40.1%",
                 "url": "https://finance.yahoo.com/news/3-european-stocks-estimated-trading-053750392.html"
+            },
+            {
+                "headline": "Ericsson (ERIC) is well positioned to outperform the market, as it exhibits above-average growth in financials.",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5719",
+                "source": "Zacks",
+                "ticker": "ERIC",
+                "title": "Here is Why Growth Investors Should Buy Ericsson (ERIC) Now",
+                "url": "https://finance.yahoo.com/news/why-growth-investors-buy-ericsson-164505756.html"
             }
         ],
-        "avgScore": 0.10469999999999997,
+        "avgScore": 0.24566666666666662,
         "pctChange": -0.0024480364231213607
     },
     "4 16 2025": {
@@ -160,6 +160,26 @@
                 "url": "https://finance.yahoo.com/news/why-telefonaktiebolaget-lm-ericsson-eric-104533084.html"
             },
             {
+                "headline": "Ericsson reports robust gross and EBITA margins, while navigating regional sales declines and competitive pressures.",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.3182",
+                "source": "GuruFocus.com",
+                "ticker": "ERIC",
+                "title": "Telefonaktiebolaget L M Ericsson (ERIC) Q1 2025 Earnings Call Highlights: Strong Margins Amid ...",
+                "url": "https://finance.yahoo.com/news/telefonaktiebolaget-l-m-ericsson-eric-010027888.html"
+            },
+            {
+                "headline": "Ericsson reports robust gross and EBITA margins, while navigating regional sales declines and competitive pressures.",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.3182",
+                "source": "GuruFocus.com",
+                "ticker": "ERIC",
+                "title": "Telefonaktiebolaget L M Ericsson (ERIC) Q1 2025 Earnings Call Highlights: Strong Margins Amid ...",
+                "url": "https://finance.yahoo.com/news/telefonaktiebolaget-l-m-ericsson-eric-010027888.html"
+            },
+            {
                 "headline": "We recently published a list of 10 Firms End Stronger on Tuesday. In this article, we are going to take a look at where Telefonaktiebolaget LM Ericsson (NASDAQ:ERIC) stands against other firms that end stronger on Tuesday. A muted trading persisted on the stock market on Tuesday, with major indices ending in the red, recording [\u2026]",
                 "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -180,7 +200,7 @@
                 "url": "https://finance.yahoo.com/news/know-ericsson-eric-rating-upgrade-160009841.html"
             }
         ],
-        "avgScore": 0.6937500000000001,
+        "avgScore": 0.3564333333333334,
         "pctChange": 0.02896725660150713
     },
     "4 15 2025": {
@@ -483,12 +503,12 @@
         "avgScore": 0.0,
         "pctChange": -0.007281553112570786
     },
-    "coef": 0.26141465744154135,
-    "avgCoef": 0.019675417533133913,
+    "coef": 0.11457748815522877,
+    "avgCoef": 0.020992939405715214,
     "similar": {
-        "OKLO": 0.6689301821499641,
-        "MRVL": 0.5289215393743901,
-        "RKLB": 0.5222544611469819,
-        "NU": 0.5089203046921653
+        "OKLO": 0.62003827514897,
+        "RKLB": 0.5133650235104374,
+        "MRVL": 0.5111426641013015,
+        "NU": 0.43780480359981033
     }
 }

@@ -1,15 +1,81 @@
 {
-    "4 23 2025": {
+    "4 24 2025": {
         "importantArticles": [
             {
+                "headline": "In an update to a January blog post, Meta said, \u201cPeople come to Meta\u2019s apps for a personalized experience that helps them discover businesses and content they love-ads are an essential part of enabling this. To help people deepen connections with businesses they love, we are expanding ads in Threads to all eligible advertisers globally, as well as access to inventory filter. This new placement-Threads feed-will be on by default for new campaigns using either Advantage+ or Manual Placements. Adve",
+                "publication_date": "2025-04-24T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.891",
+                "source": "TipRanks",
+                "ticker": "META",
+                "title": "Meta\u2019s Threads opens up ads to global advertisers",
+                "url": "https://finance.yahoo.com/news/meta-threads-opens-ads-global-153124437.html"
+            },
+            {
+                "headline": "Smart investors should be learning about AI, while also aiming to figure out ways to gain exposure in their portfolios.  A good place to start is to look at two dominant internet enterprises: Alphabet (NASDAQ: GOOGL) (NASDAQ: GOOG) and Meta Platforms (NASDAQ: META).  Alphabet has been working on machine learning and AI capabilities within its various products and services for a long time.",
+                "publication_date": "2025-04-24T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8402",
+                "source": "Motley Fool",
+                "ticker": "META",
+                "title": "Better Artificial Intelligence Stock: Alphabet vs. Meta Platforms",
+                "url": "https://finance.yahoo.com/news/better-artificial-intelligence-stock-alphabet-090300207.html"
+            },
+            {
                 "headline": "(Bloomberg) -- Wall Street is already looking past what\u2019s expected to be Corporate America\u2019s slowest gain in quarterly earnings in a year, instead focusing on a number that rarely captures the limelight: capital expenditures.Most Read from BloombergTrump Gives New York \u2018One Last Chance\u2019 to End Congestion FeeWhy Car YouTuber Matt Farah Is Fighting for Walkable CitiesThe Racial Wealth Gap Is Not Just About MoneyBackyard Micro-Flats Aim to Ease South Africa\u2019s Housing CrisisTo Fuel Affordable Housin",
-                "publication_date": "2025-04-23T00:00:00.000Z",
+                "publication_date": "2025-04-24T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.7845",
                 "source": "Bloomberg",
                 "ticker": "META",
                 "title": "Traders Fixated on What Companies Spend More Than Earn",
                 "url": "https://finance.yahoo.com/news/traders-fixated-companies-spend-more-201030913.html"
+            },
+            {
+                "headline": "Big Tech stocks surged for a second day, with \u2018Magnificent Seven\u2019 firms adding $455 billion to their market capitalizations Wednesday as the Trump administration hinted at a deescalation of the US-China trade war.",
+                "publication_date": "2025-04-24T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5994",
+                "source": "Yahoo Finance",
+                "ticker": "META",
+                "title": "Big Tech stocks gain over $450 billion as Trump, Bessent signal deescalation of US-China trade war",
+                "url": "https://finance.yahoo.com/news/big-tech-stocks-gain-over-450-billion-as-trump-bessent-signal-deescalation-of-us-china-trade-war-143427595.html"
+            },
+            {
+                "headline": "Meta will be looking to push back against the latest EU penalty.",
+                "publication_date": "2025-04-24T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.4588",
+                "source": "Social Media Today",
+                "ticker": "META",
+                "title": "Meta Hit With Another Big Fine in Europe Over DMA Breaches",
+                "url": "https://finance.yahoo.com/news/meta-hit-another-big-fine-164851864.html"
+            },
+            {
+                "headline": "Apple received a 500 million euros ($571.3 million) penalty on Wednesday while Facebook-owner Meta was fined \u20ac200 million, both for breaches of the EU\u2019s Digital Markets Act.",
+                "publication_date": "2025-04-24T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.4588",
+                "source": "Barrons.com",
+                "ticker": "META",
+                "title": "Apple and Meta Are Hit With EU Fines. Why That Could Provoke Trump.",
+                "url": "https://finance.yahoo.com/m/ceab749f-1daf-3344-a2da-6b9730379a74/apple-and-meta-are-hit-with.html"
+            }
+        ],
+        "avgScore": 0.12222666666666668,
+        "pctChange": 0.02205386785446351
+    },
+    "4 23 2025": {
+        "importantArticles": [
+            {
+                "headline": "(Bloomberg) -- OpenAI\u2019s goals of building a \u201csuper assistant\u201d app and reaching general artificial intelligence won\u2019t succeed without search technology but Google has declined to work with the startup, the head of its ChatGPT product testified Tuesday in the Google antitrust trial.Most Read from BloombergTrump Gives New York \u2018One Last Chance\u2019 to End Congestion FeeDOGE Visits National Gallery of Art to Discuss Museum\u2019s Legal StatusThe Racial Wealth Gap Is Not Just About MoneyOpenAI\u2019s Nick Turley s",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8625",
+                "source": "Bloomberg",
+                "ticker": "META",
+                "title": "ChatGPT Chief Calls Search Crucial for OpenAI in Google Trial",
+                "url": "https://finance.yahoo.com/news/chatgpt-chief-calls-search-crucial-180344015.html"
             },
             {
                 "headline": "(Bloomberg) -- While many investors have been scared away from tech giants at the center of this year\u2019s equity rout, the companies are likely to continue plowing money into buybacks that will offer at least one source of continuing support for the stocks.Most Read from BloombergTrump Gives New York \u2018One Last Chance\u2019 to End Congestion FeeDOGE Visits National Gallery of Art to Discuss Museum\u2019s Legal StatusThe Racial Wealth Gap Is Not Just About MoneyBackyard Micro-Flats Aim to Ease South Africa\u2019s",
@@ -38,7 +104,7 @@
                 "sentimentScore": "-0.6251",
                 "source": "Social Media Today",
                 "ticker": "META",
-                "title": "Meta Looks to Drive More Meta Verified Take-Up Among Brands With New Elements",
+                "title": "Meta Verified Looks To Drive Take Up Among Brands With New Elements",
                 "url": "https://finance.yahoo.com/news/meta-looks-drive-more-meta-151048344.html"
             },
             {
@@ -52,21 +118,41 @@
                 "url": "https://finance.yahoo.com/news/apple-meta-platforms-fined-hundreds-102431530.html"
             },
             {
-                "headline": "Big Tech stocks surged for a second day, with \u2018Magnificent Seven\u2019 firms adding $455 billion to their market capitalizations Wednesday as the Trump administration hinted at a deescalation of the US-China trade war.",
+                "headline": "European Union watchdogs fined Apple and Meta hundreds of millions of euros Wednesday as they stepped up enforcement of the 27-nation bloc\u2019s digital competition rules.  The European Commission imposed a 500 million euro ($571 million) fine on Apple for preventing app makers from pointing users to cheaper options outside its App Store.  The commission, which is the EU\u2019s executive arm, also fined Meta Platforms 200 million euros because it forced Facebook and Instagram users to choose between seeing personalized ads or paying to avoid them.",
                 "publication_date": "2025-04-23T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.5994",
-                "source": "Yahoo Finance",
+                "sentimentScore": "-0.5859",
+                "source": "Associated Press Finance",
                 "ticker": "META",
-                "title": "Big Tech stocks gain over $450 billion as Trump, Bessent signal deescalation of US-China trade war",
-                "url": "https://finance.yahoo.com/news/big-tech-stocks-gain-over-450-billion-as-trump-bessent-signal-deescalation-of-us-china-trade-war-143427595.html"
+                "title": "The European Union hits Apple and Meta with 700 million euros in fines, first under digital rules",
+                "url": "https://finance.yahoo.com/news/european-union-fines-apple-500-095029876.html"
             }
         ],
-        "avgScore": -0.06903513513513512,
-        "pctChange": -0.015618948018524245
+        "avgScore": -0.06195789473684211,
+        "pctChange": 0.019028510210574626
     },
     "4 22 2025": {
         "importantArticles": [
+            {
+                "headline": "The Roundhill Magnificent Seven ETF, an exchange-traded fund that tracks \"Magnificent Seven\" stocks, is down close to 18% this year.  While uncertainty is at an all-time high, investors are also circling the wagons and looking at stocks that are as cheap as they have been in six months or more.  Many investors remain bullish on artificial intelligence (AI) and believe few stocks will benefit more than those in the Magnificent Seven.",
+                "publication_date": "2025-04-22T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9468",
+                "source": "Motley Fool",
+                "ticker": "META",
+                "title": "Apple vs. Meta Platforms: Which \"Magnificent Seven\" Stock Has More Upside After the Recent Sell-Off?",
+                "url": "https://finance.yahoo.com/news/apple-vs-meta-platforms-magnificent-190000502.html"
+            },
+            {
+                "headline": "We recently published a list of 10 Best Stocks to Buy According to Billionaire Chris Rokos. In this article, we are going to take a look at where Meta Platforms, Inc. (NASDAQ:META) stands against other best stocks to buy according to billionaire Chris Rokos. Chris Rokos is a highly respected British hedge fund manager who [\u2026]",
+                "publication_date": "2025-04-22T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9152",
+                "source": "Insider Monkey",
+                "ticker": "META",
+                "title": "Is Meta Platforms, Inc. (META) the Best Stock to Buy According to Billionaire Chris Rokos?",
+                "url": "https://finance.yahoo.com/news/meta-platforms-inc-meta-best-185534079.html"
+            },
             {
                 "headline": "Meta announced on Tuesday that it's officially launching Edits, its CapCut-like video-creation app. Releasing globally, Edits will allow creators to do things like keep track of video ideas, get inspiration for new content, and create videos with effects and AI tools. The app is available on iOS and Android. All of the app's features will be accessible for free at launch. However, Instagram head Adam Mosseri said earlier this month that later versions of Edits may include paid features. The comp",
                 "publication_date": "2025-04-22T00:00:00.000Z",
@@ -76,26 +162,6 @@
                 "ticker": "META",
                 "title": "Meta releases its CapCut rival Edits globally",
                 "url": "https://finance.yahoo.com/news/meta-releases-capcut-rival-edits-163000517.html"
-            },
-            {
-                "headline": "(Bloomberg) -- OpenAI\u2019s goals of building a \u201csuper assistant\u201d app and reaching general artificial intelligence won\u2019t succeed without search technology but Google has declined to work with the startup, the head of its ChatGPT product testified Tuesday in the Google antitrust trial.Most Read from BloombergTrump Gives New York \u2018One Last Chance\u2019 to End Congestion FeeDOGE Visits National Gallery of Art to Discuss Museum\u2019s Legal StatusThe Racial Wealth Gap Is Not Just About MoneyOpenAI\u2019s Nick Turley s",
-                "publication_date": "2025-04-22T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8625",
-                "source": "Bloomberg",
-                "ticker": "META",
-                "title": "ChatGPT Chief Calls Search Crucial for OpenAI in Google Trial",
-                "url": "https://finance.yahoo.com/news/chatgpt-chief-calls-search-crucial-180344015.html"
-            },
-            {
-                "headline": "As US stocks (^DJI, ^GSPC, ^IXIC) sell off, Solidarity Capital CEO Jeff McClean sits down with Josh Lipton to check in on the \"Magnificent Seven,\" made up of Nvidia (NVDA), Alphabet (GOOG, GOOGL), Tesla (TSLA), Microsoft (MSFT), Amazon (AMZN), Meta (META), and Apple (AAPL). To watch more expert insights and analysis on the latest market action, check out more Asking for a Trend here.",
-                "publication_date": "2025-04-22T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7783",
-                "source": "Yahoo Finance Video",
-                "ticker": "META",
-                "title": "How to trade the Magnificent 7 amid the market sell-off",
-                "url": "https://finance.yahoo.com/video/trade-magnificent-7-amid-market-120021370.html"
             },
             {
                 "headline": "The announcement comes as TikTok faces an uncertain future in the US because of a looming ban linked to national security concerns.",
@@ -118,50 +184,50 @@
                 "url": "https://finance.yahoo.com/m/57e1d4b7-f0a8-3dff-8bd2-05d04fb46e2b/meta-could-be-facing-7.html"
             },
             {
-                "headline": "We recently published a list of 9 Stocks That Could 10X Over the Next 2 Years. In this article, we are going to take a look at where Meta Platforms, Inc. (NASDAQ:META) stands against other stocks that could 10X over the next 2 years. US Tariffs and the Stock Market Turmoil While tariffs from the [\u2026]",
+                "headline": "We recently compiled a list of the 12 AI Stocks on Wall Street\u2019s Radar. In this article, we are going to take a look at where Meta Platforms, Inc. (NASDAQ:META) stands against the other AI stocks on Wall Street\u2019s radar. Almost 50 House Democrats have signed a message to stop the unauthorized use of AI tools [\u2026]",
                 "publication_date": "2025-04-22T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.3612",
+                "sentimentScore": "-0.296",
                 "source": "Insider Monkey",
                 "ticker": "META",
-                "title": "Meta Platforms, Inc. (META): Among Stocks That Could 10X Over the Next 2 Years",
-                "url": "https://finance.yahoo.com/news/meta-platforms-inc-meta-among-174200222.html"
+                "title": "Meta Platforms, Inc. (META) Price Target Cut to $624 Amid Macro Uncertainty and Cautious Q1 Outlook",
+                "url": "https://finance.yahoo.com/news/meta-platforms-inc-meta-price-130806159.html"
             }
         ],
-        "avgScore": 0.19588999999999998,
+        "avgScore": 0.28845000000000004,
         "pctChange": 0.03995766530888617
     },
     "4 21 2025": {
         "importantArticles": [
             {
-                "headline": "The Roundhill Magnificent Seven ETF, an exchange-traded fund that tracks \"Magnificent Seven\" stocks, is down close to 18% this year.  While uncertainty is at an all-time high, investors are also circling the wagons and looking at stocks that are as cheap as they have been in six months or more.  Many investors remain bullish on artificial intelligence (AI) and believe few stocks will benefit more than those in the Magnificent Seven.",
+                "headline": "Earnings season is here once again, offering us a look into our favorite companies' latest performance and view of the future.  Investors may feel particularly eager to hear the thoughts of chief executive officers, considering the challenge facing U.S. companies today: President Trump's import tariff plan.  Trump's tariff announcement earlier this month dragged indexes lower as investors worried about higher prices on imports eating into corporate profits.",
                 "publication_date": "2025-04-21T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.9468",
+                "sentimentScore": "0.659",
                 "source": "Motley Fool",
                 "ticker": "META",
-                "title": "Apple vs. Meta Platforms: Which \"Magnificent Seven\" Stock Has More Upside After the Recent Sell-Off?",
-                "url": "https://finance.yahoo.com/news/apple-vs-meta-platforms-magnificent-190000502.html"
+                "title": "3 No-Brainer Artificial Intelligence (AI) Stocks to Buy Before Earnings Season Heats Up",
+                "url": "https://finance.yahoo.com/news/3-no-brainer-artificial-intelligence-081000420.html"
             },
             {
-                "headline": "We recently published a list of 10 Best Stocks to Buy According to Billionaire Chris Rokos. In this article, we are going to take a look at where Meta Platforms, Inc. (NASDAQ:META) stands against other best stocks to buy according to billionaire Chris Rokos. Chris Rokos is a highly respected British hedge fund manager who [\u2026]",
+                "headline": "Artificial intelligence (AI) stocks are sliding as the Nasdaq falters.",
                 "publication_date": "2025-04-21T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.9152",
-                "source": "Insider Monkey",
+                "sentimentScore": "0.4767",
+                "source": "Motley Fool",
                 "ticker": "META",
-                "title": "Is Meta Platforms, Inc. (META) the Best Stock to Buy According to Billionaire Chris Rokos?",
-                "url": "https://finance.yahoo.com/news/meta-platforms-inc-meta-best-185534079.html"
+                "title": "1 Artificial Intelligence (AI) Stock-Buyback Stock to Buy Hand Over Fist During the Nasdaq Sell-Off",
+                "url": "https://finance.yahoo.com/news/1-artificial-intelligence-ai-stock-220000848.html"
             },
             {
-                "headline": "Amazon shares fell as much as 4% Monday after Raymond James downgraded the stock to an Overperform rating from a Strong Buy.",
+                "headline": "As Big Tech kicks off its quarterly earnings season this week, the industry's bellwether companies have been thrust into a cauldron of uncertainty and turmoil that they didn't anticipate when Donald Trump re-entered the White House nearly 100 days ago.  Since President Trump's Jan. 20 inauguration, Big Tech stocks have been on a see-sawing ride that has eviscerated trillions of dollars in shareholder wealth amid an onslaught of tariffs and other potentially detrimental actions.  It's the polar opposite of what Apple CEO Tim Cook, Tesla CEO Elon Musk, Google CEO Sundar Pichai, Facebook founder Mark Zuckerberg and Amazon founder Jeff Bezos hoped for when they assembled behind Trump as he was sworn in.",
                 "publication_date": "2025-04-21T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.7351",
-                "source": "Yahoo Finance",
+                "sentimentScore": "0.3818",
+                "source": "Associated Press Finance",
                 "ticker": "META",
-                "title": "Amazon stock falls as Raymond James downgrades shares, citing tariff headwinds and 'limited' AI monetization",
-                "url": "https://finance.yahoo.com/news/amazon-stock-falls-as-raymond-james-downgrades-shares-citing-tariff-headwinds-and-limited-ai-monetization-144747355.html"
+                "title": "Big Tech's 'Magnificent Seven' heads into earnings season reeling from Trump turbulence",
+                "url": "https://finance.yahoo.com/news/big-techs-magnificent-seven-heads-003039234.html"
             },
             {
                 "headline": "Meta is using AI technology to search for kids who are lying about their age on Instagram in order to bypass safeguards, the company announced on Monday. When Meta finds an account that it suspects belongs to a teen, the platform will enroll them into a restricted Teen Account, even if the account lists an adult birthday. Teen Accounts, which launched on Instagram last year, enroll young users into an app experience with built-in protections. The safeguards are applied to teens automatically, an",
@@ -194,11 +260,31 @@
                 "url": "https://finance.yahoo.com/news/nvidia-second-cheapest-magnificent-seven-084800718.html"
             }
         ],
-        "avgScore": 0.21318571428571428,
+        "avgScore": 0.11687999999999996,
         "pctChange": 0.032228768619572946
     },
     "4 17 2025": {
         "importantArticles": [
+            {
+                "headline": "We recently compiled a list of the 14 Best American Tech Stocks To Buy Now. In this article, we are going to take a look at where Meta Platforms, Inc. (NASDAQ:META) stands against the other American tech stocks. American stocks moved up a bit on Monday, April 14 as investors focused on news about tech [\u2026]",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7783",
+                "source": "Insider Monkey",
+                "ticker": "META",
+                "title": "Is Meta Platforms, Inc. (META) The Best American Tech Stock To Buy Now?",
+                "url": "https://finance.yahoo.com/news/meta-platforms-inc-meta-best-170033209.html"
+            },
+            {
+                "headline": "We recently published a list of 15 Best Blue Chip Stocks to Buy According to Billionaires. In this article, we are going to take a look at where Meta Platforms, Inc. (NASDAQ:META) stands against other best blue chip stocks to buy according to billionaires. Is A Potential Trade War on the Horizon? The US stock [\u2026]",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6705",
+                "source": "Insider Monkey",
+                "ticker": "META",
+                "title": "Why Meta Platforms, Inc. (META) is the Best Blue Chip Stock to Buy According to Billionaires",
+                "url": "https://finance.yahoo.com/news/why-meta-platforms-inc-meta-191532281.html"
+            },
             {
                 "headline": "(Bloomberg) -- A double-digit selloff in UnitedHealth Group Inc. is dragging down the blue-chip Dow Jones Industrial Average, pushing it toward a day of historical underperformance.Most Read from BloombergTrump Signs Executive Orders on Federal Purchasing, Office SpaceDOGE Places Entire Staff of Federal Homelessness Agency on LeaveHow Did This Suburb Figure Out Mass Transit?Why the Best Bike Lanes Always Get BlamedNashville\u2019s $3 Billion Transit Plan Brings a Call for Zoning ReformThe Dow Jones I",
                 "publication_date": "2025-04-17T00:00:00.000Z",
@@ -210,24 +296,24 @@
                 "url": "https://finance.yahoo.com/news/dow-industrial-set-historical-divergence-130540405.html"
             },
             {
-                "headline": "The internet specifically, and technology broadly, continues to have a profound impact on society and consumer behavior.  Tech stocks have generally performed very well in the past decade.  The top two tech stocks investors might want to scoop up this month are Alphabet (NASDAQ: GOOGL) (NASDAQ: GOOG) and Meta Platforms (NASDAQ: META).",
+                "headline": "Chinese online marketplace Temu and fast-fashion retailer Shein, two of the biggest advertisers on U.S. social media, are sharply cutting their U.S. digital ad spending, industry data show, in a blow to tech companies such as Meta's Facebook and YouTube.  The online retailers, both of which ship low-priced China-made goods direct to U.S. shoppers, had been on an ad spree until recently, targeting younger, thriftier shoppers in digital media.  U.S. President Donald Trump's executive order earlier this month threatens this business.",
                 "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.624",
-                "source": "Motley Fool",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.4767",
+                "source": "Reuters",
                 "ticker": "META",
-                "title": "2 Top Tech Stocks to Buy in April",
-                "url": "https://finance.yahoo.com/news/2-top-tech-stocks-buy-125000359.html"
+                "title": "Temu, Shein slash digital ads as tariffs end cheap shipping from China, data show",
+                "url": "https://finance.yahoo.com/news/temu-shein-slash-digital-ads-223910039.html"
             },
             {
-                "headline": "In Meta's antitrust trial on Wednesday, Meta CEO Mark Zuckerberg testified that TikTok's success was a risk to Meta's business, saying the short-form video app was a \"top priority\" and a \"highly urgent\" competitive threat when it arrived in 2018, according to Bloomberg and other outlets. The reports come from a packed first week of testimony in the U.S. Federal Trade Commission's trial against the social networking giant. If the FTC's lawyers prevail, the trial could potentially require Meta to",
+                "headline": "One of the rare Wall Street analysts who is bearish on Meta Platforms further cut his price target for the stock, saying the Facebook parent company is \"starting to look vulnerable to a growth slowdown.\"  BNP Paribas Exane analyst Stefan Slowinksi cut his price target for Meta stock to 448 from a previous 505 in a client note late Tuesday.  Slowinski initiated coverage of Meta with the sell-equivalent call nearly 12 months ago.",
                 "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4229",
-                "source": "TechCrunch",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.3612",
+                "source": "Investor's Business Daily",
                 "ticker": "META",
-                "title": "Mark Zuckerberg says TikTok slowed Meta's growth",
-                "url": "https://finance.yahoo.com/news/mark-zuckerberg-says-tiktok-slowed-142837125.html"
+                "title": "Rare Bearish Meta Analyst Cuts Price Target, Says Tech Giant 'Starting To Look Vulnerable'",
+                "url": "https://finance.yahoo.com/m/612b78fa-757d-3eb4-bdc2-ad12dd2475e4/rare-bearish-meta-analyst.html"
             },
             {
                 "headline": "We recently published a list of 10 AI Stocks on the Move. In this article, we are going to take a look at where Meta Platforms, Inc. (NASDAQ:META) stands against other AI stocks on the move. Market uncertainty aside, the AI race is tighter than ever. A report by Stanford University\u2019s Institute for Human-Centered AI [\u2026]",
@@ -238,33 +324,23 @@
                 "ticker": "META",
                 "title": "Meta Platforms (META): EU Users\u2019 Public Data to Train Meta\u2019s AI Models",
                 "url": "https://finance.yahoo.com/news/meta-platforms-meta-eu-users-120457298.html"
-            },
-            {
-                "headline": "A TTP report finds Meta\u2019s group features are enabling fraud at scale\u2014allowing unvetted drivers to bypass safety protocols on Uber and DoorDash.",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.25",
-                "source": "FastCompany",
-                "ticker": "META",
-                "title": "Facebook Groups are fueling a black market for Uber and DoorDash accounts, says a new report",
-                "url": "https://finance.yahoo.com/news/facebook-groups-fueling-black-market-110100419.html"
-            },
-            {
-                "headline": "The two titans of digital advertising are facing unprecedented legal threats over tactics they used to reach dominance.",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.1027",
-                "source": "The Wall Street Journal",
-                "ticker": "META",
-                "title": "The Week Google and Meta Faced an Antitrust Reckoning",
-                "url": "https://finance.yahoo.com/m/f58a897f-669a-3223-a34f-97f5daaa73b2/the-week-google-and-meta.html"
             }
         ],
-        "avgScore": 0.15563076923076924,
+        "avgScore": 0.17216499999999998,
         "pctChange": -0.03354073334076982
     },
     "4 16 2025": {
         "importantArticles": [
+            {
+                "headline": "We recently published a list of the 10 Best Machine Learning Stocks to Buy Now. In this article, we are going to take a look at where Meta Platforms, Inc. (NASDAQ:META) stands against other machine-learning stocks. Grand View Research reported that the global machine-learning market was valued at $36.73 billion in 2022. It\u2019s now expected [\u2026]",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8779",
+                "source": "Insider Monkey",
+                "ticker": "META",
+                "title": "Is Meta Platforms (META) the Best Machine Learning Stock to Buy Now?",
+                "url": "https://finance.yahoo.com/news/meta-platforms-meta-best-machine-194203770.html"
+            },
             {
                 "headline": "President Donald Trump's import tariffs have been the big subject for investors in recent weeks, with any new announcement guiding the market's direction.  The Magnificent Seven stocks led gains in the Nasdaq Composite last year, but today, these tech players are pushing the index lower amid concerns about how Trump's tariffs will impact them.  Each Magnificent Seven player is likely to be impacted to a certain degree, but my prediction is one particular stock is the safest of the bunch during the tariff turmoil.",
                 "publication_date": "2025-04-16T00:00:00.000Z",
@@ -274,16 +350,6 @@
                 "ticker": "META",
                 "title": "Prediction: This Stock Will Be the Safest of the \"Magnificent Seven\" During Tariff Turmoil",
                 "url": "https://finance.yahoo.com/news/prediction-stock-safest-magnificent-seven-081000443.html"
-            },
-            {
-                "headline": "We recently compiled a list of the 14 Best American Tech Stocks To Buy Now. In this article, we are going to take a look at where Meta Platforms, Inc. (NASDAQ:META) stands against the other American tech stocks. American stocks moved up a bit on Monday, April 14 as investors focused on news about tech [\u2026]",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7783",
-                "source": "Insider Monkey",
-                "ticker": "META",
-                "title": "Is Meta Platforms, Inc. (META) The Best American Tech Stock To Buy Now?",
-                "url": "https://finance.yahoo.com/news/meta-platforms-inc-meta-best-170033209.html"
             },
             {
                 "headline": "Gold bumped the 'Magnificent Seven' tech stocks to take the top spot as a crowded trade, according to a BofA survey.",
@@ -326,20 +392,20 @@
                 "url": "https://finance.yahoo.com/news/meta-trial-5-key-moments-152043283.html"
             }
         ],
-        "avgScore": 0.09658571428571427,
+        "avgScore": -0.0004850000000000021,
         "pctChange": -0.001652339344826216
     },
     "4 15 2025": {
         "importantArticles": [
             {
-                "headline": "We recently published a list of the 10 Best Machine Learning Stocks to Buy Now. In this article, we are going to take a look at where Meta Platforms, Inc. (NASDAQ:META) stands against other machine-learning stocks. Grand View Research reported that the global machine-learning market was valued at $36.73 billion in 2022. It\u2019s now expected [\u2026]",
+                "headline": "Social media company Meta said Monday that it will start using publicly available content from European users to train its artificial intelligence models, resuming work put on hold last year after activists raised concerns about data privacy.  The company, which owns Facebook and Instagram, said that it would train its AI systems using public posts and comments shared by adult users in the 27-nation European Union.  \u201cPeople\u2019s interactions with Meta AI \u2014 like questions and queries \u2014 will also be used to train and improve our models,\u201d the company said in a blog post.",
                 "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.8779",
-                "source": "Insider Monkey",
+                "sentimentScore": "0.872",
+                "source": "Associated Press Finance",
                 "ticker": "META",
-                "title": "Is Meta Platforms (META) the Best Machine Learning Stock to Buy Now?",
-                "url": "https://finance.yahoo.com/news/meta-platforms-meta-best-machine-194203770.html"
+                "title": "Meta says it will resume AI training with public content from European users",
+                "url": "https://finance.yahoo.com/news/meta-says-resume-ai-training-140929806.html"
             },
             {
                 "headline": "We recently published a list of Goldman Sachs Value Stocks: Top 12 Stock Picks. In this article, we are going to take a look at where Meta Platforms, Inc. (NASDAQ:META) stands against other Goldman Sachs value stocks to invest in. As we recently discussed in another article, growth stocks are massively overvalued and trading at [\u2026]",
@@ -352,24 +418,34 @@
                 "url": "https://finance.yahoo.com/news/meta-platforms-meta-among-top-130454915.html"
             },
             {
-                "headline": "WASHINGTON (Reuters) -Meta CEO Mark Zuckerberg considered spinning off popular photo-sharing app Instagram in 2018 over concerns about the growing risk of antitrust scrutiny, according to a document shown at a trial in Washington on Tuesday.  The document was shown during Zuckerberg's second day of testimony at the high-stakes trial, in which the U.S. Federal Trade Commission is seeking to unwind Meta's acquisitions of prized assets Instagram and WhatsApp.  \"I wonder if we should consider the extreme step of spinning Instagram out as a separate company,\" Zuckerberg said in the memo.",
+                "headline": "Apple led the \"Magnificent Seven\" stocks higher Monday as investors cheered the Trump administration's temporary tariff exemptions for tech products announced over the weekend.",
                 "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.7579",
-                "source": "Reuters",
+                "sentimentScore": "0.802",
+                "source": "Yahoo Finance",
                 "ticker": "META",
-                "title": "Meta's Zuckerberg eyed Instagram spinoff amid antitrust scrutiny, document shows",
-                "url": "https://finance.yahoo.com/news/us-antitrust-trial-metas-zuckerberg-161456104.html"
+                "title": "Apple leads tech stocks higher on Trump's temporary tech tariff reprieve",
+                "url": "https://finance.yahoo.com/news/apple-leads-tech-stocks-higher-on-trumps-temporary-tech-tariff-reprieve-125423982.html"
             },
             {
-                "headline": "Meta CEO Mark Zuckerberg once considered separating Instagram from its parent company due to worries about antitrust litigation, according to an email shown Tuesday on the second day of an antitrust trial alleging Meta illegally monopolized the social media market.  In the 2018 email, Zuckerberg wrote that he was beginning to wonder if \u201cspinning Instagram out\u201d would be the only way to accomplish important goals, as big-tech companies grow.  Asked Tuesday by attorney Daniel Matheson, who is leading the antitrust case for the Federal Trade Commission, which incidence in corporate history he had in mind, Zuckerberg responded: \u201cI'm not sure what I had in mind then.\u201d",
+                "headline": "The Federal Trade Commission says Meta has monopolized the social-media market\u2014and should be broken up.",
                 "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.4333",
-                "source": "Associated Press Finance",
+                "sentimentScore": "-0.6124",
+                "source": "The Wall Street Journal",
                 "ticker": "META",
-                "title": "Meta CEO Zuckerberg considered spinning off Instagram in 2018 over antitrust worries, email says",
-                "url": "https://finance.yahoo.com/news/meta-ceo-zuckerberg-spars-ftc-184234515.html"
+                "title": "Meta Fights to Keep Instagram and WhatsApp, as Antitrust Trial Begins",
+                "url": "https://finance.yahoo.com/m/37fc45b0-8869-300c-9d00-aa0f287f7a74/meta-fights-to-keep-instagram.html"
+            },
+            {
+                "headline": "Meta CEO Mark Zuckerberg took the witness stand Monday to defend his company against accusations by the Federal Trade Commission that it bought competing social media companies to dominate the market with a monopoly.",
+                "publication_date": "2025-04-15T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.4215",
+                "source": "CNN Business",
+                "ticker": "META",
+                "title": "Mark Zuckerberg defends Meta\u2019s social media acquisitions in first day of antitrust trial",
+                "url": "https://finance.yahoo.com/news/mark-zuckerberg-takes-stand-first-183913054.html"
             },
             {
                 "headline": "Mark Zuckerberg defended Meta's (META) past acquisitions in court, arguing Instagram and WhatsApp strengthened competition rather than stifled it. Mozelle Thompson, former FTC commissioner and former Facebook Advisory Board member, joins Morning Brief to break down how the FTC is framing Meta's moves as monopolistic and what the outcome could mean. To watch more expert insights and analysis on the latest market action, check out more Morning Brief&nbsp;here.",
@@ -380,42 +456,22 @@
                 "ticker": "META",
                 "title": "Meta antitrust trial: What this former FTC commissioner expects",
                 "url": "https://finance.yahoo.com/video/meta-antitrust-trial-former-ftc-140835787.html"
-            },
-            {
-                "headline": "The Nasdaq Composite's (NASDAQINDEX: ^IXIC) over 12% pop on April 9 pole-vaulted the index out of bear market territory -- which is a decline of over 20% from a recent high.  Bear markets have historically been phenomenal times to put hard-earned savings to work in the market, but only for businesses that have the qualities necessary to endure a prolonged slowdown.  Here are some risks worth considering before diving headfirst into buying the dip, and why Meta Platforms (NASDAQ: META) passes the risk test.",
-                "publication_date": "2025-04-15T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.3612",
-                "source": "Motley Fool",
-                "ticker": "META",
-                "title": "Thinking About Buying Growth Stocks During the 2025 Nasdaq Bear Market? Consider These Risks First.",
-                "url": "https://finance.yahoo.com/news/thinking-buying-growth-stocks-during-110500247.html"
             }
         ],
-        "avgScore": 0.06108461538461537,
+        "avgScore": 0.10719333333333332,
         "pctChange": -0.03683467796676819
     },
     "4 14 2025": {
         "importantArticles": [
             {
-                "headline": "Social media company Meta said Monday that it will start using publicly available content from European users to train its artificial intelligence models, resuming work put on hold last year after activists raised concerns about data privacy.  The company, which owns Facebook and Instagram, said that it would train its AI systems using public posts and comments shared by adult users in the 27-nation European Union.  \u201cPeople\u2019s interactions with Meta AI \u2014 like questions and queries \u2014 will also be used to train and improve our models,\u201d the company said in a blog post.",
+                "headline": "We recently published a list of 30 Best AI Stocks to Buy According to Billionaires. In this article, we are going to take a look at where Meta Platforms, Inc. (NASDAQ:META) stands against other best AI stocks to buy according to billionaires. The optimism around the United States economy over the past few months, largely [\u2026]",
                 "publication_date": "2025-04-14T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.872",
-                "source": "Associated Press Finance",
+                "sentimentScore": "0.9403",
+                "source": "Insider Monkey",
                 "ticker": "META",
-                "title": "Meta says it will resume AI training with public content from European users",
-                "url": "https://finance.yahoo.com/news/meta-says-resume-ai-training-140929806.html"
-            },
-            {
-                "headline": "Apple led the \"Magnificent Seven\" stocks higher Monday as investors cheered the Trump administration's temporary tariff exemptions for tech products announced over the weekend.",
-                "publication_date": "2025-04-14T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.802",
-                "source": "Yahoo Finance",
-                "ticker": "META",
-                "title": "Apple leads tech stocks higher on Trump's temporary tech tariff reprieve",
-                "url": "https://finance.yahoo.com/news/apple-leads-tech-stocks-higher-on-trumps-temporary-tech-tariff-reprieve-125423982.html"
+                "title": "Meta (META) Launches Llama 4, Challenges Gemini with Scout & Maverick",
+                "url": "https://finance.yahoo.com/news/meta-meta-launches-llama-4-183502730.html"
             },
             {
                 "headline": "META expands its Ray-Ban smart glasses capabilities in the United Kingdom, adding advanced AI features, including object recognition and real-time translation.",
@@ -426,6 +482,16 @@
                 "ticker": "META",
                 "title": "Can Meta Platforms' Expanding AI Focus Push the Stock Higher?",
                 "url": "https://finance.yahoo.com/news/meta-platforms-expanding-ai-focus-130500616.html"
+            },
+            {
+                "headline": "We came across a bullish thesis on Meta Platforms, Inc. (META) on Value Investing Subreddit Page by CompanyCharts. In this article, we will summarize the bulls\u2019 thesis on META. Meta Platforms, Inc. (META)\u2019s share was trading at $543.57 as of April 11th. META\u2019s trailing and forward P/E were 22.78 and 21.37 respectively according to Yahoo Finance. Meta [\u2026]",
+                "publication_date": "2025-04-14T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7184",
+                "source": "Insider Monkey",
+                "ticker": "META",
+                "title": "Meta Platforms, Inc. (META): A Bull Case Theory",
+                "url": "https://finance.yahoo.com/news/meta-platforms-inc-meta-bull-135743414.html"
             },
             {
                 "headline": "Investing.com -- Citi has trimmed target prices (TPs) and earnings projections for several U.S. internet stocks amid the negative effects of recently imposed tariffs, more limited macro visibility, and a weakening outlook for online advertising.",
@@ -448,91 +514,25 @@
                 "url": "https://finance.yahoo.com/m/8763e35f-f692-3beb-83b5-733e72572740/meta-s-big-ftc-antitrust.html"
             },
             {
-                "headline": "The Federal Trade Commission says Meta has monopolized the social-media market\u2014and should be broken up.",
+                "headline": "We recently published a list of 10 AI Stocks to Watch Now. In this article, we are going to take a look at where Meta Platforms, Inc. (NASDAQ:META) stands against other AI stocks to watch now. The trade war between two of the world\u2019s biggest economies, China and the US, is deepening even further. In [\u2026]",
                 "publication_date": "2025-04-14T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.6124",
-                "source": "The Wall Street Journal",
+                "sentimentScore": "-0.5994",
+                "source": "Insider Monkey",
                 "ticker": "META",
-                "title": "Meta Fights to Keep Instagram and WhatsApp, as Antitrust Trial Begins",
-                "url": "https://finance.yahoo.com/m/37fc45b0-8869-300c-9d00-aa0f287f7a74/meta-fights-to-keep-instagram.html"
+                "title": "Meta (META) Drops Llama 4 \u2013 But Bank of America Cools Target Over Ad Pressure & Tariff Fears",
+                "url": "https://finance.yahoo.com/news/meta-meta-drops-llama-4-130549032.html"
             }
         ],
-        "avgScore": 0.05047812500000001,
+        "avgScore": 0.1125409090909091,
         "pctChange": -0.018740049114767413
     },
-    "4 11 2025": {
-        "importantArticles": [
-            {
-                "headline": "Meta Platforms expands its teen accounts with new protections on Instagram, Facebook, and Messenger to give parents more peace of mind and improve teen safety online.",
-                "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8718",
-                "source": "Zacks",
-                "ticker": "META",
-                "title": "META Introduces New Teen Safety Tools: How Safe is the Stock for You?",
-                "url": "https://finance.yahoo.com/news/meta-introduces-teen-safety-tools-190000068.html"
-            },
-            {
-                "headline": "South Korean AI hardware startup FuriosaAI has made waves in the global semiconductor industry after reportedly turning down an $800 million acquisition offer from Meta (NASDAQ:META). The decision shows the startup's ambition to remain independent and compete directly in the rapidly evolving AI chip market dominated by NVIDIA (NASDAQ:NVDA) and increasingly encroached on by tech giants like Alphabet (NASDAQ:GOOGL, GOOG)) and Microsoft (NASDAQ:MSFT). Don't Miss: Hasbro, MGM, and Skechers trust thi",
-                "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7387",
-                "source": "Benzinga",
-                "ticker": "META",
-                "title": "FuriosaAI Turns Down Meta's $800M Bid To Go Rogue With RNGD, As AI Chip War Between Nvidia, Google, And Meta Heats Up",
-                "url": "https://finance.yahoo.com/news/furiosaai-turns-down-metas-800m-230222314.html"
-            },
-            {
-                "headline": "Here's what investors are watching during the week of April 14 to April 18. Meta Platforms (META) is set to face the Federal Trade Commission (FTC) as part of its antitrust case. Investors will get fresh economic data, including retail sales and Federal Reserve commentary. Homebuilder confidence, as well as starts and permits data, will offer insights into the housing market. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime here.",
-                "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7369",
-                "source": "Yahoo Finance Video",
-                "ticker": "META",
-                "title": "Meta's antitrust case, retail sales, housing data: What to Watch",
-                "url": "https://finance.yahoo.com/video/metas-antitrust-case-retail-sales-230023162.html"
-            },
-            {
-                "headline": "RESEARCH REPORTS These reports, excerpted and edited by Barron\u2019s, were issued recently by investment and research firms. The reports are a sampling of analysts\u2019 thinking; they should not be considered the views or recommendations of Barron\u2019s.",
-                "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Barrons.com",
-                "ticker": "META",
-                "title": "Apple Stock\u2019s Resilience Means This Is an Opportunity, Says BofA. Plus, Meta, Occidental, and More.",
-                "url": "https://finance.yahoo.com/m/06769a5e-dff7-3a42-88a5-ff56851cc27a/apple-stock%E2%80%99s-resilience.html"
-            },
-            {
-                "headline": "Powell McCormick, who spent 16 years in senior leadership roles at Goldman Sachs, has previously served as deputy national security adviser to U.S. President Donald Trump in his first term.  She has also served as a senior White House adviser and as assistant secretary of state for Condoleezza Rice under President George W. Bush.",
-                "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.34",
-                "source": "Reuters",
-                "ticker": "META",
-                "title": "Meta to add Dina Powell McCormick, Patrick Collison to board",
-                "url": "https://finance.yahoo.com/news/meta-add-dina-powell-mccormick-224256375.html"
-            },
-            {
-                "headline": "Here's what investors are watching during the week of April 14 to April 18. Meta Platforms (META) is set to face the Federal Trade Commission (FTC) as part of its antitrust case. Investors will get fresh economic data, including retail sales and Federal Reserve commentary. Homebuilder confidence, as well as starts and permits data, will offer insights into the housing market. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime here.",
-                "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7369",
-                "source": "Yahoo Finance Video",
-                "ticker": "META",
-                "title": "Meta's antitrust case, retail sales, housing data: What to Watch",
-                "url": "https://finance.yahoo.com/video/metas-antitrust-case-retail-sales-230023162.html"
-            }
-        ],
-        "avgScore": 0.53748,
-        "pctChange": -0.02224189468249581
-    },
-    "coef": 0.2142857142857143,
-    "avgCoef": 0.021488197262482685,
+    "coef": 0.3571428571428572,
+    "avgCoef": -0.02674539782069142,
     "similar": {
-        "BABA": 0.880952380952381,
-        "MSTR": 0.8571428571428572,
-        "CLSK": 0.8333333333333335,
-        "MARA": 0.7857142857142858
+        "FCX": 0.8214285714285715,
+        "INTC": 0.642857142857143,
+        "APH": 0.6071428571428572,
+        "UMC": 0.6071428571428572
     }
 }

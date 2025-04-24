@@ -71,38 +71,12 @@
         "avgScore": -0.44345,
         "pctChange": 0.05898877570852176
     },
-    "3 24 2025": {
-        "importantArticles": [
-            {
-                "headline": "Riot Secures Term Sheet to Acquire Key Assets at Rockdale Facility",
-                "publication_date": "2025-03-24T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.1531",
-                "source": "GuruFocus.com",
-                "ticker": "RIOT",
-                "title": "Riot Platforms Shares Climb After Signing $185M Asset Acquisition Term Sheet",
-                "url": "https://finance.yahoo.com/news/riot-platforms-shares-climb-signing-141802946.html"
-            },
-            {
-                "headline": "Riot Secures Term Sheet to Acquire Key Assets at Rockdale Facility",
-                "publication_date": "2025-03-24T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.1531",
-                "source": "GuruFocus.com",
-                "ticker": "RIOT",
-                "title": "Riot Platforms Shares Climb After Signing $185M Asset Acquisition Term Sheet",
-                "url": "https://finance.yahoo.com/news/riot-platforms-shares-climb-signing-141802946.html"
-            }
-        ],
-        "avgScore": -0.1531,
-        "pctChange": -0.02408257244452202
-    },
-    "coef": 0.5,
-    "avgCoef": 0.009163469756195553,
+    "coef": 0.9999999999999999,
+    "avgCoef": 0.017476072111750306,
     "similar": {
-        "F": 1.0,
-        "AMZN": 1.0,
-        "WBD": 1.0,
-        "BAC": 1.0
+        "SPY": 0.9999999999999999,
+        "F": 0.9999999999999999,
+        "TSLA": 0.9999999999999999,
+        "PLTR": 0.9999999999999999
     }
 }

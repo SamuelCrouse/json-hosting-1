@@ -2,6 +2,16 @@
     "4 23 2025": {
         "importantArticles": [
             {
+                "headline": "In the closing of the recent trading day, Snap (SNAP) stood at $7.98, denoting a +1.66% change from the preceding trading day.",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "SNAP",
+                "title": "Snap (SNAP) Gains But Lags Market: What You Should Know",
+                "url": "https://finance.yahoo.com/news/snap-snap-gains-lags-market-221517146.html"
+            },
+            {
                 "headline": "Updated resources for parents, including a range of new video overviews.",
                 "publication_date": "2025-04-23T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -20,6 +30,16 @@
                 "ticker": "SNAP",
                 "title": "Snapchat Launches Updated Family Safety Hub",
                 "url": "https://finance.yahoo.com/news/snapchat-launches-updated-family-safety-170229075.html"
+            },
+            {
+                "headline": "In the closing of the recent trading day, Snap (SNAP) stood at $7.98, denoting a +1.66% change from the preceding trading day.",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "SNAP",
+                "title": "Snap (SNAP) Gains But Lags Market: What You Should Know",
+                "url": "https://finance.yahoo.com/news/snap-snap-gains-lags-market-221517146.html"
             }
         ],
         "avgScore": 0.0,
@@ -873,78 +893,12 @@
         "avgScore": 0.0,
         "pctChange": -0.022845302639083197
     },
-    "3 24 2025": {
-        "importantArticles": [
-            {
-                "headline": "Consumer internet businesses are redefining how people engage with the world by giving them instant connectivity and convenience. These themes have enabled rapid growth for the industry, which has posted a 19.2% gain over the past six months. This was a good place to be as the S&P 500 was stuck in neutral.",
-                "publication_date": "2025-03-24T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8934",
-                "source": "StockStory",
-                "ticker": "SNAP",
-                "title": "2 Internet Stocks with Exciting Potential and 1 to Brush Off",
-                "url": "https://finance.yahoo.com/news/2-internet-stocks-exciting-potential-130142706.html"
-            },
-            {
-                "headline": "Snapchat CEO Evan Spiegel offers some valuable insights into the evolution of the social media industry.",
-                "publication_date": "2025-03-24T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4767",
-                "source": "Social Media Today",
-                "ticker": "SNAP",
-                "title": "Snapchat CEO Talks Zuckerberg, Content Moderation, AR Glasses and More",
-                "url": "https://finance.yahoo.com/news/snapchat-ceo-talks-zuckerberg-moderation-154358279.html"
-            },
-            {
-                "headline": "Snap CEO Evan Spiegel admits he purposely makes new hires have a nightmarish first day to emphasize failure is welcomed\u2014and necessary\u2014to build a more creative team culture.",
-                "publication_date": "2025-03-24T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.2716",
-                "source": "Fortune",
-                "ticker": "SNAP",
-                "title": "Snapchat\u2019s CEO says he purposefully sets new hires up to fail on their first day on the job",
-                "url": "https://finance.yahoo.com/news/snap-ceo-looks-3-personality-161135554.html"
-            },
-            {
-                "headline": "Snap CEO Evan Spiegel admits he purposely makes new hires have a nightmarish first day to emphasize failure is welcomed\u2014and necessary\u2014to build a more creative team culture.",
-                "publication_date": "2025-03-24T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.2716",
-                "source": "Fortune",
-                "ticker": "SNAP",
-                "title": "Snapchat\u2019s CEO says he purposefully sets new hires up to fail on their first day on the job",
-                "url": "https://finance.yahoo.com/news/snap-ceo-looks-3-personality-161135554.html"
-            },
-            {
-                "headline": "Snapchat CEO Evan Spiegel offers some valuable insights into the evolution of the social media industry.",
-                "publication_date": "2025-03-24T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4767",
-                "source": "Social Media Today",
-                "ticker": "SNAP",
-                "title": "Snapchat CEO Talks Zuckerberg, Content Moderation, AR Glasses and More",
-                "url": "https://finance.yahoo.com/news/snapchat-ceo-talks-zuckerberg-moderation-154358279.html"
-            },
-            {
-                "headline": "Consumer internet businesses are redefining how people engage with the world by giving them instant connectivity and convenience. These themes have enabled rapid growth for the industry, which has posted a 19.2% gain over the past six months. This was a good place to be as the S&P 500 was stuck in neutral.",
-                "publication_date": "2025-03-24T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8934",
-                "source": "StockStory",
-                "ticker": "SNAP",
-                "title": "2 Internet Stocks with Exciting Potential and 1 to Brush Off",
-                "url": "https://finance.yahoo.com/news/2-internet-stocks-exciting-potential-130142706.html"
-            }
-        ],
-        "avgScore": 0.5472333333333333,
-        "pctChange": 0.009433978296411776
-    },
-    "coef": -0.01811333651406905,
-    "avgCoef": 0.0183060515778564,
+    "coef": -0.0422911592633706,
+    "avgCoef": 0.0192588678877255,
     "similar": {
-        "ENPH": 0.319247556060467,
-        "RXRX": 0.30868144309392664,
-        "PBR": 0.2920775512893634,
-        "BTG": 0.2860397724513404
+        "RXRX": 0.34273460319689925,
+        "ENPH": 0.2942759832076204,
+        "BTG": 0.281941061755804,
+        "HL": 0.23524457340249894
     }
 }

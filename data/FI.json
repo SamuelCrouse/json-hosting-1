@@ -12,6 +12,16 @@
                 "url": "https://finance.yahoo.com/news/fiserv-q1-earnings-snapshot-111203190.html"
             },
             {
+                "headline": "The S&P 500 jumped 2.0% on Thursday, April 24, with surging tech stocks and hopes for thawing trade relationships helping drive a third consecutive day of gains.",
+                "publication_date": "2025-04-24T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7506",
+                "source": "Investopedia",
+                "ticker": "FI",
+                "title": "S&P 500 Gains and Losses Today: ServiceNow Stock Soars as AI Demand Drives Earnings",
+                "url": "https://finance.yahoo.com/news/p-500-gains-losses-today-205438840.html"
+            },
+            {
                 "headline": "This acquisition is expected to extend Fiserv's offerings in the Brazilian market, supporting small and medium-sized businesses.",
                 "publication_date": "2025-04-24T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -20,16 +30,6 @@
                 "ticker": "FI",
                 "title": "Fiserv to take over Brazilian fintech Money Money",
                 "url": "https://finance.yahoo.com/news/fiserv-over-brazilian-fintech-money-121814815.html"
-            },
-            {
-                "headline": "FI's Product segment's growth significantly contributes to its top line in the first quarter of 2025.",
-                "publication_date": "2025-04-24T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.5267",
-                "source": "Zacks",
-                "ticker": "FI",
-                "title": "Fiserv Earnings Surpass Estimates in Q1, Revenues Increase Y/Y",
-                "url": "https://finance.yahoo.com/news/fiserv-earnings-surpass-estimates-q1-152200641.html"
             },
             {
                 "headline": "Fiserv missed Wall Street estimates for first-quarter revenue on Thursday, hurt by slowing demand in its payments processing unit, sending the company's shares down about 7% in premarket trading. U.S. consumers have begun pulling back on discretionary spending amid worries of a potential economic slowdown brought on by the Trump administration's trade policies, affecting transaction volumes. Wisconsin-based Fiserv collects fees from merchants, banks and credit unions for processing payments and transactions.",
@@ -62,8 +62,8 @@
                 "url": "https://finance.yahoo.com/news/fiserv-fi-q1-earnings-beat-121509245.html"
             }
         ],
-        "avgScore": 0.2578625,
-        "pctChange": -0.07469953724859141
+        "avgScore": 0.3126111111111112,
+        "pctChange": -0.08360961433377685
     },
     "4 23 2025": {
         "importantArticles": [
@@ -89,7 +89,7 @@
             }
         ],
         "avgScore": 0.0,
-        "pctChange": -0.17724555460390196
+        "pctChange": -0.18516817630978533
     },
     "4 22 2025": {
         "importantArticles": [
@@ -773,12 +773,12 @@
         "avgScore": 0.07715,
         "pctChange": -0.004177489426732313
     },
-    "coef": 0.26179241093115335,
-    "avgCoef": -0.014012384032328422,
+    "coef": 0.24945202792429763,
+    "avgCoef": 0.0192323564887952,
     "similar": {
-        "NOK": 0.5288735574366734,
-        "IBM": 0.38431478507064937,
-        "ERIC": 0.36023277851778496,
-        "WFC": 0.33495325304322654
+        "NOK": 0.5235848218623067,
+        "UMC": 0.43015049338182776,
+        "IBM": 0.37550022578003817,
+        "WFC": 0.3543452834825712
     }
 }

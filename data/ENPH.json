@@ -12,6 +12,16 @@
                 "url": "https://finance.yahoo.com/news/enphase-energy-inc-enph-one-003204124.html"
             },
             {
+                "headline": "Julie Hyman and Roundhill Investments CEO Dave Mazza take a closer look at some of the trending tickers of the trading session ahead of the closing bell on Wall Street. The \"Magnificent Seven\" stocks, made up of Nvidia (NVDA), Alphabet (GOOG, GOOGL), Tesla (TSLA), Microsoft (MSFT), Amazon (AMZN), Meta (META), and Apple (AAPL), rise as the tariff relief rally lifts Big Tech stocks. Vertiv Holdings (VRT) stock surges after the data center cooling system company reported a first quarter earnings beat and raised its full-year sales guidance. Solar equipment stocks Enphase Energy (ENPH) and SolarEdge (SEDG) plunge after Guggenheim analysts downgraded the stocks to Sell. To watch more expert insights and analysis on the latest market action, check out more Market Domination here.",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8527",
+                "source": "Yahoo Finance Video",
+                "ticker": "ENPH",
+                "title": "Mag 7 rallies, Vertiv surges, solar downgraded: Trending Tickers",
+                "url": "https://finance.yahoo.com/video/mag-7-rallies-vertiv-surges-194844480.html"
+            },
+            {
                 "headline": "Shares of solar inverter leader Enphase Energy (NASDAQ: ENPH) plunged on Tuesday, down 14.2% as of 12:11 PM EDT, which was all the more notable as the Nasdaq Composite was up by a big 2.6% at that time.  Enphase not only missed analyst estimates for the quarter, but also guided below estimates for the current second quarter.  In the first quarter, Enphase reported 35.2% revenue growth to $356.1 million, along with adjusted (non-GAAP) earnings per share of $0.68, which was nearly double the year-ago earnings figure.",
                 "publication_date": "2025-04-23T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -20,16 +30,6 @@
                 "ticker": "ENPH",
                 "title": "Why Enphase Plunged On A Day When the Markets Surged",
                 "url": "https://finance.yahoo.com/news/why-enphase-plunged-day-markets-184300460.html"
-            },
-            {
-                "headline": "Enphase Energy (ENPH) delivered earnings and revenue surprises of -4.23% and 1.65%, respectively, for the quarter ended March 2025. Do the numbers hold clues to what lies ahead for the stock?",
-                "publication_date": "2025-04-23T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.3818",
-                "source": "Zacks",
-                "ticker": "ENPH",
-                "title": "Enphase Energy (ENPH) Q1 Earnings and Revenues Miss Estimates",
-                "url": "https://finance.yahoo.com/news/enphase-energy-enph-q1-earnings-212504601.html"
             },
             {
                 "headline": "U.S. stock indexes rallied at midday Wednesday as President Donald Trump said he has \"no intention\" of firing Federal Reserve Chair Jerome Powell and made further comments suggesting a de-escalation of the trade war with China.",
@@ -62,8 +62,8 @@
                 "url": "https://finance.yahoo.com/video/enphase-earnings-bullish-duolingo-call-182214451.html"
             }
         ],
-        "avgScore": 0.05194705882352943,
-        "pctChange": -0.04835305924862708
+        "avgScore": 0.08915555555555553,
+        "pctChange": -0.046793242082340175
     },
     "4 22 2025": {
         "importantArticles": [
@@ -108,27 +108,27 @@
                 "url": "https://finance.yahoo.com/news/enphase-energy-reports-financial-results-200500088.html"
             },
             {
-                "headline": "Solar stocks and ETFs, like First Solar (FSLR), Sunnova Energy (NOVA), Enphase (ENPH), and Invesco Solar ETF (TAN), are jumping after the US government announced tariffs up to 3,500% on solar panel imports from some Southeast Asian countries. Yahoo Finance Senior Business Reporter Ines Ferr\u00e9 outlines the latest on Market Domination. To watch more expert insights and analysis on the latest market action, check out more Market Domination here.",
+                "headline": "Solar inverter maker Enphase Energy on Tuesday missed analysts' estimates for first-quarter profit, hit by softening U.S. demand, and forecast second-quarter revenue below market estimates. Shares dropped 12.5% in after market trading. The company's battery shipments rose in the reported quarter from a year earlier, but fell short of analysts' expectations as softening demand and a metering reform introduced in 2023 in top U.S. market California dented demand for Enphase's inverters used in residential solar units.",
                 "publication_date": "2025-04-22T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.4939",
-                "source": "Yahoo Finance Video",
+                "sentimentScore": "0.2382",
+                "source": "Reuters",
                 "ticker": "ENPH",
-                "title": "Solar stocks climb as some solar imports hit with 3,500% tariffs",
-                "url": "https://finance.yahoo.com/video/solar-stocks-climb-solar-imports-201314017.html"
+                "title": "Enphase Energy misses quarterly profit estimates, forecasts weak Q2 revenue",
+                "url": "https://finance.yahoo.com/news/enphase-energy-misses-quarterly-profit-213842900.html"
             },
             {
-                "headline": "The Fremont, California-based company said it had net income of 22 cents per share. Earnings, adjusted for one-time gains and costs, came to 68 cents per share. The results missed Wall Street expectations.",
+                "headline": "Enphase Energy (ENPH) delivered earnings and revenue surprises of -4.23% and 1.65%, respectively, for the quarter ended March 2025. Do the numbers hold clues to what lies ahead for the stock?",
                 "publication_date": "2025-04-22T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.5574",
-                "source": "Associated Press Finance",
+                "sentimentScore": "0.3818",
+                "source": "Zacks",
                 "ticker": "ENPH",
-                "title": "Enphase Energy: Q1 Earnings Snapshot",
-                "url": "https://finance.yahoo.com/news/enphase-energy-q1-earnings-snapshot-202625641.html"
+                "title": "Enphase Energy (ENPH) Q1 Earnings and Revenues Miss Estimates",
+                "url": "https://finance.yahoo.com/news/enphase-energy-enph-q1-earnings-212504601.html"
             }
         ],
-        "avgScore": 0.460525,
+        "avgScore": 0.41035,
         "pctChange": -0.15646641517128584
     },
     "4 21 2025": {
@@ -230,6 +230,16 @@
                 "url": "https://finance.yahoo.com/news/unpacking-q4-earnings-enphase-nasdaq-090611132.html"
             },
             {
+                "headline": "In the latest trading session, Enphase Energy (ENPH) closed at $52.54, marking a +1.53% move from the previous day.",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.2732",
+                "source": "Zacks",
+                "ticker": "ENPH",
+                "title": "Why Enphase Energy (ENPH) Outpaced the Stock Market Today",
+                "url": "https://finance.yahoo.com/news/why-enphase-energy-enph-outpaced-220015799.html"
+            },
+            {
                 "headline": "Looking back on renewable energy stocks\u2019 Q4 earnings, we examine this quarter\u2019s best and worst performers, including Enphase (NASDAQ:ENPH) and its peers.",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -248,19 +258,9 @@
                 "ticker": "ENPH",
                 "title": "Citi downgrades residential solar Enphase, Sunrun on policy changes, tariffs",
                 "url": "https://finance.yahoo.com/news/citi-downgrades-residential-solar-enphase-161413920.html"
-            },
-            {
-                "headline": "ENPH's Q1 results are expected to reflect robust top-line performance, driven by new product launches as well as higher shipments of microinverters.",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.5423",
-                "source": "Zacks",
-                "ticker": "ENPH",
-                "title": "Enphase Energy is Set to Report Q1 Earnings: What's in Store?",
-                "url": "https://finance.yahoo.com/news/enphase-energy-set-report-q1-140300934.html"
             }
         ],
-        "avgScore": 0.4067,
+        "avgScore": 0.373325,
         "pctChange": -0.017510505664469572
     },
     "4 16 2025": {
@@ -315,35 +315,19 @@
         "avgScore": 0.4588,
         "pctChange": -0.024872803889481744
     },
-    "4 11 2025": {
-        "importantArticles": [
-            {
-                "headline": "A number of stocks fell in the afternoon session after stocks gave back some of the gains from the previous day as the White House clarified the tariffs on imports from China would add up to 145%, while the baseline 10% tariffs remained in place for some countries. This reminded markets that the global trade environment remained volatile, limiting the potential for sustained gains.",
-                "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6249",
-                "source": "StockStory",
-                "ticker": "ENPH",
-                "title": "Enphase, ASGN, Workiva, Zscaler, and Toast Shares Plummet, What You Need To Know",
-                "url": "https://finance.yahoo.com/news/enphase-asgn-workiva-zscaler-toast-210812361.html"
-            },
-            {
-                "headline": "A number of stocks fell in the afternoon session after stocks gave back some of the gains from the previous day as the White House clarified the tariffs on imports from China would add up to 145%, while the baseline 10% tariffs remained in place for some countries. This reminded markets that the global trade environment remained volatile, limiting the potential for sustained gains.",
-                "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6249",
-                "source": "StockStory",
-                "ticker": "ENPH",
-                "title": "Enphase, ASGN, Workiva, Zscaler, and Toast Shares Plummet, What You Need To Know",
-                "url": "https://finance.yahoo.com/news/enphase-asgn-workiva-zscaler-toast-210812361.html"
-            }
-        ],
-        "avgScore": 0.6249,
-        "pctChange": 0.051262283266527736
-    },
     "4 10 2025": {
         "importantArticles": [
             {
+                "headline": "A number of stocks fell in the afternoon session after stocks gave back some of the gains from the previous day as the White House clarified the tariffs on imports from China would add up to 145%, while the baseline 10% tariffs remained in place for some countries. This reminded markets that the global trade environment remained volatile, limiting the potential for sustained gains.",
+                "publication_date": "2025-04-10T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6249",
+                "source": "StockStory",
+                "ticker": "ENPH",
+                "title": "Enphase, ASGN, Workiva, Zscaler, and Toast Shares Plummet, What You Need To Know",
+                "url": "https://finance.yahoo.com/news/enphase-asgn-workiva-zscaler-toast-210812361.html"
+            },
+            {
                 "headline": "ENPH launches IQ Battery 5P with FlexPhase in Poland, and extends its presence in Europe's expanding battery storage market.",
                 "publication_date": "2025-04-10T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -362,9 +346,19 @@
                 "ticker": "ENPH",
                 "title": "Enphase Introduces Its IQ Battery 5P With FlexPhase in Poland",
                 "url": "https://finance.yahoo.com/news/enphase-introduces-iq-battery-5p-160700894.html"
+            },
+            {
+                "headline": "A number of stocks fell in the afternoon session after stocks gave back some of the gains from the previous day as the White House clarified the tariffs on imports from China would add up to 145%, while the baseline 10% tariffs remained in place for some countries. This reminded markets that the global trade environment remained volatile, limiting the potential for sustained gains.",
+                "publication_date": "2025-04-10T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6249",
+                "source": "StockStory",
+                "ticker": "ENPH",
+                "title": "Enphase, ASGN, Workiva, Zscaler, and Toast Shares Plummet, What You Need To Know",
+                "url": "https://finance.yahoo.com/news/enphase-asgn-workiva-zscaler-toast-210812361.html"
             }
         ],
-        "avgScore": 0.128,
+        "avgScore": 0.37645,
         "pctChange": 0.04701367941472878
     },
     "4 9 2025": {
@@ -702,6 +696,26 @@
                 "url": "https://finance.yahoo.com/news/investors-heavily-search-enphase-energy-130010146.html"
             },
             {
+                "headline": "In the closing of the recent trading day, Enphase Energy (ENPH) stood at $61.65, denoting a +1.55% change from the preceding trading day.",
+                "publication_date": "2025-03-28T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.2732",
+                "source": "Zacks",
+                "ticker": "ENPH",
+                "title": "Enphase Energy (ENPH) Rises As Market Takes a Dip: Key Facts",
+                "url": "https://finance.yahoo.com/news/enphase-energy-enph-rises-market-215011090.html"
+            },
+            {
+                "headline": "In the closing of the recent trading day, Enphase Energy (ENPH) stood at $61.65, denoting a +1.55% change from the preceding trading day.",
+                "publication_date": "2025-03-28T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.2732",
+                "source": "Zacks",
+                "ticker": "ENPH",
+                "title": "Enphase Energy (ENPH) Rises As Market Takes a Dip: Key Facts",
+                "url": "https://finance.yahoo.com/news/enphase-energy-enph-rises-market-215011090.html"
+            },
+            {
                 "headline": "Zacks.com users have recently been watching Enphase Energy (ENPH) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
                 "publication_date": "2025-03-28T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -712,7 +726,7 @@
                 "url": "https://finance.yahoo.com/news/investors-heavily-search-enphase-energy-130010146.html"
             }
         ],
-        "avgScore": 0.6369,
+        "avgScore": 0.45505,
         "pctChange": 0.006488202778287573
     },
     "3 27 2025": {
@@ -794,26 +808,6 @@
                 "url": "https://finance.yahoo.com/news/look-intrinsic-value-enphase-energy-122815207.html"
             },
             {
-                "headline": "Enphase Energy (ENPH) closed at $62.77 in the latest trading session, marking a +0.98% move from the prior day.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.2732",
-                "source": "Zacks",
-                "ticker": "ENPH",
-                "title": "Enphase Energy (ENPH) Rises Higher Than Market: Key Facts",
-                "url": "https://finance.yahoo.com/news/enphase-energy-enph-rises-higher-220018411.html"
-            },
-            {
-                "headline": "Enphase Energy (ENPH) closed at $62.77 in the latest trading session, marking a +0.98% move from the prior day.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.2732",
-                "source": "Zacks",
-                "ticker": "ENPH",
-                "title": "Enphase Energy (ENPH) Rises Higher Than Market: Key Facts",
-                "url": "https://finance.yahoo.com/news/enphase-energy-enph-rises-higher-220018411.html"
-            },
-            {
                 "headline": "Key Insights Using the 2 Stage Free Cash Flow to Equity, Enphase Energy fair value estimate is US$58.24 Enphase...",
                 "publication_date": "2025-03-26T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -824,7 +818,7 @@
                 "url": "https://finance.yahoo.com/news/look-intrinsic-value-enphase-energy-122815207.html"
             }
         ],
-        "avgScore": 0.5587,
+        "avgScore": 0.8442,
         "pctChange": 0.009310017363055543
     },
     "3 25 2025": {
@@ -840,6 +834,26 @@
                 "url": "https://finance.yahoo.com/news/enphase-energy-inc-enph-best-165719258.html"
             },
             {
+                "headline": "Enphase Energy (ENPH) closed at $62.77 in the latest trading session, marking a +0.98% move from the prior day.",
+                "publication_date": "2025-03-25T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.2732",
+                "source": "Zacks",
+                "ticker": "ENPH",
+                "title": "Enphase Energy (ENPH) Rises Higher Than Market: Key Facts",
+                "url": "https://finance.yahoo.com/news/enphase-energy-enph-rises-higher-220018411.html"
+            },
+            {
+                "headline": "Enphase Energy (ENPH) closed at $62.77 in the latest trading session, marking a +0.98% move from the prior day.",
+                "publication_date": "2025-03-25T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.2732",
+                "source": "Zacks",
+                "ticker": "ENPH",
+                "title": "Enphase Energy (ENPH) Rises Higher Than Market: Key Facts",
+                "url": "https://finance.yahoo.com/news/enphase-energy-enph-rises-higher-220018411.html"
+            },
+            {
                 "headline": "We recently published a list of 10 Best Solar Stocks to Buy in 2025. In this article, we are going to take a look at where Enphase Energy Inc. (NASDAQ:ENPH) stands against other best solar stocks to buy in 2025. Solar energy has become a key driver in the global shift toward sustainable power. It [\u2026]",
                 "publication_date": "2025-03-25T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -850,22 +864,12 @@
                 "url": "https://finance.yahoo.com/news/enphase-energy-inc-enph-best-165719258.html"
             }
         ],
-        "avgScore": 0.9118,
+        "avgScore": 0.5925,
         "pctChange": -0.04173966724196053
     },
     "3 24 2025": {
         "importantArticles": [
             {
-                "headline": "Julie Hyman and Roundhill Investments CEO Dave Mazza take a closer look at some of the trending tickers of the trading session ahead of the closing bell on Wall Street. The \"Magnificent Seven\" stocks, made up of Nvidia (NVDA), Alphabet (GOOG, GOOGL), Tesla (TSLA), Microsoft (MSFT), Amazon (AMZN), Meta (META), and Apple (AAPL), rise as the tariff relief rally lifts Big Tech stocks. Vertiv Holdings (VRT) stock surges after the data center cooling system company reported a first quarter earnings beat and raised its full-year sales guidance. Solar equipment stocks Enphase Energy (ENPH) and SolarEdge (SEDG) plunge after Guggenheim analysts downgraded the stocks to Sell. To watch more expert insights and analysis on the latest market action, check out more Market Domination here.",
-                "publication_date": "2025-02-24T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8527",
-                "source": "Yahoo Finance Video",
-                "ticker": "ENPH",
-                "title": "Mag 7 rallies, Vertiv surges, solar downgraded: Trending Tickers",
-                "url": "https://finance.yahoo.com/video/mag-7-rallies-vertiv-surges-194844480.html"
-            },
-            {
                 "headline": "We recently published a list of 8 Most Profitable Lithium Stocks to Invest In. In this article, we are going to take a look at where Enphase Energy, Inc. (NASDAQ:ENPH) stands against other most profitable lithium stocks to invest in. The lithium market has proven to be a crucial driver as the world moves toward [\u2026]",
                 "publication_date": "2025-03-24T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -884,27 +888,17 @@
                 "ticker": "ENPH",
                 "title": "Is Enphase Energy, Inc. (ENPH) the Most Profitable Lithium Stock to Invest In?",
                 "url": "https://finance.yahoo.com/news/enphase-energy-inc-enph-most-181908133.html"
-            },
-            {
-                "headline": "Julie Hyman and Roundhill Investments CEO Dave Mazza take a closer look at some of the trending tickers of the trading session ahead of the closing bell on Wall Street. The \"Magnificent Seven\" stocks, made up of Nvidia (NVDA), Alphabet (GOOG, GOOGL), Tesla (TSLA), Microsoft (MSFT), Amazon (AMZN), Meta (META), and Apple (AAPL), rise as the tariff relief rally lifts Big Tech stocks. Vertiv Holdings (VRT) stock surges after the data center cooling system company reported a first quarter earnings beat and raised its full-year sales guidance. Solar equipment stocks Enphase Energy (ENPH) and SolarEdge (SEDG) plunge after Guggenheim analysts downgraded the stocks to Sell. To watch more expert insights and analysis on the latest market action, check out more Market Domination here.",
-                "publication_date": "2025-02-24T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8527",
-                "source": "Yahoo Finance Video",
-                "ticker": "ENPH",
-                "title": "Mag 7 rallies, Vertiv surges, solar downgraded: Trending Tickers",
-                "url": "https://finance.yahoo.com/video/mag-7-rallies-vertiv-surges-194844480.html"
             }
         ],
-        "avgScore": 0.8348,
+        "avgScore": 0.8169,
         "pctChange": 0.009813394656514924
     },
-    "coef": 0.1819548872180451,
-    "avgCoef": 0.007982846050141795,
+    "coef": 0.2421052631578947,
+    "avgCoef": 0.013229841859709057,
     "similar": {
-        "NKE": 0.5759398496240601,
-        "F": 0.4646616541353384,
-        "ABEV": 0.4507149507669153,
-        "CMCSA": 0.42556390977443603
+        "NKE": 0.4964912280701754,
+        "MSTR": 0.4280701754385965,
+        "HTZ": 0.40877192982456134,
+        "AAL": 0.38421052631578945
     }
 }

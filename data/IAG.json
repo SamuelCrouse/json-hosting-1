@@ -23,7 +23,7 @@
             }
         ],
         "avgScore": -0.6124,
-        "pctChange": -0.02617445635122149
+        "pctChange": -0.035570452787935726
     },
     "4 23 2025": {
         "importantArticles": [
@@ -49,7 +49,7 @@
             }
         ],
         "avgScore": 0.0,
-        "pctChange": 0.004847690480104365
+        "pctChange": -0.004847624436174717
     },
     "4 17 2025": {
         "importantArticles": [
@@ -116,26 +116,6 @@
                 "url": "https://finance.yahoo.com/news/iamgold-provides-notice-first-quarter-210000616.html"
             },
             {
-                "headline": "Gold stocks could be one of the few ways to hedge your portfolio amid the ongoing tariff turmoil.",
-                "publication_date": "2025-04-10T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.3612",
-                "source": "Motley Fool",
-                "ticker": "IAG",
-                "title": "Why These Gold Stocks Skyrocketed Today, and Why You'd Want to Buy Some",
-                "url": "https://finance.yahoo.com/news/why-gold-stocks-skyrocketed-today-185705273.html"
-            },
-            {
-                "headline": "Gold stocks could be one of the few ways to hedge your portfolio amid the ongoing tariff turmoil.",
-                "publication_date": "2025-04-10T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.3612",
-                "source": "Motley Fool",
-                "ticker": "IAG",
-                "title": "Why These Gold Stocks Skyrocketed Today, and Why You'd Want to Buy Some",
-                "url": "https://finance.yahoo.com/news/why-gold-stocks-skyrocketed-today-185705273.html"
-            },
-            {
                 "headline": "Toronto, Ontario--(Newsfile Corp. - April 9, 2025) - IAMGOLD Corporation (NYSE: IAG) (TSX: IMG) (\"IAMGOLD\" or the \"Company\") is pleased to announce it plans to release its first quarter 2025 operating and financial results after market hours on Tuesday, May 6, 2025. Senior management will host a conference call to discuss the operating performance and financial results on Wednesday, May 7, 2025, at 8:30 a.m. (Eastern Time). Listeners may access the conference call via ...",
                 "publication_date": "2025-04-10T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -146,8 +126,34 @@
                 "url": "https://finance.yahoo.com/news/iamgold-provides-notice-first-quarter-210000616.html"
             }
         ],
-        "avgScore": 0.039599999999999996,
+        "avgScore": 0.4404,
         "pctChange": 0.049418556699887706
+    },
+    "4 9 2025": {
+        "importantArticles": [
+            {
+                "headline": "Gold stocks could be one of the few ways to hedge your portfolio amid the ongoing tariff turmoil.",
+                "publication_date": "2025-04-09T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.3612",
+                "source": "Motley Fool",
+                "ticker": "IAG",
+                "title": "Why These Gold Stocks Skyrocketed Today, and Why You'd Want to Buy Some",
+                "url": "https://finance.yahoo.com/news/why-gold-stocks-skyrocketed-today-185705273.html"
+            },
+            {
+                "headline": "Gold stocks could be one of the few ways to hedge your portfolio amid the ongoing tariff turmoil.",
+                "publication_date": "2025-04-09T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.3612",
+                "source": "Motley Fool",
+                "ticker": "IAG",
+                "title": "Why These Gold Stocks Skyrocketed Today, and Why You'd Want to Buy Some",
+                "url": "https://finance.yahoo.com/news/why-gold-stocks-skyrocketed-today-185705273.html"
+            }
+        ],
+        "avgScore": -0.3612,
+        "pctChange": 0.05683561790329362
     },
     "4 8 2025": {
         "importantArticles": [
@@ -299,12 +305,12 @@
         "avgScore": 0.0,
         "pctChange": 0.011589432467463363
     },
-    "coef": 0.6626170426112704,
-    "avgCoef": -0.023751856142010662,
+    "coef": 0.5558100980454104,
+    "avgCoef": -0.023437214660102564,
     "similar": {
-        "MU": 0.836827408755723,
-        "CCL": 0.8200908605806086,
-        "TSLA": 0.7782494901428225,
-        "HIMS": 0.7531446678801508
+        "XP": 0.7425987375524745,
+        "MARA": 0.7334870966009104,
+        "CLSK": 0.6833730713673078,
+        "SRAD": 0.6833730713673078
     }
 }

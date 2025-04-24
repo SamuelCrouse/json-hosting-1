@@ -496,16 +496,6 @@
     "4 7 2025": {
         "importantArticles": [
             {
-                "headline": "Building on a period of expansive growth, Carnival Cruise Line is outlining its strategic plans over the next five years with the introduction of its \"Innovation Itinerary,\" focused on three pillars: sailing the most fun fleet at sea; creating compelling experiences and destinations; and building more Carnival loyalists. The line's President Christine Duffy provided details on new ships, deployment, fleet enhancements and exclusive destinations at a media briefing today aboard Carnival Celebrati",
-                "publication_date": "2025-04-07T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.9475",
-                "source": "PR Newswire",
-                "ticker": "CCL",
-                "title": "CARNIVAL CRUISE LINE UNVEILS AN EXCITING 'INNOVATION ITINERARY' OF NEW SHIPS, FLEET ENHANCEMENTS, DEPLOYMENT PLANS AND EXCLUSIVE DESTINATIONS",
-                "url": "https://finance.yahoo.com/news/carnival-cruise-line-unveils-exciting-222500196.html"
-            },
-            {
                 "headline": "Carnival Corporation & plc (NYSE/LSE: CCL; NYSE: CUK), the world's largest cruise company, today announced an order for two new ships for the most popular cruise line in Germany, AIDA Cruises, for a new class of mid-sized vessel. The agreement with Italian shipbuilder Fincantieri provides for the design, engineering, and construction of these multi-fuel-capable ships, which will be delivered in the first quarter of fiscal years 2030 and 2032, respectively.",
                 "publication_date": "2025-04-07T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -524,6 +514,16 @@
                 "ticker": "CCL",
                 "title": "Q4 Earnings Highs And Lows: Marriott Vacations (NYSE:VAC) Vs The Rest Of The Travel and Vacation Providers Stocks",
                 "url": "https://finance.yahoo.com/news/q4-earnings-highs-lows-marriott-090634795.html"
+            },
+            {
+                "headline": "Carnival (CCL, CUK) said Sunday it is launching Carnival Festivale, the fourth ship in its Excel cla",
+                "publication_date": "2025-04-07T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4588",
+                "source": "MT Newswires",
+                "ticker": "CCL",
+                "title": "Carnival Discloses Plans for Excel Ships; Places Order for AIDA Cruises Ships",
+                "url": "https://finance.yahoo.com/news/carnival-discloses-plans-excel-ships-080032513.html"
             },
             {
                 "headline": "Carnival (CCL, CUK) said Sunday it is launching Carnival Festivale, the fourth ship in its Excel cla",
@@ -556,7 +556,7 @@
                 "url": "https://finance.yahoo.com/news/carnival-corporation-finalizes-agreement-fincantieri-063000643.html"
             }
         ],
-        "avgScore": 0.7333500000000001,
+        "avgScore": 0.6619666666666667,
         "pctChange": 0.01582472453149807
     },
     "4 4 2025": {
@@ -602,20 +602,20 @@
                 "publication_date": "2025-04-02T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
-                "source": "PR Newswire",
+                "source": "CNW Group",
                 "ticker": "CCL",
                 "title": "Queen Elizabeth joins Queen Anne in Hong Kong for first meeting with sister ship",
-                "url": "https://finance.yahoo.com/news/queen-elizabeth-joins-queen-anne-155500399.html"
+                "url": "https://finance.yahoo.com/news/queen-elizabeth-joins-queen-anne-155500645.html"
             },
             {
                 "headline": "This is the moment that Queen Elizabeth met Cunard's newest ship, Queen Anne for the very first time as the iconic Queens docked together in Hong Kong.",
                 "publication_date": "2025-04-02T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
-                "source": "PR Newswire",
+                "source": "CNW Group",
                 "ticker": "CCL",
                 "title": "Queen Elizabeth joins Queen Anne in Hong Kong for first meeting with sister ship",
-                "url": "https://finance.yahoo.com/news/queen-elizabeth-joins-queen-anne-155500399.html"
+                "url": "https://finance.yahoo.com/news/queen-elizabeth-joins-queen-anne-155500645.html"
             },
             {
                 "headline": "After a two-week drydock in Palermo, Italy, Majestic Princess has set sail with an exciting array of new venues, reimagined spaces, and refined touches in preparation for its 2025 Mediterranean season. Guests aboard the freshly renovated ship will be greeted by a host of new enhanced features, including various elevated culinary experiences and social spaces. Notable additions include the popular O'Malley's Irish Pub, Sabatini's Italian Trattoria, Alfredo's Slice, Salty Dog Caf\u00e9, Ocean Terrace S",
@@ -881,12 +881,12 @@
         "avgScore": 0.5103,
         "pctChange": -0.015522103487926958
     },
-    "coef": 0.08333333333333334,
-    "avgCoef": 0.00658409205568937,
+    "coef": 0.07352941176470588,
+    "avgCoef": 0.016034305009690414,
     "similar": {
-        "WBD": 0.2303921568627451,
-        "RIVN": 0.17892156862745098,
-        "PSLV": 0.17647058823529413,
-        "NCLH": 0.16421568627450983
+        "T": 0.28186274509803927,
+        "CMG": 0.27941176470588236,
+        "PSLV": 0.2058823529411765,
+        "WBD": 0.2034313725490196
     }
 }

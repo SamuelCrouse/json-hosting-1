@@ -45,11 +45,11 @@
         "avgScore": 0.5363,
         "pctChange": -0.06375840805515566
     },
-    "4 22 2025": {
+    "4 21 2025": {
         "importantArticles": [
             {
                 "headline": "Recursion Pharmaceuticals (RXRX) reachead $5.41 at the closing of the latest trading day, reflecting a -1.64% change compared to its last close.",
-                "publication_date": "2025-04-22T00:00:00.000Z",
+                "publication_date": "2025-04-21T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
                 "source": "Zacks",
@@ -59,7 +59,7 @@
             },
             {
                 "headline": "Recursion Pharmaceuticals (RXRX) reachead $5.41 at the closing of the latest trading day, reflecting a -1.64% change compared to its last close.",
-                "publication_date": "2025-04-22T00:00:00.000Z",
+                "publication_date": "2025-04-21T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
                 "source": "Zacks",
@@ -69,7 +69,7 @@
             }
         ],
         "avgScore": 0.0,
-        "pctChange": -0.008881028369184767
+        "pctChange": 0.040665484886112595
     },
     "4 16 2025": {
         "importantArticles": [
@@ -431,12 +431,12 @@
         "avgScore": 0.006000000000000005,
         "pctChange": -0.03241495682807617
     },
-    "coef": -0.08056054385890983,
-    "avgCoef": 0.010424534412892674,
+    "coef": -0.1225921319592106,
+    "avgCoef": 0.01432326168377903,
     "similar": {
-        "WMT": 0.4343264103697747,
-        "LCID": 0.4063053516362408,
-        "AMCR": 0.3677763958776318,
-        "VZ": 0.3327500724607145
+        "LCID": 0.49387116017853416,
+        "PSLV": 0.3082316460688724,
+        "VZ": 0.3082316460688724,
+        "VALE": 0.28021058733533855
     }
 }

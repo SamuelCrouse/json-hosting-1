@@ -307,38 +307,12 @@
         "avgScore": 0.8481,
         "pctChange": -0.0018131917111087843
     },
-    "3 24 2025": {
-        "importantArticles": [
-            {
-                "headline": "Warner Bros. Discovery (NasdaqGS:WBD) saw a price increase of 2% over the past week, coinciding with significant corporate announcements. The company's notable partnership with Tele2 AB to integrate its Max streaming service reflects an effort to enhance its global content distribution and customer experience. This move could have bolstered investor confidence, contributing to the stock's performance. Meanwhile, the broader market experienced a rise, with major indexes reacting positively to...",
-                "publication_date": "2025-03-24T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8689",
-                "source": "Simply Wall St.",
-                "ticker": "WBD",
-                "title": "Warner Bros. Discovery (NasdaqGS:WBD) Expands Max Reach Through Partnership With Tele2",
-                "url": "https://finance.yahoo.com/news/warner-bros-discovery-nasdaqgs-wbd-172405367.html"
-            },
-            {
-                "headline": "Warner Bros. Discovery (NasdaqGS:WBD) saw a price increase of 2% over the past week, coinciding with significant corporate announcements. The company's notable partnership with Tele2 AB to integrate its Max streaming service reflects an effort to enhance its global content distribution and customer experience. This move could have bolstered investor confidence, contributing to the stock's performance. Meanwhile, the broader market experienced a rise, with major indexes reacting positively to...",
-                "publication_date": "2025-03-24T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8689",
-                "source": "Simply Wall St.",
-                "ticker": "WBD",
-                "title": "Warner Bros. Discovery (NasdaqGS:WBD) Expands Max Reach Through Partnership With Tele2",
-                "url": "https://finance.yahoo.com/news/warner-bros-discovery-nasdaqgs-wbd-172405367.html"
-            }
-        ],
-        "avgScore": 0.8689,
-        "pctChange": 0.0009115109356535872
-    },
-    "coef": 0.3,
-    "avgCoef": 0.009164339971788964,
+    "coef": 0.19047619047619052,
+    "avgCoef": 0.015396304194994501,
     "similar": {
-        "RGTI": 0.5833333333333334,
-        "IAG": 0.5333333333333333,
-        "INTC": 0.5,
-        "PSLV": 0.4666666666666666
+        "IAG": 0.6428571428571429,
+        "T": 0.5714285714285715,
+        "HTZ": 0.5714285714285715,
+        "KGC": 0.5476190476190477
     }
 }

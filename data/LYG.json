@@ -63,7 +63,7 @@
             }
         ],
         "avgScore": 0.0,
-        "pctChange": 0.006426698271122124
+        "pctChange": 0.0038560067046489723
     },
     "4 17 2025": {
         "importantArticles": [
@@ -308,6 +308,26 @@
                 "url": "https://finance.yahoo.com/news/market-chatter-hsbc-holdings-lloyds-104504962.html"
             },
             {
+                "headline": "The European stock markets nosedived in Friday trading amid a global selloff sparked by newly impose",
+                "publication_date": "2025-04-04T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.296",
+                "source": "MT Newswires",
+                "ticker": "LYG",
+                "title": "European Equities Spiral in Friday Trading Amid Global Selloff Sparked by US Tariffs",
+                "url": "https://finance.yahoo.com/news/european-equities-spiral-friday-trading-161252634.html"
+            },
+            {
+                "headline": "The European stock markets nosedived in Friday trading amid a global selloff sparked by newly impose",
+                "publication_date": "2025-04-04T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.296",
+                "source": "MT Newswires",
+                "ticker": "LYG",
+                "title": "European Equities Spiral in Friday Trading Amid Global Selloff Sparked by US Tariffs",
+                "url": "https://finance.yahoo.com/news/european-equities-spiral-friday-trading-161252634.html"
+            },
+            {
                 "headline": "HSBC Holdings (HSBC) and Lloyds Banking Group (LYG) are providing about 600 million British pounds (",
                 "publication_date": "2025-04-04T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -318,7 +338,7 @@
                 "url": "https://finance.yahoo.com/news/market-chatter-hsbc-holdings-lloyds-104504962.html"
             }
         ],
-        "avgScore": 0.0,
+        "avgScore": -0.148,
         "pctChange": -0.014749340740164487
     },
     "4 3 2025": {
@@ -373,35 +393,19 @@
         "avgScore": 0.6124,
         "pctChange": -0.04427077754726731
     },
-    "3 28 2025": {
-        "importantArticles": [
-            {
-                "headline": "Lloyds (LYG) might move higher on growing optimism about its earnings prospects, which is reflected by its upgrade to a Zacks Rank #2 (Buy).",
-                "publication_date": "2025-03-28T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7506",
-                "source": "Zacks",
-                "ticker": "LYG",
-                "title": "Lloyds (LYG) Upgraded to Buy: Here's What You Should Know",
-                "url": "https://finance.yahoo.com/news/lloyds-lyg-upgraded-buy-heres-160010821.html"
-            },
-            {
-                "headline": "Lloyds (LYG) might move higher on growing optimism about its earnings prospects, which is reflected by its upgrade to a Zacks Rank #2 (Buy).",
-                "publication_date": "2025-03-28T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7506",
-                "source": "Zacks",
-                "ticker": "LYG",
-                "title": "Lloyds (LYG) Upgraded to Buy: Here's What You Should Know",
-                "url": "https://finance.yahoo.com/news/lloyds-lyg-upgraded-buy-heres-160010821.html"
-            }
-        ],
-        "avgScore": 0.7506,
-        "pctChange": -0.00520832300874798
-    },
     "3 27 2025": {
         "importantArticles": [
             {
+                "headline": "Lloyds (LYG) might move higher on growing optimism about its earnings prospects, which is reflected by its upgrade to a Zacks Rank #2 (Buy).",
+                "publication_date": "2025-03-27T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7506",
+                "source": "Zacks",
+                "ticker": "LYG",
+                "title": "Lloyds (LYG) Upgraded to Buy: Here's What You Should Know",
+                "url": "https://finance.yahoo.com/news/lloyds-lyg-upgraded-buy-heres-160010821.html"
+            },
+            {
                 "headline": "Find out the latest mortgage rates and deals from HSBC, NatWest, Santander, Barclays and more.",
                 "publication_date": "2025-03-27T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -420,9 +424,19 @@
                 "ticker": "LYG",
                 "title": "Mortgage rates to stay higher for longer amid high inflation",
                 "url": "https://finance.yahoo.com/news/best-uk-mortgage-deals-week-093052798.html"
+            },
+            {
+                "headline": "Lloyds (LYG) might move higher on growing optimism about its earnings prospects, which is reflected by its upgrade to a Zacks Rank #2 (Buy).",
+                "publication_date": "2025-03-27T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7506",
+                "source": "Zacks",
+                "ticker": "LYG",
+                "title": "Lloyds (LYG) Upgraded to Buy: Here's What You Should Know",
+                "url": "https://finance.yahoo.com/news/lloyds-lyg-upgraded-buy-heres-160010821.html"
             }
         ],
-        "avgScore": 0.0,
+        "avgScore": 0.3753,
         "pctChange": -0.010309320759049126
     },
     "3 26 2025": {
@@ -451,12 +465,12 @@
         "avgScore": 0.7964,
         "pctChange": 0.010416709963314922
     },
-    "coef": 0.44231940812534276,
-    "avgCoef": -0.025030353923032968,
+    "coef": 0.39451201583694584,
+    "avgCoef": -0.028401941656293592,
     "similar": {
-        "T": 0.7676494735787385,
-        "VZ": 0.7629970525267462,
-        "KDP": 0.6932107367468608,
-        "AGNC": 0.6885583156948685
+        "PG": 0.7981987297166114,
+        "VZ": 0.7431505414602932,
+        "KO": 0.7248011453748541,
+        "HLN": 0.7064517492894147
     }
 }

@@ -2,6 +2,16 @@
     "4 24 2025": {
         "importantArticles": [
             {
+                "headline": "Newmont (NYSE:NEM) has experienced a 26.70% increase in its share price over the last quarter. The company's robust earnings report, with sales climbing to $5,010 million and net income soaring to $1,891 million, reflects its improving financial health. Despite a 19% decline in gold production due to operational adjustments, the completion of a significant share buyback program and a consistent dividend declaration underscored shareholder value initiatives. These company-specific developments...",
+                "publication_date": "2025-04-24T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9201",
+                "source": "Simply Wall St.",
+                "ticker": "NEM",
+                "title": "Newmont (NYSE:NEM) Reports Strong Earnings Despite 19% Drop In Gold Production",
+                "url": "https://finance.yahoo.com/news/newmont-nyse-nem-reports-strong-180848981.html"
+            },
+            {
                 "headline": "Newmont Corp (NEM) achieves record first-quarter free cash flow and strengthens its balance sheet with significant divestment proceeds.",
                 "publication_date": "2025-04-24T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -20,16 +30,6 @@
                 "ticker": "NEM",
                 "title": "A Look At The Intrinsic Value Of Newmont Corporation (NYSE:NEM)",
                 "url": "https://finance.yahoo.com/news/look-intrinsic-value-newmont-corporation-110013422.html"
-            },
-            {
-                "headline": "DENVER (AP) \u2014 Newmont Corporation (NEM) on Wednesday reported first-quarter profit of $1.89 billion. On a per-share basis, the Denver-based company said it had net income of $1.68. Earnings, adjusted for non-recurring gains, came to $1.25 per share.",
-                "publication_date": "2025-04-24T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7579",
-                "source": "Associated Press Finance",
-                "ticker": "NEM",
-                "title": "Newmont: Q1 Earnings Snapshot",
-                "url": "https://finance.yahoo.com/news/newmont-q1-earnings-snapshot-201713914.html"
             },
             {
                 "headline": "DENVER, April 23, 2025--Newmont Reports First Quarter 2025 Results",
@@ -62,8 +62,8 @@
                 "url": "https://finance.yahoo.com/news/q1-2025-newmont-corporation-earnings-135055426.html"
             }
         ],
-        "avgScore": 0.41936666666666667,
-        "pctChange": 0.0028315450227296437
+        "avgScore": 0.44946428571428576,
+        "pctChange": 0.015248405147875961
     },
     "4 23 2025": {
         "importantArticles": [
@@ -78,26 +78,6 @@
                 "url": "https://finance.yahoo.com/news/au-stock-soars-87-ytd-151800484.html"
             },
             {
-                "headline": "Tariffs, AI Revolution, Gold, Trading, and the Consumer. Watch these 5 stocks this week.",
-                "publication_date": "2025-04-23T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "NEM",
-                "title": "5 Most Important Earnings Charts to Watch Right Now",
-                "url": "https://finance.yahoo.com/news/5-most-important-earnings-charts-155200428.html"
-            },
-            {
-                "headline": "Tariffs, AI Revolution, Gold, Trading, and the Consumer. Watch these 5 stocks this week.",
-                "publication_date": "2025-04-23T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "NEM",
-                "title": "5 Most Important Earnings Charts to Watch Right Now",
-                "url": "https://finance.yahoo.com/news/5-most-important-earnings-charts-155200428.html"
-            },
-            {
                 "headline": "The AngloGold Ashanti stock has been gaining lately on the back of gold prices. Let us determine whether this momentum will continue and if you should invest now.",
                 "publication_date": "2025-04-23T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -108,8 +88,8 @@
                 "url": "https://finance.yahoo.com/news/au-stock-soars-87-ytd-151800484.html"
             }
         ],
-        "avgScore": 0.21075,
-        "pctChange": 0.032831587615949925
+        "avgScore": 0.4215,
+        "pctChange": 0.04561990228346408
     },
     "4 22 2025": {
         "importantArticles": [
@@ -124,6 +104,16 @@
                 "url": "https://finance.yahoo.com/news/agnico-eagle-mines-limited-aem-131502747.html"
             },
             {
+                "headline": "Tariffs, AI Revolution, Gold, Trading, and the Consumer. Watch these 5 stocks this week.",
+                "publication_date": "2025-04-22T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "NEM",
+                "title": "5 Most Important Earnings Charts to Watch Right Now",
+                "url": "https://finance.yahoo.com/news/5-most-important-earnings-charts-155200428.html"
+            },
+            {
                 "headline": "Gold is on a historic run, fueled by uncertainty and buying by central banks and individuals. How it fits in a portfolio.",
                 "publication_date": "2025-04-22T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -142,6 +132,16 @@
                 "ticker": "NEM",
                 "title": "Gold Is Beating Everything. How to Get a Piece of the Action.",
                 "url": "https://finance.yahoo.com/m/3e48be55-4a7f-306f-901a-2fbe5a7138a0/gold-is-beating-everything-.html"
+            },
+            {
+                "headline": "Tariffs, AI Revolution, Gold, Trading, and the Consumer. Watch these 5 stocks this week.",
+                "publication_date": "2025-04-22T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "NEM",
+                "title": "5 Most Important Earnings Charts to Watch Right Now",
+                "url": "https://finance.yahoo.com/news/5-most-important-earnings-charts-155200428.html"
             },
             {
                 "headline": "Agnico (AEM) is at a 52-week high, but can investors hope for more gains in the future? We take a look at the company's fundamentals for clues.",
@@ -154,7 +154,7 @@
                 "url": "https://finance.yahoo.com/news/agnico-eagle-mines-limited-aem-131502747.html"
             }
         ],
-        "avgScore": 0.23605,
+        "avgScore": 0.15736666666666668,
         "pctChange": -0.025485870302813098
     },
     "4 21 2025": {
@@ -226,24 +226,24 @@
                 "url": "https://finance.yahoo.com/news/exploring-analyst-estimates-newmont-nem-131520991.html"
             },
             {
-                "headline": "NEM vs. TFPM: Which Stock Is the Better Value Option?",
+                "headline": "Newmont (NEM) might move higher on growing optimism about its earnings prospects, which is reflected by its upgrade to a Zacks Rank #2 (Buy).",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.6486",
+                "sentimentScore": "0.7506",
                 "source": "Zacks",
                 "ticker": "NEM",
-                "title": "NEM or TFPM: Which Is the Better Value Stock Right Now?",
-                "url": "https://finance.yahoo.com/news/nem-tfpm-better-value-stock-154008047.html"
+                "title": "All You Need to Know About Newmont (NEM) Rating Upgrade to Buy",
+                "url": "https://finance.yahoo.com/news/know-newmont-nem-rating-upgrade-160009813.html"
             },
             {
-                "headline": "The major U.S. equities indexes dropped at midday Wednesday, as semiconductor stocks tumbled amid worries about new chip export restrictions to China.",
+                "headline": "We recently published a list of Buy The Dip On These 10 Semiconductor Stocks Tumbling On China H20 Chip Sale Ban. In this article, we are going to take a look at where Newmont Corporation (NYSE:NEM) stands against other semiconductor stocks tumbling on China H20 chip sale ban. Semiconductor manufacturers are at the forefront of [\u2026]",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.4215",
-                "source": "Investopedia",
+                "sentimentScore": "-0.802",
+                "source": "Insider Monkey",
                 "ticker": "NEM",
-                "title": "Top Stock Movers Now: Nvidia, ASML, Abbot Laboratories and More",
-                "url": "https://finance.yahoo.com/news/top-stock-movers-now-nvidia-161839742.html"
+                "title": "Is Newmont Corporation (NEM) Worth Buying on the China H20 Chip Sale Ban?",
+                "url": "https://finance.yahoo.com/news/newmont-corporation-nem-worth-buying-171735339.html"
             },
             {
                 "headline": "UnitedHealth, Newmont and Sprouts Farmers Market have been highlighted in this Investment Ideas article.",
@@ -256,31 +256,21 @@
                 "url": "https://finance.yahoo.com/news/zacks-investment-ideas-feature-highlights-101400109.html"
             },
             {
-                "headline": "Agnico (AEM) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+                "headline": "Does Newmont Corporation (NEM) have what it takes to be a top stock pick for momentum investors? Let's find out.",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.2263",
+                "sentimentScore": "0.2023",
                 "source": "Zacks",
                 "ticker": "NEM",
-                "title": "Agnico Eagle Mines (AEM) Earnings Expected to Grow: Should You Buy?",
-                "url": "https://finance.yahoo.com/news/agnico-eagle-mines-aem-earnings-140055456.html"
+                "title": "Newmont Corporation (NEM) is a Great Momentum Stock: Should You Buy?",
+                "url": "https://finance.yahoo.com/news/newmont-corporation-nem-great-momentum-160003087.html"
             }
         ],
-        "avgScore": 0.3800181818181818,
+        "avgScore": 0.39515333333333336,
         "pctChange": 0.0023601533968118883
     },
     "4 16 2025": {
         "importantArticles": [
-            {
-                "headline": "Newmont has risen along with other gold stocks amid fears that inflation may spike as President Donald Trump's tariffs roll out.  Shares are yet to carve out the handle after they rallied for five days and cleared their 50-day and 200-day moving averages.  Newmont shares are in an early-stage base that can lead to higher gains after a strong breakout.",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7717",
-                "source": "Investor's Business Daily",
-                "ticker": "NEM",
-                "title": "This Stock Is Just Starting To Dazzle Amid Massive Gold Rally",
-                "url": "https://finance.yahoo.com/m/4ae1caab-7e08-3aac-aee4-20f4c0434c97/this-stock-is-just-starting.html"
-            },
             {
                 "headline": "Most readers would already be aware that Newmont's (NYSE:NEM) stock increased significantly by 32% over the past three...",
                 "publication_date": "2025-04-16T00:00:00.000Z",
@@ -302,14 +292,24 @@
                 "url": "https://finance.yahoo.com/news/newmont-corporation-nem-earnings-expected-140054988.html"
             },
             {
-                "headline": "Sprouts Farmers Market stock is climbing back after a sell-off as earnings loom. This gold stock ranks No. 1 in the top IBD industry group.",
+                "headline": "While the market continues to digest tariff headlines and other economic developments, UnitedHealth, Newmont, and Sprouts Farmers Market have all been climbing higher.",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "NEM",
+                "title": "3 Stocks Flashing Bullish Momentum",
+                "url": "https://finance.yahoo.com/news/3-stocks-flashing-bullish-momentum-150000044.html"
+            },
+            {
+                "headline": "The major U.S. equities indexes dropped at midday Wednesday, as semiconductor stocks tumbled amid worries about new chip export restrictions to China.",
                 "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.3182",
-                "source": "Investor's Business Daily",
+                "sentimentScore": "-0.4215",
+                "source": "Investopedia",
                 "ticker": "NEM",
-                "title": "Sprouts Farmers Market's Profits Keep Growing As This Gold Stock Shines",
-                "url": "https://finance.yahoo.com/m/55b4057b-2e17-385d-9104-d571be2667e5/sprouts-farmers-market-s.html"
+                "title": "Top Stock Movers Now: Nvidia, ASML, Abbot Laboratories and More",
+                "url": "https://finance.yahoo.com/news/top-stock-movers-now-nvidia-161839742.html"
             },
             {
                 "headline": "In the most recent trading session, Newmont Corporation (NEM) closed at $54.58, indicating a -0.38% shift from the previous trading day.",
@@ -332,12 +332,22 @@
                 "url": "https://finance.yahoo.com/news/newmont-completes-non-core-divestiture-130000330.html"
             }
         ],
-        "avgScore": 0.13614285714285715,
+        "avgScore": 0.013000000000000003,
         "pctChange": -0.015549578552660924
     },
     "4 15 2025": {
         "importantArticles": [
             {
+                "headline": "Newmont has risen along with other gold stocks amid fears that inflation may spike as President Donald Trump's tariffs roll out.  Shares are yet to carve out the handle after they rallied for five days and cleared their 50-day and 200-day moving averages.  Newmont shares are in an early-stage base that can lead to higher gains after a strong breakout.",
+                "publication_date": "2025-04-15T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7717",
+                "source": "Investor's Business Daily",
+                "ticker": "NEM",
+                "title": "This Stock Is Just Starting To Dazzle Amid Massive Gold Rally",
+                "url": "https://finance.yahoo.com/m/4ae1caab-7e08-3aac-aee4-20f4c0434c97/this-stock-is-just-starting.html"
+            },
+            {
                 "headline": "Ericsson Private 5G boosts mining fleet efficiency and uptime, surpassing Wi-Fi's capacity and reliability limits.",
                 "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -358,14 +368,14 @@
                 "url": "https://finance.yahoo.com/news/investors-heavily-search-newmont-corporation-130010155.html"
             },
             {
-                "headline": "The latest trading day saw Newmont Corporation (NEM) settling at $54.79, representing a -0.33% change from its previous close.",
+                "headline": "Sprouts Farmers Market stock is climbing back after a sell-off as earnings loom. This gold stock ranks No. 1 in the top IBD industry group.",
                 "publication_date": "2025-04-15T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.3182",
+                "source": "Investor's Business Daily",
                 "ticker": "NEM",
-                "title": "Newmont Corporation (NEM) Stock Dips While Market Gains: Key Facts",
-                "url": "https://finance.yahoo.com/news/newmont-corporation-nem-stock-dips-220016740.html"
+                "title": "Sprouts Farmers Market's Profits Keep Growing As This Gold Stock Shines",
+                "url": "https://finance.yahoo.com/m/55b4057b-2e17-385d-9104-d571be2667e5/sprouts-farmers-market-s.html"
             },
             {
                 "headline": "The latest trading day saw Newmont Corporation (NEM) settling at $54.79, representing a -0.33% change from its previous close.",
@@ -386,19 +396,9 @@
                 "ticker": "NEM",
                 "title": "Investors Heavily Search Newmont Corporation (NEM): Here is What You Need to Know",
                 "url": "https://finance.yahoo.com/news/investors-heavily-search-newmont-corporation-130010155.html"
-            },
-            {
-                "headline": "Ericsson Private 5G boosts mining fleet efficiency and uptime, surpassing Wi-Fi's capacity and reliability limits.",
-                "publication_date": "2025-04-15T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.5859",
-                "source": "Mining Technology",
-                "ticker": "NEM",
-                "title": "Newmont deploys Ericsson Private 5G at Australia\u2019s Cadia mine for smarter mining",
-                "url": "https://finance.yahoo.com/news/newmont-deploys-ericsson-private-5g-094728229.html"
             }
         ],
-        "avgScore": 0.3542,
+        "avgScore": 0.30322000000000005,
         "pctChange": 0.025100749100841358
     },
     "4 11 2025": {
@@ -424,47 +424,47 @@
                 "url": "https://finance.yahoo.com/news/agnico-eagle-stock-rallies-35-121300895.html"
             },
             {
-                "headline": "Shares of Newmont and other miners surged Friday, while the price of gold climbed to fresh highs as investors flocked to safe haven assets amid economic uncertainty.",
+                "headline": "With soaring gold prices and investor interest surging in the gold mining space, let us analyze which is the better pick now - AngloGold Ashanti or Newmont.",
                 "publication_date": "2025-04-11T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.6908",
-                "source": "Investopedia",
-                "ticker": "NEM",
-                "title": "Newmont and Other Miner Stocks Pop as Gold Keeps Hitting Record Highs",
-                "url": "https://finance.yahoo.com/news/newmont-other-miner-stocks-pop-143102935.html"
-            },
-            {
-                "headline": "Wondering how to pick strong, market-beating stocks for your investment portfolio? Look no further than the Zacks Style Scores.",
-                "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.2732",
+                "sentimentScore": "0.7096",
                 "source": "Zacks",
                 "ticker": "NEM",
-                "title": "Why Newmont Corporation (NEM) is a Top Momentum Stock for the Long-Term",
-                "url": "https://finance.yahoo.com/news/why-newmont-corporation-nem-top-135005014.html"
+                "title": "AU Vs NEM: Which Gold Stock is the Smarter Play Amid the Recent Rally?",
+                "url": "https://finance.yahoo.com/news/au-vs-nem-gold-stock-163500022.html"
             },
             {
-                "headline": "UBS on Friday upgraded its rating on the shares of Newmont (NGT.TO, NEM) to buy from neutral while r",
+                "headline": "Newmont  stock offers leverage to a bullish macro backdrop for gold as the yellow metal\u2019s prices are expected to rally even higher over the next two years, UBS analysts said.  The price of gold has climbed 23% this year to $3,251.30, reaching a significant milestone after crossing the $3,000 mark last month.  Consistent with previous market shocks like the 2008 financial crisis and 2020 pandemic, gold and gold equities initially were sold off and are now booming, the analysts noted.",
                 "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.296",
-                "source": "MT Newswires",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.3818",
+                "source": "Barrons.com",
                 "ticker": "NEM",
-                "title": "Newmont Upgraded to Buy at UBS as Gold Prices Rise; Price Target Raised to US$60.00",
-                "url": "https://finance.yahoo.com/news/newmont-upgraded-buy-ubs-gold-133512218.html"
+                "title": "Newmont Stock Surges. It\u2019s a Buy as Gold Prices Rally.",
+                "url": "https://finance.yahoo.com/m/135ae388-9b5f-3ebd-a9f8-58bdb9f8eb51/newmont-stock-surges-it%E2%80%99s-a.html"
             },
             {
-                "headline": "Investing.com -- UBS upgraded Newmont Corporation to \u201cBuy\u201d from \u201cNeutral\u201d and raised its price target to $60 per share, citing a more supportive macro backdrop for gold and potential for sustained shareholder returns.",
+                "headline": "The major U.S. equities indexes edged higher at midday Friday after wavering between losses and gains throughout the morning, as investors digested a slew of bank earnings and China hiked tariffs on U.S. goods.",
                 "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.5709",
-                "source": "Investing.com",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.2263",
+                "source": "Investopedia",
                 "ticker": "NEM",
-                "title": "UBS upgrades Newmont as stronger gold prices to drive cash returns, valuation",
-                "url": "https://finance.yahoo.com/news/ubs-upgrades-newmont-stronger-gold-151950002.html"
+                "title": "Top Stock Movers Now: Newmont, Texas Instruments, Intel, and More",
+                "url": "https://finance.yahoo.com/news/top-stock-movers-now-newmont-161909503.html"
+            },
+            {
+                "headline": "Three gold stocks: Which one should you buy?",
+                "publication_date": "2025-04-11T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Motley Fool",
+                "ticker": "NEM",
+                "title": "Why Newmont, Coeur Mining, and Barrick Gold Stocks Popped Today",
+                "url": "https://finance.yahoo.com/news/why-newmont-coeur-mining-barrick-162855381.html"
             }
         ],
-        "avgScore": 0.5791571428571428,
+        "avgScore": 0.3463,
         "pctChange": -0.0032745188498920475
     },
     "4 10 2025": {
@@ -480,16 +480,6 @@
                 "url": "https://finance.yahoo.com/news/why-1-growth-stock-could-134504735.html"
             },
             {
-                "headline": "Gold miners such as Newmont and Barrick Gold must win back investor confidence after years of missing targets.",
-                "publication_date": "2025-04-10T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7096",
-                "source": "Barrons.com",
-                "ticker": "NEM",
-                "title": "Gold Stocks Are Going Gangbusters. Here\u2019s What Investors Should Keep in Mind.",
-                "url": "https://finance.yahoo.com/m/b7666a28-b67a-3129-82f5-e6c713960bbe/gold-stocks-are-going.html"
-            },
-            {
                 "headline": "Agnico (AEM) witnessed a jump in share price last session on above-average trading volume. The latest trend in earnings estimate revisions for the stock suggests that there could be more strength down the road.",
                 "publication_date": "2025-04-10T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -500,14 +490,14 @@
                 "url": "https://finance.yahoo.com/news/agnico-aem-stock-jumps-5-081900500.html"
             },
             {
-                "headline": "Gold stocks could be one of the few ways to hedge your portfolio amid the ongoing tariff turmoil.",
+                "headline": "Newmont (NEM) saw its shares surge in the last session with trading volume being higher than average. The latest trend in earnings estimate revisions could translate into further price increase in the near term.",
                 "publication_date": "2025-04-10T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.3612",
-                "source": "Motley Fool",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5423",
+                "source": "Zacks",
                 "ticker": "NEM",
-                "title": "Why These Gold Stocks Skyrocketed Today, and Why You'd Want to Buy Some",
-                "url": "https://finance.yahoo.com/news/why-gold-stocks-skyrocketed-today-185705273.html"
+                "title": "Newmont (NEM) Soars 8.4%: Is Further Upside Left in the Stock?",
+                "url": "https://finance.yahoo.com/news/newmont-nem-soars-8-4-124600981.html"
             },
             {
                 "headline": "Finding stocks expected to beat quarterly earnings estimates becomes an easier task with our Zacks Earnings ESP.",
@@ -528,14 +518,34 @@
                 "ticker": "NEM",
                 "title": "Newmont (NEM) Soars 8.4%: Is Further Upside Left in the Stock?",
                 "url": "https://finance.yahoo.com/news/newmont-nem-soars-8-4-124600981.html"
+            },
+            {
+                "headline": "Agnico (AEM) witnessed a jump in share price last session on above-average trading volume. The latest trend in earnings estimate revisions for the stock suggests that there could be more strength down the road.",
+                "publication_date": "2025-04-10T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6901",
+                "source": "Zacks",
+                "ticker": "NEM",
+                "title": "Agnico (AEM) Stock Jumps 5.7%: Will It Continue to Soar?",
+                "url": "https://finance.yahoo.com/news/agnico-aem-stock-jumps-5-081900500.html"
             }
         ],
-        "avgScore": 0.48336666666666667,
+        "avgScore": 0.63795,
         "pctChange": 0.07911273464151843
     },
     "4 9 2025": {
         "importantArticles": [
             {
+                "headline": "Gold miners such as Newmont and Barrick Gold must win back investor confidence after years of missing targets.",
+                "publication_date": "2025-04-09T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7096",
+                "source": "Barrons.com",
+                "ticker": "NEM",
+                "title": "Gold Stocks Are Going Gangbusters. Here\u2019s What Investors Should Keep in Mind.",
+                "url": "https://finance.yahoo.com/m/b7666a28-b67a-3129-82f5-e6c713960bbe/gold-stocks-are-going.html"
+            },
+            {
                 "headline": "The Zacks Style Scores offers investors a way to easily find top-rated stocks based on their investing style. Here's why you should take advantage.",
                 "publication_date": "2025-04-09T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -554,6 +564,16 @@
                 "ticker": "NEM",
                 "title": "Newmont Corporation (NEM) Gains As Market Dips: What You Should Know",
                 "url": "https://finance.yahoo.com/news/newmont-corporation-nem-gains-market-215016193.html"
+            },
+            {
+                "headline": "Gold stocks could be one of the few ways to hedge your portfolio amid the ongoing tariff turmoil.",
+                "publication_date": "2025-04-09T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.3612",
+                "source": "Motley Fool",
+                "ticker": "NEM",
+                "title": "Why These Gold Stocks Skyrocketed Today, and Why You'd Want to Buy Some",
+                "url": "https://finance.yahoo.com/news/why-gold-stocks-skyrocketed-today-185705273.html"
             },
             {
                 "headline": "In the most recent trading session, Newmont Corporation (NEM) closed at $44.96, indicating a +0.22% shift from the previous trading day.",
@@ -576,7 +596,7 @@
                 "url": "https://finance.yahoo.com/news/value-investor-1-stock-could-134009107.html"
             }
         ],
-        "avgScore": 0.26335,
+        "avgScore": 0.218775,
         "pctChange": 0.044923048753004804
     },
     "4 8 2025": {
@@ -694,14 +714,14 @@
                 "url": "https://finance.yahoo.com/news/rbc-capital-markets-provides-high-150758693.html"
             },
             {
-                "headline": "The J.M. Smucker Co., Newmont and Celsius are part of the Zacks Investment Ideas article.",
+                "headline": "(Updates with price target changes.) RBC Capital Markets on Friday highlighted \"high level views\"",
                 "publication_date": "2025-04-04T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
-                "source": "Zacks",
+                "source": "MT Newswires",
                 "ticker": "NEM",
-                "title": "Zacks Investment Ideas feature highlights: The J.M. Smucker Co., Newmont and Celsius",
-                "url": "https://finance.yahoo.com/news/zacks-investment-ideas-feature-highlights-124500910.html"
+                "title": "Update: RBC Capital Markets Provides \"High Level Views\" for Gold Equities Ahead of Q1 Earnings Season",
+                "url": "https://finance.yahoo.com/news/rbc-capital-markets-provides-high-155756863.html"
             },
             {
                 "headline": "Recently, several stocks, including The J.M. Smucker Company, Newmont, and Celsius, have ignored the market's woes, showing relative strength.",
@@ -724,17 +744,17 @@
                 "url": "https://finance.yahoo.com/news/zacks-investment-ideas-feature-highlights-124500910.html"
             },
             {
-                "headline": "RBC Capital Markets on Friday highlighted \"high level views\" for certain gold equities ahead of the",
+                "headline": "(Updates with price target changes.) RBC Capital Markets on Friday highlighted \"high level views\"",
                 "publication_date": "2025-04-04T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.2732",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
                 "source": "MT Newswires",
                 "ticker": "NEM",
-                "title": "RBC Capital Markets Provides \"High Level Views\" for Gold Equities Ahead of Q1 Earnings Season",
-                "url": "https://finance.yahoo.com/news/rbc-capital-markets-provides-high-150758693.html"
+                "title": "Update: RBC Capital Markets Provides \"High Level Views\" for Gold Equities Ahead of Q1 Earnings Season",
+                "url": "https://finance.yahoo.com/news/rbc-capital-markets-provides-high-155756863.html"
             }
         ],
-        "avgScore": 0.16795,
+        "avgScore": 0.13435999999999998,
         "pctChange": 0.015391586701644222
     },
     "4 2 2025": {
@@ -1007,12 +1027,12 @@
         "avgScore": 0.2935666666666667,
         "pctChange": -0.0033648759196489163
     },
-    "coef": 0.17853457172342618,
-    "avgCoef": -0.028430133411464373,
+    "coef": 0.3787409700722394,
+    "avgCoef": -0.02608603746651369,
     "similar": {
-        "BTG": 0.4803921568627451,
-        "HL": 0.40441176470588236,
-        "CDE": 0.40196078431372556,
-        "NGD": 0.38970588235294124
+        "GOLD": 0.44272445820433437,
+        "BBD": 0.4088797653818292,
+        "HL": 0.3973168214654283,
+        "NEM": 0.3663570691434469
     }
 }

@@ -52,17 +52,17 @@
                 "url": "https://finance.yahoo.com/news/taiwan-semiconductor-manufacturing-company-limited-140849017.html"
             },
             {
-                "headline": "President Donald Trump's tariffs have spooked the stock market.  It is unclear what comes next in the trade war with China and other countries versus the U.S., with potentially large effects on global supply chains.  In fact, the best move will likely be to do the opposite and lean in while others are leaning out -- with technology stocks especially.",
+                "headline": "We recently published a list of Jim Cramer Suggests \u2018Gunboat Diplomacy\u2019 For China & Discusses These 7 Stocks. In this article, we are going to take a look at where Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) stands against other stocks that Jim Cramer discussed. In a recent appearance on CNBC\u2019s Squawk on the Street, Jim [\u2026]",
                 "publication_date": "2025-04-23T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.1779",
-                "source": "Motley Fool",
+                "sentimentScore": "-0.2263",
+                "source": "Insider Monkey",
                 "ticker": "TSM",
-                "title": "2 Tech Stocks That Could Help Set You Up for Life",
-                "url": "https://finance.yahoo.com/news/2-tech-stocks-could-help-103000893.html"
+                "title": "Jim Cramer Praises Taiwan Semiconductor (TSM): \u201cThat Earnings Call Was Spectacular\u201d",
+                "url": "https://finance.yahoo.com/news/jim-cramer-praises-taiwan-semiconductor-221345259.html"
             }
         ],
-        "avgScore": 0.3128769230769231,
+        "avgScore": 0.2743642857142857,
         "pctChange": -0.009788527366438437
     },
     "4 22 2025": {
@@ -180,16 +180,6 @@
     "4 17 2025": {
         "importantArticles": [
             {
-                "headline": "Taiwan Semiconductor Manufacturing (NYSE: TSM), popularly known as TSMC, is the world's largest semiconductor foundry, which fabricates chips for the top consumer electronics companies and chip designers across the globe.  The world's leading companies, such as Nvidia, AMD, Broadcom, Sony, and Apple, tap TSMC's plants for manufacturing chips that power personal computers (PCs), smartphones, data centers, and gaming consoles, among others.  As a result, TSMC is in a solid position to benefit from the secular growth of the global semiconductor market, which is expected to hit $2 trillion in annual revenue in 2032.",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8689",
-                "source": "Motley Fool",
-                "ticker": "TSM",
-                "title": "TSMC: Why This Semiconductor Giant Looks Like a Massive Bargain Right Now",
-                "url": "https://finance.yahoo.com/news/tsmc-why-semiconductor-giant-looks-220000368.html"
-            },
-            {
                 "headline": "The world\u2019s largest contract chip maker remains confident that it can post solid sales growth this year.",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -208,6 +198,16 @@
                 "ticker": "TSM",
                 "title": "U.S. Tech Futures Rising After TSMC Earnings Jump",
                 "url": "https://finance.yahoo.com/m/d379021d-bdb3-3a45-9fcc-c7dc5fbaf7a6/u-s-tech-futures-rising.html"
+            },
+            {
+                "headline": "On today's Market Minute, Madison Mills takes a closer look at the top stories on Wall Street. UnitedHealth Group (UNH) stock plunges after the company's earnings fell short of analyst expectations. Eli Lilly (LLY) stock surges after positive results about its weight-loss pill trial. Taiwan Semiconductor Manufacturing Company (TSM) stock is in focus after the company reported earnings and maintained its 2025 forecast despite new chip export restrictions. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6597",
+                "source": "Yahoo Finance Video",
+                "ticker": "TSM",
+                "title": "UnitedHealth tumbles, Eli Lilly climbs, TSMC holds outlook",
+                "url": "https://finance.yahoo.com/video/unitedhealth-tumbles-eli-lilly-climbs-151538903.html"
             },
             {
                 "headline": "UnitedHealth stock falls sharply after an earnings miss and cut to guidance at the health insurer, a judge rules that Alphabet\u2019s Google operates an illegal ad monopoly, and Nvidia extends losses following a warning it would record a massive charge from trade restrictions.",
@@ -240,11 +240,21 @@
                 "url": "https://finance.yahoo.com/news/taiwan-semiconductor-manufacturing-company-tsm-171055800.html"
             }
         ],
-        "avgScore": 0.08005384615384617,
+        "avgScore": 0.05271714285714292,
         "pctChange": -0.025570085292947322
     },
     "4 16 2025": {
         "importantArticles": [
+            {
+                "headline": "Taiwan Semiconductor Manufacturing (NYSE: TSM), popularly known as TSMC, is the world's largest semiconductor foundry, which fabricates chips for the top consumer electronics companies and chip designers across the globe.  The world's leading companies, such as Nvidia, AMD, Broadcom, Sony, and Apple, tap TSMC's plants for manufacturing chips that power personal computers (PCs), smartphones, data centers, and gaming consoles, among others.  As a result, TSMC is in a solid position to benefit from the secular growth of the global semiconductor market, which is expected to hit $2 trillion in annual revenue in 2032.",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8689",
+                "source": "Motley Fool",
+                "ticker": "TSM",
+                "title": "TSMC: Why This Semiconductor Giant Looks Like a Massive Bargain Right Now",
+                "url": "https://finance.yahoo.com/news/tsmc-why-semiconductor-giant-looks-220000368.html"
+            },
             {
                 "headline": "With the stock market ping-ponging from the constant shift in the Trump administration's proposed tariffs and trade policy, investors might wonder how to handle the situation.  Nvidia (NASDAQ: NVDA) has clearly established itself as the driving force behind the artificial intelligence (AI) infrastructure buildout, where its graphics processing units (GPUs) provide the power to run AI workloads.  The company has established a more than 80% market share in GPUs with its CUDA software platform, which allows developers to easily program its chips for various tasks and has a collection of libraries and tools specifically for AI.",
                 "publication_date": "2025-04-16T00:00:00.000Z",
@@ -264,16 +274,6 @@
                 "ticker": "TSM",
                 "title": "Don't expect a big increase in tech manufacturing in the US",
                 "url": "https://finance.yahoo.com/video/dont-expect-big-increase-tech-165454559.html"
-            },
-            {
-                "headline": "Robust AI chip demand is likely to have driven TSM's Q1 revenue growth, while rising operational costs could have weighed on earnings growth.",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7269",
-                "source": "Zacks",
-                "ticker": "TSM",
-                "title": "Strong AI Chip Demand to Boost Taiwan Semiconductor's Q1 Earnings",
-                "url": "https://finance.yahoo.com/news/strong-ai-chip-demand-boost-115700512.html"
             },
             {
                 "headline": "Middle Coast Investing, an investment advisor firm, released its first-quarter investor letter. A copy of the letter can be downloaded here. Middle Coast Investing had a difficult but manageable first quarter, but everyone has suffered since the Liberation Day crash at the beginning of the second quarter. To manage the volatility, the firm decided to [\u2026]",
@@ -296,17 +296,17 @@
                 "url": "https://finance.yahoo.com/news/asian-tech-stocks-slide-fresh-055536977.html"
             },
             {
-                "headline": "AI chip giant Nvidia warned that it will take a financial hit from new requirements around its H20 chips, which are aimed at the Chinese market.",
+                "headline": "Key earnings from Taiwan Semiconductor (TSM), UnitedHealth Group (UNH), American Express (AXP), and Netflix (NFLX) are set to be released Thursday, with Netflix no longer reporting its quarterly subscriber numbers. March housing data is also due, with economists forecasting declines in starts and permits. Meanwhile, markets are watching for more Federal Reserve commentary after Fed Chairman Jerome Powell\u2019s remarks on Wednesday deepened a sell-off. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime&nbsp;here.",
                 "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.2732",
-                "source": "FastCompany",
+                "sentimentScore": "-0.3976",
+                "source": "Yahoo Finance Video",
                 "ticker": "TSM",
-                "title": "Chip stocks update: Nvidia, AMD, TSMC, Intel share prices fall after Trump\u2019s export license demand",
-                "url": "https://finance.yahoo.com/news/chip-stocks-nvidia-amd-tsmc-122400228.html"
+                "title": "Netflix & UnitedHealth earnings, housing data: What to Watch",
+                "url": "https://finance.yahoo.com/video/netflix-unitedhealth-earnings-housing-data-230000837.html"
             }
         ],
-        "avgScore": 0.13141428571428568,
+        "avgScore": 0.1731555555555556,
         "pctChange": 0.0004615766141222524
     },
     "4 15 2025": {
@@ -372,7 +372,7 @@
                 "url": "https://finance.yahoo.com/news/prediction-3-stocks-thatll-worth-134500902.html"
             }
         ],
-        "avgScore": 0.04757857142857142,
+        "avgScore": 0.05123846153846153,
         "pctChange": -0.0359753613184804
     },
     "4 14 2025": {
@@ -438,7 +438,7 @@
                 "url": "https://finance.yahoo.com/news/nvidia-commits-500-billion-to-ai-infrastructure-buildout-in-us-will-bring-supercomputer-production-to-texas-143540782.html"
             }
         ],
-        "avgScore": 0.2887636363636364,
+        "avgScore": 0.26470000000000005,
         "pctChange": 0.00956112376910898
     },
     "4 11 2025": {
@@ -576,16 +576,6 @@
     "4 9 2025": {
         "importantArticles": [
             {
-                "headline": "We recently published a list of 10 Best Stocks to Buy According to Billionaire Steve Cohen. In this article, we are going to take a look at where Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) stands against other best stocks to buy according to billionaire Steve Cohen. Steve Cohen, a prominent figure in the world of [\u2026]",
-                "publication_date": "2025-04-09T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8689",
-                "source": "Insider Monkey",
-                "ticker": "TSM",
-                "title": "Is Taiwan Semiconductor Manufacturing Company Limited (TSM) the Best Stock to Buy According to Billionaire Steve Cohen?",
-                "url": "https://finance.yahoo.com/news/taiwan-semiconductor-manufacturing-company-limited-221036394.html"
-            },
-            {
                 "headline": "Conditions continue to work in favor of Taiwan Semiconductor Manufacturing (TSMC) (NYSE: TSM).  Unfortunately, the healthy state of TSMC's business did not prevent a 35% drop in the stock price since January.  Other than TSMC's equipment maker ASML, few other AI stocks are in a stronger position.",
                 "publication_date": "2025-04-09T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -606,6 +596,16 @@
                 "url": "https://finance.yahoo.com/news/us-may-fine-tsmc-1b-153142770.html"
             },
             {
+                "headline": "Semiconductor giant Intel (NASDAQ: INTC) has a new CEO ready to shake up the company after years of disappointing results.  Intel has been losing market share to AMD in its core CPU businesses, struggling to gain a foothold in the AI accelerator market, and pouring billions into new factories and manufacturing technology.  Intel is making progress on the foundry front.",
+                "publication_date": "2025-04-09T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.1531",
+                "source": "Motley Fool",
+                "ticker": "TSM",
+                "title": "Will Intel Stock Be a Trade War Winner?",
+                "url": "https://finance.yahoo.com/news/intel-stock-trade-war-winner-102000970.html"
+            },
+            {
                 "headline": "Trump Demands TSMC Build in U.S. or Face Major Tax Penalty",
                 "publication_date": "2025-04-09T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -616,16 +616,6 @@
                 "url": "https://finance.yahoo.com/news/president-trump-warns-tsmc-100-124833731.html"
             },
             {
-                "headline": "Speaking at a Republican National Congressional Committee event, Trump criticized former President Joe Biden's administration for providing a $6.6 billion grant to TSMC's U.S. unit for semiconductor production in Phoenix, Arizona, saying semiconductor companies do not need the money.  \"TSMC, I gave them no money ... all I did was say, if you don't build your plant here, you're going to pay a big tax,\" Trump said.  TSMC declined to comment.",
-                "publication_date": "2025-04-09T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.3818",
-                "source": "Reuters",
-                "ticker": "TSM",
-                "title": "Trump says he told TSMC it would pay 100% tax if it doesn't build in US",
-                "url": "https://finance.yahoo.com/news/trump-says-told-tsmc-pay-005809794.html"
-            },
-            {
                 "headline": "The probe concerns a chip TSMC manufactured that ended up in a Huawei AI processor.",
                 "publication_date": "2025-04-09T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -634,9 +624,19 @@
                 "ticker": "TSM",
                 "title": "TSMC may face $1bn-plus penalty in US export case",
                 "url": "https://finance.yahoo.com/news/tsmc-may-face-1bn-plus-100211908.html"
+            },
+            {
+                "headline": "And we take a look at Texas Instruments and Taiwan Semiconductor.",
+                "publication_date": "2025-04-09T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Motley Fool",
+                "ticker": "TSM",
+                "title": "Tesla Underdelivers",
+                "url": "https://finance.yahoo.com/news/tesla-underdelivers-134600733.html"
             }
         ],
-        "avgScore": 0.19705,
+        "avgScore": 0.14637142857142857,
         "pctChange": -0.04799996924212598
     },
     "4 8 2025": {
@@ -662,14 +662,14 @@
                 "url": "https://finance.yahoo.com/m/16ae78ce-8427-33bb-9374-0b7c4b1501de/tsmc-is-trading-so-strangely.html"
             },
             {
-                "headline": "ASML, TSMC, and Supermicro could be worth buying as the market swoons.",
+                "headline": "We recently published a list of 10 Best Stocks to Buy According to Billionaire Steve Cohen. In this article, we are going to take a look at where Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) stands against other best stocks to buy according to billionaire Steve Cohen. Steve Cohen, a prominent figure in the world of [\u2026]",
                 "publication_date": "2025-04-08T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.2263",
-                "source": "Motley Fool",
+                "sentimentScore": "0.8689",
+                "source": "Insider Monkey",
                 "ticker": "TSM",
-                "title": "Have $8,000? These 3 Stocks Could Be Bargain Buys for 2025 and Beyond.",
-                "url": "https://finance.yahoo.com/news/8-000-3-stocks-could-081000724.html"
+                "title": "Is Taiwan Semiconductor Manufacturing Company Limited (TSM) the Best Stock to Buy According to Billionaire Steve Cohen?",
+                "url": "https://finance.yahoo.com/news/taiwan-semiconductor-manufacturing-company-limited-221036394.html"
             },
             {
                 "headline": "Technology stocks have taken a big beating in recent months as the Trump administration's policies have led investors to press the panic button amid concerns that the tariff-fueled global trade war could hurt the U.S. economy and may even send it into a recession.  Investors have become risk-averse, which explains why high-flying tech stocks that were benefiting big time from the rapid adoption of cloud computing and artificial intelligence (AI) have pulled back substantially.  The tech-heavy Nasdaq Composite index, which hit its most recent high on Dec. 16 last year, has shed nearly 23% of its value since then and now trades in bear territory.",
@@ -702,7 +702,7 @@
                 "url": "https://finance.yahoo.com/news/tsmc-could-face-1b-us-193911645.html"
             }
         ],
-        "avgScore": -0.022746153846153843,
+        "avgScore": 0.0406375,
         "pctChange": 0.12293984213839357
     },
     "4 7 2025": {
@@ -860,14 +860,14 @@
                 "url": "https://finance.yahoo.com/video/intel-stock-rises-report-tsmc-210339062.html"
             },
             {
-                "headline": "(Bloomberg) -- Intel Corp. shares gained on a report that the company tentatively agreed to a Taiwan Semiconductor Manufacturing Co. joint venture, a sign the beleaguered US chipmaker is moving ahead with a plan that\u2019s been highly anticipated by investors. Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Spee",
+                "headline": "Intel and TSMC have tentatively agreed to form a joint venture that would run the U.S. company\u2019s foundry business, The Information reported Thursday.",
                 "publication_date": "2025-04-03T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.3818",
-                "source": "Bloomberg",
+                "sentimentScore": "0.2732",
+                "source": "Investopedia",
                 "ticker": "TSM",
-                "title": "Intel Gains on Report of Joint Venture Deal With TSMC",
-                "url": "https://finance.yahoo.com/news/intel-gains-report-joint-venture-193728149.html"
+                "title": "Intel, TSMC Set To Form Chipmaking Joint Venture in the US, Report Says",
+                "url": "https://finance.yahoo.com/news/intel-tsmc-set-form-chipmaking-203855803.html"
             },
             {
                 "headline": "(Bloomberg) -- Shares of Dell Technologies Inc., Apple Inc., Sonos Inc. and HP Inc. plunged Thursday after President Donald Trump announced sweeping tariffs on imports from virtually every US trading partner, a move that threatens to increase costs, slow demand and strain global supply chains.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon C",
@@ -900,15 +900,15 @@
                 "url": "https://finance.yahoo.com/news/intel-tsmc-set-form-chipmaking-203855803.html"
             }
         ],
-        "avgScore": 0.17791666666666664,
+        "avgScore": 0.13714000000000004,
         "pctChange": -0.06722583239804011
     },
-    "coef": -0.2175824175824176,
-    "avgCoef": -0.0038806216922438568,
+    "coef": 0.06813186813186813,
+    "avgCoef": 0.014227922850677243,
     "similar": {
-        "T": 0.47252747252747257,
-        "ERIC": 0.13406593406593406,
-        "KGC": 0.1164835164835165,
-        "AAL": 0.04615384615384615
+        "T": 0.5208791208791209,
+        "ERIC": 0.4197802197802198,
+        "BMY": 0.3538461538461538,
+        "AAL": 0.26593406593406593
     }
 }

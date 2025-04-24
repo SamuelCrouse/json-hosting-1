@@ -25,11 +25,37 @@
         "avgScore": 0.9217,
         "pctChange": -0.0928667662398514
     },
-    "4 3 2025": {
+    "4 4 2025": {
+        "importantArticles": [
+            {
+                "headline": "While rivals brace for tariffs, CleanSpark is stacking BTC, scaling fast, and turning power into pure profit",
+                "publication_date": "2025-04-04T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4404",
+                "source": "GuruFocus.com",
+                "ticker": "CLSK",
+                "title": "CleanSpark Just Quietly Added $1 Billion in Bitcoin--And It's Not Slowing Down",
+                "url": "https://finance.yahoo.com/news/cleanspark-just-quietly-added-1-164015758.html"
+            },
+            {
+                "headline": "While rivals brace for tariffs, CleanSpark is stacking BTC, scaling fast, and turning power into pure profit",
+                "publication_date": "2025-04-04T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4404",
+                "source": "GuruFocus.com",
+                "ticker": "CLSK",
+                "title": "CleanSpark Just Quietly Added $1 Billion in Bitcoin--And It's Not Slowing Down",
+                "url": "https://finance.yahoo.com/news/cleanspark-just-quietly-added-1-164015758.html"
+            }
+        ],
+        "avgScore": 0.4404,
+        "pctChange": 0.015027275149951277
+    },
+    "4 2 2025": {
         "importantArticles": [
             {
                 "headline": "CleanSpark (NasdaqCM:CLSK) has recently been included in major indices such as the S&P 1000 and S&P 600, reflecting its rising market prominence. Despite this positive recognition, the company's stock price experienced a 5% decline over the last month. This movement might partly reflect broader market trends, with indices like the S&P 500 impacted by global economic uncertainty and volatility arising from trade tariff concerns under President Trump's administration. The market's 3% downturn...",
-                "publication_date": "2025-04-03T00:00:00.000Z",
+                "publication_date": "2025-04-02T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.5114",
                 "source": "Simply Wall St.",
@@ -39,7 +65,7 @@
             },
             {
                 "headline": "CleanSpark (NasdaqCM:CLSK) has recently been included in major indices such as the S&P 1000 and S&P 600, reflecting its rising market prominence. Despite this positive recognition, the company's stock price experienced a 5% decline over the last month. This movement might partly reflect broader market trends, with indices like the S&P 500 impacted by global economic uncertainty and volatility arising from trade tariff concerns under President Trump's administration. The market's 3% downturn...",
-                "publication_date": "2025-04-03T00:00:00.000Z",
+                "publication_date": "2025-04-02T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.5114",
                 "source": "Simply Wall St.",
@@ -49,14 +75,14 @@
             }
         ],
         "avgScore": -0.5114,
-        "pctChange": -0.01214570547962483
+        "pctChange": -0.07605992213642061
     },
-    "coef": -0.9999999999999999,
-    "avgCoef": -0.024157077860461857,
+    "coef": -0.5,
+    "avgCoef": -0.019728303286615376,
     "similar": {
-        "SPY": 0.9999999999999999,
-        "NVDA": 0.9999999999999999,
-        "TSLA": 0.9999999999999999,
-        "PLTR": 0.9999999999999999
+        "NOK": 1.0,
+        "NU": 1.0,
+        "PSLV": 1.0,
+        "NGD": 1.0
     }
 }

@@ -1,4 +1,70 @@
 {
+    "4 25 2025": {
+        "importantArticles": [
+            {
+                "headline": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was down 0.3% and the actively tr",
+                "publication_date": "2025-04-25T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6808",
+                "source": "MT Newswires",
+                "ticker": "SPY",
+                "title": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Friday as Trade Tensions Temper Market Gains",
+                "url": "https://finance.yahoo.com/news/exchange-traded-funds-equity-futures-123555069.html"
+            },
+            {
+                "headline": "US stocks gained after a mostly upbeat day on Wall Street, driven by fresh signs President Trump is aiming to strike a trade deal with China.",
+                "publication_date": "2025-04-25T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5267",
+                "source": "Yahoo Finance",
+                "ticker": "SPY",
+                "title": "Stock market today: Dow jumps 500 points, Nasdaq surges as Wall Street rallies for 3rd day on easing trade tensions",
+                "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-jumps-500-points-nasdaq-surges-as-wall-street-rallies-for-3rd-day-on-easing-trade-tensions-200311444.html"
+            },
+            {
+                "headline": "President Donald Trump stated in a Truth Social post: \u201cBoeing (BA) should default China for not taking the beautifully finished planes that China committed to purchase. This is just a small example of what China has done to the USA, for years\u2026 And, by the way, Fentanyl continues to pour into our Country from China, through Mexico and Canada, killing hundreds of thousands of our people, and it better stop, NOW!\u201d Published first on TheFly \u2013 the ultimate source for real-time, market-moving breaking",
+                "publication_date": "2025-04-25T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5559",
+                "source": "TipRanks",
+                "ticker": "SPY",
+                "title": "Boeing \u2018should default China\u2019 for not taking committed planes, Trump says",
+                "url": "https://finance.yahoo.com/news/boeing-default-china-not-taking-145531966.html"
+            },
+            {
+                "headline": "President Donald Trump stated in a Truth Social post: \u201cBoeing (BA) should default China for not taking the beautifully finished planes that China committed to purchase. This is just a small example of what China has done to the USA, for years\u2026 And, by the way, Fentanyl continues to pour into our Country from China, through Mexico and Canada, killing hundreds of thousands of our people, and it better stop, NOW!\u201d Published first on TheFly \u2013 the ultimate source for real-time, market-moving breaking",
+                "publication_date": "2025-04-25T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5559",
+                "source": "TipRanks",
+                "ticker": "SPY",
+                "title": "Boeing \u2018should default China\u2019 for not taking committed planes, Trump says",
+                "url": "https://finance.yahoo.com/news/boeing-default-china-not-taking-145531966.html"
+            },
+            {
+                "headline": "US stocks gained after a mostly upbeat day on Wall Street, driven by fresh signs President Trump is aiming to strike a trade deal with China.",
+                "publication_date": "2025-04-25T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5267",
+                "source": "Yahoo Finance",
+                "ticker": "SPY",
+                "title": "Stock market today: Dow jumps 500 points, Nasdaq surges as Wall Street rallies for 3rd day on easing trade tensions",
+                "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-jumps-500-points-nasdaq-surges-as-wall-street-rallies-for-3rd-day-on-easing-trade-tensions-200311444.html"
+            },
+            {
+                "headline": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was down 0.3% and the actively tr",
+                "publication_date": "2025-04-25T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6808",
+                "source": "MT Newswires",
+                "ticker": "SPY",
+                "title": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Friday as Trade Tensions Temper Market Gains",
+                "url": "https://finance.yahoo.com/news/exchange-traded-funds-equity-futures-123555069.html"
+            }
+        ],
+        "avgScore": 0.21720000000000003,
+        "pctChange": 0.005972099682972258
+    },
     "4 24 2025": {
         "importantArticles": [
             {
@@ -12,14 +78,14 @@
                 "url": "https://finance.yahoo.com/news/exchange-traded-funds-equity-futures-121626741.html"
             },
             {
-                "headline": "US stocks gained after a mostly upbeat day on Wall Street, driven by fresh signs President Trump is aiming to strike a trade deal with China.",
+                "headline": "- The S&P 500 tested resistance on Wednesday following comments from President Trump. - Gains faded by midday as technical traders took profits.",
                 "publication_date": "2025-04-24T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.5267",
-                "source": "Yahoo Finance",
+                "sentimentScore": "0.6486",
+                "source": "etf.com",
                 "ticker": "SPY",
-                "title": "Stock market today: Dow jumps 500 points, Nasdaq surges nearly 3% as Wall Street rallies for 3rd straight day",
-                "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-jumps-500-points-nasdaq-surges-nearly-3-as-wall-street-rallies-for-3rd-straight-day-200311017.html"
+                "title": "Trump's Comments Help S 500 Test Key Level",
+                "url": "https://finance.yahoo.com/news/trumps-comments-help-500-test-224505898.html"
             },
             {
                 "headline": "Deutsche Bank lowered its S&P 500 forecast to 6,150 from 7,000 as the firm expects President Trump's tariffs to weigh on profits.",
@@ -32,6 +98,16 @@
                 "url": "https://finance.yahoo.com/news/wall-street-bull-slashes-outlook-for-sp-500-citing-trump-tariff-impacts-142610704.html"
             },
             {
+                "headline": "US stocks jumped after President Trump said he has \"no intention\" of firing Federal Reserve Chair Jerome Powell, easing fears on Wall Street that the central bank's independence was under threat.",
+                "publication_date": "2025-04-24T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.8316",
+                "source": "Yahoo Finance",
+                "ticker": "SPY",
+                "title": "Stock market today: Dow rises 400 points, Nasdaq gains 2.5%, but mega-rally fades in late trading",
+                "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-rises-400-points-nasdaq-gains-25-but-mega-rally-fades-in-late-trading-133419757.html"
+            },
+            {
                 "headline": "Deutsche Bank lowered its S&P 500 forecast to 6,150 from 7,000 as the firm expects President Trump's tariffs to weigh on profits.",
                 "publication_date": "2025-04-24T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -42,31 +118,31 @@
                 "url": "https://finance.yahoo.com/news/wall-street-bull-slashes-outlook-for-sp-500-citing-trump-tariff-impacts-142610704.html"
             },
             {
-                "headline": "US stocks gained after a mostly upbeat day on Wall Street, driven by fresh signs President Trump is aiming to strike a trade deal with China.",
+                "headline": "- The S&P 500 tested resistance on Wednesday following comments from President Trump. - Gains faded by midday as technical traders took profits.",
                 "publication_date": "2025-04-24T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.5267",
-                "source": "Yahoo Finance",
+                "sentimentScore": "0.6486",
+                "source": "etf.com",
                 "ticker": "SPY",
-                "title": "Stock market today: Dow jumps 500 points, Nasdaq surges nearly 3% as Wall Street rallies for 3rd straight day",
-                "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-jumps-500-points-nasdaq-surges-nearly-3-as-wall-street-rallies-for-3rd-straight-day-200311017.html"
-            },
-            {
-                "headline": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was down 0.3% and the actively tr",
-                "publication_date": "2025-04-24T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6808",
-                "source": "MT Newswires",
-                "ticker": "SPY",
-                "title": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Thursday Amid Uncertain Trade Policies, Mixed Earnings",
-                "url": "https://finance.yahoo.com/news/exchange-traded-funds-equity-futures-121626741.html"
+                "title": "Trump's Comments Help S 500 Test Key Level",
+                "url": "https://finance.yahoo.com/news/trumps-comments-help-500-test-224505898.html"
             }
         ],
-        "avgScore": 0.5158333333333334,
-        "pctChange": 0.018585236274041655
+        "avgScore": 0.20945,
+        "pctChange": 0.005898535542547931
     },
     "4 23 2025": {
         "importantArticles": [
+            {
+                "headline": "US stocks were mixed after Google parent Alphabet reported strong earnings results and Wall Street saw its third day of gains on renewed hope of trade deals.",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8225",
+                "source": "Yahoo Finance",
+                "ticker": "SPY",
+                "title": "Stock market today: S&P 500, Nasdaq rise as Tesla, Nvidia lead tech higher for fourth straight session",
+                "url": "https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-rise-as-tesla-nvidia-lead-tech-higher-for-fourth-straight-session-133034234.html"
+            },
             {
                 "headline": "Many investors start their journey by buying stocks they like, chasing dividends, or diversifying across various assets, only to later realize their portfolio needs a serious overhaul. Whether it's portfolio allocation, dividend investing, or early retirement planning, the right strategy depends on clear financial goals. There are investors who hunt for high-yield dividends while others prioritize growth, only to find that their holdings are too scattered or underperforming. Don't Miss: Deloitte",
                 "publication_date": "2025-04-23T00:00:00.000Z",
@@ -88,26 +164,6 @@
                 "url": "https://finance.yahoo.com/news/exchange-traded-funds-equity-futures-124355007.html"
             },
             {
-                "headline": "- The S&P 500 tested resistance on Wednesday following comments from President Trump. - Gains faded by midday as technical traders took profits.",
-                "publication_date": "2025-04-23T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6486",
-                "source": "etf.com",
-                "ticker": "SPY",
-                "title": "Trump's Comments Help S 500 Test Key Level",
-                "url": "https://finance.yahoo.com/news/trumps-comments-help-500-test-224505898.html"
-            },
-            {
-                "headline": "US stocks jumped after President Trump said he has \"no intention\" of firing Federal Reserve Chair Jerome Powell, easing fears on Wall Street that the central bank's independence was under threat.",
-                "publication_date": "2025-04-23T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.8316",
-                "source": "Yahoo Finance",
-                "ticker": "SPY",
-                "title": "Stock market today: Dow rises 400 points, Nasdaq gains 2.5%, but mega-rally fades in late trading",
-                "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-rises-400-points-nasdaq-gains-25-but-mega-rally-fades-in-late-trading-133419757.html"
-            },
-            {
                 "headline": "President Trump hinted at a trade war deescalation with China and said he has \"no intention of firing\" Fed Chair Jerome Powell, sending stocks soaring on Wednesday.",
                 "publication_date": "2025-04-23T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -116,6 +172,16 @@
                 "ticker": "SPY",
                 "title": "Trump comments on Fed Chair Powell, trade war with China show he's starting to 'feel the market'",
                 "url": "https://finance.yahoo.com/news/trump-comments-on-fed-chair-powell-trade-war-with-china-show-hes-starting-to-feel-the-market-141945118.html"
+            },
+            {
+                "headline": "US stocks recovered some losses on Tuesday after a bruising start to the week, marked by renewed criticism of Federal Reserve Chair Jerome Powell by President Trump.",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.6808",
+                "source": "Yahoo Finance",
+                "ticker": "SPY",
+                "title": "Stock market today: Dow gains 1,000 points, S&P 500 and Nasdaq gain over 2.5% on signs of tariff progress",
+                "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-gains-1000-points-sp-500-and-nasdaq-gain-over-25-on-signs-of-tariff-progress-200233354.html"
             },
             {
                 "headline": "Economic activity sank in April, according to S&P Global's latest survey data, as respondents digested President Trump's latest tariff announcements.",
@@ -128,7 +194,7 @@
                 "url": "https://finance.yahoo.com/news/us-economic-output-hits-16-month-low-in-april-expectations-crater-153056832.html"
             }
         ],
-        "avgScore": 0.13952857142857142,
+        "avgScore": 0.2153625,
         "pctChange": 0.021048933343866462
     },
     "4 22 2025": {
@@ -144,24 +210,24 @@
                 "url": "https://finance.yahoo.com/news/exchange-traded-funds-equity-futures-123136498.html"
             },
             {
-                "headline": "- The QQQ issuer said assets in its ETF/index business rose to $491 billion. - Assets in the firm's flagship QQQ fell 6.8%. - Total company AUM was mostly unchanged from the previous quarter.",
+                "headline": "Investors prepared for another week of developments on President Trump's fast-moving tariff policies and for the kickoff of Big Tech earnings reports.",
                 "publication_date": "2025-04-22T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.4215",
-                "source": "etf.com",
-                "ticker": "SPY",
-                "title": "Invesco First-Quarter ETF Unit Assets Inch Up 1.3%",
-                "url": "https://finance.yahoo.com/news/invesco-first-quarter-etf-unit-211500248.html"
-            },
-            {
-                "headline": "US stocks recovered some losses on Tuesday after a bruising start to the week, marked by renewed criticism of Federal Reserve Chair Jerome Powell by President Trump.",
-                "publication_date": "2025-04-22T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.6808",
+                "sentimentScore": "0.2263",
                 "source": "Yahoo Finance",
                 "ticker": "SPY",
-                "title": "Stock market today: Dow gains 1,000 points, S&P 500 and Nasdaq gain over 2.5% on signs of tariff progress",
-                "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-gains-1000-points-sp-500-and-nasdaq-gain-over-25-on-signs-of-tariff-progress-200233354.html"
+                "title": "Stock market today: Dow drops 950 points, S&P 500, Nasdaq tumble as Trump bashes Fed's Powell again",
+                "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-drops-950-points-sp-500-nasdaq-tumble-as-trump-bashes-feds-powell-again-200049063.html"
+            },
+            {
+                "headline": "- Total daily inflows topped $8.2 billion, led by short-term bonds and semiconductors. - Here are the daily fund flows for Thursday, April 17.",
+                "publication_date": "2025-04-22T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "etf.com",
+                "ticker": "SPY",
+                "title": "Equity ETFs Lead Inflows, but Investors Still Seek Safety",
+                "url": "https://finance.yahoo.com/news/equity-etfs-lead-inflows-investors-233000433.html"
             },
             {
                 "headline": "President Trump's attacks on Fed Chair Jerome Powell are adding to the chaos in markets as investors face an increasingly uncertain outlook.",
@@ -174,27 +240,27 @@
                 "url": "https://finance.yahoo.com/news/new-world-disorder-trumps-attacks-on-powell-add-to-uncertainty-for-stocks-080057009.html"
             },
             {
-                "headline": "US stocks recovered some losses on Tuesday after a bruising start to the week, marked by renewed criticism of Federal Reserve Chair Jerome Powell by President Trump.",
+                "headline": "- Total daily inflows topped $8.2 billion, led by short-term bonds and semiconductors. - Here are the daily fund flows for Thursday, April 17.",
                 "publication_date": "2025-04-22T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.6808",
-                "source": "Yahoo Finance",
-                "ticker": "SPY",
-                "title": "Stock market today: Dow gains 1,000 points, S&P 500 and Nasdaq gain over 2.5% on signs of tariff progress",
-                "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-gains-1000-points-sp-500-and-nasdaq-gain-over-25-on-signs-of-tariff-progress-200233354.html"
-            },
-            {
-                "headline": "- The QQQ issuer said assets in its ETF/index business rose to $491 billion. - Assets in the firm's flagship QQQ fell 6.8%. - Total company AUM was mostly unchanged from the previous quarter.",
-                "publication_date": "2025-04-22T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4215",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
                 "source": "etf.com",
                 "ticker": "SPY",
-                "title": "Invesco First-Quarter ETF Unit Assets Inch Up 1.3%",
-                "url": "https://finance.yahoo.com/news/invesco-first-quarter-etf-unit-211500248.html"
+                "title": "Equity ETFs Lead Inflows, but Investors Still Seek Safety",
+                "url": "https://finance.yahoo.com/news/equity-etfs-lead-inflows-investors-233000433.html"
+            },
+            {
+                "headline": "Investors prepared for another week of developments on President Trump's fast-moving tariff policies and for the kickoff of Big Tech earnings reports.",
+                "publication_date": "2025-04-22T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.2263",
+                "source": "Yahoo Finance",
+                "ticker": "SPY",
+                "title": "Stock market today: Dow drops 950 points, S&P 500, Nasdaq tumble as Trump bashes Fed's Powell again",
+                "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-drops-950-points-sp-500-nasdaq-tumble-as-trump-bashes-feds-powell-again-200049063.html"
             }
         ],
-        "avgScore": -0.10252499999999998,
+        "avgScore": 0.018875000000000003,
         "pctChange": 0.015495463082325746
     },
     "4 21 2025": {
@@ -210,24 +276,14 @@
                 "url": "https://finance.yahoo.com/news/exchange-traded-funds-equity-futures-122916956.html"
             },
             {
-                "headline": "Investors prepared for another week of developments on President Trump's fast-moving tariff policies and for the kickoff of Big Tech earnings reports.",
-                "publication_date": "2025-04-21T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.2263",
-                "source": "Yahoo Finance",
-                "ticker": "SPY",
-                "title": "Stock market today: Dow drops 950 points, S&P 500, Nasdaq tumble as Trump bashes Fed's Powell again",
-                "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-drops-950-points-sp-500-nasdaq-tumble-as-trump-bashes-feds-powell-again-200049063.html"
-            },
-            {
-                "headline": "- Total daily inflows topped $8.2 billion, led by short-term bonds and semiconductors. - Here are the daily fund flows for Thursday, April 17.",
+                "headline": "More than 100 S&P 500 companies are set to report earnings as the market looks to find footing as the fallout from President Trump's tariffs has sent stocks into a tailspin.",
                 "publication_date": "2025-04-21T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
-                "source": "etf.com",
+                "source": "Yahoo Finance",
                 "ticker": "SPY",
-                "title": "Equity ETFs Lead Inflows, but Investors Still Seek Safety",
-                "url": "https://finance.yahoo.com/news/equity-etfs-lead-inflows-investors-233000433.html"
+                "title": "Tesla, Alphabet highlight earnings rush as tariff fallout drives markets: What to know this week",
+                "url": "https://finance.yahoo.com/news/tesla-alphabet-highlight-earnings-rush-as-tariff-fallout-drives-markets-what-to-know-this-week-113916050.html"
             },
             {
                 "headline": "More than 100 S&P 500 companies are set to report earnings as the market looks to find footing as the fallout from President Trump's tariffs has sent stocks into a tailspin.",
@@ -240,41 +296,21 @@
                 "url": "https://finance.yahoo.com/news/tesla-alphabet-highlight-earnings-rush-as-tariff-fallout-drives-markets-what-to-know-this-week-113916050.html"
             },
             {
-                "headline": "- Total daily inflows topped $8.2 billion, led by short-term bonds and semiconductors. - Here are the daily fund flows for Thursday, April 17.",
-                "publication_date": "2025-04-21T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "etf.com",
-                "ticker": "SPY",
-                "title": "Equity ETFs Lead Inflows, but Investors Still Seek Safety",
-                "url": "https://finance.yahoo.com/news/equity-etfs-lead-inflows-investors-233000433.html"
-            },
-            {
-                "headline": "Investors prepared for another week of developments on President Trump's fast-moving tariff policies and for the kickoff of Big Tech earnings reports.",
+                "headline": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was down 1.2%, and the actively t",
                 "publication_date": "2025-04-21T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.2263",
-                "source": "Yahoo Finance",
+                "sentimentScore": "0.6808",
+                "source": "MT Newswires",
                 "ticker": "SPY",
-                "title": "Stock market today: Dow drops 950 points, S&P 500, Nasdaq tumble as Trump bashes Fed's Powell again",
-                "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-drops-950-points-sp-500-nasdaq-tumble-as-trump-bashes-feds-powell-again-200049063.html"
+                "title": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Monday as Caution Deepens Amid Intensifying Tariff Escalations",
+                "url": "https://finance.yahoo.com/news/exchange-traded-funds-equity-futures-122916956.html"
             }
         ],
-        "avgScore": 0.226775,
+        "avgScore": 0.3404,
         "pctChange": 0.026017737584937663
     },
     "4 17 2025": {
         "importantArticles": [
-            {
-                "headline": "Buy-and-hold is a smart strategy for investors looking to stay in the market in the long term. Look at ETFs to make it easy.",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6808",
-                "source": "Zacks",
-                "ticker": "SPY",
-                "title": "Build Wealth With Buy and Hold Strategy: ETFs for Long-term Investors",
-                "url": "https://finance.yahoo.com/news/build-wealth-buy-hold-strategy-183900575.html"
-            },
             {
                 "headline": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was up 0.5% and the actively trad",
                 "publication_date": "2025-04-17T00:00:00.000Z",
@@ -284,26 +320,6 @@
                 "ticker": "SPY",
                 "title": "Exchange-Traded Funds Higher, Equity Futures Mixed Pre-Bell Thursday as Investors Await Key Reports Followed by Fed Governor Speech",
                 "url": "https://finance.yahoo.com/news/exchange-traded-funds-higher-equity-121434687.html"
-            },
-            {
-                "headline": "- The SPDR Gold Shares (GLD) pulled in $415.6 million in new assets. - Here are the daily ETF fund flows for April 17, 2025.",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4404",
-                "source": "etf.com",
-                "ticker": "SPY",
-                "title": "GLD Attracts $416 Million Amid Broad Market Selloff",
-                "url": "https://finance.yahoo.com/news/gld-attracts-416-million-amid-230000633.html"
-            },
-            {
-                "headline": "US stock futures traded flat on the heels of a bruising day on Wall Street that underscored fears over the economic impact of President Trump's tariffs.",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.4215",
-                "source": "Yahoo Finance",
-                "ticker": "SPY",
-                "title": "Stock market today: Dow slides as UnitedHealth plunges, Nasdaq, S&P 500 sputter to end down week",
-                "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-slides-as-unitedhealth-plunges-nasdaq-sp-500-sputter-to-end-down-week-133036720.html"
             },
             {
                 "headline": "The uncertainty spawned from President Trump's tariffs is sinking Federal Reserve surveys on activity in both the manufacturing and services sectors.",
@@ -316,17 +332,47 @@
                 "url": "https://finance.yahoo.com/news/federal-reserve-surveys-offer-early-look-at-challenges-trumps-tariff-plans-create-for-us-manufacturers-144936641.html"
             },
             {
-                "headline": "- The No. 3 ETF issuer pulled in net $1 billion in flows during the quarter. - Investors put net $9 billion into fixed income and $8 billion into real estate and other alternatives. - Its flagship ETF, SPY, had $20.1 billion in net outflows.",
+                "headline": "US stocks fell after Nvidia revealed costly new curbs on chip exports to China, and investors grappled with uncertainty over President Trump's trade policy.",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.2023",
-                "source": "etf.com",
+                "sentimentScore": "-0.4215",
+                "source": "Yahoo Finance",
                 "ticker": "SPY",
-                "title": "State Street Sees $16 Billion Flow From Equity ETFs in Q1",
-                "url": "https://finance.yahoo.com/news/state-street-sees-16-billion-210000821.html"
+                "title": "Stock market today: Dow, S&P 500, Nasdaq smoked as Powell warns of 'challenging' tariff impact, Nvidia plunges 7%",
+                "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-smoked-as-powell-warns-of-challenging-tariff-impact-nvidia-plunges-7-133757963.html"
+            },
+            {
+                "headline": "US stocks fell after Nvidia revealed costly new curbs on chip exports to China, and investors grappled with uncertainty over President Trump's trade policy.",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.4215",
+                "source": "Yahoo Finance",
+                "ticker": "SPY",
+                "title": "Stock market today: Dow, S&P 500, Nasdaq smoked as Powell warns of 'challenging' tariff impact, Nvidia plunges 7%",
+                "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-smoked-as-powell-warns-of-challenging-tariff-impact-nvidia-plunges-7-133757963.html"
+            },
+            {
+                "headline": "The uncertainty spawned from President Trump's tariffs is sinking Federal Reserve surveys on activity in both the manufacturing and services sectors.",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.34",
+                "source": "Yahoo Finance",
+                "ticker": "SPY",
+                "title": "Federal Reserve surveys offer early look at challenges Trump's tariff plans create for US manufacturers",
+                "url": "https://finance.yahoo.com/news/federal-reserve-surveys-offer-early-look-at-challenges-trumps-tariff-plans-create-for-us-manufacturers-144936641.html"
+            },
+            {
+                "headline": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was up 0.5% and the actively trad",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6808",
+                "source": "MT Newswires",
+                "ticker": "SPY",
+                "title": "Exchange-Traded Funds Higher, Equity Futures Mixed Pre-Bell Thursday as Investors Await Key Reports Followed by Fed Governor Speech",
+                "url": "https://finance.yahoo.com/news/exchange-traded-funds-higher-equity-121434687.html"
             }
         ],
-        "avgScore": 0.17208888888888885,
+        "avgScore": -0.026900000000000018,
         "pctChange": -0.023802680232045147
     },
     "4 16 2025": {
@@ -362,14 +408,14 @@
                 "url": "https://finance.yahoo.com/news/eu-u-officials-made-little-142733978.html"
             },
             {
-                "headline": "US stocks fell after Nvidia revealed costly new curbs on chip exports to China, and investors grappled with uncertainty over President Trump's trade policy.",
+                "headline": "US stocks fell as President Trump's rapid trade policy shifts kept investors on edge ahead of the next batch of corporate earnings.",
                 "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.4215",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
                 "source": "Yahoo Finance",
                 "ticker": "SPY",
-                "title": "Stock market today: Dow, S&P 500, Nasdaq smoked as Powell warns of 'challenging' tariff impact, Nvidia plunges 7%",
-                "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-smoked-as-powell-warns-of-challenging-tariff-impact-nvidia-plunges-7-133757963.html"
+                "title": "Stock market today: Dow, S&P 500, Nasdaq drift lower as tariff chaos pauses for a day",
+                "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-drift-lower-as-tariff-chaos-pauses-for-a-day-200217456.html"
             },
             {
                 "headline": "In a post to Truth Social, President Donald Trump stated: \u201cOur farmers are GREAT, but because of their GREATNESS, they are always put on the Front Line with our adversaries, such as China, whenever there is a Trade negotiation or, in this case, a Trade War. The same thing happened in my First Term. China was brutal to our Farmers, I these Patriots to just hold on, and a great trade deal was made. I rewarded our farmers with a payment of $28 Billion Dollars, all through the China deal. It was a g",
@@ -392,7 +438,7 @@
                 "url": "https://finance.yahoo.com/news/eu-u-officials-made-little-142733978.html"
             }
         ],
-        "avgScore": 0.17021999999999998,
+        "avgScore": 0.25451999999999997,
         "pctChange": 0.0014267778379880296
     },
     "4 15 2025": {
@@ -408,57 +454,57 @@
                 "url": "https://finance.yahoo.com/news/exchange-traded-funds-equity-futures-123723544.html"
             },
             {
-                "headline": "US stocks fell as President Trump's rapid trade policy shifts kept investors on edge ahead of the next batch of corporate earnings.",
-                "publication_date": "2025-04-15T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Yahoo Finance",
-                "ticker": "SPY",
-                "title": "Stock market today: Dow, S&P 500, Nasdaq drift lower as tariff chaos pauses for a day",
-                "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-drift-lower-as-tariff-chaos-pauses-for-a-day-200217456.html"
-            },
-            {
-                "headline": "One of the biggest two-day sell-offs in stock market history saw investors pile into the stock market earlier this month.",
-                "publication_date": "2025-04-15T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Yahoo Finance",
-                "ticker": "SPY",
-                "title": "Investors aggressively buy the dip as Trump's tariff turmoil continues to shake markets",
-                "url": "https://finance.yahoo.com/news/investors-aggressively-buy-the-dip-as-trumps-tariff-turmoil-continues-to-shake-markets-133641635.html"
-            },
-            {
-                "headline": "One of the biggest two-day sell-offs in stock market history saw investors pile into the stock market earlier this month.",
-                "publication_date": "2025-04-15T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Yahoo Finance",
-                "ticker": "SPY",
-                "title": "Investors aggressively buy the dip as Trump's tariff turmoil continues to shake markets",
-                "url": "https://finance.yahoo.com/news/investors-aggressively-buy-the-dip-as-trumps-tariff-turmoil-continues-to-shake-markets-133641635.html"
-            },
-            {
-                "headline": "US stocks fell as President Trump's rapid trade policy shifts kept investors on edge ahead of the next batch of corporate earnings.",
-                "publication_date": "2025-04-15T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Yahoo Finance",
-                "ticker": "SPY",
-                "title": "Stock market today: Dow, S&P 500, Nasdaq drift lower as tariff chaos pauses for a day",
-                "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-drift-lower-as-tariff-chaos-pauses-for-a-day-200217456.html"
-            },
-            {
-                "headline": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was down 0.4% and the actively tr",
+                "headline": "Wall Street had its best week since 2023 despite the tariff-led volatility.",
                 "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.6808",
-                "source": "MT Newswires",
+                "sentimentScore": "0.6369",
+                "source": "Zacks",
                 "ticker": "SPY",
-                "title": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Tuesday as Tariffs Threat Still Looms",
-                "url": "https://finance.yahoo.com/news/exchange-traded-funds-equity-futures-123723544.html"
+                "title": "Top ETF Stories of Last Week",
+                "url": "https://finance.yahoo.com/news/top-etf-stories-last-week-173400787.html"
+            },
+            {
+                "headline": "One of the biggest two-day sell-offs in stock market history saw investors pile into the stock market earlier this month.",
+                "publication_date": "2025-04-15T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Yahoo Finance",
+                "ticker": "SPY",
+                "title": "Investors aggressively buy the dip as Trump's tariff turmoil continues to shake markets",
+                "url": "https://finance.yahoo.com/news/investors-aggressively-buy-the-dip-as-trumps-tariff-turmoil-continues-to-shake-markets-133641635.html"
+            },
+            {
+                "headline": "Wall Street is bracing for another week of tariff-fueled whiplash.",
+                "publication_date": "2025-04-15T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Yahoo Finance",
+                "ticker": "SPY",
+                "title": "Stock market today: Dow, S&P 500, Nasdaq rally for 2nd day, Apple jumps on tech tariff reprieve",
+                "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rally-for-2nd-day-apple-jumps-on-tech-tariff-reprieve-200038586.html"
+            },
+            {
+                "headline": "One of the biggest two-day sell-offs in stock market history saw investors pile into the stock market earlier this month.",
+                "publication_date": "2025-04-15T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Yahoo Finance",
+                "ticker": "SPY",
+                "title": "Investors aggressively buy the dip as Trump's tariff turmoil continues to shake markets",
+                "url": "https://finance.yahoo.com/news/investors-aggressively-buy-the-dip-as-trumps-tariff-turmoil-continues-to-shake-markets-133641635.html"
+            },
+            {
+                "headline": "Wall Street had its best week since 2023 despite the tariff-led volatility.",
+                "publication_date": "2025-04-15T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6369",
+                "source": "Zacks",
+                "ticker": "SPY",
+                "title": "Top ETF Stories of Last Week",
+                "url": "https://finance.yahoo.com/news/top-etf-stories-last-week-173400787.html"
             }
         ],
-        "avgScore": 0.22693333333333332,
+        "avgScore": 0.32942499999999997,
         "pctChange": -0.022228032463379017
     },
     "4 14 2025": {
@@ -474,16 +520,6 @@
                 "url": "https://finance.yahoo.com/news/exchange-traded-funds-equity-futures-120618236.html"
             },
             {
-                "headline": "Wall Street had its best week since 2023 despite the tariff-led volatility.",
-                "publication_date": "2025-04-14T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6369",
-                "source": "Zacks",
-                "ticker": "SPY",
-                "title": "Top ETF Stories of Last Week",
-                "url": "https://finance.yahoo.com/news/top-etf-stories-last-week-173400787.html"
-            },
-            {
                 "headline": "Though the Oracle of Omaha doesn't offer stock-specific recommendations, he has one investment in mind that's perfect for everyday investors.",
                 "publication_date": "2025-04-14T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -492,6 +528,16 @@
                 "ticker": "SPY",
                 "title": "This Is the Only Investment Warren Buffett Recommended the Last Time the Stock Market Crashed",
                 "url": "https://finance.yahoo.com/news/only-investment-warren-buffett-recommended-075100020.html"
+            },
+            {
+                "headline": "A slew of corporate earnings are expected in the week ahead as tariff headlines have been whipsawing markets.",
+                "publication_date": "2025-04-14T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Yahoo Finance",
+                "ticker": "SPY",
+                "title": "Corporate earnings take center stage amid tariff turmoil: What to know this week",
+                "url": "https://finance.yahoo.com/news/corporate-earnings-take-center-stage-amid-tariff-turmoil-what-to-know-this-week-113650156.html"
             },
             {
                 "headline": "The constant flow of headlines and changing tariff rhetoric has Wall Street strategists unsure of what type of incremental news will move markets next.",
@@ -514,21 +560,31 @@
                 "url": "https://finance.yahoo.com/news/corporate-earnings-take-center-stage-amid-tariff-turmoil-what-to-know-this-week-113650156.html"
             },
             {
-                "headline": "Wall Street is bracing for another week of tariff-fueled whiplash.",
+                "headline": "Though the Oracle of Omaha doesn't offer stock-specific recommendations, he has one investment in mind that's perfect for everyday investors.",
                 "publication_date": "2025-04-14T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Yahoo Finance",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5719",
+                "source": "Motley Fool",
                 "ticker": "SPY",
-                "title": "Stock market today: Dow, S&P 500, Nasdaq rally for 2nd day, Apple jumps on tech tariff reprieve",
-                "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rally-for-2nd-day-apple-jumps-on-tech-tariff-reprieve-200038586.html"
+                "title": "This Is the Only Investment Warren Buffett Recommended the Last Time the Stock Market Crashed",
+                "url": "https://finance.yahoo.com/news/only-investment-warren-buffett-recommended-075100020.html"
             }
         ],
-        "avgScore": 0.2732666666666666,
+        "avgScore": 0.250675,
         "pctChange": -0.002800878801196702
     },
     "4 11 2025": {
         "importantArticles": [
+            {
+                "headline": "Fresh news on tariffs to China revived the stock market sell-off on Thursday less than 24 hours after the S&P 500 had its best day since 2008.",
+                "publication_date": "2025-04-11T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7579",
+                "source": "Yahoo Finance",
+                "ticker": "SPY",
+                "title": "The stock market turmoil isn't over despite Trump's 90-day tariff delay",
+                "url": "https://finance.yahoo.com/news/the-stock-market-turmoil-isnt-over-despite-trumps-90-day-tariff-delay-162209628.html"
+            },
             {
                 "headline": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was up 0.5% and the actively trad",
                 "publication_date": "2025-04-11T00:00:00.000Z",
@@ -540,34 +596,24 @@
                 "url": "https://finance.yahoo.com/news/exchange-traded-funds-equity-futures-132714445.html"
             },
             {
-                "headline": "The SPDR Gold Shares ETF (GLD) pulled in $1.2 billion Thursday. Here are the daily ETF fund flows for April 10, 2025.",
+                "headline": "- Total assets under management in the world\u2019s biggest ETFs slipped 7% in week. - The top ETFs dropped below $550 billion in AUM each after previously topping $600 billion. - Billions in inflows are stemming larger AUM declines.",
                 "publication_date": "2025-04-11T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.296",
+                "sentimentScore": "0.3612",
                 "source": "etf.com",
                 "ticker": "SPY",
-                "title": "GLD Attracts a Strong $1.2 Billion Amid Market Pullback",
-                "url": "https://finance.yahoo.com/news/gld-attracts-strong-1-2-221500334.html"
+                "title": "VOO, SPY, IVV Shed Assets as Market Rout Continues",
+                "url": "https://finance.yahoo.com/news/voo-spy-ivv-shed-assets-214500264.html"
             },
             {
-                "headline": "Inflation expectations soared in early April as consumers digested President Trump's April 2 tariff announcement.",
-                "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Yahoo Finance",
-                "ticker": "SPY",
-                "title": "Consumer sentiment craters further as inflation expectations soar to highest since 1981",
-                "url": "https://finance.yahoo.com/news/consumer-sentiment-craters-further-as-inflation-expectations-soar-to-highest-since-1981-143422026.html"
-            },
-            {
-                "headline": "Wall Street is set to wrap up another week of tariff-fueled turmoil.",
+                "headline": "The stock market sold off on Thursday as uncertainty around President Trump's tariffs once again took center stage.",
                 "publication_date": "2025-04-11T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.3612",
+                "sentimentScore": "-0.34",
                 "source": "Yahoo Finance",
                 "ticker": "SPY",
-                "title": "Stock market today: Dow, S&P 500 post best week since 2023 to cap wild week of tariff-fueled chaos",
-                "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-post-best-week-since-2023-to-cap-wild-week-of-tariff-fueled-chaos-200222921.html"
+                "title": "Stocks pummeled as Nasdaq sinks 4%, Dow drops 1,000 points as new China tariffs loom over markets",
+                "url": "https://finance.yahoo.com/news/stocks-pummeled-as-nasdaq-sinks-4-dow-drops-1000-points-as-new-china-tariffs-loom-over-markets-202110047.html"
             },
             {
                 "headline": "China hit back with 125% tariff on the U.S. after the latter imposed 145% duty on Chinese goods.",
@@ -590,21 +636,11 @@
                 "url": "https://finance.yahoo.com/news/consumer-sentiment-craters-further-as-inflation-expectations-soar-to-highest-since-1981-143422026.html"
             }
         ],
-        "avgScore": 0.10767999999999996,
+        "avgScore": 0.24298571428571422,
         "pctChange": 0.009701450822369681
     },
     "4 10 2025": {
         "importantArticles": [
-            {
-                "headline": "Fresh news on tariffs to China revived the stock market sell-off on Thursday less than 24 hours after the S&P 500 had its best day since 2008.",
-                "publication_date": "2025-04-10T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7579",
-                "source": "Yahoo Finance",
-                "ticker": "SPY",
-                "title": "The stock market turmoil isn't over despite Trump's 90-day tariff delay",
-                "url": "https://finance.yahoo.com/news/the-stock-market-turmoil-isnt-over-despite-trumps-90-day-tariff-delay-162209628.html"
-            },
             {
                 "headline": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was down 2.6% and the actively tr",
                 "publication_date": "2025-04-10T00:00:00.000Z",
@@ -616,51 +652,71 @@
                 "url": "https://finance.yahoo.com/news/exchange-traded-funds-equity-futures-122941811.html"
             },
             {
-                "headline": "- Total assets under management in the world\u2019s biggest ETFs slipped 7% in week. - The top ETFs dropped below $550 billion in AUM each after previously topping $600 billion. - Billions in inflows are stemming larger AUM declines.",
-                "publication_date": "2025-04-10T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.3612",
-                "source": "etf.com",
-                "ticker": "SPY",
-                "title": "VOO, SPY, IVV Shed Assets as Market Rout Continues",
-                "url": "https://finance.yahoo.com/news/voo-spy-ivv-shed-assets-214500264.html"
-            },
-            {
-                "headline": "The stock market sold off on Thursday as uncertainty around President Trump's tariffs once again took center stage.",
+                "headline": "Stocks wanted one thing from Trump after last week's shocking \"Liberation Day\" announcement. On Wednesday, they got it.",
                 "publication_date": "2025-04-10T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.34",
+                "sentimentScore": "-0.4019",
                 "source": "Yahoo Finance",
                 "ticker": "SPY",
-                "title": "Stocks pummeled as Nasdaq sinks 4%, Dow drops 1,000 points as new China tariffs loom over markets",
-                "url": "https://finance.yahoo.com/news/stocks-pummeled-as-nasdaq-sinks-4-dow-drops-1000-points-as-new-china-tariffs-loom-over-markets-202110047.html"
+                "title": "US stocks stage historic rally as Trump's 90-day pause takes worst case scenario 'off the table'",
+                "url": "https://finance.yahoo.com/news/us-stocks-stage-historic-rally-as-trumps-90-day-pause-takes-worst-case-scenario-off-the-table-203145671.html"
             },
             {
-                "headline": "Market watchers have been scrutinizing some extremely well-timed options trades just ahead of President Trump\u2019s rally-sparking tariff announcement on Wednesday.  At 1:10 p.m., SPY was trading at about $501\u2014so it would have taken a jump of more than 1.5% for those options contracts to deliver a payday.  Instead, at 1:18 p.m. ET, Trump announced in a Truth Social post that he was pausing many of his steepest tariffs for 90 days.",
+                "headline": "- Equities extended their losing streak as VOO, SPY hit bear market territory intraday. - Bond ETFs also dropped as Trump threatens more China tariffs. - Recession and interest rate hike fears pushed investors into buffer ETFs: Innovator. - NOTE: Clarifies seventh paragraph to say around $850 million in buffer ETFs were traded on Friday.",
                 "publication_date": "2025-04-10T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.3182",
-                "source": "The Wall Street Journal",
-                "ticker": "SPY",
-                "title": "Trades Before Trump Tariff Post Draw Scrutiny",
-                "url": "https://finance.yahoo.com/m/b3fd8801-f25b-39af-9779-a0b551a59f29/trades-before-trump-tariff.html"
-            },
-            {
-                "headline": "- Total assets under management in the world\u2019s biggest ETFs slipped 7% in week. - The top ETFs dropped below $550 billion in AUM each after previously topping $600 billion. - Billions in inflows are stemming larger AUM declines.",
-                "publication_date": "2025-04-10T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.3612",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.7322",
                 "source": "etf.com",
                 "ticker": "SPY",
-                "title": "VOO, SPY, IVV Shed Assets as Market Rout Continues",
-                "url": "https://finance.yahoo.com/news/voo-spy-ivv-shed-assets-214500264.html"
+                "title": "Stock, Bond ETFs React to Tariff News; VOO Hits Bear Market",
+                "url": "https://finance.yahoo.com/news/stock-bond-etfs-react-tariff-220000483.html"
+            },
+            {
+                "headline": "- Equities extended their losing streak as VOO, SPY hit bear market territory intraday. - Bond ETFs also dropped as Trump threatens more China tariffs. - Recession and interest rate hike fears pushed investors into buffer ETFs: Innovator. - NOTE: Clarifies seventh paragraph to say around $850 million in buffer ETFs were traded on Friday.",
+                "publication_date": "2025-04-10T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.7322",
+                "source": "etf.com",
+                "ticker": "SPY",
+                "title": "Stock, Bond ETFs React to Tariff News; VOO Hits Bear Market",
+                "url": "https://finance.yahoo.com/news/stock-bond-etfs-react-tariff-220000483.html"
+            },
+            {
+                "headline": "Stocks wanted one thing from Trump after last week's shocking \"Liberation Day\" announcement. On Wednesday, they got it.",
+                "publication_date": "2025-04-10T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.4019",
+                "source": "Yahoo Finance",
+                "ticker": "SPY",
+                "title": "US stocks stage historic rally as Trump's 90-day pause takes worst case scenario 'off the table'",
+                "url": "https://finance.yahoo.com/news/us-stocks-stage-historic-rally-as-trumps-90-day-pause-takes-worst-case-scenario-off-the-table-203145671.html"
+            },
+            {
+                "headline": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was down 2.6% and the actively tr",
+                "publication_date": "2025-04-10T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6808",
+                "source": "MT Newswires",
+                "ticker": "SPY",
+                "title": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Thursday After US Tariff Pause",
+                "url": "https://finance.yahoo.com/news/exchange-traded-funds-equity-futures-122941811.html"
             }
         ],
-        "avgScore": 0.35561999999999994,
+        "avgScore": -0.15109999999999998,
         "pctChange": 0.017842817199724623
     },
     "4 9 2025": {
         "importantArticles": [
+            {
+                "headline": "- The SPDR S&P 500 ETF Trust (SPY) pulled in a massive $9.4 billion. - The Janus Detroit Street Trust Janus Henderson AAA CLO ETF (JAAA) had $585 million in outflows. - Here are the daily ETF fund flows for April 8, 2025.",
+                "publication_date": "2025-04-09T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.765",
+                "source": "etf.com",
+                "ticker": "SPY",
+                "title": "SPY Gains a Big $9.4 Billion; JAAA Waves Bye to $585 Million",
+                "url": "https://finance.yahoo.com/news/spy-gains-big-9-4-220000581.html"
+            },
             {
                 "headline": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was down 2% and the actively trad",
                 "publication_date": "2025-04-09T00:00:00.000Z",
@@ -682,24 +738,14 @@
                 "url": "https://finance.yahoo.com/news/qqq-close-confirms-bear-market-004500726.html"
             },
             {
-                "headline": "Investors are digesting tariff whiplash after the White House confirmed plans to levy 104% tariffs on China, set to go into effect at 12:01am ET.",
-                "publication_date": "2025-04-09T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Yahoo Finance",
-                "ticker": "SPY",
-                "title": "Stock market today: Dow sinks 300 points, S&P 500 nears bear market as Trump's tariffs keep roiling Wall Street",
-                "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sinks-300-points-sp-500-nears-bear-market-as-trumps-tariffs-keep-roiling-wall-street-200257670.html"
-            },
-            {
-                "headline": "- Equities extended their losing streak as VOO, SPY hit bear market territory intraday. - Bond ETFs also dropped as Trump threatens more China tariffs. - Recession and interest rate hike fears pushed investors into buffer ETFs: Innovator. - NOTE: Clarifies seventh paragraph to say around $850 million in buffer ETFs were traded on Friday.",
+                "headline": "The largest difference between this shock and the one that came with the pandemic is that the president has a potential \"off\" switch for the chaos this time.",
                 "publication_date": "2025-04-09T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.7322",
-                "source": "etf.com",
+                "sentimentScore": "-0.7717",
+                "source": "Yahoo Finance",
                 "ticker": "SPY",
-                "title": "Stock, Bond ETFs React to Tariff News; VOO Hits Bear Market",
-                "url": "https://finance.yahoo.com/news/stock-bond-etfs-react-tariff-220000483.html"
+                "title": "Stocks haven't fallen this much since 2020. Their recovery could look different this time.",
+                "url": "https://finance.yahoo.com/news/stocks-havent-fallen-this-much-since-2020-their-recovery-could-look-different-this-time-212645541.html"
             },
             {
                 "headline": "Bear market and recession buzz are strong on Wall Street these days. Should you fear these?",
@@ -712,31 +758,21 @@
                 "url": "https://finance.yahoo.com/news/fear-bear-market-recession-etfs-170000802.html"
             },
             {
-                "headline": "Stocks wanted one thing from Trump after last week's shocking \"Liberation Day\" announcement. On Wednesday, they got it.",
+                "headline": "Investors are digesting tariff whiplash after the White House confirmed plans to levy 104% tariffs on China, set to go into effect at 12:01am ET.",
                 "publication_date": "2025-04-09T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.4019",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
                 "source": "Yahoo Finance",
                 "ticker": "SPY",
-                "title": "US stocks stage historic rally as Trump's 90-day pause takes worst case scenario 'off the table'",
-                "url": "https://finance.yahoo.com/news/us-stocks-stage-historic-rally-as-trumps-90-day-pause-takes-worst-case-scenario-off-the-table-203145671.html"
+                "title": "Stock market today: Dow sinks 300 points, S&P 500 nears bear market as Trump's tariffs keep roiling Wall Street",
+                "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sinks-300-points-sp-500-nears-bear-market-as-trumps-tariffs-keep-roiling-wall-street-200257670.html"
             }
         ],
-        "avgScore": -0.14253333333333332,
+        "avgScore": 0.03888571428571429,
         "pctChange": -0.04381899719533319
     },
     "4 8 2025": {
         "importantArticles": [
-            {
-                "headline": "- The SPDR S&P 500 ETF Trust (SPY) pulled in a massive $9.4 billion. - The Janus Detroit Street Trust Janus Henderson AAA CLO ETF (JAAA) had $585 million in outflows. - Here are the daily ETF fund flows for April 8, 2025.",
-                "publication_date": "2025-04-08T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.765",
-                "source": "etf.com",
-                "ticker": "SPY",
-                "title": "SPY Gains a Big $9.4 Billion; JAAA Waves Bye to $585 Million",
-                "url": "https://finance.yahoo.com/news/spy-gains-big-9-4-220000581.html"
-            },
             {
                 "headline": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was up 1.8% and the actively trad",
                 "publication_date": "2025-04-08T00:00:00.000Z",
@@ -748,24 +784,24 @@
                 "url": "https://finance.yahoo.com/news/exchange-traded-funds-equity-futures-124141906.html"
             },
             {
-                "headline": "A stock market rally evaporated on Tuesday as the White House announced further tariffs on China.",
-                "publication_date": "2025-04-08T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Yahoo Finance",
-                "ticker": "SPY",
-                "title": "Trump's China tariffs send stocks tumbling as 'FOMO' rally fades, S&P 500 closes at lowest level in a year",
-                "url": "https://finance.yahoo.com/news/trumps-china-tariffs-send-stocks-tumbling-as-fomo-rally-fades-sp-500-closes-at-lowest-level-in-a-year-203506681.html"
-            },
-            {
-                "headline": "The largest difference between this shock and the one that came with the pandemic is that the president has a potential \"off\" switch for the chaos this time.",
+                "headline": "Wall Street is coming off its worst week since the advent of the pandemic, shedding over $5 trillion in value amid Trump's tariff plans.",
                 "publication_date": "2025-04-08T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.7717",
+                "sentimentScore": "-0.4019",
                 "source": "Yahoo Finance",
                 "ticker": "SPY",
-                "title": "Stocks haven't fallen this much since 2020. Their recovery could look different this time.",
-                "url": "https://finance.yahoo.com/news/stocks-havent-fallen-this-much-since-2020-their-recovery-could-look-different-this-time-212645541.html"
+                "title": "Stock market today: Dow sinks 350 points, S&P 500 falls for third day as tariffs send stocks on roller coaster",
+                "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sinks-350-points-sp-500-falls-for-third-day-as-tariffs-send-stocks-on-roller-coaster-200044633.html"
+            },
+            {
+                "headline": "Trump's tariffs have sent shockwaves through markets amid one of the largest three-day crashes since World War II.",
+                "publication_date": "2025-04-08T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5994",
+                "source": "Yahoo Finance",
+                "ticker": "SPY",
+                "title": "8 charts show the dramatic fallout from Trump\u2019s 'Liberation Day' announcement",
+                "url": "https://finance.yahoo.com/news/8-charts-show-the-dramatic-fallout-from-trumps-liberation-day-announcement-080053892.html"
             },
             {
                 "headline": "After a brutal last week on Trump tariff concerns, Wall Street attempted to bounce back on April 7. Can the rebound last?",
@@ -786,9 +822,19 @@
                 "ticker": "SPY",
                 "title": "8 charts show the dramatic fallout from Trump\u2019s 'Liberation Day' announcement",
                 "url": "https://finance.yahoo.com/news/8-charts-show-the-dramatic-fallout-from-trumps-liberation-day-announcement-080053892.html"
+            },
+            {
+                "headline": "Wall Street is coming off its worst week since the advent of the pandemic, shedding over $5 trillion in value amid Trump's tariff plans.",
+                "publication_date": "2025-04-08T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.4019",
+                "source": "Yahoo Finance",
+                "ticker": "SPY",
+                "title": "Stock market today: Dow sinks 350 points, S&P 500 falls for third day as tariffs send stocks on roller coaster",
+                "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sinks-350-points-sp-500-falls-for-third-day-as-tariffs-send-stocks-on-roller-coaster-200044633.html"
             }
         ],
-        "avgScore": -0.09170000000000002,
+        "avgScore": -0.23635,
         "pctChange": 0.1050193018391131
     },
     "4 7 2025": {
@@ -824,14 +870,14 @@
                 "url": "https://finance.yahoo.com/news/wall-street-stock-bulls-throw-in-the-towel-as-tariff-market-meltdown-projects-negative-outcomes-to-infinity-111344611.html"
             },
             {
-                "headline": "Wall Street is coming off its worst week since the advent of the pandemic, shedding over $5 trillion in value amid Trump's tariff plans.",
+                "headline": "After the worst week for the S&P 500 since March 2020, equity strategists don't seen any end in sight as investor scramble to price in the worst case scenario from President Trump's latest tariff announcements.",
                 "publication_date": "2025-04-07T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.4019",
+                "sentimentScore": "-0.8481",
                 "source": "Yahoo Finance",
                 "ticker": "SPY",
-                "title": "Stock market today: Dow sinks 350 points, S&P 500 falls for third day as tariffs send stocks on roller coaster",
-                "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sinks-350-points-sp-500-falls-for-third-day-as-tariffs-send-stocks-on-roller-coaster-200044633.html"
+                "title": "Wall Street experts warn stocks have 'ample space' to continue cratering as Trump team digs in on tariffs",
+                "url": "https://finance.yahoo.com/news/wall-street-experts-warn-stocks-have-ample-space-to-continue-cratering-as-trump-team-digs-in-on-tariffs-225515352.html"
             },
             {
                 "headline": "Wall Street is slashing its bullish outlook for stocks as investors digest the impact of President Trump's tariffs.",
@@ -854,7 +900,7 @@
                 "url": "https://finance.yahoo.com/news/one-wall-street-bull-still-sees-a-stock-market-rally-these-levies-will-eventually-be-negotiated-lower-160859105.html"
             }
         ],
-        "avgScore": -0.030575000000000005,
+        "avgScore": -0.142125,
         "pctChange": -0.01566278167256027
     },
     "4 4 2025": {
@@ -870,14 +916,34 @@
                 "url": "https://finance.yahoo.com/news/exchange-traded-funds-equity-futures-122638642.html"
             },
             {
-                "headline": "US stock futures slipped after President Trump's broad reciprocal tariffs sent markets into a tailspin.",
+                "headline": "The March employment report comes as investors are closely watching for any signs of slowing in the US economy amid a stock market sell-off.",
                 "publication_date": "2025-04-04T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
                 "source": "Yahoo Finance",
                 "ticker": "SPY",
-                "title": "Stock market today: Dow plunges 2,200 points, Nasdaq enters bear market as Trump tariffs spark worst meltdown since 2020",
-                "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-plunges-2200-points-nasdaq-enters-bear-market-as-trump-tariffs-spark-worst-meltdown-since-2020-200042876.html"
+                "title": "US economy adds 228,000 jobs in March, unemployment rate rises to 4.2%",
+                "url": "https://finance.yahoo.com/news/us-economy-adds-228000-jobs-in-march-unemployment-rate-rises-to-42-203511885.html"
+            },
+            {
+                "headline": "US stocks plunged after President Trump announced a baseline 10% tariff on all US trading partners, sending shockwaves through markets and the global trade order.",
+                "publication_date": "2025-04-04T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Yahoo Finance",
+                "ticker": "SPY",
+                "title": "Stock market today: Dow plunges 1,700 points, Nasdaq, S&P 500 pummeled in biggest rout since 2020",
+                "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-plunges-1700-points-nasdaq-sp-500-pummeled-in-biggest-rout-since-2020-200415736.html"
+            },
+            {
+                "headline": "US stocks plunged after President Trump announced a baseline 10% tariff on all US trading partners, sending shockwaves through markets and the global trade order.",
+                "publication_date": "2025-04-04T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Yahoo Finance",
+                "ticker": "SPY",
+                "title": "Stock market today: Dow plunges 1,700 points, Nasdaq, S&P 500 pummeled in biggest rout since 2020",
+                "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-plunges-1700-points-nasdaq-sp-500-pummeled-in-biggest-rout-since-2020-200415736.html"
             },
             {
                 "headline": "The March employment report comes as investors are closely watching for any signs of slowing in the US economy amid a stock market sell-off.",
@@ -890,110 +956,24 @@
                 "url": "https://finance.yahoo.com/news/us-economy-adds-228000-jobs-in-march-unemployment-rate-rises-to-42-203511885.html"
             },
             {
-                "headline": "- Oil prices cratered on Friday, tumbling to their lowest levels since 2021. - WTI crude oil traded as low as $60.45 per barrel. - Energy remains one of the better-performing sectors this year.",
+                "headline": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was down 1.9% and the actively tr",
                 "publication_date": "2025-04-04T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.743",
-                "source": "etf.com",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6808",
+                "source": "MT Newswires",
                 "ticker": "SPY",
-                "title": "Oil Plunges To New Multi-Year Lows As Recession Fear Spikes",
-                "url": "https://finance.yahoo.com/news/oil-plunges-multi-lows-recession-224500779.html"
-            },
-            {
-                "headline": "Wall Street strategists see an increasing chance their worst-case scenario for stocks in 2025 comes to fruition if Trump's trade war intensifies.",
-                "publication_date": "2025-04-04T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.4404",
-                "source": "Yahoo Finance",
-                "ticker": "SPY",
-                "title": "Wall Street fears Trump's tariffs will wipe out 2024's stock market gains",
-                "url": "https://finance.yahoo.com/news/wall-street-fears-trumps-tariffs-will-wipe-out-2024s-stock-market-gains-152449704.html"
-            },
-            {
-                "headline": "Trump's tariff move spurs RBC's second S&P 500 downgrade this year as macro stress builds across equity markets",
-                "publication_date": "2025-04-04T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.4215",
-                "source": "GuruFocus.com",
-                "ticker": "SPY",
-                "title": "RBC Cuts S&P 500 Outlook as Growth Risks Surge Post-Tariffs",
-                "url": "https://finance.yahoo.com/news/rbc-cuts-p-500-outlook-202114866.html"
+                "title": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Friday Ahead of Employment Situation Report",
+                "url": "https://finance.yahoo.com/news/exchange-traded-funds-equity-futures-122638642.html"
             }
         ],
-        "avgScore": -0.19222857142857144,
+        "avgScore": 0.22693333333333332,
         "pctChange": -0.0017811785518102145
     },
     "4 3 2025": {
         "importantArticles": [
             {
-                "headline": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was down 3.4% and the actively tr",
-                "publication_date": "2025-04-03T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6808",
-                "source": "MT Newswires",
-                "ticker": "SPY",
-                "title": "Exchange-Traded Funds, Equity Futures Edge Lower Pre-Bell Thursday Amid Heightened Global Trade War Concerns",
-                "url": "https://finance.yahoo.com/news/exchange-traded-funds-equity-futures-122632557.html"
-            },
-            {
-                "headline": "US stocks plunged after President Trump announced a baseline 10% tariff on all US trading partners, sending shockwaves through markets and the global trade order.",
-                "publication_date": "2025-04-03T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Yahoo Finance",
-                "ticker": "SPY",
-                "title": "Stock market today: Dow plunges 1,700 points, Nasdaq, S&P 500 pummeled in biggest rout since 2020",
-                "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-plunges-1700-points-nasdaq-sp-500-pummeled-in-biggest-rout-since-2020-200415736.html"
-            },
-            {
-                "headline": "As larger-than-expected tariffs have sparked a massive stock market sell-off, Wall Street strategists are reassessing their 2025 outlooks for the equity market.",
-                "publication_date": "2025-04-03T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Yahoo Finance",
-                "ticker": "SPY",
-                "title": "The stock market will be 'severely tested' by Trump's tariffs",
-                "url": "https://finance.yahoo.com/news/the-stock-market-will-be-severely-tested-by-trumps-tariffs-151640320.html"
-            },
-            {
-                "headline": "As larger-than-expected tariffs have sparked a massive stock market sell-off, Wall Street strategists are reassessing their 2025 outlooks for the equity market.",
-                "publication_date": "2025-04-03T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Yahoo Finance",
-                "ticker": "SPY",
-                "title": "The stock market will be 'severely tested' by Trump's tariffs",
-                "url": "https://finance.yahoo.com/news/the-stock-market-will-be-severely-tested-by-trumps-tariffs-151640320.html"
-            },
-            {
-                "headline": "US stocks plunged after President Trump announced a baseline 10% tariff on all US trading partners, sending shockwaves through markets and the global trade order.",
-                "publication_date": "2025-04-03T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Yahoo Finance",
-                "ticker": "SPY",
-                "title": "Stock market today: Dow plunges 1,700 points, Nasdaq, S&P 500 pummeled in biggest rout since 2020",
-                "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-plunges-1700-points-nasdaq-sp-500-pummeled-in-biggest-rout-since-2020-200415736.html"
-            },
-            {
-                "headline": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was down 3.4% and the actively tr",
-                "publication_date": "2025-04-03T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6808",
-                "source": "MT Newswires",
-                "ticker": "SPY",
-                "title": "Exchange-Traded Funds, Equity Futures Edge Lower Pre-Bell Thursday Amid Heightened Global Trade War Concerns",
-                "url": "https://finance.yahoo.com/news/exchange-traded-funds-equity-futures-122632557.html"
-            }
-        ],
-        "avgScore": 0.22693333333333332,
-        "pctChange": -0.05854297133053567
-    },
-    "4 2 2025": {
-        "importantArticles": [
-            {
                 "headline": "The market may be closed, but stocks were falling in extended trading after President Donald Trump unveiled tariff plans. The SPDR S&P 500 ETF Trust dropped 2% in after-hours trading. The Invesco QQQ Trust sank 2.",
-                "publication_date": "2025-04-02T00:00:00.000Z",
+                "publication_date": "2025-04-03T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.8402",
                 "source": "Barrons.com",
@@ -1001,6 +981,62 @@
                 "title": "Stocks Fall in Extended Trading",
                 "url": "https://finance.yahoo.com/m/08f5ea65-a39c-3540-900f-745ac5a1156b/stocks-fall-in-extended.html"
             },
+            {
+                "headline": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was down 3.4% and the actively tr",
+                "publication_date": "2025-04-03T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6808",
+                "source": "MT Newswires",
+                "ticker": "SPY",
+                "title": "Exchange-Traded Funds, Equity Futures Edge Lower Pre-Bell Thursday Amid Heightened Global Trade War Concerns",
+                "url": "https://finance.yahoo.com/news/exchange-traded-funds-equity-futures-122632557.html"
+            },
+            {
+                "headline": "The SPDR S&P 500 ETF Trust (SPY) saw a sizable $6.5 billion in outflows. Here are the daily ETF fund flows for April 1, 2025.",
+                "publication_date": "2025-04-03T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5106",
+                "source": "etf.com",
+                "ticker": "SPY",
+                "title": "April Kicks Off With $3.2 Billion in Outflows",
+                "url": "https://finance.yahoo.com/news/april-kicks-off-3-2-000000712.html"
+            },
+            {
+                "headline": "Stocks sold off late Wednesday as President Trump's reciprocal tariffs proved to be harsher than many on Wall Street had expected.",
+                "publication_date": "2025-04-03T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.4939",
+                "source": "Yahoo Finance",
+                "ticker": "SPY",
+                "title": "'Worse than expected': Wall Street reacts to Trump's 'Liberation Day' tariff surprise, stocks sink",
+                "url": "https://finance.yahoo.com/news/worse-than-expected-wall-street-reacts-to-trumps-liberation-day-tariff-surprise-stocks-sink-222345902.html"
+            },
+            {
+                "headline": "As larger-than-expected tariffs have sparked a massive stock market sell-off, Wall Street strategists are reassessing their 2025 outlooks for the equity market.",
+                "publication_date": "2025-04-03T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Yahoo Finance",
+                "ticker": "SPY",
+                "title": "The stock market will be 'severely tested' by Trump's tariffs",
+                "url": "https://finance.yahoo.com/news/the-stock-market-will-be-severely-tested-by-trumps-tariffs-151640320.html"
+            },
+            {
+                "headline": "US stocks rebounded ahead of President Trump's tariff announcements, but stock futures fell after Trump surprised markets with larger than expected levies.",
+                "publication_date": "2025-04-03T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.3291",
+                "source": "Yahoo Finance",
+                "ticker": "SPY",
+                "title": "Stock market today: Stock futures sink after Trump's 'Liberation Day' tariffs shock markets",
+                "url": "https://finance.yahoo.com/news/live/stock-market-today-stock-futures-sink-after-trumps-liberation-day-tariffs-shock-markets-200315187.html"
+            }
+        ],
+        "avgScore": 0.3111333333333333,
+        "pctChange": -0.05854297133053567
+    },
+    "4 2 2025": {
+        "importantArticles": [
             {
                 "headline": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was down 0.8% and the actively tr",
                 "publication_date": "2025-04-02T00:00:00.000Z",
@@ -1012,47 +1048,57 @@
                 "url": "https://finance.yahoo.com/news/exchange-traded-funds-equity-futures-124217439.html"
             },
             {
-                "headline": "The SPDR S&P 500 ETF Trust (SPY) saw a sizable $6.5 billion in outflows. Here are the daily ETF fund flows for April 1, 2025.",
+                "headline": "The First Trust Utilities AlphaDEX Fund (FXU) pulled in $425.7 million Monday. Here are the daily ETF fund flows for April 1, 2025.",
                 "publication_date": "2025-04-02T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.5106",
                 "source": "etf.com",
                 "ticker": "SPY",
-                "title": "April Kicks Off With $3.2 Billion in Outflows",
-                "url": "https://finance.yahoo.com/news/april-kicks-off-3-2-000000712.html"
+                "title": "FXU Assets Surge 29% With $426 Million Inflow",
+                "url": "https://finance.yahoo.com/news/fxu-assets-surge-29-426-233000269.html"
             },
             {
-                "headline": "Stocks sold off late Wednesday as President Trump's reciprocal tariffs proved to be harsher than many on Wall Street had expected.",
+                "headline": "Investors are looking ahead to President Trump's deadline to impose reciprocal tariffs on US trading partners creeps closer.",
                 "publication_date": "2025-04-02T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.4939",
+                "sentimentScore": "-0.296",
                 "source": "Yahoo Finance",
                 "ticker": "SPY",
-                "title": "'Worse than expected': Wall Street reacts to Trump's 'Liberation Day' tariff surprise, stocks sink",
-                "url": "https://finance.yahoo.com/news/worse-than-expected-wall-street-reacts-to-trumps-liberation-day-tariff-surprise-stocks-sink-222345902.html"
+                "title": "Stock market today: S&P 500, Nasdaq jump in volatile session ahead of Trump's tariff reveal",
+                "url": "https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-jump-in-volatile-session-ahead-of-trumps-tariff-reveal-200053391.html"
             },
             {
-                "headline": "US stocks rebounded ahead of President Trump's tariff announcements, but stock futures fell after Trump surprised markets with larger than expected levies.",
+                "headline": "Investors are looking ahead to President Trump's deadline to impose reciprocal tariffs on US trading partners creeps closer.",
                 "publication_date": "2025-04-02T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.3291",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.296",
                 "source": "Yahoo Finance",
                 "ticker": "SPY",
-                "title": "Stock market today: Stock futures sink after Trump's 'Liberation Day' tariffs shock markets",
-                "url": "https://finance.yahoo.com/news/live/stock-market-today-stock-futures-sink-after-trumps-liberation-day-tariffs-shock-markets-200315187.html"
+                "title": "Stock market today: S&P 500, Nasdaq jump in volatile session ahead of Trump's tariff reveal",
+                "url": "https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-jump-in-volatile-session-ahead-of-trumps-tariff-reveal-200053391.html"
             },
             {
-                "headline": "The SPDR S&P 500 ETF Trust (SPY) saw a sizable $6.5 billion in outflows. Here are the daily ETF fund flows for April 1, 2025.",
+                "headline": "The First Trust Utilities AlphaDEX Fund (FXU) pulled in $425.7 million Monday. Here are the daily ETF fund flows for April 1, 2025.",
                 "publication_date": "2025-04-02T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.5106",
                 "source": "etf.com",
                 "ticker": "SPY",
-                "title": "April Kicks Off With $3.2 Billion in Outflows",
-                "url": "https://finance.yahoo.com/news/april-kicks-off-3-2-000000712.html"
+                "title": "FXU Assets Surge 29% With $426 Million Inflow",
+                "url": "https://finance.yahoo.com/news/fxu-assets-surge-29-426-233000269.html"
+            },
+            {
+                "headline": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was down 0.8% and the actively tr",
+                "publication_date": "2025-04-02T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6808",
+                "source": "MT Newswires",
+                "ticker": "SPY",
+                "title": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Wednesday Ahead of US Tariffs Announcement",
+                "url": "https://finance.yahoo.com/news/exchange-traded-funds-equity-futures-124217439.html"
             }
         ],
-        "avgScore": 0.37336,
+        "avgScore": 0.29846666666666666,
         "pctChange": -0.04928081620084817
     },
     "4 1 2025": {
@@ -1068,16 +1114,6 @@
                 "url": "https://finance.yahoo.com/news/exchange-traded-funds-equity-futures-123132266.html"
             },
             {
-                "headline": "The First Trust Utilities AlphaDEX Fund (FXU) pulled in $425.7 million Monday. Here are the daily ETF fund flows for April 1, 2025.",
-                "publication_date": "2025-04-01T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.5106",
-                "source": "etf.com",
-                "ticker": "SPY",
-                "title": "FXU Assets Surge 29% With $426 Million Inflow",
-                "url": "https://finance.yahoo.com/news/fxu-assets-surge-29-426-233000269.html"
-            },
-            {
                 "headline": "Job openings hovered near a four-year low in February as the labor market showed continued signs of slow cooling.",
                 "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -1086,16 +1122,6 @@
                 "ticker": "SPY",
                 "title": "Job openings hit lowest level since September as labor market cools",
                 "url": "https://finance.yahoo.com/news/job-openings-hit-lowest-level-since-september-as-labor-market-cools-143520572.html"
-            },
-            {
-                "headline": "While many stocks in the S&P 500 ETF posted dismal performance in the just-concluded quarter, we discuss some that rose by more than 20%.",
-                "publication_date": "2025-04-01T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.6124",
-                "source": "Zacks",
-                "ticker": "SPY",
-                "title": "10 Stocks of the S&P 500 ETF Up More Than 20% in Q1",
-                "url": "https://finance.yahoo.com/news/10-stocks-p-500-etf-150000257.html"
             },
             {
                 "headline": "As the first quarter ends, strategists are worried about more than just Donald Trump's tariffs as the outlook for stocks has dampened to start the year.",
@@ -1108,17 +1134,37 @@
                 "url": "https://finance.yahoo.com/news/the-key-risks-that-drove-the-sp-500s-worst-first-quarter-in-3-years-arent-going-away-080050066.html"
             },
             {
-                "headline": "Investors are looking ahead to President Trump's deadline to impose reciprocal tariffs on US trading partners creeps closer.",
+                "headline": "While many stocks in the S&P 500 ETF posted dismal performance in the just-concluded quarter, we discuss some that rose by more than 20%.",
+                "publication_date": "2025-04-01T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.6124",
+                "source": "Zacks",
+                "ticker": "SPY",
+                "title": "10 Stocks of the S&P 500 ETF Up More Than 20% in Q1",
+                "url": "https://finance.yahoo.com/news/10-stocks-p-500-etf-150000257.html"
+            },
+            {
+                "headline": "Uncertainty about the scope of this week's reciprocal tariffs is weighing on already battered markets.",
+                "publication_date": "2025-04-01T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.34",
+                "source": "Yahoo Finance",
+                "ticker": "SPY",
+                "title": "Stock market today: Dow gains 400 points, stocks reverse losses as markets cap worst quarter since 2022",
+                "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-gains-400-points-stocks-reverse-losses-as-markets-cap-worst-quarter-since-2022-200641125.html"
+            },
+            {
+                "headline": "As the first quarter ends, strategists are worried about more than just Donald Trump's tariffs as the outlook for stocks has dampened to start the year.",
                 "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.296",
                 "source": "Yahoo Finance",
                 "ticker": "SPY",
-                "title": "Stock market today: S&P 500, Nasdaq jump in volatile session ahead of Trump's tariff reveal",
-                "url": "https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-jump-in-volatile-session-ahead-of-trumps-tariff-reveal-200053391.html"
+                "title": "The key risks that drove the S&P 500's worst first quarter in 3 years aren't going away",
+                "url": "https://finance.yahoo.com/news/the-key-risks-that-drove-the-sp-500s-worst-first-quarter-in-3-years-arent-going-away-080050066.html"
             }
         ],
-        "avgScore": -0.04769999999999999,
+        "avgScore": -0.16816000000000003,
         "pctChange": 0.006328411525621123
     },
     "3 31 2025": {
@@ -1154,16 +1200,6 @@
                 "url": "https://finance.yahoo.com/news/trumps-liberation-day-and-a-labor-report-what-to-know-this-week-113053983.html"
             },
             {
-                "headline": "Uncertainty about the scope of this week's reciprocal tariffs is weighing on already battered markets.",
-                "publication_date": "2025-03-31T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.34",
-                "source": "Yahoo Finance",
-                "ticker": "SPY",
-                "title": "Stock market today: Dow gains 400 points, stocks reverse losses as markets cap worst quarter since 2022",
-                "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-gains-400-points-stocks-reverse-losses-as-markets-cap-worst-quarter-since-2022-200641125.html"
-            },
-            {
                 "headline": "Investors are wary of further downside in the stock market ahead of President Trump's reciprocal tariff deadline on April 2.",
                 "publication_date": "2025-03-31T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -1182,9 +1218,19 @@
                 "ticker": "SPY",
                 "title": "Trump's 'Liberation Day' and a labor report: What to know this week",
                 "url": "https://finance.yahoo.com/news/trumps-liberation-day-and-a-labor-report-what-to-know-this-week-113053983.html"
+            },
+            {
+                "headline": "Wall Street strategists are growing less optimistic on S&P 500 returns in 2025 as President Trump's tariffs are expected to weigh on economic growth.",
+                "publication_date": "2025-03-31T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6494",
+                "source": "Yahoo Finance",
+                "ticker": "SPY",
+                "title": "Wall Street strategists continue to cut their stock market forecasts as Trump tariff fears become reality",
+                "url": "https://finance.yahoo.com/news/wall-street-strategists-continue-to-cut-their-stock-market-forecasts-as-trump-tariff-fears-become-reality-140603123.html"
             }
         ],
-        "avgScore": 0.21168,
+        "avgScore": 0.3496,
         "pctChange": 0.0028244266313556966
     },
     "3 28 2025": {
@@ -1220,14 +1266,14 @@
                 "url": "https://finance.yahoo.com/news/pce-the-feds-preferred-inflation-gauge-shows-prices-increased-more-than-expected-in-february-123310264.html"
             },
             {
-                "headline": "US stock futures slipped as Wall Street continues to grapple with President Trump's escalating trade war.",
+                "headline": "Trump has pushed ahead with hefty auto tariffs, stoking fears over a full-on trade war.",
                 "publication_date": "2025-03-28T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.5994",
+                "sentimentScore": "-0.7717",
                 "source": "Yahoo Finance",
                 "ticker": "SPY",
-                "title": "Stock market today: Dow drops 700 points, S&P 500, Nasdaq sink as Wall Street reels from tariff, inflation fears",
-                "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-drops-700-points-sp-500-nasdaq-sink-as-wall-street-reels-from-tariff-inflation-fears-200045524.html"
+                "title": "Stock market today: S&P 500, Dow, Nasdaq slip while GM, Ford hit as investors weigh Trump's tariff escalation",
+                "url": "https://finance.yahoo.com/news/live/stock-market-today-sp-500-dow-nasdaq-slip-while-gm-ford-hit-as-investors-weigh-trumps-tariff-escalation-200534178.html"
             },
             {
                 "headline": "Friday's PCE data release comes as investors closely watch where inflation stands at the onset of President Trump's tariff policies.",
@@ -1250,7 +1296,7 @@
                 "url": "https://finance.yahoo.com/news/exchange-traded-funds-equity-futures-122355554.html"
             }
         ],
-        "avgScore": 0.21072499999999997,
+        "avgScore": 0.16764999999999997,
         "pctChange": 0.006712813022679319
     },
     "3 27 2025": {
@@ -1266,37 +1312,57 @@
                 "url": "https://finance.yahoo.com/news/exchange-traded-funds-decline-equity-122016027.html"
             },
             {
-                "headline": "Trump has pushed ahead with hefty auto tariffs, stoking fears over a full-on trade war.",
+                "headline": "The iShares Core S&P 500 ETF (IVV) pulled in $18.3 billion on Tuesday. Here are the daily ETF fund flows for March 26, 2025.",
                 "publication_date": "2025-03-27T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.7717",
-                "source": "Yahoo Finance",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "etf.com",
                 "ticker": "SPY",
-                "title": "Stock market today: S&P 500, Dow, Nasdaq slip while GM, Ford hit as investors weigh Trump's tariff escalation",
-                "url": "https://finance.yahoo.com/news/live/stock-market-today-sp-500-dow-nasdaq-slip-while-gm-ford-hit-as-investors-weigh-trumps-tariff-escalation-200534178.html"
+                "title": "IVV Attracts $18.3 Billion; KRE Grows Its Asset Base",
+                "url": "https://finance.yahoo.com/news/ivv-attracts-18-3-billion-210005652.html"
             },
             {
-                "headline": "Trump has pushed ahead with hefty auto tariffs, stoking fears over a full-on trade war.",
+                "headline": "Stocks are on shifting sands as markets respond to changes in tone from Trump on coming tariffs.",
                 "publication_date": "2025-03-27T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.7717",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
                 "source": "Yahoo Finance",
                 "ticker": "SPY",
-                "title": "Stock market today: S&P 500, Dow, Nasdaq slip while GM, Ford hit as investors weigh Trump's tariff escalation",
-                "url": "https://finance.yahoo.com/news/live/stock-market-today-sp-500-dow-nasdaq-slip-while-gm-ford-hit-as-investors-weigh-trumps-tariff-escalation-200534178.html"
+                "title": "Stock market today: Nasdaq, S&P 500 dive, snap 3-day win streak as Trump preps auto tariffs",
+                "url": "https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-dive-snap-3-day-win-streak-as-trump-preps-auto-tariffs-230931797.html"
             },
             {
-                "headline": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was down 0.1% and the actively tr",
+                "headline": "Billionaire investor Warren Buffett believes there's one particularly bad, \"cardinal sin\" that investors should avoid.  This is a lesson he learned from the late Charlie Munger.  There's nothing more discouraging for investors than to lose money on a stock that they thought had plenty of upside and room to grow.",
                 "publication_date": "2025-03-27T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6808",
-                "source": "MT Newswires",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.873",
+                "source": "Motley Fool",
                 "ticker": "SPY",
-                "title": "Exchange-Traded Funds Decline, Equity Futures Mixed Pre-Bell Thursday Ahead of Slew of Economic Data",
-                "url": "https://finance.yahoo.com/news/exchange-traded-funds-decline-equity-122016027.html"
+                "title": "This Is the Cardinal Sin Warren Buffett Says Investors Should Avoid",
+                "url": "https://finance.yahoo.com/news/cardinal-sin-warren-buffett-says-221500741.html"
+            },
+            {
+                "headline": "Stocks are on shifting sands as markets respond to changes in tone from Trump on coming tariffs.",
+                "publication_date": "2025-03-27T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Yahoo Finance",
+                "ticker": "SPY",
+                "title": "Stock market today: Nasdaq, S&P 500 dive, snap 3-day win streak as Trump preps auto tariffs",
+                "url": "https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-dive-snap-3-day-win-streak-as-trump-preps-auto-tariffs-230931797.html"
+            },
+            {
+                "headline": "The iShares Core S&P 500 ETF (IVV) pulled in $18.3 billion on Tuesday. Here are the daily ETF fund flows for March 26, 2025.",
+                "publication_date": "2025-03-27T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "etf.com",
+                "ticker": "SPY",
+                "title": "IVV Attracts $18.3 Billion; KRE Grows Its Asset Base",
+                "url": "https://finance.yahoo.com/news/ivv-attracts-18-3-billion-210005652.html"
             }
         ],
-        "avgScore": -0.045450000000000046,
+        "avgScore": -0.04805000000000001,
         "pctChange": -0.020138328985595692
     },
     "3 26 2025": {
@@ -1312,6 +1378,16 @@
                 "url": "https://finance.yahoo.com/news/exchange-traded-funds-lower-equity-122856386.html"
             },
             {
+                "headline": "A fresh reading of the Fed's preferred inflation gauge is set to greet an ailing stock market as tariff uncertainty continues to weigh on markets.",
+                "publication_date": "2025-03-26T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.296",
+                "source": "Yahoo Finance",
+                "ticker": "SPY",
+                "title": "The Fed's preferred inflation gauge and tariff talk: What to know this week",
+                "url": "https://finance.yahoo.com/news/the-feds-preferred-inflation-gauge-and-tariff-talk-what-to-know-this-week-113007466.html"
+            },
+            {
                 "headline": "UBS expects the S&P 500 to underperform ahead while short-term treasury bonds should outperform.",
                 "publication_date": "2025-03-26T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -1322,24 +1398,24 @@
                 "url": "https://finance.yahoo.com/news/following-ubs-analysts-tap-etf-170000264.html"
             },
             {
-                "headline": "The iShares Core S&P 500 ETF (IVV) pulled in $18.3 billion on Tuesday. Here are the daily ETF fund flows for March 26, 2025.",
+                "headline": "Tariff moves continue to remain front and center for investors.",
+                "publication_date": "2025-03-26T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Yahoo Finance",
+                "ticker": "SPY",
+                "title": "Stock market today: S&P 500, Nasdaq notch 3rd day of gains as consumer confidence tumbles, Trump tariffs loom",
+                "url": "https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-notch-3rd-day-of-gains-as-consumer-confidence-tumbles-trump-tariffs-loom-200517083.html"
+            },
+            {
+                "headline": "The Schwab US Dividend Equity ETF (SCHD) experienced $7.1 billion in outflows Monday. Here are the daily ETF fund flows for March 25, 2025.",
                 "publication_date": "2025-03-26T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
                 "source": "etf.com",
                 "ticker": "SPY",
-                "title": "IVV Attracts $18.3 Billion; KRE Grows Its Asset Base",
-                "url": "https://finance.yahoo.com/news/ivv-attracts-18-3-billion-210005652.html"
-            },
-            {
-                "headline": "Billionaire investor Warren Buffett believes there's one particularly bad, \"cardinal sin\" that investors should avoid.  This is a lesson he learned from the late Charlie Munger.  There's nothing more discouraging for investors than to lose money on a stock that they thought had plenty of upside and room to grow.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.873",
-                "source": "Motley Fool",
-                "ticker": "SPY",
-                "title": "This Is the Cardinal Sin Warren Buffett Says Investors Should Avoid",
-                "url": "https://finance.yahoo.com/news/cardinal-sin-warren-buffett-says-221500741.html"
+                "title": "SCHD Leads Dividend ETF Exodus with Big $7.1 Billion Outflow",
+                "url": "https://finance.yahoo.com/news/schd-leads-dividend-etf-exodus-224500309.html"
             },
             {
                 "headline": "Market stability has returned ... for now.",
@@ -1350,93 +1426,17 @@
                 "ticker": "SPY",
                 "title": "The S&P 500 just reclaimed its 200-day moving average \u2014 but history says it may not be a good thing",
                 "url": "https://finance.yahoo.com/news/the-sp-500-just-reclaimed-its-200-day-moving-average--but-history-says-it-may-not-be-a-good-thing-164718289.html"
-            },
-            {
-                "headline": "Stocks are on shifting sands as markets respond to changes in tone from Trump on coming tariffs.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Yahoo Finance",
-                "ticker": "SPY",
-                "title": "Stock market today: Nasdaq, S&P 500 dive, snap 3-day win streak as Trump preps auto tariffs",
-                "url": "https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-dive-snap-3-day-win-streak-as-trump-preps-auto-tariffs-230931797.html"
             }
         ],
-        "avgScore": 0.001683333333333333,
+        "avgScore": 0.19651666666666665,
         "pctChange": -0.002655709200486615
     },
-    "3 25 2025": {
-        "importantArticles": [
-            {
-                "headline": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was up 0.3% and the actively trad",
-                "publication_date": "2025-03-25T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6808",
-                "source": "MT Newswires",
-                "ticker": "SPY",
-                "title": "Exchange-Traded Funds, Equity Futures Edge Higher Pre-Bell Tuesday Amid Ongoing Tariff Confusion",
-                "url": "https://finance.yahoo.com/news/exchange-traded-funds-equity-futures-123641818.html"
-            },
-            {
-                "headline": "A fresh reading of the Fed's preferred inflation gauge is set to greet an ailing stock market as tariff uncertainty continues to weigh on markets.",
-                "publication_date": "2025-03-25T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.296",
-                "source": "Yahoo Finance",
-                "ticker": "SPY",
-                "title": "The Fed's preferred inflation gauge and tariff talk: What to know this week",
-                "url": "https://finance.yahoo.com/news/the-feds-preferred-inflation-gauge-and-tariff-talk-what-to-know-this-week-113007466.html"
-            },
-            {
-                "headline": "The Schwab US Dividend Equity ETF (SCHD) experienced $7.1 billion in outflows Monday. Here are the daily ETF fund flows for March 25, 2025.",
-                "publication_date": "2025-03-25T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "etf.com",
-                "ticker": "SPY",
-                "title": "SCHD Leads Dividend ETF Exodus with Big $7.1 Billion Outflow",
-                "url": "https://finance.yahoo.com/news/schd-leads-dividend-etf-exodus-224500309.html"
-            },
-            {
-                "headline": "US economic growth has slowed in 2025 but not at a rapid enough pace to worry economists and prompt recession calls.",
-                "publication_date": "2025-03-25T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.775",
-                "source": "Yahoo Finance",
-                "ticker": "SPY",
-                "title": "Economic growth is 'moderating.' But data doesn't show clear signs of a looming recession.",
-                "url": "https://finance.yahoo.com/news/economic-growth-is-moderating-but-data-doesnt-show-clear-signs-of-a-looming-recession-080012275.html"
-            },
-            {
-                "headline": "Wall Street was moderately upbeat last week.",
-                "publication_date": "2025-03-25T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "SPY",
-                "title": "4 Top-Performing ETFs of Last Week",
-                "url": "https://finance.yahoo.com/news/4-top-performing-etfs-last-120000662.html"
-            },
-            {
-                "headline": "Tariff moves continue to remain front and center for investors.",
-                "publication_date": "2025-03-25T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Yahoo Finance",
-                "ticker": "SPY",
-                "title": "Stock market today: S&P 500, Nasdaq notch 3rd day of gains as consumer confidence tumbles, Trump tariffs loom",
-                "url": "https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-notch-3rd-day-of-gains-as-consumer-confidence-tumbles-trump-tariffs-loom-200517083.html"
-            }
-        ],
-        "avgScore": 0.033633333333333314,
-        "pctChange": -0.011938266525687405
-    },
-    "coef": -0.0378424189052429,
-    "avgCoef": 0.008693391797845361,
+    "coef": -0.2252964426877471,
+    "avgCoef": 0.01287999007385066,
     "similar": {
-        "VOD": 0.40779442462067717,
-        "SNAP": 0.2863597967904201,
-        "ITUB": 0.27845242567589173,
-        "BBD": 0.27372881355932205
+        "T": 0.18577075098814233,
+        "ABEV": 0.1390223726401025,
+        "SNAP": 0.1360813099943535,
+        "NKE": 0.1293054771315641
     }
 }

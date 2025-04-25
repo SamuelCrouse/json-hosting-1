@@ -63,7 +63,7 @@
             }
         ],
         "avgScore": 0.2684666666666667,
-        "pctChange": 0.006406174482326203
+        "pctChange": 0.005765544815332053
     },
     "4 24 2025": {
         "importantArticles": [
@@ -129,7 +129,7 @@
             }
         ],
         "avgScore": 0.8298666666666668,
-        "pctChange": 0.013548389557869203
+        "pctChange": 0.012903213500976562
     },
     "4 23 2025": {
         "importantArticles": [
@@ -235,11 +235,11 @@
         "avgScore": 0.9081,
         "pctChange": -0.03391959543122912
     },
-    "4 4 2025": {
+    "4 3 2025": {
         "importantArticles": [
             {
                 "headline": "Most consumer discretionary businesses succeed or fail based on the broader economy. This sensitive demand profile can cause discretionary stocks to plummet when macro uncertainty enters the fray, and over the past six months, the industry has shed 10.7%. This drop was worse than the S&P 500\u2019s 5.2% fall.",
-                "publication_date": "2025-04-04T00:00:00.000Z",
+                "publication_date": "2025-04-03T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.8126",
                 "source": "StockStory",
@@ -249,7 +249,7 @@
             },
             {
                 "headline": "Most consumer discretionary businesses succeed or fail based on the broader economy. This sensitive demand profile can cause discretionary stocks to plummet when macro uncertainty enters the fray, and over the past six months, the industry has shed 10.7%. This drop was worse than the S&P 500\u2019s 5.2% fall.",
-                "publication_date": "2025-04-04T00:00:00.000Z",
+                "publication_date": "2025-04-03T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.8126",
                 "source": "StockStory",
@@ -259,7 +259,7 @@
             }
         ],
         "avgScore": -0.8126,
-        "pctChange": -0.02631579419110761
+        "pctChange": -0.012376225937722706
     },
     "4 2 2025": {
         "importantArticles": [
@@ -286,6 +286,32 @@
         ],
         "avgScore": 0.5574,
         "pctChange": -0.03579954494486044
+    },
+    "3 28 2025": {
+        "importantArticles": [
+            {
+                "headline": "The excitement of investing in a company that can reverse its fortunes is a big draw for some speculators, so even...",
+                "publication_date": "2025-03-28T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4939",
+                "source": "Simply Wall St.",
+                "ticker": "ADT",
+                "title": "With EPS Growth And More, ADT (NYSE:ADT) Makes An Interesting Case",
+                "url": "https://finance.yahoo.com/news/eps-growth-more-adt-nyse-192711648.html"
+            },
+            {
+                "headline": "The excitement of investing in a company that can reverse its fortunes is a big draw for some speculators, so even...",
+                "publication_date": "2025-03-28T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4939",
+                "source": "Simply Wall St.",
+                "ticker": "ADT",
+                "title": "With EPS Growth And More, ADT (NYSE:ADT) Makes An Interesting Case",
+                "url": "https://finance.yahoo.com/news/eps-growth-more-adt-nyse-192711648.html"
+            }
+        ],
+        "avgScore": 0.4939,
+        "pctChange": 0.004938266662867668
     },
     "3 27 2025": {
         "importantArticles": [
@@ -333,38 +359,12 @@
         "avgScore": -0.0019500000000000073,
         "pctChange": -0.015795767678897954
     },
-    "3 26 2025": {
-        "importantArticles": [
-            {
-                "headline": "BOCA RATON, Fla., March 25, 2025 (GLOBE NEWSWIRE) -- ADT Inc. (NYSE: ADT) today announced two strategic additions to its executive leadership team. Fawad Ahmad has been named Executive Vice President and Chief Operating and Customer Officer, and Omar Khan has been appointed Executive Vice President and Chief Business Officer. Ahmad will oversee ADT\u2019s operations, customer experience, and digital transformation initiatives, while Khan will lead ADT\u2019s product, innovation, business development and e",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.3818",
-                "source": "GlobeNewswire",
-                "ticker": "ADT",
-                "title": "ADT Strengthens Executive Leadership Team with Appointments of Fawad Ahmad as Chief Operating and Customer Officer and Omar Khan as Chief Business Officer",
-                "url": "https://finance.yahoo.com/news/adt-strengthens-executive-leadership-team-200000613.html"
-            },
-            {
-                "headline": "BOCA RATON, Fla., March 25, 2025 (GLOBE NEWSWIRE) -- ADT Inc. (NYSE: ADT) today announced two strategic additions to its executive leadership team. Fawad Ahmad has been named Executive Vice President and Chief Operating and Customer Officer, and Omar Khan has been appointed Executive Vice President and Chief Business Officer. Ahmad will oversee ADT\u2019s operations, customer experience, and digital transformation initiatives, while Khan will lead ADT\u2019s product, innovation, business development and e",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.3818",
-                "source": "GlobeNewswire",
-                "ticker": "ADT",
-                "title": "ADT Strengthens Executive Leadership Team with Appointments of Fawad Ahmad as Chief Operating and Customer Officer and Omar Khan as Chief Business Officer",
-                "url": "https://finance.yahoo.com/news/adt-strengthens-executive-leadership-team-200000613.html"
-            }
-        ],
-        "avgScore": 0.3818,
-        "pctChange": 0.007343875811761267
-    },
-    "coef": -0.01818181818181818,
-    "avgCoef": 0.015572210447503993,
+    "coef": -0.10303030303030303,
+    "avgCoef": -0.013748433803889156,
     "similar": {
-        "PSLV": 0.32121212121212117,
-        "TAL": 0.309090909090909,
-        "PG": 0.309090909090909,
-        "KO": 0.29696969696969694
+        "HL": 0.4666666666666666,
+        "RGTI": 0.4545454545454545,
+        "PLTR": 0.43030303030303024,
+        "IONQ": 0.43030303030303024
     }
 }

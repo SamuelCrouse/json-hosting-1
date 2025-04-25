@@ -23,7 +23,7 @@
             }
         ],
         "avgScore": 0.2263,
-        "pctChange": 0.033274966015957926
+        "pctChange": -0.013559308883548851
     },
     "4 14 2025": {
         "importantArticles": [
@@ -155,38 +155,12 @@
         "avgScore": 0.1531,
         "pctChange": 0.008395536412876915
     },
-    "3 25 2025": {
-        "importantArticles": [
-            {
-                "headline": "We recently published a list of 10 Best Stocks to Buy According to Billionaire David Einhorn. In this article, we are going to take a look at where CNH Industrial N.V. (NYSE:CNH) stands against other best stocks to buy according to billionaire David Einhorn. David Einhorn is a highly regarded hedge fund manager, who co-founded Greenlight [\u2026]",
-                "publication_date": "2025-03-25T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8555",
-                "source": "Insider Monkey",
-                "ticker": "CNH",
-                "title": "Is CNH Industrial N.V. (NYSE:CNH) One of The Best Stocks to Buy According to Billionaire David Einhorn?",
-                "url": "https://finance.yahoo.com/news/cnh-industrial-n-v-nyse-190132682.html"
-            },
-            {
-                "headline": "We recently published a list of 10 Best Stocks to Buy According to Billionaire David Einhorn. In this article, we are going to take a look at where CNH Industrial N.V. (NYSE:CNH) stands against other best stocks to buy according to billionaire David Einhorn. David Einhorn is a highly regarded hedge fund manager, who co-founded Greenlight [\u2026]",
-                "publication_date": "2025-03-25T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8555",
-                "source": "Insider Monkey",
-                "ticker": "CNH",
-                "title": "Is CNH Industrial N.V. (NYSE:CNH) One of The Best Stocks to Buy According to Billionaire David Einhorn?",
-                "url": "https://finance.yahoo.com/news/cnh-industrial-n-v-nyse-190132682.html"
-            }
-        ],
-        "avgScore": 0.8555,
-        "pctChange": 0.017699059368718257
-    },
-    "coef": -0.03571428571428572,
-    "avgCoef": 0.013041416618735127,
+    "coef": 0.14285714285714288,
+    "avgCoef": 0.0030497735525669254,
     "similar": {
-        "ERIC": 0.6071428571428572,
-        "T": 0.5714285714285715,
-        "NOK": 0.42857142857142866,
-        "IBM": 0.3214285714285715
+        "ERIC": 0.6571428571428573,
+        "RXRX": 0.5428571428571429,
+        "GILD": 0.48571428571428577,
+        "T": 0.4285714285714286
     }
 }

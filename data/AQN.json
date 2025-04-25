@@ -1,9 +1,35 @@
 {
-    "4 10 2025": {
+    "4 24 2025": {
+        "importantArticles": [
+            {
+                "headline": "FirstEnergy (FE) delivered earnings and revenue surprises of 11.67% and 3.17%, respectively, for the quarter ended March 2025. Do the numbers hold clues to what lies ahead for the stock?",
+                "publication_date": "2025-04-24T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.128",
+                "source": "Zacks",
+                "ticker": "AQN",
+                "title": "FirstEnergy (FE) Beats Q1 Earnings and Revenue Estimates",
+                "url": "https://finance.yahoo.com/news/firstenergy-fe-beats-q1-earnings-213507028.html"
+            },
+            {
+                "headline": "FirstEnergy (FE) delivered earnings and revenue surprises of 11.67% and 3.17%, respectively, for the quarter ended March 2025. Do the numbers hold clues to what lies ahead for the stock?",
+                "publication_date": "2025-04-24T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.128",
+                "source": "Zacks",
+                "ticker": "AQN",
+                "title": "FirstEnergy (FE) Beats Q1 Earnings and Revenue Estimates",
+                "url": "https://finance.yahoo.com/news/firstenergy-fe-beats-q1-earnings-213507028.html"
+            }
+        ],
+        "avgScore": 0.128,
+        "pctChange": -0.001890312309411612
+    },
+    "4 9 2025": {
         "importantArticles": [
             {
                 "headline": "Algonquin Power & Utilities (TSX:AQN) recently announced the appointment of Rod West to its board of directors, following his earlier appointment as CEO. These leadership changes occurred amid significant market volatility, with global stock indexes experiencing sharp declines due to new tariffs impacting trade. Algonquin's share price rose by 1% over the last quarter, a period marked by the company's challenging financial performance, exemplified by a $1.38 billion net loss for 2024. The...",
-                "publication_date": "2025-04-10T00:00:00.000Z",
+                "publication_date": "2025-04-09T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.3182",
                 "source": "Simply Wall St.",
@@ -13,7 +39,7 @@
             },
             {
                 "headline": "Algonquin Power & Utilities (TSX:AQN) recently announced the appointment of Rod West to its board of directors, following his earlier appointment as CEO. These leadership changes occurred amid significant market volatility, with global stock indexes experiencing sharp declines due to new tariffs impacting trade. Algonquin's share price rose by 1% over the last quarter, a period marked by the company's challenging financial performance, exemplified by a $1.38 billion net loss for 2024. The...",
-                "publication_date": "2025-04-10T00:00:00.000Z",
+                "publication_date": "2025-04-09T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.3182",
                 "source": "Simply Wall St.",
@@ -22,7 +48,8 @@
                 "url": "https://finance.yahoo.com/news/rod-west-appointed-ceo-algonquin-185706625.html"
             }
         ],
-        "avgScore": 0.3182
+        "avgScore": 0.3182,
+        "pctChange": -0.006109925438593083
     },
     "4 7 2025": {
         "importantArticles": [
@@ -47,14 +74,15 @@
                 "url": "https://finance.yahoo.com/news/algonquin-power-utilities-corp-announces-103000566.html"
             }
         ],
-        "avgScore": 0.0
+        "avgScore": 0.0,
+        "pctChange": -0.029787206844054157
     },
-    "coef": 0.9999999999999999,
-    "avgCoef": -0.04727978902898772,
+    "coef": 0.5,
+    "avgCoef": 0.005890682643476013,
     "similar": {
-        "SPY": 0.9999999999999999,
-        "NVDA": 0.9999999999999999,
-        "HTZ": 0.9999999999999999,
-        "F": 0.9999999999999999
+        "RGTI": 1.0,
+        "NIO": 1.0,
+        "VALE": 1.0,
+        "AMCR": 1.0
     }
 }

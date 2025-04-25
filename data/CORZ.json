@@ -25,11 +25,11 @@
         "avgScore": 0.891,
         "pctChange": 0.004195766793154113
     },
-    "4 1 2025": {
+    "3 31 2025": {
         "importantArticles": [
             {
                 "headline": "(Bloomberg) -- Shares of Coinbase Global Inc. and other firms linked to cryptocurrencies were hammered this quarter as growing concerns about the US economy weighed on digital assets. Most Read from BloombergGold-Rush Fever Returns to Historic New Zealand Mining TownWhat Frank Lloyd Wright Learned From the DesertBank Regulators Fight for Desks as OCC Returns to New York TowerCoinbase fell 31% in the worst quarterly performance since FTX collapsed near the end of 2022. Nearly every major crypto-l",
-                "publication_date": "2025-04-01T00:00:00.000Z",
+                "publication_date": "2025-03-31T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.6369",
                 "source": "Bloomberg",
@@ -39,7 +39,7 @@
             },
             {
                 "headline": "(Bloomberg) -- Shares of Coinbase Global Inc. and other firms linked to cryptocurrencies were hammered this quarter as growing concerns about the US economy weighed on digital assets. Most Read from BloombergGold-Rush Fever Returns to Historic New Zealand Mining TownWhat Frank Lloyd Wright Learned From the DesertBank Regulators Fight for Desks as OCC Returns to New York TowerCoinbase fell 31% in the worst quarterly performance since FTX collapsed near the end of 2022. Nearly every major crypto-l",
-                "publication_date": "2025-04-01T00:00:00.000Z",
+                "publication_date": "2025-03-31T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.6369",
                 "source": "Bloomberg",
@@ -49,7 +49,7 @@
             }
         ],
         "avgScore": -0.6369,
-        "pctChange": 0.052500009536743164
+        "pctChange": 0.10497241062266768
     },
     "3 27 2025": {
         "importantArticles": [
@@ -78,11 +78,11 @@
         "pctChange": -0.05076143268505669
     },
     "coef": -0.5,
-    "avgCoef": 0.012868687882818525,
+    "avgCoef": -0.012758034151242124,
     "similar": {
-        "LCID": 1.0,
-        "RIVN": 1.0,
-        "SNAP": 0.5,
-        "MSTR": 0.5
+        "F": 0.5,
+        "AAL": 0.5,
+        "PONY": 0.5,
+        "HTZ": 0.5
     }
 }

@@ -215,35 +215,19 @@
         "avgScore": 0.7964,
         "pctChange": 0.05514700565113384
     },
-    "4 11 2025": {
-        "importantArticles": [
-            {
-                "headline": "A number of stocks fell in the afternoon session after stocks gave back some of the gains from the previous day as the White House clarified the tariffs on imports from China would add up to 145%, while the baseline 10% tariffs remained in place for all countries. This reminded markets that the global trade environment remained volatile, limiting the potential for sustained gains.",
-                "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6249",
-                "source": "StockStory",
-                "ticker": "UAA",
-                "title": "Columbia Sportswear, Under Armour, Carter's, Disney, and Warner Bros. Discovery Stocks Trade Down, What You Need To Know",
-                "url": "https://finance.yahoo.com/news/columbia-sportswear-under-armour-carters-221903921.html"
-            },
-            {
-                "headline": "A number of stocks fell in the afternoon session after stocks gave back some of the gains from the previous day as the White House clarified the tariffs on imports from China would add up to 145%, while the baseline 10% tariffs remained in place for all countries. This reminded markets that the global trade environment remained volatile, limiting the potential for sustained gains.",
-                "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6249",
-                "source": "StockStory",
-                "ticker": "UAA",
-                "title": "Columbia Sportswear, Under Armour, Carter's, Disney, and Warner Bros. Discovery Stocks Trade Down, What You Need To Know",
-                "url": "https://finance.yahoo.com/news/columbia-sportswear-under-armour-carters-221903921.html"
-            }
-        ],
-        "avgScore": 0.6249,
-        "pctChange": 0.04816955630900113
-    },
     "4 10 2025": {
         "importantArticles": [
             {
+                "headline": "A number of stocks fell in the afternoon session after stocks gave back some of the gains from the previous day as the White House clarified the tariffs on imports from China would add up to 145%, while the baseline 10% tariffs remained in place for all countries. This reminded markets that the global trade environment remained volatile, limiting the potential for sustained gains.",
+                "publication_date": "2025-04-10T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6249",
+                "source": "StockStory",
+                "ticker": "UAA",
+                "title": "Columbia Sportswear, Under Armour, Carter's, Disney, and Warner Bros. Discovery Stocks Trade Down, What You Need To Know",
+                "url": "https://finance.yahoo.com/news/columbia-sportswear-under-armour-carters-221903921.html"
+            },
+            {
                 "headline": "Under Armour (UAA) witnessed a jump in share price last session on above-average trading volume. The latest trend in earnings estimate revisions for the stock doesn't suggest further strength down the road.",
                 "publication_date": "2025-04-10T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -282,9 +266,19 @@
                 "ticker": "UAA",
                 "title": "Under Armour (UAA) Surges 14.0%: Is This an Indication of Further Gains?",
                 "url": "https://finance.yahoo.com/news/under-armour-uaa-surges-14-140200792.html"
+            },
+            {
+                "headline": "A number of stocks fell in the afternoon session after stocks gave back some of the gains from the previous day as the White House clarified the tariffs on imports from China would add up to 145%, while the baseline 10% tariffs remained in place for all countries. This reminded markets that the global trade environment remained volatile, limiting the potential for sustained gains.",
+                "publication_date": "2025-04-10T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6249",
+                "source": "StockStory",
+                "ticker": "UAA",
+                "title": "Columbia Sportswear, Under Armour, Carter's, Disney, and Warner Bros. Discovery Stocks Trade Down, What You Need To Know",
+                "url": "https://finance.yahoo.com/news/columbia-sportswear-under-armour-carters-221903921.html"
             }
         ],
-        "avgScore": -0.32605,
+        "avgScore": -0.009066666666666667,
         "pctChange": -0.0019230293098973974
     },
     "4 9 2025": {
@@ -563,12 +557,12 @@
         "avgScore": 0.6369,
         "pctChange": 0.004746793062713667
     },
-    "coef": 0.22442257804708443,
-    "avgCoef": 0.01028531711442945,
+    "coef": 0.17331515708242978,
+    "avgCoef": -0.014261263015843259,
     "similar": {
-        "FLG": 0.4950498045156275,
-        "TMUS": 0.4422444920339605,
-        "T": 0.37843807278527963,
-        "HBAN": 0.34763497383764064
+        "FLG": 0.5006882315714638,
+        "TMUS": 0.47867995765623467,
+        "T": 0.43741444406518,
+        "RIG": 0.39889996471352884
     }
 }

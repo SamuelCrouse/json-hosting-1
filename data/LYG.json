@@ -1,4 +1,50 @@
 {
+    "4 25 2025": {
+        "importantArticles": [
+            {
+                "headline": "Does Lloyds (LYG) have what it takes to be a top stock pick for momentum investors? Let's find out.",
+                "publication_date": "2025-04-25T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.2023",
+                "source": "Zacks",
+                "ticker": "LYG",
+                "title": "Lloyds (LYG) is a Great Momentum Stock: Should You Buy?",
+                "url": "https://finance.yahoo.com/news/lloyds-lyg-great-momentum-stock-160008960.html"
+            },
+            {
+                "headline": "Earnings preview of key companies reporting next week and what to look out for.",
+                "publication_date": "2025-04-25T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Yahoo Finance UK",
+                "ticker": "LYG",
+                "title": "Stocks to watch next week: Apple, Microsoft, Shell, HSBC, Lloyds and AstraZeneca",
+                "url": "https://finance.yahoo.com/news/apple-microsoft-shell-hsbc-lloyds-astrazeneca-stocks-to-watch-050019911.html"
+            },
+            {
+                "headline": "Earnings preview of key companies reporting next week and what to look out for.",
+                "publication_date": "2025-04-25T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Yahoo Finance UK",
+                "ticker": "LYG",
+                "title": "Stocks to watch next week: Apple, Microsoft, Shell, HSBC, Lloyds and AstraZeneca",
+                "url": "https://finance.yahoo.com/news/apple-microsoft-shell-hsbc-lloyds-astrazeneca-stocks-to-watch-050019911.html"
+            },
+            {
+                "headline": "Does Lloyds (LYG) have what it takes to be a top stock pick for momentum investors? Let's find out.",
+                "publication_date": "2025-04-25T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.2023",
+                "source": "Zacks",
+                "ticker": "LYG",
+                "title": "Lloyds (LYG) is a Great Momentum Stock: Should You Buy?",
+                "url": "https://finance.yahoo.com/news/lloyds-lyg-great-momentum-stock-160008960.html"
+            }
+        ],
+        "avgScore": 0.10115,
+        "pctChange": 0.007672626785479199
+    },
     "4 24 2025": {
         "importantArticles": [
             {
@@ -63,7 +109,7 @@
             }
         ],
         "avgScore": 0.0,
-        "pctChange": 0.005141383132946303
+        "pctChange": 0.007672626785479199
     },
     "4 17 2025": {
         "importantArticles": [
@@ -465,12 +511,12 @@
         "avgScore": 0.7964,
         "pctChange": 0.010416709963314922
     },
-    "coef": 0.39451201583694584,
-    "avgCoef": 0.016635469264154122,
+    "coef": 0.4162315757466038,
+    "avgCoef": 0.016848387679534928,
     "similar": {
-        "PG": 0.779849333631172,
-        "KO": 0.7614999375457328,
-        "VZ": 0.7431505414602932,
-        "T": 0.7156264473321344
+        "VZ": 0.7464973841162387,
+        "KO": 0.7394549559641986,
+        "PG": 0.7394549559641986,
+        "T": 0.7324125278121587
     }
 }

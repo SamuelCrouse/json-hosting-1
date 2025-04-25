@@ -1,15 +1,81 @@
 {
+    "4 25 2025": {
+        "importantArticles": [
+            {
+                "headline": "Tesla (NASDAQ: TSLA) stock hit a new record high shortly after President Donald Trump's election win last November because investors thought a friendlier regulatory environment could help the company bring its autonomous robotaxi and humanoid robot to market more quickly.  CEO Elon Musk thinks these product platforms will help Tesla become the world's most valuable company one day.  In fact, Musk believes Tesla could eventually be as valuable as the next five largest companies combined.",
+                "publication_date": "2025-04-25T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9583",
+                "source": "Motley Fool",
+                "ticker": "GOOG",
+                "title": "Elon Musk Thinks Tesla Will Become the World's Most Valuable Company. Here's Why Its Stock Could Decline by 50% (or More) Instead",
+                "url": "https://finance.yahoo.com/news/elon-musk-thinks-tesla-become-114500733.html"
+            },
+            {
+                "headline": "LONDON (Reuters) -Britain could gain 400 billion pounds ($533 billion) from AI-driven growth if it trained its workforce, Google said, after a pilot scheme in the UK showed workers could save more than 120 hours a year by using AI in administrative tasks.  Simple steps such as giving workers permission to use AI and a few hours of training to get them started could help double the adoption of the new technology, and in turn boost economic growth, Google said in a report on its pilot scheme, published on Friday.  The U.S. tech giant, which developed the Gemini AI chatbot, said that according to analysis by Public First, its partner in the scheme, two thirds of workers - particularly older women from lower socio-economic backgrounds - had never used generative AI at work.",
+                "publication_date": "2025-04-25T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9468",
+                "source": "Reuters",
+                "ticker": "GOOG",
+                "title": "Workers could save 122 hours a year by adopting AI in admin tasks, says Google",
+                "url": "https://finance.yahoo.com/news/workers-could-save-122-hours-230523442.html"
+            },
+            {
+                "headline": "The recent announcement of IONIX's Cloud Exposure Validator highlights a significant advancement in cloud AI security operations. By automating over 80% of CNAPP alert analysis, this AI-driven solution helps security teams by reducing alert fatigue and enabling a focus on genuine, exploitable risks, reclassifying 40% of alerts as non-critical. This tool promises to streamline the manual alert validation process, traditionally a time-consuming task, thereby enhancing operational efficiency and...",
+                "publication_date": "2025-04-25T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9442",
+                "source": "Simply Wall St.",
+                "ticker": "GOOG",
+                "title": "Cloud AI Today - Automating Cloud Security: A New Era in Threat Management",
+                "url": "https://finance.yahoo.com/news/cloud-ai-today-automating-cloud-123809598.html"
+            },
+            {
+                "headline": "Stocks were falling Friday as ongoing trade tensions between China and the U.S. overshadowed a solid set of earnings from Google parent Alphabet.  Investors are still struggling to work out if China and the U.S. will be able to broker a trade deal, after Chinese officials said Friday that Beijing and Washington still aren\u2019t negotiating on tariffs.  The market appeared to be zeroing in on those tensions instead of a solid earnings report from Alphabet.",
+                "publication_date": "2025-04-25T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.765",
+                "source": "Barrons.com",
+                "ticker": "GOOG",
+                "title": "Stock Futures Slide as Investors Weigh up Trade Tensions, Google Earnings Beat",
+                "url": "https://finance.yahoo.com/m/31cd8b87-f91a-33e8-b69e-73b7d5e310a0/stock-futures-slide-as.html"
+            },
+            {
+                "headline": "U.S. stocks had a muted opening Friday morning, as trade war pessimism resumed its hold following a rally the day before. Meanwhile, bulls are betting on Google (GOOGL) parent Alphabet\u2019s blowout earnings and \u2014 one more time \u2014 hopes that the Fed could cut rates in the coming months.",
+                "publication_date": "2025-04-25T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.6621",
+                "source": "Quartz",
+                "ticker": "GOOG",
+                "title": "Stocks waver as hopes for a quick trade war truce fade",
+                "url": "https://finance.yahoo.com/news/google-gives-stock-bulls-reason-123149968.html"
+            },
+            {
+                "headline": "Google-parent Alphabet is facing risk on multiple fronts. Its search engine is under attack from AI, while courts are calling the business a monopoly.",
+                "publication_date": "2025-04-25T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.6369",
+                "source": "Barrons.com",
+                "ticker": "GOOG",
+                "title": "Google Earnings Beat on Strong Margins. The Stock Is Rising.",
+                "url": "https://finance.yahoo.com/m/95bf3b14-46f5-3293-89f3-97f83dcc3357/google-earnings-beat-on.html"
+            }
+        ],
+        "avgScore": 0.2016030303030302,
+        "pctChange": -0.02214250192629649
+    },
     "4 24 2025": {
         "importantArticles": [
             {
-                "headline": "Chief Executive Sundar Pichai said search saw continued strong growth, boosted by engagement with its artificial intelligence features.",
+                "headline": "We recently published a list of 20 Best Stocks To Buy According to Marjorie Taylor Greene. In this article, we are going to take a look at where Alphabet Inc. (NASDAQ:GOOG) stands against other best stocks to buy according to Marjorie Taylor Greene. Marjorie Taylor Greene is one of the most active members of the [\u2026]",
                 "publication_date": "2025-04-24T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.926",
-                "source": "The Wall Street Journal",
+                "sentimentScore": "0.908",
+                "source": "Insider Monkey",
                 "ticker": "GOOG",
-                "title": "Alphabet Profit, Revenue Rise With Growth in Advertising, Cloud",
-                "url": "https://finance.yahoo.com/m/9bbf5086-d8e9-33d3-b031-2348ff8ba626/alphabet-profit-revenue-rise.html"
+                "title": "Is Alphabet Inc. (GOOG) the Best Stock to Buy According to Marjorie Taylor Greene?",
+                "url": "https://finance.yahoo.com/news/alphabet-inc-goog-best-stock-210555015.html"
             },
             {
                 "headline": "Google stock currently stands as a better short opportunity than some of the other Magnificent Seven companies like Apple or Microsoft.",
@@ -42,41 +108,31 @@
                 "url": "https://finance.yahoo.com/news/apple-google-lag-fintechs-wallets-094815577.html"
             },
             {
-                "headline": "(Bloomberg) -- Wall Street investors weighing the impacts of Donald Trump\u2019s trade war on Corporate America sent stocks climbing amid bets the Federal Reserve could cut rates sooner than anticipated to prevent a recession.Most Read from BloombergTrump Gives New York \u2018One Last Chance\u2019 to End Congestion FeeWhy Car YouTuber Matt Farah Is Fighting for Walkable CitiesBackyard Micro-Flats Aim to Ease South Africa\u2019s Housing CrisisThe Racial Wealth Gap Is Not Just About MoneyTo Fuel Affordable Housing, T",
+                "headline": "Big Tech stocks surged for a second day, with \u2018Magnificent Seven\u2019 firms adding $455 billion to their market capitalizations Wednesday as the Trump administration hinted at a deescalation of the US-China trade war.",
                 "publication_date": "2025-04-24T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.4019",
-                "source": "Bloomberg",
+                "sentimentScore": "-0.5994",
+                "source": "Yahoo Finance",
                 "ticker": "GOOG",
-                "title": "Stock Rally Powers On as Alphabet Up in Late Hours: Markets Wrap",
-                "url": "https://finance.yahoo.com/news/stock-rally-loses-steam-wavering-024243837.html"
+                "title": "Big Tech stocks gain over $450 billion as Trump, Bessent signal deescalation of US-China trade war",
+                "url": "https://finance.yahoo.com/news/big-tech-stocks-gain-over-450-billion-as-trump-bessent-signal-deescalation-of-us-china-trade-war-143427595.html"
             },
             {
-                "headline": "The benchmark US stock measures were trending lower before Thursday's opening bell as recent optimis",
+                "headline": "Alphabet (GOOG) is unlikely to serve up any unexpected bad news that investors don't already know, w",
                 "publication_date": "2025-04-24T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.296",
+                "sentimentScore": "-0.5423",
                 "source": "MT Newswires",
                 "ticker": "GOOG",
-                "title": "Stocks Down Pre-Bell as China Denies Reports of Trade Talks; Alphabet Earnings on Deck",
-                "url": "https://finance.yahoo.com/news/stocks-down-pre-bell-china-114042419.html"
+                "title": "Tariffs, Other Marco Headwinds Already Priced Into Alphabet Stock Performance, RBC Says",
+                "url": "https://finance.yahoo.com/news/tariffs-other-marco-headwinds-already-180212956.html"
             }
         ],
-        "avgScore": 0.2898375000000001,
-        "pctChange": 0.018577558351093947
+        "avgScore": 0.2868911764705882,
+        "pctChange": 0.01195263925924708
     },
     "4 23 2025": {
         "importantArticles": [
-            {
-                "headline": "We recently published a list of 20 Best Stocks To Buy According to Marjorie Taylor Greene. In this article, we are going to take a look at where Alphabet Inc. (NASDAQ:GOOG) stands against other best stocks to buy according to Marjorie Taylor Greene. Marjorie Taylor Greene is one of the most active members of the [\u2026]",
-                "publication_date": "2025-04-23T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.908",
-                "source": "Insider Monkey",
-                "ticker": "GOOG",
-                "title": "Is Alphabet Inc. (GOOG) the Best Stock to Buy According to Marjorie Taylor Greene?",
-                "url": "https://finance.yahoo.com/news/alphabet-inc-goog-best-stock-210555015.html"
-            },
             {
                 "headline": "Although Alphabet (NASDAQ: GOOG)(NASDAQ: GOOGL) is currently undergoing a tough antitrust case, investors pushed the prices of its two share classes higher on the second trading day of the week.  Many were cheered by the prospect of a top name in artificial intelligence (AI) potentially buying one of the company's more high-profile assets.  On the day, Alphabet's stock price rose by almost 3%.",
                 "publication_date": "2025-04-23T00:00:00.000Z",
@@ -88,14 +144,24 @@
                 "url": "https://finance.yahoo.com/news/why-alphabet-stock-cranked-higher-012424751.html"
             },
             {
-                "headline": "We recently published a list of 15 Best Nancy Pelosi Stocks To Invest In Now. In this article, we are going to take a look at where Alphabet Inc. (NASDAQ:GOOG) stands against other best nancy pelosi stocks to invest in now. We are aware that Nancy Pelosi isn\u2019t the only member of the Congress with [\u2026]",
+                "headline": "Artificial intelligence (AI) technology is currently in its early phases of growth, but it is expected to gain rapid traction in the coming years thanks to its adoption across multiple industries, including cloud computing, automotive, and advertising.  Search engine giant Alphabet is down almost 20% in 2025 as of this writing.  The stock's decline can be attributed to the broader market sell-off as well as concerns that the company may have fallen behind in the AI race as compared to its rivals.",
                 "publication_date": "2025-04-23T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.8555",
-                "source": "Insider Monkey",
+                "sentimentScore": "0.8934",
+                "source": "Motley Fool",
                 "ticker": "GOOG",
-                "title": "Is Alphabet Inc. (GOOG) the Best Nancy Pelosi Stock To Invest In Now?",
-                "url": "https://finance.yahoo.com/news/alphabet-inc-goog-best-nancy-170756897.html"
+                "title": "No-Brainer Buy Alert: 1 Artificial Intelligence (AI) Stock With Massive Long-Term Potential",
+                "url": "https://finance.yahoo.com/news/no-brainer-buy-alert-1-211633145.html"
+            },
+            {
+                "headline": "(Bloomberg) -- OpenAI\u2019s goals of building a \u201csuper assistant\u201d app and reaching general artificial intelligence won\u2019t succeed without search technology but Google has declined to work with the startup, the head of its ChatGPT product testified Tuesday in the Google antitrust trial.Most Read from BloombergTrump Gives New York \u2018One Last Chance\u2019 to End Congestion FeeDOGE Visits National Gallery of Art to Discuss Museum\u2019s Legal StatusThe Racial Wealth Gap Is Not Just About MoneyOpenAI\u2019s Nick Turley s",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8625",
+                "source": "Bloomberg",
+                "ticker": "GOOG",
+                "title": "ChatGPT Chief Calls Search Crucial for OpenAI in Google Trial",
+                "url": "https://finance.yahoo.com/news/chatgpt-chief-calls-search-crucial-180344015.html"
             },
             {
                 "headline": "The rise of LLMs for info-seeking poses a threat to search advertising, even as Feds cry monopoly",
@@ -118,17 +184,17 @@
                 "url": "https://finance.yahoo.com/news/analysis-google-x-next-targets-103944708.html"
             },
             {
-                "headline": "Big Tech stocks surged for a second day, with \u2018Magnificent Seven\u2019 firms adding $455 billion to their market capitalizations Wednesday as the Trump administration hinted at a deescalation of the US-China trade war.",
+                "headline": "Amazon stock has been hit by fears about tariffs and e-commerce but analysts are warning about cloud risks as well.",
                 "publication_date": "2025-04-23T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.5994",
-                "source": "Yahoo Finance",
+                "sentimentScore": "-0.5647",
+                "source": "Investor's Business Daily",
                 "ticker": "GOOG",
-                "title": "Big Tech stocks gain over $450 billion as Trump, Bessent signal deescalation of US-China trade war",
-                "url": "https://finance.yahoo.com/news/big-tech-stocks-gain-over-450-billion-as-trump-bessent-signal-deescalation-of-us-china-trade-war-143427595.html"
+                "title": "Cloud Infrastructure Growth Could Cool This Year Despite AI Excitement, Analyst Says",
+                "url": "https://finance.yahoo.com/m/94e65c5a-4318-347d-b84d-8731823848ae/cloud-infrastructure-growth.html"
             }
         ],
-        "avgScore": 0.25196285714285704,
+        "avgScore": 0.24429117647058812,
         "pctChange": 0.023776312268426206
     },
     "4 22 2025": {
@@ -144,24 +210,34 @@
                 "url": "https://finance.yahoo.com/news/google-contemplated-exclusive-gemini-ai-142944516.html"
             },
             {
-                "headline": "Artificial intelligence (AI) technology is currently in its early phases of growth, but it is expected to gain rapid traction in the coming years thanks to its adoption across multiple industries, including cloud computing, automotive, and advertising.  Search engine giant Alphabet is down almost 20% in 2025 as of this writing.  The stock's decline can be attributed to the broader market sell-off as well as concerns that the company may have fallen behind in the AI race as compared to its rivals.",
+                "headline": "Explore these capable videoconferencing freebies that offer more than Zoom\u2019s free tier.",
                 "publication_date": "2025-04-22T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.8934",
-                "source": "Motley Fool",
+                "sentimentScore": "0.8387",
+                "source": "FastCompany",
                 "ticker": "GOOG",
-                "title": "No-Brainer Buy Alert: 1 Artificial Intelligence (AI) Stock With Massive Long-Term Potential",
-                "url": "https://finance.yahoo.com/news/no-brainer-buy-alert-1-211633145.html"
+                "title": "Set your meetings free with these no-cost Zoom alternatives",
+                "url": "https://finance.yahoo.com/news/set-meetings-free-no-cost-043000898.html"
             },
             {
-                "headline": "(Bloomberg) -- OpenAI\u2019s goals of building a \u201csuper assistant\u201d app and reaching general artificial intelligence won\u2019t succeed without search technology but Google has declined to work with the startup, the head of its ChatGPT product testified Tuesday in the Google antitrust trial.Most Read from BloombergTrump Gives New York \u2018One Last Chance\u2019 to End Congestion FeeDOGE Visits National Gallery of Art to Discuss Museum\u2019s Legal StatusThe Racial Wealth Gap Is Not Just About MoneyOpenAI\u2019s Nick Turley s",
+                "headline": "When it comes to designing semiconductor chips used to power artificial intelligence (AI) workloads, two companies stand head and shoulders above the rest: Nvidia (NASDAQ: NVDA) and Broadcom (NASDAQ: AVGO).  Nvidia has been the biggest early winner in AI chips, but Broadcom has been gaining momentum.  Nvidia and Broadcom are taking two very different approaches to the AI chip market.",
                 "publication_date": "2025-04-22T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.8625",
-                "source": "Bloomberg",
+                "sentimentScore": "0.7992",
+                "source": "Motley Fool",
                 "ticker": "GOOG",
-                "title": "ChatGPT Chief Calls Search Crucial for OpenAI in Google Trial",
-                "url": "https://finance.yahoo.com/news/chatgpt-chief-calls-search-crucial-180344015.html"
+                "title": "Better AI Chip Stock: Nvidia vs. Broadcom",
+                "url": "https://finance.yahoo.com/news/better-ai-chip-stock-nvidia-220000502.html"
+            },
+            {
+                "headline": "Alphabet (GOOG, GOOGL) fights a breakup of its businesses, as Monday marked the first day of the remedies phase of the antitrust trial. Yahoo Finance Senior Legal Reporter Alexis Keenan breaks down the arguments from the Google parent company and US antitrust regulators. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime here.",
+                "publication_date": "2025-04-22T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.6573",
+                "source": "Yahoo Finance Video",
+                "ticker": "GOOG",
+                "title": "Google's antitrust breakup trial: What to know",
+                "url": "https://finance.yahoo.com/video/googles-antitrust-breakup-trial-know-210843962.html"
             },
             {
                 "headline": "U.S. stocks looked set to open higher Tuesday, clawing back some ground after a brutal Monday selloff. Nasdaq futures rose 0.8%, with the S&P 500 and Dow also in the green.",
@@ -174,51 +250,21 @@
                 "url": "https://finance.yahoo.com/news/google-tesla-verizon-lockheed-martin-125025613.html"
             },
             {
-                "headline": "Amazon stock has been hit by fears about tariffs and e-commerce but analysts are warning about cloud risks as well.",
+                "headline": "The judge who found that the tech company maintained an illegal monopoly is asked to force it to sell its Chrome web browser.",
                 "publication_date": "2025-04-22T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.5647",
-                "source": "Investor's Business Daily",
+                "sentimentScore": "-0.5574",
+                "source": "The Wall Street Journal",
                 "ticker": "GOOG",
-                "title": "Cloud Infrastructure Growth Could Cool This Year Despite AI Excitement, Analyst Says",
-                "url": "https://finance.yahoo.com/m/94e65c5a-4318-347d-b84d-8731823848ae/cloud-infrastructure-growth.html"
-            },
-            {
-                "headline": "Anthony Chavez, vice president of the Google-backed Privacy Sandbox initiative, said in July that Google would introduce a new experience in Chrome to let people make an informed choice that applies across their web browsing.  The announcement comes as Alphabet faces legal pressure, after a U.S. judge recently ruled that Google maintains illegal monopolies in online advertising technology \u2014 a decision that could potentially lead to a court-ordered breakup of its ad tech business.  Last year, the tech giant scrapped longstanding plans to remove third-party cookies, the tiny packets of code that track users' activity across the internet, from Chrome after advertisers raised concerns that a removal would limit their ability to collect information for personalizing ads, leaving them dependent on Google's own user databases.",
-                "publication_date": "2025-04-22T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.4588",
-                "source": "Reuters",
-                "ticker": "GOOG",
-                "title": "Google opts out of standalone prompt for third-party cookies",
-                "url": "https://finance.yahoo.com/news/google-opts-standalone-prompt-third-171850860.html"
+                "title": "Justice Department Urges Tough Action to Break Google\u2019s Search Dominance",
+                "url": "https://finance.yahoo.com/m/02169725-77b8-3dd3-b254-6486d0c7700d/justice-department-urges.html"
             }
         ],
-        "avgScore": 0.23040303030303022,
+        "avgScore": 0.13832894736842108,
         "pctChange": 0.024821361115765533
     },
     "4 21 2025": {
         "importantArticles": [
-            {
-                "headline": "WASHINGTON (Reuters) -Alphabet's Google needs strong measures imposed on it to prevent it from using its artificial intelligence products to extend its dominance in online search, a U.S. Department of Justice attorney said as a trial in the historic antitrust case began on Monday.  The outcome of the case could fundamentally reshape the internet by unseating Google as the go-to portal for information online.  The Justice Department is seeking an order that would require Google to sell its Chrome browser and take other measures to end what a judge found was its monopoly in online search.",
-                "publication_date": "2025-04-21T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.9382",
-                "source": "Reuters",
-                "ticker": "GOOG",
-                "title": "Google could use AI to extend search monopoly, DOJ says as trial begins",
-                "url": "https://finance.yahoo.com/news/google-faces-trial-us-bid-101354412.html"
-            },
-            {
-                "headline": "When it comes to designing semiconductor chips used to power artificial intelligence (AI) workloads, two companies stand head and shoulders above the rest: Nvidia (NASDAQ: NVDA) and Broadcom (NASDAQ: AVGO).  Nvidia has been the biggest early winner in AI chips, but Broadcom has been gaining momentum.  Nvidia and Broadcom are taking two very different approaches to the AI chip market.",
-                "publication_date": "2025-04-21T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7992",
-                "source": "Motley Fool",
-                "ticker": "GOOG",
-                "title": "Better AI Chip Stock: Nvidia vs. Broadcom",
-                "url": "https://finance.yahoo.com/news/better-ai-chip-stock-nvidia-220000502.html"
-            },
             {
                 "headline": "Daniela Rus -- author of The Heart and The Chip and The Mind's Mirror -- talks through the nature of developing truly autonomous robots, and how most cutting-edge robotics work gets funded.  To catch full episodes of all The Motley Fool's free podcasts, check out our podcast center.",
                 "publication_date": "2025-04-21T00:00:00.000Z",
@@ -230,137 +276,117 @@
                 "url": "https://finance.yahoo.com/news/management-weighs-macro-172800534.html"
             },
             {
-                "headline": "Google is confronting an existential threat as the U.S. government tries to break up the company as punishment for turning its revolutionary search engine into an illegal monopoly.  In its opening arguments, federal antitrust enforcers also urged the court to impose forward-looking remedies to prevent Google from using artificial intelligence to further its dominance.  \u201cThis is a moment in time, we\u2019re at an inflection point, will we abandon the search market and surrender them to control of the monopolists or will we let competition prevail and give choice to future generations,\u201d said Justice Department attorney David Dahlquist.",
+                "headline": "Ackman aims to emulate some of the qualities that made Warren Buffett so successful.",
                 "publication_date": "2025-04-21T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.8807",
-                "source": "Associated Press Finance",
-                "ticker": "GOOG",
-                "title": "Google faces off with US government in attempt to break up company in search monopoly case",
-                "url": "https://finance.yahoo.com/news/google-face-off-us-government-002008266.html"
-            },
-            {
-                "headline": "The court's documents say that in a video published on YouTube, information on the losses in Ukraine of Russian servicemen, as well as their personal data, were disclosed, TASS reported.  Russia has for several years ordered foreign technology platforms to remove content it deems illegal, such as what it calls \"fakes\" about the war in Ukraine, issuing small but persistent fines when it sees failures to comply.",
-                "publication_date": "2025-04-21T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.8422",
-                "source": "Reuters",
-                "ticker": "GOOG",
-                "title": "Moscow court finds Google guilty of disclosing Russian war casualties, TASS says",
-                "url": "https://finance.yahoo.com/news/moscow-court-finds-google-guilty-033727206.html"
-            },
-            {
-                "headline": "Alphabet (GOOG, GOOGL) fights a breakup of its businesses, as Monday marked the first day of the remedies phase of the antitrust trial. Yahoo Finance Senior Legal Reporter Alexis Keenan breaks down the arguments from the Google parent company and US antitrust regulators. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime here.",
-                "publication_date": "2025-04-21T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.6573",
-                "source": "Yahoo Finance Video",
-                "ticker": "GOOG",
-                "title": "Google's antitrust breakup trial: What to know",
-                "url": "https://finance.yahoo.com/video/googles-antitrust-breakup-trial-know-210843962.html"
-            }
-        ],
-        "avgScore": -0.013614285714285709,
-        "pctChange": 0.026958449684229818
-    },
-    "4 17 2025": {
-        "importantArticles": [
-            {
-                "headline": "Nvidia fell 3% following a $5.5 billion charge tied to U.S. export controls; AMD shares also declined.",
-                "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.296",
-                "source": "GuruFocus.com",
+                "sentimentScore": "0.7065",
+                "source": "Motley Fool",
                 "ticker": "GOOG",
-                "title": "S&P 500 Rises, Dow Falls 500 Points as UnitedHealth Tumbles on Earnings Miss",
-                "url": "https://finance.yahoo.com/news/p-500-rises-dow-falls-214619879.html"
+                "title": "Billionaire Bill Ackman Has 44% of His Hedge Fund's $13 Billion Portfolio Invested in 3 Outstanding Stocks",
+                "url": "https://finance.yahoo.com/news/billionaire-bill-ackman-44-hedge-141500851.html"
             },
             {
-                "headline": "We recently published a list of 10 AI Stocks You Shouldn\u2019t Overlook Right Now. In this article, we are going to take a look at where Alphabet Inc. (NASDAQ:GOOGL) stands against other AI stocks you shouldn\u2019t overlook right now. According to Adam Thierer, a senior fellow at the center-right think tank R Street Institute, Trump\u2019s [\u2026]",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
+                "headline": "(Bloomberg) -- Nvidia Corp. shares are trading near their lowest valuation of the artificial intelligence era, but a growing list of perils has investors cautious about taking advantage of the dip.Most Read from BloombergDOGE Visits National Gallery of Art to Discuss Museum\u2019s Legal StatusTrump Administration Takes Over New York Penn Station RevampDOGE Places Entire Staff of Federal Homelessness Agency on LeaveNashville\u2019s $3 Billion Transit Plan Brings a Call for Zoning ReformThe latest shock for",
+                "publication_date": "2025-04-21T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.2846",
+                "source": "Bloomberg",
+                "ticker": "GOOG",
+                "title": "Nvidia investors balk at beaten down valuation as risks mount",
+                "url": "https://finance.yahoo.com/news/nvidia-investors-balk-beaten-down-110030282.html"
+            },
+            {
+                "headline": "We recently published a list of Jim Cramer\u2019s Game Plan for Next Week: 25 Stocks in Focus. In this article, we are going to take a look at where Alphabet Inc.\u2019s (NASDAQ:GOOGL) stands against other stocks that Jim Cramer discussed. On Thursday, Jim Cramer, the host of Mad Money, walked viewers through what he described [\u2026]",
+                "publication_date": "2025-04-21T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.4939",
                 "source": "Insider Monkey",
                 "ticker": "GOOG",
-                "title": "Alphabet (GOOGL) Eyes Grid Optimization with AI Through PJM Partnership",
-                "url": "https://finance.yahoo.com/news/alphabet-googl-eyes-grid-optimization-222318074.html"
+                "title": "Jim Cramer Questions Alphabet Inc. (GOOGL) Amid AI Cannibalism Concerns",
+                "url": "https://finance.yahoo.com/news/jim-cramer-questions-alphabet-inc-141153831.html"
             },
             {
-                "headline": "Several big companies will be reporting earnings results next week. Tesla (TSLA) will be reporting first quarter numbers on Tuesday, April 22, Boeing (BA) will be reporting its first quarter results on Wednesday, April 23, and Alphabet (GOOG, GOOGL) will be posting first quarter earnings results on Thursday, April 24. Asking for a Trend host Josh Lipton breaks down the earnings results to watch next week. To watch more expert insights and analysis on the latest market action, check out more Asking for a Trend here.",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Yahoo Finance Video",
-                "ticker": "GOOG",
-                "title": "Tesla, Alphabet, Boeing earnings: What to Watch",
-                "url": "https://finance.yahoo.com/video/tesla-alphabet-boeing-earnings-watch-220932835.html"
-            },
-            {
-                "headline": "A federal judge ruled that Google (GOOGL, GOOG) holds an illegal monopoly in parts of the online ad tech market, marking the company\u2019s second major antitrust loss in just over a year. Rebecca Haw Allensworth, associate dean for research and professor at Vanderbilt Law School, joins Market Domination to explain what the decision could mean for Google. To watch more expert insights and analysis on the latest market action, check out more Market Domination&nbsp;here.",
-                "publication_date": "2025-04-17T00:00:00.000Z",
+                "headline": "A shocking company is this investing titan's pick to lead the market out of its current slump.",
+                "publication_date": "2025-04-21T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.7269",
-                "source": "Yahoo Finance Video",
+                "sentimentScore": "-0.4019",
+                "source": "TheStreet",
                 "ticker": "GOOG",
-                "title": "Google monopoly ruling a 'really big win for the government'",
-                "url": "https://finance.yahoo.com/video/google-monopoly-ruling-really-big-203331137.html"
+                "title": "Wall Street icon predicts surprise earnings week winner",
+                "url": "https://finance.yahoo.com/news/wall-street-icon-predicts-surprise-130300704.html"
             },
             {
-                "headline": "A number of stocks jumped in the morning session after a Federal judge ruled that advertising giant Google (owned by Alphabet) monopolized online advertising technology. The affected technologies were the publisher ad servers and exchanges. These platforms are central to how digital ads are bought, sold, and placed across the internet, and they have been major revenue drivers for Alphabet. The decision raised the possibility that Alphabet could be forced to divest these assets, potentially weake",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.5423",
-                "source": "StockStory",
-                "ticker": "GOOG",
-                "title": "The Trade Desk and PubMatic Shares Are Soaring, What You Need To Know",
-                "url": "https://finance.yahoo.com/news/trade-desk-pubmatic-shares-soaring-204730617.html"
-            },
-            {
-                "headline": "Shares of online advertising giant Alphabet (NASDAQ:GOOGL) fell 3% in the morning session after a federal judge ruled that the company monopolized online advertising technology. The affected technologies were the publisher ad servers and exchanges. These platforms are central to how digital ads are bought, sold, and placed across the internet, and they have been major revenue drivers for Alphabet. The decision raised the possibility that the company could be forced to divest these assets, potent",
-                "publication_date": "2025-04-17T00:00:00.000Z",
+                "headline": "Here are some of the stories driving the market action. All three of the major indexes (^DJI, ^GSPC, ^IXIC) saw their losses steepen after President Trump again aired his dissatisfaction with Federal Reserve Chairman Jerome Powell Two stocks in focus this week are Tesla (TSLA) and Google-parent Alphabet (GOOG, GOOGL), both of which are set to report their latest quarterly results. Nvidia (NVDA) shares are falling following a Reuters report that Huawei is preparing to ship AI chips that will help Chinese companies work around curbs on Nvidia chips. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
+                "publication_date": "2025-04-21T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.3818",
-                "source": "StockStory",
+                "source": "Yahoo Finance Video",
                 "ticker": "GOOG",
-                "title": "Why Alphabet (GOOGL) Shares Are Falling Today",
-                "url": "https://finance.yahoo.com/news/why-alphabet-googl-shares-falling-185301035.html"
+                "title": "Dow losses steepen after Trump lashes out at Powell again",
+                "url": "https://finance.yahoo.com/video/dow-losses-steepen-trump-lashes-151734868.html"
             }
         ],
-        "avgScore": -0.16486666666666666,
-        "pctChange": -0.022822117801711558
+        "avgScore": -0.038541176470588245,
+        "pctChange": 0.026958449684229818
     },
     "4 2 2025": {
         "importantArticles": [
             {
-                "headline": "Google-parent Alphabet is facing risk on multiple fronts. Its search engine is under attack from AI, while courts are calling the business a monopoly.",
+                "headline": "Shares of Google parent Alphabet climbed Friday, leading shares of several other adtech and AI stocks higher, after showing signs of success with AI features.",
                 "publication_date": "2025-04-02T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.6369",
-                "source": "Barrons.com",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7964",
+                "source": "Investopedia",
                 "ticker": "GOOG",
-                "title": "Google Earnings Beat on Strong Margins. The Stock Is Rising.",
-                "url": "https://finance.yahoo.com/m/95bf3b14-46f5-3293-89f3-97f83dcc3357/google-earnings-beat-on.html"
+                "title": "Google Parent Alphabet Leads Adtech Stocks Higher on Signs of AI Success",
+                "url": "https://finance.yahoo.com/news/google-parent-alphabet-leads-adtech-173100067.html"
             },
             {
-                "headline": "Google-parent Alphabet is facing risk on multiple fronts. Its search engine is under attack from AI, while courts are calling the business a monopoly.",
+                "headline": "Shares of Google parent Alphabet climbed Friday, leading shares of several other adtech and AI stocks higher, after showing signs of success with AI features.",
                 "publication_date": "2025-04-02T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.6369",
-                "source": "Barrons.com",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7964",
+                "source": "Investopedia",
                 "ticker": "GOOG",
-                "title": "Google Earnings Beat on Strong Margins. The Stock Is Rising.",
-                "url": "https://finance.yahoo.com/m/95bf3b14-46f5-3293-89f3-97f83dcc3357/google-earnings-beat-on.html"
+                "title": "Google Parent Alphabet Leads Adtech Stocks Higher on Signs of AI Success",
+                "url": "https://finance.yahoo.com/news/google-parent-alphabet-leads-adtech-173100067.html"
             }
         ],
-        "avgScore": -0.6369,
+        "avgScore": 0.7964,
         "pctChange": -0.03921689351380442
     },
-    "coef": 0.4285714285714286,
-    "avgCoef": 0.016635469264154122,
+    "3 26 2025": {
+        "importantArticles": [
+            {
+                "headline": "Alphabet (NasdaqGS:GOOGL) saw a 5% price increase last week, building on strong earnings results with a notable rise in sales and net income for Q1 2025. This performance highlighted a robust trajectory with elevated earnings per share, reinforcing investor confidence. Coupled with an expansive $70 billion buyback program, Alphabet's announcements suggested its commitment to enhancing shareholder value. Meanwhile, broader market activity showed mixed movements, with lingering tariff...",
+                "publication_date": "2025-03-26T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9477",
+                "source": "Simply Wall St.",
+                "ticker": "GOOG",
+                "title": "Alphabet (NasdaqGS:GOOGL) Reports Q1 Sales of US$90 Billion and Net Income of US$34 Billion",
+                "url": "https://finance.yahoo.com/news/alphabet-nasdaqgs-googl-reports-q1-172344427.html"
+            },
+            {
+                "headline": "Alphabet (NasdaqGS:GOOGL) saw a 5% price increase last week, building on strong earnings results with a notable rise in sales and net income for Q1 2025. This performance highlighted a robust trajectory with elevated earnings per share, reinforcing investor confidence. Coupled with an expansive $70 billion buyback program, Alphabet's announcements suggested its commitment to enhancing shareholder value. Meanwhile, broader market activity showed mixed movements, with lingering tariff...",
+                "publication_date": "2025-03-26T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9477",
+                "source": "Simply Wall St.",
+                "ticker": "GOOG",
+                "title": "Alphabet (NasdaqGS:GOOGL) Reports Q1 Sales of US$90 Billion and Net Income of US$34 Billion",
+                "url": "https://finance.yahoo.com/news/alphabet-nasdaqgs-googl-reports-q1-172344427.html"
+            }
+        ],
+        "avgScore": 0.9477,
+        "pctChange": -0.018307990724949506
+    },
+    "coef": -0.7142857142857144,
+    "avgCoef": 0.0170839984909337,
     "similar": {
-        "LUV": 1.0,
-        "RKLB": 1.0,
-        "NIO": 0.942857142857143,
-        "HOOD": 0.942857142857143
+        "BTG": 0.7500000000000002,
+        "GOLD": 0.5714285714285715,
+        "KGC": 0.5357142857142858,
+        "NGD": 0.39285714285714296
     }
 }

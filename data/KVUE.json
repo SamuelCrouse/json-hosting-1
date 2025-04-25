@@ -23,7 +23,7 @@
             }
         ],
         "avgScore": 0.0,
-        "pctChange": -0.007417106270857985
+        "pctChange": 0.01142858148931147
     },
     "4 16 2025": {
         "importantArticles": [
@@ -70,6 +70,32 @@
         ],
         "avgScore": 0.38634999999999997,
         "pctChange": 0.029036509489835837
+    },
+    "4 11 2025": {
+        "importantArticles": [
+            {
+                "headline": "NEW YORK (Reuters) -Billionaire investor Daniel Loeb's hedge fund Third Point is building a stake in Kenvue, sources familiar with the matter said on Friday, as some investors are pushing for strategic changes at the consumer healthcare company.  News of Third Point's investment in the $44 billion Summit, New Jersey-headquartered maker of Band-Aids and Tylenol helped push its share price up more than 2% in late afternoon trading on Friday before giving up some gains to close at $23.01.  Kenvue, spun out of Johnson & Johnson two years ago, has faced pressure from activist investors for months and avoided a full-blown proxy fight with Starboard Value in March when it added the firm's founder and chief executive, Jeffrey Smith, to its board.",
+                "publication_date": "2025-04-11T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.3182",
+                "source": "Reuters",
+                "ticker": "KVUE",
+                "title": "Loeb's Third Point builds stake in Band-Aid maker Kenvue",
+                "url": "https://finance.yahoo.com/news/loebs-third-point-builds-stake-221617012.html"
+            },
+            {
+                "headline": "NEW YORK (Reuters) -Billionaire investor Daniel Loeb's hedge fund Third Point is building a stake in Kenvue, sources familiar with the matter said on Friday, as some investors are pushing for strategic changes at the consumer healthcare company.  News of Third Point's investment in the $44 billion Summit, New Jersey-headquartered maker of Band-Aids and Tylenol helped push its share price up more than 2% in late afternoon trading on Friday before giving up some gains to close at $23.01.  Kenvue, spun out of Johnson & Johnson two years ago, has faced pressure from activist investors for months and avoided a full-blown proxy fight with Starboard Value in March when it added the firm's founder and chief executive, Jeffrey Smith, to its board.",
+                "publication_date": "2025-04-11T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.3182",
+                "source": "Reuters",
+                "ticker": "KVUE",
+                "title": "Loeb's Third Point builds stake in Band-Aid maker Kenvue",
+                "url": "https://finance.yahoo.com/news/loebs-third-point-builds-stake-221617012.html"
+            }
+        ],
+        "avgScore": 0.3182,
+        "pctChange": 0.028066950095160203
     },
     "4 10 2025": {
         "importantArticles": [
@@ -261,38 +287,12 @@
         "avgScore": 0.7468666666666667,
         "pctChange": -0.0041701577722549335
     },
-    "3 25 2025": {
-        "importantArticles": [
-            {
-                "headline": "We recently published a list of the 12 Best Household Stocks to Buy According to Hedge Funds. In this article, we are going to take a look at where Kenvue Inc. (NYSE:KVUE) stands against the other best household stocks to buy according to hedge funds. Is There a Softening in the Consumer Staple Sector? On [\u2026]",
-                "publication_date": "2025-03-25T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8555",
-                "source": "Insider Monkey",
-                "ticker": "KVUE",
-                "title": "Why Kenvue Inc. (KVUE) is Among the Best Household Stocks to Buy According to Hedge Funds",
-                "url": "https://finance.yahoo.com/news/why-kenvue-inc-kvue-among-164501863.html"
-            },
-            {
-                "headline": "We recently published a list of the 12 Best Household Stocks to Buy According to Hedge Funds. In this article, we are going to take a look at where Kenvue Inc. (NYSE:KVUE) stands against the other best household stocks to buy according to hedge funds. Is There a Softening in the Consumer Staple Sector? On [\u2026]",
-                "publication_date": "2025-03-25T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8555",
-                "source": "Insider Monkey",
-                "ticker": "KVUE",
-                "title": "Why Kenvue Inc. (KVUE) is Among the Best Household Stocks to Buy According to Hedge Funds",
-                "url": "https://finance.yahoo.com/news/why-kenvue-inc-kvue-among-164501863.html"
-            }
-        ],
-        "avgScore": 0.8555,
-        "pctChange": 0.012986979744866116
-    },
-    "coef": 0.31138282809744733,
-    "avgCoef": 0.013732322424949636,
+    "coef": -0.261904761904762,
+    "avgCoef": -0.010164986991644444,
     "similar": {
-        "FI": 0.730552019767088,
-        "PCG": 0.6826469692905576,
-        "TAL": 0.5628843430992316,
-        "CMG": 0.5509080804800991
+        "RIOT": 0.7380952380952381,
+        "APH": 0.7142857142857144,
+        "IONQ": 0.6428571428571429,
+        "CLSK": 0.5952380952380953
     }
 }

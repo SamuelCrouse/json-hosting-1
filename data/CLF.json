@@ -1,4 +1,30 @@
 {
+    "4 25 2025": {
+        "importantArticles": [
+            {
+                "headline": "In the closing of the recent trading day, Cleveland-Cliffs (CLF) stood at $7.91, denoting no change from the preceding trading day.",
+                "publication_date": "2025-04-25T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.296",
+                "source": "Zacks",
+                "ticker": "CLF",
+                "title": "Cleveland-Cliffs (CLF) Flat As Market Gains: What You Should Know",
+                "url": "https://finance.yahoo.com/news/cleveland-cliffs-clf-flat-market-220015126.html"
+            },
+            {
+                "headline": "In the closing of the recent trading day, Cleveland-Cliffs (CLF) stood at $7.91, denoting no change from the preceding trading day.",
+                "publication_date": "2025-04-25T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.296",
+                "source": "Zacks",
+                "ticker": "CLF",
+                "title": "Cleveland-Cliffs (CLF) Flat As Market Gains: What You Should Know",
+                "url": "https://finance.yahoo.com/news/cleveland-cliffs-clf-flat-market-220015126.html"
+            }
+        ],
+        "avgScore": -0.296,
+        "pctChange": 0.014102519741974861
+    },
     "4 23 2025": {
         "importantArticles": [
             {
@@ -497,12 +523,12 @@
         "avgScore": 0.2158,
         "pctChange": 0.020787699479913626
     },
-    "coef": 0.2035765337158699,
-    "avgCoef": 0.01714254207662146,
+    "coef": 0.18921903639263982,
+    "avgCoef": -0.015018221286923086,
     "similar": {
-        "PONY": 0.4099041016711435,
-        "HBAN": 0.4044020331923362,
-        "RIVN": 0.39614893047412525,
-        "SNAP": 0.37964272503770335
+        "NKE": 0.5126515753428498,
+        "UAA": 0.48184847639521067,
+        "PONY": 0.4708473696281968,
+        "HBAN": 0.385038736845488
     }
 }

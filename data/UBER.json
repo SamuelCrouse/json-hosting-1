@@ -2,16 +2,6 @@
     "4 25 2025": {
         "importantArticles": [
             {
-                "headline": "Shares of ride-hailing leader Uber Technologies\u00a0were rallying today, up 5.8% as of 3:39 p.m. ET.  While the overall markets were also having a good day in the wake of the Trump administration backing down from its most maximal tariff posture, Uber outperformed, with a return of more than twice that of the Nasdaq Composite.  Can Uber aggregate robotaxis like it did human drivers?",
-                "publication_date": "2025-04-25T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7884",
-                "source": "Motley Fool",
-                "ticker": "UBER",
-                "title": "Why Uber Bounced Back Today",
-                "url": "https://finance.yahoo.com/news/why-uber-bounced-back-today-201044046.html"
-            },
-            {
                 "headline": "(Updates with Uber spokesperson statement starting in the third paragraph.) Uber Technologies (UB",
                 "publication_date": "2025-04-25T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -42,28 +32,38 @@
                 "url": "https://finance.yahoo.com/news/alphabet-earnings-beat-undervalued-tech-170200813.html"
             },
             {
-                "headline": "Netflix, Uber Technologies, IonQ, Oklo and Carvana have been highlighted in this Investment Ideas article.",
+                "headline": "DoorDash Inc. asked a California judge to dismiss Uber Technologies Inc.'s anticompetition lawsuit against it, arguing that Uber is using an 'ill-fitting' state law to justify its claims.",
                 "publication_date": "2025-04-25T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5994",
+                "source": "LA Times",
                 "ticker": "UBER",
-                "title": "Zacks Investment Ideas feature highlights: Netflix, Uber Technologies, IonQ, Oklo and Carvana",
-                "url": "https://finance.yahoo.com/news/zacks-investment-ideas-feature-highlights-084700530.html"
+                "title": "DoorDash asks judge to dismiss Uber lawsuit over web ordering services",
+                "url": "https://finance.yahoo.com/news/doordash-asks-judge-dismiss-uber-200027517.html"
             },
             {
-                "headline": "(Updates with Uber spokesperson statement starting in the third paragraph.) Uber Technologies (UB",
+                "headline": "We recently published a list of Jim Cramer Put These 16 Stocks Under a Microscope. In this article, we are going to take a look at where Uber Technologies, Inc. (NYSE:UBER) stands against other stocks that Jim Cramer discussed. On Wednesday, Jim Cramer, the host of Mad Money, took to discussing how President Donald Trump\u2019s [\u2026]",
                 "publication_date": "2025-04-25T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "MT Newswires",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.4939",
+                "source": "Insider Monkey",
                 "ticker": "UBER",
-                "title": "Update: Market Chatter: Uber, Lyft Lobby to Reduce Collision Insurance Requirements in California",
-                "url": "https://finance.yahoo.com/news/market-chatter-uber-lyft-lobby-133552504.html"
+                "title": "Jim Cramer Says Buy Uber (UBER): \u201cHold It for Multiple Years\u201d",
+                "url": "https://finance.yahoo.com/news/jim-cramer-says-buy-uber-203046381.html"
+            },
+            {
+                "headline": "Alphabet continues to grow at a steady clip, yet investors are missing the forest from the trees",
+                "publication_date": "2025-04-25T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.296",
+                "source": "Zacks",
+                "ticker": "UBER",
+                "title": "Alphabet Earnings Beat: An Undervalued Tech Behemoth",
+                "url": "https://finance.yahoo.com/news/alphabet-earnings-beat-undervalued-tech-170200813.html"
             }
         ],
-        "avgScore": 0.1231,
-        "pctChange": -0.009609939023111243
+        "avgScore": -0.27786,
+        "pctChange": -0.010373606772482169
     },
     "4 24 2025": {
         "importantArticles": [
@@ -78,6 +78,16 @@
                 "url": "https://finance.yahoo.com/news/uber-technologies-nyse-uber-partners-184207551.html"
             },
             {
+                "headline": "Shares of ride-hailing leader Uber Technologies\u00a0were rallying today, up 5.8% as of 3:39 p.m. ET.  While the overall markets were also having a good day in the wake of the Trump administration backing down from its most maximal tariff posture, Uber outperformed, with a return of more than twice that of the Nasdaq Composite.  Can Uber aggregate robotaxis like it did human drivers?",
+                "publication_date": "2025-04-24T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7884",
+                "source": "Motley Fool",
+                "ticker": "UBER",
+                "title": "Why Uber Bounced Back Today",
+                "url": "https://finance.yahoo.com/news/why-uber-bounced-back-today-201044046.html"
+            },
+            {
                 "headline": "Buying a stock is easy, but purchasing the right one without a proven strategy is incredibly hard. Here are the best Robinhood stocks to buy now.",
                 "publication_date": "2025-04-24T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -86,16 +96,6 @@
                 "ticker": "UBER",
                 "title": "These Are The Best Robinhood Stocks To Buy Or Watch Now",
                 "url": "https://finance.yahoo.com/m/013f3a26-06d7-3bb6-8811-ddbc901f9eec/these-are-the-best-robinhood.html"
-            },
-            {
-                "headline": "Volkswagen will supply thousands of electric vans in a collaboration agreement with Uber Technologies as the partners seek to offer rides in fully autonomous vehicles in the United States over the next decade, the German carmaker said. Testing is expected to begin later this year, with the first commercial launch of the service on the Uber platform expected in Los Angeles in 2026, VW said in a statement. During initial testing and launch phases, the VW vans, branded as ID.",
-                "publication_date": "2025-04-24T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7184",
-                "source": "Reuters",
-                "ticker": "UBER",
-                "title": "VW to contribute self-driving electric vans in U.S. pact with Uber",
-                "url": "https://finance.yahoo.com/news/vw-contribute-self-driving-electric-120717914.html"
             },
             {
                 "headline": "Hertz Global Holdings (HTZ) is back in the headlines, with its stock price doubling since last week. The catalyst? Bill Ackman\u2019s Pershing Square Capital Management (PSH) surprised the markets by amassing a 19.8% stake in the struggling car rental giant. The bold move has investors buzzing, with talk of a short squeeze and sky-high price targets. HTZ stock is up 22.5% over the past five days alone. Some investors are concerned that Ackman is betting on a company weighed down by debt and past miss",
@@ -118,18 +118,18 @@
                 "url": "https://finance.yahoo.com/news/2-tariff-resistant-growth-stocks-081900794.html"
             },
             {
-                "headline": "In the most recent trading session, Uber Technologies (UBER) closed at $73.74, indicating a -0.94% shift from the previous trading day.",
+                "headline": "BELMONT, Calif. & SAN FRANCISCO, April 24, 2025--Volkswagen Group of America Inc.\u2019s autonomous mobility subsidiary Volkswagen ADMT, LLC, and Uber Technologies, Inc. (NYSE: UBER) today announced a strategic partnership to deploy a fleet of thousands of all-electric, fully autonomous ID. Buzz AD vehicles within multiple U.S. markets over the next decade, starting in Los Angeles.",
                 "publication_date": "2025-04-24T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
-                "source": "Zacks",
+                "source": "Business Wire",
                 "ticker": "UBER",
-                "title": "Uber Technologies (UBER) Stock Falls Amid Market Uptick: What Investors Need to Know",
-                "url": "https://finance.yahoo.com/news/uber-technologies-uber-stock-falls-214517399.html"
+                "title": "Volkswagen and Uber Launch Long-Term Strategic Partnership to Deploy Autonomous ID. Buzz Vehicles on the Uber Platform",
+                "url": "https://finance.yahoo.com/news/volkswagen-uber-launch-long-term-120000478.html"
             }
         ],
-        "avgScore": 0.25071,
-        "pctChange": -0.003713200015278327
+        "avgScore": 0.32955,
+        "pctChange": -0.004481414608952494
     },
     "4 23 2025": {
         "importantArticles": [
@@ -154,14 +154,14 @@
                 "url": "https://finance.yahoo.com/news/uber-technologies-inc-nyse-uber-152343824.html"
             },
             {
-                "headline": "Investing.com -- First-quarter results for internet companies are expected to shed light on how the sector is managing through macroeconomic headwinds and tariff-related uncertainty, Jefferies analysts said Wednesday.",
+                "headline": "In the most recent trading session, Uber Technologies (UBER) closed at $73.74, indicating a -0.94% shift from the previous trading day.",
                 "publication_date": "2025-04-23T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.34",
-                "source": "Investing.com",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
                 "ticker": "UBER",
-                "title": "Jefferies flags 4 internet stocks to focus on during Q1 earnings season",
-                "url": "https://finance.yahoo.com/news/jefferies-flags-4-internet-stocks-132044160.html"
+                "title": "Uber Technologies (UBER) Stock Falls Amid Market Uptick: What Investors Need to Know",
+                "url": "https://finance.yahoo.com/news/uber-technologies-uber-stock-falls-214517399.html"
             },
             {
                 "headline": "Investing.com -- First-quarter results for internet companies are expected to shed light on how the sector is managing through macroeconomic headwinds and tariff-related uncertainty, Jefferies analysts said Wednesday.",
@@ -172,6 +172,16 @@
                 "ticker": "UBER",
                 "title": "Jefferies flags 4 internet stocks to focus on during Q1 earnings season",
                 "url": "https://finance.yahoo.com/news/jefferies-flags-4-internet-stocks-132044160.html"
+            },
+            {
+                "headline": "In the most recent trading session, Uber Technologies (UBER) closed at $73.74, indicating a -0.94% shift from the previous trading day.",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "UBER",
+                "title": "Uber Technologies (UBER) Stock Falls Amid Market Uptick: What Investors Need to Know",
+                "url": "https://finance.yahoo.com/news/uber-technologies-uber-stock-falls-214517399.html"
             },
             {
                 "headline": "We recently published a list of the 12 Best Stocks Under $100 to Buy According to Hedge Funds. In this article, we are going to take a look at where Uber Technologies Inc. (NYSE:UBER) stands against other stocks under $100 to buy according to hedge funds. On April 21, Chris Davis of Davis Advisors appeared [\u2026]",
@@ -182,33 +192,13 @@
                 "ticker": "UBER",
                 "title": "Is Uber Technologies Inc. (NYSE:UBER) the Best Stock Under $100 to Buy According to Hedge Funds?",
                 "url": "https://finance.yahoo.com/news/uber-technologies-inc-nyse-uber-152343824.html"
-            },
-            {
-                "headline": "Let's talk about the popular Uber Technologies, Inc. ( NYSE:UBER ). The company's shares saw a decent share price...",
-                "publication_date": "2025-04-23T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7351",
-                "source": "Simply Wall St.",
-                "ticker": "UBER",
-                "title": "What Does Uber Technologies, Inc.'s (NYSE:UBER) Share Price Indicate?",
-                "url": "https://finance.yahoo.com/news/does-uber-technologies-inc-nyse-120019610.html"
             }
         ],
-        "avgScore": 0.3439999999999999,
+        "avgScore": 0.25799999999999995,
         "pctChange": 0.05869597435398096
     },
     "4 22 2025": {
         "importantArticles": [
-            {
-                "headline": "Shares of ride-hailing and delivery leader Uber (NYSE: UBER) were initially doing much better than the plunging stock market today, with only moderate declines as of midday.  Midday, news came over the wires that the Federal Trade Commission (FTC) was suing the company over tactics for signing up users to its Uber One subscription service.  Did Uber flout the Restore Online Shoppers' Confidence Act?",
-                "publication_date": "2025-04-22T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.83",
-                "source": "Motley Fool",
-                "ticker": "UBER",
-                "title": "Why Uber Stock Was Down Today",
-                "url": "https://finance.yahoo.com/news/why-uber-stock-down-today-193700167.html"
-            },
             {
                 "headline": "(Bloomberg) -- Tesla Inc. investors reeling from one of the stock\u2019s worst-ever quarters are once again looking for Elon Musk to inject excitement back into the company when it reports results Tuesday, as profits slip and the much-awaited debut of a self-driving car remains months away.Most Read from BloombergDOGE Visits National Gallery of Art to Discuss Museum\u2019s Legal StatusTrump Gives New York \u2018One Last Chance\u2019 to End Congestion FeeTrump Administration Takes Over New York Penn Station RevampTh",
                 "publication_date": "2025-04-22T00:00:00.000Z",
@@ -220,14 +210,24 @@
                 "url": "https://finance.yahoo.com/news/tesla-risk-throwaway-without-narrative-110309935.html"
             },
             {
-                "headline": "Here are some stocks on the move on Monday, April 21. Shares of Amazon (AMZN) are slipping. Raymond James downgraded its rating on the stock to Outperform from Strong Buy. Salesforce (CRM) shares were downgraded to Underperform by DA Davidson, while Guggenheim upgraded the stock to Neutral. The Federal Trade Commission has sued Uber (UBER) accusing the company of deceptive billing practices in relation to its Uber One service. To watch more expert insights and analysis on the latest market action, check out more Market Domination here.",
+                "headline": "Expansion follows successful rollout in NYC.",
                 "publication_date": "2025-04-22T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.7134",
-                "source": "Yahoo Finance Video",
+                "sentimentScore": "0.5859",
+                "source": "Fortune",
                 "ticker": "UBER",
-                "title": "Amazon, Salesforce, Uber: Trending tickers",
-                "url": "https://finance.yahoo.com/video/amazon-salesforce-uber-trending-tickers-195224514.html"
+                "title": "Uber is launching a shuttle bus service at the Atlanta airport",
+                "url": "https://finance.yahoo.com/news/uber-launching-shuttle-bus-atlanta-143826722.html"
+            },
+            {
+                "headline": "Uber Technologies, DoorDash, Alphabet and Lyft are part of the Zacks Investment Ideas article.",
+                "publication_date": "2025-04-22T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "UBER",
+                "title": "Zacks Investment Ideas feature highlights: Uber Technologies, DoorDash, Alphabet and Lyft",
+                "url": "https://finance.yahoo.com/news/zacks-investment-ideas-feature-highlights-114600398.html"
             },
             {
                 "headline": "Uber\u00a0user complaints about recurring monthly charges, unclear enrollment and a frustrating cancellation process spur a Federal Trade Commission lawsuit.",
@@ -240,31 +240,51 @@
                 "url": "https://finance.yahoo.com/news/card-holders-rail-uber-ftc-104500810.html"
             },
             {
-                "headline": "The U.S. Federal Trade Commission filed a lawsuit against Uber on Monday, alleging that it enrolled consumers in its Uber One subscription program without their consent and made it too difficult for them to cancel the service.  Uber One members pay $9.99 per month or $96 per year for a range of services, including fee-free Uber Eats food deliveries and cash back when they take Uber rides.  In its lawsuit, the FTC said multiple customers complained that Uber signed them up for Uber One without their permission or charged them for the service before a free trial period was over.",
+                "headline": "China warns countries looking for a U.S. trade deal, gold glitters as dollar weakens, more news to start your day.",
                 "publication_date": "2025-04-22T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.8329",
-                "source": "Associated Press Finance",
+                "sentimentScore": "-0.4019",
+                "source": "Barrons.com",
                 "ticker": "UBER",
-                "title": "FTC sues Uber, alleging it signed up Uber One subscribers without their permission",
-                "url": "https://finance.yahoo.com/news/ftc-sues-uber-alleging-signed-201054974.html"
+                "title": "Trump\u2019s Powell Attack Put Stock Markets on Fed Alert. There\u2019s Plenty More to Worry About and 5 Other Things to Know Today.",
+                "url": "https://finance.yahoo.com/m/38744282-cfac-3f7c-91e9-722565279674/trump%E2%80%99s-powell-attack-put.html"
             },
             {
-                "headline": "Federal watchdog says ride-hailing app\u2019s subscription service charged customers without consent, made it hard to cancel.",
+                "headline": "We recently published a list of 9 Stocks That Could 10X Over the Next 2 Years. In this article, we are going to take a look at where Uber Technologies, Inc. (NYSE:UBER) stands against other stocks that could 10X over the next 2 years. US Tariffs and the Stock Market Turmoil While tariffs from the [\u2026]",
                 "publication_date": "2025-04-22T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.5948",
-                "source": "The Wall Street Journal",
+                "sentimentScore": "-0.3612",
+                "source": "Insider Monkey",
                 "ticker": "UBER",
-                "title": "FTC Sues Uber, Alleging Deceptive Billing, Cancellation Practices",
-                "url": "https://finance.yahoo.com/m/18d3b3d6-b601-3091-bc88-28dc07a08c0f/ftc-sues-uber-alleging.html"
+                "title": "Uber Technologies, Inc. (UBER): Among Stocks That Could 10X Over the Next 2 Years",
+                "url": "https://finance.yahoo.com/news/uber-technologies-inc-uber-among-021508396.html"
             }
         ],
-        "avgScore": -0.04232941176470591,
+        "avgScore": -0.07284285714285711,
         "pctChange": -0.009000614943117762
     },
     "4 21 2025": {
         "importantArticles": [
+            {
+                "headline": "Shares of ride-hailing and delivery leader Uber (NYSE: UBER) were initially doing much better than the plunging stock market today, with only moderate declines as of midday.  Midday, news came over the wires that the Federal Trade Commission (FTC) was suing the company over tactics for signing up users to its Uber One subscription service.  Did Uber flout the Restore Online Shoppers' Confidence Act?",
+                "publication_date": "2025-04-21T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.83",
+                "source": "Motley Fool",
+                "ticker": "UBER",
+                "title": "Why Uber Stock Was Down Today",
+                "url": "https://finance.yahoo.com/news/why-uber-stock-down-today-193700167.html"
+            },
+            {
+                "headline": "Here are some stocks on the move on Monday, April 21. Shares of Amazon (AMZN) are slipping. Raymond James downgraded its rating on the stock to Outperform from Strong Buy. Salesforce (CRM) shares were downgraded to Underperform by DA Davidson, while Guggenheim upgraded the stock to Neutral. The Federal Trade Commission has sued Uber (UBER) accusing the company of deceptive billing practices in relation to its Uber One service. To watch more expert insights and analysis on the latest market action, check out more Market Domination here.",
+                "publication_date": "2025-04-21T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7134",
+                "source": "Yahoo Finance Video",
+                "ticker": "UBER",
+                "title": "Amazon, Salesforce, Uber: Trending tickers",
+                "url": "https://finance.yahoo.com/video/amazon-salesforce-uber-trending-tickers-195224514.html"
+            },
             {
                 "headline": "Ackman aims to emulate some of the qualities that made Warren Buffett so successful.",
                 "publication_date": "2025-04-21T00:00:00.000Z",
@@ -276,57 +296,37 @@
                 "url": "https://finance.yahoo.com/news/billionaire-bill-ackman-44-hedge-141500851.html"
             },
             {
-                "headline": "Uber (UBER) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
-                "publication_date": "2025-04-21T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6486",
-                "source": "Zacks",
-                "ticker": "UBER",
-                "title": "Uber Technologies, Inc. (UBER) Is a Trending Stock: Facts to Know Before Betting on It",
-                "url": "https://finance.yahoo.com/news/uber-technologies-inc-uber-trending-130017673.html"
-            },
-            {
-                "headline": "Uber Technologies has morphed into a fundamental market leader with consistent profitability. In today's commentary, Stock Strategist Andrew Rocco profiles the ride-sharing leader.",
-                "publication_date": "2025-04-21T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.2732",
-                "source": "Zacks",
-                "ticker": "UBER",
-                "title": "Uber: Dominating Ride-Sharing and Delivery",
-                "url": "https://finance.yahoo.com/news/uber-dominating-ride-sharing-delivery-182600825.html"
-            },
-            {
-                "headline": "The ride-hailing company wrongly promises savings and makes it difficult to cancel a subscription, the regulator alleges.",
+                "headline": "The U.S. Federal Trade Commission filed a lawsuit against Uber on Monday, alleging that it enrolled consumers in its Uber One subscription program without their consent and made it too difficult for them to cancel the service.  Uber One members pay $9.99 per month or $96 per year for a range of services, including fee-free Uber Eats food deliveries and cash back when they take Uber rides.  In its lawsuit, the FTC said multiple customers complained that Uber signed them up for Uber One without their permission or charged them for the service before a free trial period was over.",
                 "publication_date": "2025-04-21T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.2263",
-                "source": "Barrons.com",
+                "sentimentScore": "-0.8329",
+                "source": "Associated Press Finance",
                 "ticker": "UBER",
-                "title": "Uber Stock Falls as FTC Files Lawsuit, Claiming Uber One Misleads Customers",
-                "url": "https://finance.yahoo.com/m/b0beecbf-547f-36ea-a742-bb9db1dad0c5/uber-stock-falls-as-ftc-files.html"
+                "title": "FTC sues Uber, alleging it signed up Uber One subscribers without their permission",
+                "url": "https://finance.yahoo.com/news/ftc-sues-uber-alleging-signed-201054974.html"
             },
             {
-                "headline": "The U.S. Federal Trade Commission on Monday sued Uber Technologies, accusing it of signing up some Uber One subscribers without their knowledge and making deceptive claims about the service.  The service costs $9.99 a month and offers discounts on fees associated with Uber's ride-hailing and food-delivery apps.  Uber falsely claimed that users would save about $25 a month through the service and deceived them about how easy it was to cancel, the FTC said in the lawsuit filed in San Francisco.",
+                "headline": "Federal watchdog says ride-hailing app\u2019s subscription service charged customers without consent, made it hard to cancel.",
                 "publication_date": "2025-04-21T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.1725",
-                "source": "Reuters",
+                "sentimentScore": "-0.5948",
+                "source": "The Wall Street Journal",
                 "ticker": "UBER",
-                "title": "FTC accuses Uber of misleading subscribers",
-                "url": "https://finance.yahoo.com/news/us-ftc-sues-uber-accusing-171533509.html"
+                "title": "FTC Sues Uber, Alleging Deceptive Billing, Cancellation Practices",
+                "url": "https://finance.yahoo.com/m/18d3b3d6-b601-3091-bc88-28dc07a08c0f/ftc-sues-uber-alleging.html"
             },
             {
-                "headline": "A wide array of companies helped President Trump shatter fundraising records during his second inauguration, netting $239 million.",
+                "headline": "We recently published a list of 10 Jim Cramer Stocks to Buy and Sell Now. In this article, we are going to take a look at where Uber Technologies, Inc. (NYSE:UBER) stands against other stocks that Jim Cramer discussed. Jim Cramer in a latest program on CNBC talked about President Donald Trump\u2019s attack on Federal [\u2026]",
                 "publication_date": "2025-04-21T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Yahoo Finance",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.4767",
+                "source": "Insider Monkey",
                 "ticker": "UBER",
-                "title": "Chicken, crypto, and Nvidia: The companies that helped Trump\u2019s inauguration shatter fundraising records",
-                "url": "https://finance.yahoo.com/news/chicken-crypto-and-nvidia-the-companies-that-helped-trumps-inauguration-shatter-fundraising-records-160942136.html"
+                "title": "Jim Cramer Says Uber Technologies (UBER) Is A Buy",
+                "url": "https://finance.yahoo.com/news/jim-cramer-says-uber-technologies-203933921.html"
             }
         ],
-        "avgScore": 0.15691249999999998,
+        "avgScore": 0.05808888888888889,
         "pctChange": 0.020844820496831375
     },
     "4 17 2025": {
@@ -342,57 +342,57 @@
                 "url": "https://finance.yahoo.com/news/indias-blusmart-rival-uber-suspends-054235309.html"
             },
             {
-                "headline": "Finding a business that has the potential to grow substantially is not easy, but it is possible if we look at a few key...",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.2107",
-                "source": "Simply Wall St.",
-                "ticker": "UBER",
-                "title": "Uber Technologies' (NYSE:UBER) Returns On Capital Are Heading Higher",
-                "url": "https://finance.yahoo.com/news/uber-technologies-nyse-uber-returns-140010277.html"
-            },
-            {
-                "headline": "A TTP report finds Meta\u2019s group features are enabling fraud at scale\u2014allowing unvetted drivers to bypass safety protocols on Uber and DoorDash.",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.25",
-                "source": "FastCompany",
-                "ticker": "UBER",
-                "title": "Facebook Groups are fueling a black market for Uber and DoorDash accounts, says a new report",
-                "url": "https://finance.yahoo.com/news/facebook-groups-fueling-black-market-110100419.html"
-            },
-            {
-                "headline": "A TTP report finds Meta\u2019s group features are enabling fraud at scale\u2014allowing unvetted drivers to bypass safety protocols on Uber and DoorDash.",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.25",
-                "source": "FastCompany",
-                "ticker": "UBER",
-                "title": "Facebook Groups are fueling a black market for Uber and DoorDash accounts, says a new report",
-                "url": "https://finance.yahoo.com/news/facebook-groups-fueling-black-market-110100419.html"
-            },
-            {
-                "headline": "Finding a business that has the potential to grow substantially is not easy, but it is possible if we look at a few key...",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.2107",
-                "source": "Simply Wall St.",
-                "ticker": "UBER",
-                "title": "Uber Technologies' (NYSE:UBER) Returns On Capital Are Heading Higher",
-                "url": "https://finance.yahoo.com/news/uber-technologies-nyse-uber-returns-140010277.html"
-            },
-            {
-                "headline": "NEW DELHI (Reuters) -Indian electric cab service BluSmart, seen as a rival to Uber, suspended services on Thursday, two days after the country's market regulator alleged its co-founder misused funds at an affiliate company and bought a luxury apartment with money allocated for electric vehicles.  BluSmart rode India's clean energy boom but its sudden suspension puts the livelihood of thousands of drivers at risk.  With more than 8,000 taxis, it set up charging hubs in cities like New Delhi, Mumbai and Bengaluru to take on Uber and Ola, both ride-hailing services that largely use gasoline-powered fleets.",
+                "headline": "Investing.com -- Hertz (NASDAQ:HTZ) shares surged 56% on Wednesday and added another 44% on Thursday after Bill Ackman\u2019s Pershing Square hedge fund disclosed a new stake in the car rental company.",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.4595",
-                "source": "Reuters",
+                "sentimentScore": "0.296",
+                "source": "Investing.com",
                 "ticker": "UBER",
-                "title": "India's BluSmart, rival of Uber, suspends operations after co-founder probed",
-                "url": "https://finance.yahoo.com/news/indias-blusmart-rival-uber-suspends-054235309.html"
+                "title": "Bill Ackman confirms nearly 20% stake in Hertz, floats Uber partnership",
+                "url": "https://finance.yahoo.com/news/bill-ackman-confirms-nearly-20-210301088.html"
+            },
+            {
+                "headline": "Finding a business that has the potential to grow substantially is not easy, but it is possible if we look at a few key...",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.2107",
+                "source": "Simply Wall St.",
+                "ticker": "UBER",
+                "title": "Uber Technologies' (NYSE:UBER) Returns On Capital Are Heading Higher",
+                "url": "https://finance.yahoo.com/news/uber-technologies-nyse-uber-returns-140010277.html"
+            },
+            {
+                "headline": "A TTP report finds Meta\u2019s group features are enabling fraud at scale\u2014allowing unvetted drivers to bypass safety protocols on Uber and DoorDash.",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.25",
+                "source": "FastCompany",
+                "ticker": "UBER",
+                "title": "Facebook Groups are fueling a black market for Uber and DoorDash accounts, says a new report",
+                "url": "https://finance.yahoo.com/news/facebook-groups-fueling-black-market-110100419.html"
+            },
+            {
+                "headline": "Finding a business that has the potential to grow substantially is not easy, but it is possible if we look at a few key...",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.2107",
+                "source": "Simply Wall St.",
+                "ticker": "UBER",
+                "title": "Uber Technologies' (NYSE:UBER) Returns On Capital Are Heading Higher",
+                "url": "https://finance.yahoo.com/news/uber-technologies-nyse-uber-returns-140010277.html"
+            },
+            {
+                "headline": "Investing.com -- Hertz (NASDAQ:HTZ) shares surged 56% on Wednesday and added another 44% on Thursday after Bill Ackman\u2019s Pershing Square hedge fund disclosed a new stake in the car rental company.",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.296",
+                "source": "Investing.com",
+                "ticker": "UBER",
+                "title": "Bill Ackman confirms nearly 20% stake in Hertz, floats Uber partnership",
+                "url": "https://finance.yahoo.com/news/bill-ackman-confirms-nearly-20-210301088.html"
             }
         ],
-        "avgScore": -0.00039999999999999297,
+        "avgScore": 0.07370000000000002,
         "pctChange": -0.030834659233043026
     },
     "4 16 2025": {
@@ -428,16 +428,6 @@
                 "url": "https://finance.yahoo.com/news/uber-ceo-says-learning-two-163414618.html"
             },
             {
-                "headline": "SAN FRANCISCO, April 15, 2025--Uber Technologies, Inc. (NYSE: UBER) will hold its quarterly conference call to discuss its first quarter 2025 financial results on Wednesday, May 7th at 5:00 a.m. Pacific Time (8:00 a.m. Eastern Time).",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Business Wire",
-                "ticker": "UBER",
-                "title": "Uber Announces Date of First Quarter 2025 Results Conference Call",
-                "url": "https://finance.yahoo.com/news/uber-announces-date-first-quarter-203000714.html"
-            },
-            {
                 "headline": "Dara Khosrowshahi said studying engineering and liberal arts in college was an \u201cabsolute necessity\u201d to being a leader.",
                 "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -456,9 +446,19 @@
                 "ticker": "UBER",
                 "title": "Lyft investor Engine Capital names board nominees in start to proxy battle",
                 "url": "https://finance.yahoo.com/news/lyft-investor-engine-capital-name-125242411.html"
+            },
+            {
+                "headline": "We recently compiled a list of the 14 Best American Tech Stocks To Buy Now. In this article, we are going to take a look at where Uber Technologies, Inc. (NYSE:UBER) stands against the other American tech stocks. American stocks moved up a bit on Monday, April 14 as investors focused on news about tech [\u2026]",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7783",
+                "source": "Insider Monkey",
+                "ticker": "UBER",
+                "title": "Is Uber Technologies, Inc. (UBER) The Best American Tech Stock To Buy Now?",
+                "url": "https://finance.yahoo.com/news/uber-technologies-inc-uber-best-034327202.html"
             }
         ],
-        "avgScore": 0.23285,
+        "avgScore": 0.31046666666666667,
         "pctChange": 0.02983849408737568
     },
     "4 15 2025": {
@@ -474,16 +474,6 @@
                 "url": "https://finance.yahoo.com/news/uber-technologies-inc-uber-bull-161143069.html"
             },
             {
-                "headline": "Assembly Bill 1340 would give rideshare drivers in California the right to unionize and negotiate for better pay, protections, and transparency\u2014setting up a likely clash with Uber and Lyft.",
-                "publication_date": "2025-04-15T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.3612",
-                "source": "FastCompany",
-                "ticker": "UBER",
-                "title": "Uber and Lyft drivers in California could get the right to unionize under this bill",
-                "url": "https://finance.yahoo.com/news/uber-lyft-drivers-california-could-210712720.html"
-            },
-            {
                 "headline": "When you think of the ride-hailing market, Uber Technologies\u00a0(NYSE: UBER) is probably the first company that comes to mind.  Is this growth stock a buy, sell, or hold in 2025?  Uber typically has had no issue expanding the business.",
                 "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -494,14 +484,14 @@
                 "url": "https://finance.yahoo.com/news/uber-buy-sell-hold-2025-080500790.html"
             },
             {
-                "headline": "Uber Technologies (UBER) reachead $73.10 at the closing of the latest trading day, reflecting a +1.13% change compared to its last close.",
+                "headline": "SAN FRANCISCO, April 15, 2025--Uber Technologies, Inc. (NYSE: UBER) will hold its quarterly conference call to discuss its first quarter 2025 financial results on Wednesday, May 7th at 5:00 a.m. Pacific Time (8:00 a.m. Eastern Time).",
                 "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
-                "source": "Zacks",
+                "source": "Business Wire",
                 "ticker": "UBER",
-                "title": "Uber Technologies (UBER) Outpaces Stock Market Gains: What You Should Know",
-                "url": "https://finance.yahoo.com/news/uber-technologies-uber-outpaces-stock-214516940.html"
+                "title": "Uber Announces Date of First Quarter 2025 Results Conference Call",
+                "url": "https://finance.yahoo.com/news/uber-announces-date-first-quarter-203000714.html"
             },
             {
                 "headline": "The partners will provide delivery from Giant Tiger within an hour.",
@@ -514,6 +504,16 @@
                 "url": "https://finance.yahoo.com/news/giant-tiger-expands-reach-doordash-090836828.html"
             },
             {
+                "headline": "SAN FRANCISCO, April 15, 2025--Uber Technologies, Inc. (NYSE: UBER) will hold its quarterly conference call to discuss its first quarter 2025 financial results on Wednesday, May 7th at 5:00 a.m. Pacific Time (8:00 a.m. Eastern Time).",
+                "publication_date": "2025-04-15T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Business Wire",
+                "ticker": "UBER",
+                "title": "Uber Announces Date of First Quarter 2025 Results Conference Call",
+                "url": "https://finance.yahoo.com/news/uber-announces-date-first-quarter-203000714.html"
+            },
+            {
                 "headline": "When you think of the ride-hailing market, Uber Technologies\u00a0(NYSE: UBER) is probably the first company that comes to mind.  Is this growth stock a buy, sell, or hold in 2025?  Uber typically has had no issue expanding the business.",
                 "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -524,7 +524,7 @@
                 "url": "https://finance.yahoo.com/news/uber-buy-sell-hold-2025-080500790.html"
             }
         ],
-        "avgScore": 0.22418,
+        "avgScore": 0.189925,
         "pctChange": -0.012969455930968097
     },
     "4 14 2025": {
@@ -550,14 +550,14 @@
                 "url": "https://finance.yahoo.com/news/uber-uber-beat-estimates-again-161010467.html"
             },
             {
-                "headline": "Investors looking for ways to find stocks that are set to beat quarterly earnings estimates should check out the Zacks Earnings ESP.",
+                "headline": "Assembly Bill 1340 would give rideshare drivers in California the right to unionize and negotiate for better pay, protections, and transparency\u2014setting up a likely clash with Uber and Lyft.",
                 "publication_date": "2025-04-14T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
+                "sentiment": "Positive",
+                "sentimentScore": "0.3612",
+                "source": "FastCompany",
                 "ticker": "UBER",
-                "title": "How to Boost Your Portfolio with Top Computer and Technology Stocks Set to Beat Earnings",
-                "url": "https://finance.yahoo.com/news/boost-portfolio-top-computer-technology-130011514.html"
+                "title": "Uber and Lyft drivers in California could get the right to unionize under this bill",
+                "url": "https://finance.yahoo.com/news/uber-lyft-drivers-california-could-210712720.html"
             },
             {
                 "headline": "The stock of Alphabet (NASDAQ: GOOG) (NASDAQ: GOOGL) has fallen off in recent months because of tariff-related economic uncertainty.  The overriding concern with Alphabet is that generative AI could eat into its main cash cow, Google Search.  Meanwhile, Alphabet has several other high-growth businesses under its corporate umbrella, including YouTube, the leading streaming service in the world, and Google Cloud, which saw accelerating growth last year.",
@@ -590,7 +590,7 @@
                 "url": "https://finance.yahoo.com/news/boost-portfolio-top-computer-technology-130011514.html"
             }
         ],
-        "avgScore": 0.25378,
+        "avgScore": 0.23287142857142856,
         "pctChange": 0.012585474530085124
     },
     "4 11 2025": {
@@ -784,16 +784,6 @@
                 "url": "https://finance.yahoo.com/news/ezcorp-krispy-kreme-highlighted-zacks-082900888.html"
             },
             {
-                "headline": "Uber Technologies (UBER) closed the most recent trading day at $65.58, moving +1.49% from the previous trading session.",
-                "publication_date": "2025-04-08T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "UBER",
-                "title": "Uber Technologies (UBER) Gains As Market Dips: What You Should Know",
-                "url": "https://finance.yahoo.com/news/uber-technologies-uber-gains-market-214513709.html"
-            },
-            {
                 "headline": "EZCORP and Krispy Kreme have been highlighted as Zacks Bull and Bear of the Day.",
                 "publication_date": "2025-04-08T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -812,13 +802,33 @@
                 "ticker": "UBER",
                 "title": "Well-Known Investor Buys More AMZN, UBER, Starts Position in RKT",
                 "url": "https://finance.yahoo.com/news/well-known-investor-buys-more-154811273.html"
+            },
+            {
+                "headline": "Snapchat is introducing Sponsored AI Lenses, a new ad format that lets brands engage with consumers in an immersive way. While Snapchat has offered brands the opportunity to pay for sponsored lenses on the platform for years, now they can leverage AI-generated experiences powered by Snap's proprietary generative AI technology. With these interactive lenses, brands can reach and engage users in a more fun and interactive way when compared to traditional ads, as they allow users to take selfies to",
+                "publication_date": "2025-04-08T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8955",
+                "source": "TechCrunch",
+                "ticker": "UBER",
+                "title": "Snapchat rolls out Sponsored AI Lenses for brands",
+                "url": "https://finance.yahoo.com/news/snapchat-rolls-sponsored-ai-lenses-130000649.html"
             }
         ],
-        "avgScore": 0.427025,
+        "avgScore": 0.5693666666666667,
         "pctChange": 0.11695098580055588
     },
     "4 7 2025": {
         "importantArticles": [
+            {
+                "headline": "Uber Technologies (UBER) closed the most recent trading day at $65.58, moving +1.49% from the previous trading session.",
+                "publication_date": "2025-04-07T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "UBER",
+                "title": "Uber Technologies (UBER) Gains As Market Dips: What You Should Know",
+                "url": "https://finance.yahoo.com/news/uber-technologies-uber-gains-market-214513709.html"
+            },
             {
                 "headline": "With earnings estimates northbound for UBER, we assess the stock's investment worthiness currently.",
                 "publication_date": "2025-04-07T00:00:00.000Z",
@@ -838,6 +848,16 @@
                 "ticker": "UBER",
                 "title": "Is Uber Stock a Buy Following the Robotaxi Push in Dubai With WeRide?",
                 "url": "https://finance.yahoo.com/news/uber-stock-buy-following-robotaxi-173400571.html"
+            },
+            {
+                "headline": "Uber Technologies (UBER) closed the most recent trading day at $65.58, moving +1.49% from the previous trading session.",
+                "publication_date": "2025-04-07T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "UBER",
+                "title": "Uber Technologies (UBER) Gains As Market Dips: What You Should Know",
+                "url": "https://finance.yahoo.com/news/uber-technologies-uber-gains-market-214513709.html"
             }
         ],
         "avgScore": 0.0,
@@ -1064,36 +1084,6 @@
                 "url": "https://finance.yahoo.com/news/uber-opentable-team-enhance-dining-080212490.html"
             },
             {
-                "headline": "In the closing of the recent trading day, Uber Technologies (UBER) stood at $72.86, denoting a +0.15% change from the preceding trading day.",
-                "publication_date": "2025-04-01T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "UBER",
-                "title": "Uber Technologies (UBER) Increases Yet Falls Behind Market: What Investors Need to Know",
-                "url": "https://finance.yahoo.com/news/uber-technologies-uber-increases-yet-214517273.html"
-            },
-            {
-                "headline": "Uber and OpenTable announced a partnership on Monday to launch integrations across the Uber Eats, Uber, and OpenTable apps.",
-                "publication_date": "2025-04-01T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Investopedia",
-                "ticker": "UBER",
-                "title": "Uber Teams Up With OpenTable to \u2018Connect the Dots\u2019 Between Services",
-                "url": "https://finance.yahoo.com/news/uber-teams-opentable-connect-dots-201351097.html"
-            },
-            {
-                "headline": "In the closing of the recent trading day, Uber Technologies (UBER) stood at $72.86, denoting a +0.15% change from the preceding trading day.",
-                "publication_date": "2025-04-01T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "UBER",
-                "title": "Uber Technologies (UBER) Increases Yet Falls Behind Market: What Investors Need to Know",
-                "url": "https://finance.yahoo.com/news/uber-technologies-uber-increases-yet-214517273.html"
-            },
-            {
                 "headline": "The collaboration combines Uber's ride-hailing and delivery with OpenTable's networks in Australia, Canada, Ireland, Mexico, the UK and the US.",
                 "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -1102,9 +1092,19 @@
                 "ticker": "UBER",
                 "title": "Uber and OpenTable team up to enhance dining experience",
                 "url": "https://finance.yahoo.com/news/uber-opentable-team-enhance-dining-080212490.html"
+            },
+            {
+                "headline": "In the U.S., Uber Technologies (NYSE: UBER) and DoorDash (NASDAQ: DASH) dominate the food delivery business.  Of the two, DoorDash claims the most market share in online food delivery, placing it far ahead of Uber Eats and likely leading some investors to assume that it could be an obvious choice between the two.",
+                "publication_date": "2025-04-01T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.2449",
+                "source": "Motley Fool",
+                "ticker": "UBER",
+                "title": "Best Stock to Buy Right Now: Uber vs. DoorDash",
+                "url": "https://finance.yahoo.com/news/best-stock-buy-now-uber-081500529.html"
             }
         ],
-        "avgScore": 0.061225,
+        "avgScore": 0.12245,
         "pctChange": 0.020687795320240683
     },
     "3 31 2025": {
@@ -1140,16 +1140,6 @@
                 "url": "https://finance.yahoo.com/news/uber-opentable-announce-strategic-global-120000502.html"
             },
             {
-                "headline": "We recently published a list of Jim Cramer Looked At These 23 Stocks Recently. In this article, we are going to take a look at where Uber Technologies, Inc. (NYSE:UBER) stands against other stocks that Jim Cramer looked at recently. Jim Cramer, the host of Mad Money, offered an optimistic perspective on the market on [\u2026]",
-                "publication_date": "2025-03-31T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.2263",
-                "source": "Insider Monkey",
-                "ticker": "UBER",
-                "title": "Jim Cramer Says Uber Technologies (UBER) Is a Buy Right Here \u2013 Don\u2019t Wait!",
-                "url": "https://finance.yahoo.com/news/jim-cramer-says-uber-technologies-204857892.html"
-            },
-            {
                 "headline": "Uber Technologies and Spotify Technology are part of the Zacks Investment Ideas article.",
                 "publication_date": "2025-03-31T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -1160,17 +1150,27 @@
                 "url": "https://finance.yahoo.com/news/zacks-investment-ideas-feature-highlights-123500569.html"
             },
             {
-                "headline": "Based on the average brokerage recommendation (ABR), Uber (UBER) should be added to one's portfolio. Wall Street analysts' overly optimistic recommendations cast doubt on the effectiveness of this highly sought-after metric. So, is the stock worth buying?",
+                "headline": "Uber and OpenTable announced a partnership on Monday to launch integrations across the Uber Eats, Uber, and OpenTable apps.",
                 "publication_date": "2025-03-31T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.1779",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Investopedia",
+                "ticker": "UBER",
+                "title": "Uber Teams Up With OpenTable to \u2018Connect the Dots\u2019 Between Services",
+                "url": "https://finance.yahoo.com/news/uber-teams-opentable-connect-dots-201351097.html"
+            },
+            {
+                "headline": "In the closing of the recent trading day, Uber Technologies (UBER) stood at $72.86, denoting a +0.15% change from the preceding trading day.",
+                "publication_date": "2025-03-31T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
                 "source": "Zacks",
                 "ticker": "UBER",
-                "title": "Wall Street Bulls Look Optimistic About Uber (UBER): Should You Buy?",
-                "url": "https://finance.yahoo.com/news/wall-street-bulls-look-optimistic-133011581.html"
+                "title": "Uber Technologies (UBER) Increases Yet Falls Behind Market: What Investors Need to Know",
+                "url": "https://finance.yahoo.com/news/uber-technologies-uber-increases-yet-214517273.html"
             }
         ],
-        "avgScore": 0.42374285714285725,
+        "avgScore": 0.3990625000000001,
         "pctChange": 0.0017842060434940406
     },
     "3 28 2025": {
@@ -1186,6 +1186,16 @@
                 "url": "https://finance.yahoo.com/news/uber-technologies-nyse-uber-partners-174113438.html"
             },
             {
+                "headline": "Long Journey Ventures says it sets out to back founders with ideas that seem absurd but will eventually become mainstream. Two of the VC firm's co-founders, Lee Jacobs and Cyan Banister, join Caroline Hyde on \"Bloomberg Technology\".",
+                "publication_date": "2025-03-28T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4215",
+                "source": "Bloomberg",
+                "ticker": "UBER",
+                "title": "The VC Firm Backing 'Absurd' Startups",
+                "url": "https://finance.yahoo.com/video/vc-firm-backing-absurd-startups-194248532.html"
+            },
+            {
                 "headline": "Uber (UBER) and Petco (WOOF) announced a new partnership that brings Petco\u2019s wide selection of pet essentials to the Uber Eats platform. With all Petco locations in the contiguous United States now available on Uber Eats, customers can shop for on-demand or scheduled delivery of pet food, toys, treats, and other essentials-all at the tap of a button. The company said, \u201cStarting today, pet parents can browse and purchase Petco\u2019s curated assortment of high-quality products directly through the Ube",
                 "publication_date": "2025-03-28T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -1194,16 +1204,6 @@
                 "ticker": "UBER",
                 "title": "Uber, Petco announce new partnership",
                 "url": "https://finance.yahoo.com/news/uber-petco-announce-partnership-132134514.html"
-            },
-            {
-                "headline": "Uber and Spotify have crushed tech in 2025 as investors look to non-AI names for growth. Both are also flexing their earnings growth and looking cheap.",
-                "publication_date": "2025-03-28T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.34",
-                "source": "Zacks",
-                "ticker": "UBER",
-                "title": "Market-Beating Tech Stocks to Buy Amid AI Downturn: UBER, SPOT",
-                "url": "https://finance.yahoo.com/news/market-beating-tech-stocks-buy-135500152.html"
             },
             {
                 "headline": "In their attempts to make their billions of dollars of investment worth it, tech companies appear to have lost their sense of seriousness and touch with reality.",
@@ -1236,7 +1236,7 @@
                 "url": "https://finance.yahoo.com/news/uber-petco-announce-partnership-132134514.html"
             }
         ],
-        "avgScore": 0.379875,
+        "avgScore": 0.3882,
         "pctChange": 0.001512035881121134
     },
     "3 27 2025": {
@@ -1351,12 +1351,12 @@
         "avgScore": 0.12046666666666665,
         "pctChange": 0.009166895421653637
     },
-    "coef": 0.14285714285714288,
-    "avgCoef": 0.010406066144030906,
+    "coef": 0.11914172783738003,
+    "avgCoef": -0.013045984160313486,
     "similar": {
-        "VZ": 0.6002258610954264,
-        "PG": 0.5957086391869001,
-        "VOD": 0.5640880858272164,
-        "GOLD": 0.5392433653303219
+        "VZ": 0.5821569734613213,
+        "PG": 0.5640880858272164,
+        "KO": 0.5358554488989272,
+        "VOD": 0.5008469791078487
     }
 }

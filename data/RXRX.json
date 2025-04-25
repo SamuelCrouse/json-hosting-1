@@ -1,4 +1,30 @@
 {
+    "4 25 2025": {
+        "importantArticles": [
+            {
+                "headline": "RXRX is expected to provide updates on its oncology and rare disease clinical-stage pipeline in its first-quarter 2025 earnings release, given the absence of a marketed product.",
+                "publication_date": "2025-04-25T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "RXRX",
+                "title": "Recursion Pharmaceuticals to Report Q1 Earnings: What's in the Cards?",
+                "url": "https://finance.yahoo.com/news/recursion-pharmaceuticals-report-q1-earnings-151600127.html"
+            },
+            {
+                "headline": "RXRX is expected to provide updates on its oncology and rare disease clinical-stage pipeline in its first-quarter 2025 earnings release, given the absence of a marketed product.",
+                "publication_date": "2025-04-25T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "RXRX",
+                "title": "Recursion Pharmaceuticals to Report Q1 Earnings: What's in the Cards?",
+                "url": "https://finance.yahoo.com/news/recursion-pharmaceuticals-report-q1-earnings-151600127.html"
+            }
+        ],
+        "avgScore": 0.0,
+        "pctChange": 0.01957297789223378
+    },
     "4 23 2025": {
         "importantArticles": [
             {
@@ -431,12 +457,12 @@
         "avgScore": 0.006000000000000005,
         "pctChange": -0.03241495682807617
     },
-    "coef": 0.2662000579685716,
-    "avgCoef": -0.023803879294604376,
+    "coef": 0.22099784804393194,
+    "avgCoef": 0.006687429723960451,
     "similar": {
-        "LCID": 0.6199659244794364,
-        "VALE": 0.6164632921377448,
-        "AMCR": 0.5989501304292861,
-        "KO": 0.46585010144500033
+        "VALE": 0.6408937593274027,
+        "AMCR": 0.6298438669252061,
+        "NKE": 0.574594404914223,
+        "WMT": 0.574594404914223
     }
 }

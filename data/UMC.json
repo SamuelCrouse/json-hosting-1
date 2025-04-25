@@ -43,7 +43,7 @@
             }
         ],
         "avgScore": 0.3071,
-        "pctChange": 0.014074042991355614
+        "pctChange": 0.023703681098090276
     },
     "4 23 2025": {
         "importantArticles": [
@@ -89,7 +89,7 @@
             }
         ],
         "avgScore": 0.06125,
-        "pctChange": -0.024928802166715447
+        "pctChange": -0.015669534731236032
     },
     "4 8 2025": {
         "importantArticles": [
@@ -206,7 +206,7 @@
                 "url": "https://finance.yahoo.com/news/globalfoundries-explores-merger-united-microelectronics-163028112.html"
             }
         ],
-        "avgScore": 0.3371571428571428,
+        "avgScore": 0.2912833333333333,
         "pctChange": -0.037249316356928595
     },
     "3 31 2025": {
@@ -232,6 +232,26 @@
                 "url": "https://finance.yahoo.com/news/globalfoundries-taiwanese-chipmaker-umc-mull-150510599.html"
             },
             {
+                "headline": "Shares of Taiwan-based semiconductor manufacturer United Microelectronics surged Monday on reports it could merge with U.S. chipmaker GlobalFoundries.",
+                "publication_date": "2025-03-31T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6124",
+                "source": "Investopedia",
+                "ticker": "UMC",
+                "title": "United Microelectronics Stock Pops on Report of Possible GlobalFoundries Deal",
+                "url": "https://finance.yahoo.com/news/united-microelectronics-stock-pops-report-215539009.html"
+            },
+            {
+                "headline": "Shares of Taiwan-based semiconductor manufacturer United Microelectronics surged Monday on reports it could merge with U.S. chipmaker GlobalFoundries.",
+                "publication_date": "2025-03-31T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6124",
+                "source": "Investopedia",
+                "ticker": "UMC",
+                "title": "United Microelectronics Stock Pops on Report of Possible GlobalFoundries Deal",
+                "url": "https://finance.yahoo.com/news/united-microelectronics-stock-pops-report-215539009.html"
+            },
+            {
                 "headline": "Taiwan's major chipmaker United Microelectronics and U.S.-based GlobalFoundries are looking into the possibility of a merger, two sources familiar with the matter told Reuters on Monday.  A combined company would establish a larger U.S.-based firm with a global manufacturing footprint spanning Asia, the United States and Europe.  The potential deal comes as the U.S. seeks to strengthen its semiconductor supply chain amid rising geopolitical tensions in the Taiwan Strait and increasing competition from China in the mature chip market.",
                 "publication_date": "2025-03-31T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -252,15 +272,15 @@
                 "url": "https://finance.yahoo.com/news/umc-stock-surges-report-globalfoundries-154054457.html"
             }
         ],
-        "avgScore": 0.7964,
+        "avgScore": 0.7350666666666666,
         "pctChange": -0.023776234129575795
     },
-    "coef": -0.2571428571428572,
-    "avgCoef": -0.029046515249680233,
+    "coef": -0.3142857142857143,
+    "avgCoef": 0.009035564595107978,
     "similar": {
-        "NVDA": -0.09999999999999999,
-        "SMCI": -0.09999999999999999,
-        "NU": -0.09999999999999999,
-        "BTG": -0.09999999999999999
+        "TAL": 0.3142857142857143,
+        "JD": 0.14285714285714288,
+        "NOK": 0.08571428571428573,
+        "T": 0.08571428571428573
     }
 }

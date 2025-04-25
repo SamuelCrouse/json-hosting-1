@@ -78,16 +78,6 @@
                 "url": "https://finance.yahoo.com/news/uk-mortgage-rates-deals-050019222.html"
             },
             {
-                "headline": "March has been the busiest month of the year so far for changing providers, the Current Account Switch Service said.",
-                "publication_date": "2025-04-24T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "PA Media: Money",
-                "ticker": "LYG",
-                "title": "Nationwide, Lloyds and NatWest biggest \u2018winners\u2019 from account switching service",
-                "url": "https://finance.yahoo.com/news/nationwide-lloyds-natwest-biggest-winners-230100056.html"
-            },
-            {
                 "headline": "Find out the latest mortgage rates and deals from HSBC, NatWest, Santander, Barclays and more.",
                 "publication_date": "2025-04-24T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -106,10 +96,46 @@
                 "ticker": "LYG",
                 "title": "How to make up to \u00a3175 by switching bank accounts",
                 "url": "https://finance.yahoo.com/news/make-money-switching-bank-accounts-050029619.html"
+            },
+            {
+                "headline": "Loan book surpasses \u00a3120m as lender ramps up origination in early 2025",
+                "publication_date": "2025-04-24T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Leasing Life",
+                "ticker": "LYG",
+                "title": "Ultimate Finance boosts Lloyds-backed asset finance facility to \u00a3145m",
+                "url": "https://finance.yahoo.com/news/ultimate-finance-boosts-lloyds-backed-105157014.html"
             }
         ],
         "avgScore": 0.0,
         "pctChange": 0.007672626785479199
+    },
+    "4 23 2025": {
+        "importantArticles": [
+            {
+                "headline": "March has been the busiest month of the year so far for changing providers, the Current Account Switch Service said.",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "PA Media: Money",
+                "ticker": "LYG",
+                "title": "Nationwide, Lloyds and NatWest biggest \u2018winners\u2019 from account switching service",
+                "url": "https://finance.yahoo.com/news/nationwide-lloyds-natwest-biggest-winners-230100056.html"
+            },
+            {
+                "headline": "March has been the busiest month of the year so far for changing providers, the Current Account Switch Service said.",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "PA Media: Money",
+                "ticker": "LYG",
+                "title": "Nationwide, Lloyds and NatWest biggest \u2018winners\u2019 from account switching service",
+                "url": "https://finance.yahoo.com/news/nationwide-lloyds-natwest-biggest-winners-230100056.html"
+            }
+        ],
+        "avgScore": 0.0,
+        "pctChange": 0.0
     },
     "4 17 2025": {
         "importantArticles": [
@@ -511,12 +537,12 @@
         "avgScore": 0.7964,
         "pctChange": 0.010416709963314922
     },
-    "coef": 0.4162315757466038,
-    "avgCoef": 0.016848387679534928,
+    "coef": 0.40588971789153355,
+    "avgCoef": -0.01357477168802888,
     "similar": {
-        "VZ": 0.7464973841162387,
-        "KO": 0.7394549559641986,
-        "PG": 0.7394549559641986,
-        "T": 0.7324125278121587
+        "KO": 0.74101894915541,
+        "PG": 0.7354473781091289,
+        "VZ": 0.7075895228777224,
+        "GILD": 0.6964463807851597
     }
 }

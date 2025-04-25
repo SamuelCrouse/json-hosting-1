@@ -52,21 +52,31 @@
                 "url": "https://finance.yahoo.com/news/avantor-inc-avtr-q1-earnings-111502168.html"
             },
             {
-                "headline": "Avantor, Inc. (NYSE: AVTR), a leading global provider of mission-critical products and services to customers in the life sciences and advanced technology industries, today reported financial results for its first fiscal quarter ended March 31, 2025.",
+                "headline": "Shares of life sciences company Avantor (NYSE:AVTR) fell 21.2% in the afternoon session after the company reported a weak first-quarter 2025 performance, as its organic revenue and total sales both missed Wall Street's expectations. Sales dropped 6% from a year ago, reflecting softness across both major business segments. Lab Solutions declined 8% while Bioscience Production slipped slightly. Encouragingly, management raised its cost savings target to $400 million by 2027 and signaled urgency to",
                 "publication_date": "2025-04-25T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.25",
-                "source": "PR Newswire",
+                "sentimentScore": "0.1298",
+                "source": "StockStory",
                 "ticker": "AVTR",
-                "title": "Avantor\u00ae Reports First Quarter 2025 Results",
-                "url": "https://finance.yahoo.com/news/avantor-reports-first-quarter-2025-100500392.html"
+                "title": "Why Avantor (AVTR) Shares Are Falling Today",
+                "url": "https://finance.yahoo.com/news/why-avantor-avtr-shares-falling-183951850.html"
             }
         ],
-        "avgScore": 0.33249999999999996,
-        "pctChange": -0.08665192878866275
+        "avgScore": 0.30717142857142854,
+        "pctChange": -0.046460183993027204
     },
     "4 24 2025": {
         "importantArticles": [
+            {
+                "headline": "As an investor its worth striving to ensure your overall portfolio beats the market average. But if you try your hand...",
+                "publication_date": "2025-04-24T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.3071",
+                "source": "Simply Wall St.",
+                "ticker": "AVTR",
+                "title": "Avantor (NYSE:AVTR) investors are sitting on a loss of 47% if they invested three years ago",
+                "url": "https://finance.yahoo.com/news/avantor-nyse-avtr-investors-sitting-194306302.html"
+            },
             {
                 "headline": "Life sciences company Avantor (NYSE:AVTR) will be reporting earnings tomorrow before market open. Here\u2019s what you need to know.",
                 "publication_date": "2025-04-24T00:00:00.000Z",
@@ -86,10 +96,20 @@
                 "ticker": "AVTR",
                 "title": "Earnings To Watch: Avantor (AVTR) Reports Q1 Results Tomorrow",
                 "url": "https://finance.yahoo.com/news/earnings-watch-avantor-avtr-reports-070138821.html"
+            },
+            {
+                "headline": "As an investor its worth striving to ensure your overall portfolio beats the market average. But if you try your hand...",
+                "publication_date": "2025-04-24T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.3071",
+                "source": "Simply Wall St.",
+                "ticker": "AVTR",
+                "title": "Avantor (NYSE:AVTR) investors are sitting on a loss of 47% if they invested three years ago",
+                "url": "https://finance.yahoo.com/news/avantor-nyse-avtr-investors-sitting-194306302.html"
             }
         ],
-        "avgScore": 0.0,
-        "pctChange": -0.2009677271689138
+        "avgScore": 0.15355,
+        "pctChange": -0.16580643192414316
     },
     "4 22 2025": {
         "importantArticles": [
@@ -313,12 +333,12 @@
         "avgScore": 0.1901,
         "pctChange": 0.0006184433416606342
     },
-    "coef": -0.2542738138578039,
-    "avgCoef": 0.0229824683379944,
+    "coef": -0.5272012675161055,
+    "avgCoef": -0.001782347886300007,
     "similar": {
-        "TAL": 0.49159604012508756,
-        "HTZ": 0.13561270072416207,
-        "INTC": 0.08475793795260131,
-        "HBAN": 0.05085476277156078
+        "TAL": 0.6359888306543495,
+        "ABEV": 0.07563025210084034,
+        "BMY": -0.00836827408755723,
+        "HTZ": -0.01673654817511446
     }
 }

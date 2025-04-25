@@ -2,6 +2,16 @@
     "4 25 2025": {
         "importantArticles": [
             {
+                "headline": "Flagstar Financial, Inc. (NYSE: FLG) (the \"Company\") today announced that its Board of Directors declared a quarterly cash dividend of $0.01 per share on the Company's common stock. The dividend is payable on June 17, 2025, to common stockholders of record as of June 7, 2025.",
+                "publication_date": "2025-04-25T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.296",
+                "source": "PR Newswire",
+                "ticker": "FLG",
+                "title": "FLAGSTAR FINANCIAL, INC. DECLARES QUARTERLY CASH DIVIDENDS ON ITS COMMON STOCK AND PREFERRED STOCKS",
+                "url": "https://finance.yahoo.com/news/flagstar-financial-inc-declares-quarterly-200500194.html"
+            },
+            {
                 "headline": "Flagstar Financial, Inc. (NYSE: FLG) (\"the Company\"), today reported results for first quarter 2025. First quarter 2025 net loss was $100 million compared to a net loss of $188 million for fourth quarter 2024, and a net loss of $327 million for first quarter 2024. The net loss attributable to common stockholders for first quarter 2025 was $108 million, or $0.26 per diluted share, compared to a net loss attributable to common stockholders of $196 million, or $0.47 per diluted share for fourth qua",
                 "publication_date": "2025-04-25T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -20,10 +30,20 @@
                 "ticker": "FLG",
                 "title": "FLAGSTAR FINANCIAL, INC. REPORTS FIRST QUARTER 2025 GAAP NET LOSS ATTRIBUTABLE TO COMMON STOCKHOLDERS OF $0.26 PER DILUTED SHARE AND NON-GAAP ADJUSTED NET LOSS ATTRIBUTABLE TO COMMON STOCKHOLDERS OF $0.23 PER DILUTED SHARE",
                 "url": "https://finance.yahoo.com/news/flagstar-financial-inc-reports-first-100000738.html"
+            },
+            {
+                "headline": "Flagstar Financial, Inc. (NYSE: FLG) (the \"Company\") today announced that its Board of Directors declared a quarterly cash dividend of $0.01 per share on the Company's common stock. The dividend is payable on June 17, 2025, to common stockholders of record as of June 7, 2025.",
+                "publication_date": "2025-04-25T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.296",
+                "source": "PR Newswire",
+                "ticker": "FLG",
+                "title": "FLAGSTAR FINANCIAL, INC. DECLARES QUARTERLY CASH DIVIDENDS ON ITS COMMON STOCK AND PREFERRED STOCKS",
+                "url": "https://finance.yahoo.com/news/flagstar-financial-inc-declares-quarterly-200500194.html"
             }
         ],
-        "avgScore": -0.7269,
-        "pctChange": 0.02850883980830811
+        "avgScore": -0.21545,
+        "pctChange": 0.02894736269724537
     },
     "4 2 2025": {
         "importantArticles": [
@@ -52,11 +72,11 @@
         "pctChange": -0.05764190903112935
     },
     "coef": -0.9999999999999999,
-    "avgCoef": 0.01992697408921589,
+    "avgCoef": -0.014646471028169912,
     "similar": {
         "INTC": 0.9999999999999999,
-        "PONY": 0.9999999999999999,
         "ABEV": 0.9999999999999999,
-        "AVTR": 0.9999999999999999
+        "AVTR": 0.9999999999999999,
+        "PONY": 0.9999999999999999
     }
 }

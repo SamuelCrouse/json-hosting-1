@@ -43,7 +43,7 @@
             }
         ],
         "avgScore": 0.44375,
-        "pctChange": 0.01661633465498382
+        "pctChange": 0.024169233688099225
     },
     "4 23 2025": {
         "importantArticles": [
@@ -281,31 +281,31 @@
         "avgScore": 0.6597,
         "pctChange": -0.022099427136777188
     },
-    "4 1 2025": {
+    "3 31 2025": {
         "importantArticles": [
             {
                 "headline": "New Gold Inc. (\"New Gold\" or the \"Company\") (TSX: NGD) (NYSE American: NGD) announces the mailing of its Management Information Circular (the \"Circular\") for the Company's annual general and special meeting of shareholders being held on Tuesday, May 6, 2025 at 4:00 pm Eastern Time (the \"Meeting\"). New Gold is using the notice and access process adopted by the Canadian securities regulators for the delivery of the Circular. The Circular has also been posted on New Gold's website and filed on SEDA",
-                "publication_date": "2025-04-01T00:00:00.000Z",
+                "publication_date": "2025-03-31T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.5994",
-                "source": "PR Newswire",
+                "source": "CNW Group",
                 "ticker": "NGD",
                 "title": "NEW GOLD ANNOUNCES MAILING OF ITS MANAGEMENT INFORMATION CIRCULAR AND DIRECTOR NOT STANDING FOR RE-ELECTION",
-                "url": "https://finance.yahoo.com/news/gold-announces-mailing-management-information-210000696.html"
+                "url": "https://finance.yahoo.com/news/gold-announces-mailing-management-information-210000927.html"
             },
             {
                 "headline": "New Gold Inc. (\"New Gold\" or the \"Company\") (TSX: NGD) (NYSE American: NGD) announces the mailing of its Management Information Circular (the \"Circular\") for the Company's annual general and special meeting of shareholders being held on Tuesday, May 6, 2025 at 4:00 pm Eastern Time (the \"Meeting\"). New Gold is using the notice and access process adopted by the Canadian securities regulators for the delivery of the Circular. The Circular has also been posted on New Gold's website and filed on SEDA",
-                "publication_date": "2025-04-01T00:00:00.000Z",
+                "publication_date": "2025-03-31T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.5994",
-                "source": "PR Newswire",
+                "source": "CNW Group",
                 "ticker": "NGD",
                 "title": "NEW GOLD ANNOUNCES MAILING OF ITS MANAGEMENT INFORMATION CIRCULAR AND DIRECTOR NOT STANDING FOR RE-ELECTION",
-                "url": "https://finance.yahoo.com/news/gold-announces-mailing-management-information-210000696.html"
+                "url": "https://finance.yahoo.com/news/gold-announces-mailing-management-information-210000927.html"
             }
         ],
         "avgScore": 0.5994,
-        "pctChange": -0.008219235349178696
+        "pctChange": -0.01617249114895133
     },
     "3 26 2025": {
         "importantArticles": [
@@ -334,11 +334,11 @@
         "pctChange": 0.04322762412452458
     },
     "coef": 0.21666666666666667,
-    "avgCoef": 0.010446190134080569,
+    "avgCoef": -0.00883167236982689,
     "similar": {
-        "T": 0.41666666666666663,
-        "PSLV": 0.39999999999999997,
-        "VZ": 0.38333333333333336,
-        "KO": 0.3666666666666667
+        "T": 0.45,
+        "PSLV": 0.41666666666666663,
+        "SMMT": 0.3,
+        "HLN": 0.3
     }
 }

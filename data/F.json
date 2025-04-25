@@ -1,4 +1,70 @@
 {
+    "4 25 2025": {
+        "importantArticles": [
+            {
+                "headline": "Voltera has announced the expansion of its electric vehicle (EV) charging infrastructure in major urban markets across California, Texas, Arizona, and Florida, adding 294 charging stalls and over 28 megawatts of capacity. This expansion includes new facilities in Santa Monica, San Francisco, Dallas, and Austin, with additional sites planned for Houston, Phoenix, and Miami. The strategically located facilities are purpose-built to support light-duty passenger fleets, reflecting Voltera\u2019s...",
+                "publication_date": "2025-04-25T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4019",
+                "source": "Simply Wall St.",
+                "ticker": "F",
+                "title": "This Week In Electric Vehicles - Voltera Expands Charging Infrastructure in Key Urban Markets",
+                "url": "https://finance.yahoo.com/news/week-electric-vehicles-voltera-expands-103933955.html"
+            },
+            {
+                "headline": "As General Motors gears up to report first-quarter earnings, let's find out how the expectations stack up. Also, is it the right time to buy the stock?",
+                "publication_date": "2025-04-25T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "F",
+                "title": "GM Q1 Earnings Preview: Should You Buy the Stock Before the Results?",
+                "url": "https://finance.yahoo.com/news/gm-q1-earnings-preview-buy-131300370.html"
+            },
+            {
+                "headline": "President Trump's recent rollout of tariffs has caused chaos in the stock market and plenty of uncertainty among business leaders who are trying to map out the long-term strategy for their companies.  Both Ford's (NYSE: F) and General Motors'\u00a0stocks popped on that comment, with Ford's share price rising about 4% the same day Trump made his comments.  One reason why it's not a good idea to buy Ford or other auto stocks based on one comment is that President Trump could simply change his mind.",
+                "publication_date": "2025-04-25T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.7435",
+                "source": "Motley Fool",
+                "ticker": "F",
+                "title": "1 Terrible Reason to Buy Ford Stock",
+                "url": "https://finance.yahoo.com/news/1-terrible-reason-buy-ford-123000385.html"
+            },
+            {
+                "headline": "President Trump's recent rollout of tariffs has caused chaos in the stock market and plenty of uncertainty among business leaders who are trying to map out the long-term strategy for their companies.  Both Ford's (NYSE: F) and General Motors'\u00a0stocks popped on that comment, with Ford's share price rising about 4% the same day Trump made his comments.  One reason why it's not a good idea to buy Ford or other auto stocks based on one comment is that President Trump could simply change his mind.",
+                "publication_date": "2025-04-25T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.7435",
+                "source": "Motley Fool",
+                "ticker": "F",
+                "title": "1 Terrible Reason to Buy Ford Stock",
+                "url": "https://finance.yahoo.com/news/1-terrible-reason-buy-ford-123000385.html"
+            },
+            {
+                "headline": "As General Motors gears up to report first-quarter earnings, let's find out how the expectations stack up. Also, is it the right time to buy the stock?",
+                "publication_date": "2025-04-25T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "F",
+                "title": "GM Q1 Earnings Preview: Should You Buy the Stock Before the Results?",
+                "url": "https://finance.yahoo.com/news/gm-q1-earnings-preview-buy-131300370.html"
+            },
+            {
+                "headline": "Voltera has announced the expansion of its electric vehicle (EV) charging infrastructure in major urban markets across California, Texas, Arizona, and Florida, adding 294 charging stalls and over 28 megawatts of capacity. This expansion includes new facilities in Santa Monica, San Francisco, Dallas, and Austin, with additional sites planned for Houston, Phoenix, and Miami. The strategically located facilities are purpose-built to support light-duty passenger fleets, reflecting Voltera\u2019s...",
+                "publication_date": "2025-04-25T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4019",
+                "source": "Simply Wall St.",
+                "ticker": "F",
+                "title": "This Week In Electric Vehicles - Voltera Expands Charging Infrastructure in Key Urban Markets",
+                "url": "https://finance.yahoo.com/news/week-electric-vehicles-voltera-expands-103933955.html"
+            }
+        ],
+        "avgScore": -0.11386666666666669,
+        "pctChange": 0.0
+    },
     "4 24 2025": {
         "importantArticles": [
             {
@@ -63,7 +129,7 @@
             }
         ],
         "avgScore": 0.25783333333333336,
-        "pctChange": 0.015704127129522405
+        "pctChange": -0.0014910877432473748
     },
     "4 23 2025": {
         "importantArticles": [
@@ -129,7 +195,7 @@
             }
         ],
         "avgScore": 0.25976666666666665,
-        "pctChange": 0.025051113726835487
+        "pctChange": 0.028629927841566802
     },
     "4 22 2025": {
         "importantArticles": [
@@ -458,7 +524,7 @@
                 "url": "https://finance.yahoo.com/news/netflix-meta-ford-lvmh-bm-trending-tickers-084709811.html"
             }
         ],
-        "avgScore": 0.2572066666666667,
+        "avgScore": 0.2646428571428571,
         "pctChange": -0.005291025581380563
     },
     "4 14 2025": {
@@ -524,7 +590,7 @@
                 "url": "https://finance.yahoo.com/news/why-tesla-gm-and-rivian-will-be-hurt-most-by-chinas-critical-minerals-export-ban-162846793.html"
             }
         ],
-        "avgScore": 0.1922666666666666,
+        "avgScore": 0.18667142857142852,
         "pctChange": -0.026776542519092884
     },
     "4 11 2025": {
@@ -1250,7 +1316,7 @@
                 "url": "https://finance.yahoo.com/m/8ab4d828-df86-35d2-a97b-a3c94a1fbd56/trump%E2%80%99s-car-tariffs-are-worse.html"
             }
         ],
-        "avgScore": 0.177845,
+        "avgScore": 0.15567222222222218,
         "pctChange": 0.031892948294860786
     },
     "3 27 2025": {
@@ -1266,6 +1332,16 @@
                 "url": "https://finance.yahoo.com/video/auto-stocks-feel-impact-trumps-152124933.html"
             },
             {
+                "headline": "Shares of U.S. and international automakers tumbled on Thursday after President Trump declared a 25% tariff on imported vehicles and, eventually, auto parts.",
+                "publication_date": "2025-03-27T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.296",
+                "source": "Investopedia",
+                "ticker": "F",
+                "title": "These Car Stocks Could Feel the Most Pain Under Trump's Auto Tariffs",
+                "url": "https://finance.yahoo.com/news/car-stocks-could-feel-most-171502592.html"
+            },
+            {
                 "headline": "Not really. All three Detroit car companies build U.S.-sold vehicles outside the country, including well-known models such as Chevy pickup trucks and Jeep SUVs. General Motors stands to take the biggest hit from import tariffs because it assembles about 46% of its U.",
                 "publication_date": "2025-03-27T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -1274,16 +1350,6 @@
                 "ticker": "F",
                 "title": "Are the 25% Auto Tariffs Good News for Detroit?",
                 "url": "https://finance.yahoo.com/m/9009183d-ed8b-3306-8c52-ed8a6f8e8d9c/are-the-25-auto-tariffs-good.html"
-            },
-            {
-                "headline": "General Motors\u2019 (GM), Ford Motor\u2019s (F), and Ferrari\u2019s (RACE) earnings are likelier than ever to take a hit, as President Donald Trump\u2019s \u201cdraconian\u201d tariffs and anti-electric vehicle policies hang over the automakers, according to JPMorgan (JPM) analysts.",
-                "publication_date": "2025-03-27T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Quartz",
-                "ticker": "F",
-                "title": "JPMorgan drops its price targets for Ford, GM, and Ferrari as Trump's 'draconian' tariffs loom",
-                "url": "https://finance.yahoo.com/news/jpmorgan-drops-price-target-ford-124100811.html"
             },
             {
                 "headline": "(Bloomberg) -- Donald Trump\u2019s planned tariffs on auto imports will hurt carmakers around the world and push up prices for US consumers. Among the many losers, one winner stands out: Elon Musk\u2019s Tesla Inc.Most Read from BloombergWhy Did the Government Declare War on My Adorable Tiny Truck?How SUVs Are Making Traffic WorseTrump Slashed International Aid. Geneva Is Feeling the Impact.These US Bridges Face High Risk of Catastrophic Ship StrikesAffordable Housing Developers Stalled by Blocked Federal",
@@ -1306,25 +1372,25 @@
                 "url": "https://finance.yahoo.com/news/trump-could-announce-auto-tariffs-160041725.html"
             },
             {
-                "headline": "President Trump\u2019s 25% levy on automobiles and key car parts is expected to impact not just foreign-made vehicles but also American ones.",
+                "headline": "Not really. All three Detroit car companies build U.S.-sold vehicles outside the country, including well-known models such as Chevy pickup trucks and Jeep SUVs. General Motors stands to take the biggest hit from import tariffs because it assembles about 46% of its U.",
                 "publication_date": "2025-03-27T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
-                "source": "FastCompany",
+                "source": "The Wall Street Journal",
                 "ticker": "F",
-                "title": "Auto stocks today: GM, Ford, Tesla, Stellantis, Toyota fall after Trump\u2019s tariffs on cars and parts",
-                "url": "https://finance.yahoo.com/news/auto-stocks-today-gm-ford-132000859.html"
+                "title": "Are the 25% Auto Tariffs Good News for Detroit?",
+                "url": "https://finance.yahoo.com/m/9009183d-ed8b-3306-8c52-ed8a6f8e8d9c/are-the-25-auto-tariffs-good.html"
             }
         ],
-        "avgScore": -0.09388333333333332,
+        "avgScore": -0.053459999999999994,
         "pctChange": -0.018181753377500335
     },
-    "coef": 0.1609022556390977,
-    "avgCoef": -0.03154437894271978,
+    "coef": 0.10259740259740259,
+    "avgCoef": 0.02108417540055691,
     "similar": {
-        "RIVN": 0.437593984962406,
-        "CLSK": 0.4120300751879699,
-        "LCID": 0.38796992481203,
-        "MU": 0.38646616541353385
+        "PONY": 0.34285714285714286,
+        "CNH": 0.33647289855146656,
+        "HBAN": 0.3363636363636363,
+        "CLSK": 0.3207792207792208
     }
 }

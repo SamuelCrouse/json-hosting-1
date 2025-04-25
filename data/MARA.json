@@ -45,11 +45,11 @@
         "avgScore": 0.30275,
         "pctChange": -0.008492560834195724
     },
-    "4 15 2025": {
+    "4 16 2025": {
         "importantArticles": [
             {
                 "headline": "BTC miners see lower margins while institutional capital exits crypto ETFs amid Trump's trade war tensions",
-                "publication_date": "2025-04-15T00:00:00.000Z",
+                "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.8316",
                 "source": "GuruFocus.com",
@@ -59,7 +59,7 @@
             },
             {
                 "headline": "BTC miners see lower margins while institutional capital exits crypto ETFs amid Trump's trade war tensions",
-                "publication_date": "2025-04-15T00:00:00.000Z",
+                "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Negative",
                 "sentimentScore": "-0.8316",
                 "source": "GuruFocus.com",
@@ -69,13 +69,13 @@
             }
         ],
         "avgScore": -0.8316,
-        "pctChange": -0.020667744869527802
+        "pctChange": 0.02759741566639233
     },
-    "4 9 2025": {
+    "4 10 2025": {
         "importantArticles": [
             {
                 "headline": "(Bloomberg) -- Bitcoin surged and most smaller cryptocurrencies gained even more after President Donald Trump surprised markets by saying he would pause so-called reciprocal tariffs on dozens of non-retaliating countries. The largest digital asset jumped as much as 7.7% to $82,967 after beginning Wednesday in the red, while XRP and Solana each increased more than 11%. Ether, the second-biggest token, also turned higher after Trump noted the change on his social media platform.The about-face by T",
-                "publication_date": "2025-04-09T00:00:00.000Z",
+                "publication_date": "2025-04-10T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.8107",
                 "source": "Bloomberg",
@@ -85,7 +85,7 @@
             },
             {
                 "headline": "(Bloomberg) -- Bitcoin surged and most smaller cryptocurrencies gained even more after President Donald Trump surprised markets by saying he would pause so-called reciprocal tariffs on dozens of non-retaliating countries. The largest digital asset jumped as much as 7.7% to $82,967 after beginning Wednesday in the red, while XRP and Solana each increased more than 11%. Ether, the second-biggest token, also turned higher after Trump noted the change on his social media platform.The about-face by T",
-                "publication_date": "2025-04-09T00:00:00.000Z",
+                "publication_date": "2025-04-10T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.8107",
                 "source": "Bloomberg",
@@ -95,13 +95,13 @@
             }
         ],
         "avgScore": 0.8107,
-        "pctChange": -0.04630386913636543
+        "pctChange": 0.0655877745123954
     },
-    "3 31 2025": {
+    "4 1 2025": {
         "importantArticles": [
             {
                 "headline": "Two titans--Strategy and MARA--just went all-in on Bitcoin. Is this the start of the next crypto bull wave?",
-                "publication_date": "2025-03-31T00:00:00.000Z",
+                "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
                 "source": "GuruFocus.com",
@@ -111,7 +111,7 @@
             },
             {
                 "headline": "Two titans--Strategy and MARA--just went all-in on Bitcoin. Is this the start of the next crypto bull wave?",
-                "publication_date": "2025-03-31T00:00:00.000Z",
+                "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
                 "source": "GuruFocus.com",
@@ -121,40 +121,14 @@
             }
         ],
         "avgScore": 0.0,
-        "pctChange": 0.029565230659816578
+        "pctChange": 0.04898647941142831
     },
-    "3 25 2025": {
-        "importantArticles": [
-            {
-                "headline": "MARA Holdings (NasdaqCM:MARA) experienced a significant share price movement, rising 13% over the last week. This increase came on the heels of MARA Holdings announcing the appointment of PricewaterhouseCoopers LLP as its new independent registered public accounting firm, succeeding Marcum LLP. Despite the market's modest 1.8% rise during the same period, MARA's performance seems particularly strong, potentially reflecting investor confidence following recent notable earnings growth. This...",
-                "publication_date": "2025-03-25T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.9516",
-                "source": "Simply Wall St.",
-                "ticker": "MARA",
-                "title": "MARA Holdings (NasdaqCM:MARA) Sees 13% Rise Following New Auditor Appointment",
-                "url": "https://finance.yahoo.com/news/mara-holdings-nasdaqcm-mara-sees-174813922.html"
-            },
-            {
-                "headline": "MARA Holdings (NasdaqCM:MARA) experienced a significant share price movement, rising 13% over the last week. This increase came on the heels of MARA Holdings announcing the appointment of PricewaterhouseCoopers LLP as its new independent registered public accounting firm, succeeding Marcum LLP. Despite the market's modest 1.8% rise during the same period, MARA's performance seems particularly strong, potentially reflecting investor confidence following recent notable earnings growth. This...",
-                "publication_date": "2025-03-25T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.9516",
-                "source": "Simply Wall St.",
-                "ticker": "MARA",
-                "title": "MARA Holdings (NasdaqCM:MARA) Sees 13% Rise Following New Auditor Appointment",
-                "url": "https://finance.yahoo.com/news/mara-holdings-nasdaqcm-mara-sees-174813922.html"
-            }
-        ],
-        "avgScore": 0.9516,
-        "pctChange": -0.032280704431366505
-    },
-    "coef": -0.6,
-    "avgCoef": 0.01287999007385066,
+    "coef": 0.39999999999999997,
+    "avgCoef": 0.010099436147446432,
     "similar": {
-        "JD": 0.7999999999999999,
-        "TAL": 0.7,
-        "T": 0.7,
-        "AMCR": 0.7
+        "GOOGL": 1.0,
+        "GOOG": 1.0,
+        "AMD": 1.0,
+        "SMMT": 1.0
     }
 }

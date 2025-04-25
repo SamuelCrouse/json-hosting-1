@@ -103,38 +103,12 @@
         "avgScore": 0.7003,
         "pctChange": 0.004184096244488566
     },
-    "3 25 2025": {
-        "importantArticles": [
-            {
-                "headline": "The U.S. stock market recently experienced a surge, driven by positive investor sentiment following reports that the Trump administration may reduce certain tariffs, boosting major indices like the S&P 500 and Nasdaq Composite. Amidst this backdrop, investors are increasingly looking for opportunities in lesser-known sectors of the market. Penny stocks, often associated with smaller or newer companies, remain an intriguing investment area due to their potential for growth at lower price...",
-                "publication_date": "2025-03-25T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.9118",
-                "source": "Simply Wall St.",
-                "ticker": "GRAB",
-                "title": "3 Promising Penny Stocks With Market Caps Under $19B",
-                "url": "https://finance.yahoo.com/news/3-promising-penny-stocks-market-110455152.html"
-            },
-            {
-                "headline": "The U.S. stock market recently experienced a surge, driven by positive investor sentiment following reports that the Trump administration may reduce certain tariffs, boosting major indices like the S&P 500 and Nasdaq Composite. Amidst this backdrop, investors are increasingly looking for opportunities in lesser-known sectors of the market. Penny stocks, often associated with smaller or newer companies, remain an intriguing investment area due to their potential for growth at lower price...",
-                "publication_date": "2025-03-25T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.9118",
-                "source": "Simply Wall St.",
-                "ticker": "GRAB",
-                "title": "3 Promising Penny Stocks With Market Caps Under $19B",
-                "url": "https://finance.yahoo.com/news/3-promising-penny-stocks-market-110455152.html"
-            }
-        ],
-        "avgScore": 0.9118,
-        "pctChange": 0.05286349118323886
-    },
-    "coef": 0.8999999999999998,
-    "avgCoef": 0.013888695452154338,
+    "coef": 1.0,
+    "avgCoef": 0.014578010692843858,
     "similar": {
-        "GRAB": 0.8999999999999998,
-        "WBD": 0.8999999999999998,
-        "CSCO": 0.8999999999999998,
-        "CSX": 0.8999999999999998
+        "NVDA": 1.0,
+        "INTC": 1.0,
+        "PLTR": 1.0,
+        "AAL": 1.0
     }
 }

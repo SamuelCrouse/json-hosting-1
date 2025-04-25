@@ -1,0 +1,62 @@
+{
+    "4 25 2025": {
+        "importantArticles": [
+            {
+                "headline": "Flagstar Financial, Inc. (NYSE: FLG) (\"the Company\"), today reported results for first quarter 2025. First quarter 2025 net loss was $100 million compared to a net loss of $188 million for fourth quarter 2024, and a net loss of $327 million for first quarter 2024. The net loss attributable to common stockholders for first quarter 2025 was $108 million, or $0.26 per diluted share, compared to a net loss attributable to common stockholders of $196 million, or $0.47 per diluted share for fourth qua",
+                "publication_date": "2025-04-25T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.7269",
+                "source": "PR Newswire",
+                "ticker": "FLG",
+                "title": "FLAGSTAR FINANCIAL, INC. REPORTS FIRST QUARTER 2025 GAAP NET LOSS ATTRIBUTABLE TO COMMON STOCKHOLDERS OF $0.26 PER DILUTED SHARE AND NON-GAAP ADJUSTED NET LOSS ATTRIBUTABLE TO COMMON STOCKHOLDERS OF $0.23 PER DILUTED SHARE",
+                "url": "https://finance.yahoo.com/news/flagstar-financial-inc-reports-first-100000738.html"
+            },
+            {
+                "headline": "Flagstar Financial, Inc. (NYSE: FLG) (\"the Company\"), today reported results for first quarter 2025. First quarter 2025 net loss was $100 million compared to a net loss of $188 million for fourth quarter 2024, and a net loss of $327 million for first quarter 2024. The net loss attributable to common stockholders for first quarter 2025 was $108 million, or $0.26 per diluted share, compared to a net loss attributable to common stockholders of $196 million, or $0.47 per diluted share for fourth qua",
+                "publication_date": "2025-04-25T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.7269",
+                "source": "PR Newswire",
+                "ticker": "FLG",
+                "title": "FLAGSTAR FINANCIAL, INC. REPORTS FIRST QUARTER 2025 GAAP NET LOSS ATTRIBUTABLE TO COMMON STOCKHOLDERS OF $0.26 PER DILUTED SHARE AND NON-GAAP ADJUSTED NET LOSS ATTRIBUTABLE TO COMMON STOCKHOLDERS OF $0.23 PER DILUTED SHARE",
+                "url": "https://finance.yahoo.com/news/flagstar-financial-inc-reports-first-100000738.html"
+            }
+        ],
+        "avgScore": -0.7269,
+        "pctChange": 0.02850883980830811
+    },
+    "4 2 2025": {
+        "importantArticles": [
+            {
+                "headline": "Flagstar Financial, Inc. (NYSE: FLG) (the \"Company\") today announced that it plans to issue results for the three months ended March 31, 2025 at approximately 6:00 a.m. Eastern Time (ET) on Friday, April 25, 2025. The earnings release and presentation will be posted to the Investor Relations portion of the Company's website, ir.flagstar.com shortly after issuance.",
+                "publication_date": "2025-04-02T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "PR Newswire",
+                "ticker": "FLG",
+                "title": "FLAGSTAR FINANCIAL, INC. TO REPORT FIRST QUARTER 2025 EARNINGS AND HOST CONFERENCE CALL ON APRIL 25TH",
+                "url": "https://finance.yahoo.com/news/flagstar-financial-inc-report-first-123000365.html"
+            },
+            {
+                "headline": "Flagstar Financial, Inc. (NYSE: FLG) (the \"Company\") today announced that it plans to issue results for the three months ended March 31, 2025 at approximately 6:00 a.m. Eastern Time (ET) on Friday, April 25, 2025. The earnings release and presentation will be posted to the Investor Relations portion of the Company's website, ir.flagstar.com shortly after issuance.",
+                "publication_date": "2025-04-02T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "PR Newswire",
+                "ticker": "FLG",
+                "title": "FLAGSTAR FINANCIAL, INC. TO REPORT FIRST QUARTER 2025 EARNINGS AND HOST CONFERENCE CALL ON APRIL 25TH",
+                "url": "https://finance.yahoo.com/news/flagstar-financial-inc-report-first-123000365.html"
+            }
+        ],
+        "avgScore": 0.0,
+        "pctChange": -0.05764190903112935
+    },
+    "coef": -0.9999999999999999,
+    "avgCoef": 0.01992697408921589,
+    "similar": {
+        "INTC": 0.9999999999999999,
+        "PONY": 0.9999999999999999,
+        "ABEV": 0.9999999999999999,
+        "AVTR": 0.9999999999999999
+    }
+}

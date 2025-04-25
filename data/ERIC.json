@@ -431,6 +431,32 @@
         "avgScore": 0.7351,
         "pctChange": 0.003865944856487996
     },
+    "3 28 2025": {
+        "importantArticles": [
+            {
+                "headline": "We recently published a list of 9 AI News and Ratings on Investors\u2019 Radar. In this article, we are going to take a look at where Telefonaktiebolaget LM Ericsson (publ) (NASDAQ:ERIC) stands against other AI news and ratings on investors\u2019 radar. According to a Reuters report posted on March 25, Chinese AI firms have made [\u2026]",
+                "publication_date": "2025-03-28T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Insider Monkey",
+                "ticker": "ERIC",
+                "title": "Telefonaktiebolaget LM Ericsson (ERIC) Partners with SoftBank to Bring AI and 6G to Japan \u2013 A Tech Leap Forward!",
+                "url": "https://finance.yahoo.com/news/telefonaktiebolaget-lm-ericsson-eric-partners-221052623.html"
+            },
+            {
+                "headline": "We recently published a list of 9 AI News and Ratings on Investors\u2019 Radar. In this article, we are going to take a look at where Telefonaktiebolaget LM Ericsson (publ) (NASDAQ:ERIC) stands against other AI news and ratings on investors\u2019 radar. According to a Reuters report posted on March 25, Chinese AI firms have made [\u2026]",
+                "publication_date": "2025-03-28T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Insider Monkey",
+                "ticker": "ERIC",
+                "title": "Telefonaktiebolaget LM Ericsson (ERIC) Partners with SoftBank to Bring AI and 6G to Japan \u2013 A Tech Leap Forward!",
+                "url": "https://finance.yahoo.com/news/telefonaktiebolaget-lm-ericsson-eric-partners-221052623.html"
+            }
+        ],
+        "avgScore": 0.0,
+        "pctChange": -0.0025706915664731513
+    },
     "3 25 2025": {
         "importantArticles": [
             {
@@ -457,12 +483,12 @@
         "avgScore": 0.0,
         "pctChange": -0.007281553112570786
     },
-    "coef": 0.12154881642416257,
-    "avgCoef": -0.008675289492731006,
+    "coef": 0.0933390951837159,
+    "avgCoef": 0.012299046429447522,
     "similar": {
-        "MRVL": 0.7458677371482704,
-        "HIMS": 0.6795683827350907,
-        "SNAP": 0.6574685979306976,
-        "RKLB": 0.6574685979306976
+        "MRVL": 0.7244891673783663,
+        "NU": 0.6644854633316918,
+        "SNAP": 0.6600407445134197,
+        "RKLB": 0.6444842286494671
     }
 }

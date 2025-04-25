@@ -23,7 +23,7 @@
             }
         ],
         "avgScore": -0.1027,
-        "pctChange": 0.01465005172505865
+        "pctChange": -0.005347613764161553
     },
     "4 23 2025": {
         "importantArticles": [
@@ -522,6 +522,16 @@
     "4 7 2025": {
         "importantArticles": [
             {
+                "headline": "Building on a period of expansive growth, Carnival Cruise Line is outlining its strategic plans over the next five years with the introduction of its \"Innovation Itinerary,\" focused on three pillars: sailing the most fun fleet at sea; creating compelling experiences and destinations; and building more Carnival loyalists. The line's President Christine Duffy provided details on new ships, deployment, fleet enhancements and exclusive destinations at a media briefing today aboard Carnival Celebrati",
+                "publication_date": "2025-04-07T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9475",
+                "source": "PR Newswire",
+                "ticker": "CCL",
+                "title": "CARNIVAL CRUISE LINE UNVEILS AN EXCITING 'INNOVATION ITINERARY' OF NEW SHIPS, FLEET ENHANCEMENTS, DEPLOYMENT PLANS AND EXCLUSIVE DESTINATIONS",
+                "url": "https://finance.yahoo.com/news/carnival-cruise-line-unveils-exciting-222500196.html"
+            },
+            {
                 "headline": "Carnival Corporation & plc (NYSE/LSE: CCL; NYSE: CUK), the world's largest cruise company, today announced an order for two new ships for the most popular cruise line in Germany, AIDA Cruises, for a new class of mid-sized vessel. The agreement with Italian shipbuilder Fincantieri provides for the design, engineering, and construction of these multi-fuel-capable ships, which will be delivered in the first quarter of fiscal years 2030 and 2032, respectively.",
                 "publication_date": "2025-04-07T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -540,16 +550,6 @@
                 "ticker": "CCL",
                 "title": "Q4 Earnings Highs And Lows: Marriott Vacations (NYSE:VAC) Vs The Rest Of The Travel and Vacation Providers Stocks",
                 "url": "https://finance.yahoo.com/news/q4-earnings-highs-lows-marriott-090634795.html"
-            },
-            {
-                "headline": "Carnival (CCL, CUK) said Sunday it is launching Carnival Festivale, the fourth ship in its Excel cla",
-                "publication_date": "2025-04-07T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4588",
-                "source": "MT Newswires",
-                "ticker": "CCL",
-                "title": "Carnival Discloses Plans for Excel Ships; Places Order for AIDA Cruises Ships",
-                "url": "https://finance.yahoo.com/news/carnival-discloses-plans-excel-ships-080032513.html"
             },
             {
                 "headline": "Carnival (CCL, CUK) said Sunday it is launching Carnival Festivale, the fourth ship in its Excel cla",
@@ -582,7 +582,7 @@
                 "url": "https://finance.yahoo.com/news/carnival-corporation-finalizes-agreement-fincantieri-063000643.html"
             }
         ],
-        "avgScore": 0.6619666666666667,
+        "avgScore": 0.7333500000000001,
         "pctChange": 0.01582472453149807
     },
     "4 4 2025": {
@@ -861,58 +861,12 @@
         "avgScore": 0.7294,
         "pctChange": -0.0071667279667062414
     },
-    "3 25 2025": {
-        "importantArticles": [
-            {
-                "headline": "Major cruise lines are leasing private islands and beaches in the Bahamas, keeping spending within their own ecosystems. But some question whether it benefits host nations or takes business away from local ports.",
-                "publication_date": "2025-03-25T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.5267",
-                "source": "WSJ",
-                "ticker": "CCL",
-                "title": "How Private Islands Are Reshaping the Cruise Industry",
-                "url": "https://finance.yahoo.com/video/private-islands-reshaping-cruise-industry-040100788.html"
-            },
-            {
-                "headline": "Cunard today announced an exciting partnership with Sail4th 250, the non-profit organization overseeing celebrations in the Port of New York and New Jersey for America's 250th anniversary next year.",
-                "publication_date": "2025-03-25T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4939",
-                "source": "CNW Group",
-                "ticker": "CCL",
-                "title": "Queen Mary 2 to join America's 250th anniversary celebration in New York in 2026 as Cunard partners with Sail4th 250",
-                "url": "https://finance.yahoo.com/news/queen-mary-2-join-americas-124200157.html"
-            },
-            {
-                "headline": "Cunard today announced an exciting partnership with Sail4th 250, the non-profit organization overseeing celebrations in the Port of New York and New Jersey for America's 250th anniversary next year.",
-                "publication_date": "2025-03-25T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4939",
-                "source": "CNW Group",
-                "ticker": "CCL",
-                "title": "Queen Mary 2 to join America's 250th anniversary celebration in New York in 2026 as Cunard partners with Sail4th 250",
-                "url": "https://finance.yahoo.com/news/queen-mary-2-join-americas-124200157.html"
-            },
-            {
-                "headline": "Major cruise lines are leasing private islands and beaches in the Bahamas, keeping spending within their own ecosystems. But some question whether it benefits host nations or takes business away from local ports.",
-                "publication_date": "2025-03-25T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.5267",
-                "source": "WSJ",
-                "ticker": "CCL",
-                "title": "How Private Islands Are Reshaping the Cruise Industry",
-                "url": "https://finance.yahoo.com/video/private-islands-reshaping-cruise-industry-040100788.html"
-            }
-        ],
-        "avgScore": 0.5103,
-        "pctChange": -0.015522103487926958
-    },
-    "coef": 0.10216718266253869,
-    "avgCoef": 0.018698589524925115,
+    "coef": 0.21813725490196081,
+    "avgCoef": 0.006669107210442037,
     "similar": {
-        "CMG": 0.23632610939112486,
-        "TAL": 0.21362229102167182,
-        "HTZ": 0.2115583075335397,
-        "TXN": 0.2053663570691434
+        "GRAB": 0.28186274509803927,
+        "T": 0.2622549019607843,
+        "HTZ": 0.2303921568627451,
+        "TMUS": 0.22303921568627455
     }
 }

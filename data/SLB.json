@@ -22,14 +22,14 @@
                 "url": "https://finance.yahoo.com/video/abbvie-schlumberger-colgate-palmolive-trending-135355138.html"
             },
             {
-                "headline": "The company\u2019s fortunes are closely tied to prices of oil and gas, and they haven\u2019t provided much help.",
+                "headline": "A promise to continue returning billions of dollars to shareholders couldn't make up for a lackluster first quarter from Schlumberger (NYSE: SLB) on Friday.  The former metric slid by 3% to $8.49 billion for the oilfield services company, while non-GAAP (adjusted) net income saw a 9% tumble to $988 million ($0.72 in per-share terms).  Prognosticators covering Schlumberger were collectively projecting $8.64 billion for revenue, and adjusted net income of $0.74 per share.",
                 "publication_date": "2025-04-25T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.4019",
-                "source": "Barrons.com",
+                "sentimentScore": "0.5423",
+                "source": "Motley Fool",
                 "ticker": "SLB",
-                "title": "SLB Earnings Miss Estimates. The Stock Is Falling.",
-                "url": "https://finance.yahoo.com/m/4d407eee-7e83-32a8-9b1b-30dd03d8d72f/slb-earnings-miss-estimates-.html"
+                "title": "Why Schlumberger Stock Slumped on Friday",
+                "url": "https://finance.yahoo.com/news/why-schlumberger-stock-slumped-friday-205547786.html"
             },
             {
                 "headline": "Schlumberger N.V. (NYSE:SLB) shares are trading lower on Friday after the company reported worse-than-expected first-quarter 2025 results. Revenue declined 3% year over year to $8.49 billion, missing estimates of $8.59 billion. Adjusted EPS slid 4% to 72 cents, missing the consensus of 74 cents. North America revenue rose 8% YoY to $1.72B, driven by digital, subsea, and data center sales, but fell 2% sequentially on lower drilling activity. International revenue declined 5% year-over-year to $6.",
@@ -62,8 +62,8 @@
                 "url": "https://finance.yahoo.com/news/schlumberger-slb-lags-q1-earnings-120003111.html"
             }
         ],
-        "avgScore": 0.19246666666666665,
-        "pctChange": 0.0007290087639023963
+        "avgScore": 0.24244285714285718,
+        "pctChange": 0.006707481367612876
     },
     "4 22 2025": {
         "importantArticles": [
@@ -131,11 +131,11 @@
         "avgScore": 0.4457333333333333,
         "pctChange": -0.016758214990646773
     },
-    "4 17 2025": {
+    "4 16 2025": {
         "importantArticles": [
             {
                 "headline": "Schlumberger (SLB) reachead $34.15 at the closing of the latest trading day, reflecting a +1.16% change compared to its last close.",
-                "publication_date": "2025-04-17T00:00:00.000Z",
+                "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
                 "source": "Zacks",
@@ -145,7 +145,7 @@
             },
             {
                 "headline": "Schlumberger (SLB) reachead $34.15 at the closing of the latest trading day, reflecting a +1.16% change compared to its last close.",
-                "publication_date": "2025-04-17T00:00:00.000Z",
+                "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
                 "source": "Zacks",
@@ -155,7 +155,7 @@
             }
         ],
         "avgScore": 0.0,
-        "pctChange": -0.013956185415796562
+        "pctChange": 0.028111245727036584
     },
     "4 15 2025": {
         "importantArticles": [
@@ -255,11 +255,11 @@
         "avgScore": 0.6597,
         "pctChange": -0.09560863453238311
     },
-    "4 3 2025": {
+    "4 2 2025": {
         "importantArticles": [
             {
                 "headline": "Schlumberger (SLB) reachead $42.19 at the closing of the latest trading day, reflecting a -0.02% change compared to its last close.",
-                "publication_date": "2025-04-03T00:00:00.000Z",
+                "publication_date": "2025-04-02T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
                 "source": "Zacks",
@@ -269,7 +269,7 @@
             },
             {
                 "headline": "Schlumberger (SLB) reachead $42.19 at the closing of the latest trading day, reflecting a -0.02% change compared to its last close.",
-                "publication_date": "2025-04-03T00:00:00.000Z",
+                "publication_date": "2025-04-02T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
                 "source": "Zacks",
@@ -279,7 +279,7 @@
             }
         ],
         "avgScore": 0.0,
-        "pctChange": -0.1129813927215847
+        "pctChange": -0.07063284283564296
     },
     "3 31 2025": {
         "importantArticles": [
@@ -379,12 +379,12 @@
         "avgScore": 0.23835,
         "pctChange": -0.005225591780985265
     },
-    "coef": 0.21474009169894706,
-    "avgCoef": 0.010840667451634808,
+    "coef": -0.06748974310538336,
+    "avgCoef": -0.010371401578626744,
     "similar": {
-        "IONQ": 0.791470623690405,
-        "T": 0.6687619998624351,
-        "VALE": 0.5583242384172624,
-        "RKLB": 0.5337825136516684
+        "HL": 0.6196785503312473,
+        "IONQ": 0.5828659631828563,
+        "PSLV": 0.49696992650327754,
+        "VRT": 0.4846990641204805
     }
 }

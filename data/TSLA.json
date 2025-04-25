@@ -12,6 +12,16 @@
                 "url": "https://finance.yahoo.com/news/elon-musk-thinks-tesla-become-114500733.html"
             },
             {
+                "headline": "Tesla (NasdaqGS:TSLA) experienced a significant share price increase of 7.5% over the past week. This move coincides with several positive developments, including CEO Elon Musk's announcement to focus more on Tesla and the loosening of U.S. regulations concerning self-driving vehicles. Additionally, Tesla's stocks benefited from an overall market trend that saw the Nasdaq Composite rise by 5.4% amid a broader rally driven by earnings reports and optimism over possible tariff resolutions...",
+                "publication_date": "2025-04-25T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9081",
+                "source": "Simply Wall St.",
+                "ticker": "TSLA",
+                "title": "Tesla (NasdaqGS:TSLA) Superchargers Now Accessible To Kia EV Owners For Enhanced Charging Connectivity",
+                "url": "https://finance.yahoo.com/news/tesla-nasdaqgs-tsla-superchargers-now-174804254.html"
+            },
+            {
                 "headline": "(Bloomberg) -- BYD Co. shares\u2019 strong lead over Tesla Inc. this year may get another lift from the Chinese electric vehicle maker\u2019s first-quarter results, expected to show a solid start to 2025.Most Read from BloombergTrump Gives New York \u2018One Last Chance\u2019 to End Congestion FeeWhy Car YouTuber Matt Farah Is Fighting for Walkable CitiesBackyard Micro-Flats Aim to Ease South Africa\u2019s Housing CrisisThe Racial Wealth Gap Is Not Just About MoneyTo Fuel Affordable Housing, This Innovation Fund Targets",
                 "publication_date": "2025-04-25T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -20,16 +30,6 @@
                 "ticker": "TSLA",
                 "title": "BYD\u2019s earnings may fuel further gains in shares versus Tesla",
                 "url": "https://finance.yahoo.com/news/byd-earnings-may-fuel-further-001831524.html"
-            },
-            {
-                "headline": "(Bloomberg) -- Supply Lines is a daily newsletter that tracks global trade. Sign up here.Most Read from BloombergTrump Gives New York \u2018One Last Chance\u2019 to End Congestion FeeWhy Car YouTuber Matt Farah Is Fighting for Walkable CitiesBackyard Micro-Flats Aim to Ease South Africa\u2019s Housing CrisisThe Racial Wealth Gap Is Not Just About MoneyTo Fuel Affordable Housing, This Innovation Fund Targets Predevelopment CostsUS President Donald Trump expressed confidence he would be able to reach an agreemen",
-                "publication_date": "2025-04-25T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8481",
-                "source": "Bloomberg",
-                "ticker": "TSLA",
-                "title": "Trump Says He Expects to Reach Deal With Norway on Tariffs",
-                "url": "https://finance.yahoo.com/news/trump-says-expects-reach-deal-184257238.html"
             },
             {
                 "headline": "The news\u2014and subsequent jump in Tesla\u2019s stock price\u2014followed a Q1 where its core business lost money.",
@@ -62,8 +62,8 @@
                 "url": "https://finance.yahoo.com/news/elon-musk-equates-car-ownership-005941295.html"
             }
         ],
-        "avgScore": 0.3180833333333333,
-        "pctChange": 0.08899158466333405
+        "avgScore": 0.3347176470588235,
+        "pctChange": 0.08888383029012749
     },
     "4 24 2025": {
         "importantArticles": [
@@ -108,16 +108,6 @@
                 "url": "https://finance.yahoo.com/news/musk-damaged-teslas-brand-just-215611103.html"
             },
             {
-                "headline": "US stocks jumped after President Trump said he has \"no intention\" of firing Federal Reserve Chair Jerome Powell, easing fears on Wall Street that the central bank's independence was under threat.",
-                "publication_date": "2025-04-24T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.8316",
-                "source": "Yahoo Finance",
-                "ticker": "TSLA",
-                "title": "Stock market today: Dow rises 400 points, Nasdaq gains 2.5%, but mega-rally fades in late trading",
-                "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-rises-400-points-nasdaq-gains-25-but-mega-rally-fades-in-late-trading-133419757.html"
-            },
-            {
                 "headline": "The company projected lower sales as weak demand for some semiconductors used in cars and industrial equipment continued to plague an industry that now faces heightened uncertainty from unpredictable tariff policies.",
                 "publication_date": "2025-04-24T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -126,10 +116,20 @@
                 "ticker": "TSLA",
                 "title": "Tesla Supplier STMicroelectronics Expects Lower Sales, But Signals Recovery Is Coming",
                 "url": "https://finance.yahoo.com/m/138e81eb-998e-34e8-9253-d60a8e4b251d/tesla-supplier.html"
+            },
+            {
+                "headline": "Morgan Stanley finally cuts loose Musk's controversial Twitter debt with a juicy 9.5% yield. Here's why timing is everything.",
+                "publication_date": "2025-04-24T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.7783",
+                "source": "GuruFocus.com",
+                "ticker": "TSLA",
+                "title": "Wall Street Unloads Musk's $1.2B Debt Bomb -- And Investors Are Rushing In",
+                "url": "https://finance.yahoo.com/news/wall-street-unloads-musks-1-171348937.html"
             }
         ],
-        "avgScore": 0.099606779661017,
-        "pctChange": 0.09813956967053106
+        "avgScore": 0.13238723404255326,
+        "pctChange": 0.098030910115499
     },
     "4 23 2025": {
         "importantArticles": [
@@ -144,16 +144,6 @@
                 "url": "https://finance.yahoo.com/video/tesla-needs-next-big-thing-070057278.html"
             },
             {
-                "headline": "Tesla CEO Elon Musk weighed in on tariffs as well, indicating that while he doesn\u2019t love the levies, the EV maker is in a good position to handle whatever President Donald Trump decides.  \u201cTariffs are tough on a company when margins are still low,\u201d said Musk, adding he believes that Tesla is the least affected by tariffs among major auto makers.  \u201cThe tariff decision is entirely up to the president of the United States\u2026I will weigh in with my advice,\u201d said Musk, adding he believes lower tariffs are generally a good idea.",
-                "publication_date": "2025-04-23T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.9126",
-                "source": "Barrons.com",
-                "ticker": "TSLA",
-                "title": "'Tariffs Are Tough,' but Tesla Is Least Affected, Musk Says",
-                "url": "https://finance.yahoo.com/m/40442992-9de3-3f80-b098-f57b5c73d98b/-tariffs-are-tough-but.html"
-            },
-            {
                 "headline": "You can catch Opening Bid on Apple Podcasts, Spotify, YouTube, or wherever you get your podcasts. Elon Musk wasted no time on Tesla\u2019s (TSLA) earnings call late Tuesday acknowledging the EV maker\u2019s biggest roadblock to sunnier financial days. That is his outsized time being spent at President Trump\u2019s controversial DOGE master. And he finally clearly articulated what must be done to jumpstart an automaker that saw sales and profits fall off a cliff in the first quarter. \u201cStarting early next month, in May, my time allocation to DOGE will drop considerably,\" Musk said on the call. The path to renewed sales and profit growth won\u2019t be easy, however. The Tesla brand will likely continue to feel blowback from Musk\u2019s outspokenness on government policies. At the same time, tariff policy stands to hammer margins given Tesla\u2019s exposure to solar panels from China and autos being made outside the US. The uncertainty on how quickly Musk can fix Tesla is something execs pointed to on the earnings release \u2014 Tesla yanked its 2025 financial guidance, promising to revisit it when second quarter results hit. For full episodes of Opening Bid, listen on your favorite podcast platform or watch on our website. Yahoo Finance's Opening Bid is produced by Langston Sessoms",
                 "publication_date": "2025-04-23T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -162,6 +152,16 @@
                 "ticker": "TSLA",
                 "title": "Elon Musk finally acknowledged what must be done to rescue Tesla",
                 "url": "https://finance.yahoo.com/video/elon-musk-finally-acknowledged-must-124127524.html"
+            },
+            {
+                "headline": "The integration of digital technology is transforming the EV battery electrical testing equipment market, facilitating real-time diagnostics and more precise testing methodologies. As battery technology progresses, manufacturers are investing in sophisticated testing equipment for battery cells, modules, and Battery Management System Hardware-in-the-Loop (BMS HIL) simulations to ensure safety, performance, and reliability. Key industry players are driving market growth internationally,...",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.891",
+                "source": "Simply Wall St.",
+                "ticker": "TSLA",
+                "title": "Electric Vehicles Today - Digital Revolution Drives Battery Testing Advancements",
+                "url": "https://finance.yahoo.com/news/electric-vehicles-today-digital-revolution-123729736.html"
             },
             {
                 "headline": "Listening to President Trump on Tuesday, it's as if all the vitriol towards Fed boss Jay Powell - the threats, the name calling - was some crazy misunderstanding.  Trump now says he had \"no intention of firing him\" and was just gently angling for a rate cut or two.  In the same news conference, Trump said the exorbitant levies on Chinese goods following a rapid tit-for-tat trade war escalation - so high that the actual numbers became irrelevant - will soon be \"substantially\" lower.",
@@ -194,15 +194,15 @@
                 "url": "https://finance.yahoo.com/news/trade-war-safety-concerns-centre-044323312.html"
             }
         ],
-        "avgScore": 0.08239411764705892,
+        "avgScore": 0.08684122807017554,
         "pctChange": 0.03497648592298541
     },
     "coef": 0.5,
-    "avgCoef": 0.014152720470362616,
+    "avgCoef": 0.004117217707142781,
     "similar": {
         "AGNC": 1.0,
         "RIVN": 1.0,
-        "INSM": 1.0,
-        "CMG": 1.0
+        "CMG": 1.0,
+        "CX": 1.0
     }
 }

@@ -77,11 +77,11 @@
         "avgScore": 0.6808,
         "pctChange": -0.0054446839495753815
     },
-    "3 28 2025": {
+    "3 27 2025": {
         "importantArticles": [
             {
                 "headline": "TORONTO, March 27, 2025 (GLOBE NEWSWIRE) -- Sprott Inc. (NYSE/TSX: SII) (\u201cSprott\u201d) on behalf of the Sprott Physical Silver Trust (NYSE Arca/TSX: PSLV) (\u201cPSLV\u201d or the \u201cTrust\u201d) today announced that PSLV\u2019s net asset value (\u201cNAV\u201d) has surpassed US$6 billion. \u201cWe would like to thank our unitholders for their trust and support in helping the Sprott Physical Silver Trust reach this significant milestone,\u201d said John Ciampaglia, Chief Executive Officer of Sprott Asset Management. \u201cPSLV provides investors",
-                "publication_date": "2025-03-28T00:00:00.000Z",
+                "publication_date": "2025-03-27T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.9779",
                 "source": "GlobeNewswire",
@@ -91,7 +91,7 @@
             },
             {
                 "headline": "TORONTO, March 27, 2025 (GLOBE NEWSWIRE) -- Sprott Inc. (NYSE/TSX: SII) (\u201cSprott\u201d) on behalf of the Sprott Physical Silver Trust (NYSE Arca/TSX: PSLV) (\u201cPSLV\u201d or the \u201cTrust\u201d) today announced that PSLV\u2019s net asset value (\u201cNAV\u201d) has surpassed US$6 billion. \u201cWe would like to thank our unitholders for their trust and support in helping the Sprott Physical Silver Trust reach this significant milestone,\u201d said John Ciampaglia, Chief Executive Officer of Sprott Asset Management. \u201cPSLV provides investors",
-                "publication_date": "2025-03-28T00:00:00.000Z",
+                "publication_date": "2025-03-27T00:00:00.000Z",
                 "sentiment": "Positive",
                 "sentimentScore": "0.9779",
                 "source": "GlobeNewswire",
@@ -101,14 +101,14 @@
             }
         ],
         "avgScore": 0.9779,
-        "pctChange": 0.0017271552586738657
+        "pctChange": -0.008561676271995746
     },
-    "coef": -0.39999999999999997,
-    "avgCoef": 0.013488684796531843,
+    "coef": -0.7999999999999999,
+    "avgCoef": -0.008558132558283298,
     "similar": {
         "KGC": 1.0,
-        "WMT": 1.0,
-        "F": 0.7999999999999999,
-        "PFE": 0.7999999999999999
+        "BMY": 1.0,
+        "PFE": 0.7999999999999999,
+        "GOLD": 0.7999999999999999
     }
 }

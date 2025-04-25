@@ -23,21 +23,11 @@
             }
         ],
         "avgScore": 0.0,
-        "pctChange": -0.01020407170268328
+        "pctChange": -0.005102076398718249
     },
     "4 23 2025": {
         "importantArticles": [
             {
-                "headline": "COEUR D'ALENE, Idaho, April 22, 2025--Hecla Mining Company (NYSE:HL) is pleased to announce that its Libby Exploration Project in Montana was included in the Trump Administration\u2019s March 18, 2025, announcement of advancing critical mineral projects under Executive Order 14241, Immediate Measures to Increase American Mineral Production.",
-                "publication_date": "2025-04-23T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.5859",
-                "source": "Business Wire",
-                "ticker": "HL",
-                "title": "Hecla's Libby Exploration Project Selected for FAST-41 Critical Minerals Dashboard by the Trump Administration",
-                "url": "https://finance.yahoo.com/news/heclas-libby-exploration-project-selected-203000323.html"
-            },
-            {
                 "headline": "We recently published an article titled Gold Miners Dominate Tuesday\u2019s Worst-Performing Stocks. In this article, we are going to take a look at where Hecla Mining Company (NYSE:HL) stands against the other stocks. Wall Street\u2019s main indices bounced back from a bloodbath on Tuesday as investors gobbled up shares on hopes that the US-China trade tensions [\u2026]",
                 "publication_date": "2025-04-23T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -56,19 +46,9 @@
                 "ticker": "HL",
                 "title": "Why Hecla Mining Company (HL) Crashed on Tuesday",
                 "url": "https://finance.yahoo.com/news/why-hecla-mining-company-hl-154315947.html"
-            },
-            {
-                "headline": "COEUR D'ALENE, Idaho, April 22, 2025--Hecla Mining Company (NYSE:HL) is pleased to announce that its Libby Exploration Project in Montana was included in the Trump Administration\u2019s March 18, 2025, announcement of advancing critical mineral projects under Executive Order 14241, Immediate Measures to Increase American Mineral Production.",
-                "publication_date": "2025-04-23T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.5859",
-                "source": "Business Wire",
-                "ticker": "HL",
-                "title": "Hecla's Libby Exploration Project Selected for FAST-41 Critical Minerals Dashboard by the Trump Administration",
-                "url": "https://finance.yahoo.com/news/heclas-libby-exploration-project-selected-203000323.html"
             }
         ],
-        "avgScore": 0.3941,
+        "avgScore": 0.2023,
         "pctChange": 0.012048222435590667
     },
     "4 22 2025": {
@@ -84,6 +64,26 @@
                 "url": "https://finance.yahoo.com/news/heclas-loralee-johnstone-honored-prestigious-120000982.html"
             },
             {
+                "headline": "COEUR D'ALENE, Idaho, April 22, 2025--Hecla Mining Company (NYSE:HL) is pleased to announce that its Libby Exploration Project in Montana was included in the Trump Administration\u2019s March 18, 2025, announcement of advancing critical mineral projects under Executive Order 14241, Immediate Measures to Increase American Mineral Production.",
+                "publication_date": "2025-04-22T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5859",
+                "source": "Business Wire",
+                "ticker": "HL",
+                "title": "Hecla's Libby Exploration Project Selected for FAST-41 Critical Minerals Dashboard by the Trump Administration",
+                "url": "https://finance.yahoo.com/news/heclas-libby-exploration-project-selected-203000323.html"
+            },
+            {
+                "headline": "COEUR D'ALENE, Idaho, April 22, 2025--Hecla Mining Company (NYSE:HL) is pleased to announce that its Libby Exploration Project in Montana was included in the Trump Administration\u2019s March 18, 2025, announcement of advancing critical mineral projects under Executive Order 14241, Immediate Measures to Increase American Mineral Production.",
+                "publication_date": "2025-04-22T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5859",
+                "source": "Business Wire",
+                "ticker": "HL",
+                "title": "Hecla's Libby Exploration Project Selected for FAST-41 Critical Minerals Dashboard by the Trump Administration",
+                "url": "https://finance.yahoo.com/news/heclas-libby-exploration-project-selected-203000323.html"
+            },
+            {
                 "headline": "COEUR D'ALENE, Idaho, April 22, 2025--Hecla Mining Company (NYSE:HL) wishes to congratulate Loralee Johnstone, Hecla\u2019s Director of Indigenous Affairs and Canadian Community Relations, on the tremendous honor of receiving the King Charles III Coronation Medal. This prestigious recognition celebrates Loralee\u2019s unwavering dedication to championing responsible and sustainable mining practices throughout the Yukon. The Coronation Medal commemorates the Coronation of His Majesty, King Charles III, as",
                 "publication_date": "2025-04-22T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -94,7 +94,7 @@
                 "url": "https://finance.yahoo.com/news/heclas-loralee-johnstone-honored-prestigious-120000982.html"
             }
         ],
-        "avgScore": 0.9682,
+        "avgScore": 0.77705,
         "pctChange": 0.028318556586095816
     },
     "4 10 2025": {
@@ -150,11 +150,11 @@
         "pctChange": 0.03598476758208259
     },
     "coef": -0.49999999999999994,
-    "avgCoef": 0.015922083892053303,
+    "avgCoef": -0.014338534790957865,
     "similar": {
         "PLTR": 0.9999999999999999,
         "LCID": 0.9999999999999999,
-        "SOUN": 0.9999999999999999,
-        "WBD": 0.9999999999999999
+        "ABEV": 0.9999999999999999,
+        "SOUN": 0.9999999999999999
     }
 }

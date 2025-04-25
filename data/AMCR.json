@@ -23,7 +23,7 @@
             }
         ],
         "avgScore": 0.2263,
-        "pctChange": 0.017913601727507205
+        "pctChange": -0.011387128200288196
     },
     "4 22 2025": {
         "importantArticles": [
@@ -261,6 +261,32 @@
         "avgScore": 0.8979,
         "pctChange": -0.036572564154281194
     },
+    "4 1 2025": {
+        "importantArticles": [
+            {
+                "headline": "We recently compiled a list of the 10 Best Stocks Under $10 to Buy Now. In this article, we are going to take a look at where Amcor plc (NYSE:AMCR) stands against the other stocks under $10. On March 28, Friday, US stocks declined as Wall Street continued to struggle with President Trump\u2019s trade war [\u2026]",
+                "publication_date": "2025-04-01T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.25",
+                "source": "Insider Monkey",
+                "ticker": "AMCR",
+                "title": "Is Amcor plc (AMCR) The Best Stock Under $10 to Buy Now?",
+                "url": "https://finance.yahoo.com/news/amcor-plc-amcr-best-stock-193847249.html"
+            },
+            {
+                "headline": "We recently compiled a list of the 10 Best Stocks Under $10 to Buy Now. In this article, we are going to take a look at where Amcor plc (NYSE:AMCR) stands against the other stocks under $10. On March 28, Friday, US stocks declined as Wall Street continued to struggle with President Trump\u2019s trade war [\u2026]",
+                "publication_date": "2025-04-01T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.25",
+                "source": "Insider Monkey",
+                "ticker": "AMCR",
+                "title": "Is Amcor plc (AMCR) The Best Stock Under $10 to Buy Now?",
+                "url": "https://finance.yahoo.com/news/amcor-plc-amcr-best-stock-193847249.html"
+            }
+        ],
+        "avgScore": -0.25,
+        "pctChange": -0.0010193912797229697
+    },
     "3 31 2025": {
         "importantArticles": [
             {
@@ -274,26 +300,6 @@
                 "url": "https://finance.yahoo.com/news/hitting-plateau-circular-packaging-designers-111500840.html"
             },
             {
-                "headline": "We recently compiled a list of the 10 Best Stocks Under $10 to Buy Now. In this article, we are going to take a look at where Amcor plc (NYSE:AMCR) stands against the other stocks under $10. On March 28, Friday, US stocks declined as Wall Street continued to struggle with President Trump\u2019s trade war [\u2026]",
-                "publication_date": "2025-03-31T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.25",
-                "source": "Insider Monkey",
-                "ticker": "AMCR",
-                "title": "Is Amcor plc (AMCR) The Best Stock Under $10 to Buy Now?",
-                "url": "https://finance.yahoo.com/news/amcor-plc-amcr-best-stock-193847249.html"
-            },
-            {
-                "headline": "We recently compiled a list of the 10 Best Stocks Under $10 to Buy Now. In this article, we are going to take a look at where Amcor plc (NYSE:AMCR) stands against the other stocks under $10. On March 28, Friday, US stocks declined as Wall Street continued to struggle with President Trump\u2019s trade war [\u2026]",
-                "publication_date": "2025-03-31T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.25",
-                "source": "Insider Monkey",
-                "ticker": "AMCR",
-                "title": "Is Amcor plc (AMCR) The Best Stock Under $10 to Buy Now?",
-                "url": "https://finance.yahoo.com/news/amcor-plc-amcr-best-stock-193847249.html"
-            },
-            {
                 "headline": "Many companies have targets to make 100% of their packaging recyclable, reusable or compostable by 2025. Now, as they face the hardest categories to transform, some are weighing whether it\u2019s feasible.",
                 "publication_date": "2025-03-31T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -304,7 +310,7 @@
                 "url": "https://finance.yahoo.com/news/hitting-plateau-circular-packaging-designers-111500840.html"
             }
         ],
-        "avgScore": -0.125,
+        "avgScore": 0.0,
         "pctChange": 0.01134026933139662
     },
     "3 28 2025": {
@@ -385,38 +391,12 @@
         "avgScore": 0.0,
         "pctChange": 0.01145829711523465
     },
-    "3 25 2025": {
-        "importantArticles": [
-            {
-                "headline": "The new AmFiber Performance Paper stand-up pouch aims to deliver a 73% reduction in carbon footprint.",
-                "publication_date": "2025-03-25T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Packaging Gateway",
-                "ticker": "AMCR",
-                "title": "Amcor launches recyclable paper pouch for dry beverages",
-                "url": "https://finance.yahoo.com/news/amcor-launches-recyclable-paper-pouch-103636084.html"
-            },
-            {
-                "headline": "The new AmFiber Performance Paper stand-up pouch aims to deliver a 73% reduction in carbon footprint.",
-                "publication_date": "2025-03-25T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Packaging Gateway",
-                "ticker": "AMCR",
-                "title": "Amcor launches recyclable paper pouch for dry beverages",
-                "url": "https://finance.yahoo.com/news/amcor-launches-recyclable-paper-pouch-103636084.html"
-            }
-        ],
-        "avgScore": 0.0,
-        "pctChange": 0.016949238156632324
-    },
-    "coef": 0.02821979213677502,
-    "avgCoef": 0.014968326546189528,
+    "coef": -0.08465937641032506,
+    "avgCoef": 0.016137194641918207,
     "similar": {
-        "AAL": 0.5009013104277567,
-        "F": 0.37391224581226906,
-        "MARA": 0.3210001355558159,
-        "ERIC": 0.2963078174361377
+        "MSTR": 0.43740677812001283,
+        "ERIC": 0.2998352914532346,
+        "SNAP": 0.2963078174361377,
+        "NKE": 0.28219792136775024
     }
 }

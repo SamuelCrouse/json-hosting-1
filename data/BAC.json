@@ -68,16 +68,6 @@
     "4 23 2025": {
         "importantArticles": [
             {
-                "headline": "(Bloomberg) -- Capital One Financial Corp., the lender set to acquire rival Discover Financial Services, posted higher first-quarter profit as consumers spent more on credit cards.Most Read from BloombergTrump Gives New York \u2018One Last Chance\u2019 to End Congestion FeeDOGE Visits National Gallery of Art to Discuss Museum\u2019s Legal StatusThe Racial Wealth Gap Is Not Just About MoneyBackyard Micro-Flats Aim to Ease South Africa\u2019s Housing CrisisNet income rose 10% from a year earlier to $1.4 billion, or $",
-                "publication_date": "2025-04-23T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8996",
-                "source": "Bloomberg",
-                "ticker": "BAC",
-                "title": "Capital One Profit Rises 10%, Helped by Resilient Consumers",
-                "url": "https://finance.yahoo.com/news/capital-one-profit-climbs-10-202436552.html"
-            },
-            {
                 "headline": "Here are three banks stocks benefiting from today's positive political news -- and two of them are worth buying.",
                 "publication_date": "2025-04-23T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -96,6 +86,16 @@
                 "ticker": "BAC",
                 "title": "Is Bank of America Corp. (NYSE:BAC) the Best Stock Under $100 to Buy According to Hedge Funds?",
                 "url": "https://finance.yahoo.com/news/bank-america-corp-nyse-bac-152410465.html"
+            },
+            {
+                "headline": "Bank of America Corporation today announced the Board of Directors declared a regular quarterly cash dividend on Bank of America common stock of $0.26 per share, payable on June 27, 2025 to shareholders of record as of June 6, 2025.",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.296",
+                "source": "PR Newswire",
+                "ticker": "BAC",
+                "title": "Bank of America Declares Second Quarter 2025 Stock Dividends",
+                "url": "https://finance.yahoo.com/news/bank-america-declares-second-quarter-201500841.html"
             },
             {
                 "headline": "(Bloomberg) -- Not since the financial crisis has Corporate America been so downbeat about the state of the economy in earnings calls, an ominous sign for investors trying to figure out how much more pain Donald Trump\u2019s trade war will inflict on the stock market.Most Read from BloombergTrump Gives New York \u2018One Last Chance\u2019 to End Congestion FeeDOGE Visits National Gallery of Art to Discuss Museum\u2019s Legal StatusThe Racial Wealth Gap Is Not Just About MoneyBackyard Micro-Flats Aim to Ease South A",
@@ -128,11 +128,21 @@
                 "url": "https://finance.yahoo.com/news/bank-america-declares-second-quarter-201500841.html"
             }
         ],
-        "avgScore": 0.2614999999999999,
+        "avgScore": 0.13387999999999997,
         "pctChange": 0.02141940209173387
     },
     "4 22 2025": {
         "importantArticles": [
+            {
+                "headline": "(Bloomberg) -- Capital One Financial Corp., the lender set to acquire rival Discover Financial Services, posted higher first-quarter profit as consumers spent more on credit cards.Most Read from BloombergTrump Gives New York \u2018One Last Chance\u2019 to End Congestion FeeDOGE Visits National Gallery of Art to Discuss Museum\u2019s Legal StatusThe Racial Wealth Gap Is Not Just About MoneyBackyard Micro-Flats Aim to Ease South Africa\u2019s Housing CrisisNet income rose 10% from a year earlier to $1.4 billion, or $",
+                "publication_date": "2025-04-22T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8996",
+                "source": "Bloomberg",
+                "ticker": "BAC",
+                "title": "Capital One Profit Rises 10%, Helped by Resilient Consumers",
+                "url": "https://finance.yahoo.com/news/capital-one-profit-climbs-10-202436552.html"
+            },
             {
                 "headline": "Bank of America (NYSE:BAC) announced the upcoming redemption of \u20ac1,250 million in senior notes on April 22, 2025. This financial maneuver and the strong earnings report from the prior week, which highlighted increased net interest income and net income, reflect the company\u2019s focused debt management and improving performance. Despite these positive indicators, the overall market remained flat over the past week, with a significant rebound in major indices following initial declines earlier...",
                 "publication_date": "2025-04-22T00:00:00.000Z",
@@ -152,16 +162,6 @@
                 "ticker": "BAC",
                 "title": "US Imposes Tariffs Up to 3,521% on Asian Solar Imports",
                 "url": "https://finance.yahoo.com/news/us-imposes-tariffs-3-521-041536771.html"
-            },
-            {
-                "headline": "Bank of America Corporation announced today that it will redeem on May 9, 2025 all \u20ac1,250,000,000 principal amount outstanding of its 0.808% Fixed/Floating Rate Senior Notes, due May 9, 2026 (ISIN: XS1991265478; Common Code: 199126547) (the \"Notes\").",
-                "publication_date": "2025-04-22T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6124",
-                "source": "PR Newswire",
-                "ticker": "BAC",
-                "title": "Bank of America Announces Redemption of \u20ac1.25 Billion of 0.808% Fixed/Floating Rate Senior Notes, Due May 9, 2026",
-                "url": "https://finance.yahoo.com/news/bank-america-announces-redemption-1-110000931.html"
             },
             {
                 "headline": "(Bloomberg) -- Not since the financial crisis has Corporate America been so downbeat about the state of the economy in earnings calls, an ominous sign for investors trying to figure out how much more pain Donald Trump\u2019s trade war will inflict on the stock market.Most Read from BloombergTrump Gives New York \u2018One Last Chance\u2019 to End Congestion FeeDOGE Visits National Gallery of Art to Discuss Museum\u2019s Legal StatusThe Racial Wealth Gap Is Not Just About MoneyThe ratio of positive to negative commen",
@@ -194,7 +194,7 @@
                 "url": "https://finance.yahoo.com/news/bank-america-much-better-prepared-100000600.html"
             }
         ],
-        "avgScore": 0.3417857142857143,
+        "avgScore": 0.4115125,
         "pctChange": 0.011221302416499242
     },
     "4 21 2025": {
@@ -326,21 +326,11 @@
                 "url": "https://finance.yahoo.com/news/market-chatter-us-house-china-152058713.html"
             }
         ],
-        "avgScore": 0.30508888888888896,
+        "avgScore": 0.2745800000000001,
         "pctChange": -0.013098147031954437
     },
     "4 16 2025": {
         "importantArticles": [
-            {
-                "headline": "Bank of America (BAC) and Citi (C) beat expectations with strong first quarter results, boosting investor confidence and lifting both stocks. RBC Capital Markets bank analyst Gerard Cassidy joins Market Domination to break down what's driving bank earnings. To watch more expert insights and analysis on the latest market action, check out more Market Domination&nbsp;here.",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8316",
-                "source": "Yahoo Finance Video",
-                "ticker": "BAC",
-                "title": "Big Bank investors 'on edge' despite strong Q1 results",
-                "url": "https://finance.yahoo.com/video/big-bank-investors-edge-despite-223109693.html"
-            },
             {
                 "headline": "Bank of America Corp (BAC) reports robust net income and revenue growth, while navigating potential headwinds from interest rate cuts and market volatility.",
                 "publication_date": "2025-04-16T00:00:00.000Z",
@@ -360,6 +350,16 @@
                 "ticker": "BAC",
                 "title": "Big banks report Q1 beats, China stops taking Boeing deliveries: Morning Buzz",
                 "url": "https://finance.yahoo.com/news/big-banks-report-q1-beats-155936913.html"
+            },
+            {
+                "headline": "(Bloomberg) -- Gold surged to a fresh high on haven demand as the dollar fell and tech stocks slumped after US President Donald Trump ordered a probe that could open up a new front in the global trade war.Most Read from BloombergTrump Signs Executive Orders on Federal Purchasing, Office SpaceHow Did This Suburb Figure Out Mass Transit?Why the Best Bike Lanes Always Get BlamedLA County Floats Leaner Budget Burdened by Fire and Legal CostsBullion gained as much as 3.2% on Wednesday to climb above",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6124",
+                "source": "Bloomberg",
+                "ticker": "BAC",
+                "title": "Gold Breaks $3,300 as Expanding Trade War Bolsters Haven Demand",
+                "url": "https://finance.yahoo.com/news/gold-climbs-record-expanding-trade-000033810.html"
             },
             {
                 "headline": "(Bloomberg) -- A gauge of the dollar resumed declines following a short-lived reprieve as concerns over an expanding trade war dented demand for US assets.Most Read from BloombergHow Did This Suburb Figure Out Mass Transit?Trump Signs Executive Orders on Federal Purchasing, Office SpaceLA County Floats Leaner Budget Burdened by Fire and Legal CostsThe greenback hit a fresh six-month low, falling against every Group-of-10 currency, as new restrictions by the Trump administration on Nvidia Corp.\u2019s",
@@ -392,7 +392,7 @@
                 "url": "https://finance.yahoo.com/news/big-banks-were-counting-on-american-prosperity-but-volatility-works-too-morning-brief-100049217.html"
             }
         ],
-        "avgScore": 0.363925,
+        "avgScore": 0.3214090909090908,
         "pctChange": 0.002142995243329236
     },
     "4 15 2025": {
@@ -458,7 +458,7 @@
                 "url": "https://finance.yahoo.com/video/futures-waver-china-halts-boeing-131220346.html"
             }
         ],
-        "avgScore": 0.22145208333333344,
+        "avgScore": 0.22604782608695662,
         "pctChange": -0.017372988108768774
     },
     "4 14 2025": {
@@ -474,24 +474,24 @@
                 "url": "https://finance.yahoo.com/news/bank-america-corporation-bac-one-135315692.html"
             },
             {
-                "headline": "Bank of America Corporation (NYSE:BAC) will release its first-quarter financial results before the opening bell on Tuesday, April 15. Analysts expect the bank to report quarterly earnings at 82 cents per share, up from 76 cents per share in the year-ago period. Bank of America projects quarterly revenue of $26.91 billion, compared to $25.82 billion a year earlier, according to data from Benzinga Pro. On April 7, Morgan Stanley analyst Betsy Graseck upgraded Bank of America from Equal-Weight to O",
+                "headline": "Yahoo Finance host Josh Lipton highlights what to watch on Tuesday, April 15. Earnings reports are expected from Johnson & Johnson (JNJ), Albertsons (ACI), and United Airlines (UAL), as well as major banks like Bank of America (BAC) and Citi (C). Fresh Federal Reserve commentary is coming as Fed Governor Lisa Cook is set to speak. The deadline to file 2024 federal income tax returns is also on Tuesday. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime&nbsp;here.",
                 "publication_date": "2025-04-14T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.5267",
-                "source": "Benzinga",
+                "sentimentScore": "0.8032",
+                "source": "Yahoo Finance Video",
                 "ticker": "BAC",
-                "title": "How To Earn $500 A Month From Bank of America Stock Ahead Of Q1 Earnings",
-                "url": "https://finance.yahoo.com/news/earn-500-month-bank-america-124853726.html"
+                "title": "Big Bank earnings, Fed commentary, tax deadline: What to Watch",
+                "url": "https://finance.yahoo.com/video/big-bank-earnings-fed-commentary-230000867.html"
             },
             {
-                "headline": "(Bloomberg) -- A knee-jerk reaction to President Donald Trump\u2019s 90-day pause on broad tariffs propelled US stocks to one of their best days on record last week. Ironically, that could be a harbinger of tough times for equity investors.Most Read from BloombergThe Secret Formula for Faster TrainsNYC Tourist Helicopter Crashes in Hudson River, Killing SixEven Oslo Has an Air Quality ProblemInside the Quiet, Extravagant Expansion of the Frick CollectionLisbon Mayor Wants Companies to Help Fix City\u2019s",
+                "headline": "Bank of America and Citigroup are expected to notch higher revenue and profit when they post results Tuesday morning.  On Monday, Goldman Sachs reported profit that jumped 15% from a year earlier as its trading business boomed.",
                 "publication_date": "2025-04-14T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.25",
-                "source": "Bloomberg",
+                "sentimentScore": "0.7003",
+                "source": "Barrons.com",
                 "ticker": "BAC",
-                "title": "Stock market\u2019s extreme moves portend lasting trouble for traders",
-                "url": "https://finance.yahoo.com/news/stock-market-extreme-moves-portend-093000798.html"
+                "title": "Bank of America, Citi Earnings: What to Expect",
+                "url": "https://finance.yahoo.com/m/6f8548e3-a3ba-3347-ac20-fb7946330a18/bank-of-america-citi.html"
             },
             {
                 "headline": "Goldman Sachs Group Inc.'s stock traders posted their highest quarterly revenue haul on record, riding a wave of volatility triggered by an emerging global trade war that's roiled financial markets. KBW Analyst of Large Cap Banks David Konrad has more on the story.",
@@ -504,6 +504,16 @@
                 "url": "https://finance.yahoo.com/video/kbw-analyst-goldman-sachs-record-180342835.html"
             },
             {
+                "headline": "A federal judge ordered Bank of America to pay $540.3 million in a long-running Federal Deposit Insurance Corporation lawsuit accusing the second-largest U.S. bank of underpaying what it owed for deposit insurance.  In a decision made public on Monday, U.S. District Judge Loren AliKhan in Washington, D.C., said the payment covers assessments from the second quarter of 2013 through the end of 2014, plus interest.  The FDIC sued Charlotte, North Carolina-based Bank of America for $1.12 billion in 2017, accusing it of reducing its deposit insurance contributions by failing to honor a 2011 rule that changed how banks report risk exposure to counterparties.",
+                "publication_date": "2025-04-14T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.4404",
+                "source": "Reuters",
+                "ticker": "BAC",
+                "title": "Judge orders Bank of America to pay $540 million in FDIC lawsuit",
+                "url": "https://finance.yahoo.com/news/judge-orders-bank-america-pay-220900153.html"
+            },
+            {
                 "headline": "Does JPM stock deserve a place in your investment portfolio after posting an upbeat Q1 performance? Let's find out.",
                 "publication_date": "2025-04-14T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -512,19 +522,9 @@
                 "ticker": "BAC",
                 "title": "How to Play JPMorgan Stock After Upbeat Q1 Earnings Performance",
                 "url": "https://finance.yahoo.com/news/play-jpmorgan-stock-upbeat-q1-131300969.html"
-            },
-            {
-                "headline": "(Bloomberg) -- A knee-jerk reaction to President Donald Trump\u2019s 90-day pause on broad tariffs propelled US stocks to one of their best days on record last week. Ironically, that could be a harbinger of tough times for equity investors.Most Read from BloombergThe Secret Formula for Faster TrainsNYC Tourist Helicopter Crashes in Hudson River, Killing SixEven Oslo Has an Air Quality ProblemInside the Quiet, Extravagant Expansion of the Frick CollectionLisbon Mayor Wants Companies to Help Fix City\u2019s",
-                "publication_date": "2025-04-14T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.25",
-                "source": "Bloomberg",
-                "ticker": "BAC",
-                "title": "Stock market\u2019s extreme moves portend lasting trouble for traders",
-                "url": "https://finance.yahoo.com/news/stock-market-extreme-moves-portend-093000798.html"
             }
         ],
-        "avgScore": 0.22515999999999997,
+        "avgScore": 0.2736125,
         "pctChange": 0.03599682507318352
     },
     "4 11 2025": {
@@ -570,6 +570,16 @@
                 "url": "https://finance.yahoo.com/news/bofa-hartnett-says-sell-p-084240804.html"
             },
             {
+                "headline": "(Bloomberg) -- Wall Street\u2019s gyrations shook markets anew, with stocks erasing losses to notch their best week since 2023. The rally came as a rout in bonds and the dollar abated, following a few chaotic days that underscored fears foreign investors are beating a retreat from American assets.Most Read from BloombergThe Secret Formula for Faster TrainsIn Chicago, a Former Steel Mill Looks to Make a Quantum LeapMidtown Office Building Evacuated on Concerns of Wall CollapseNYC Tourist Helicopter Cr",
+                "publication_date": "2025-04-11T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.7269",
+                "source": "Bloomberg",
+                "ticker": "BAC",
+                "title": "S&P 500 Notches Its Best Week Since November 2023: Markets Wrap",
+                "url": "https://finance.yahoo.com/news/euro-advances-treasuries-sell-off-055911617.html"
+            },
+            {
                 "headline": "Earnings preview of key companies reporting this week and what to look out for.",
                 "publication_date": "2025-04-11T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -578,19 +588,9 @@
                 "ticker": "BAC",
                 "title": "Stocks to watch this week: Goldman Sachs, TSMC, ASML, Netflix, LVMH and Sainsbury's",
                 "url": "https://finance.yahoo.com/news/goldman-sachs-tsmc-asml-netflix-lvmh-and-sainsburys-stocks-to-watch-131111514.html"
-            },
-            {
-                "headline": "We recently published a list of the 11 Cheap NYSE Stocks to Invest in According to Hedge Funds. In this article, we are going to take a look at where Bank of America Corporation (NYSE:BAC) stands against other cheap NYSE stocks. On March 26, Jack Caffrey of JPMorgan Asset Management provided an analysis of market [\u2026]",
-                "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.3612",
-                "source": "Insider Monkey",
-                "ticker": "BAC",
-                "title": "Is Bank of America (BAC) A Cheap NYSE Stock to Invest in According to Hedge Funds?",
-                "url": "https://finance.yahoo.com/news/bank-america-bac-cheap-nyse-204326320.html"
             }
         ],
-        "avgScore": 0.2913666666666667,
+        "avgScore": 0.1459,
         "pctChange": 0.020027743831040428
     },
     "4 10 2025": {
@@ -682,14 +682,14 @@
                 "url": "https://finance.yahoo.com/news/bac-stock-buy-q1-earnings-134200907.html"
             },
             {
-                "headline": "Bank of America (BAC) closed at $35.02 in the latest trading session, marking a -1.57% move from the prior day.",
+                "headline": "We recently published a list of Jim Cramer Warns of a 36% Market Drop & Reviews These 9 Key Stocks. In this article, we are going to take a look at where Bank of America Corporation (NYSE:BAC) stands against other stocks Jim Cramer discusses. In his appearance on CNBC\u2019s Squawk on the Street on Monday, [\u2026]",
                 "publication_date": "2025-04-09T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.3612",
+                "source": "Insider Monkey",
                 "ticker": "BAC",
-                "title": "Bank of America (BAC) Stock Moves -1.57%: What You Should Know",
-                "url": "https://finance.yahoo.com/news/bank-america-bac-stock-moves-215015462.html"
+                "title": "Jim Cramer on Bank of America (BAC): \u201cThis Is Not 2007 \u2013 Don\u2019t Panic Sell\u201d",
+                "url": "https://finance.yahoo.com/news/jim-cramer-bank-america-bac-141949981.html"
             },
             {
                 "headline": "Bank of America (NYSE:BAC) recently announced a series of dividends on various preferred stock, a move that provides insight into its financial strategy amidst ongoing market volatility. Despite this, the company's stock price fell 15% last month. This decline aligns with broader market trends affected by recent tariff-related trade tensions causing uncertainty in financial markets, with the Dow and S&P 500 experiencing similar downturns. In this context, the investor activism and the...",
@@ -712,17 +712,17 @@
                 "url": "https://finance.yahoo.com/news/jim-cramer-bank-america-bac-141949981.html"
             },
             {
-                "headline": "Bank of America (BAC) closed at $35.02 in the latest trading session, marking a -1.57% move from the prior day.",
+                "headline": "Bank of America is slated to report Q1 results on April 15. Let's analyze whether the stock is worth betting on despite the recession risk because of tariffs.",
                 "publication_date": "2025-04-09T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6182",
                 "source": "Zacks",
                 "ticker": "BAC",
-                "title": "Bank of America (BAC) Stock Moves -1.57%: What You Should Know",
-                "url": "https://finance.yahoo.com/news/bank-america-bac-stock-moves-215015462.html"
+                "title": "Is BAC Stock a Buy Before Q1 Earnings as Tariffs Stoke Recession Fear?",
+                "url": "https://finance.yahoo.com/news/bac-stock-buy-q1-earnings-134200907.html"
             }
         ],
-        "avgScore": 0.05236000000000003,
+        "avgScore": 0.06545000000000004,
         "pctChange": -0.034993351234514025
     },
     "4 8 2025": {
@@ -748,14 +748,14 @@
                 "url": "https://finance.yahoo.com/news/ai-adoption-bofas-global-workforce-133500377.html"
             },
             {
-                "headline": "(Bloomberg) -- Among the world\u2019s richest people, Warren Buffett is among the rare few whose personal fortunes have grown this year after President Donald Trump\u2019s tariffs triggered a selloff that erased trillions of dollars of value from global equities. Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersThe Irish Hot Press Is the Low-Tech Laundry Trick the World NeedsThis Skinny Mexico City Tower Is Just 14 Feet Wide on One SideBoston Mayor Wu Embraces Trump Resistance as",
+                "headline": "Bank of America (BAC) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
                 "publication_date": "2025-04-08T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.6808",
-                "source": "Bloomberg",
+                "sentimentScore": "0.2263",
+                "source": "Zacks",
                 "ticker": "BAC",
-                "title": "Buffett\u2019s 2025 Wealth Gains Stand Out Amid Billionaire Wipeout",
-                "url": "https://finance.yahoo.com/news/buffett-2025-wealth-gains-stand-221440531.html"
+                "title": "Bank of America (BAC) Expected to Beat Earnings Estimates: Should You Buy?",
+                "url": "https://finance.yahoo.com/news/bank-america-bac-expected-beat-140009970.html"
             },
             {
                 "headline": "(Bloomberg) -- Wild swings lashed Wall Street for a fourth straight session as back-and-forth trade threats between the US and China knocked down stocks, erasing an earlier rally that was the biggest since 2022. The S&P 500 fell 1.6%, leaving it on the brink of a bear market.Most Read from BloombergThe Irish Hot Press Is the Low-Tech Laundry Trick the World NeedsTrump Order on CDFI Fund Risks Aid for Small Businesses, HousingThis Skinny Mexico City Tower Is Just 14 Feet Wide on One SideIn Chicag",
@@ -788,20 +788,20 @@
                 "url": "https://finance.yahoo.com/news/bank-america-report-first-quarter-130000422.html"
             }
         ],
-        "avgScore": 0.22488571428571427,
+        "avgScore": 0.12762857142857142,
         "pctChange": 0.06051963518294431
     },
     "4 7 2025": {
         "importantArticles": [
             {
-                "headline": "We recently published a list of Starter Stock Portfolio 12 Safe Stocks to Buy. In this article, we are going to take a look at where Bank of America Corporation (NYSE:BAC) stands against other best beginner stocks. The US stock market has experienced a turbulent first quarter of 2025, marked by increased volatility and negative [\u2026]",
+                "headline": "(Bloomberg) -- Among the world\u2019s richest people, Warren Buffett is among the rare few whose personal fortunes have grown this year after President Donald Trump\u2019s tariffs triggered a selloff that erased trillions of dollars of value from global equities. Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersThe Irish Hot Press Is the Low-Tech Laundry Trick the World NeedsThis Skinny Mexico City Tower Is Just 14 Feet Wide on One SideBoston Mayor Wu Embraces Trump Resistance as",
                 "publication_date": "2025-04-07T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.6705",
-                "source": "Insider Monkey",
+                "sentimentScore": "0.6808",
+                "source": "Bloomberg",
                 "ticker": "BAC",
-                "title": "Is Bank of America Corporation (BAC) the Best Beginner Stock?",
-                "url": "https://finance.yahoo.com/news/bank-america-corporation-bac-best-230040089.html"
+                "title": "Buffett\u2019s 2025 Wealth Gains Stand Out Amid Billionaire Wipeout",
+                "url": "https://finance.yahoo.com/news/buffett-2025-wealth-gains-stand-221440531.html"
             },
             {
                 "headline": "Bank stocks were hit hard last week by the potential fallout from tariffs on credit risk and interest rates.  The KBW Nasdaq Index was up more than 1% Monday afternoon.  Bank of America was the top gainer among the largest global U.S. banks, up more than 3.%.",
@@ -844,17 +844,17 @@
                 "url": "https://finance.yahoo.com/m/1a02d326-9e27-3774-ac06-89ec40aeb643/bank-of-america-leads.html"
             },
             {
-                "headline": "We recently published a list of Starter Stock Portfolio 12 Safe Stocks to Buy. In this article, we are going to take a look at where Bank of America Corporation (NYSE:BAC) stands against other best beginner stocks. The US stock market has experienced a turbulent first quarter of 2025, marked by increased volatility and negative [\u2026]",
+                "headline": "(Bloomberg) -- Among the world\u2019s richest people, Warren Buffett is among the rare few whose personal fortunes have grown this year after President Donald Trump\u2019s tariffs triggered a selloff that erased trillions of dollars of value from global equities. Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersThe Irish Hot Press Is the Low-Tech Laundry Trick the World NeedsThis Skinny Mexico City Tower Is Just 14 Feet Wide on One SideBoston Mayor Wu Embraces Trump Resistance as",
                 "publication_date": "2025-04-07T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.6705",
-                "source": "Insider Monkey",
+                "sentimentScore": "0.6808",
+                "source": "Bloomberg",
                 "ticker": "BAC",
-                "title": "Is Bank of America Corporation (BAC) the Best Beginner Stock?",
-                "url": "https://finance.yahoo.com/news/bank-america-corporation-bac-best-230040089.html"
+                "title": "Buffett\u2019s 2025 Wealth Gains Stand Out Amid Billionaire Wipeout",
+                "url": "https://finance.yahoo.com/news/buffett-2025-wealth-gains-stand-221440531.html"
             }
         ],
-        "avgScore": 0.38906666666666667,
+        "avgScore": 0.3925,
         "pctChange": -0.015458207516947419
     },
     "4 4 2025": {
@@ -870,14 +870,14 @@
                 "url": "https://finance.yahoo.com/video/banks-kick-off-earnings-credit-152314153.html"
             },
             {
-                "headline": "(Bloomberg) -- Berkshire Hathaway Inc.\u2019s stock sailed through a turbulent trading session Thursday, falling only slightly while indexes across the globe plummeted on President Donald Trump\u2019s sweeping tariff plans.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Would \u2018Transportation",
+                "headline": "We recently published a list of Top 10 Stocks to Watch as Investors Brace for Potential Recession. In this article, we are going to take a look at where Bank of America Corporation (NYSE:BAC) stands against other top stocks to watch as investors brace for potential recession. President Donald Trump\u2019s new reciprocal tariff announcement is [\u2026]",
                 "publication_date": "2025-04-04T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.5994",
-                "source": "Bloomberg",
+                "sentimentScore": "-0.4588",
+                "source": "Insider Monkey",
                 "ticker": "BAC",
-                "title": "Buffett\u2019s Berkshire weathers tariff-fueled stock-market selloff",
-                "url": "https://finance.yahoo.com/news/buffett-berkshire-weathers-tariff-fueled-212449465.html"
+                "title": "Steve Weiss Bullish on Bank of America (BAC): Why This Bank Could Be a Safe Bet in 2025",
+                "url": "https://finance.yahoo.com/news/steve-weiss-bullish-bank-america-211917182.html"
             },
             {
                 "headline": "In a tumultuous period marked by a significant market downturn, Bank of America (NYSE:BAC) experienced a share price decline of 13% over the past week. This drop coincides with recent developments, including notable shareholder activism, where the company received several proposals and recommended votes against them, and a leadership change in its India operations. Additionally, the market's overall turbulence, driven by global trade tensions and fears of an economic recession, compounded the...",
@@ -920,7 +920,7 @@
                 "url": "https://finance.yahoo.com/news/bank-america-nyse-bac-sees-173202035.html"
             }
         ],
-        "avgScore": -0.46302000000000004,
+        "avgScore": -0.4349,
         "pctChange": 0.03460315389724743
     },
     "4 3 2025": {
@@ -956,6 +956,16 @@
                 "url": "https://finance.yahoo.com/m/c7d99537-989d-3fee-b498-ab52b8971796/bank-stocks-fall-after-tariff.html"
             },
             {
+                "headline": "(Bloomberg) -- Berkshire Hathaway Inc.\u2019s stock sailed through a turbulent trading session Thursday, falling only slightly while indexes across the globe plummeted on President Donald Trump\u2019s sweeping tariff plans.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Would \u2018Transportation",
+                "publication_date": "2025-04-03T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5994",
+                "source": "Bloomberg",
+                "ticker": "BAC",
+                "title": "Buffett\u2019s Berkshire weathers tariff-fueled stock-market selloff",
+                "url": "https://finance.yahoo.com/news/buffett-berkshire-weathers-tariff-fueled-212449465.html"
+            },
+            {
                 "headline": "Stocks of the biggest banks and private-equity firms plunged Thursday as concerns mounted about how Wall Street giants and their customers might be affected by heightened odds of a US recession.",
                 "publication_date": "2025-04-03T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -974,19 +984,9 @@
                 "ticker": "BAC",
                 "title": "Bank Stocks Fall After Tariff Announcements",
                 "url": "https://finance.yahoo.com/m/c7d99537-989d-3fee-b498-ab52b8971796/bank-stocks-fall-after-tariff.html"
-            },
-            {
-                "headline": "Bank of America (NYSE: BAC) has been a much better investment than Toronto-Dominion Bank (NYSE: TD) over the past decade.  In fact, Bank of America's stock price return alone is better than TD Bank's total return, which includes reinvested dividends.  Over the past decade, Bank of America has increased its dividend each and every year.",
-                "publication_date": "2025-04-03T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7096",
-                "source": "Motley Fool",
-                "ticker": "BAC",
-                "title": "Bank of America vs. TD Bank: Which Dividend Giant Provides Greater Value?",
-                "url": "https://finance.yahoo.com/news/bank-america-vs-td-bank-085100238.html"
             }
         ],
-        "avgScore": 0.1502,
+        "avgScore": 0.00027999999999999136,
         "pctChange": -0.07603443681459465
     },
     "4 2 2025": {
@@ -1032,16 +1032,6 @@
                 "url": "https://finance.yahoo.com/news/wall-street-trading-desks-warn-093000222.html"
             },
             {
-                "headline": "In the latest trading session, Bank of America (BAC) closed at $41.49, marking a -0.58% move from the previous day.",
-                "publication_date": "2025-04-02T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "BAC",
-                "title": "Bank of America (BAC) Stock Dips While Market Gains: Key Facts",
-                "url": "https://finance.yahoo.com/news/bank-america-bac-stock-dips-215016338.html"
-            },
-            {
                 "headline": "Bank of America is combining consumer units and giving one of its most senior women a bigger role leading the lender\u2019s retail, consumer and preferred banking divisions.",
                 "publication_date": "2025-04-02T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -1050,9 +1040,19 @@
                 "ticker": "BAC",
                 "title": "BofA\u2019s Holly O\u2019Neill gets expanded role",
                 "url": "https://finance.yahoo.com/news/bofa-holly-o-neill-gets-105934821.html"
+            },
+            {
+                "headline": "As a leader in the financial services industry, Bank of America (NYSE: BAC) has its hands in a wide range of markets.  This includes consumer and commercial banking, capital markets, investment banking, and wealth management.  Bank of America may have the attention of those considering allocating capital to such an important part of the economy.",
+                "publication_date": "2025-04-02T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6124",
+                "source": "Motley Fool",
+                "ticker": "BAC",
+                "title": "Should You Buy Bank of America While It's Below $45?",
+                "url": "https://finance.yahoo.com/news/buy-bank-america-while-below-113000235.html"
             }
         ],
-        "avgScore": 0.24080000000000004,
+        "avgScore": 0.30100000000000005,
         "pctChange": -0.11063315226357855
     },
     "4 1 2025": {
@@ -1098,6 +1098,16 @@
                 "url": "https://finance.yahoo.com/news/bac-down-5-1-q1-124100864.html"
             },
             {
+                "headline": "In the latest trading session, Bank of America (BAC) closed at $41.49, marking a -0.58% move from the previous day.",
+                "publication_date": "2025-04-01T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "BAC",
+                "title": "Bank of America (BAC) Stock Dips While Market Gains: Key Facts",
+                "url": "https://finance.yahoo.com/news/bank-america-bac-stock-dips-215016338.html"
+            },
+            {
                 "headline": "Holly O'Neill, who was No. 5 on American Banker's list of the Most Powerful Women in Banking last year, will oversee a new department combining BofA's retail and preferred units. Aron Levine, who previously led preferred banking, is leaving the company.",
                 "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -1106,19 +1116,9 @@
                 "ticker": "BAC",
                 "title": "Bank of America combines consumer units, promotes top exec",
                 "url": "https://finance.yahoo.com/news/bank-america-combines-consumer-units-172432811.html"
-            },
-            {
-                "headline": "Bank of America shows rising price performance, earning an upgrade to its IBD Relative Strength Rating",
-                "publication_date": "2025-04-01T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4939",
-                "source": "Investor's Business Daily",
-                "ticker": "BAC",
-                "title": "Bank of America Stock Gets RS Rating Lift",
-                "url": "https://finance.yahoo.com/m/75c13ffc-3b7b-3b7a-838b-63190dab8600/bank-of-america-stock-gets-rs.html"
             }
         ],
-        "avgScore": 0.45864000000000005,
+        "avgScore": 0.38220000000000004,
         "pctChange": 0.008676712005078907
     },
     "3 31 2025": {
@@ -1147,32 +1147,6 @@
         "avgScore": 0.3612,
         "pctChange": -0.005751206959075602
     },
-    "3 28 2025": {
-        "importantArticles": [
-            {
-                "headline": "Robinhood co-founder and CEO Vlad Tenev turns his sights on getting traditional banking customers.",
-                "publication_date": "2025-03-28T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Yahoo Finance",
-                "ticker": "BAC",
-                "title": "Robinhood is taking on Bank of America, Citigroup, and JPMorgan",
-                "url": "https://finance.yahoo.com/news/robinhood-is-taking-on-bank-of-america-citigroup-and-jpmorgan-213031289.html"
-            },
-            {
-                "headline": "Robinhood co-founder and CEO Vlad Tenev turns his sights on getting traditional banking customers.",
-                "publication_date": "2025-03-28T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Yahoo Finance",
-                "ticker": "BAC",
-                "title": "Robinhood is taking on Bank of America, Citigroup, and JPMorgan",
-                "url": "https://finance.yahoo.com/news/robinhood-is-taking-on-bank-of-america-citigroup-and-jpmorgan-213031289.html"
-            }
-        ],
-        "avgScore": 0.0,
-        "pctChange": 0.0116363525390625
-    },
     "3 27 2025": {
         "importantArticles": [
             {
@@ -1186,24 +1160,24 @@
                 "url": "https://finance.yahoo.com/news/bank-america-mortgage-applications-jumped-103304913.html"
             },
             {
-                "headline": "Bank of America (BAC) concluded the recent trading session at $42.82, signifying a -1.06% move from its prior day's close.",
+                "headline": "Robinhood co-founder and CEO Vlad Tenev turns his sights on getting traditional banking customers.",
                 "publication_date": "2025-03-27T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
-                "source": "Zacks",
+                "source": "Yahoo Finance",
                 "ticker": "BAC",
-                "title": "Bank of America (BAC) Stock Moves -1.06%: What You Should Know",
-                "url": "https://finance.yahoo.com/news/bank-america-bac-stock-moves-214515649.html"
+                "title": "Robinhood is taking on Bank of America, Citigroup, and JPMorgan",
+                "url": "https://finance.yahoo.com/news/robinhood-is-taking-on-bank-of-america-citigroup-and-jpmorgan-213031289.html"
             },
             {
-                "headline": "Bank of America (BAC) concluded the recent trading session at $42.82, signifying a -1.06% move from its prior day's close.",
+                "headline": "Robinhood co-founder and CEO Vlad Tenev turns his sights on getting traditional banking customers.",
                 "publication_date": "2025-03-27T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
-                "source": "Zacks",
+                "source": "Yahoo Finance",
                 "ticker": "BAC",
-                "title": "Bank of America (BAC) Stock Moves -1.06%: What You Should Know",
-                "url": "https://finance.yahoo.com/news/bank-america-bac-stock-moves-214515649.html"
+                "title": "Robinhood is taking on Bank of America, Citigroup, and JPMorgan",
+                "url": "https://finance.yahoo.com/news/robinhood-is-taking-on-bank-of-america-citigroup-and-jpmorgan-213031289.html"
             },
             {
                 "headline": "NEW YORK (Reuters) -Bank of America saw an 80% jump in mortgage applications between January and March as buyers were tempted by increasing home inventory and lower long-term bond yields, an executive said.  \"We're seeing a steady increase in home buying activity, and it's beyond what we would normally see from a seasonality perspective,\" Matt Vernon, head of consumer lending at the second-biggest U.S. bank, told Reuters.  \"We've seen an 80% increase in our applications from January to now, and normally we would see around the 60% increase.\"The drop last fall in U.S. 10-year bond yields, which is a benchmark for mortgage rates, encouraged more buyers to return to the market, he said.",
@@ -1272,14 +1246,14 @@
                 "url": "https://finance.yahoo.com/m/38f64c7c-c2f5-3b37-ac1d-e97f15b4a3f2/comex-gold-settles-0-09-.html"
             },
             {
-                "headline": "Bank of America (BAC) reachead $43.28 at the closing of the latest trading day, reflecting a +0.49% change compared to its last close.",
+                "headline": "Bank of America (BAC) concluded the recent trading session at $42.82, signifying a -1.06% move from its prior day's close.",
                 "publication_date": "2025-03-26T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
                 "source": "Zacks",
                 "ticker": "BAC",
-                "title": "Bank of America (BAC) Exceeds Market Returns: Some Facts to Consider",
-                "url": "https://finance.yahoo.com/news/bank-america-bac-exceeds-market-215016283.html"
+                "title": "Bank of America (BAC) Stock Moves -1.06%: What You Should Know",
+                "url": "https://finance.yahoo.com/news/bank-america-bac-stock-moves-214515649.html"
             }
         ],
         "avgScore": 0.383525,
@@ -1298,6 +1272,26 @@
                 "url": "https://finance.yahoo.com/news/bank-america-announces-redemptions-500-201500572.html"
             },
             {
+                "headline": "Bank of America (BAC) reachead $43.28 at the closing of the latest trading day, reflecting a +0.49% change compared to its last close.",
+                "publication_date": "2025-03-25T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "BAC",
+                "title": "Bank of America (BAC) Exceeds Market Returns: Some Facts to Consider",
+                "url": "https://finance.yahoo.com/news/bank-america-bac-exceeds-market-215016283.html"
+            },
+            {
+                "headline": "Bank of America (BAC) reachead $43.28 at the closing of the latest trading day, reflecting a +0.49% change compared to its last close.",
+                "publication_date": "2025-03-25T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "BAC",
+                "title": "Bank of America (BAC) Exceeds Market Returns: Some Facts to Consider",
+                "url": "https://finance.yahoo.com/news/bank-america-bac-exceeds-market-215016283.html"
+            },
+            {
                 "headline": "Bank of America Corporation announced today that it will redeem on April 2, 2025 all $500,000,000 principal amount outstanding of its Floating Rate Senior Notes, due April 2026 (CUSIP No. 06051GKN8) (the \"Floating Rate Notes\"), and all $3,000,000,000 principal amount outstanding of its 3.384% Fixed/Floating Rate Senior Notes, due April 2026 (CUSIP No. 06051GKM0) (the \"Fixed/Floating Rate Notes\" and, together with the Floating Rate Notes, the \"Notes\").",
                 "publication_date": "2025-03-25T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -1308,15 +1302,15 @@
                 "url": "https://finance.yahoo.com/news/bank-america-announces-redemptions-500-201500572.html"
             }
         ],
-        "avgScore": 0.6808,
+        "avgScore": 0.3404,
         "pctChange": -0.010628444950250282
     },
-    "coef": 0.11914172783738003,
-    "avgCoef": -0.009210736587456896,
+    "coef": 0.125974025974026,
+    "avgCoef": 0.014366174826410956,
     "similar": {
-        "GRAB": 0.559728912464115,
-        "NCLH": 0.5076228119706382,
-        "CCL": 0.4624505928853756,
-        "PATH": 0.4590626764539809
+        "NCLH": 0.4909090909090909,
+        "GRAB": 0.4644365298538582,
+        "CMCSA": 0.4142857142857143,
+        "TSLA": 0.41298701298701296
     }
 }

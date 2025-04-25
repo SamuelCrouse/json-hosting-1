@@ -32,16 +32,6 @@
                 "url": "https://finance.yahoo.com/news/sector-health-care-stocks-rise-200558091.html"
             },
             {
-                "headline": "In the closing of the recent trading day, Pfizer (PFE) stood at $22.36, denoting a -0.78% change from the preceding trading day.",
-                "publication_date": "2025-04-24T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "PFE",
-                "title": "Pfizer (PFE) Stock Sinks As Market Gains: What You Should Know",
-                "url": "https://finance.yahoo.com/news/pfizer-pfe-stock-sinks-market-214517376.html"
-            },
-            {
                 "headline": "Chemicals firms Dow and LyondellBasell are the biggest dividend payers in the S&P 500. Other fat divided payouts include Pfizer, Franklin Resources, and Invesco.",
                 "publication_date": "2025-04-24T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -60,9 +50,19 @@
                 "ticker": "PFE",
                 "title": "Is Pfizer Stock A Sell After Abandoning Yet Another Obesity Drug?",
                 "url": "https://finance.yahoo.com/m/9a6f7dfd-febf-37fb-912a-e0504d778fbc/is-pfizer-stock-a-sell-after.html"
+            },
+            {
+                "headline": "SNY beats Q1 estimates for earnings, while missing the same for sales. It expects earnings growth to rebound in 2025.",
+                "publication_date": "2025-04-24T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.1027",
+                "source": "Zacks",
+                "ticker": "PFE",
+                "title": "Sanofi Q1 Earnings Top Estimates, Dupixent Drives Sales Growth",
+                "url": "https://finance.yahoo.com/news/sanofi-q1-earnings-top-estimates-115900224.html"
             }
         ],
-        "avgScore": 0.4613230769230769,
+        "avgScore": 0.49976666666666664,
         "pctChange": 0.016964333686902415
     },
     "4 23 2025": {
@@ -128,7 +128,7 @@
                 "url": "https://finance.yahoo.com/news/why-summit-therapeutics-stock-soaring-194743694.html"
             }
         ],
-        "avgScore": -0.02369999999999998,
+        "avgScore": -0.02132999999999998,
         "pctChange": 0.017418548799844072
     },
     "4 22 2025": {
@@ -326,22 +326,12 @@
                 "url": "https://finance.yahoo.com/news/pfizer-nyse-pfe-gets-cdc-172534992.html"
             }
         ],
-        "avgScore": 0.1260777777777778,
+        "avgScore": 0.11347,
         "pctChange": -0.004516643038745885
     },
     "4 16 2025": {
         "importantArticles": [
             {
-                "headline": "On Tuesday, investors continued to snap up shares of big pharmaceutical company Pfizer (NYSE: PFE).  On Tuesday, Pfizer's stock closed the day 1.5% higher, providing a pleasant contrast to the S&P 500 index's 0.2% dip.  Tuesday was a relatively uneventful news day for Pfizer, especially following the pharmaceutical giant's disclosure on Monday that it halted the development of its investigational weight loss drug danuglipron.",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4939",
-                "source": "Motley Fool",
-                "ticker": "PFE",
-                "title": "Why Pfizer Stock Topped the Market on Tuesday",
-                "url": "https://finance.yahoo.com/news/why-pfizer-stock-topped-market-225308409.html"
-            },
-            {
                 "headline": "NEW YORK, April 16, 2025--Pfizer Inc. (NYSE: PFE) announced today that the U.S. Centers for Disease Control and Prevention\u2019s (CDC) Advisory Committee on Immunization Practices (ACIP) voted to expand its recommendation for the use of respiratory syncytial virus (RSV) vaccines approved for adults 50-59 years of age at increased risk of RSV-associated lower respiratory tract disease (LRTD). This includes ABRYSVO\u00ae (Respiratory Syncytial Virus Vaccine), which in October 2024, the U.S. Food and Drug A",
                 "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -360,19 +350,9 @@
                 "ticker": "PFE",
                 "title": "ACIP Votes to Expand Recommendation for Pfizer\u2019s RSV Vaccine ABRYSVO\u00ae to Include Adults Aged 50 to 59 at Increased Risk of Disease",
                 "url": "https://finance.yahoo.com/news/acip-votes-expand-recommendation-pfizer-201500828.html"
-            },
-            {
-                "headline": "On Tuesday, investors continued to snap up shares of big pharmaceutical company Pfizer (NYSE: PFE).  On Tuesday, Pfizer's stock closed the day 1.5% higher, providing a pleasant contrast to the S&P 500 index's 0.2% dip.  Tuesday was a relatively uneventful news day for Pfizer, especially following the pharmaceutical giant's disclosure on Monday that it halted the development of its investigational weight loss drug danuglipron.",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4939",
-                "source": "Motley Fool",
-                "ticker": "PFE",
-                "title": "Why Pfizer Stock Topped the Market on Tuesday",
-                "url": "https://finance.yahoo.com/news/why-pfizer-stock-topped-market-225308409.html"
             }
         ],
-        "avgScore": 0.46715,
+        "avgScore": 0.4404,
         "pctChange": 0.004537135660944737
     },
     "4 15 2025": {
@@ -438,7 +418,7 @@
                 "url": "https://finance.yahoo.com/news/pfizer-halts-obesity-pill-development-165700605.html"
             }
         ],
-        "avgScore": -0.029150000000000037,
+        "avgScore": 0.06673749999999996,
         "pctChange": -0.017825294519186234
     },
     "4 14 2025": {
@@ -504,7 +484,7 @@
                 "url": "https://finance.yahoo.com/m/b3673b54-a975-32c1-a871-82025800a9e7/pfizer-halts-development-of.html"
             }
         ],
-        "avgScore": -0.004755999999999987,
+        "avgScore": -0.015080769230769227,
         "pctChange": 0.014466531766881651
     },
     "4 11 2025": {
@@ -530,14 +510,14 @@
                 "url": "https://finance.yahoo.com/news/pfizer-inc-pfe-cheap-nyse-203507561.html"
             },
             {
-                "headline": "Though the stock market is still historically pricey, a few phenomenal bargains have cropped up.",
+                "headline": "Pfizer (PFE) closed the most recent trading day at $21.91, moving +1.48% from the previous trading session.",
                 "publication_date": "2025-04-11T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
-                "source": "Motley Fool",
+                "source": "Zacks",
                 "ticker": "PFE",
-                "title": "6 Stocks With Clear Price Dislocations That I Purchased During Wall Street's Historic Volatility",
-                "url": "https://finance.yahoo.com/news/6-stocks-clear-price-dislocations-070600692.html"
+                "title": "Pfizer (PFE) Advances But Underperforms Market: Key Facts",
+                "url": "https://finance.yahoo.com/news/pfizer-pfe-advances-underperforms-market-214516632.html"
             },
             {
                 "headline": "Pfizer (PFE) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
@@ -560,17 +540,17 @@
                 "url": "https://finance.yahoo.com/news/6-stocks-clear-price-dislocations-070600692.html"
             },
             {
-                "headline": "We recently published a list of the 11 Cheap NYSE Stocks to Invest in According to Hedge Funds. In this article, we are going to take a look at where Pfizer Inc. (NYSE:PFE) stands against other cheap NYSE stocks. On March 26, Jack Caffrey of JPMorgan Asset Management provided an analysis of market trends in [\u2026]",
+                "headline": "Pfizer (PFE) closed the most recent trading day at $21.91, moving +1.48% from the previous trading session.",
                 "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.3612",
-                "source": "Insider Monkey",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
                 "ticker": "PFE",
-                "title": "Is Pfizer Inc. (PFE) A Cheap NYSE Stock to Invest in According to Hedge Funds?",
-                "url": "https://finance.yahoo.com/news/pfizer-inc-pfe-cheap-nyse-203507561.html"
+                "title": "Pfizer (PFE) Advances But Underperforms Market: Key Facts",
+                "url": "https://finance.yahoo.com/news/pfizer-pfe-advances-underperforms-market-214516632.html"
             }
         ],
-        "avgScore": 0.23742500000000002,
+        "avgScore": 0.18994000000000003,
         "pctChange": 0.009584709871465072
     },
     "4 10 2025": {
@@ -820,14 +800,14 @@
                 "url": "https://finance.yahoo.com/news/zacks-analyst-blog-highlights-johnson-130400151.html"
             },
             {
-                "headline": "(Reuters) -British pharmaceutical giant GlaxoSmithKline and rival Pfizer have agreed to end a lawsuit that alleged Pfizer's respiratory syncytial virus (RSV) vaccine Abrysvo violated GSK's patent rights in its competing RSV shot Arexvy, according to a Thursday filing in Delaware federal court.  GSK and Pfizer said in the filing that they would dismiss the case with prejudice, which means it cannot be refiled.  GSK, Pfizer and Moderna have developed RSV shots approved by the U.S. Food and Drug Administration, with GSK's Arexvy responsible for the majority of U.S. RSV vaccine sales.",
+                "headline": "We recently published a list of Jim Cramer\u2019s Lightning Round: 8 Stocks in Focus. In this article, we are going to take a look at where Pfizer Inc. (NYSE:PFE) stands against other stocks that Jim Cramer discusses. Jim Cramer, host of Mad Money, discussed on Monday how investor sentiment surrounding tech stocks has shifted over [\u2026]",
                 "publication_date": "2025-04-04T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.34",
-                "source": "Reuters",
+                "sentimentScore": "-0.4939",
+                "source": "Insider Monkey",
                 "ticker": "PFE",
-                "title": "GSK resolves patent lawsuit against Pfizer over RSV vaccines",
-                "url": "https://finance.yahoo.com/news/gsk-resolves-patent-lawsuit-against-220317477.html"
+                "title": "Pfizer Inc. (PFE) \u2013 Jim Cramer Declares: \u2018Dead Money \u2013 Close the Casket!\u2019",
+                "url": "https://finance.yahoo.com/news/pfizer-inc-pfe-jim-cramer-144529049.html"
             },
             {
                 "headline": "We recently published a list of Jim Cramer\u2019s Lightning Round: 8 Stocks in Focus. In this article, we are going to take a look at where Pfizer Inc. (NYSE:PFE) stands against other stocks that Jim Cramer discusses. Jim Cramer, host of Mad Money, discussed on Monday how investor sentiment surrounding tech stocks has shifted over [\u2026]",
@@ -840,16 +820,6 @@
                 "url": "https://finance.yahoo.com/news/pfizer-inc-pfe-jim-cramer-144529049.html"
             },
             {
-                "headline": "(Reuters) -British pharmaceutical giant GlaxoSmithKline and rival Pfizer have agreed to end a lawsuit that alleged Pfizer's respiratory syncytial virus (RSV) vaccine Abrysvo violated GSK's patent rights in its competing RSV shot Arexvy, according to a Thursday filing in Delaware federal court.  GSK and Pfizer said in the filing that they would dismiss the case with prejudice, which means it cannot be refiled.  GSK, Pfizer and Moderna have developed RSV shots approved by the U.S. Food and Drug Administration, with GSK's Arexvy responsible for the majority of U.S. RSV vaccine sales.",
-                "publication_date": "2025-04-04T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.34",
-                "source": "Reuters",
-                "ticker": "PFE",
-                "title": "GSK resolves patent lawsuit against Pfizer over RSV vaccines",
-                "url": "https://finance.yahoo.com/news/gsk-resolves-patent-lawsuit-against-220317477.html"
-            },
-            {
                 "headline": "Johnson & Johnson and Pfizer are part of the Zacks top Analyst Blog",
                 "publication_date": "2025-04-04T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -858,9 +828,19 @@
                 "ticker": "PFE",
                 "title": "The Zacks Analyst Blog Highlights Johnson & Johnson and Pfizer",
                 "url": "https://finance.yahoo.com/news/zacks-analyst-blog-highlights-johnson-130400151.html"
+            },
+            {
+                "headline": "FDA approves SNY's hemophilia therapy, fitusiran, and NVS' rare kidney disease drug, Vanrafia.",
+                "publication_date": "2025-04-04T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.4019",
+                "source": "Zacks",
+                "ticker": "PFE",
+                "title": "Pharma Stock Roundup: FDA Nod to SNY, AZN & NVS, JNJ Talc Suits Failure",
+                "url": "https://finance.yahoo.com/news/pharma-stock-roundup-fda-nod-134600557.html"
             }
         ],
-        "avgScore": -0.05742500000000002,
+        "avgScore": 0.03676666666666665,
         "pctChange": -0.01480192262740811
     },
     "4 3 2025": {
@@ -896,14 +876,14 @@
                 "url": "https://finance.yahoo.com/news/jnj-vs-pfe-drug-giant-135900061.html"
             },
             {
-                "headline": "In the closing of the recent trading day, Pfizer (PFE) stood at $24.70, denoting a +0.65% change from the preceding trading day.",
+                "headline": "(Reuters) -British pharmaceutical giant GlaxoSmithKline and rival Pfizer have agreed to end a lawsuit that alleged Pfizer's respiratory syncytial virus (RSV) vaccine Abrysvo violated GSK's patent rights in its competing RSV shot Arexvy, according to a Thursday filing in Delaware federal court.  GSK and Pfizer said in the filing that they would dismiss the case with prejudice, which means it cannot be refiled.  GSK, Pfizer and Moderna have developed RSV shots approved by the U.S. Food and Drug Administration, with GSK's Arexvy responsible for the majority of U.S. RSV vaccine sales.",
                 "publication_date": "2025-04-03T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.34",
+                "source": "Reuters",
                 "ticker": "PFE",
-                "title": "Pfizer (PFE) Increases Yet Falls Behind Market: What Investors Need to Know",
-                "url": "https://finance.yahoo.com/news/pfizer-pfe-increases-yet-falls-214515191.html"
+                "title": "GSK resolves patent lawsuit against Pfizer over RSV vaccines",
+                "url": "https://finance.yahoo.com/news/gsk-resolves-patent-lawsuit-against-220317477.html"
             },
             {
                 "headline": "Pfizer's (NYSE: PFE) share price has fallen more than the S&P 500 so far this year.  If you're a growth investor, you probably won't be interested in buying Pfizer stock.  Pfizer's top-selling product last year was Eliquis, which it co-markets with Bristol Myers Squibb.",
@@ -926,11 +906,21 @@
                 "url": "https://finance.yahoo.com/news/goodrx-launches-new-e-commerce-experience-for-prescriptions-130044902.html"
             }
         ],
-        "avgScore": 0.48568571428571433,
+        "avgScore": 0.3982166666666667,
         "pctChange": -0.054343415085218984
     },
     "4 2 2025": {
         "importantArticles": [
+            {
+                "headline": "Drugmakers breathed a sigh of relief Wednesday after President Trump didn\u2019t announce pharmaceutical tariffs.  Plus, language in the executive order indicated medicines were exempted from the reciprocal tariffs that Trump did announce.  Drugmakers were combing over the executive order to clarify the exemption language in the executive order and to make sure they won\u2019t be hit by any other tariff provisions, such as the 10% \u201cbaseline\u201d tariff.",
+                "publication_date": "2025-04-02T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6705",
+                "source": "The Wall Street Journal",
+                "ticker": "PFE",
+                "title": "Big Pharma Avoids Worst-Case Tariff Scenario",
+                "url": "https://finance.yahoo.com/m/06d142db-a905-336a-a0df-f505312c37de/big-pharma-avoids-worst-case.html"
+            },
             {
                 "headline": "(Reuters) -Institutional Shareholder Services has recommended Pfizer investors reject a proposal on executive compensation at its upcoming annual meeting, citing concerns about certain changes made to long-term awards to its CEO and others.  The modifications, including repeated changes to Pfizer's cash flow targets, and a lack of clarity about certain pipeline goals are concerning and undermine a \"pay-for-performance philosophy\", ISS said.  Annual incentives for executives are tied to achieving three financial goals, and payouts can be 30 percentage points higher or lower based on pipeline and ESG-related goals achieved, ISS said.",
                 "publication_date": "2025-04-02T00:00:00.000Z",
@@ -950,16 +940,6 @@
                 "ticker": "PFE",
                 "title": "Why Investors Need to Take Advantage of These 2 Medical Stocks Now",
                 "url": "https://finance.yahoo.com/news/why-investors-advantage-2-medical-130009469.html"
-            },
-            {
-                "headline": "The latest decision makes Pfizer's Abrysvo the first RSV vaccine approved for use in non-pregnant adults under 50 years of age in the EU.",
-                "publication_date": "2025-04-02T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4215",
-                "source": "Zacks",
-                "ticker": "PFE",
-                "title": "PFE Secures EU Nod for Expanded Use of RSV Vaccine Abrysvo",
-                "url": "https://finance.yahoo.com/news/pfe-secures-eu-nod-expanded-113700365.html"
             },
             {
                 "headline": "Stocks of PFE, MRK, ABBV, LLY and others declined on Tuesday due to uncertainty surrounding Trump's proposed tariffs on pharma imports.",
@@ -992,7 +972,7 @@
                 "url": "https://finance.yahoo.com/news/tesla-johnson-johnson-coreweave-newsmax-raspberry-pi-trending-tickers-094114477.html"
             }
         ],
-        "avgScore": 0.20659999999999995,
+        "avgScore": 0.2131375,
         "pctChange": -0.0165991835930339
     },
     "4 1 2025": {
@@ -1018,14 +998,14 @@
                 "url": "https://finance.yahoo.com/news/3-ultra-high-yield-dividend-095000907.html"
             },
             {
-                "headline": "Abrysvo is now approved in the EU for adults aged 18 to 59 who are at increased risk of lower respiratory tract disease caused by RSV.",
+                "headline": "Many investor eyes were on the pharmaceutical industry on Tuesday, and not necessarily for the right reasons.  The Trump administration's promised tariffs were set to go into effect the following day, and the sector has been mentioned as a key area of focus for these.  Major stocks in the sector took notable hits, including but not at all limited to Pfizer (NYSE: PFE), Merck (NYSE: MRK), and Eli Lilly (NYSE: LLY).",
                 "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.1531",
-                "source": "Pharmaceutical Technology",
+                "sentimentScore": "0.4116",
+                "source": "Motley Fool",
                 "ticker": "PFE",
-                "title": "Pfizer\u2019s RSV vaccine wins expanded approval in EU, gaining edge over GSK",
-                "url": "https://finance.yahoo.com/news/pfizer-rsv-vaccine-wins-expanded-113100409.html"
+                "title": "Why Major Pharmaceutical Stocks Tumbled on Tuesday",
+                "url": "https://finance.yahoo.com/news/why-major-pharmaceutical-stocks-tumbled-230939016.html"
             },
             {
                 "headline": "NEW YORK, April 01, 2025--Pfizer Inc. (NYSE: PFE) announced today that the European Commission (EC) has issued a decision amending the marketing authorization for ABRYSVO\u00ae, the company\u2019s bivalent respiratory syncytial virus (RSV) prefusion F (RSVpreF) vaccine, to extend the indication to include prevention of lower respiratory tract disease (LRTD) caused by RSV in individuals 18 through 59 years of age. This expands the previous authorization for individuals aged 60 and older, and ABRYSVO now of",
@@ -1058,7 +1038,7 @@
                 "url": "https://finance.yahoo.com/news/pfizer-inc-pfe-most-undervalued-140133307.html"
             }
         ],
-        "avgScore": 0.19117142857142855,
+        "avgScore": 0.21872499999999997,
         "pctChange": 0.0065199609389937595
     },
     "3 31 2025": {
@@ -1196,16 +1176,6 @@
                 "url": "https://finance.yahoo.com/news/why-pfizer-largest-healthcare-position-104500478.html"
             },
             {
-                "headline": "In the latest trading session, Pfizer (PFE) closed at $25.21, marking a -1.33% move from the previous day.",
-                "publication_date": "2025-03-27T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "PFE",
-                "title": "Here's Why Pfizer (PFE) Fell More Than Broader Market",
-                "url": "https://finance.yahoo.com/news/heres-why-pfizer-pfe-fell-214515204.html"
-            },
-            {
                 "headline": "(Updates with Pfizer's response to a request for comment from MT Newswires in the second and third p",
                 "publication_date": "2025-03-27T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -1214,9 +1184,19 @@
                 "ticker": "PFE",
                 "title": "Update: Market Chatter: US Prosecutors Investigate Tip on Pfizer Vaccine",
                 "url": "https://finance.yahoo.com/news/market-chatter-us-prosecutors-investigate-123554313.html"
+            },
+            {
+                "headline": "(Update with Pfizer's response to a request for comment.) Pfizer (PFE) sold $20 billion of drugs",
+                "publication_date": "2025-03-27T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "MT Newswires",
+                "ticker": "PFE",
+                "title": "Update: Sen. Ron Wyden Accuses Pfizer of Tax Dodging After Concluding Investigation",
+                "url": "https://finance.yahoo.com/news/sen-ron-wyden-accuses-pfizer-185224734.html"
             }
         ],
-        "avgScore": 0.19315,
+        "avgScore": 0.2223,
         "pctChange": 0.007996755448241034
     },
     "3 26 2025": {
@@ -1242,6 +1222,36 @@
                 "url": "https://finance.yahoo.com/news/viiv-healthcare-announces-reimbursement-apretude-130100708.html"
             },
             {
+                "headline": "The inquiry is looking into a politically explosive suggestion that Pfizer delayed announcing a successful vaccine against Covid-19 until after the election that Trump lost to Biden.",
+                "publication_date": "2025-03-26T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.1531",
+                "source": "The Wall Street Journal",
+                "ticker": "PFE",
+                "title": "U.S. Prosecutors Probe Tip About Timing of Pfizer Vaccine",
+                "url": "https://finance.yahoo.com/m/fe9864d2-2e39-3113-b81a-bb1d03b92d18/u-s-prosecutors-probe-tip.html"
+            },
+            {
+                "headline": "In the latest trading session, Pfizer (PFE) closed at $25.21, marking a -1.33% move from the previous day.",
+                "publication_date": "2025-03-26T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "PFE",
+                "title": "Here's Why Pfizer (PFE) Fell More Than Broader Market",
+                "url": "https://finance.yahoo.com/news/heres-why-pfizer-pfe-fell-214515204.html"
+            },
+            {
+                "headline": "The inquiry is looking into a politically explosive suggestion that Pfizer delayed announcing a successful vaccine against Covid-19 until after the election that Trump lost to Biden.",
+                "publication_date": "2025-03-26T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.1531",
+                "source": "The Wall Street Journal",
+                "ticker": "PFE",
+                "title": "U.S. Prosecutors Probe Tip About Timing of Pfizer Vaccine",
+                "url": "https://finance.yahoo.com/m/fe9864d2-2e39-3113-b81a-bb1d03b92d18/u-s-prosecutors-probe-tip.html"
+            },
+            {
                 "headline": "ViiV Healthcare, the global specialist HIV company majority owned by GlaxoSmithKline plc (GSK), with Pfizer Inc. and Shionogi as shareholders, is pleased to announce that APRETUDE (cabotegravir tablets and extended release injectable suspension) is now covered under the federal Non-Insured Health Benefits (NIHB) Program for pre-exposure prophylaxis (PrEP) to reduce the risk of sexually acquired HIV-1 infection in at risk individuals who are HIV-1 negative.1",
                 "publication_date": "2025-03-26T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -1250,19 +1260,9 @@
                 "ticker": "PFE",
                 "title": "ViiV Healthcare Announces Reimbursement for APRETUDE for HIV-1 Pre-Exposure Prophylaxis (PrEP) under the Non-Insured Health Benefits (NIHB) Program",
                 "url": "https://finance.yahoo.com/news/viiv-healthcare-announces-reimbursement-apretude-130100708.html"
-            },
-            {
-                "headline": "Pfizer stock slipped about 0.7% to $25.19 after The Wall Street Journal reported on an inquiry looking into the suggestion that the pharmaceutical giant delayed announcing a successful Covid-19 vaccine until after the 2020 election.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4404",
-                "source": "The Wall Street Journal",
-                "ticker": "PFE",
-                "title": "Pfizer Stock Slips After Report on Vaccine Timing Probe",
-                "url": "https://finance.yahoo.com/m/7edf436c-1971-3b95-973d-6615a7f6abe3/pfizer-stock-slips-after.html"
             }
         ],
-        "avgScore": 0.37929999999999997,
+        "avgScore": 0.227925,
         "pctChange": -0.007933314670923713
     },
     "3 25 2025": {
@@ -1331,12 +1331,12 @@
         "avgScore": 0.4173,
         "pctChange": -0.013307247073992737
     },
-    "coef": 0.2377188029361943,
-    "avgCoef": -0.004625368760834057,
+    "coef": 0.28289102202145683,
+    "avgCoef": 0.014095682496559084,
     "similar": {
-        "ADT": 0.47826086956521746,
-        "PG": 0.46019198193111244,
-        "F": 0.4522868435911915,
-        "CMCSA": 0.4466403162055336
+        "BMY": 0.5426312817617166,
+        "CMCSA": 0.531338226990401,
+        "MRK": 0.5076228119706382,
+        "CSX": 0.4850367024280069
     }
 }

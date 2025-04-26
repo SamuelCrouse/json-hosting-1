@@ -110,26 +110,6 @@
                 "url": "https://finance.yahoo.com/news/electric-vehicles-navitas-advances-ev-123711711.html"
             },
             {
-                "headline": "NIO Inc. (NIO) concluded the recent trading session at $3.62, signifying a +0.28% move from its prior day's close.",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "NIO",
-                "title": "NIO Inc. (NIO) Gains As Market Dips: What You Should Know",
-                "url": "https://finance.yahoo.com/news/nio-inc-nio-gains-market-214516264.html"
-            },
-            {
-                "headline": "NIO Inc. (NIO) concluded the recent trading session at $3.62, signifying a +0.28% move from its prior day's close.",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "NIO",
-                "title": "NIO Inc. (NIO) Gains As Market Dips: What You Should Know",
-                "url": "https://finance.yahoo.com/news/nio-inc-nio-gains-market-214516264.html"
-            },
-            {
                 "headline": "Navitas Semiconductor has achieved a significant milestone in the electric vehicle sector by securing automotive qualification for its high-power GaNSafe\u2122 integrated circuits (ICs), which meet AEC-Q100 and AEC-Q101 standards. These advancements in gallium nitride (GaN) technology are poised to enhance power density and efficiency for onboard chargers and high-voltage to low-voltage converters within EVs. With innovations like the 650V Bi-Directional GaNFast ICs, Navitas aims to simplify power...",
                 "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -140,8 +120,34 @@
                 "url": "https://finance.yahoo.com/news/electric-vehicles-navitas-advances-ev-123711711.html"
             }
         ],
-        "avgScore": 0.4221,
+        "avgScore": 0.8442,
         "pctChange": 0.0
+    },
+    "4 15 2025": {
+        "importantArticles": [
+            {
+                "headline": "NIO Inc. (NIO) concluded the recent trading session at $3.62, signifying a +0.28% move from its prior day's close.",
+                "publication_date": "2025-04-15T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "NIO",
+                "title": "NIO Inc. (NIO) Gains As Market Dips: What You Should Know",
+                "url": "https://finance.yahoo.com/news/nio-inc-nio-gains-market-214516264.html"
+            },
+            {
+                "headline": "NIO Inc. (NIO) concluded the recent trading session at $3.62, signifying a +0.28% move from its prior day's close.",
+                "publication_date": "2025-04-15T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "NIO",
+                "title": "NIO Inc. (NIO) Gains As Market Dips: What You Should Know",
+                "url": "https://finance.yahoo.com/news/nio-inc-nio-gains-market-214516264.html"
+            }
+        ],
+        "avgScore": 0.0,
+        "pctChange": -0.027624283920971483
     },
     "4 14 2025": {
         "importantArticles": [
@@ -801,12 +807,12 @@
         "avgScore": 0.9136,
         "pctChange": -0.05687198650482978
     },
-    "coef": -0.2377450980392157,
-    "avgCoef": -0.004126213636715149,
+    "coef": -0.13725490196078433,
+    "avgCoef": -0.016387624808805748,
     "similar": {
-        "GRAB": 0.556372549019608,
-        "PSLV": 0.49509803921568635,
-        "LYG": 0.4770080602279534,
-        "JD": 0.4387254901960785
+        "GRAB": 0.5500515995872033,
+        "KVUE": 0.5108359133126935,
+        "JD": 0.5046439628482973,
+        "NU": 0.45098039215686275
     }
 }

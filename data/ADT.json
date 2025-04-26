@@ -183,11 +183,11 @@
         "avgScore": 0.6705,
         "pctChange": 0.007643304905536735
     },
-    "4 11 2025": {
+    "4 10 2025": {
         "importantArticles": [
             {
                 "headline": "BOCA RATON, Fla., April 10, 2025 (GLOBE NEWSWIRE) -- ADT Inc. (NYSE: ADT) will release its first quarter 2025 financial results before the market opens on Thursday, April 24, 2025. Following the release, management will host a conference call at 10 a.m. ET to discuss the financial results and lead a question-and-answer session. Participants may listen to a live webcast through the investor relations website at investor.adt.com. A replay of the webcast will be available on the website within 24 h",
-                "publication_date": "2025-04-11T00:00:00.000Z",
+                "publication_date": "2025-04-10T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
                 "source": "GlobeNewswire",
@@ -197,7 +197,7 @@
             },
             {
                 "headline": "BOCA RATON, Fla., April 10, 2025 (GLOBE NEWSWIRE) -- ADT Inc. (NYSE: ADT) will release its first quarter 2025 financial results before the market opens on Thursday, April 24, 2025. Following the release, management will host a conference call at 10 a.m. ET to discuss the financial results and lead a question-and-answer session. Participants may listen to a live webcast through the investor relations website at investor.adt.com. A replay of the webcast will be available on the website within 24 h",
-                "publication_date": "2025-04-11T00:00:00.000Z",
+                "publication_date": "2025-04-10T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
                 "source": "GlobeNewswire",
@@ -207,7 +207,7 @@
             }
         ],
         "avgScore": 0.0,
-        "pctChange": 0.030690568118534153
+        "pctChange": 0.016905086277451388
     },
     "4 9 2025": {
         "importantArticles": [
@@ -326,26 +326,6 @@
                 "url": "https://finance.yahoo.com/news/3-value-stocks-hot-water-130220985.html"
             },
             {
-                "headline": "We recently published a list of 10 Worst Affordable Stocks to Buy Under $10. In this article, we are going to take a look at where ADT Inc. (NYSE:ADT) stands against other worst affordable stocks to buy under $10. Will There Be a Small Cap Resurgence in 2025? On February 18, Chris Clark, Chief Executive [\u2026]",
-                "publication_date": "2025-03-27T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.8481",
-                "source": "Insider Monkey",
-                "ticker": "ADT",
-                "title": "Is ADT Inc. (NYSE:ADT) the Worst Affordable Stocks to Buy Under $10?",
-                "url": "https://finance.yahoo.com/news/adt-inc-nyse-adt-worst-014023309.html"
-            },
-            {
-                "headline": "We recently published a list of 10 Worst Affordable Stocks to Buy Under $10. In this article, we are going to take a look at where ADT Inc. (NYSE:ADT) stands against other worst affordable stocks to buy under $10. Will There Be a Small Cap Resurgence in 2025? On February 18, Chris Clark, Chief Executive [\u2026]",
-                "publication_date": "2025-03-27T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.8481",
-                "source": "Insider Monkey",
-                "ticker": "ADT",
-                "title": "Is ADT Inc. (NYSE:ADT) the Worst Affordable Stocks to Buy Under $10?",
-                "url": "https://finance.yahoo.com/news/adt-inc-nyse-adt-worst-014023309.html"
-            },
-            {
                 "headline": "Value stocks typically trade at discounts to the broader market, offering patient investors the opportunity to buy businesses when they\u2019re out of favor. The key risk, however, is that these stocks are usually cheap for a reason \u2013 five cents for a piece of fruit may seem like a great deal until you find out it\u2019s rotten.",
                 "publication_date": "2025-03-27T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -356,15 +336,41 @@
                 "url": "https://finance.yahoo.com/news/3-value-stocks-hot-water-130220985.html"
             }
         ],
-        "avgScore": -0.0019500000000000073,
+        "avgScore": 0.8442,
         "pctChange": -0.015795767678897954
     },
-    "coef": -0.10303030303030303,
-    "avgCoef": -0.013748433803889156,
+    "3 26 2025": {
+        "importantArticles": [
+            {
+                "headline": "We recently published a list of 10 Worst Affordable Stocks to Buy Under $10. In this article, we are going to take a look at where ADT Inc. (NYSE:ADT) stands against other worst affordable stocks to buy under $10. Will There Be a Small Cap Resurgence in 2025? On February 18, Chris Clark, Chief Executive [\u2026]",
+                "publication_date": "2025-03-26T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.8481",
+                "source": "Insider Monkey",
+                "ticker": "ADT",
+                "title": "Is ADT Inc. (NYSE:ADT) the Worst Affordable Stocks to Buy Under $10?",
+                "url": "https://finance.yahoo.com/news/adt-inc-nyse-adt-worst-014023309.html"
+            },
+            {
+                "headline": "We recently published a list of 10 Worst Affordable Stocks to Buy Under $10. In this article, we are going to take a look at where ADT Inc. (NYSE:ADT) stands against other worst affordable stocks to buy under $10. Will There Be a Small Cap Resurgence in 2025? On February 18, Chris Clark, Chief Executive [\u2026]",
+                "publication_date": "2025-03-26T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.8481",
+                "source": "Insider Monkey",
+                "ticker": "ADT",
+                "title": "Is ADT Inc. (NYSE:ADT) the Worst Affordable Stocks to Buy Under $10?",
+                "url": "https://finance.yahoo.com/news/adt-inc-nyse-adt-worst-014023309.html"
+            }
+        ],
+        "avgScore": -0.8481,
+        "pctChange": 0.007343875811761267
+    },
+    "coef": -0.3181818181818182,
+    "avgCoef": -0.02075208711774972,
     "similar": {
-        "HL": 0.4666666666666666,
-        "RGTI": 0.4545454545454545,
-        "PLTR": 0.43030303030303024,
-        "IONQ": 0.43030303030303024
+        "RGTI": 0.39090909090909093,
+        "TAL": 0.3545454545454546,
+        "RKLB": 0.30000000000000004,
+        "IONQ": 0.29090909090909095
     }
 }

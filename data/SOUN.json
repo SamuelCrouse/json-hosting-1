@@ -12,6 +12,26 @@
                 "url": "https://finance.yahoo.com/news/soundhound-ai-inc-soun-teams-125943601.html"
             },
             {
+                "headline": "SoundHound AI, Inc. (SOUN) reachead $9.52 at the closing of the latest trading day, reflecting a +1.44% change compared to its last close.",
+                "publication_date": "2025-04-25T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "SOUN",
+                "title": "SoundHound AI, Inc. (SOUN) Outpaces Stock Market Gains: What You Should Know",
+                "url": "https://finance.yahoo.com/news/soundhound-ai-inc-soun-outpaces-214515777.html"
+            },
+            {
+                "headline": "SoundHound AI, Inc. (SOUN) reachead $9.52 at the closing of the latest trading day, reflecting a +1.44% change compared to its last close.",
+                "publication_date": "2025-04-25T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "SOUN",
+                "title": "SoundHound AI, Inc. (SOUN) Outpaces Stock Market Gains: What You Should Know",
+                "url": "https://finance.yahoo.com/news/soundhound-ai-inc-soun-outpaces-214515777.html"
+            },
+            {
                 "headline": "We recently compiled a list of the 12 AI Stocks Analysts Are Talking About Right Now. In this article, we are going to take a look at where SoundHound AI, Inc. (NASDAQ:SOUN) stands against the other AI stocks. Latest reports from the IMF reveal that economic gains from artificial intelligence are likely to outweigh the costs [\u2026]",
                 "publication_date": "2025-04-25T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -22,7 +42,7 @@
                 "url": "https://finance.yahoo.com/news/soundhound-ai-inc-soun-teams-125943601.html"
             }
         ],
-        "avgScore": 0.6705,
+        "avgScore": 0.33525,
         "pctChange": 0.01981793453248045
     },
     "4 24 2025": {
@@ -925,12 +945,12 @@
         "avgScore": 0.5319999999999999,
         "pctChange": -0.053304903400824936
     },
-    "coef": 0.12085772531840293,
-    "avgCoef": -0.0056196869652267775,
+    "coef": 0.1182586344513405,
+    "avgCoef": -0.017522145279475525,
     "similar": {
-        "FLG": 0.37816772115758335,
-        "BAC": 0.3749188575737553,
-        "WFC": 0.3677713576893336,
-        "RIVN": 0.35477590335402154
+        "PONY": 0.39961022081084835,
+        "BAC": 0.3866147664755363,
+        "WFC": 0.3807668120246458,
+        "RIVN": 0.3502274943366622
     }
 }

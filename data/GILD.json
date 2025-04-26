@@ -63,7 +63,7 @@
             }
         ],
         "avgScore": -0.18475555555555556,
-        "pctChange": 0.005849648785280929
+        "pctChange": 0.004772086699583229
     },
     "4 24 2025": {
         "importantArticles": [
@@ -919,58 +919,12 @@
         "avgScore": 0.9716,
         "pctChange": 0.005667481402150342
     },
-    "3 26 2025": {
-        "importantArticles": [
-            {
-                "headline": "Gilead Sciences  stock has room to climb, and investors shouldn\u2019t overlook the company\u2019s impressive record in navigating HIV policy, Citi Research says.  Analysts led by Geoff Meacham reiterated a Buy rating on the shares with a $125 price target in a note Wednesday.  With Gilead up 1.2% to $109.23 on Wednesday, the price target suggests potential upside of 14%.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6705",
-                "source": "Barrons.com",
-                "ticker": "GILD",
-                "title": "Gilead\u2019s HIV Treatments Could Face Headwinds. Why the Stock Will Still Rise.",
-                "url": "https://finance.yahoo.com/m/52e2e67d-4cee-3d1b-9e9d-f873ed77eb0e/gilead%E2%80%99s-hiv-treatments-could.html"
-            },
-            {
-                "headline": "Here is how Gilead Sciences (GILD) and AngioDynamics (ANGO) have performed compared to their sector so far this year.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "GILD",
-                "title": "Are Medical Stocks Lagging  Gilead Sciences (GILD) This Year?",
-                "url": "https://finance.yahoo.com/news/medical-stocks-lagging-gilead-sciences-134011481.html"
-            },
-            {
-                "headline": "Here is how Gilead Sciences (GILD) and AngioDynamics (ANGO) have performed compared to their sector so far this year.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "GILD",
-                "title": "Are Medical Stocks Lagging  Gilead Sciences (GILD) This Year?",
-                "url": "https://finance.yahoo.com/news/medical-stocks-lagging-gilead-sciences-134011481.html"
-            },
-            {
-                "headline": "Gilead Sciences  stock has room to climb, and investors shouldn\u2019t overlook the company\u2019s impressive record in navigating HIV policy, Citi Research says.  Analysts led by Geoff Meacham reiterated a Buy rating on the shares with a $125 price target in a note Wednesday.  With Gilead up 1.2% to $109.23 on Wednesday, the price target suggests potential upside of 14%.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6705",
-                "source": "Barrons.com",
-                "ticker": "GILD",
-                "title": "Gilead\u2019s HIV Treatments Could Face Headwinds. Why the Stock Will Still Rise.",
-                "url": "https://finance.yahoo.com/m/52e2e67d-4cee-3d1b-9e9d-f873ed77eb0e/gilead%E2%80%99s-hiv-treatments-could.html"
-            }
-        ],
-        "avgScore": 0.33525,
-        "pctChange": 0.0172966695077033
-    },
-    "coef": -0.18571428571428572,
-    "avgCoef": -0.015009667154077906,
+    "coef": -0.15789473684210525,
+    "avgCoef": -0.01977599975941221,
     "similar": {
-        "NGD": 0.1,
-        "HLN": 0.0987012987012987,
-        "BMY": 0.07922077922077922,
-        "KO": 0.022077922077922082
+        "HLN": 0.10676691729323308,
+        "NGD": 0.09774436090225563,
+        "BMY": 0.09022556390977443,
+        "KO": 0.02857142857142857
     }
 }

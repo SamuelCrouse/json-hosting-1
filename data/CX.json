@@ -51,38 +51,12 @@
         "avgScore": 0.2263,
         "pctChange": -0.05980068681976942
     },
-    "3 26 2025": {
-        "importantArticles": [
-            {
-                "headline": "We recently published a list of Pulse of The Market: Tuesday\u2019s 10 Top Performers. In this article, we are going to take a look at where Cemex SAB de CV (NYSE:CX) stands against other Tuesday\u2019s top performers. A lackluster trading persisted on the stock market on Tuesday, with all major indices finishing in the green [\u2026]",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.3818",
-                "source": "Insider Monkey",
-                "ticker": "CX",
-                "title": "Why Cemex SAB de CV (CX) Went Up On Tuesday?",
-                "url": "https://finance.yahoo.com/news/why-cemex-sab-cv-cx-113130229.html"
-            },
-            {
-                "headline": "We recently published a list of Pulse of The Market: Tuesday\u2019s 10 Top Performers. In this article, we are going to take a look at where Cemex SAB de CV (NYSE:CX) stands against other Tuesday\u2019s top performers. A lackluster trading persisted on the stock market on Tuesday, with all major indices finishing in the green [\u2026]",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.3818",
-                "source": "Insider Monkey",
-                "ticker": "CX",
-                "title": "Why Cemex SAB de CV (CX) Went Up On Tuesday?",
-                "url": "https://finance.yahoo.com/news/why-cemex-sab-cv-cx-113130229.html"
-            }
-        ],
-        "avgScore": 0.3818,
-        "pctChange": 0.005008382463218261
-    },
-    "coef": 0.5,
-    "avgCoef": -0.013045984160313486,
+    "coef": 0.9999999999999999,
+    "avgCoef": -0.02270168033811575,
     "similar": {
-        "SPY": 1.0,
-        "TSLA": 1.0,
-        "PLTR": 1.0,
-        "AAL": 1.0
+        "SPY": 0.9999999999999999,
+        "NVDA": 0.9999999999999999,
+        "TSLA": 0.9999999999999999,
+        "INTC": 0.9999999999999999
     }
 }

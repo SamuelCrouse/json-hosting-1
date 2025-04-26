@@ -241,11 +241,11 @@
         "avgScore": -0.25,
         "pctChange": -0.04303087522950856
     },
-    "4 3 2025": {
+    "4 2 2025": {
         "importantArticles": [
             {
                 "headline": "The AES Corporation (NYSE: AES) will host a conference call on Friday, May 2, 2025 at 10:00 a.m. Eastern Time (ET) to review its first quarter 2025 financial results.",
-                "publication_date": "2025-04-03T00:00:00.000Z",
+                "publication_date": "2025-04-02T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
                 "source": "PR Newswire",
@@ -255,7 +255,7 @@
             },
             {
                 "headline": "The AES Corporation (NYSE: AES) will host a conference call on Friday, May 2, 2025 at 10:00 a.m. Eastern Time (ET) to review its first quarter 2025 financial results.",
-                "publication_date": "2025-04-03T00:00:00.000Z",
+                "publication_date": "2025-04-02T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
                 "source": "PR Newswire",
@@ -265,7 +265,7 @@
             }
         ],
         "avgScore": 0.0,
-        "pctChange": -0.09411764045900106
+        "pctChange": -0.04647435456573124
     },
     "4 1 2025": {
         "importantArticles": [
@@ -334,11 +334,11 @@
         "pctChange": 0.008892454138634334
     },
     "coef": 0.39999999999999997,
-    "avgCoef": 0.00249518817617458,
+    "avgCoef": -0.015099337091009132,
     "similar": {
-        "ERIC": 0.7666666666666667,
+        "ERIC": 0.8333333333333333,
         "BMY": 0.7666666666666667,
-        "AQN": 0.7,
-        "BTG": 0.6833333333333333
+        "UAA": 0.6,
+        "BTG": 0.5833333333333334
     }
 }

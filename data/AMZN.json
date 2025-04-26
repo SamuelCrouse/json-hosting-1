@@ -2,6 +2,16 @@
     "4 25 2025": {
         "importantArticles": [
             {
+                "headline": "We recently published a list of 10 Best Stocks to Invest in for Long Term. In this article, we are going to take a look at where Amazon.com, Inc. (NASDAQ:AMZN) stands against other best stocks to invest in for long term. The markets have had two monster years with the S&P 500 index surging 24.73% [\u2026]",
+                "publication_date": "2025-04-25T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8555",
+                "source": "Insider Monkey",
+                "ticker": "AMZN",
+                "title": "Is Amazon.com, Inc. (AMZN) the Best Stock to Invest in for Long Term?",
+                "url": "https://finance.yahoo.com/news/amazon-com-inc-amzn-best-203406148.html"
+            },
+            {
                 "headline": "Amazon has, for the most part, been winning -- it's one of the most valuable companies in the world, with a market cap close to $2 trillion.  Tariffs, however, introduce a new risk for the e-commerce giant.  While they might help fend off low-priced rivals from overseas, many of the sellers on Amazon's marketplace will also have to raise prices to offset the impact of tariffs.",
                 "publication_date": "2025-04-25T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -12,24 +22,24 @@
                 "url": "https://finance.yahoo.com/news/tariffs-help-hurt-amazons-business-073200592.html"
             },
             {
-                "headline": "Mag 7 earnings kick off and investors will be keen to see if they are still magnificent.",
+                "headline": "Here's what investors are watching during the week starting Monday, April 28. \"Magnificent Seven\" earnings will continue, with Microsoft (MSFT), Meta (META), Apple (AAPL), and Amazon (AMZN) set to release quarterly results throughout the week. The market will receive fresh economic data on Wednesday, when Personal Consumption Expenditure (PCE) data will be released, and on Friday, when the newest jobs report will be released. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime here.",
                 "publication_date": "2025-04-25T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.7506",
-                "source": "Yahoo Finance UK",
+                "sentimentScore": "0.7522",
+                "source": "Yahoo Finance Video",
                 "ticker": "AMZN",
-                "title": "Are Magnificent 7 stocks still worth the hype? Here's how readers voted",
-                "url": "https://finance.yahoo.com/news/magnificent-7-stocks-tesla-alphabet-poll-110321190.html"
+                "title": "Mag 7 earnings, PCE data, April jobs report: What to Watch",
+                "url": "https://finance.yahoo.com/video/mag-7-earnings-pce-data-230000022.html"
             },
             {
-                "headline": "In his final letter as Amazon.com's (NASDAQ:AMZN) CEO, Jeff Bezos left more than business advice \u2014 he delivered a message that speaks to anyone fighting to stay authentic in a world built for conformity. What Happened: Bezos, who stepped down as Amazon's CEO in 2021 after founding the company nearly three decades earlier, used his final annual shareholder letter to share a powerful parting thought. Drawing inspiration from evolutionary biologist Richard Dawkins, he explained that survival \u2014 in b",
+                "headline": "The stock market braces for a big week for earnings, economic news and trade war issues. Apple, Amazon, Pfizer and Chevron report.",
                 "publication_date": "2025-04-25T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7096",
-                "source": "Benzinga",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.4939",
+                "source": "Investor's Business Daily",
                 "ticker": "AMZN",
-                "title": "Jeff Bezos' Final CEO Letter Isn't Just About Amazon \u2014 It Is A Clarion Call For Resisting Normality: 'The World Wants You To Be Typical...Don't Let It Happen'",
-                "url": "https://finance.yahoo.com/news/jeff-bezos-final-ceo-letter-023628039.html"
+                "title": "Investing Action Plan: Apple, Amazon, Pfizer, Caterpillar And Sparring With The Fed",
+                "url": "https://finance.yahoo.com/m/8a14136c-151e-3e34-8509-e681b8857b6a/investing-action-plan-apple-.html"
             },
             {
                 "headline": "Amazon.com's (AMZN) second-quarter revenue is likely to take a hit as investors prepare for \"worse t",
@@ -50,19 +60,9 @@
                 "ticker": "AMZN",
                 "title": "Amazon or Alphabet: Top Analyst Selects the Superior Tech Stock to Buy Ahead of Earnings",
                 "url": "https://finance.yahoo.com/news/amazon-alphabet-top-analyst-selects-101629308.html"
-            },
-            {
-                "headline": "Earnings preview of key companies reporting next week and what to look out for.",
-                "publication_date": "2025-04-25T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Yahoo Finance UK",
-                "ticker": "AMZN",
-                "title": "Stocks to watch next week: Apple, Microsoft, Shell, HSBC, Lloyds and AstraZeneca",
-                "url": "https://finance.yahoo.com/news/apple-microsoft-shell-hsbc-lloyds-astrazeneca-stocks-to-watch-050019911.html"
             }
         ],
-        "avgScore": 0.26998235294117656,
+        "avgScore": 0.3129208333333333,
         "pctChange": 0.006953181935401627
     },
     "4 24 2025": {
@@ -128,7 +128,7 @@
                 "url": "https://finance.yahoo.com/news/tariffs-weigh-trucking-giants-old-211008925.html"
             }
         ],
-        "avgScore": 0.28776296296296294,
+        "avgScore": 0.26050000000000006,
         "pctChange": 0.013133978209558462
     },
     "4 23 2025": {
@@ -194,7 +194,7 @@
                 "url": "https://finance.yahoo.com/news/big-tech-earnings-kick-off-as-tariff-uncertainty-continues-to-roil-markets-160016313.html"
             }
         ],
-        "avgScore": 0.2967068965517241,
+        "avgScore": 0.31124375,
         "pctChange": 0.03289029336584035
     },
     "4 22 2025": {
@@ -220,14 +220,14 @@
                 "url": "https://finance.yahoo.com/news/amazon-com-inc-amzn-best-060319052.html"
             },
             {
-                "headline": "Wells Fargo analysts said the magnitude of Amazon's pause was unclear, but it was similar to Microsoft's recent pullback.  Rather than canceling any signed deals, Amazon is \"digesting aggressive recent lease-up deals,\" the analysts said.  \"It does appear like the hyperscalers (big cloud companies) are being more discerning with leasing large clusters of power, and tightening up pre-lease windows for capacity that (would) be delivered before the end of 2026,\" they said in a note, adding that the likes of Meta, Alphabet-owned  Google and Oracle remain active in leasing.",
+                "headline": "Amazon and Walmart might benefit from negotiations for U.S. companies to gain broader access to India\u2019s huge e-commerce market.",
                 "publication_date": "2025-04-22T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.8922",
-                "source": "Reuters",
+                "sentimentScore": "0.8555",
+                "source": "Barrons.com",
                 "ticker": "AMZN",
-                "title": "Amazon has halted some data center leasing talks, Wells Fargo analysts say",
-                "url": "https://finance.yahoo.com/news/amazon-halted-data-center-leasing-220311976.html"
+                "title": "Amazon and Walmart Stocks Are Casualties of Trump\u2019s Tariffs. Here\u2019s a Way They Could Benefit.",
+                "url": "https://finance.yahoo.com/m/bf993082-5216-3de3-8a3d-4c1adc5c46a4/amazon-and-walmart-stocks-are.html"
             },
             {
                 "headline": "Amazon stock has been hit by fears about tariffs and e-commerce but analysts are warning about cloud risks as well.",
@@ -260,7 +260,7 @@
                 "url": "https://finance.yahoo.com/news/amazon-com-inc-amzn-price-131301536.html"
             }
         ],
-        "avgScore": 0.37379062499999993,
+        "avgScore": 0.37088437499999993,
         "pctChange": 0.0428456735278061
     },
     "4 21 2025": {
@@ -276,6 +276,16 @@
                 "url": "https://finance.yahoo.com/m/b3559f48-d489-396d-b461-3cd3b5e34ea3/amazon-pushes-vendors-on.html"
             },
             {
+                "headline": "Wells Fargo analysts said the magnitude of Amazon's pause was unclear, but it was similar to Microsoft's recent pullback.  Rather than canceling any signed deals, Amazon is \"digesting aggressive recent lease-up deals,\" the analysts said.  \"It does appear like the hyperscalers (big cloud companies) are being more discerning with leasing large clusters of power, and tightening up pre-lease windows for capacity that (would) be delivered before the end of 2026,\" they said in a note, adding that the likes of Meta, Alphabet-owned  Google and Oracle remain active in leasing.",
+                "publication_date": "2025-04-21T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8922",
+                "source": "Reuters",
+                "ticker": "AMZN",
+                "title": "Amazon has halted some data center leasing talks, Wells Fargo analysts say",
+                "url": "https://finance.yahoo.com/news/amazon-halted-data-center-leasing-220311976.html"
+            },
+            {
                 "headline": "Bank of America kept a $225 price target and a Buy rating on Amazon (AMZN) stock today, citing the tech conglomerate\u2019s valuation, the strength of its cloud-infrastructure unit, and its rising retail margins. Amazon Versus Walmart (WMT) Amazon is changing hands for 23 times analysts\u2019 average 2026 earnings per share estimate, while WMT\u2019s equivalent forward [\u2026]",
                 "publication_date": "2025-04-21T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -284,16 +294,6 @@
                 "ticker": "AMZN",
                 "title": "Why Bank of America Remains Bullish on Amazon (AMZN) Stock",
                 "url": "https://finance.yahoo.com/news/why-bank-america-remains-bullish-185230457.html"
-            },
-            {
-                "headline": "Wall Street might still be underestimating the risk tariffs pose to Amazon.com's earnings, even though the tech giant's stock has already dropped 21% year-to-date, an analyst said Monday.  Raymond James analyst Josh Beck downgraded Amazon to an outperform call from a strong buy rating and cut his price target to 195 from 275.  Beck on Monday wrote that after analyzing Amazon's investment plans, Raymond James analysts \"walk away with a bias that the Street is underestimating EBIT (earnings before interest and taxes) pressures in 2025-2026 and thus downgrade from Strong Buy to Outperform as we look for greater investment/return-on-investment visibility.\"",
-                "publication_date": "2025-04-21T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7845",
-                "source": "Investor's Business Daily",
-                "ticker": "AMZN",
-                "title": "Amazon Stock Downgraded From Strong Buy Call On Tariff Risks",
-                "url": "https://finance.yahoo.com/m/8e396410-ed21-397e-b558-c89bccdbbf8b/amazon-stock-downgraded-from.html"
             },
             {
                 "headline": "We recently published a list of Billionaire Rob Citrone\u2019s Top 10 Stock Picks. In this article, we are going to take a look at where Amazon.com Inc. (NASDAQ:AMZN) stands against other billionaire Rob Citrone\u2019s top stock picks. Robert K. Citrone is a well-known figure in the financial world. Rob, as many call him, is the [\u2026]",
@@ -326,7 +326,7 @@
                 "url": "https://finance.yahoo.com/news/amazon-stock-slips-price-target-190838946.html"
             }
         ],
-        "avgScore": 0.17439500000000002,
+        "avgScore": 0.1979,
         "pctChange": 0.03502262189247643
     },
     "4 17 2025": {
@@ -474,24 +474,24 @@
                 "url": "https://finance.yahoo.com/news/every-purchase-matters-fair-trade-142200960.html"
             },
             {
-                "headline": "The market may feel like a roller coaster right now. These stocks are poised to weather the storm and make you wealthy for years beyond it.",
+                "headline": "Amazon.com has emailed its third-party sellers in recent days asking how tariffs are impacting their businesses, from sourcing to pricing strategies and international sales, according to a copy viewed by The Wall Street Journal.  \u201cWe\u2019re still dealing with the repercussions of various tariff policies, and I believe it\u2019s crucial for us that you share current experiences and strategies,\u201d the email says.  Amazon also asked in the email about the merchants\u2019 use of the company\u2019s logistics services, which many sellers use to pack and ship their products.",
                 "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.7184",
-                "source": "Motley Fool",
+                "sentimentScore": "0.4404",
+                "source": "The Wall Street Journal",
                 "ticker": "AMZN",
-                "title": "3 Stocks That Could Be Easy Wealth Builders",
-                "url": "https://finance.yahoo.com/news/3-stocks-could-easy-wealth-100500004.html"
+                "title": "Amazon Asks Its Sellers About Tariff Impacts",
+                "url": "https://finance.yahoo.com/m/f5c25619-6daa-3c3f-903f-4690319d2a74/amazon-asks-its-sellers-about.html"
             },
             {
-                "headline": "On one hand, it's understandable that Amazon's (NASDAQ: AMZN) share price fell as much as 29% below its previous high during the recent market sell-off.  After all, the company's e-commerce revenue could be at risk if tariffs lead to an economic decline that causes consumer spending to sink.  On the other hand, I'd argue that Amazon is more insulated from a faltering economy than meets the eye.",
+                "headline": "Investment management company Vulcan Value Partners recently released its first-quarter 2025 investor letter. A copy of the letter can be downloaded here. The first quarter experienced the return of volatility. The companies\u2019 management teams expressed a more cautious view following the recent election. Optimism has given way to uncertainty about tariffs and potential impacts on earnings, inflation, [\u2026]",
                 "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.7003",
-                "source": "Motley Fool",
+                "sentimentScore": "0.4228",
+                "source": "Insider Monkey",
                 "ticker": "AMZN",
-                "title": "Stock Market Whiplash: 3 Growth Stocks That Are No-Brainer Buys on the Bounce",
-                "url": "https://finance.yahoo.com/news/stock-market-whiplash-3-growth-084500504.html"
+                "title": "Amazon.com (AMZN) Sold Off in Q1 Along with Peers",
+                "url": "https://finance.yahoo.com/news/amazon-com-amzn-sold-off-123417508.html"
             },
             {
                 "headline": "We recently published a list of Jim Cramer\u2019s Game Plan: 15 Stocks to Watch. In this article, we are going to take a look at where Amazon.com, Inc. (NASDAQ:AMZN) stands against other stocks that Jim Cramer discusses. On Friday, Mad Money host Jim Cramer outlined what investors should focus on in the week, especially pointing [\u2026]",
@@ -524,81 +524,15 @@
                 "url": "https://finance.yahoo.com/news/amazon-com-inc-amzn-hit-171748458.html"
             }
         ],
-        "avgScore": 0.26110666666666665,
+        "avgScore": 0.11217000000000002,
         "pctChange": -0.02928890591956743
     },
-    "4 14 2025": {
-        "importantArticles": [
-            {
-                "headline": "Investment banks JMP Securities and CFRA today issued bullish notes on Amazon (AMZN) and JPMorgan (JPM), respectively. However, both banks cut their price targets on each of the stocks. JMP Securities\u2019 Bullish Take on AMZN Although AMZN\u2019s growth is likely to slow as its e-commerce business decelerates, its share of the e-commerce market will probably [\u2026]",
-                "publication_date": "2025-04-14T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7906",
-                "source": "Insider Monkey",
-                "ticker": "AMZN",
-                "title": "Bullish Notes Issued on Amazon (AMZN), JPMorgan (JPM)",
-                "url": "https://finance.yahoo.com/news/bullish-notes-issued-amazon-amzn-182741554.html"
-            },
-            {
-                "headline": "The space race is heating up, with Blue Origin, SpaceX (SPAX.PVT), Rocketlab, and Amazon (AMZN) Project Kuiper each making significant strides. Andrew Chanin, co-founder and CEO of ProcureAM, joins Catalysts to discuss new developments, competition, and diversification in the launch industry, as well as space race satellite companies to keep an eye on. To watch more expert insights and analysis on the latest market action, check out more Catalysts&nbsp;here.",
-                "publication_date": "2025-04-14T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.5574",
-                "source": "Yahoo Finance Video",
-                "ticker": "AMZN",
-                "title": "Space race investing: What to know about the growing sector",
-                "url": "https://finance.yahoo.com/video/space-race-investing-know-growing-201109117.html"
-            },
-            {
-                "headline": "This is what could happen next to Amazon shares.",
-                "publication_date": "2025-04-14T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4404",
-                "source": "TheStreet",
-                "ticker": "AMZN",
-                "title": "Analysts reboot Amazon stock price targets",
-                "url": "https://finance.yahoo.com/news/analysts-reboot-amazon-stock-price-173300794.html"
-            },
-            {
-                "headline": "This is what could happen next to Amazon shares.",
-                "publication_date": "2025-04-14T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4404",
-                "source": "TheStreet",
-                "ticker": "AMZN",
-                "title": "Analysts reboot Amazon stock price targets",
-                "url": "https://finance.yahoo.com/news/analysts-reboot-amazon-stock-price-173300794.html"
-            },
-            {
-                "headline": "The space race is heating up, with Blue Origin, SpaceX (SPAX.PVT), Rocketlab, and Amazon (AMZN) Project Kuiper each making significant strides. Andrew Chanin, co-founder and CEO of ProcureAM, joins Catalysts to discuss new developments, competition, and diversification in the launch industry, as well as space race satellite companies to keep an eye on. To watch more expert insights and analysis on the latest market action, check out more Catalysts&nbsp;here.",
-                "publication_date": "2025-04-14T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.5574",
-                "source": "Yahoo Finance Video",
-                "ticker": "AMZN",
-                "title": "Space race investing: What to know about the growing sector",
-                "url": "https://finance.yahoo.com/video/space-race-investing-know-growing-201109117.html"
-            },
-            {
-                "headline": "Investment banks JMP Securities and CFRA today issued bullish notes on Amazon (AMZN) and JPMorgan (JPM), respectively. However, both banks cut their price targets on each of the stocks. JMP Securities\u2019 Bullish Take on AMZN Although AMZN\u2019s growth is likely to slow as its e-commerce business decelerates, its share of the e-commerce market will probably [\u2026]",
-                "publication_date": "2025-04-14T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7906",
-                "source": "Insider Monkey",
-                "ticker": "AMZN",
-                "title": "Bullish Notes Issued on Amazon (AMZN), JPMorgan (JPM)",
-                "url": "https://finance.yahoo.com/news/bullish-notes-issued-amazon-amzn-182741554.html"
-            }
-        ],
-        "avgScore": 0.5961333333333333,
-        "pctChange": -0.013891933050343617
-    },
-    "coef": -0.3666666666666667,
-    "avgCoef": -0.0018650605382546427,
+    "coef": -0.2380952380952381,
+    "avgCoef": -0.017787686695697028,
     "similar": {
-        "WBD": 0.54393781569122,
-        "UAA": 0.5166666666666667,
-        "HIMS": 0.43333333333333335,
-        "ERIC": 0.3666666666666667
+        "LCID": 0.4761904761904762,
+        "NKE": 0.4761904761904762,
+        "WBD": 0.4311454542887732,
+        "HIMS": 0.38095238095238104
     }
 }

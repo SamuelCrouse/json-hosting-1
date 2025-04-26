@@ -68,16 +68,6 @@
     "4 24 2025": {
         "importantArticles": [
             {
-                "headline": "(Bloomberg) -- Taiwan Semiconductor Manufacturing Co. plans to begin production with its A14 fabrication process in 2028, aiming to remain at the cutting edge of the chip industry. Most Read from BloombergTrump Gives New York \u2018One Last Chance\u2019 to End Congestion FeeWhy Car YouTuber Matt Farah Is Fighting for Walkable CitiesBackyard Micro-Flats Aim to Ease South Africa\u2019s Housing CrisisThe Racial Wealth Gap Is Not Just About MoneyTo Fuel Affordable Housing, This Innovation Fund Targets Predevelopme",
-                "publication_date": "2025-04-24T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6486",
-                "source": "Bloomberg",
-                "ticker": "TSM",
-                "title": "TSMC\u2019s Cutting-Edge A14 Chip Tech to Start Production in 2028",
-                "url": "https://finance.yahoo.com/news/tsmc-cutting-edge-a14-chip-014030050.html"
-            },
-            {
                 "headline": "Following gains in Tuesday and Wednesday's trading, Taiwan Semiconductor Manufacturing (NYSE: TSM) stock is moving higher again Thursday trading.  The contract semiconductor fabrication leader's share price was up 4.2% as of 2:30 p.m. ET.  At the same point in the day, the S&P 500 was up 1.8%, and the Nasdaq Composite was up 2.3%.",
                 "publication_date": "2025-04-24T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -96,6 +86,16 @@
                 "ticker": "TSM",
                 "title": "Intel CEO says he met with TSMC CEO to discuss collaboration",
                 "url": "https://finance.yahoo.com/news/intel-ceo-says-met-tsmc-222916227.html"
+            },
+            {
+                "headline": "Economic uncertainty and trade tensions have spooked the market, but buying these top AI stocks could be a genius move in hindsight.",
+                "publication_date": "2025-04-24T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.09",
+                "source": "Motley Fool",
+                "ticker": "TSM",
+                "title": "3 No-Brainer Artificial Intelligence (AI) Stocks to Buy Right Now",
+                "url": "https://finance.yahoo.com/news/3-no-brainer-artificial-intelligence-080900287.html"
             },
             {
                 "headline": "With A14, TSMC pushes chip design deeper into AI, targeting faster speeds, denser logic, and lower power use",
@@ -118,17 +118,17 @@
                 "url": "https://finance.yahoo.com/news/asml-holding-stock-buy-now-131500569.html"
             },
             {
-                "headline": "Taiwan Semiconductor Manufacturing Co\u2019s (NYSE:TSM) Arizona factory\u2019s substantial losses reflect the repercussions of Washington\u2019s attempt to restructure global semiconductor supply chains through political intervention. The chipmaker\u2019s Arizona ...",
+                "headline": "Economic uncertainty and trade tensions have spooked the market, but buying these top AI stocks could be a genius move in hindsight.",
                 "publication_date": "2025-04-24T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.2263",
-                "source": "Benzinga",
+                "sentimentScore": "-0.09",
+                "source": "Motley Fool",
                 "ticker": "TSM",
-                "title": "Taiwan Semiconductor's Arizona Factory Faces $441 Million Loss Amid Supply Chain, Labor Cost Challenges",
-                "url": "https://finance.yahoo.com/news/taiwan-semiconductors-arizona-factory-faces-023017361.html"
+                "title": "3 No-Brainer Artificial Intelligence (AI) Stocks to Buy Right Now",
+                "url": "https://finance.yahoo.com/news/3-no-brainer-artificial-intelligence-080900287.html"
             }
         ],
-        "avgScore": 0.04909999999999999,
+        "avgScore": -0.01571999999999999,
         "pctChange": 0.00560368783516269
     },
     "4 23 2025": {
@@ -194,7 +194,7 @@
                 "url": "https://finance.yahoo.com/news/jim-cramer-praises-taiwan-semiconductor-221345259.html"
             }
         ],
-        "avgScore": 0.2743642857142857,
+        "avgScore": 0.2664625,
         "pctChange": 0.040364965564506555
     },
     "4 22 2025": {
@@ -372,7 +372,7 @@
                 "url": "https://finance.yahoo.com/news/taiwan-semiconductor-manufacturing-company-tsm-171055800.html"
             }
         ],
-        "avgScore": 0.05271714285714292,
+        "avgScore": 0.005473529411764733,
         "pctChange": -0.025570085292947322
     },
     "4 16 2025": {
@@ -438,7 +438,7 @@
                 "url": "https://finance.yahoo.com/video/netflix-unitedhealth-earnings-housing-data-230000837.html"
             }
         ],
-        "avgScore": 0.1731555555555556,
+        "avgScore": 0.2149550000000001,
         "pctChange": 0.0004615766141222524
     },
     "4 15 2025": {
@@ -504,7 +504,7 @@
                 "url": "https://finance.yahoo.com/news/prediction-3-stocks-thatll-worth-134500902.html"
             }
         ],
-        "avgScore": 0.04757857142857142,
+        "avgScore": 0.05123846153846153,
         "pctChange": -0.0359753613184804
     },
     "4 14 2025": {
@@ -570,7 +570,7 @@
                 "url": "https://finance.yahoo.com/news/nvidia-commits-500-billion-to-ai-infrastructure-buildout-in-us-will-bring-supercomputer-production-to-texas-143540782.html"
             }
         ],
-        "avgScore": 0.2887636363636364,
+        "avgScore": 0.26470000000000005,
         "pctChange": 0.00956112376910898
     },
     "4 11 2025": {
@@ -728,14 +728,14 @@
                 "url": "https://finance.yahoo.com/news/us-may-fine-tsmc-1b-153142770.html"
             },
             {
-                "headline": "Bucking the trend, however, shares of Intel (NASDAQ: INTC) were up 13.3%.  After years of underperformance, Intel has shown signs of turning the tide over the course of the last few months.  Most recently, Intel revived a bump from the news that it and Taiwan Semiconductor Manufacturing Company (TSMC) -- the world's premiere chip manufacturer -- had reportedly reached an agreement that could revitalize Intel's struggling foundry business.",
+                "headline": "Semiconductor giant Intel (NASDAQ: INTC) has a new CEO ready to shake up the company after years of disappointing results.  Intel has been losing market share to AMD in its core CPU businesses, struggling to gain a foothold in the AI accelerator market, and pouring billions into new factories and manufacturing technology.  Intel is making progress on the foundry front.",
                 "publication_date": "2025-04-09T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.4588",
+                "sentimentScore": "0.1531",
                 "source": "Motley Fool",
                 "ticker": "TSM",
-                "title": "Why Intel Stock Was Up 13.3% in Q1 as the S&P 500 Had Its Worst Quarter Since 2022",
-                "url": "https://finance.yahoo.com/news/why-intel-stock-13-3-012203754.html"
+                "title": "Will Intel Stock Be a Trade War Winner?",
+                "url": "https://finance.yahoo.com/news/intel-stock-trade-war-winner-102000970.html"
             },
             {
                 "headline": "Trump Demands TSMC Build in U.S. or Face Major Tax Penalty",
@@ -748,16 +748,6 @@
                 "url": "https://finance.yahoo.com/news/president-trump-warns-tsmc-100-124833731.html"
             },
             {
-                "headline": "Speaking at a Republican National Congressional Committee event, Trump criticized former President Joe Biden's administration for providing a $6.6 billion grant to TSMC's U.S. unit for semiconductor production in Phoenix, Arizona, saying semiconductor companies do not need the money.  \"TSMC, I gave them no money ... all I did was say, if you don't build your plant here, you're going to pay a big tax,\" Trump said.  TSMC declined to comment.",
-                "publication_date": "2025-04-09T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.3818",
-                "source": "Reuters",
-                "ticker": "TSM",
-                "title": "Trump says he told TSMC it would pay 100% tax if it doesn't build in US",
-                "url": "https://finance.yahoo.com/news/trump-says-told-tsmc-pay-005809794.html"
-            },
-            {
                 "headline": "The probe concerns a chip TSMC manufactured that ended up in a Huawei AI processor.",
                 "publication_date": "2025-04-09T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -766,9 +756,19 @@
                 "ticker": "TSM",
                 "title": "TSMC may face $1bn-plus penalty in US export case",
                 "url": "https://finance.yahoo.com/news/tsmc-may-face-1bn-plus-100211908.html"
+            },
+            {
+                "headline": "And we take a look at Texas Instruments and Taiwan Semiconductor.",
+                "publication_date": "2025-04-09T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Motley Fool",
+                "ticker": "TSM",
+                "title": "Tesla Underdelivers",
+                "url": "https://finance.yahoo.com/news/tesla-underdelivers-134600733.html"
             }
         ],
-        "avgScore": 0.1224,
+        "avgScore": 0.14637142857142857,
         "pctChange": -0.04799996924212598
     },
     "4 8 2025": {
@@ -834,7 +834,7 @@
                 "url": "https://finance.yahoo.com/news/tsmc-could-face-1b-us-193911645.html"
             }
         ],
-        "avgScore": 0.04094285714285715,
+        "avgScore": 0.0406375,
         "pctChange": 0.12293984213839357
     },
     "4 7 2025": {
@@ -860,14 +860,14 @@
                 "url": "https://finance.yahoo.com/news/why-tsmc-tsm-dipped-more-214516626.html"
             },
             {
-                "headline": "Two of Asia\u2019s biggest technology names\u2014both with deep links to Apple\u2014were especially hard-hit in the Asian market plunge Monday.  Taiwan Semiconductor Manufacturing, which makes chips for Apple\u2019s iPhones and other products, and Foxconn, which assembles the phones, both were down about 10%.",
+                "headline": "Global stock markets are down across the board. Here are some notable movers: \u2198\ufe0f HSBC (HSBC); Wells Fargo (WFC); JPMorgan (JPM): Major European and U.S. bank stocks pared losses amid volatile trading.",
                 "publication_date": "2025-04-07T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.1779",
                 "source": "The Wall Street Journal",
                 "ticker": "TSM",
-                "title": "Apple-Linked Tech Stocks Are Hard-Hit in Asia",
-                "url": "https://finance.yahoo.com/m/6fe8ec1c-ae04-3aae-8114-4e438ff10a2e/apple-linked-tech-stocks-are.html"
+                "title": "Stocks to Watch Monday: Tencent, HSBC, Alibaba, TSMC",
+                "url": "https://finance.yahoo.com/m/b64b9053-f7dc-3a0e-bc26-826f762343df/stocks-to-watch-monday-.html"
             },
             {
                 "headline": "Global semiconductor stocks opened sharply lower, extending losses from last week as investors digest the extent of U.S. tariffs on chip-making hubs such as Taiwan.",
@@ -900,7 +900,7 @@
                 "url": "https://finance.yahoo.com/m/b64b9053-f7dc-3a0e-bc26-826f762343df/stocks-to-watch-monday-.html"
             }
         ],
-        "avgScore": -0.025283333333333352,
+        "avgScore": -0.030340000000000023,
         "pctChange": -0.03283849703692205
     },
     "4 4 2025": {
@@ -969,12 +969,12 @@
         "avgScore": 0.39625,
         "pctChange": -0.0042915863059647
     },
-    "coef": 0.2071428571428571,
-    "avgCoef": -0.013898903844064659,
+    "coef": 0.2714285714285714,
+    "avgCoef": -0.02072432561560528,
     "similar": {
-        "AAL": 0.5535714285714285,
-        "RXRX": 0.4535714285714285,
-        "RIG": 0.42499999999999993,
-        "PTEN": 0.4075068651343343
+        "PTEN": 0.584450635521611,
+        "AAL": 0.5678571428571427,
+        "RIG": 0.5357142857142856,
+        "IONQ": 0.47142857142857136
     }
 }

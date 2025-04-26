@@ -2,16 +2,6 @@
     "4 24 2025": {
         "importantArticles": [
             {
-                "headline": "We recently published a list of 20 Takeover Rumors Hedge Funds Are Buying. In this article, we are going to take a look at where Insmed Incorporated (NASDAQ:INSM) stands against other takeover rumor stocks hedge funds are buying. Hedge funds tend to pile up on a stock that gains or is expected to gain positive [\u2026]",
-                "publication_date": "2025-04-24T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8555",
-                "source": "Insider Monkey",
-                "ticker": "INSM",
-                "title": "Insmed Incorporated (INSM): Among Takeover Rumors Hedge Funds Are Buying",
-                "url": "https://finance.yahoo.com/news/insmed-incorporated-insm-among-takeover-004658190.html"
-            },
-            {
                 "headline": "Insmed Incorporated (Nasdaq: INSM), a people-first global biopharmaceutical company striving to deliver first- and best-in-class therapies to transform the lives of patients facing serious diseases, today announced that it has called all $569.5 million aggregate principal amount of its remaining outstanding 0.75% Convertible Senior Notes Due 2028 (the \"Notes\") (CUSIP No. 457669AB5) for redemption on June 6, 2025 (the \"Redemption Date\"). Insmed is redeeming the Notes as permitted under Section 11",
                 "publication_date": "2025-04-24T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -50,24 +40,24 @@
                 "ticker": "INSM",
                 "title": "Insmed Announces Redemption of all $569.5 Million of Remaining Outstanding 0.75% Convertible Senior Notes Due 2028",
                 "url": "https://finance.yahoo.com/news/insmed-announces-redemption-569-5-110000526.html"
-            },
-            {
-                "headline": "We recently published a list of 20 Takeover Rumors Hedge Funds Are Buying. In this article, we are going to take a look at where Insmed Incorporated (NASDAQ:INSM) stands against other takeover rumor stocks hedge funds are buying. Hedge funds tend to pile up on a stock that gains or is expected to gain positive [\u2026]",
-                "publication_date": "2025-04-24T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8555",
-                "source": "Insider Monkey",
-                "ticker": "INSM",
-                "title": "Insmed Incorporated (INSM): Among Takeover Rumors Hedge Funds Are Buying",
-                "url": "https://finance.yahoo.com/news/insmed-incorporated-insm-among-takeover-004658190.html"
             }
         ],
-        "avgScore": 0.4055666666666667,
+        "avgScore": 0.1806,
         "pctChange": 0.010585895687721444
     },
     "4 23 2025": {
         "importantArticles": [
             {
+                "headline": "We recently published a list of 20 Takeover Rumors Hedge Funds Are Buying. In this article, we are going to take a look at where Insmed Incorporated (NASDAQ:INSM) stands against other takeover rumor stocks hedge funds are buying. Hedge funds tend to pile up on a stock that gains or is expected to gain positive [\u2026]",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8555",
+                "source": "Insider Monkey",
+                "ticker": "INSM",
+                "title": "Insmed Incorporated (INSM): Among Takeover Rumors Hedge Funds Are Buying",
+                "url": "https://finance.yahoo.com/news/insmed-incorporated-insm-among-takeover-004658190.html"
+            },
+            {
                 "headline": "Insmed Incorporated (Nasdaq: INSM), a people-first global biopharmaceutical company striving to deliver first- and best-in-class therapies to transform the lives of patients facing serious diseases, today announced that positive results from the pivotal phase 3 ASPEN study of brensocatib in patients with non-cystic fibrosis bronchiectasis were published in the New England Journal of Medicine (NEJM). The landmark ASPEN study is the largest clinical trial ever conducted in bronchiectasis, a seriou",
                 "publication_date": "2025-04-23T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -106,9 +96,19 @@
                 "ticker": "INSM",
                 "title": "New England Journal of Medicine Publishes Positive Results from Insmed's Pivotal Phase 3 ASPEN Study of Brensocatib in Patients with Bronchiectasis",
                 "url": "https://finance.yahoo.com/news/england-journal-medicine-publishes-positive-210000836.html"
+            },
+            {
+                "headline": "We recently published a list of 20 Takeover Rumors Hedge Funds Are Buying. In this article, we are going to take a look at where Insmed Incorporated (NASDAQ:INSM) stands against other takeover rumor stocks hedge funds are buying. Hedge funds tend to pile up on a stock that gains or is expected to gain positive [\u2026]",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8555",
+                "source": "Insider Monkey",
+                "ticker": "INSM",
+                "title": "Insmed Incorporated (INSM): Among Takeover Rumors Hedge Funds Are Buying",
+                "url": "https://finance.yahoo.com/news/insmed-incorporated-insm-among-takeover-004658190.html"
             }
         ],
-        "avgScore": 0.2401,
+        "avgScore": 0.44523333333333337,
         "pctChange": -0.02598875547985549
     },
     "4 8 2025": {
@@ -163,12 +163,12 @@
         "avgScore": 0.3818,
         "pctChange": -0.001497829611856644
     },
-    "coef": 1.0,
-    "avgCoef": -0.012748782778689356,
+    "coef": 0.19999999999999998,
+    "avgCoef": -0.02036316991737093,
     "similar": {
-        "CMCSA": 1.0,
-        "NOK": 1.0,
-        "JD": 1.0,
-        "INSM": 1.0
+        "INTC": 1.0,
+        "AVTR": 1.0,
+        "GOLD": 1.0,
+        "SPY": 0.7999999999999999
     }
 }

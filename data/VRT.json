@@ -853,78 +853,12 @@
         "avgScore": -0.09053333333333335,
         "pctChange": -0.027122637619253025
     },
-    "3 26 2025": {
-        "importantArticles": [
-            {
-                "headline": "Many artificial intelligence (AI) stocks have sold off recently, presenting compelling buying opportunities for patient investors.  Here's why Vertiv Holdings (NYSE: VRT) and Nebius Group (NASDAQ: NBIS) stand out as two exciting AI stocks -- and why Nvidia is also an incredible buying opportunity hiding in plain sight.  Daniel Foelber (Nvidia): Despite blowout earnings and impressive new product innovations, Nvidia stock is down over 12% year to date at the time of this writing.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.9287",
-                "source": "Motley Fool",
-                "ticker": "VRT",
-                "title": "Hold Nvidia? Here Are 2 Unstoppable AI Stocks You Can Also Buy.",
-                "url": "https://finance.yahoo.com/news/hold-nvidia-2-unstoppable-ai-104500364.html"
-            },
-            {
-                "headline": "Shares of data center products and services company Vertiv (NYSE:VRT) fell 12% in the afternoon session after stocks pulled back (Nasdaq -1.5%, S&P 500 -1.2%) amid fresh concerns about trade tariffs. The pullback followed comments from President Trump clarifying the scope of his administration's 25% tariffs on Venezuela. He noted that it would apply to any country that does business with Venezuela. For example, 25% is on top of the already-in-place 20% tariff on China because China imports oil f",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6486",
-                "source": "StockStory",
-                "ticker": "VRT",
-                "title": "Why Vertiv (VRT) Shares Are Falling Today",
-                "url": "https://finance.yahoo.com/news/why-vertiv-vrt-shares-falling-215602697.html"
-            },
-            {
-                "headline": "Vistra  stock is dropping Tuesday, though you\u2019d have a tough time explaining why.  Same goes for  Vertiv Holdings NRG Energy GE Vernova  and Eaton.  Nvidia is the king of artificial-intelligence stocks.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.1531",
-                "source": "Barrons.com",
-                "ticker": "VRT",
-                "title": "Vistra and 11 More Stocks That Trade a Lot Like Nvidia",
-                "url": "https://finance.yahoo.com/m/3c5050dd-4f77-3f49-a33f-0d6b26f3a6a6/vistra-and-11-more-stocks.html"
-            },
-            {
-                "headline": "Vertiv Holdings  faces near-term challenges as sluggish buying of data-center equipment hurts demand for its cooling systems, TD Cowen and  Barclays  analysts argued Wednesday.  TD Cowen analysts led by Michael Elias pointed to a slowdown in orders for data-center equipment.  The shift began in January and stemmed from hyperscalers like  Microsoft  and  Alphabet  -owned Google redesigning their data centers to cram more power-hungry equipment into each server rack, they said.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.7184",
-                "source": "Barrons.com",
-                "ticker": "VRT",
-                "title": "Vertiv Stock Tumbles. Analysts See Slowing Orders for Data-Center Gear.",
-                "url": "https://finance.yahoo.com/m/167eab6a-a800-3622-8d50-3947fac61bb1/vertiv-stock-tumbles-.html"
-            },
-            {
-                "headline": "Shares in data center equipment maker Vertiv Holdings (NYSE: VRT) tumbled more than 11% by 3 p.m. today.  In addition, some analysts have a more negative outlook on Vertiv.  An analyst at Barclays reduced the company's price target on Vertiv to $100 from $111 and maintained an \"equal weight\" recommendation, citing potential pressure on revenue and margin.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.6115",
-                "source": "Motley Fool",
-                "ticker": "VRT",
-                "title": "Why Shares in Vertiv Crashed Today",
-                "url": "https://finance.yahoo.com/news/why-shares-vertiv-crashed-today-202400320.html"
-            },
-            {
-                "headline": "U.S. equities were mostly lower at midday as tech stocks dragged down the Nasdaq and S&P 500.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.34",
-                "source": "Investopedia",
-                "ticker": "VRT",
-                "title": "Top Stock Movers Now: Nvidia, Vertiv, Dollar Tree, and More",
-                "url": "https://finance.yahoo.com/news/top-stock-movers-now-nvidia-155508336.html"
-            }
-        ],
-        "avgScore": 0.012328571428571402,
-        "pctChange": -0.06493510013977252
-    },
-    "coef": 0.3654135338345864,
-    "avgCoef": -0.01212596542318028,
+    "coef": 0.3298245614035088,
+    "avgCoef": -0.024799574875569472,
     "similar": {
-        "GOOG": 0.5263157894736841,
-        "CCL": 0.5077097011921958,
-        "GOOGL": 0.5007518796992482,
-        "LYG": 0.4973665817311036
+        "LYG": 0.5654084707672888,
+        "CCL": 0.5142606901386387,
+        "GOOG": 0.5052631578947369,
+        "T": 0.5035087719298245
     }
 }

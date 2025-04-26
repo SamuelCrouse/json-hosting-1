@@ -22,14 +22,14 @@
                 "url": "https://finance.yahoo.com/news/alphabet-nasdaqgs-googl-reports-q1-172344427.html"
             },
             {
-                "headline": "LONDON (Reuters) -Britain could gain 400 billion pounds ($533 billion) from AI-driven growth if it trained its workforce, Google said, after a pilot scheme in the UK showed workers could save more than 120 hours a year by using AI in administrative tasks.  Simple steps such as giving workers permission to use AI and a few hours of training to get them started could help double the adoption of the new technology, and in turn boost economic growth, Google said in a report on its pilot scheme, published on Friday.  The U.S. tech giant, which developed the Gemini AI chatbot, said that according to analysis by Public First, its partner in the scheme, two thirds of workers - particularly older women from lower socio-economic backgrounds - had never used generative AI at work.",
+                "headline": "The recent announcement of IONIX's Cloud Exposure Validator highlights a significant advancement in cloud AI security operations. By automating over 80% of CNAPP alert analysis, this AI-driven solution helps security teams by reducing alert fatigue and enabling a focus on genuine, exploitable risks, reclassifying 40% of alerts as non-critical. This tool promises to streamline the manual alert validation process, traditionally a time-consuming task, thereby enhancing operational efficiency and...",
                 "publication_date": "2025-04-25T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.9468",
-                "source": "Reuters",
+                "sentimentScore": "0.9442",
+                "source": "Simply Wall St.",
                 "ticker": "GOOG",
-                "title": "Workers could save 122 hours a year by adopting AI in admin tasks, says Google",
-                "url": "https://finance.yahoo.com/news/workers-could-save-122-hours-230523442.html"
+                "title": "Cloud AI Today - Automating Cloud Security: A New Era in Threat Management",
+                "url": "https://finance.yahoo.com/news/cloud-ai-today-automating-cloud-123809598.html"
             },
             {
                 "headline": "Stocks were falling Friday as ongoing trade tensions between China and the U.S. overshadowed a solid set of earnings from Google parent Alphabet.  Investors are still struggling to work out if China and the U.S. will be able to broker a trade deal, after Chinese officials said Friday that Beijing and Washington still aren\u2019t negotiating on tariffs.  The market appeared to be zeroing in on those tensions instead of a solid earnings report from Alphabet.",
@@ -62,11 +62,21 @@
                 "url": "https://finance.yahoo.com/m/1e87e5c5-a408-3cc5-970d-4b95aad3cc18/google-gives-stock-markets.html"
             }
         ],
-        "avgScore": 0.23191093749999997,
+        "avgScore": 0.24563181818181823,
         "pctChange": -0.019449430767744438
     },
     "4 24 2025": {
         "importantArticles": [
+            {
+                "headline": "LONDON (Reuters) -Britain could gain 400 billion pounds ($533 billion) from AI-driven growth if it trained its workforce, Google said, after a pilot scheme in the UK showed workers could save more than 120 hours a year by using AI in administrative tasks.  Simple steps such as giving workers permission to use AI and a few hours of training to get them started could help double the adoption of the new technology, and in turn boost economic growth, Google said in a report on its pilot scheme, published on Friday.  The U.S. tech giant, which developed the Gemini AI chatbot, said that according to analysis by Public First, its partner in the scheme, two thirds of workers - particularly older women from lower socio-economic backgrounds - had never used generative AI at work.",
+                "publication_date": "2025-04-24T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9468",
+                "source": "Reuters",
+                "ticker": "GOOG",
+                "title": "Workers could save 122 hours a year by adopting AI in admin tasks, says Google",
+                "url": "https://finance.yahoo.com/news/workers-could-save-122-hours-230523442.html"
+            },
             {
                 "headline": "Google stock currently stands as a better short opportunity than some of the other Magnificent Seven companies like Apple or Microsoft.",
                 "publication_date": "2025-04-24T00:00:00.000Z",
@@ -86,16 +96,6 @@
                 "ticker": "GOOG",
                 "title": "Palantir FedStart to launch on Google Cloud",
                 "url": "https://finance.yahoo.com/news/palantir-fedstart-launch-google-cloud-145519954.html"
-            },
-            {
-                "headline": "Smart investors should be learning about AI, while also aiming to figure out ways to gain exposure in their portfolios.  A good place to start is to look at two dominant internet enterprises: Alphabet (NASDAQ: GOOGL) (NASDAQ: GOOG) and Meta Platforms (NASDAQ: META).  Alphabet has been working on machine learning and AI capabilities within its various products and services for a long time.",
-                "publication_date": "2025-04-24T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8402",
-                "source": "Motley Fool",
-                "ticker": "GOOG",
-                "title": "Better Artificial Intelligence Stock: Alphabet vs. Meta Platforms",
-                "url": "https://finance.yahoo.com/news/better-artificial-intelligence-stock-alphabet-090300207.html"
             },
             {
                 "headline": "Digital wallets are broadly comparable, although they differ on data, fraud monitoring and liability issues, Consumer Reports found in an evaluation.",
@@ -128,7 +128,7 @@
                 "url": "https://finance.yahoo.com/news/stocks-down-pre-bell-china-114042419.html"
             }
         ],
-        "avgScore": 0.2994906976744186,
+        "avgScore": 0.291792,
         "pctChange": 0.01473961023607984
     },
     "4 23 2025": {
@@ -194,7 +194,7 @@
                 "url": "https://finance.yahoo.com/news/big-tech-stocks-gain-over-450-billion-as-trump-bessent-signal-deescalation-of-us-china-trade-war-143427595.html"
             }
         ],
-        "avgScore": 0.23478529411764695,
+        "avgScore": 0.24155833333333318,
         "pctChange": 0.023776312268426206
     },
     "4 22 2025": {
@@ -260,11 +260,21 @@
                 "url": "https://finance.yahoo.com/news/google-opts-standalone-prompt-third-171850860.html"
             }
         ],
-        "avgScore": 0.24713235294117647,
+        "avgScore": 0.23040303030303022,
         "pctChange": 0.024821361115765533
     },
     "4 21 2025": {
         "importantArticles": [
+            {
+                "headline": "When it comes to designing semiconductor chips used to power artificial intelligence (AI) workloads, two companies stand head and shoulders above the rest: Nvidia (NASDAQ: NVDA) and Broadcom (NASDAQ: AVGO).  Nvidia has been the biggest early winner in AI chips, but Broadcom has been gaining momentum.  Nvidia and Broadcom are taking two very different approaches to the AI chip market.",
+                "publication_date": "2025-04-21T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7992",
+                "source": "Motley Fool",
+                "ticker": "GOOG",
+                "title": "Better AI Chip Stock: Nvidia vs. Broadcom",
+                "url": "https://finance.yahoo.com/news/better-ai-chip-stock-nvidia-220000502.html"
+            },
             {
                 "headline": "ChatGPT search, OpenAI's feature within ChatGPT that allows the chatbot to access and incorporate up-to-date information from the web into its responses, is growing at a fast clip in Europe. A report filed by one of OpenAI's EU corporate divisions, OpenAI Ireland Limited, reveals ChatGPT search had roughly 41.3 million average monthly active \"recipients\" for the six-month period ending March 31. That's up from approximately 11.2 million average monthly active recipients in the six-month period e",
                 "publication_date": "2025-04-21T00:00:00.000Z",
@@ -286,16 +296,6 @@
                 "url": "https://finance.yahoo.com/news/why-microsoft-stock-getting-slammed-193737515.html"
             },
             {
-                "headline": "Investors prepared for another week of developments on President Trump's fast-moving tariff policies and for the kickoff of Big Tech earnings reports.",
-                "publication_date": "2025-04-21T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.2263",
-                "source": "Yahoo Finance",
-                "ticker": "GOOG",
-                "title": "Stock market today: Dow drops 950 points, S&P 500, Nasdaq tumble as Trump bashes Fed's Powell again",
-                "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-drops-950-points-sp-500-nasdaq-tumble-as-trump-bashes-feds-powell-again-200049063.html"
-            },
-            {
                 "headline": "Alphabet (GOOG, GOOGL) fights a breakup of its businesses, as Monday marked the first day of the remedies phase of the antitrust trial. Yahoo Finance Senior Legal Reporter Alexis Keenan breaks down the arguments from the Google parent company and US antitrust regulators. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime here.",
                 "publication_date": "2025-04-21T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -306,16 +306,6 @@
                 "url": "https://finance.yahoo.com/video/googles-antitrust-breakup-trial-know-210843962.html"
             },
             {
-                "headline": "The judge who found that the tech company maintained an illegal monopoly is asked to force it to sell its Chrome web browser.",
-                "publication_date": "2025-04-21T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.5574",
-                "source": "The Wall Street Journal",
-                "ticker": "GOOG",
-                "title": "Justice Department Urges Tough Action to Break Google\u2019s Search Dominance",
-                "url": "https://finance.yahoo.com/m/02169725-77b8-3dd3-b254-6486d0c7700d/justice-department-urges.html"
-            },
-            {
                 "headline": "Tech stocks were lower late Monday afternoon, with the Technology Select Sector SPDR Fund (XLK) drop",
                 "publication_date": "2025-04-21T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -324,89 +314,27 @@
                 "ticker": "GOOG",
                 "title": "Sector Update: Tech Stocks Slump Late Afternoon",
                 "url": "https://finance.yahoo.com/news/sector-tech-stocks-slump-afternoon-194733385.html"
+            },
+            {
+                "headline": "Alphabet (NASDAQ: GOOGL)(NASDAQ: GOOG) stock is losing ground in Monday's trading.  The company's share price was down 3% as of 3:15 p.m. ET amid a 3.2% decline for the S&P 500 and a 3.4% fall for the Nasdaq Composite.  The stock market is selling off today after President Donald Trump made intensely critical remarks about Federal Reserve Chair Jerome Powell.",
+                "publication_date": "2025-04-21T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.4576",
+                "source": "Motley Fool",
+                "ticker": "GOOG",
+                "title": "Why Alphabet Stock Is Sinking Today",
+                "url": "https://finance.yahoo.com/news/why-alphabet-stock-sinking-today-192858916.html"
             }
         ],
-        "avgScore": -0.09208333333333334,
+        "avgScore": 0.016888888888888915,
         "pctChange": 0.026958449684229818
     },
-    "4 15 2025": {
-        "importantArticles": [
-            {
-                "headline": "Alphabet beat Q1 expectations on strength in Services and Cloud, earning analyst praise despite cautious forward views",
-                "publication_date": "2025-04-15T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7962",
-                "source": "GuruFocus.com",
-                "ticker": "GOOG",
-                "title": "Alphabet Stuns Wall Street With Blowout Quarter and Bigger Shareholder Rewards",
-                "url": "https://finance.yahoo.com/news/alphabet-stuns-wall-street-blowout-211817545.html"
-            },
-            {
-                "headline": "Alphabet beat Q1 expectations on strength in Services and Cloud, earning analyst praise despite cautious forward views",
-                "publication_date": "2025-04-15T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7962",
-                "source": "GuruFocus.com",
-                "ticker": "GOOG",
-                "title": "Alphabet Stuns Wall Street With Blowout Quarter and Bigger Shareholder Rewards",
-                "url": "https://finance.yahoo.com/news/alphabet-stuns-wall-street-blowout-211817545.html"
-            }
-        ],
-        "avgScore": 0.7962,
-        "pctChange": -0.02004028751298651
-    },
-    "4 8 2025": {
-        "importantArticles": [
-            {
-                "headline": "The Standard & Poor's 500 index rose 4.6% this week, led by technology stocks amid better-than-expec",
-                "publication_date": "2025-03-08T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "MT Newswires",
-                "ticker": "GOOG",
-                "title": "S&P 500 Climbs Weekly as Tech Sector Leads Amid Positive Earnings",
-                "url": "https://finance.yahoo.com/news/p-500-climbs-weekly-tech-204026841.html"
-            },
-            {
-                "headline": "U.S. stocks largely ended the week on a high note after a muted opening Friday, as trade-war pessimism gave way to a fourth day of gains for the S&P 500. Meanwhile, Tesla (TSLA) spiked 9.8% as word spread that CEO Elon Musk would spend less time facilitating mass firings via DOGE.",
-                "publication_date": "2025-04-08T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "-0.0258",
-                "source": "Quartz",
-                "ticker": "GOOG",
-                "title": "The S&P 500 ends the week up 4% even as hopes for a quick trade war truce fade",
-                "url": "https://finance.yahoo.com/news/google-gives-stock-bulls-reason-123149968.html"
-            },
-            {
-                "headline": "U.S. stocks largely ended the week on a high note after a muted opening Friday, as trade-war pessimism gave way to a fourth day of gains for the S&P 500. Meanwhile, Tesla (TSLA) spiked 9.8% as word spread that CEO Elon Musk would spend less time facilitating mass firings via DOGE.",
-                "publication_date": "2025-04-08T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "-0.0258",
-                "source": "Quartz",
-                "ticker": "GOOG",
-                "title": "The S&P 500 ends the week up 4% even as hopes for a quick trade war truce fade",
-                "url": "https://finance.yahoo.com/news/google-gives-stock-bulls-reason-123149968.html"
-            },
-            {
-                "headline": "The Standard & Poor's 500 index rose 4.6% this week, led by technology stocks amid better-than-expec",
-                "publication_date": "2025-03-08T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "MT Newswires",
-                "ticker": "GOOG",
-                "title": "S&P 500 Climbs Weekly as Tech Sector Leads Amid Positive Earnings",
-                "url": "https://finance.yahoo.com/news/p-500-climbs-weekly-tech-204026841.html"
-            }
-        ],
-        "avgScore": -0.0129,
-        "pctChange": 0.09878561568192931
-    },
-    "coef": -0.7142857142857144,
-    "avgCoef": -0.0024490369217380955,
+    "coef": -0.8999999999999998,
+    "avgCoef": -0.017158304250820787,
     "similar": {
-        "PSLV": 0.10714285714285716,
-        "NGD": 0.10714285714285716,
-        "KGC": 0.03571428571428572,
-        "BTG": 0.0
+        "NVDA": 0.8999999999999998,
+        "CMG": 0.7999999999999999,
+        "RIVN": 0.7999999999999999,
+        "TSLA": 0.7
     }
 }

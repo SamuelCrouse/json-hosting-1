@@ -52,17 +52,17 @@
                 "url": "https://finance.yahoo.com/news/verizon-still-defensive-dividend-stock-181253656.html"
             },
             {
-                "headline": "The phone carrier warns customers that it is weighing a harsh decision.",
+                "headline": "America's biggest phone carriers warn about much higher prices if tariffs on smartphones were to kick in.",
                 "publication_date": "2025-04-25T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.5106",
-                "source": "TheStreet",
+                "sentimentScore": "-0.1027",
+                "source": "Yahoo Finance",
                 "ticker": "VZ",
-                "title": "AT&T\u2019s response to a growing threat spells trouble for customers",
-                "url": "https://finance.yahoo.com/news/t-response-growing-threat-spells-003300430.html"
+                "title": "Verizon, AT&T, and T-Mobile prepare to raise prices on consumers because of Trump's trade war",
+                "url": "https://finance.yahoo.com/news/verizon-att-and-t-mobile-prepare-to-raise-prices-on-consumers-because-of-trumps-trade-war-122549340.html"
             }
         ],
-        "avgScore": 0.11248888888888883,
+        "avgScore": 0.2326555555555555,
         "pctChange": -0.014577920284036644
     },
     "4 24 2025": {
@@ -98,6 +98,16 @@
                 "url": "https://finance.yahoo.com/news/motorola-razr-reboot-iconic-style-160000982.html"
             },
             {
+                "headline": "The phone carrier warns customers that it is weighing a harsh decision.",
+                "publication_date": "2025-04-24T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5106",
+                "source": "TheStreet",
+                "ticker": "VZ",
+                "title": "AT&T\u2019s response to a growing threat spells trouble for customers",
+                "url": "https://finance.yahoo.com/news/t-response-growing-threat-spells-003300430.html"
+            },
+            {
                 "headline": "The phone carrier is facing the consequences of recent changes.",
                 "publication_date": "2025-04-24T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -116,19 +126,9 @@
                 "ticker": "VZ",
                 "title": "Relevant+ and Total Wireless Partner with Tigre Sounds to Launch \"Beats Per Mile\" -- A Latin DJ Coffee Club Experience During Miami Race Week",
                 "url": "https://finance.yahoo.com/news/relevant-total-wireless-partner-tigre-130000250.html"
-            },
-            {
-                "headline": "Telecommunications giant Verizon (NYSE:VZ) met Wall Street\u2019s revenue expectations in Q1 CY2025, with sales up 1.5% year on year to $33.49 billion. Its non-GAAP profit of $1.19 per share was 3.6% above analysts\u2019 consensus estimates.",
-                "publication_date": "2025-04-24T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6249",
-                "source": "StockStory",
-                "ticker": "VZ",
-                "title": "VZ Q1 Earnings Call: Verizon Highlights Customer Retention and Broadband Growth Amid Stable Results",
-                "url": "https://finance.yahoo.com/news/vz-q1-earnings-call-verizon-185831998.html"
             }
         ],
-        "avgScore": 0.5645166666666667,
+        "avgScore": 0.4109285714285714,
         "pctChange": -0.021023160406633705
     },
     "4 23 2025": {
@@ -154,14 +154,14 @@
                 "url": "https://finance.yahoo.com/news/3-high-yield-stocks-beating-085100237.html"
             },
             {
-                "headline": "While AI-generated text in malicious emails has doubled, the rate of successful phishing breaches is stable, according to a Wednesday report.",
+                "headline": "LONDON, April 23, 2025 (GLOBE NEWSWIRE) -- Verizon Business today released its 2025 Data Breach Investigations Report (DBIR), revealing a dramatic surge in global data breaches, with EMEA experiencing a significant increase in system intrusion breaches. These breaches have skyrocketed, nearly doubling to 53% of breaches in the region in just one year. The 2025 DBIR, which analysed over 22,000 security incidents, including 12,195 confirmed data breaches, found third-party involvement doubling to",
                 "publication_date": "2025-04-23T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.7184",
-                "source": "CIO Dive",
+                "sentimentScore": "0.6705",
+                "source": "GlobeNewswire",
                 "ticker": "VZ",
-                "title": "AI impact on data breach outcomes remains \u2018limited\u2019: Verizon",
-                "url": "https://finance.yahoo.com/news/ai-impact-data-breach-outcomes-000100403.html"
+                "title": "Verizon\u2019s 2025 Data Breach Investigations Report: System Intrusion Breaches Double in EMEA",
+                "url": "https://finance.yahoo.com/news/verizon-2025-data-breach-investigations-040100125.html"
             },
             {
                 "headline": "Shares are trouncing the broader market this year, but its quarterly report gave investors a reason to worry.",
@@ -194,7 +194,7 @@
                 "url": "https://finance.yahoo.com/m/27ca930b-9fdb-32f1-a292-7b672e1dbbc4/at-t-stock-climbs-after.html"
             }
         ],
-        "avgScore": 0.24959375,
+        "avgScore": 0.21834,
         "pctChange": 0.002576126660096811
     },
     "4 22 2025": {
@@ -260,7 +260,7 @@
                 "url": "https://finance.yahoo.com/m/e7bbdf93-9859-3270-a6db-c0d07b13b684/don%E2%80%99t-ask-us-to-pick-up-the.html"
             }
         ],
-        "avgScore": 0.2149347826086956,
+        "avgScore": 0.23591249999999997,
         "pctChange": -0.011345169700156307
     },
     "4 21 2025": {
@@ -438,16 +438,6 @@
                 "url": "https://finance.yahoo.com/news/jim-cramer-verizon-vz-offers-164835592.html"
             },
             {
-                "headline": "The stock market has slumped sharply this year due to concerns that tariffs could cause a recession.  One positive from the sell-off is that lower stock prices cause dividend yields to rise.  Because of that, investors can lock in dividend yields of 5% or more on some high-quality companies right now.",
-                "publication_date": "2025-04-16T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.1027",
-                "source": "Motley Fool",
-                "ticker": "VZ",
-                "title": "5 Safe Dividend Stocks Yielding 5% or More to Buy Right Now for Durable Passive Income",
-                "url": "https://finance.yahoo.com/news/5-safe-dividend-stocks-yielding-010200945.html"
-            },
-            {
                 "headline": "AT&T (T) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
                 "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -456,9 +446,19 @@
                 "ticker": "VZ",
                 "title": "Earnings Preview: AT&T (T) Q1 Earnings Expected to Decline",
                 "url": "https://finance.yahoo.com/news/earnings-preview-t-t-q1-140044122.html"
+            },
+            {
+                "headline": "Looking beyond Wall Street's top -and-bottom-line estimate forecasts for Verizon (VZ), delve into some of its key metrics to gain a deeper insight into the company's potential performance for the quarter ended March 2025.",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.6369",
+                "source": "Zacks",
+                "ticker": "VZ",
+                "title": "Unveiling Verizon (VZ) Q1 Outlook: Wall Street Estimates for Key Metrics",
+                "url": "https://finance.yahoo.com/news/unveiling-verizon-vz-q1-outlook-131517970.html"
             }
         ],
-        "avgScore": 0.28414,
+        "avgScore": 0.38085,
         "pctChange": 0.009860130684651114
     },
     "4 15 2025": {
@@ -494,6 +494,16 @@
                 "url": "https://finance.yahoo.com/news/verizon-communications-vz-increases-despite-214515843.html"
             },
             {
+                "headline": "The stock market has slumped sharply this year due to concerns that tariffs could cause a recession.  One positive from the sell-off is that lower stock prices cause dividend yields to rise.  Because of that, investors can lock in dividend yields of 5% or more on some high-quality companies right now.",
+                "publication_date": "2025-04-15T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.1027",
+                "source": "Motley Fool",
+                "ticker": "VZ",
+                "title": "5 Safe Dividend Stocks Yielding 5% or More to Buy Right Now for Durable Passive Income",
+                "url": "https://finance.yahoo.com/news/5-safe-dividend-stocks-yielding-010200945.html"
+            },
+            {
                 "headline": "In the closing of the recent trading day, Verizon Communications (VZ) stood at $44.48, denoting a +0.41% change from the preceding trading day.",
                 "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -512,19 +522,9 @@
                 "ticker": "VZ",
                 "title": "Verizon Communications (VZ) Expected to Beat Earnings Estimates: Can the Stock Move Higher?",
                 "url": "https://finance.yahoo.com/news/verizon-communications-vz-expected-beat-140036624.html"
-            },
-            {
-                "headline": "Comcast has been losing broadband subscribers to wireless giants such as AT&T, T-Mobile and Verizon, which offer plans, bundling internet with high-speed mobile data services, that have proven to be popular with customers.  The offer gives new Xfinity Internet customers plans starting at $55 a month, locked in for five years with no annual contract required.  It also includes a free unlimited wireless line for one year.",
-                "publication_date": "2025-04-15T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.3182",
-                "source": "Reuters",
-                "ticker": "VZ",
-                "title": "Comcast unveils five-year internet price lock to stem broadband losses",
-                "url": "https://finance.yahoo.com/news/comcast-unveils-five-internet-price-160308077.html"
             }
         ],
-        "avgScore": 0.1815,
+        "avgScore": 0.11044999999999999,
         "pctChange": -0.019559328705897387
     },
     "4 14 2025": {
@@ -1371,12 +1371,12 @@
         "avgScore": 0.42336666666666667,
         "pctChange": 0.0176550428861205
     },
-    "coef": -0.1259175607001694,
-    "avgCoef": -0.013403899929510035,
+    "coef": -0.08187464709203841,
+    "avgCoef": -0.02022248725986456,
     "similar": {
-        "NKE": 0.2648221343873518,
-        "TAL": 0.2648221343873518,
-        "JD": 0.20383963862224735,
-        "ADT": 0.15979672501411638
+        "TAL": 0.3574251835121401,
+        "JD": 0.29192546583850937,
+        "NKE": 0.2896668548842462,
+        "ADT": 0.19367588932806323
     }
 }

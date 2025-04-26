@@ -238,26 +238,6 @@
                 "url": "https://finance.yahoo.com/news/under-armour-uaa-surges-14-140200792.html"
             },
             {
-                "headline": "The sneaker business illustrates how Trump's tariffs on imports will raise costs for businesses and consumers while generating no new American jobs, for a net loss to the US economy.",
-                "publication_date": "2025-04-10T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.5423",
-                "source": "Yahoo Finance",
-                "ticker": "UAA",
-                "title": "Opinion: The folly of Trump\u2019s sneaker tariffs",
-                "url": "https://finance.yahoo.com/news/opinion-the-folly-of-trumps-sneaker-tariffs-164418249.html"
-            },
-            {
-                "headline": "The sneaker business illustrates how Trump's tariffs on imports will raise costs for businesses and consumers while generating no new American jobs, for a net loss to the US economy.",
-                "publication_date": "2025-04-10T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.5423",
-                "source": "Yahoo Finance",
-                "ticker": "UAA",
-                "title": "Opinion: The folly of Trump\u2019s sneaker tariffs",
-                "url": "https://finance.yahoo.com/news/opinion-the-folly-of-trumps-sneaker-tariffs-164418249.html"
-            },
-            {
                 "headline": "Under Armour (UAA) witnessed a jump in share price last session on above-average trading volume. The latest trend in earnings estimate revisions for the stock doesn't suggest further strength down the road.",
                 "publication_date": "2025-04-10T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -278,7 +258,7 @@
                 "url": "https://finance.yahoo.com/news/columbia-sportswear-under-armour-carters-221903921.html"
             }
         ],
-        "avgScore": -0.009066666666666667,
+        "avgScore": 0.25755,
         "pctChange": -0.0019230293098973974
     },
     "4 9 2025": {
@@ -294,6 +274,26 @@
                 "url": "https://finance.yahoo.com/news/q4-earnings-review-apparel-accessories-090508778.html"
             },
             {
+                "headline": "The sneaker business illustrates how Trump's tariffs on imports will raise costs for businesses and consumers while generating no new American jobs, for a net loss to the US economy.",
+                "publication_date": "2025-04-09T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5423",
+                "source": "Yahoo Finance",
+                "ticker": "UAA",
+                "title": "Opinion: The folly of Trump\u2019s sneaker tariffs",
+                "url": "https://finance.yahoo.com/news/opinion-the-folly-of-trumps-sneaker-tariffs-164418249.html"
+            },
+            {
+                "headline": "The sneaker business illustrates how Trump's tariffs on imports will raise costs for businesses and consumers while generating no new American jobs, for a net loss to the US economy.",
+                "publication_date": "2025-04-09T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5423",
+                "source": "Yahoo Finance",
+                "ticker": "UAA",
+                "title": "Opinion: The folly of Trump\u2019s sneaker tariffs",
+                "url": "https://finance.yahoo.com/news/opinion-the-folly-of-trumps-sneaker-tariffs-164418249.html"
+            },
+            {
                 "headline": "As the Q4 earnings season wraps, let\u2019s dig into this quarter\u2019s best and worst performers in the apparel and accessories industry, including VF Corp (NYSE:VFC) and its peers.",
                 "publication_date": "2025-04-09T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -304,7 +304,7 @@
                 "url": "https://finance.yahoo.com/news/q4-earnings-review-apparel-accessories-090508778.html"
             }
         ],
-        "avgScore": 0.0258,
+        "avgScore": -0.25825,
         "pctChange": -0.0763766068268512
     },
     "4 8 2025": {
@@ -531,38 +531,12 @@
         "avgScore": -0.25,
         "pctChange": 0.03937007933143675
     },
-    "3 26 2025": {
-        "importantArticles": [
-            {
-                "headline": "We recently published a list of the 10 Best US Stocks Under $10 to Buy Right Now. In this article, we are going to take a look at where Under Armour Inc. (NYSE:UA) stands against other US stocks under $10 to buy right now. On March 12, Stephanie Guild of Robinhood and Marci McGregor of [\u2026]",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6369",
-                "source": "Insider Monkey",
-                "ticker": "UAA",
-                "title": "Is Under Armour Inc. (NYSE:UA) the Best US Stock Under $10 to Buy Right Now?",
-                "url": "https://finance.yahoo.com/news/under-armour-inc-nyse-ua-145606759.html"
-            },
-            {
-                "headline": "We recently published a list of the 10 Best US Stocks Under $10 to Buy Right Now. In this article, we are going to take a look at where Under Armour Inc. (NYSE:UA) stands against other US stocks under $10 to buy right now. On March 12, Stephanie Guild of Robinhood and Marci McGregor of [\u2026]",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6369",
-                "source": "Insider Monkey",
-                "ticker": "UAA",
-                "title": "Is Under Armour Inc. (NYSE:UA) the Best US Stock Under $10 to Buy Right Now?",
-                "url": "https://finance.yahoo.com/news/under-armour-inc-nyse-ua-145606759.html"
-            }
-        ],
-        "avgScore": 0.6369,
-        "pctChange": 0.004746793062713667
-    },
-    "coef": 0.17331515708242978,
-    "avgCoef": -0.014261263015843259,
+    "coef": 0.2377622377622378,
+    "avgCoef": -0.019619710159006706,
     "similar": {
-        "FLG": 0.5006882315714638,
-        "TMUS": 0.47867995765623467,
-        "T": 0.43741444406518,
-        "RIG": 0.39889996471352884
+        "FLG": 0.5104895104895105,
+        "RIG": 0.4685314685314686,
+        "XOM": 0.46153846153846156,
+        "T": 0.4545454545454546
     }
 }

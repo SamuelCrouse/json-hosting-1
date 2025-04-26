@@ -563,38 +563,12 @@
         "avgScore": 0.296,
         "pctChange": -0.0006949429216988339
     },
-    "3 26 2025": {
-        "importantArticles": [
-            {
-                "headline": "PBR discovers hydrocarbons in the Campos Basin, advancing its deepwater exploration efforts and highlighting its focus on pre-salt assets.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.3818",
-                "source": "Zacks",
-                "ticker": "PBR",
-                "title": "Petrobras Strikes Hydrocarbons in the Campos Basin's Pre-Salt Layer",
-                "url": "https://finance.yahoo.com/news/petrobras-strikes-hydrocarbons-campos-basins-102500776.html"
-            },
-            {
-                "headline": "PBR discovers hydrocarbons in the Campos Basin, advancing its deepwater exploration efforts and highlighting its focus on pre-salt assets.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.3818",
-                "source": "Zacks",
-                "ticker": "PBR",
-                "title": "Petrobras Strikes Hydrocarbons in the Campos Basin's Pre-Salt Layer",
-                "url": "https://finance.yahoo.com/news/petrobras-strikes-hydrocarbons-campos-basins-102500776.html"
-            }
-        ],
-        "avgScore": 0.3818,
-        "pctChange": 0.004187049541950157
-    },
-    "coef": -0.36493797212992807,
-    "avgCoef": -0.014671698935548141,
+    "coef": -0.39824006496590475,
+    "avgCoef": -0.01890109598717547,
     "similar": {
-        "T": 0.20930266048628227,
-        "UAA": 0.1949913674615792,
-        "TMUS": 0.1538464000155579,
-        "BAC": 0.13237946047850332
+        "BAC": 0.16501660150520917,
+        "UAA": 0.1386139452643757,
+        "SMCI": 0.1342135025575701,
+        "WFC": 0.13201328120416733
     }
 }

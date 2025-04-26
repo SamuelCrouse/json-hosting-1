@@ -2,16 +2,6 @@
     "4 25 2025": {
         "importantArticles": [
             {
-                "headline": "\u200bThe company posted lower quarterly earnings, but found bright spots with its mobile-phone plans and Peacock streaming service.",
-                "publication_date": "2025-04-25T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.5023",
-                "source": "The Wall Street Journal",
-                "ticker": "CMCSA",
-                "title": "Comcast Loses Broadband Customers, Takes Theme-Park Hit From L.A. Fires",
-                "url": "https://finance.yahoo.com/m/b2aa81b8-e161-3571-904a-01313284fa40/comcast-loses-broadband.html"
-            },
-            {
                 "headline": "Comcast's (CMCSA) high pricing could challenge its ability to grow cable revenue and margins, as con",
                 "publication_date": "2025-04-25T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -50,19 +40,9 @@
                 "ticker": "CMCSA",
                 "title": "Comcast's Cable Growth Outlook Dims on Pricing Pressure, Oppenheimer Says",
                 "url": "https://finance.yahoo.com/news/comcast-apos-cable-growth-outlook-153200614.html"
-            },
-            {
-                "headline": "\u200bThe company posted lower quarterly earnings, but found bright spots with its mobile-phone plans and Peacock streaming service.",
-                "publication_date": "2025-04-25T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.5023",
-                "source": "The Wall Street Journal",
-                "ticker": "CMCSA",
-                "title": "Comcast Loses Broadband Customers, Takes Theme-Park Hit From L.A. Fires",
-                "url": "https://finance.yahoo.com/m/b2aa81b8-e161-3571-904a-01313284fa40/comcast-loses-broadband.html"
             }
         ],
-        "avgScore": 0.29469999999999996,
+        "avgScore": 0.1909,
         "pctChange": 0.012544862287489855
     },
     "4 24 2025": {
@@ -128,7 +108,7 @@
                 "url": "https://finance.yahoo.com/news/comcast-reports-higher-broadband-subscriber-110845059.html"
             }
         ],
-        "avgScore": 0.25545,
+        "avgScore": 0.2719066666666667,
         "pctChange": 0.021392073773650634
     },
     "4 23 2025": {
@@ -388,16 +368,6 @@
                 "url": "https://finance.yahoo.com/news/helping-nashvilles-small-businesses-thrive-173100918.html"
             },
             {
-                "headline": "SALT LAKE CITY, UT / ACCESS Newswire / April 14, 2025 / Today, Comcast announced that it will award comprehensive grant packages to 100 small business owners in the Wasatch Front. These grants are part of a program to support the growth of small businesses ...",
-                "publication_date": "2025-04-15T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.9217",
-                "source": "ACCESS Newswire",
-                "ticker": "CMCSA",
-                "title": "Comcast RISE to Award $3 Million in Grants to 100 Local Small Businesses in the Wasatch Front",
-                "url": "https://finance.yahoo.com/news/comcast-rise-award-3-million-223000298.html"
-            },
-            {
                 "headline": "Comcast has been losing broadband subscribers to wireless giants such as AT&T, T-Mobile and Verizon, which offer plans, bundling internet with high-speed mobile data services, that have proven to be popular with customers.  The offer gives new Xfinity Internet customers plans starting at $55 a month, locked in for five years with no annual contract required.  It also includes a free unlimited wireless line for one year.",
                 "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -406,6 +376,16 @@
                 "ticker": "CMCSA",
                 "title": "Comcast unveils five-year internet price lock to stem broadband losses",
                 "url": "https://finance.yahoo.com/news/comcast-unveils-five-internet-price-160308077.html"
+            },
+            {
+                "headline": "PHILADELPHIA, April 15, 2025--Comcast Launches Five-Year Price Guarantee for Xfinity Internet Customers",
+                "publication_date": "2025-04-15T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.25",
+                "source": "Business Wire",
+                "ticker": "CMCSA",
+                "title": "Comcast Launches Five-Year Price Guarantee for Xfinity Internet Customers",
+                "url": "https://finance.yahoo.com/news/comcast-launches-five-price-guarantee-160000371.html"
             },
             {
                 "headline": "Comcast (CMCSA) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
@@ -438,11 +418,21 @@
                 "url": "https://finance.yahoo.com/news/comcast-unveils-five-internet-price-160308077.html"
             }
         ],
-        "avgScore": 0.45927999999999997,
+        "avgScore": 0.343675,
         "pctChange": -0.024709367764966753
     },
     "4 14 2025": {
         "importantArticles": [
+            {
+                "headline": "SALT LAKE CITY, UT / ACCESS Newswire / April 14, 2025 / Today, Comcast announced that it will award comprehensive grant packages to 100 small business owners in the Wasatch Front. These grants are part of a program to support the growth of small businesses ...",
+                "publication_date": "2025-04-14T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9217",
+                "source": "ACCESS Newswire",
+                "ticker": "CMCSA",
+                "title": "Comcast RISE to Award $3 Million in Grants to 100 Local Small Businesses in the Wasatch Front",
+                "url": "https://finance.yahoo.com/news/comcast-rise-award-3-million-223000298.html"
+            },
             {
                 "headline": "We recently published a list of 10 Best Bargain Stocks to Buy in May. In this article, we are going to take a look at where Comcast Corporation (NASDAQ:CMCSA) stands against other best bargain stocks to buy in May. While increasing tariffs and a hard sell-off have resulted in uncertainty, Neuberger Berman, an investment manager, expects [\u2026]",
                 "publication_date": "2025-04-14T00:00:00.000Z",
@@ -462,16 +452,6 @@
                 "ticker": "CMCSA",
                 "title": "Comcast (CMCSA) Outpaces Stock Market Gains: What You Should Know",
                 "url": "https://finance.yahoo.com/news/comcast-cmcsa-outpaces-stock-market-220014684.html"
-            },
-            {
-                "headline": "Investing.com -- Wells Fargo downgraded Comcast Corp (NASDAQ:CMCSA) to \u201cUnderweight\u201d from \u201cEqual Weight,\u201d warning the cable giant\u2019s shift toward mobile and broadband convergence will pressure earnings in the near term and strip the stock of its defensive appeal.",
-                "publication_date": "2025-04-14T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.3612",
-                "source": "Investing.com",
-                "ticker": "CMCSA",
-                "title": "Wells Fargo downgrades Comcast on rising costs from its mobile pivot",
-                "url": "https://finance.yahoo.com/news/wells-fargo-downgrades-comcast-rising-150153778.html"
             },
             {
                 "headline": "Investing.com -- Wells Fargo downgraded Comcast Corp (NASDAQ:CMCSA) to \u201cUnderweight\u201d from \u201cEqual Weight,\u201d warning the cable giant\u2019s shift toward mobile and broadband convergence will pressure earnings in the near term and strip the stock of its defensive appeal.",
@@ -504,7 +484,7 @@
                 "url": "https://finance.yahoo.com/news/comcast-corporation-cmcsa-best-bargain-213350784.html"
             }
         ],
-        "avgScore": 0.16229999999999997,
+        "avgScore": 0.35215,
         "pctChange": 0.007320643889592501
     },
     "4 11 2025": {
@@ -582,16 +562,6 @@
     "4 9 2025": {
         "importantArticles": [
             {
-                "headline": "LONDON (Reuters) -U.S. media giant Comcast Corp has chosen an area north of London for its first Universal theme park and resort in Europe, pledging to build rides and attractions based on its movie franchises that it hopes will rival Disneyland Paris.  The group, which owns the Jurassic Park and Back to the Future movie franchises and the Harry Potter theme park licence, said the park in Bedford would create 20,000 jobs during construction and a further 8,000 across the hospitality and creative industries when it opens in 2031.",
-                "publication_date": "2025-04-09T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8625",
-                "source": "Reuters",
-                "ticker": "CMCSA",
-                "title": "Universal to open first European theme park near London",
-                "url": "https://finance.yahoo.com/news/universal-studios-open-first-european-230803300.html"
-            },
-            {
                 "headline": "The Prime Minister sought to strike an optimistic note and talk up domestic strengths amid ongoing market turmoil.",
                 "publication_date": "2025-04-09T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -622,14 +592,14 @@
                 "url": "https://finance.yahoo.com/news/3-reasons-cmcsa-risky-1-090754476.html"
             },
             {
-                "headline": "Some 8.5 million visitors are expected to visit the resort, on the site of a former brickworks near Bedford, in its first year.",
+                "headline": "What a brutal six months it\u2019s been for Comcast. The stock has dropped 21.3% and now trades at a new 52-week low of $32.57, rattling many shareholders. This might have investors contemplating their next move.",
                 "publication_date": "2025-04-09T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "PA Media: Money",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.7351",
+                "source": "StockStory",
                 "ticker": "CMCSA",
-                "title": "Universal theme park set to open in UK in 2031 after Government backs deal",
-                "url": "https://finance.yahoo.com/news/universal-theme-park-set-open-230100530.html"
+                "title": "3 Reasons CMCSA is Risky and 1 Stock to Buy Instead",
+                "url": "https://finance.yahoo.com/news/3-reasons-cmcsa-risky-1-090754476.html"
             },
             {
                 "headline": "Sir Keir Starmer has inked a \u00a350bn deal with Donald Trump\u2019s most-hated media company for a new Hollywood theme park in Bedford.",
@@ -640,13 +610,33 @@
                 "ticker": "CMCSA",
                 "title": "Starmer signs \u00a350bn theme park deal with Trump\u2019s most-hated media company",
                 "url": "https://finance.yahoo.com/news/starmer-signs-multibillion-pound-theme-060000370.html"
+            },
+            {
+                "headline": "The Prime Minister sought to strike an optimistic note and talk up domestic strengths amid ongoing market turmoil.",
+                "publication_date": "2025-04-09T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.25",
+                "source": "PA Media: Money",
+                "ticker": "CMCSA",
+                "title": "Universal theme park will bring growth, jobs and joy to UK, PM says",
+                "url": "https://finance.yahoo.com/news/universal-theme-park-bring-growth-105718288.html"
             }
         ],
-        "avgScore": 0.07548000000000002,
+        "avgScore": -0.16169999999999998,
         "pctChange": -0.04263786205196012
     },
     "4 8 2025": {
         "importantArticles": [
+            {
+                "headline": "LONDON (Reuters) -U.S. media giant Comcast Corp has chosen an area north of London for its first Universal theme park and resort in Europe, pledging to build rides and attractions based on its movie franchises that it hopes will rival Disneyland Paris.  The group, which owns the Jurassic Park and Back to the Future movie franchises and the Harry Potter theme park licence, said the park in Bedford would create 20,000 jobs during construction and a further 8,000 across the hospitality and creative industries when it opens in 2031.",
+                "publication_date": "2025-04-08T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8625",
+                "source": "Reuters",
+                "ticker": "CMCSA",
+                "title": "Universal to open first European theme park near London",
+                "url": "https://finance.yahoo.com/news/universal-studios-open-first-european-230803300.html"
+            },
             {
                 "headline": "Quarterly earnings results are a good time to check in on a company\u2019s progress, especially compared to its peers in the same sector. Today we are looking at Comcast (NASDAQ:CMCSA) and the best and worst performers in the wireless, cable and satellite industry.",
                 "publication_date": "2025-04-08T00:00:00.000Z",
@@ -658,6 +648,26 @@
                 "url": "https://finance.yahoo.com/news/q4-earnings-review-wireless-cable-091344434.html"
             },
             {
+                "headline": "Some 8.5 million visitors are expected to visit the resort, on the site of a former brickworks near Bedford, in its first year.",
+                "publication_date": "2025-04-08T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "PA Media: Money",
+                "ticker": "CMCSA",
+                "title": "Universal theme park set to open in UK in 2031 after Government backs deal",
+                "url": "https://finance.yahoo.com/news/universal-theme-park-set-open-230100530.html"
+            },
+            {
+                "headline": "Some 8.5 million visitors are expected to visit the resort, on the site of a former brickworks near Bedford, in its first year.",
+                "publication_date": "2025-04-08T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "PA Media: Money",
+                "ticker": "CMCSA",
+                "title": "Universal theme park set to open in UK in 2031 after Government backs deal",
+                "url": "https://finance.yahoo.com/news/universal-theme-park-set-open-230100530.html"
+            },
+            {
                 "headline": "Quarterly earnings results are a good time to check in on a company\u2019s progress, especially compared to its peers in the same sector. Today we are looking at Comcast (NASDAQ:CMCSA) and the best and worst performers in the wireless, cable and satellite industry.",
                 "publication_date": "2025-04-08T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -666,9 +676,19 @@
                 "ticker": "CMCSA",
                 "title": "Q4 Earnings Review: Wireless, Cable and Satellite Stocks Led by Comcast (NASDAQ:CMCSA)",
                 "url": "https://finance.yahoo.com/news/q4-earnings-review-wireless-cable-091344434.html"
+            },
+            {
+                "headline": "LONDON (Reuters) -U.S. media giant Comcast Corp has chosen an area north of London for its first Universal theme park and resort in Europe, pledging to build rides and attractions based on its movie franchises that it hopes will rival Disneyland Paris.  The group, which owns the Jurassic Park and Back to the Future movie franchises and the Harry Potter theme park licence, said the park in Bedford would create 20,000 jobs during construction and a further 8,000 across the hospitality and creative industries when it opens in 2031.",
+                "publication_date": "2025-04-08T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8625",
+                "source": "Reuters",
+                "ticker": "CMCSA",
+                "title": "Universal to open first European theme park near London",
+                "url": "https://finance.yahoo.com/news/universal-studios-open-first-european-230803300.html"
             }
         ],
-        "avgScore": 0.7003,
+        "avgScore": 0.5209333333333334,
         "pctChange": 0.0712545719158132
     },
     "4 7 2025": {
@@ -1159,12 +1179,12 @@
         "avgScore": 0.34225,
         "pctChange": 0.0
     },
-    "coef": -0.18496240601503755,
-    "avgCoef": -0.00904199938805911,
+    "coef": -0.1969924812030075,
+    "avgCoef": -0.020154902567797315,
     "similar": {
-        "HLN": 0.41804511278195483,
-        "MRK": 0.26165413533834586,
-        "VRN": 0.23458646616541348,
-        "HTZ": 0.22556390977443608
+        "HLN": 0.4586466165413533,
+        "VOD": 0.2571428571428572,
+        "NU": 0.20150375939849624,
+        "SNAP": 0.18646616541353384
     }
 }

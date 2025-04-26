@@ -921,78 +921,12 @@
         "avgScore": 0.435925,
         "pctChange": 0.01085780467486799
     },
-    "3 26 2025": {
-        "importantArticles": [
-            {
-                "headline": "We recently published a list of Why These Defense Stocks Are Gaining This Week. In this article, we are going to take a look at where Rocket Lab USA, Inc. (NASDAQ:RKLB) stands against other defense stocks that are gaining this week. On Friday, President Trump unveiled a new next-generation fighter jet, the F-47. According to [\u2026]",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.802",
-                "source": "Insider Monkey",
-                "ticker": "RKLB",
-                "title": "Why Rocket Lab USA, Inc. (RKLB) Is Gaining This Week?",
-                "url": "https://finance.yahoo.com/news/why-rocket-lab-usa-inc-153836132.html"
-            },
-            {
-                "headline": "MAHIA, New Zealand, March 26, 2025--Rocket Lab USA, Inc. (Nasdaq: RKLB) (\"Rocket Lab\" or \"the Company\"), a global leader in launch services and space systems, today successfully launched its latest mission within four months of contract signing for Germany-based global wildfire detection company OroraTech.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.5719",
-                "source": "Business Wire",
-                "ticker": "RKLB",
-                "title": "Rocket Lab Successfully Launches Mission for Global Wildfire Detection Company OroraTech",
-                "url": "https://finance.yahoo.com/news/rocket-lab-successfully-launches-mission-164700714.html"
-            },
-            {
-                "headline": "Winning MSR would double Rocket Lab's annual revenue in an instant.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.5267",
-                "source": "Motley Fool",
-                "ticker": "RKLB",
-                "title": "Rocket Lab Really (Really) Wants NASA to Pay It $4 Billion",
-                "url": "https://finance.yahoo.com/news/rocket-lab-really-really-wants-110700102.html"
-            },
-            {
-                "headline": "AST SpaceMobile, Intuitive Machines, and Rocket Lab USA could soar much higher.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Motley Fool",
-                "ticker": "RKLB",
-                "title": "3 Brilliant Space Stocks to Buy Now and Hold for the Long Term",
-                "url": "https://finance.yahoo.com/news/3-brilliant-space-stocks-buy-124500148.html"
-            },
-            {
-                "headline": "This week\u2019s picks cover: What Rocket Lab has that SpaceX and others don\u2019t, what investors are missing on easyJet, and why HEXPOL looks like a steady reliable dividend performer.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.0772",
-                "source": "Simply Wall St.",
-                "ticker": "RKLB",
-                "title": "Weekly Picks: \ud83d\ude80 Rocket Lab's Edge, EasyJet's Quiet Comeback, and HEXPOL's Reliable Dividends",
-                "url": "https://finance.yahoo.com/news/weekly-picks-rocket-labs-edge-234834204.html"
-            },
-            {
-                "headline": "Winning MSR would double Rocket Lab's annual revenue in an instant.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.5267",
-                "source": "Motley Fool",
-                "ticker": "RKLB",
-                "title": "Rocket Lab Really (Really) Wants NASA to Pay It $4 Billion",
-                "url": "https://finance.yahoo.com/news/rocket-lab-really-really-wants-110700102.html"
-            }
-        ],
-        "avgScore": 0.39555999999999997,
-        "pctChange": -0.052469157908545186
-    },
-    "coef": -0.06914344685242517,
-    "avgCoef": -0.012758034151242124,
+    "coef": -0.058823529411764705,
+    "avgCoef": -0.02485755193984285,
     "similar": {
-        "NGD": 0.3931888544891641,
-        "KGC": 0.31475748194014447,
-        "PSLV": 0.2528379772961816,
-        "UAA": 0.23013415892672856
+        "NGD": 0.41666666666666674,
+        "KGC": 0.32107843137254904,
+        "PSLV": 0.27696078431372556,
+        "UAA": 0.24509803921568632
     }
 }

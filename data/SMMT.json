@@ -68,26 +68,6 @@
                 "url": "https://finance.yahoo.com/news/akeso-summit-notch-another-phase-120019766.html"
             },
             {
-                "headline": "We recently published a list of These 10 Firms Topped Wednesday\u2019s Trading. In this article, we are going to take a look at where Summit Therapeutics Inc. (NASDAQ:SMMT) stands against other firms that topped Wednesday\u2019s trading. Wall Street\u2019s major indices rebounded anew on Wednesday as worries about tariff policies and the Federal Reserve\u2019s independence tapered [\u2026]",
-                "publication_date": "2025-04-24T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.4215",
-                "source": "Insider Monkey",
-                "ticker": "SMMT",
-                "title": "Why Summit Therapeutics Inc. (SMMT) Went Up On Wednesday",
-                "url": "https://finance.yahoo.com/news/why-summit-therapeutics-inc-smmt-221356671.html"
-            },
-            {
-                "headline": "We recently published a list of These 10 Firms Topped Wednesday\u2019s Trading. In this article, we are going to take a look at where Summit Therapeutics Inc. (NASDAQ:SMMT) stands against other firms that topped Wednesday\u2019s trading. Wall Street\u2019s major indices rebounded anew on Wednesday as worries about tariff policies and the Federal Reserve\u2019s independence tapered [\u2026]",
-                "publication_date": "2025-04-24T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.4215",
-                "source": "Insider Monkey",
-                "ticker": "SMMT",
-                "title": "Why Summit Therapeutics Inc. (SMMT) Went Up On Wednesday",
-                "url": "https://finance.yahoo.com/news/why-summit-therapeutics-inc-smmt-221356671.html"
-            },
-            {
                 "headline": "Akeso and Summit's drug previously beat Keytruda in a separate Phase III study, extending PFS by five months.",
                 "publication_date": "2025-04-24T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -108,7 +88,7 @@
                 "url": "https://finance.yahoo.com/news/summit-therapeutics-host-first-quarter-201500118.html"
             }
         ],
-        "avgScore": -0.14049999999999999,
+        "avgScore": 0.0,
         "pctChange": -0.3606267121312048
     },
     "4 23 2025": {
@@ -164,17 +144,17 @@
                 "url": "https://finance.yahoo.com/news/why-summit-therapeutics-rocketed-double-200500961.html"
             },
             {
-                "headline": "BioNTech stock rocketed Wednesday after rival Summit Therapeutics unveiled promising results for a novel approach to lung cancer treatment.",
+                "headline": "We recently published a list of These 10 Firms Topped Wednesday\u2019s Trading. In this article, we are going to take a look at where Summit Therapeutics Inc. (NASDAQ:SMMT) stands against other firms that topped Wednesday\u2019s trading. Wall Street\u2019s major indices rebounded anew on Wednesday as worries about tariff policies and the Federal Reserve\u2019s independence tapered [\u2026]",
                 "publication_date": "2025-04-23T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.1027",
-                "source": "Investor's Business Daily",
+                "sentimentScore": "-0.4215",
+                "source": "Insider Monkey",
                 "ticker": "SMMT",
-                "title": "BioNTech Surges On Summit's Coattails. But Can They Take On Merck?",
-                "url": "https://finance.yahoo.com/m/a6583d72-b7a0-347a-829e-9cdb842158e1/biontech-surges-on-summit-s.html"
+                "title": "Why Summit Therapeutics Inc. (SMMT) Went Up On Wednesday",
+                "url": "https://finance.yahoo.com/news/why-summit-therapeutics-inc-smmt-221356671.html"
             }
         ],
-        "avgScore": -0.05371999999999999,
+        "avgScore": -0.11501666666666666,
         "pctChange": 0.10442375168536036
     },
     "4 15 2025": {
@@ -511,12 +491,12 @@
         "avgScore": 0.1531,
         "pctChange": 0.03569638077469235
     },
-    "coef": 0.1958041958041958,
-    "avgCoef": -0.008192066278707472,
+    "coef": 0.11558686727582713,
+    "avgCoef": -0.01970424341876154,
     "similar": {
-        "HL": 0.4685314685314686,
-        "KGC": 0.3916083916083916,
-        "AVTR": 0.35664335664335667,
-        "INSM": 0.3076923076923077
+        "HL": 0.46234746910330854,
+        "INSM": 0.3572684988525566,
+        "KGC": 0.3327500724607145,
+        "AVTR": 0.27670795499364675
     }
 }

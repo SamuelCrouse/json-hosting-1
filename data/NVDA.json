@@ -62,8 +62,8 @@
                 "url": "https://finance.yahoo.com/news/could-nvidias-sales-drop-30-210000673.html"
             }
         ],
-        "avgScore": 0.29548709677419355,
-        "pctChange": 0.038835874061158245
+        "avgScore": 0.30790999999999996,
+        "pctChange": 0.03893311859163874
     },
     "4 24 2025": {
         "importantArticles": [
@@ -128,7 +128,7 @@
                 "url": "https://finance.yahoo.com/news/were-3-worst-performing-stocks-110100226.html"
             }
         ],
-        "avgScore": 0.3922387096774194,
+        "avgScore": 0.3647620689655172,
         "pctChange": 0.043032996504012586
     },
     "4 23 2025": {
@@ -194,7 +194,7 @@
                 "url": "https://finance.yahoo.com/news/big-tech-earnings-kick-off-as-tariff-uncertainty-continues-to-roil-markets-160016313.html"
             }
         ],
-        "avgScore": 0.3464666666666667,
+        "avgScore": 0.3386000000000001,
         "pctChange": 0.036218491421109375
     },
     "4 22 2025": {
@@ -220,14 +220,14 @@
                 "url": "https://finance.yahoo.com/news/prediction-8-wall-street-analysts-073600067.html"
             },
             {
-                "headline": "CoreWeave shares surged Tuesday as several analysts launched coverage of the artificial intelligence play with price targets suggesting they see gains for the stock.",
+                "headline": "Nvidia has turned out to be one of the hottest stocks on the market in the past decade, as the company has delivered phenomenal gains of more than 19,700% during this period and bested the S&P 500 index's gains of 156% by a massive margin.  What this means is that an investment of $5,100 made in Nvidia a decade ago is now worth just over a million dollars.  Investors who had the foresight to put this much money into Nvidia 10 years ago and had the patience to hold the stock for such a long time are now sitting on handsome gains, becoming millionaires in the process.",
                 "publication_date": "2025-04-22T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.8625",
-                "source": "Investopedia",
+                "sentimentScore": "0.8834",
+                "source": "Motley Fool",
                 "ticker": "NVDA",
-                "title": "Nvidia-Backed CoreWeave's Stock Jumps as Analysts Launch Coverage\u2014Here's What They're Saying",
-                "url": "https://finance.yahoo.com/news/nvidia-backed-coreweaves-stock-jumps-180534966.html"
+                "title": "Should You Forget Nvidia and Buy These 2 Millionaire-Maker Stocks Instead?",
+                "url": "https://finance.yahoo.com/news/forget-nvidia-buy-2-millionaire-010000295.html"
             },
             {
                 "headline": "Investing.com -- Wedbush tech analyst Dan Ives highlighted the urgent need for trade deals to address the challenges facing the US technology sector amid ongoing tariff disputes. The analysts pointed out the significant uncertainty and potential damage to the US and global economies, particularly the US tech industry, which has been thrust into the eye of the storm.",
@@ -260,7 +260,7 @@
                 "url": "https://finance.yahoo.com/news/nvidia-corporation-nvda-price-target-125642195.html"
             }
         ],
-        "avgScore": 0.3403062499999999,
+        "avgScore": 0.350830303030303,
         "pctChange": 0.0386287766043215
     },
     "4 21 2025": {
@@ -326,15 +326,15 @@
                 "url": "https://finance.yahoo.com/news/nvidia-stock-furthers-slide-us-133910037.html"
             }
         ],
-        "avgScore": 0.19659056603773598,
+        "avgScore": 0.20701923076923093,
         "pctChange": 0.020431283177354955
     },
-    "coef": 0.6,
-    "avgCoef": -0.016595193318799058,
+    "coef": 0.7,
+    "avgCoef": -0.025186179974019167,
     "similar": {
-        "ANET": 0.8999999999999998,
-        "NVDA": 0.6,
-        "PLTR": 0.6,
-        "RKLB": 0.6
+        "NVDA": 0.7,
+        "PLTR": 0.7,
+        "ANET": 0.7,
+        "WBD": 0.5642880936468347
     }
 }

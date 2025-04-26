@@ -104,16 +104,6 @@
                 "url": "https://finance.yahoo.com/news/exploring-three-high-growth-tech-053758170.html"
             },
             {
-                "headline": "Ericsson reports robust gross and EBITA margins, while navigating regional sales declines and competitive pressures.",
-                "publication_date": "2025-04-17T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.3182",
-                "source": "GuruFocus.com",
-                "ticker": "ERIC",
-                "title": "Telefonaktiebolaget L M Ericsson (ERIC) Q1 2025 Earnings Call Highlights: Strong Margins Amid ...",
-                "url": "https://finance.yahoo.com/news/telefonaktiebolaget-l-m-ericsson-eric-010027888.html"
-            },
-            {
                 "headline": "The European market has been navigating a challenging landscape, with the STOXX Europe 600 Index recently closing 1.92% lower amid intensifying trade tensions, although some losses were mitigated following announcements of delayed tariffs by the U.S. administration. In this climate, identifying high growth tech stocks requires a focus on companies that demonstrate resilience and innovation in the face of economic volatility and evolving trade dynamics.",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -132,9 +122,19 @@
                 "ticker": "ERIC",
                 "title": "3 European Stocks Estimated To Be Trading At Discounts Of Up To 40.1%",
                 "url": "https://finance.yahoo.com/news/3-european-stocks-estimated-trading-053750392.html"
+            },
+            {
+                "headline": "Ericsson (ERIC) is well positioned to outperform the market, as it exhibits above-average growth in financials.",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5719",
+                "source": "Zacks",
+                "ticker": "ERIC",
+                "title": "Here is Why Growth Investors Should Buy Ericsson (ERIC) Now",
+                "url": "https://finance.yahoo.com/news/why-growth-investors-buy-ericsson-164505756.html"
             }
         ],
-        "avgScore": 0.10469999999999997,
+        "avgScore": 0.24566666666666662,
         "pctChange": -0.0024480364231213607
     },
     "4 16 2025": {
@@ -160,6 +160,26 @@
                 "url": "https://finance.yahoo.com/news/why-telefonaktiebolaget-lm-ericsson-eric-104533084.html"
             },
             {
+                "headline": "Ericsson reports robust gross and EBITA margins, while navigating regional sales declines and competitive pressures.",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.3182",
+                "source": "GuruFocus.com",
+                "ticker": "ERIC",
+                "title": "Telefonaktiebolaget L M Ericsson (ERIC) Q1 2025 Earnings Call Highlights: Strong Margins Amid ...",
+                "url": "https://finance.yahoo.com/news/telefonaktiebolaget-l-m-ericsson-eric-010027888.html"
+            },
+            {
+                "headline": "Ericsson reports robust gross and EBITA margins, while navigating regional sales declines and competitive pressures.",
+                "publication_date": "2025-04-16T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.3182",
+                "source": "GuruFocus.com",
+                "ticker": "ERIC",
+                "title": "Telefonaktiebolaget L M Ericsson (ERIC) Q1 2025 Earnings Call Highlights: Strong Margins Amid ...",
+                "url": "https://finance.yahoo.com/news/telefonaktiebolaget-l-m-ericsson-eric-010027888.html"
+            },
+            {
                 "headline": "We recently published a list of 10 Firms End Stronger on Tuesday. In this article, we are going to take a look at where Telefonaktiebolaget LM Ericsson (NASDAQ:ERIC) stands against other firms that end stronger on Tuesday. A muted trading persisted on the stock market on Tuesday, with major indices ending in the red, recording [\u2026]",
                 "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -180,7 +200,7 @@
                 "url": "https://finance.yahoo.com/news/know-ericsson-eric-rating-upgrade-160009841.html"
             }
         ],
-        "avgScore": 0.6937500000000001,
+        "avgScore": 0.3564333333333334,
         "pctChange": 0.02896725660150713
     },
     "4 15 2025": {
@@ -431,12 +451,38 @@
         "avgScore": 0.7351,
         "pctChange": 0.003865944856487996
     },
-    "coef": 0.16112108771781966,
-    "avgCoef": -0.007238344723801394,
+    "3 28 2025": {
+        "importantArticles": [
+            {
+                "headline": "We recently published a list of 9 AI News and Ratings on Investors\u2019 Radar. In this article, we are going to take a look at where Telefonaktiebolaget LM Ericsson (publ) (NASDAQ:ERIC) stands against other AI news and ratings on investors\u2019 radar. According to a Reuters report posted on March 25, Chinese AI firms have made [\u2026]",
+                "publication_date": "2025-03-28T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Insider Monkey",
+                "ticker": "ERIC",
+                "title": "Telefonaktiebolaget LM Ericsson (ERIC) Partners with SoftBank to Bring AI and 6G to Japan \u2013 A Tech Leap Forward!",
+                "url": "https://finance.yahoo.com/news/telefonaktiebolaget-lm-ericsson-eric-partners-221052623.html"
+            },
+            {
+                "headline": "We recently published a list of 9 AI News and Ratings on Investors\u2019 Radar. In this article, we are going to take a look at where Telefonaktiebolaget LM Ericsson (publ) (NASDAQ:ERIC) stands against other AI news and ratings on investors\u2019 radar. According to a Reuters report posted on March 25, Chinese AI firms have made [\u2026]",
+                "publication_date": "2025-03-28T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Insider Monkey",
+                "ticker": "ERIC",
+                "title": "Telefonaktiebolaget LM Ericsson (ERIC) Partners with SoftBank to Bring AI and 6G to Japan \u2013 A Tech Leap Forward!",
+                "url": "https://finance.yahoo.com/news/telefonaktiebolaget-lm-ericsson-eric-partners-221052623.html"
+            }
+        ],
+        "avgScore": 0.0,
+        "pctChange": -0.0025706915664731513
+    },
+    "coef": -0.04419956960878639,
+    "avgCoef": -0.018550756579848022,
     "similar": {
-        "RKLB": 0.665500144921429,
-        "RIG": 0.6549922478963537,
-        "SNAP": 0.6479869832129704,
-        "HIMS": 0.62697118916282
+        "RKLB": 0.646418705528501,
+        "NVDA": 0.6077440821208128,
+        "HIMS": 0.6077440821208128,
+        "NU": 0.574594404914223
     }
 }

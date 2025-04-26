@@ -649,78 +649,12 @@
         "avgScore": 0.291725,
         "pctChange": -0.00887736468638861
     },
-    "3 26 2025": {
-        "importantArticles": [
-            {
-                "headline": "We recently compiled a list of the 12 Oversold Value Stocks to Buy According to Hedge Funds. In this article, we are going to take a look at where Dow Inc. (NYSE:DOW) stands against the other oversold value stocks. Value stocks, as defined by their low forward P/E ratio, can present compelling investment opportunities, especially [\u2026]",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8225",
-                "source": "Insider Monkey",
-                "ticker": "DOW",
-                "title": "Is Dow Inc. (DOW) an Oversold Value Stock to Buy According to Hedge Funds?",
-                "url": "https://finance.yahoo.com/news/dow-inc-dow-oversold-value-212505645.html"
-            },
-            {
-                "headline": "Dow Inc. (DOW) reachead $35.58 at the closing of the latest trading day, reflecting a +0.74% change compared to its last close.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "DOW",
-                "title": "Dow Inc. (DOW) Gains As Market Dips: What You Should Know",
-                "url": "https://finance.yahoo.com/news/dow-inc-dow-gains-market-221515855.html"
-            },
-            {
-                "headline": "Dow Inc. is now the highest-yielding stock in the S&P 500.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Motley Fool",
-                "ticker": "DOW",
-                "title": "This 7.7%-Yielding Dividend Stock Has Maintained Its Payment for 24 Quarters in a Row. Can That Streak Continue in 2025?",
-                "url": "https://finance.yahoo.com/news/7-7-yielding-dividend-stock-083000532.html"
-            },
-            {
-                "headline": "Dow Inc. is now the highest-yielding stock in the S&P 500.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Motley Fool",
-                "ticker": "DOW",
-                "title": "This 7.7%-Yielding Dividend Stock Has Maintained Its Payment for 24 Quarters in a Row. Can That Streak Continue in 2025?",
-                "url": "https://finance.yahoo.com/news/7-7-yielding-dividend-stock-083000532.html"
-            },
-            {
-                "headline": "Dow Inc. (DOW) reachead $35.58 at the closing of the latest trading day, reflecting a +0.74% change compared to its last close.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "DOW",
-                "title": "Dow Inc. (DOW) Gains As Market Dips: What You Should Know",
-                "url": "https://finance.yahoo.com/news/dow-inc-dow-gains-market-221515855.html"
-            },
-            {
-                "headline": "We recently compiled a list of the 12 Oversold Value Stocks to Buy According to Hedge Funds. In this article, we are going to take a look at where Dow Inc. (NYSE:DOW) stands against the other oversold value stocks. Value stocks, as defined by their low forward P/E ratio, can present compelling investment opportunities, especially [\u2026]",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8225",
-                "source": "Insider Monkey",
-                "ticker": "DOW",
-                "title": "Is Dow Inc. (DOW) an Oversold Value Stock to Buy According to Hedge Funds?",
-                "url": "https://finance.yahoo.com/news/dow-inc-dow-oversold-value-212505645.html"
-            }
-        ],
-        "avgScore": 0.27416666666666667,
-        "pctChange": -0.009555934094728857
-    },
-    "coef": 0.09565859837710478,
-    "avgCoef": -0.015265413952001247,
+    "coef": 0.14298486495941554,
+    "avgCoef": -0.02703216131022965,
     "similar": {
-        "NU": 0.49006635783962915,
-        "SNAP": 0.4282561865805768,
-        "UAA": 0.420897832859261,
-        "NKE": 0.3929360887182612
+        "NU": 0.4879358516740056,
+        "SNAP": 0.4682754327420859,
+        "HBAN": 0.4200180408182832,
+        "BBD": 0.40608228980322
     }
 }

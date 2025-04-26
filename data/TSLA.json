@@ -12,16 +12,6 @@
                 "url": "https://finance.yahoo.com/news/elon-musk-thinks-tesla-become-114500733.html"
             },
             {
-                "headline": "Super Micro Computer (NASDAQ: SMCI) stock is rocketing higher Wednesday in response to multiple positive catalysts.  At the same point in the session, the S&P 500 had risen 1.8%, and the Nasdaq Composite was up 2.9%.  Supermicro's valuation is climbing today thanks to a combination of encouraging developments on the macroeconomic front.",
-                "publication_date": "2025-04-25T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.93",
-                "source": "Motley Fool",
-                "ticker": "TSLA",
-                "title": "Why Super Micro Computer Stock Is Soaring Today",
-                "url": "https://finance.yahoo.com/news/why-super-micro-computer-stock-190127661.html"
-            },
-            {
                 "headline": "Tesla (NasdaqGS:TSLA) experienced a significant share price increase of 7.5% over the past week. This move coincides with several positive developments, including CEO Elon Musk's announcement to focus more on Tesla and the loosening of U.S. regulations concerning self-driving vehicles. Additionally, Tesla's stocks benefited from an overall market trend that saw the Nasdaq Composite rise by 5.4% amid a broader rally driven by earnings reports and optimism over possible tariff resolutions...",
                 "publication_date": "2025-04-25T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -30,6 +20,16 @@
                 "ticker": "TSLA",
                 "title": "Tesla (NasdaqGS:TSLA) Superchargers Now Accessible To Kia EV Owners For Enhanced Charging Connectivity",
                 "url": "https://finance.yahoo.com/news/tesla-nasdaqgs-tsla-superchargers-now-174804254.html"
+            },
+            {
+                "headline": "Chinese auto giant BYD continued to outpace Tesla in the first quarter, reporting a doubling in net profit on robust growth in its electric-vehicle business.",
+                "publication_date": "2025-04-25T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7845",
+                "source": "The Wall Street Journal",
+                "ticker": "TSLA",
+                "title": "BYD First-Quarter Profit Doubled on Strong EV Sales",
+                "url": "https://finance.yahoo.com/m/f58b8706-3253-36a4-b1bc-cef5421cef16/byd-first-quarter-profit.html"
             },
             {
                 "headline": "We recently published a list of Jim Cramer Put These 16 Stocks Under a Microscope. In this article, we are going to take a look at where Tesla, Inc. (NASDAQ:TSLA) stands against other stocks that Jim Cramer discussed. On Wednesday, Jim Cramer, the host of Mad Money, took to discussing how President Donald Trump\u2019s influence [\u2026]",
@@ -52,31 +52,21 @@
                 "url": "https://finance.yahoo.com/video/wall-streets-top-ceos-saying-214158352.html"
             },
             {
-                "headline": "Lucrative stock deals have allowed SpaceX to avoid public scrutiny even as it has grown into one of the largest companies in the U.S.",
+                "headline": "Congress is trying to formalize a small amount of the federal spending cuts Elon Musk's government efficiency project has claimed. It won't be easy.",
                 "publication_date": "2025-04-25T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.296",
-                "source": "The Wall Street Journal",
+                "sentimentScore": "-0.2746",
+                "source": "Yahoo Finance",
                 "ticker": "TSLA",
-                "title": "A Side Hustle for Friends of Musk: Selling Access to Stakes in His Private Companies",
-                "url": "https://finance.yahoo.com/m/f60bbff1-d784-3ae3-918f-f372c360281d/a-side-hustle-for-friends-of.html"
+                "title": "Commentary: DOGE gets downsized",
+                "url": "https://finance.yahoo.com/news/commentary-doge-gets-downsized-163129763.html"
             }
         ],
-        "avgScore": 0.35509599999999997,
+        "avgScore": 0.31821351351351346,
         "pctChange": 0.08888383029012749
     },
     "4 24 2025": {
         "importantArticles": [
-            {
-                "headline": "Is it smart to pay off my mortgage with money from my 401(k) and save $800 more per month? The mortgage balance is $60,000. \u2013 Robert Many people consider paying off their mortgage to be a \"must do\" before retiring. While there are benefits to this approach, there are also tradeoffs, so it's good that [\u2026] The post Ask an Advisor: Is It Smart to Pay Off My Mortgage With My 401(k) to Free Up $800 Each Month? appeared first on SmartReads by SmartAsset.",
-                "publication_date": "2025-04-24T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.9454",
-                "source": "SmartAsset",
-                "ticker": "TSLA",
-                "title": "Ask an Advisor: Should I Use My 401(k) to Pay Off My Mortgage and Add $800 to My Budget?",
-                "url": "https://finance.yahoo.com/news/ask-advisor-smart-pay-off-100000505.html"
-            },
             {
                 "headline": "SUNation Energy, Inc. has entered Letters of Intent with Energy Systems Group for the development of solar projects totaling over 2.35 megawatts (MW) at two school districts on Long Island, New York. The proposed installations aim to deliver renewable solar energy across ten buildings, with a generation of over 3 megawatt hours annually, effectively offsetting a significant portion of the districts' energy requirements. These projects represent a notable step in advancing the adoption of...",
                 "publication_date": "2025-04-24T00:00:00.000Z",
@@ -86,6 +76,16 @@
                 "ticker": "TSLA",
                 "title": "Energy Transition Today - Solar Energy Projects Boost Sustainability in Long Island Schools",
                 "url": "https://finance.yahoo.com/news/energy-transition-today-solar-energy-113722108.html"
+            },
+            {
+                "headline": "(Bloomberg) -- BYD Co. shares\u2019 strong lead over Tesla Inc. this year may get another lift from the Chinese electric vehicle maker\u2019s first-quarter results, expected to show a solid start to 2025.Most Read from BloombergTrump Gives New York \u2018One Last Chance\u2019 to End Congestion FeeWhy Car YouTuber Matt Farah Is Fighting for Walkable CitiesBackyard Micro-Flats Aim to Ease South Africa\u2019s Housing CrisisThe Racial Wealth Gap Is Not Just About MoneyTo Fuel Affordable Housing, This Innovation Fund Targets",
+                "publication_date": "2025-04-24T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8658",
+                "source": "Bloomberg",
+                "ticker": "TSLA",
+                "title": "BYD\u2019s earnings may fuel further gains in shares versus Tesla",
+                "url": "https://finance.yahoo.com/news/byd-earnings-may-fuel-further-001831524.html"
             },
             {
                 "headline": "The \"Magnificent Seven\" stocks collectively add $455 billion in market value on tariff relief talks.",
@@ -128,21 +128,11 @@
                 "url": "https://finance.yahoo.com/m/e4d87dfc-030e-3325-805a-e5d618ee375b/how-doge-plans-to-plow-ahead.html"
             }
         ],
-        "avgScore": 0.14777200000000001,
+        "avgScore": 0.11037551020408168,
         "pctChange": 0.098030910115499
     },
     "4 23 2025": {
         "importantArticles": [
-            {
-                "headline": "Tesla (TSLA) CEO Elon Musk says the Model Y Refresh is on track, but the new model comes as the electric vehicle (EV) giant faces controversy tied to Musk's political work. Edmunds head of insights, Jessica Caldwell, joins Julie Hyman and Freedom Capital Markets chief global strategist, Jay Woods, on Yahoo Finance's Tesla earnings special to discuss what the next growth driver for Tesla could be. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime here.",
-                "publication_date": "2025-04-23T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.9191",
-                "source": "Yahoo Finance Video",
-                "ticker": "TSLA",
-                "title": "Tesla needs 'the next big thing' to woo the mass market",
-                "url": "https://finance.yahoo.com/video/tesla-needs-next-big-thing-070057278.html"
-            },
             {
                 "headline": "We recently published a list of 20 Best Stocks To Buy According to Marjorie Taylor Greene. In this article, we are going to take a look at where Tesla, Inc. (NASDAQ:TSLA) stands against other best stocks to buy according to Marjorie Taylor Greene. Marjorie Taylor Greene is one of the most active members of the [\u2026]",
                 "publication_date": "2025-04-23T00:00:00.000Z",
@@ -154,121 +144,65 @@
                 "url": "https://finance.yahoo.com/news/tesla-tsla-best-stock-buy-210325833.html"
             },
             {
-                "headline": "You can catch Opening Bid on Apple Podcasts, Spotify, YouTube, or wherever you get your podcasts. Elon Musk wasted no time on Tesla\u2019s (TSLA) earnings call late Tuesday acknowledging the EV maker\u2019s biggest roadblock to sunnier financial days. That is his outsized time being spent at President Trump\u2019s controversial DOGE master. And he finally clearly articulated what must be done to jumpstart an automaker that saw sales and profits fall off a cliff in the first quarter. \u201cStarting early next month, in May, my time allocation to DOGE will drop considerably,\" Musk said on the call. The path to renewed sales and profit growth won\u2019t be easy, however. The Tesla brand will likely continue to feel blowback from Musk\u2019s outspokenness on government policies. At the same time, tariff policy stands to hammer margins given Tesla\u2019s exposure to solar panels from China and autos being made outside the US. The uncertainty on how quickly Musk can fix Tesla is something execs pointed to on the earnings release \u2014 Tesla yanked its 2025 financial guidance, promising to revisit it when second quarter results hit. For full episodes of Opening Bid, listen on your favorite podcast platform or watch on our website. Yahoo Finance's Opening Bid is produced by Langston Sessoms",
+                "headline": "Julie Hyman and Roundhill Investments CEO Dave Mazza take a closer look at some of the trending tickers of the trading session ahead of the closing bell on Wall Street. The \"Magnificent Seven\" stocks, made up of Nvidia (NVDA), Alphabet (GOOG, GOOGL), Tesla (TSLA), Microsoft (MSFT), Amazon (AMZN), Meta (META), and Apple (AAPL), rise as the tariff relief rally lifts Big Tech stocks. Vertiv Holdings (VRT) stock surges after the data center cooling system company reported a first quarter earnings beat and raised its full-year sales guidance. Solar equipment stocks Enphase Energy (ENPH) and SolarEdge (SEDG) plunge after Guggenheim analysts downgraded the stocks to Sell. To watch more expert insights and analysis on the latest market action, check out more Market Domination here.",
                 "publication_date": "2025-04-23T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.9062",
+                "sentimentScore": "0.8527",
                 "source": "Yahoo Finance Video",
                 "ticker": "TSLA",
-                "title": "Elon Musk finally acknowledged what must be done to rescue Tesla",
-                "url": "https://finance.yahoo.com/video/elon-musk-finally-acknowledged-must-124127524.html"
+                "title": "Mag 7 rallies, Vertiv surges, solar downgraded: Trending Tickers",
+                "url": "https://finance.yahoo.com/video/mag-7-rallies-vertiv-surges-194844480.html"
             },
             {
-                "headline": "Listening to President Trump on Tuesday, it's as if all the vitriol towards Fed boss Jay Powell - the threats, the name calling - was some crazy misunderstanding.  Trump now says he had \"no intention of firing him\" and was just gently angling for a rate cut or two.  In the same news conference, Trump said the exorbitant levies on Chinese goods following a rapid tit-for-tat trade war escalation - so high that the actual numbers became irrelevant - will soon be \"substantially\" lower.",
+                "headline": "Tesla (NASDAQ: TSLA) stock is seeing big gains in Wednesday's trading despite publishing disappointing earnings results yesterday after market close.  Meanwhile, the S&P 500 was up 2.1%, and the Nasdaq Composite was up 3%.  Tesla stock is rocketing higher today thanks to a combination of macroeconomic and business-specific catalysts.",
                 "publication_date": "2025-04-23T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.9413",
-                "source": "Reuters",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7862",
+                "source": "Motley Fool",
                 "ticker": "TSLA",
-                "title": "Morning Bid: Trump's Fed backflip sets off relief rally",
-                "url": "https://finance.yahoo.com/news/morning-bid-trumps-fed-backflip-043542722.html"
+                "title": "Tesla Stock Is Jumping Today. Is the Stock a Buy Now That Elon Musk Plans to Step Back From DOGE?",
+                "url": "https://finance.yahoo.com/news/tesla-stock-jumping-today-stock-162600854.html"
             },
             {
-                "headline": "Tesla\u2019s profit slid last quarter, as the company struggled to overcome a reputational hit from Chief Executive Elon Musk\u2019s polarizing role in the Trump administration.  Musk said he would devote less time to his work at the Department of Government Efficiency from next month, but struck a defiant tone.  \u201cI believe the right thing to do is to fight the waste and fraud and try to get the country back on the right track,\u201d he said after Tesla posted earnings.",
+                "headline": "Elon Musk has been called a Moonshot Master, the Edison of Our Age and the Architect of the Future, but he's got a big problem at his car company and it's not clear he can fix it: damage to its brand.  Sales have plunged for Tesla amid protests and boycotts over Musk's embrace of far right-wing views.  On Tuesday came some relief as Musk announced in an earnings call with investors that he would be scaling back his government cost-cutting job in Washington to a \u201cday or two per week\" to focus more on his old job as Tesla's boss.",
                 "publication_date": "2025-04-23T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.9377",
-                "source": "The Wall Street Journal",
+                "sentimentScore": "-0.8392",
+                "source": "Associated Press Finance",
                 "ticker": "TSLA",
-                "title": "Tesla Stock Jumps After Musk Says He Will Spend Less Time on DOGE",
-                "url": "https://finance.yahoo.com/m/0dc4bb4e-c6eb-3dfe-815d-57b67d6cd5ec/tesla-stock-jumps-after-musk.html"
+                "title": "Musk damaged Tesla's brand in just a few months. Fixing it will likely take longer",
+                "url": "https://finance.yahoo.com/news/musk-damaged-teslas-brand-just-215611103.html"
             },
             {
-                "headline": "SHANGHAI (Reuters) -China's annual auto shows have become the world's premier showcase for the rise of ever-cheaper, high-tech electric vehicles from domestic brands in the world's biggest car market.  But the Shanghai auto show opened on Wednesday amid industry-wide uncertainty over how the U.S.-China trade war could sap demand and upend supply chains as about 70 automakers launched more than 100 new models into a crowded market with more losers than winners.  Automakers also wrestled with a Chinese government crackdown, announced last week, on the marketing of smart-driving systems that many industry executives view as the next technological battleground here.",
+                "headline": "US stocks jumped after President Trump said he has \"no intention\" of firing Federal Reserve Chair Jerome Powell, easing fears on Wall Street that the central bank's independence was under threat.",
                 "publication_date": "2025-04-23T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.9259",
-                "source": "Reuters",
+                "sentimentScore": "-0.8316",
+                "source": "Yahoo Finance",
                 "ticker": "TSLA",
-                "title": "Trade war, safety concerns take centre stage at Shanghai auto show",
-                "url": "https://finance.yahoo.com/news/trade-war-safety-concerns-centre-044323312.html"
+                "title": "Stock market today: Dow rises 400 points, Nasdaq gains 2.5%, but mega-rally fades in late trading",
+                "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-rises-400-points-nasdaq-gains-25-but-mega-rally-fades-in-late-trading-133419757.html"
+            },
+            {
+                "headline": "U.S. stock indexes rallied at midday Wednesday as President Donald Trump said he has \"no intention\" of firing Federal Reserve Chair Jerome Powell and made further comments suggesting a de-escalation of the trade war with China.",
+                "publication_date": "2025-04-23T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.8176",
+                "source": "Investopedia",
+                "ticker": "TSLA",
+                "title": "Top Stock Movers Now: Tesla, Boeing, Enphase, and More",
+                "url": "https://finance.yahoo.com/news/top-stock-movers-now-tesla-161308735.html"
             }
         ],
-        "avgScore": 0.09461238095238106,
+        "avgScore": 0.1145176470588235,
         "pctChange": 0.03497648592298541
     },
-    "4 22 2025": {
-        "importantArticles": [
-            {
-                "headline": "During Tesla's (TSLA) first quarter earnings call, CEO Elon Musk said that his time spent in US President Trump's Department of Government Efficiency (DOGE) will \"drop considerably\" starting in May. Yale School of Management executive fellow Gautam Mukunda joins Yahoo Finance's Tesla earnings special with Julie Hyman and Freedom Capital Markets chief global strategist Jay Woods to discuss Musk's comments. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime here.",
-                "publication_date": "2025-04-22T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7796",
-                "source": "Yahoo Finance Video",
-                "ticker": "TSLA",
-                "title": "Tesla needs investors to believe Elon Musk 'can work miracles'",
-                "url": "https://finance.yahoo.com/video/tesla-needs-investors-believe-elon-223121969.html"
-            },
-            {
-                "headline": "Eight state treasurers sent a letter to Tesla's board expressing concern about the company's leadership, writing, \"Tesla\u2019s recent performance signals deeper governance and leadership challenges that, if left unaddressed, could have serious consequences for the company and its stakeholders.\" One of the people who signed the letter is California State Controller Malia Cohen (Dem.). She explains why in the video above. For more expert insight and the latest market action, click here.",
-                "publication_date": "2025-04-22T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.1027",
-                "source": "Yahoo Finance Video",
-                "ticker": "TSLA",
-                "title": "Tesla stock: Why 8 state treasurers wrote to the board",
-                "url": "https://finance.yahoo.com/video/tesla-stock-why-8-state-230000129.html"
-            },
-            {
-                "headline": "The chief executive says he will spend significantly less time on DOGE starting in May. First-quarter net income falls 71%.",
-                "publication_date": "2025-04-22T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "The Wall Street Journal",
-                "ticker": "TSLA",
-                "title": "Tesla Profit Sinks, Hurt by Backlash Over Elon Musk\u2019s Political Role",
-                "url": "https://finance.yahoo.com/m/727ffa83-2eb9-37ff-ad62-6565b2ed6a62/tesla-profit-sinks-hurt-by.html"
-            },
-            {
-                "headline": "Musk offered no evidence for his claims but described the protests as \u201cnatural blowback\u201d on Tesla from those on the receiving end of the fraud.",
-                "publication_date": "2025-04-22T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.8462",
-                "source": "Fortune",
-                "ticker": "TSLA",
-                "title": "Elon Musk claims Tesla demonstrators are somehow being paid via the government\u2019s \u2018waste and fraud\u2019 \u2014 they just won\u2019t admit it",
-                "url": "https://finance.yahoo.com/news/elon-musk-claims-tesla-demonstrators-233238848.html"
-            },
-            {
-                "headline": "Tesla announced its first quarter financial results Tuesday, including a 71% drop in net income and 13% drop in vehicle deliveries.",
-                "publication_date": "2025-04-22T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.4939",
-                "source": "LA Times",
-                "ticker": "TSLA",
-                "title": "Tesla profit falls in the wake of brand controversy and tariffs",
-                "url": "https://finance.yahoo.com/news/tesla-profit-falls-wake-brand-224647417.html"
-            },
-            {
-                "headline": "Elon Musk says he\u2019s coming back to Tesla, partly stepping away from his high profile and controversial Trump administration role that has been blamed for a plunge in profits and sales at the company.",
-                "publication_date": "2025-04-22T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.25",
-                "source": "CNN Business",
-                "ticker": "TSLA",
-                "title": "Tesla profits plunge as Musk promises he\u2019s ready to step away from role at DOGE",
-                "url": "https://finance.yahoo.com/news/tesla-profits-plunge-musk-promises-231348466.html"
-            }
-        ],
-        "avgScore": -0.12298571428571428,
-        "pctChange": 0.053662244009561155
-    },
-    "coef": 0.6000000000000001,
-    "avgCoef": -0.017237247893437904,
+    "coef": -0.5,
+    "avgCoef": -0.024624382221210186,
     "similar": {
-        "CORZ": 1.0,
-        "BTG": 0.7999999999999999,
-        "CMG": 0.7999999999999999,
-        "MRK": 0.7999999999999999
+        "BTG": 1.0,
+        "NGD": 1.0,
+        "HL": 1.0,
+        "GILD": 1.0
     }
 }

@@ -22,6 +22,26 @@
                 "url": "https://finance.yahoo.com/news/rigetti-computing-nasdaqcm-rgti-joins-175601913.html"
             },
             {
+                "headline": "In the latest trading session, Rigetti Computing, Inc. (RGTI) closed at $9.38, marking a +0.81% move from the previous day.",
+                "publication_date": "2025-04-25T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "RGTI",
+                "title": "Rigetti Computing, Inc. (RGTI) Outpaces Stock Market Gains: What You Should Know",
+                "url": "https://finance.yahoo.com/news/rigetti-computing-inc-rgti-outpaces-215015968.html"
+            },
+            {
+                "headline": "In the latest trading session, Rigetti Computing, Inc. (RGTI) closed at $9.38, marking a +0.81% move from the previous day.",
+                "publication_date": "2025-04-25T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "RGTI",
+                "title": "Rigetti Computing, Inc. (RGTI) Outpaces Stock Market Gains: What You Should Know",
+                "url": "https://finance.yahoo.com/news/rigetti-computing-inc-rgti-outpaces-215015968.html"
+            },
+            {
                 "headline": "Rigetti Computing (NasdaqCM:RGTI) has seen a notable 12% increase in its share price over the past week, a period marked by the company's announcement of its participation in DARPA's Quantum Benchmarking Initiative. This participation, aimed at advancing utility-scale quantum computing, emphasizes Rigetti's partnership with Riverlane and their technological innovations using superconducting qubits. This news aligns with a general market rise of 4.1% over the same timeframe, which was buoyed...",
                 "publication_date": "2025-04-25T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -42,7 +62,7 @@
                 "url": "https://finance.yahoo.com/news/better-quantum-stock-ionq-vs-103000097.html"
             }
         ],
-        "avgScore": 0.67745,
+        "avgScore": 0.45163333333333333,
         "pctChange": 0.018256925383739405
     },
     "4 24 2025": {
@@ -163,6 +183,32 @@
         "avgScore": 0.5574,
         "pctChange": 0.06301049954285948
     },
+    "4 17 2025": {
+        "importantArticles": [
+            {
+                "headline": "In the latest trading session, Rigetti Computing, Inc. (RGTI) closed at $8.32, marking a +0.85% move from the previous day.",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "RGTI",
+                "title": "Rigetti Computing, Inc. (RGTI) Rises Higher Than Market: Key Facts",
+                "url": "https://finance.yahoo.com/news/rigetti-computing-inc-rgti-rises-220016232.html"
+            },
+            {
+                "headline": "In the latest trading session, Rigetti Computing, Inc. (RGTI) closed at $8.32, marking a +0.85% move from the previous day.",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "RGTI",
+                "title": "Rigetti Computing, Inc. (RGTI) Rises Higher Than Market: Key Facts",
+                "url": "https://finance.yahoo.com/news/rigetti-computing-inc-rgti-rises-220016232.html"
+            }
+        ],
+        "avgScore": 0.0,
+        "pctChange": -0.02524039012616928
+    },
     "4 16 2025": {
         "importantArticles": [
             {
@@ -215,35 +261,19 @@
         "avgScore": -0.8807,
         "pctChange": -0.04292342116836169
     },
-    "4 11 2025": {
-        "importantArticles": [
-            {
-                "headline": "In the closing of the recent trading day, Rigetti Computing, Inc. (RGTI) stood at $9.42, denoting a +0.32% change from the preceding trading day.",
-                "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "RGTI",
-                "title": "Rigetti Computing, Inc. (RGTI) Ascends While Market Falls: Some Facts to Note",
-                "url": "https://finance.yahoo.com/news/rigetti-computing-inc-rgti-ascends-215012613.html"
-            },
-            {
-                "headline": "In the closing of the recent trading day, Rigetti Computing, Inc. (RGTI) stood at $9.42, denoting a +0.32% change from the preceding trading day.",
-                "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "RGTI",
-                "title": "Rigetti Computing, Inc. (RGTI) Ascends While Market Falls: Some Facts to Note",
-                "url": "https://finance.yahoo.com/news/rigetti-computing-inc-rgti-ascends-215012613.html"
-            }
-        ],
-        "avgScore": 0.0,
-        "pctChange": -0.026373704915572577
-    },
     "4 10 2025": {
         "importantArticles": [
             {
+                "headline": "In the closing of the recent trading day, Rigetti Computing, Inc. (RGTI) stood at $9.42, denoting a +0.32% change from the preceding trading day.",
+                "publication_date": "2025-04-10T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "RGTI",
+                "title": "Rigetti Computing, Inc. (RGTI) Ascends While Market Falls: Some Facts to Note",
+                "url": "https://finance.yahoo.com/news/rigetti-computing-inc-rgti-ascends-215012613.html"
+            },
+            {
                 "headline": "Rigetti gets tapped by DARPA for a groundbreaking quantum project, sending its stock up 15%. Is this the start of something big for RGTI investors?",
                 "publication_date": "2025-04-10T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -262,6 +292,16 @@
                 "ticker": "RGTI",
                 "title": "RGTI Jumps 15% Post DARPA Quantum Project Win: Time to Buy the Stock?",
                 "url": "https://finance.yahoo.com/news/rgti-jumps-15-post-darpa-160100772.html"
+            },
+            {
+                "headline": "In the closing of the recent trading day, Rigetti Computing, Inc. (RGTI) stood at $9.42, denoting a +0.32% change from the preceding trading day.",
+                "publication_date": "2025-04-10T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "RGTI",
+                "title": "Rigetti Computing, Inc. (RGTI) Ascends While Market Falls: Some Facts to Note",
+                "url": "https://finance.yahoo.com/news/rigetti-computing-inc-rgti-ascends-215012613.html"
             }
         ],
         "avgScore": 0.0,
@@ -438,6 +478,26 @@
                 "url": "https://finance.yahoo.com/news/rigetti-computing-nasdaqcm-rgti-selected-184425845.html"
             },
             {
+                "headline": "We recently published a list of Jim Cramer Was Talking About These 10 Stocks Amid Trump\u2019s Trade Wars. In this article, we are going to take a look at where Rigetti Computing, Inc. (NASDAQ:RGTI) stands against other stocks that Jim Cramer was talking about amid Trump\u2019s trade wars. Jim Cramer in a latest program on [\u2026]",
+                "publication_date": "2025-04-04T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.802",
+                "source": "Insider Monkey",
+                "ticker": "RGTI",
+                "title": "Jim Cramer on Rigetti Computing (RGTI): \u2018It\u2019s a Meme Stock\u2019",
+                "url": "https://finance.yahoo.com/news/jim-cramer-rigetti-computing-rgti-215239484.html"
+            },
+            {
+                "headline": "We recently published a list of Jim Cramer Was Talking About These 10 Stocks Amid Trump\u2019s Trade Wars. In this article, we are going to take a look at where Rigetti Computing, Inc. (NASDAQ:RGTI) stands against other stocks that Jim Cramer was talking about amid Trump\u2019s trade wars. Jim Cramer in a latest program on [\u2026]",
+                "publication_date": "2025-04-04T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.802",
+                "source": "Insider Monkey",
+                "ticker": "RGTI",
+                "title": "Jim Cramer on Rigetti Computing (RGTI): \u2018It\u2019s a Meme Stock\u2019",
+                "url": "https://finance.yahoo.com/news/jim-cramer-rigetti-computing-rgti-215239484.html"
+            },
+            {
                 "headline": "In recent developments, Rigetti Computing (NasdaqCM:RGTI) announced its participation in DARPA's Quantum Benchmarking Initiative, a move that aligns with its strategic goals to advance quantum computing. This announcement comes amidst Rigetti's performance figures showing a slight 4% increase in its stock price over the past month, a period marked by significant volatility in broader markets. Despite a weak fourth-quarter earnings report revealing a substantial increase in net loss, the...",
                 "publication_date": "2025-04-04T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -448,7 +508,7 @@
                 "url": "https://finance.yahoo.com/news/rigetti-computing-nasdaqcm-rgti-selected-184425845.html"
             }
         ],
-        "avgScore": 0.7435,
+        "avgScore": -0.029249999999999998,
         "pctChange": 0.11066665649414062
     },
     "4 3 2025": {
@@ -517,32 +577,6 @@
         "avgScore": 0.504275,
         "pctChange": -0.07975455815389239
     },
-    "4 2 2025": {
-        "importantArticles": [
-            {
-                "headline": "Rigetti Computing, Inc. (RGTI) closed at $7.81 in the latest trading session, marking a -1.39% move from the prior day.",
-                "publication_date": "2025-04-02T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "RGTI",
-                "title": "Rigetti Computing, Inc. (RGTI) Stock Sinks As Market Gains: What You Should Know",
-                "url": "https://finance.yahoo.com/news/rigetti-computing-inc-rgti-stock-220018666.html"
-            },
-            {
-                "headline": "Rigetti Computing, Inc. (RGTI) closed at $7.81 in the latest trading session, marking a -1.39% move from the prior day.",
-                "publication_date": "2025-04-02T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "RGTI",
-                "title": "Rigetti Computing, Inc. (RGTI) Stock Sinks As Market Gains: What You Should Know",
-                "url": "https://finance.yahoo.com/news/rigetti-computing-inc-rgti-stock-220018666.html"
-            }
-        ],
-        "avgScore": 0.0,
-        "pctChange": -0.04004713330435242
-    },
     "4 1 2025": {
         "importantArticles": [
             {
@@ -556,6 +590,16 @@
                 "url": "https://finance.yahoo.com/news/rigetti-computing-inc-rgti-best-165902846.html"
             },
             {
+                "headline": "Rigetti Computing, Inc. (RGTI) closed at $7.81 in the latest trading session, marking a -1.39% move from the prior day.",
+                "publication_date": "2025-04-01T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "RGTI",
+                "title": "Rigetti Computing, Inc. (RGTI) Stock Sinks As Market Gains: What You Should Know",
+                "url": "https://finance.yahoo.com/news/rigetti-computing-inc-rgti-stock-220018666.html"
+            },
+            {
                 "headline": "Defiance Launches RGTX: 2X Leveraged ETF for Rigetti Computing, Inc. Defiance ETFs introduces RGTX, the Defiance Daily Target 2X Long RGTI ETF, a 2X leveraged single-stock ETF designed to provide amplified exposure to Rigetti Computing, Inc. (Nasdaq: RGTI). MIAMI, April 01, 2025 (GLOBE NEWSWIRE) -- Defiance ETFs introduces RGTX, the Defiance Daily Target 2X Long RGTI ETF, a 2X leveraged single-stock ETF designed to provide amplified exposure to Rigetti Computing, Inc. (Nasdaq: RGTI). This ETF of",
                 "publication_date": "2025-04-01T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -574,6 +618,16 @@
                 "ticker": "RGTI",
                 "title": "Defiance Launches RGTX: 2X Leveraged ETF for Rigetti Computing, Inc.",
                 "url": "https://finance.yahoo.com/news/defiance-launches-rgtx-2x-leveraged-100000274.html"
+            },
+            {
+                "headline": "Rigetti Computing, Inc. (RGTI) closed at $7.81 in the latest trading session, marking a -1.39% move from the prior day.",
+                "publication_date": "2025-04-01T00:00:00.000Z",
+                "sentiment": "Neutral",
+                "sentimentScore": "0.0",
+                "source": "Zacks",
+                "ticker": "RGTI",
+                "title": "Rigetti Computing, Inc. (RGTI) Stock Sinks As Market Gains: What You Should Know",
+                "url": "https://finance.yahoo.com/news/rigetti-computing-inc-rgti-stock-220018666.html"
             },
             {
                 "headline": "We recently published a list of 10 Best Debt-Free IT Stocks to Buy Under $10. In this article, we are going to take a look at where Rigetti Computing Inc. (NASDAQ:RGTI) stands against other best debt-free IT stocks to buy under $10. Debt generally has a negative connotation \u2013 it could be a burden on [\u2026]",
@@ -586,7 +640,7 @@
                 "url": "https://finance.yahoo.com/news/rigetti-computing-inc-rgti-best-165902846.html"
             }
         ],
-        "avgScore": 0.0386,
+        "avgScore": 0.025733333333333334,
         "pctChange": 0.08706784037396732
     },
     "3 31 2025": {
@@ -753,12 +807,12 @@
         "avgScore": 0.2758333333333333,
         "pctChange": -0.07734204951460265
     },
-    "coef": 0.3392103399249517,
-    "avgCoef": -0.0033354449052034334,
+    "coef": 0.08169614164262227,
+    "avgCoef": -0.015708873715172045,
     "similar": {
-        "META": 0.5004453846165521,
-        "LCID": 0.46520275189707655,
-        "SMCI": 0.46079742280714214,
-        "APH": 0.45991635698915523
+        "NKE": 0.5305078564894332,
+        "SNAP": 0.48707446473006444,
+        "GRAB": 0.45605061347337245,
+        "CORZ": 0.449845843222034
     }
 }

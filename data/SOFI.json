@@ -628,26 +628,6 @@
                 "url": "https://finance.yahoo.com/news/nvidia-nvda-start-look-interesting-143513758.html"
             },
             {
-                "headline": "(Reuters) -Financial technology companies like Robinhood and buy now, pay later provider Affirm have been caught in the whirlwind of President Donald Trump's sweeping tariffs, sending shares sharply downward amid fears about worsening consumer finances.  Global markets have been battered since Trump last week introduced a new baseline 10% U.S. tariff on goods from all economies.  Investors fear that the duties could lead to higher prices, weaker demand and potentially a global recession.",
-                "publication_date": "2025-04-08T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.8979",
-                "source": "Reuters",
-                "ticker": "SOFI",
-                "title": "Fintech companies caught up in tariff turmoil",
-                "url": "https://finance.yahoo.com/news/fintech-companies-caught-tariff-turmoil-214852979.html"
-            },
-            {
-                "headline": "(Reuters) -Financial technology companies like Robinhood and buy now, pay later provider Affirm have been caught in the whirlwind of President Donald Trump's sweeping tariffs, sending shares sharply downward amid fears about worsening consumer finances.  Global markets have been battered since Trump last week introduced a new baseline 10% U.S. tariff on goods from all economies.  Investors fear that the duties could lead to higher prices, weaker demand and potentially a global recession.",
-                "publication_date": "2025-04-08T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.8979",
-                "source": "Reuters",
-                "ticker": "SOFI",
-                "title": "Fintech companies caught up in tariff turmoil",
-                "url": "https://finance.yahoo.com/news/fintech-companies-caught-tariff-turmoil-214852979.html"
-            },
-            {
                 "headline": "Analysts are poised to cut their estimates on Nvidia (NVDA) soon, and the shares could \u201cstart to look interesting\u201d after that occurs, well-known investor Dan Niles said on CNBC recently. Separately, Morgan Stanley slashed its price target on SoFi (SOFI), a lender and fintech name, and Schwab Network explained why SOFI could be vulnerable in [\u2026]",
                 "publication_date": "2025-04-08T00:00:00.000Z",
                 "sentiment": "Negative",
@@ -668,7 +648,7 @@
                 "url": "https://finance.yahoo.com/news/galileo-deposit-sweep-product-amplifies-120000741.html"
             }
         ],
-        "avgScore": -0.0971,
+        "avgScore": 0.3033,
         "pctChange": 0.1989474045602899
     },
     "4 7 2025": {
@@ -684,6 +664,26 @@
                 "url": "https://finance.yahoo.com/news/week-digital-payment-europes-rising-120739853.html"
             },
             {
+                "headline": "(Reuters) -Financial technology companies like Robinhood and buy now, pay later provider Affirm have been caught in the whirlwind of President Donald Trump's sweeping tariffs, sending shares sharply downward amid fears about worsening consumer finances.  Global markets have been battered since Trump last week introduced a new baseline 10% U.S. tariff on goods from all economies.  Investors fear that the duties could lead to higher prices, weaker demand and potentially a global recession.",
+                "publication_date": "2025-04-07T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.8979",
+                "source": "Reuters",
+                "ticker": "SOFI",
+                "title": "Fintech companies caught up in tariff turmoil",
+                "url": "https://finance.yahoo.com/news/fintech-companies-caught-tariff-turmoil-214852384.html"
+            },
+            {
+                "headline": "(Reuters) -Financial technology companies like Robinhood and buy now, pay later provider Affirm have been caught in the whirlwind of President Donald Trump's sweeping tariffs, sending shares sharply downward amid fears about worsening consumer finances.  Global markets have been battered since Trump last week introduced a new baseline 10% U.S. tariff on goods from all economies.  Investors fear that the duties could lead to higher prices, weaker demand and potentially a global recession.",
+                "publication_date": "2025-04-07T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.8979",
+                "source": "Reuters",
+                "ticker": "SOFI",
+                "title": "Fintech companies caught up in tariff turmoil",
+                "url": "https://finance.yahoo.com/news/fintech-companies-caught-tariff-turmoil-214852384.html"
+            },
+            {
                 "headline": "The digital payment landscape in Europe is undergoing significant transformation, with projections indicating robust growth through 2028, largely influenced by smartphone penetration, contactless technology, and digital wallets. In 2024, the adoption rate for digital payments surpassed 60% for online transactions and 25% for in-store payments, driven by the popularity of global and OEM digital wallets. Non-cash transactions are forecasted to increase at a compound annual growth rate exceeding...",
                 "publication_date": "2025-04-07T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -694,7 +694,7 @@
                 "url": "https://finance.yahoo.com/news/week-digital-payment-europes-rising-120739853.html"
             }
         ],
-        "avgScore": 0.9153,
+        "avgScore": 0.008699999999999986,
         "pctChange": -0.03651112263816889
     },
     "4 4 2025": {
@@ -1005,12 +1005,12 @@
         "avgScore": 0.57125,
         "pctChange": -0.066564644672762
     },
-    "coef": 0.02857142857142857,
-    "avgCoef": 0.0026350840216192643,
+    "coef": 0.2311688311688312,
+    "avgCoef": -0.015655535696705008,
     "similar": {
-        "NOK": 0.23766233766233766,
-        "KVUE": 0.2,
-        "RIVN": 0.1883116883116883,
-        "VRT": 0.1883116883116883
+        "UAA": 0.4454545454545455,
+        "KVUE": 0.44415584415584414,
+        "WMT": 0.4402597402597402,
+        "CNH": 0.4397531898056811
     }
 }

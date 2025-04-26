@@ -523,58 +523,12 @@
         "avgScore": 0.5423,
         "pctChange": -0.02317737822346684
     },
-    "3 26 2025": {
-        "importantArticles": [
-            {
-                "headline": "Quarterly earnings results are a good time to check in on a company\u2019s progress, especially compared to its peers in the same sector. Today we are looking at Benchmark (NYSE:BHE) and the best and worst performers in the electronic components & manufacturing industry.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7003",
-                "source": "StockStory",
-                "ticker": "APH",
-                "title": "Firing on All Cylinders: Benchmark (NYSE:BHE) Q4 Earnings Lead the Way",
-                "url": "https://finance.yahoo.com/news/firing-cylinders-benchmark-nyse-bhe-090347215.html"
-            },
-            {
-                "headline": "Here is how Amphenol (APH) and Anterix (ATEX) have performed compared to their sector so far this year.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "APH",
-                "title": "Is Amphenol (APH) Stock Outpacing Its Computer and Technology Peers This Year?",
-                "url": "https://finance.yahoo.com/news/amphenol-aph-stock-outpacing-computer-134008217.html"
-            },
-            {
-                "headline": "Here is how Amphenol (APH) and Anterix (ATEX) have performed compared to their sector so far this year.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "APH",
-                "title": "Is Amphenol (APH) Stock Outpacing Its Computer and Technology Peers This Year?",
-                "url": "https://finance.yahoo.com/news/amphenol-aph-stock-outpacing-computer-134008217.html"
-            },
-            {
-                "headline": "Quarterly earnings results are a good time to check in on a company\u2019s progress, especially compared to its peers in the same sector. Today we are looking at Benchmark (NYSE:BHE) and the best and worst performers in the electronic components & manufacturing industry.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.7003",
-                "source": "StockStory",
-                "ticker": "APH",
-                "title": "Firing on All Cylinders: Benchmark (NYSE:BHE) Q4 Earnings Lead the Way",
-                "url": "https://finance.yahoo.com/news/firing-cylinders-benchmark-nyse-bhe-090347215.html"
-            }
-        ],
-        "avgScore": 0.35015,
-        "pctChange": 0.008730339181783021
-    },
-    "coef": -0.43214285714285705,
-    "avgCoef": -0.014646471028169912,
+    "coef": -0.4241758241758242,
+    "avgCoef": -0.02636792418467283,
     "similar": {
-        "VOD": 0.6964285714285713,
-        "HLN": 0.47857142857142854,
-        "PFE": 0.3928571428571428,
-        "TMUS": 0.37499999999999994
+        "VOD": 0.6923076923076923,
+        "HLN": 0.4901098901098901,
+        "TMUS": 0.45494505494505494,
+        "PFE": 0.410989010989011
     }
 }

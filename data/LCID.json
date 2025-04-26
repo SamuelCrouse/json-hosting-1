@@ -43,7 +43,7 @@
             }
         ],
         "avgScore": 0.50605,
-        "pctChange": 0.02669406930098804
+        "pctChange": 0.024590139906754887
     },
     "4 22 2025": {
         "importantArticles": [
@@ -947,58 +947,12 @@
         "avgScore": 0.2263,
         "pctChange": 0.04310351117612814
     },
-    "3 26 2025": {
-        "importantArticles": [
-            {
-                "headline": "We recently published a list of Top 10 Trending AI News Updates Investors Should Not Miss. In this article, we are going to take a look at where Lucid Group Inc. (NASDAQ:LCID) stands against other top trending AI news updates investors should not miss. Generative artificial intelligence is the technology that promises to revolutionize the [\u2026]",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8477",
-                "source": "Insider Monkey",
-                "ticker": "LCID",
-                "title": "Lucid Group Inc. (LCID) Strengthens AI Strategy Amid Leadership Shift",
-                "url": "https://finance.yahoo.com/news/lucid-group-inc-lcid-strengthens-192127945.html"
-            },
-            {
-                "headline": "Earnings results often indicate what direction a company will take in the months ahead. With Q4 behind us, let\u2019s have a look at Tesla (NASDAQ:TSLA) and its peers.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "StockStory",
-                "ticker": "LCID",
-                "title": "Q4 Earnings Highs And Lows: Tesla (NASDAQ:TSLA) Vs The Rest Of The Automobile Manufacturing Stocks",
-                "url": "https://finance.yahoo.com/news/q4-earnings-highs-lows-tesla-090146697.html"
-            },
-            {
-                "headline": "Earnings results often indicate what direction a company will take in the months ahead. With Q4 behind us, let\u2019s have a look at Tesla (NASDAQ:TSLA) and its peers.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "StockStory",
-                "ticker": "LCID",
-                "title": "Q4 Earnings Highs And Lows: Tesla (NASDAQ:TSLA) Vs The Rest Of The Automobile Manufacturing Stocks",
-                "url": "https://finance.yahoo.com/news/q4-earnings-highs-lows-tesla-090146697.html"
-            },
-            {
-                "headline": "We recently published a list of Top 10 Trending AI News Updates Investors Should Not Miss. In this article, we are going to take a look at where Lucid Group Inc. (NASDAQ:LCID) stands against other top trending AI news updates investors should not miss. Generative artificial intelligence is the technology that promises to revolutionize the [\u2026]",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8477",
-                "source": "Insider Monkey",
-                "ticker": "LCID",
-                "title": "Lucid Group Inc. (LCID) Strengthens AI Strategy Amid Leadership Shift",
-                "url": "https://finance.yahoo.com/news/lucid-group-inc-lcid-strengthens-192127945.html"
-            }
-        ],
-        "avgScore": 0.42385,
-        "pctChange": 0.027600873330791552
-    },
-    "coef": -0.0017574719584405095,
-    "avgCoef": -0.014517348041663415,
+    "coef": -0.07549137139128387,
+    "avgCoef": -0.02869615314691369,
     "similar": {
-        "KGC": 0.48506226052958057,
-        "NGD": 0.4253082139426033,
-        "INSM": 0.42179327002572226,
-        "KVUE": 0.40949096631663867
+        "KGC": 0.4829379512291721,
+        "INSM": 0.4167537352148959,
+        "KVUE": 0.40641245146266525,
+        "NGD": 0.4002076812113269
     }
 }

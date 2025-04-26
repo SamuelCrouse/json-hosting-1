@@ -1,4 +1,70 @@
 {
+    "4 25 2025": {
+        "importantArticles": [
+            {
+                "headline": "Cerence AI, in collaboration with MediaTek and NVIDIA, has unveiled an advanced multi-modal language model designed for automotive applications, just ahead of Auto Shanghai 2025. This development integrates Cerence's CaLLM Edge technology with MediaTek's Dimensity Auto Cockpit chipsets and NVIDIA's AI Enterprise software, creating a solution that enhances in-car interactions through increased intelligence and security. The system aims to provide both drivers and passengers with personalized,...",
+                "publication_date": "2025-04-25T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9022",
+                "source": "Simply Wall St.",
+                "ticker": "INTC",
+                "title": "AI Chips Today - Cerence AI Revolutionizing Automotive Interaction With New Partnership",
+                "url": "https://finance.yahoo.com/news/ai-chips-today-cerence-ai-113734043.html"
+            },
+            {
+                "headline": "Intel (NASDAQ: INTC) stock is seeing big sell-offs Friday following the company's first-quarter report.  Intel's sales and earnings results in the first quarter actually came in significantly ahead of Wall Street's expectations, but it looks like near-term performance will be uneven.  Intel's non-GAAP (adjusted) earnings per share of $0.13 on revenue of $12.67 billion came in significantly ahead of the average analyst estimate's call for per-share earnings of $0.01 on sales of $12.3 billion.",
+                "publication_date": "2025-04-25T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7227",
+                "source": "Motley Fool",
+                "ticker": "INTC",
+                "title": "Why Intel Stock Is Plunging Today",
+                "url": "https://finance.yahoo.com/news/why-intel-stock-plunging-today-195556466.html"
+            },
+            {
+                "headline": "In the recent period, Intel (NasdaqGS:INTC) experienced a 14% price increase, coinciding with significant events, including the launch of Ohio's AI Education Network and the announcement of its Q1 earnings results. The company's collaboration in the AI initiative, aiming to boost education in the state, may have provided a positive sentiment. However, the notable aspects were the Q1 results revealing a drop in sales and a higher net loss, which could have weighed against broad market gains...",
+                "publication_date": "2025-04-25T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7184",
+                "source": "Simply Wall St.",
+                "ticker": "INTC",
+                "title": "Intel (NasdaqGS:INTC) Collaborates on AI Education in Ohio Amid Earnings Report",
+                "url": "https://finance.yahoo.com/news/intel-nasdaqgs-intc-collaborates-ai-172041418.html"
+            },
+            {
+                "headline": "(Reuters) -Intel's shares fell more than 8% on Friday as the company's weak revenue and profit forecasts overshadowed new CEO Lip-Bu Tan's strategy to revitalise the embattled chipmaker.  Years of bad decisions have left the struggling American chipmaking icon trailing in the lucrative artificial intelligence industry, while a raging Sino-U.S. trade war casts doubt on near-term demand for its PC processors.  Tan on Thursday gave glimpses of his plans to reanimate Intel's culture of innovation by focusing on core engineering, stripping away unnecessary administrative work and cutting workforce.",
+                "publication_date": "2025-04-25T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.8807",
+                "source": "Reuters",
+                "ticker": "INTC",
+                "title": "Intel shares fall as dour forecasts overshadow CEO's turnaround promises",
+                "url": "https://finance.yahoo.com/news/intel-shares-sag-downbeat-forecasts-063007994.html"
+            },
+            {
+                "headline": "U.S.-China ocean shipments slow dramatically amid trade war, Trump pushes deep-sea mining and drilling on public lands, and other news to start your day.",
+                "publication_date": "2025-04-25T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.5994",
+                "source": "Barrons.com",
+                "ticker": "INTC",
+                "title": "Google Gives Stock Markets Hope of a Big Tech Comeback and 5 Other Things to Know Today",
+                "url": "https://finance.yahoo.com/m/1e87e5c5-a408-3cc5-970d-4b95aad3cc18/google-gives-stock-markets.html"
+            },
+            {
+                "headline": "Chipmaker's forecast, weak PC numbers, and new CEO's strategy all suggest recovery will take time, analysts note",
+                "publication_date": "2025-04-25T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.4404",
+                "source": "GuruFocus.com",
+                "ticker": "INTC",
+                "title": "Intel's New CEO Faces Steep Climb as Wall Street Signals Patience",
+                "url": "https://finance.yahoo.com/news/intels-ceo-faces-steep-climb-144156389.html"
+            }
+        ],
+        "avgScore": 0.058503225806451585,
+        "pctChange": 0.016218940813414122
+    },
     "4 24 2025": {
         "importantArticles": [
             {
@@ -32,14 +98,14 @@
                 "url": "https://finance.yahoo.com/news/microsoft-just-showed-future-ai-101000210.html"
             },
             {
-                "headline": "Intel reported better-than-anticipated Q1 earnings, but its Q2 outlook was worse than expected.",
+                "headline": "(Reuters) -A Sino-U.S. trade war that threatens Intel's revenue from its biggest market, China, has become an unlikely driver of demand for the embattled chipmaker's older generation of personal computer and server chips, company executives said on Thursday.  A worsening economic outlook and the prospect of higher prices brought on by U.S. President Donald Trump's sweeping global tariffs and Beijing's retaliatory levies is prompting customers to fall back on cheaper, older processors.  \"In client, we are seeing strong demand on older-gen parts and in data center as well,\" the chief executive of Intel's products unit, Michelle Johnston Holthaus, said during a call after Intel posted results.",
                 "publication_date": "2025-04-24T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.631",
-                "source": "Yahoo Finance",
+                "sentimentScore": "-0.7184",
+                "source": "Reuters",
                 "ticker": "INTC",
-                "title": "Intel beats on Q1 expectations, but poor Q2 forecast sends stock sliding",
-                "url": "https://finance.yahoo.com/news/intel-beats-on-q1-expectations-but-poor-q2-forecast-sends-stock-sliding-192248720.html"
+                "title": "Trade tensions are giving Intel's older chips a second life",
+                "url": "https://finance.yahoo.com/news/trade-tensions-giving-intels-older-004923626.html"
             },
             {
                 "headline": "(Bloomberg) -- Wall Street investors weighing the impacts of Donald Trump\u2019s trade war on Corporate America sent stocks climbing amid bets the Federal Reserve could cut rates sooner than anticipated to prevent a recession.Most Read from BloombergTrump Gives New York \u2018One Last Chance\u2019 to End Congestion FeeWhy Car YouTuber Matt Farah Is Fighting for Walkable CitiesBackyard Micro-Flats Aim to Ease South Africa\u2019s Housing CrisisThe Racial Wealth Gap Is Not Just About MoneyTo Fuel Affordable Housing, T",
@@ -62,8 +128,8 @@
                 "url": "https://finance.yahoo.com/news/intel-warns-choppy-outlook-amid-225925919.html"
             }
         ],
-        "avgScore": 0.14483636363636368,
-        "pctChange": 0.021145150544593577
+        "avgScore": 0.14331923076923078,
+        "pctChange": -0.06700793622124321
     },
     "4 23 2025": {
         "importantArticles": [
@@ -88,14 +154,14 @@
                 "url": "https://finance.yahoo.com/news/prediction-2-artificial-intelligence-ai-223000088.html"
             },
             {
-                "headline": "After sell-offs yesterday, Intel (NASDAQ: INTC) stock rallied in Tuesday's trading.  The semiconductor company's share price gained 2.8% amid a 2.5% gain for the S&P 500 and a 2.7% gain for the Nasdaq Composite.  Bloomberg reported today that U.S. Treasury Secretary Scott Bessent said at an investor conference this morning that the U.S.-China trade war could see significant de-escalation in the near term.",
+                "headline": "Intel (NASDAQ: INTC) stock is roaring higher in Wednesday trading thanks to a combination of bullish catalysts.  The stock market is jumping thanks to news that the Trump administration is interested in lowering tariffs on China and reducing trade war tensions, and Intel is a getting a significant valuation boost from the trend.  Recent comments from President Donald Trump, Treasury Secretary Scott Bessent, and White House press secretary Karoline Leavitt suggest that the administration is interested in making a trade deal with China that will significantly lower tariffs on the country's goods.",
                 "publication_date": "2025-04-23T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.8519",
+                "sentimentScore": "0.6908",
                 "source": "Motley Fool",
                 "ticker": "INTC",
-                "title": "Why Intel Stock Surged Today",
-                "url": "https://finance.yahoo.com/news/why-intel-stock-surged-today-014044317.html"
+                "title": "Why Intel Stock Is Jumping Today",
+                "url": "https://finance.yahoo.com/news/why-intel-stock-jumping-today-164300834.html"
             },
             {
                 "headline": "Big Tech is preparing for its first earnings since Trump launched his global trade war.",
@@ -128,20 +194,30 @@
                 "url": "https://finance.yahoo.com/video/apple-meta-fined-intel-layoff-135420929.html"
             }
         ],
-        "avgScore": 0.1006833333333333,
+        "avgScore": 0.03928181818181822,
         "pctChange": 0.04371052024577841
     },
     "4 22 2025": {
         "importantArticles": [
             {
-                "headline": "We recently published a list of 13 Best Edge Computing Stocks to Buy According to Hedge Funds. In this article, we are going to take a look at where Intel Corporation (NASDAQ:INTC) stands against other best edge computing stocks to buy according to hedge funds. Tech companies have been on a tear in recent years, [\u2026]",
+                "headline": "After sell-offs yesterday, Intel (NASDAQ: INTC) stock rallied in Tuesday's trading.  The semiconductor company's share price gained 2.8% amid a 2.5% gain for the S&P 500 and a 2.7% gain for the Nasdaq Composite.  Bloomberg reported today that U.S. Treasury Secretary Scott Bessent said at an investor conference this morning that the U.S.-China trade war could see significant de-escalation in the near term.",
                 "publication_date": "2025-04-22T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.8555",
-                "source": "Insider Monkey",
+                "sentimentScore": "0.8519",
+                "source": "Motley Fool",
                 "ticker": "INTC",
-                "title": "Is Intel Corporation (INTC) the Best Edge Computing Stock to Buy According to Hedge Funds?",
-                "url": "https://finance.yahoo.com/news/intel-corporation-intc-best-edge-015633680.html"
+                "title": "Why Intel Stock Surged Today",
+                "url": "https://finance.yahoo.com/news/why-intel-stock-surged-today-014044317.html"
+            },
+            {
+                "headline": "Intel did not immediately respond to a Reuters request for comment.  The layoffs mark a major step under new CEO Lip-Bu Tan, who took over Intel last month, to revive the faltering American firm after years of challenges and management missteps.  Last week, Reuters reported that Tan was flattening Intel's leadership team, and appointed a new AI chief to head Intel's artificial intelligence ambitions.",
+                "publication_date": "2025-04-22T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.7003",
+                "source": "Reuters",
+                "ticker": "INTC",
+                "title": "Intel to lay off more than 20% of workforce, Bloomberg News reports",
+                "url": "https://finance.yahoo.com/news/intel-cut-over-20-workforce-004251821.html"
             },
             {
                 "headline": "Bernstein SocGen, a wealth-management firm, lowered its price target on Intel (INTC) to $21 from $25 while keeping a Market Perform rating on the shares. A Tale of Two Halves Intel will benefit from increased purchases of computerized products in the first half of 2025 as consumers and businesses look to stockpile such offerings ahead [\u2026]",
@@ -152,16 +228,6 @@
                 "ticker": "INTC",
                 "title": "Intel (INTC) Price Target Cut to $21 by Wealth Manager",
                 "url": "https://finance.yahoo.com/news/intel-intc-price-target-cut-181109278.html"
-            },
-            {
-                "headline": "Why investors should use the Zacks Earnings ESP tool to help find stocks that are poised to top quarterly earnings estimates.",
-                "publication_date": "2025-04-22T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6705",
-                "source": "Zacks",
-                "ticker": "INTC",
-                "title": "These 2 Computer and Technology Stocks Could Beat Earnings: Why They Should Be on Your Radar",
-                "url": "https://finance.yahoo.com/news/2-computer-technology-stocks-could-130011762.html"
             },
             {
                 "headline": "Intel Rides Tariff Wave, But Underlying Demand Still Weak",
@@ -194,7 +260,7 @@
                 "url": "https://finance.yahoo.com/news/tesla-alphabet-3-other-tech-145500690.html"
             }
         ],
-        "avgScore": 0.23988888888888893,
+        "avgScore": 0.28557,
         "pctChange": 0.055356223015685324
     },
     "4 21 2025": {
@@ -220,14 +286,14 @@
                 "url": "https://finance.yahoo.com/video/trump-tariffs-really-mean-semiconductors-120019266.html"
             },
             {
-                "headline": "It won't be so easy to build US manufacturing if you are Apple, warns Intel's former CEO.",
+                "headline": "We recently published a list of 13 Best Edge Computing Stocks to Buy According to Hedge Funds. In this article, we are going to take a look at where Intel Corporation (NASDAQ:INTC) stands against other best edge computing stocks to buy according to hedge funds. Tech companies have been on a tear in recent years, [\u2026]",
                 "publication_date": "2025-04-21T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.5173",
-                "source": "Yahoo Finance",
+                "sentimentScore": "0.8555",
+                "source": "Insider Monkey",
                 "ticker": "INTC",
-                "title": "Apple may have a key problem bringing back manufacturing to beat Trump tariffs, former Intel CEO warns",
-                "url": "https://finance.yahoo.com/news/apple-may-have-a-key-problem-bringing-back-manufacturing-to-beat-trump-tariffs-former-intel-ceo-warns-132151346.html"
+                "title": "Is Intel Corporation (INTC) the Best Edge Computing Stock to Buy According to Hedge Funds?",
+                "url": "https://finance.yahoo.com/news/intel-corporation-intc-best-edge-015633680.html"
             },
             {
                 "headline": "New Intel CEO tackles AI and foundry struggles amid deep losses and market challenges",
@@ -260,7 +326,7 @@
                 "url": "https://finance.yahoo.com/news/intels-ceo-earnings-debut-week-100000655.html"
             }
         ],
-        "avgScore": 0.23033333333333336,
+        "avgScore": 0.3196428571428571,
         "pctChange": 0.03556263645793618
     },
     "4 17 2025": {
@@ -382,17 +448,17 @@
                 "url": "https://finance.yahoo.com/news/intel-license-export-ai-chips-203005609.html"
             },
             {
-                "headline": "We recently published a list of 10 AI Stocks on the Move. In this article, we are going to take a look at where Intel Corporation (NASDAQ:INTC) stands against other AI stocks on the move. Market uncertainty aside, the AI race is tighter than ever. A report by Stanford University\u2019s Institute for Human-Centered AI (HAI) [\u2026]",
+                "headline": "AI chip giant Nvidia warned that it will take a financial hit from new requirements around its H20 chips, which are aimed at the Chinese market.",
                 "publication_date": "2025-04-16T00:00:00.000Z",
                 "sentiment": "Negative",
-                "sentimentScore": "-0.34",
-                "source": "Insider Monkey",
+                "sentimentScore": "-0.2732",
+                "source": "FastCompany",
                 "ticker": "INTC",
-                "title": "Intel Corporation (INTC): Sells 51% of Altera for $4.46B to Refocus on AI Strategy",
-                "url": "https://finance.yahoo.com/news/intel-corporation-intc-sells-51-034023793.html"
+                "title": "Chip stocks update: Nvidia, AMD, TSMC, Intel share prices fall after Trump\u2019s export license demand",
+                "url": "https://finance.yahoo.com/news/chip-stocks-nvidia-amd-tsmc-122400228.html"
             }
         ],
-        "avgScore": 0.1391153846153846,
+        "avgScore": 0.17904166666666665,
         "pctChange": -0.015600584721889122
     },
     "4 15 2025": {
@@ -428,6 +494,16 @@
                 "url": "https://finance.yahoo.com/news/intel-sell-majority-stake-altera-090625006.html"
             },
             {
+                "headline": "We recently published a list of 10 AI Stocks on the Move. In this article, we are going to take a look at where Intel Corporation (NASDAQ:INTC) stands against other AI stocks on the move. Market uncertainty aside, the AI race is tighter than ever. A report by Stanford University\u2019s Institute for Human-Centered AI (HAI) [\u2026]",
+                "publication_date": "2025-04-15T00:00:00.000Z",
+                "sentiment": "Negative",
+                "sentimentScore": "-0.34",
+                "source": "Insider Monkey",
+                "ticker": "INTC",
+                "title": "Intel Corporation (INTC): Sells 51% of Altera for $4.46B to Refocus on AI Strategy",
+                "url": "https://finance.yahoo.com/news/intel-corporation-intc-sells-51-034023793.html"
+            },
+            {
                 "headline": "The sale to private equity firm Silver Lake comes as the chipmaker looks to shore up its finances.",
                 "publication_date": "2025-04-15T00:00:00.000Z",
                 "sentiment": "Neutral",
@@ -446,19 +522,9 @@
                 "ticker": "INTC",
                 "title": "Intel: Overblown Optimism Meets Stark Reality",
                 "url": "https://finance.yahoo.com/news/intel-overblown-optimism-meets-stark-095756917.html"
-            },
-            {
-                "headline": "Companies In The Article Are:PLTR, INTC, DELL,GS",
-                "publication_date": "2025-04-15T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "INTC",
-                "title": "Company News for Apr 15, 2025",
-                "url": "https://finance.yahoo.com/news/company-news-apr-15-2025-135800533.html"
             }
         ],
-        "avgScore": 0.22402000000000002,
+        "avgScore": 0.17274545454545456,
         "pctChange": -0.031234298605463933
     },
     "4 14 2025": {
@@ -656,7 +722,7 @@
                 "url": "https://finance.yahoo.com/news/market-chatter-intel-ceo-apos-111640466.html"
             }
         ],
-        "avgScore": 0.33845833333333347,
+        "avgScore": 0.31992727272727284,
         "pctChange": -0.0070422231166250675
     },
     "4 9 2025": {
@@ -722,7 +788,7 @@
                 "url": "https://finance.yahoo.com/news/amd-downgraded-dollar-general-upgraded-133520598.html"
             }
         ],
-        "avgScore": 0.45105,
+        "avgScore": 0.4614875,
         "pctChange": -0.07663731877641596
     },
     "4 8 2025": {
@@ -738,263 +804,45 @@
                 "url": "https://finance.yahoo.com/news/etsy-etsy-snap-snap-lyft-215228650.html"
             },
             {
-                "headline": "Intel CEO Promises 'Startup Culture' in Bid to Regain Market Share",
+                "headline": "Bucking the trend, however, shares of Intel (NASDAQ: INTC) were up 13.3%.  After years of underperformance, Intel has shown signs of turning the tide over the course of the last few months.  Most recently, Intel revived a bump from the news that it and Taiwan Semiconductor Manufacturing Company (TSMC) -- the world's premiere chip manufacturer -- had reportedly reached an agreement that could revitalize Intel's struggling foundry business.",
                 "publication_date": "2025-04-08T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.5859",
-                "source": "GuruFocus.com",
+                "sentimentScore": "0.4588",
+                "source": "Motley Fool",
                 "ticker": "INTC",
-                "title": "Intel's New CEO Talks Culture Shift and AI Comeback in Bold Turnaround Pitch",
-                "url": "https://finance.yahoo.com/news/intels-ceo-talks-culture-shift-191417391.html"
+                "title": "Why Intel Stock Was Up 13.3% in Q1 as the S&P 500 Had Its Worst Quarter Since 2022",
+                "url": "https://finance.yahoo.com/news/why-intel-stock-13-3-012203754.html"
             },
             {
-                "headline": "We came across a bullish thesis on Intel Corporation (INTC) on Substack by DeepValue Capital. In this article, we will summarize the bulls\u2019 thesis on INTC. Intel Corporation (INTC)\u2019s share was trading at $19.57 as of April 7th. INTC\u2019s trailing and forward P/E were 88.08 and 43.67 respectively according to Yahoo Finance. Intel (INTC), once the undisputed [\u2026]",
+                "headline": "Bucking the trend, however, shares of Intel (NASDAQ: INTC) were up 13.3%.  After years of underperformance, Intel has shown signs of turning the tide over the course of the last few months.  Most recently, Intel revived a bump from the news that it and Taiwan Semiconductor Manufacturing Company (TSMC) -- the world's premiere chip manufacturer -- had reportedly reached an agreement that could revitalize Intel's struggling foundry business.",
                 "publication_date": "2025-04-08T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.5574",
-                "source": "Insider Monkey",
+                "sentimentScore": "0.4588",
+                "source": "Motley Fool",
                 "ticker": "INTC",
-                "title": "Intel Corporation (INTC): A Bull Case Theory",
-                "url": "https://finance.yahoo.com/news/intel-corporation-intc-bull-case-131021124.html"
+                "title": "Why Intel Stock Was Up 13.3% in Q1 as the S&P 500 Had Its Worst Quarter Since 2022",
+                "url": "https://finance.yahoo.com/news/why-intel-stock-13-3-012203754.html"
             },
             {
-                "headline": "KeyBanc recently cut its rating on AMD (AMD) to Sector Weight from Overweight, Schwab Network reported today. As reasons for the downgrade, the bank cited tough competition and worries about AMD\u2019s China business. Intense Competition KeyBanc is concerned that AMD will fall further behind Nvidia (NVDA) and lose ground to Intel (INTC). As a result, [\u2026]",
+                "headline": "A number of stocks fell in the afternoon session after markets gave up early gains with optimism over progress in US-China trade talks quickly fading as the Trump administration announced plans to raise tariffs on all Chinese imports to well above 100%.",
                 "publication_date": "2025-04-08T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.8519",
-                "source": "Insider Monkey",
+                "sentiment": "Positive",
+                "sentimentScore": "0.8779",
+                "source": "StockStory",
                 "ticker": "INTC",
-                "title": "AMD Downgraded on Competition, China Worries",
-                "url": "https://finance.yahoo.com/news/amd-downgraded-competition-china-worries-152044409.html"
-            },
-            {
-                "headline": "(Bloomberg) -- Another volatile day on Wall Street pushed the S&P 500 Index back to the brink of a bear market as the Trump administration doubled down on its plans to enact hefty tariffs that threaten to send the American economy into a recession.Most Read from BloombergThe Irish Hot Press Is the Low-Tech Laundry Trick the World NeedsTrump Order on CDFI Fund Risks Aid for Small Businesses, HousingThis Skinny Mexico City Tower Is Just 14 Feet Wide on One SideIn Chicago, a Former Steel Mill Looks",
-                "publication_date": "2025-04-08T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.5994",
-                "source": "Bloomberg",
-                "ticker": "INTC",
-                "title": "US Stocks Tumble Again With Tariffs Set to Roil Global Economy",
-                "url": "https://finance.yahoo.com/news/us-stock-futures-soar-dip-122149874.html"
-            },
-            {
-                "headline": "AMD stock catches a downgrade as Trump tariff fears spread throughout markets.",
-                "publication_date": "2025-04-08T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.4215",
-                "source": "Yahoo Finance",
-                "ticker": "INTC",
-                "title": "AMD stock catches a downgrade as concerns about China and tariffs heat up",
-                "url": "https://finance.yahoo.com/news/amd-stock-catches-a-downgrade-as-concerns-about-china-and-tariffs-heat-up-150108550.html"
+                "title": "Etsy (ETSY) and Snap (SNAP), Lyft (LYFT), Intel (INTC), Target (TGT) Stocks Trade Down, What You Need To Know",
+                "url": "https://finance.yahoo.com/news/etsy-etsy-snap-snap-lyft-215228650.html"
             }
         ],
-        "avgScore": 0.002022222222222197,
+        "avgScore": 0.66835,
         "pctChange": 0.1875345660928945
     },
-    "4 7 2025": {
-        "importantArticles": [
-            {
-                "headline": "Articul8 has introduced A8-SupplyChain, a groundbreaking domain-specific Generative AI model designed to optimize supply chain, manufacturing, and industrial process operations. Leveraging autonomous reasoning and real-time decision-making capabilities, A8-SupplyChain surpasses the limitations of general-purpose language models by effectively handling complex industrial systems and translating technical documentation into actionable procedures. This innovation is incorporated into Articul8's...",
-                "publication_date": "2025-04-07T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.8271",
-                "source": "Simply Wall St.",
-                "ticker": "INTC",
-                "title": "AI Chips Today - Articul8 Transforms Supply Chains With AI-Powered Industrial Solutions",
-                "url": "https://finance.yahoo.com/news/ai-chips-today-articul8-transforms-110732232.html"
-            },
-            {
-                "headline": "Zacks.com users have recently been watching Intel (INTC) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
-                "publication_date": "2025-04-07T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4767",
-                "source": "Zacks",
-                "ticker": "INTC",
-                "title": "Investors Heavily Search Intel Corporation (INTC): Here is What You Need to Know",
-                "url": "https://finance.yahoo.com/news/investors-heavily-search-intel-corporation-130016541.html"
-            },
-            {
-                "headline": "With Lip-Bu Tan as the new CEO, Intel stock might become a top buy this year with a potential turnaround.",
-                "publication_date": "2025-04-07T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.2023",
-                "source": "Zacks",
-                "ticker": "INTC",
-                "title": "Can Intel Be the Turnaround Stock of 2025? Is the Time to Buy Now?",
-                "url": "https://finance.yahoo.com/news/intel-turnaround-stock-2025-time-190000248.html"
-            },
-            {
-                "headline": "China's move to impose 34% tariffs on all U.S. goods in a tit-for-tat blow against U.S. President Donald Trump is set to roil industries from aviation to agriculture.  China's retaliatory tariffs are set to hit Boeing hard, making its planes far more expensive than those of rivals Airbus and Commercial Aircraft Corporation of China (COMAC).  While Beijing did not impose tariffs on Boeing during Trump's first trade war with China, its sales and deliveries to China plummeted after 2019 following two fatal crashes of MAX 8 jets and amid intensifying tensions between Washington and Beijing over issues ranging from technology to national security.",
-                "publication_date": "2025-04-07T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.91",
-                "source": "Reuters",
-                "ticker": "INTC",
-                "title": "Factbox-US companies most vulnerable to China's retaliatory import tariffs",
-                "url": "https://finance.yahoo.com/news/factbox-us-companies-most-vulnerable-060518500.html"
-            },
-            {
-                "headline": "With Lip-Bu Tan as the new CEO, Intel stock might become a top buy this year with a potential turnaround.",
-                "publication_date": "2025-04-07T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.2023",
-                "source": "Zacks",
-                "ticker": "INTC",
-                "title": "Can Intel Be the Turnaround Stock of 2025? Is the Time to Buy Now?",
-                "url": "https://finance.yahoo.com/news/intel-turnaround-stock-2025-time-190000248.html"
-            },
-            {
-                "headline": "Zacks.com users have recently been watching Intel (INTC) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
-                "publication_date": "2025-04-07T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4767",
-                "source": "Zacks",
-                "ticker": "INTC",
-                "title": "Investors Heavily Search Intel Corporation (INTC): Here is What You Need to Know",
-                "url": "https://finance.yahoo.com/news/investors-heavily-search-intel-corporation-130016541.html"
-            }
-        ],
-        "avgScore": 0.14902499999999994,
-        "pctChange": -0.07358204172269159
-    },
-    "4 4 2025": {
-        "importantArticles": [
-            {
-                "headline": "In a strategic partnership, Navitas Semiconductor and Great Wall have developed a next-generation 400V-DC power architecture specifically designed for AI data centers. Leveraging Navitas\u2019 GaNSense technology, the collaboration has resulted in an ultra-high power density DC-DC converter delivering 2.5kW of power\u2014marking a significant leap in power efficiency and density. This innovative power solution supports evolving data center requirements by accommodating more GPUs while promoting energy...",
-                "publication_date": "2025-04-04T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.9506",
-                "source": "Simply Wall St.",
-                "ticker": "INTC",
-                "title": "AI Chips Today - Pioneering Power Efficiency In Next-Gen Data Centers",
-                "url": "https://finance.yahoo.com/news/ai-chips-today-pioneering-power-110730132.html"
-            },
-            {
-                "headline": "The tech-heavy Nasdaq Composite (^IXIC) is set to enter a bear market. Futurum Group CEO Daniel Newman joins Catalysts with Madison Mills and Lumida Wealth Management CEO Ram Ahluwalia to discuss what President Donald Trump's new tariffs mean for tech CEOs and their artificial intelligence (AI) spending. To watch more expert insights and analysis on the latest market action, check out more Catalysts here.",
-                "publication_date": "2025-04-04T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.743",
-                "source": "Yahoo Finance Video",
-                "ticker": "INTC",
-                "title": "Tariff-fueled downturn shouldn't impact Big Tech's AI spending",
-                "url": "https://finance.yahoo.com/video/tariff-fueled-downturn-shouldnt-impact-170000182.html"
-            },
-            {
-                "headline": "Intel stock was dropping after China said it would retaliate against U.S. tariffs, outweighing hopes of a joint venture with Taiwan Semiconductor Manufacturing.",
-                "publication_date": "2025-04-04T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4215",
-                "source": "Barrons.com",
-                "ticker": "INTC",
-                "title": "Intel Stock Falls. Trade War Fears Overshadow Report of TSMC Joint Venture.",
-                "url": "https://finance.yahoo.com/m/0b8f8438-5a18-3153-a8d3-11fed2b2f47a/intel-stock-falls-trade-war.html"
-            },
-            {
-                "headline": "Investing.com -- Citi analysts are skeptical about reports that Intel (NASDAQ:INTC) and TSMC are considering a joint venture, arguing that such a move would not be successful given fundamental differences in operations.",
-                "publication_date": "2025-04-04T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.8112",
-                "source": "Investing.com",
-                "ticker": "INTC",
-                "title": "Citi says reported Intel-TSMC JV would be 'the wrong move'",
-                "url": "https://finance.yahoo.com/news/citi-says-reported-intel-tsmc-141910028.html"
-            },
-            {
-                "headline": "(Bloomberg) -- There\u2019s virtually nowhere to hide for many US technology companies under President Donald Trump\u2019s new tariff regime, the harshest in a century.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Would \u2018Transportation Abundance\u2019 Look Like?After Thursday\u2019s slump wiped $1.4",
-                "publication_date": "2025-04-04T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.7705",
-                "source": "Bloomberg",
-                "ticker": "INTC",
-                "title": "\u2018Worst-Case Scenario\u2019 for Tech Wipes $1.4 Trillion from Nasdaq",
-                "url": "https://finance.yahoo.com/news/worst-case-scenario-tech-wipes-081406416.html"
-            },
-            {
-                "headline": "As part of today's Market Minute, Madison Mills outlines the top stories of the trading day. Intel (INTC) stock plunges as US\u2013China trade war tensions intensify. Dell Technologies (DELL) stock extends losses as Morgan Stanley (MS) analysts raise concerns about tariff impacts. Chinese tech stocks, like Alibaba (BABA), PDD Holdings (PDD), and JD.com (JD), tumble as China retaliates against Trump's new tariffs. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
-                "publication_date": "2025-04-04T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.6705",
-                "source": "Yahoo Finance Video",
-                "ticker": "INTC",
-                "title": "Intel, Dell, Chinese tech stocks fall: Market Minute",
-                "url": "https://finance.yahoo.com/video/intel-dell-chinese-tech-stocks-151645306.html"
-            }
-        ],
-        "avgScore": 0.08037058823529414,
-        "pctChange": -0.014105827771514435
-    },
-    "4 3 2025": {
-        "importantArticles": [
-            {
-                "headline": "Intel (NASDAQ: INTC) stock posted gains despite big sell-offs for the broader market Thursday.  The semiconductor company's share price closed out the day up 2.1% and had been up as much as 8.7% earlier in trading.  Meanwhile, the S&P 500 fell 4.9% in the session, and the Nasdaq Composite ended the day down 6%.",
-                "publication_date": "2025-04-03T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.5574",
-                "source": "Motley Fool",
-                "ticker": "INTC",
-                "title": "Why Intel Stock Jumped in a Brutal Day for the Market",
-                "url": "https://finance.yahoo.com/news/why-intel-stock-jumped-brutal-211930981.html"
-            },
-            {
-                "headline": "Shares of Intel (INTC) rose late Thursday following a report from The Information that the chip giant has reached a tentative deal with TSMC (TSM) to form a joint venture. Learn the details of the report in the video above.&nbsp; To watch more expert insights and analysis on the latest market action, check out more Asking for a Trend here.",
-                "publication_date": "2025-04-03T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.3818",
-                "source": "Yahoo Finance Video",
-                "ticker": "INTC",
-                "title": "Intel stock rises on report of TSMC deal",
-                "url": "https://finance.yahoo.com/video/intel-stock-rises-report-tsmc-210339062.html"
-            },
-            {
-                "headline": "Intel and TSMC have tentatively agreed to form a joint venture that would run the U.S. company\u2019s foundry business, The Information reported Thursday.",
-                "publication_date": "2025-04-03T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.2732",
-                "source": "Investopedia",
-                "ticker": "INTC",
-                "title": "Intel, TSMC Set To Form Chipmaking Joint Venture in the US, Report Says",
-                "url": "https://finance.yahoo.com/news/intel-tsmc-set-form-chipmaking-203855803.html"
-            },
-            {
-                "headline": "Intel and TSMC have tentatively agreed to form a joint venture that would run the U.S. company\u2019s foundry business, The Information reported Thursday.",
-                "publication_date": "2025-04-03T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.2732",
-                "source": "Investopedia",
-                "ticker": "INTC",
-                "title": "Intel, TSMC Set To Form Chipmaking Joint Venture in the US, Report Says",
-                "url": "https://finance.yahoo.com/news/intel-tsmc-set-form-chipmaking-203855803.html"
-            },
-            {
-                "headline": "Shares of Intel (INTC) rose late Thursday following a report from The Information that the chip giant has reached a tentative deal with TSMC (TSM) to form a joint venture. Learn the details of the report in the video above.&nbsp; To watch more expert insights and analysis on the latest market action, check out more Asking for a Trend here.",
-                "publication_date": "2025-04-03T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.3818",
-                "source": "Yahoo Finance Video",
-                "ticker": "INTC",
-                "title": "Intel stock rises on report of TSMC deal",
-                "url": "https://finance.yahoo.com/video/intel-stock-rises-report-tsmc-210339062.html"
-            },
-            {
-                "headline": "Intel (NASDAQ: INTC) stock posted gains despite big sell-offs for the broader market Thursday.  The semiconductor company's share price closed out the day up 2.1% and had been up as much as 8.7% earlier in trading.  Meanwhile, the S&P 500 fell 4.9% in the session, and the Nasdaq Composite ended the day down 6%.",
-                "publication_date": "2025-04-03T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.5574",
-                "source": "Motley Fool",
-                "ticker": "INTC",
-                "title": "Why Intel Stock Jumped in a Brutal Day for the Market",
-                "url": "https://finance.yahoo.com/news/why-intel-stock-jumped-brutal-211930981.html"
-            }
-        ],
-        "avgScore": 0.4041333333333334,
-        "pctChange": -0.1150245157647507
-    },
-    "coef": -0.5428571428571428,
-    "avgCoef": 0.012205902058537239,
+    "coef": -0.049450549450549455,
+    "avgCoef": -0.030804157502109065,
     "similar": {
-        "TAL": 0.15714285714285714,
-        "PSLV": -0.024999999999999998,
-        "NGD": -0.03214285714285714,
-        "HL": -0.06071428571428571
+        "VZ": 0.4835164835164835,
+        "NOK": 0.46703296703296704,
+        "KO": 0.4505494505494505,
+        "NGD": 0.43956043956043955
     }
 }

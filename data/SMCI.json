@@ -2,6 +2,16 @@
     "4 25 2025": {
         "importantArticles": [
             {
+                "headline": "The latest trading day saw Super Micro Computer (SMCI) settling at $36.43, representing a +1.73% change from its previous close.",
+                "publication_date": "2025-04-25T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5994",
+                "source": "Zacks",
+                "ticker": "SMCI",
+                "title": "Super Micro Computer (SMCI) Surpasses Market Returns: Some Facts Worth Knowing",
+                "url": "https://finance.yahoo.com/news/super-micro-computer-smci-surpasses-214517529.html"
+            },
+            {
                 "headline": "Investing.com -- On Friday, Citi initiated coverage of Super Micro Computer (NASDAQ:SMCI) with a Neutral rating and $39 target price.",
                 "publication_date": "2025-04-25T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -20,16 +30,6 @@
                 "ticker": "SMCI",
                 "title": "Why Super Micro Computer Stock Is Down Today",
                 "url": "https://finance.yahoo.com/news/why-super-micro-computer-stock-173659893.html"
-            },
-            {
-                "headline": "Reddit could eclipse the AI server-maker's valuation by 2027.",
-                "publication_date": "2025-04-25T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Motley Fool",
-                "ticker": "SMCI",
-                "title": "Prediction: 1 Stock That Will Be Worth More Than Super Micro Computer 2 Years From Now",
-                "url": "https://finance.yahoo.com/news/prediction-1-stock-worth-more-095500409.html"
             },
             {
                 "headline": "The server company risks losing out to rivals in Asia, who have caught up technologically, Citi Research says.",
@@ -62,7 +62,7 @@
                 "url": "https://finance.yahoo.com/news/why-super-micro-computer-stock-173659893.html"
             }
         ],
-        "avgScore": 0.10735000000000003,
+        "avgScore": 0.20576,
         "pctChange": 0.01757815472748384
     },
     "4 24 2025": {
@@ -98,16 +98,6 @@
                 "url": "https://finance.yahoo.com/news/investors-buy-smci-stock-19-153400895.html"
             },
             {
-                "headline": "We recently published a list of These 10 Firms Topped Wednesday\u2019s Trading. In this article, we are going to take a look at where Super Micro Computer Inc. (NASDAQ:SMCI) stands against other firms that topped Wednesday\u2019s trading. Wall Street\u2019s major indices rebounded anew on Wednesday as worries about tariff policies and the Federal Reserve\u2019s independence [\u2026]",
-                "publication_date": "2025-04-24T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.2732",
-                "source": "Insider Monkey",
-                "ticker": "SMCI",
-                "title": "Why Super Micro Computer Inc. (SMCI) Went Up On Wednesday",
-                "url": "https://finance.yahoo.com/news/why-super-micro-computer-inc-222633064.html"
-            },
-            {
                 "headline": "We recently published a list of Louis Navellier\u2019s 10 Stock Picks with Huge Upside Potential. In this article, we are going to take a look at where Super Micro Computer, Inc. (NASDAQ:SMCI) stands against other Louis Navellier\u2019s stock picks with huge upside potential. Navellier & Associates is an independent money management firm founded in 1987 by [\u2026]",
                 "publication_date": "2025-04-24T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -126,9 +116,19 @@
                 "ticker": "SMCI",
                 "title": "Should Investors Buy SMCI Stock After a 19% Decline in a Month?",
                 "url": "https://finance.yahoo.com/news/investors-buy-smci-stock-19-153400895.html"
+            },
+            {
+                "headline": "The United States market has shown resilience with a 2.3% climb over the past week and a 5.9% increase over the last year, while earnings are forecast to grow by 14% annually. In this context of steady growth, identifying high-growth tech stocks involves looking for companies that demonstrate strong innovation potential and adaptability to evolving market trends.",
+                "publication_date": "2025-04-24T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.9118",
+                "source": "Simply Wall St.",
+                "ticker": "SMCI",
+                "title": "High Growth Tech Stocks in the US to Watch This April 2025",
+                "url": "https://finance.yahoo.com/news/high-growth-tech-stocks-us-113804805.html"
             }
         ],
-        "avgScore": 0.7591600000000001,
+        "avgScore": 0.88065,
         "pctChange": 0.018430601008141038
     },
     "4 23 2025": {
@@ -184,17 +184,17 @@
                 "url": "https://finance.yahoo.com/news/coherent-rocket-lab-super-micro-185004257.html"
             },
             {
-                "headline": "Wall Street's hottest trend -- artificial intelligence -- is expected to yield triple-digit returns for three game-changing companies.",
+                "headline": "We recently published a list of These 10 Firms Topped Wednesday\u2019s Trading. In this article, we are going to take a look at where Super Micro Computer Inc. (NASDAQ:SMCI) stands against other firms that topped Wednesday\u2019s trading. Wall Street\u2019s major indices rebounded anew on Wednesday as worries about tariff policies and the Federal Reserve\u2019s independence [\u2026]",
                 "publication_date": "2025-04-23T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.4767",
-                "source": "Motley Fool",
+                "sentimentScore": "0.2732",
+                "source": "Insider Monkey",
                 "ticker": "SMCI",
-                "title": "3 Artificial Intelligence (AI) Stocks That Can Skyrocket Up to 232%, According to Select Wall Street Analysts",
-                "url": "https://finance.yahoo.com/news/3-artificial-intelligence-ai-stocks-070600644.html"
+                "title": "Why Super Micro Computer Inc. (SMCI) Went Up On Wednesday",
+                "url": "https://finance.yahoo.com/news/why-super-micro-computer-inc-222633064.html"
             }
         ],
-        "avgScore": 0.4866,
+        "avgScore": 0.45103333333333334,
         "pctChange": 0.08844983928414485
     },
     "4 22 2025": {
@@ -342,6 +342,26 @@
                 "url": "https://finance.yahoo.com/news/shortsellers-targeted-wider-range-companies-120602219.html"
             },
             {
+                "headline": "In the most recent trading session, Super Micro Computer (SMCI) closed at $31.51, indicating a -1.21% shift from the previous trading day.",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5994",
+                "source": "Zacks",
+                "ticker": "SMCI",
+                "title": "Super Micro Computer (SMCI) Stock Declines While Market Improves: Some Information for Investors",
+                "url": "https://finance.yahoo.com/news/super-micro-computer-smci-stock-214517532.html"
+            },
+            {
+                "headline": "In the most recent trading session, Super Micro Computer (SMCI) closed at $31.51, indicating a -1.21% shift from the previous trading day.",
+                "publication_date": "2025-04-17T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5994",
+                "source": "Zacks",
+                "ticker": "SMCI",
+                "title": "Super Micro Computer (SMCI) Stock Declines While Market Improves: Some Information for Investors",
+                "url": "https://finance.yahoo.com/news/super-micro-computer-smci-stock-214517532.html"
+            },
+            {
                 "headline": "Shortsellers targeted a wider range of equity sectors in March before U.S. President Donald Trump's April 2 \"Liberation Day\" tariff announcement and raised negative bets on a cluster of big tech stocks, data and tech firm Hazeltree said on Thursday.  Super Micro Computer emerged as the most crowded security, knocking oil and gas producer Chevron off the top spot, a position it had held for the past two months, the report showed.  Tech stocks had previously dominated the list of the top 10 most shorted U.S. large caps.",
                 "publication_date": "2025-04-17T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -352,7 +372,7 @@
                 "url": "https://finance.yahoo.com/news/shortsellers-targeted-wider-range-companies-120602219.html"
             }
         ],
-        "avgScore": 0.6682,
+        "avgScore": 0.6338,
         "pctChange": -0.06347191321715112
     },
     "4 16 2025": {
@@ -546,6 +566,16 @@
                 "url": "https://finance.yahoo.com/news/super-micro-computer-smci-top-194100287.html"
             },
             {
+                "headline": "In the most recent trading session, Super Micro Computer (SMCI) closed at $33.15, indicating a -1.57% shift from the previous trading day.",
+                "publication_date": "2025-04-11T00:00:00.000Z",
+                "sentiment": "Positive",
+                "sentimentScore": "0.5994",
+                "source": "Zacks",
+                "ticker": "SMCI",
+                "title": "Super Micro Computer (SMCI) Stock Sinks As Market Gains: Here's Why",
+                "url": "https://finance.yahoo.com/news/super-micro-computer-smci-stock-214517200.html"
+            },
+            {
                 "headline": "NVIDIA, Broadcom, Marvell, Jabil and Super Micro Computer are included in this Analyst Blog.",
                 "publication_date": "2025-04-11T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -566,16 +596,6 @@
                 "url": "https://finance.yahoo.com/news/super-micro-computer-vs-netapp-135600909.html"
             },
             {
-                "headline": "Let's find out which Infrastructure as a Service provider stock, SMCI or NTAP, is a better bet at present.",
-                "publication_date": "2025-04-11T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.4404",
-                "source": "Zacks",
-                "ticker": "SMCI",
-                "title": "Super Micro Computer vs. NetApp: Which IaaS Stock is a Better Buy?",
-                "url": "https://finance.yahoo.com/news/super-micro-computer-vs-netapp-135600909.html"
-            },
-            {
                 "headline": "NVIDIA, Broadcom, Marvell, Jabil and Super Micro Computer are included in this Analyst Blog.",
                 "publication_date": "2025-04-11T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -586,17 +606,17 @@
                 "url": "https://finance.yahoo.com/news/zacks-analyst-blog-highlights-nvidia-103100892.html"
             },
             {
-                "headline": "We recently published a list of Top 10 Stocks in Ken Griffin\u2019s Portfolio to Buy According to Analysts. In this article, we are going to take a look at where Super Micro Computer, Inc. (NASDAQ:SMCI) stands against other top stocks in Ken Griffin\u2019s portfolio to buy according to analysts. Ken Griffin is one billionaire investor [\u2026]",
+                "headline": "In the most recent trading session, Super Micro Computer (SMCI) closed at $33.15, indicating a -1.57% shift from the previous trading day.",
                 "publication_date": "2025-04-11T00:00:00.000Z",
                 "sentiment": "Positive",
-                "sentimentScore": "0.7579",
-                "source": "Insider Monkey",
+                "sentimentScore": "0.5994",
+                "source": "Zacks",
                 "ticker": "SMCI",
-                "title": "Is Super Micro Computer (SMCI) the Top Stock in Ken Griffin\u2019s Portfolio to Buy According to Analysts?",
-                "url": "https://finance.yahoo.com/news/super-micro-computer-smci-top-194100287.html"
+                "title": "Super Micro Computer (SMCI) Stock Sinks As Market Gains: Here's Why",
+                "url": "https://finance.yahoo.com/news/super-micro-computer-smci-stock-214517200.html"
             }
         ],
-        "avgScore": 0.5992333333333333,
+        "avgScore": 0.599275,
         "pctChange": -0.0009050555841066486
     },
     "4 10 2025": {
@@ -1050,26 +1070,6 @@
                 "url": "https://finance.yahoo.com/news/supermicro-appoints-independent-director-general-130500952.html"
             },
             {
-                "headline": "We recently published a list of 14 AI News and Ratings Making Waves on Wall Street. In this article, we are going to take a look at where Super Micro Computer, Inc. (NASDAQ:SMCI) stands against other AI news and ratings making waves on Wall Street. According to a Fortune Business Insights report, the global data [\u2026]",
-                "publication_date": "2025-03-31T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.5994",
-                "source": "Insider Monkey",
-                "ticker": "SMCI",
-                "title": "Super Micro (SMCI) Introduces Single-Socket Servers: Cutting Costs and Boosting AI Performance",
-                "url": "https://finance.yahoo.com/news/super-micro-smci-introduces-single-221402320.html"
-            },
-            {
-                "headline": "We recently published a list of 14 AI News and Ratings Making Waves on Wall Street. In this article, we are going to take a look at where Super Micro Computer, Inc. (NASDAQ:SMCI) stands against other AI news and ratings making waves on Wall Street. According to a Fortune Business Insights report, the global data [\u2026]",
-                "publication_date": "2025-03-31T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.5994",
-                "source": "Insider Monkey",
-                "ticker": "SMCI",
-                "title": "Super Micro (SMCI) Introduces Single-Socket Servers: Cutting Costs and Boosting AI Performance",
-                "url": "https://finance.yahoo.com/news/super-micro-smci-introduces-single-221402320.html"
-            },
-            {
                 "headline": "SAN JOSE, Calif., March 31, 2025--Super Micro Computer, Inc. (NASDAQ: SMCI) (\"Supermicro\" or the \"Company\"), a Total IT Solution Provider for AI, Cloud, Storage, and 5G/Edge, today announced enhancements to its Board of Directors and senior leadership team to support the continued execution of its growth strategy, with the appointments of:",
                 "publication_date": "2025-03-31T00:00:00.000Z",
                 "sentiment": "Positive",
@@ -1090,7 +1090,7 @@
                 "url": "https://finance.yahoo.com/news/super-micro-computer-inc-smci-131623390.html"
             }
         ],
-        "avgScore": 0.7701333333333333,
+        "avgScore": 0.8554999999999999,
         "pctChange": 0.0236564695936668
     },
     "3 28 2025": {
@@ -1271,12 +1271,12 @@
         "avgScore": 0.58916,
         "pctChange": -0.06263497941361183
     },
-    "coef": -0.09768492377188029,
-    "avgCoef": -0.0037246405781131823,
+    "coef": -0.07735742518351214,
+    "avgCoef": -0.015823073145443775,
     "similar": {
-        "NU": 0.21513269339356297,
-        "GOOGL": 0.15640880858272163,
-        "BTG": 0.1552795031055901,
-        "GOOG": 0.12704686617730096
+        "NU": 0.2173913043478261,
+        "GOOGL": 0.17334839073969513,
+        "GOOG": 0.14737436476566912,
+        "CLSK": 0.13495200451722192
     }
 }

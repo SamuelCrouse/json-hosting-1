@@ -25,11 +25,11 @@
         "avgScore": -0.296,
         "pctChange": 0.014102519741974861
     },
-    "4 23 2025": {
+    "4 22 2025": {
         "importantArticles": [
             {
                 "headline": "We recently compiled a list of Billionaire Prem Watsa\u2019s 10 Stock Picks With Highest Potential. In this article, we are going to take a look at where Cleveland-Cliffs Inc. (NYSE:CLF) stands against Prem Watsa\u2019s other stock picks. Momentum and technology stocks have dominated the markets over the past decade. They have been the catalyst behind valuations [\u2026]",
-                "publication_date": "2025-04-23T00:00:00.000Z",
+                "publication_date": "2025-04-22T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
                 "source": "Insider Monkey",
@@ -39,7 +39,7 @@
             },
             {
                 "headline": "We recently compiled a list of Billionaire Prem Watsa\u2019s 10 Stock Picks With Highest Potential. In this article, we are going to take a look at where Cleveland-Cliffs Inc. (NYSE:CLF) stands against Prem Watsa\u2019s other stock picks. Momentum and technology stocks have dominated the markets over the past decade. They have been the catalyst behind valuations [\u2026]",
-                "publication_date": "2025-04-23T00:00:00.000Z",
+                "publication_date": "2025-04-22T00:00:00.000Z",
                 "sentiment": "Neutral",
                 "sentimentScore": "0.0",
                 "source": "Insider Monkey",
@@ -49,7 +49,7 @@
             }
         ],
         "avgScore": 0.0,
-        "pctChange": 0.04907160310756169
+        "pctChange": 0.041436491742945246
     },
     "4 17 2025": {
         "importantArticles": [
@@ -457,78 +457,12 @@
         "avgScore": -0.5267,
         "pctChange": -0.08681666372625602
     },
-    "3 26 2025": {
-        "importantArticles": [
-            {
-                "headline": "We recently published a list of the 10 Best US Stocks Under $10 to Buy Right Now. In this article, we are going to take a look at where Cleveland-Cliffs Inc. (NYSE:CLF) stands against other US stocks under $10 to buy right now. On March 12, Stephanie Guild of Robinhood and Marci McGregor of Bank [\u2026]",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6369",
-                "source": "Insider Monkey",
-                "ticker": "CLF",
-                "title": "Is Cleveland-Cliffs Inc. (NYSE:CLF) the Best US Stock Under $10 to Buy Right Now?",
-                "url": "https://finance.yahoo.com/news/cleveland-cliffs-inc-nyse-clf-143839073.html"
-            },
-            {
-                "headline": "While CLF benefits from its vertically integrated footprint, cost-saving actions and the Stelco buyout, weaker prices cast a pall on its prospects.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.2263",
-                "source": "Zacks",
-                "ticker": "CLF",
-                "title": "CLF Stock Trades Near 52-Week Low: Should You Buy, Hold or Sell?",
-                "url": "https://finance.yahoo.com/news/clf-stock-trades-near-52-122600492.html"
-            },
-            {
-                "headline": "Cleveland-Cliffs (CLF) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "CLF",
-                "title": "Cleveland-Cliffs (CLF) Down 12.9% Since Last Earnings Report: Can It Rebound?",
-                "url": "https://finance.yahoo.com/news/cleveland-cliffs-clf-down-12-153015305.html"
-            },
-            {
-                "headline": "More than 1,200 workers across three sites received layoff notices in the past week.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "IEN",
-                "ticker": "CLF",
-                "title": "Cleveland-Cliffs Laying Off Hundreds Amid 'Weak' Auto Market",
-                "url": "https://finance.yahoo.com/news/cleveland-cliffs-laying-off-hundreds-150611799.html"
-            },
-            {
-                "headline": "Cleveland-Cliffs (CLF) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Neutral",
-                "sentimentScore": "0.0",
-                "source": "Zacks",
-                "ticker": "CLF",
-                "title": "Cleveland-Cliffs (CLF) Down 12.9% Since Last Earnings Report: Can It Rebound?",
-                "url": "https://finance.yahoo.com/news/cleveland-cliffs-clf-down-12-153015305.html"
-            },
-            {
-                "headline": "While CLF benefits from its vertically integrated footprint, cost-saving actions and the Stelco buyout, weaker prices cast a pall on its prospects.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.2263",
-                "source": "Zacks",
-                "ticker": "CLF",
-                "title": "CLF Stock Trades Near 52-Week Low: Should You Buy, Hold or Sell?",
-                "url": "https://finance.yahoo.com/news/clf-stock-trades-near-52-122600492.html"
-            }
-        ],
-        "avgScore": 0.2158,
-        "pctChange": 0.020787699479913626
-    },
-    "coef": 0.18921903639263982,
-    "avgCoef": -0.015018221286923086,
+    "coef": 0.17606619132183343,
+    "avgCoef": -0.027329984728561272,
     "similar": {
-        "NKE": 0.5126515753428498,
-        "UAA": 0.48184847639521067,
-        "PONY": 0.4708473696281968,
-        "HBAN": 0.385038736845488
+        "NKE": 0.5419537451625185,
+        "PONY": 0.4704268549380237,
+        "HBAN": 0.4704268549380237,
+        "C": 0.40165099895293255
     }
 }

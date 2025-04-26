@@ -1285,78 +1285,12 @@
         "avgScore": 0.4088,
         "pctChange": -0.02818595502468903
     },
-    "3 26 2025": {
-        "importantArticles": [
-            {
-                "headline": "Sally Beauty partners with Uber Eats to offer fast, flexible delivery of hair and nail essentials. Customers will get 50% off orders of $50 or more through March 31.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6908",
-                "source": "Zacks",
-                "ticker": "UBER",
-                "title": "Is SBH-Uber Eats Partnership a Game-Changer for On-Demand Beauty?",
-                "url": "https://finance.yahoo.com/news/sbh-uber-eats-partnership-game-145500082.html"
-            },
-            {
-                "headline": "The initiative is Uber Eats' first partnership in the national beauty sector.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.5859",
-                "source": "Retail Insight Network",
-                "ticker": "UBER",
-                "title": "Uber Eats and Sally Beauty launch US on-demand beauty supply delivery",
-                "url": "https://finance.yahoo.com/news/uber-eats-sally-beauty-launch-121807194.html"
-            },
-            {
-                "headline": "(Bloomberg) -- Engine Capital has taken a stake in Lyft Inc. and is pushing for a strategic review of the ride-hailing app, according to a letter reviewed by Bloomberg News. Most Read from BloombergGold-Rush Fever Returns to Historic New Zealand Mining TownWhat Frank Lloyd Wright Learned From the DesertBank Regulators Fight for Desks as OCC Returns to New York TowerThese US Bridges Face High Risk of Catastrophic Ship StrikesCharter Schools, Colleges Push Muni Debt Distress Near RecordThe activis",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.9153",
-                "source": "Bloomberg",
-                "ticker": "UBER",
-                "title": "Engine Capital Is Pushing\u00a0For Strategic Review Of Lyft",
-                "url": "https://finance.yahoo.com/news/engine-capital-pushing-strategic-review-171049380.html"
-            },
-            {
-                "headline": "(Bloomberg) -- Engine Capital has taken a stake in Lyft Inc. and is pushing for a strategic review of the ride-hailing app, according to a letter reviewed by Bloomberg News. Most Read from BloombergGold-Rush Fever Returns to Historic New Zealand Mining TownWhat Frank Lloyd Wright Learned From the DesertBank Regulators Fight for Desks as OCC Returns to New York TowerThese US Bridges Face High Risk of Catastrophic Ship StrikesCharter Schools, Colleges Push Muni Debt Distress Near RecordThe activis",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Negative",
-                "sentimentScore": "-0.9153",
-                "source": "Bloomberg",
-                "ticker": "UBER",
-                "title": "Engine Capital Is Pushing\u00a0For Strategic Review Of Lyft",
-                "url": "https://finance.yahoo.com/news/engine-capital-pushing-strategic-review-171049380.html"
-            },
-            {
-                "headline": "The initiative is Uber Eats' first partnership in the national beauty sector.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.5859",
-                "source": "Retail Insight Network",
-                "ticker": "UBER",
-                "title": "Uber Eats and Sally Beauty launch US on-demand beauty supply delivery",
-                "url": "https://finance.yahoo.com/news/uber-eats-sally-beauty-launch-121807194.html"
-            },
-            {
-                "headline": "Sally Beauty partners with Uber Eats to offer fast, flexible delivery of hair and nail essentials. Customers will get 50% off orders of $50 or more through March 31.",
-                "publication_date": "2025-03-26T00:00:00.000Z",
-                "sentiment": "Positive",
-                "sentimentScore": "0.6908",
-                "source": "Zacks",
-                "ticker": "UBER",
-                "title": "Is SBH-Uber Eats Partnership a Game-Changer for On-Demand Beauty?",
-                "url": "https://finance.yahoo.com/news/sbh-uber-eats-partnership-game-145500082.html"
-            }
-        ],
-        "avgScore": 0.12046666666666665,
-        "pctChange": 0.009166895421653637
-    },
-    "coef": 0.11914172783738003,
-    "avgCoef": -0.013045984160313486,
+    "coef": 0.12077922077922078,
+    "avgCoef": -0.022296780582469627,
     "similar": {
-        "VZ": 0.5821569734613213,
-        "PG": 0.5640880858272164,
-        "KO": 0.5358554488989272,
-        "VOD": 0.5008469791078487
+        "VZ": 0.6519480519480519,
+        "KO": 0.5688311688311689,
+        "GOLD": 0.49870129870129876,
+        "VOD": 0.4974025974025974
     }
 }
